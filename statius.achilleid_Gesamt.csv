@@ -1,0 +1,1128 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+statius.achilleid,1.1,"magnanimus, aeacide, -ne, formido, tono",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+statius.achilleid,1.2,"progenies, et, patrius, ueto, succedo, caelum",6,"0.0, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+statius.achilleid,1.3,"diuus, refero, quamquam, ago, uir, multus, inclutus, cantus",8,"0.0, NaN, NaN, NaN, 0.5, 0.0, 0.5, 0.0",0.125,0.0,,0.0
+statius.achilleid,1.4,"maeonio, sed, multus, uaco, nos, eo, per, omnis",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.5,"sic, amor, sum, heros, uelis, scyroque, lateo",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+statius.achilleid,1.6,"dulichia, profero, tuba, neque, in, hector, traho",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.7,"sisto, sed, totus, iuuenis, deduco, troia",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.8,"tu, modo, si, uetus, digno, depleo, haurio",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.143
+statius.achilleid,1.9,"do, fons, ego, phoebus, noui, atque, frons, secundus",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.1,"necto, como, neque, enim, aonium, nemus, aduena, pulso",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.11,"neque, meus, nunc, primus, augesco, tempus, uitta",7,"NaN, 0.0, NaN, 0.5, NaN, 0.0, NaN",0.071,0.0,,0.0
+statius.achilleid,1.12,"scio, dircaeus, ager, ego, inter, priscus, parens",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, 0.5",0.071,0.0,dircaeus,0.143
+statius.achilleid,1.13,"nomen, cum, suus, numero, amphio, thebe",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.14,"at, tu, qui, longus, primus, stupeo, itala, uirtus",8,"NaN, NaN, NaN, 0.0, 0.5, NaN, NaN, 1.0",0.188,0.0,tu,0.125
+statius.achilleid,1.15,"graiaque, qui, geminus, floreo, uates, dux",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+statius.achilleid,1.16,"certatim, laurus, olim, doleo, alter, uinco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.17,"do, uenio, atque, trepidus, pateo, hic, sudaris, parumper",8,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.125,-0.125,hic,0.125
+statius.achilleid,1.18,"puluis, tu, longus, necdum, fido, paro",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.167
+statius.achilleid,1.19,"molio, magnus, tu, praeludo, achilles",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"tu, achilles",0.4
+statius.achilleid,1.2,"soluo, oebalio, classis, de, litus, pastor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,classis,0.167
+statius.achilleid,1.21,"dardanus, incautus, blandus, populo, amyclas",5,"NaN, -1.0, 0.5, NaN, NaN",-0.1,-0.2,,0.0
+statius.achilleid,1.22,"plenus, maternus, refero, praesagium, somnium",5,"0.0, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+statius.achilleid,1.23,"culpo, relego, iter, qui, condio, pontus",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.24,"fluctus, inuideo, iam, nereis, impero, helle",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.25,"cum, thetis, idaeos, heu, numquam, uanus, parens",7,"NaN, NaN, NaN, NaN, NaN, -0.5, 0.5",0.0,-0.071,"thetis, heu, uanus",0.429
+statius.achilleid,1.26,"augurium, expauesco, uitreus, sub, gurges, remus",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,gurges,0.167
+statius.achilleid,1.27,"neque, mora, et, undosus, turba, comito, soror",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.28,"prosilio, thalamus, ferueo, coeo, phrixi",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.29,"litus, et, angustus, domina, non, explico, aequor",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.3,"ille, ubi, discutio, primus, subeo, aes, pontus",7,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0",0.071,0.0,,0.0
+statius.achilleid,1.31,"ego, peto, hic, ego, classis, aio, funestus, mino",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,"hic, classis, funestus",0.375
+statius.achilleid,1.32,"agnosco, moneo, et, protea, uerus, loquor",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+statius.achilleid,1.33,"ecce, nouus, priamo, fax, de, puppis, leuo",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,"priamo, fax",0.286
+statius.achilleid,1.34,"fero, bellona, nurum, uideo, iam, mille, carina",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"bellona, nurum",0.286
+statius.achilleid,1.35,"ionium, aegaeumque, premo, neque, sufficio, omnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.36,"qui, plaga, graiugenum, tumidus, coniuro, atridis",6,"NaN, 0.0, NaN, -0.5, NaN, NaN",-0.083,-0.083,coniuro,0.167
+statius.achilleid,1.37,"iam, pelagus, terra, meus, quaero, achilles",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,achilles,0.167
+statius.achilleid,1.38,"et, uolo, ipse, sequor, quis, enim, cunabula, paruus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.39,"pelion, et, toruus, committo, antrum, magister",6,"NaN, NaN, NaN, NaN, 0.0, 0.5",0.083,0.0,,0.0
+statius.achilleid,1.4,"illic, ni, fallo, lapitharis, proelio, ludo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fallo,0.167
+statius.achilleid,1.41,"improbus, et, patria, iam, sui, metior, in, hasta",8,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.125,-0.125,improbus,0.125
+statius.achilleid,1.42,"o, dolor, o, sero, maternus, in, cor, timor",8,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN, -0.5",-0.188,-0.188,,0.0
+statius.achilleid,1.43,"non, possum, infelix, cum, primus, gurges, noster",7,"NaN, NaN, -1.0, NaN, 0.5, NaN, NaN",-0.071,-0.143,"infelix, gurges",0.286
+statius.achilleid,1.44,"rhoeteae, cado, trabs, attollo, magnus",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.45,"aequor, et, incestus, praedo, uelo, profundus",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"incestus, profundus",0.333
+statius.achilleid,1.46,"tempestas, sequor, cuncto, infero, soror",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.47,"nunc, quoque, sed, tardus, iam, plenus, iniuria, rapio",8,"NaN, NaN, NaN, NaN, NaN, 0.0, -1.0, NaN",-0.125,-0.125,,0.0
+statius.achilleid,1.48,"eo, tamen, pelagius, deus, dexter, secundus",6,"NaN, NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.49,"qui, supersum, complector, io, per, tethyos, annus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.5,"grandaeuus, pater, supplex, misero, rogo",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,misero,0.2
+statius.achilleid,1.51,"unus, hiems, dico, magnus, in, tempus, rex",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.52,"aspicio, oceanus, uenio, ab, hospes, mensis",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.53,"laetus, et, aequoreus, diffundo, nectaris, uultus",6,"1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+statius.achilleid,1.54,"unde, hiemo, uenio, sileo, cano, quiesco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.55,"armiger, tritones, eo, scopulosus, cetus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.56,"tyrrhenique, grex, circum, intro, roto",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.57,"rex, saluto, placidus, ipse, arduus, unda",6,"0.0, NaN, 1.0, NaN, NaN, 0.0",0.167,0.0,,0.0
+statius.achilleid,1.58,"emineo, et, triplex, telum, iubeo, eo, iugalis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,iugalis,0.143
+statius.achilleid,1.59,"ille, spumifer, glomero, ab, pectus, curro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.6,"pono, nato, deleo, pes, uestigium, cauda",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.61,"cum, thetis, o, magnus, genitor, rector, profundo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,thetis,0.143
+statius.achilleid,1.62,"aspicio, in, qualis, miser, patefacio, utor",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,miser,0.167
+statius.achilleid,1.63,"aequor, eo, tueor, terra, crimen, uelis",6,"0.0, NaN, NaN, 0.0, -1.0, NaN",-0.167,-0.167,crimen,0.167
+statius.achilleid,1.64,"ex, quo, ius, fretus, maiestas, re-pono",6,"NaN, NaN, 0.5, 0.5, NaN, NaN",0.167,0.0,,0.0
+statius.achilleid,1.65,"rumpo, iasonia, puppis, pagasaea, rapina",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,rapina,0.2
+statius.achilleid,1.66,"en, alius, furtum, scelus, et, spolium, hospita, porto",8,"NaN, NaN, -1.0, -1.0, NaN, NaN, 0.5, NaN",-0.188,-0.25,"furtum, scelus, hospita",0.375
+statius.achilleid,1.67,"nauigo, iniustus, temerarius, arbiter, idas",5,"NaN, -1.0, -1.0, NaN, NaN",-0.4,-0.4,"iniustus, temerarius",0.4
+statius.achilleid,1.68,"eheu, qui, gemitus, terra, caelo, do",6,"NaN, NaN, -0.5, 0.0, NaN, NaN",-0.083,-0.083,,0.0
+statius.achilleid,1.69,"qui, ego, sic, phrygiae, penso, gaudium, palma",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+statius.achilleid,1.7,"hic, uenio, mos, hic, gratus, munus, alumna",7,"NaN, NaN, 0.5, NaN, 1.0, 0.5, 0.0",0.286,0.0,"hic, hic",0.286
+statius.achilleid,1.71,"hic, saltem, num, semideus, noster, reporto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+statius.achilleid,1.72,"theseus, si, quis, adhuc, unda, honor, obruo, puppis",8,"NaN, NaN, NaN, NaN, 0.0, 1.0, NaN, NaN",0.125,0.0,,0.0
+statius.achilleid,1.73,"aut, permitto, fretus, nullus, inclemens, fas, sum",7,"NaN, NaN, 0.5, NaN, -1.0, NaN, NaN",-0.071,-0.143,,0.0
+statius.achilleid,1.74,"pro, natus, timeo, ego, do, pello, luctus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+statius.achilleid,1.75,"neque, tu, de, tantus, placeo, ego, fluctus, unus",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.125
+statius.achilleid,1.76,"litus, et, iliacus, scopulus, habito, sepulcrum",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,sepulcrum,0.167
+statius.achilleid,1.77,"oro, lanio, gena, et, pectus, nudus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"lanio, gena",0.333
+statius.achilleid,1.78,"caeruleus, obsto, equus, sed, rector, aqua",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.79,"inuito, currus, dico, ita, mulceo, amicus",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+statius.achilleid,1.8,"ne, peto, dardaniam, frustra, theti, mergo, classis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"theti, classis",0.286
+statius.achilleid,1.81,"fatum, ueto, reor, ordo, deus, misceo, cruento",7,"0.0, NaN, NaN, 0.5, 0.0, NaN, NaN",0.071,0.0,cruento,0.143
+statius.achilleid,1.82,"europamque, asia, manus, consulo, bellum",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.83,"iuppiter, et, tristis, edico, caedes, annus",6,"NaN, NaN, -1.0, NaN, -0.5, 0.0",-0.25,-0.25,caedes,0.167
+statius.achilleid,1.84,"qui, tu, illic, natus, sigeo, in, puluis, quantus",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.125
+statius.achilleid,1.85,"aspicio, uictrix, phrygiaris, funero, mater",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.86,"cum, tuus, aeacides, tepidus, modo, sanguis, teucer",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"aeacides, teucer",0.286
+statius.achilleid,1.87,"undo, campus, modo, crassus, exeo, ueto",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.88,"flumen, et, hectoreo, tardo, funus, currus",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+statius.achilleid,1.89,"impelletque, manus, noster, opus, irrito, murus",6,"NaN, 0.0, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.9,"pelea, iam, desisto, queror, thalamus, paruus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.91,"credo, pario, ioui, neque, inultus, doleo",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,inultus,0.167
+statius.achilleid,1.92,"cognatus, utor, fretus, do, tollo, fluctus",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,,0.0
+statius.achilleid,1.93,"cum, reduco, danai, nocturnus, signum, caphereus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,danai,0.167
+statius.achilleid,1.94,"exsero, et, dirus, pariter, quaero, ulixes, -ne",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,dirus,0.143
+statius.achilleid,1.95,"dico, ille, grauis, uultus, demitto, repello",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+statius.achilleid,1.96,"qui, iam, excio, fretus, et, ratis, bellaris, paro",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+statius.achilleid,1.97,"iliacus, alius, animus, commento, paro",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+statius.achilleid,1.98,"tristis, ad, haemonias, detorqueo, bracchium, terra",6,"-1.0, NaN, NaN, NaN, NaN, 0.0",-0.167,-0.167,,0.0
+statius.achilleid,1.99,"ter, conor, manus, liquidus, ter, gressus, aequor",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.1,"repello, et, niueus, ferio, uado, thessala, planto",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,niueus,0.143
+statius.achilleid,1.101,"laeto, mons, et, conubialis, pando",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.102,"antrum, sinus, fero, dea, spercheos, abundo",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,spercheos,0.167
+statius.achilleid,1.103,"obuius, et, dulcis, uestigium, circumeo, unda",6,"-0.5, NaN, 0.5, NaN, NaN, 0.0",0.0,-0.083,,0.0
+statius.achilleid,1.104,"ille, nihil, gaudeo, locus, sed, coepio, fatigo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.105,"pectus, consilium, et, sollers, pietas, magistro",6,"NaN, 0.5, NaN, 1.0, 1.0, NaN",0.417,0.0,,0.0
+statius.achilleid,1.106,"longaeuus, chirona, peto, domus, arduus, mons",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.107,"perforo, et, longus, suspendo, pelion, arcus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.108,"pars, exhaurio, manus, pars, suus, rumpo, aetas",7,"0.0, NaN, 0.0, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.109,"signum, tamen, diuus, torus, et, qui, quisque, sacro",8,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.11,"accumbo, genius, locus, monstro, at, intra",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.111,"centaurus, stabulum, altus, pateo, non, aequus, nefandus",7,"NaN, NaN, 0.5, NaN, NaN, 0.5, -1.0",0.0,-0.143,nefandus,0.143
+statius.achilleid,1.112,"frater, hic, homo, nullus, experior, cruor",6,"0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"hic, cruor",0.333
+statius.achilleid,1.113,"spiculum, neque, truncus, bellum, genial, ornus",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.114,"aut, consanguineus, frango, crater, in, hostis",6,"NaN, 0.0, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+statius.achilleid,1.115,"sed, pharetra, insons, et, inanis, tergum, ferus",7,"NaN, NaN, 1.0, NaN, NaN, NaN, -1.0",0.0,-0.143,"insons, ferus",0.286
+statius.achilleid,1.116,"hic, quoque, dum, uiridis, nam, tunc, labor, unus, inermis",9,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, 0.0",-0.056,-0.056,hic,0.111
+statius.achilleid,1.117,"nosco, salutifer, dubius, animo, herba",5,"NaN, NaN, -0.5, NaN, NaN",-0.1,-0.1,,0.0
+statius.achilleid,1.118,"aut, monstraris, lyra, uetus, heros, alumnus",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.119,"et, tunc, uenor, redeo, in, limen, primus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+statius.achilleid,1.12,"opperior, propero, daps, largus, sereno",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.121,"ignis, domus, cum, uideo, procul, de, litus, surgo",8,"0.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.122,"nereis, erumpo, silua, do, gaudium, uireo",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+statius.achilleid,1.123,"nosco, de_-suesco, crepo, senex, ungula, campus",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.124,"tunc, blandus, dextera, atque, imi, demitto, in, armus",8,"NaN, 0.5, 0.0, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+statius.achilleid,1.125,"pauper, tectum, induco, et, admoneo, antrum",6,"-1.0, NaN, NaN, NaN, NaN, 0.0",-0.167,-0.167,,0.0
+statius.achilleid,1.126,"iamdudum, taceo, lustro, thetis, omnis, uideo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,thetis,0.167
+statius.achilleid,1.127,"neque, perpetior, mora, ubi, meus, pignus, chiro, -ne",8,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.128,"dico, aio, aut, cur, ullus, puer, iam, tempus, duco",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.129,"tu, sine, non, mereo, trepidus, sopor, ater, mater",8,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, 0.0",-0.125,-0.125,tu,0.125
+statius.achilleid,1.13,"signum, deus, et, magnus, utinam, mentior, timor",7,"0.0, 0.0, NaN, 0.0, NaN, NaN, -0.5",-0.071,-0.071,,0.0
+statius.achilleid,1.131,"namque, modo, infensus, uterus, ego, contuor, ensis",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+statius.achilleid,1.132,"nunc, plango, liueo, manus, modo, in, uber, saeuus",8,"NaN, NaN, NaN, 0.0, NaN, NaN, 1.0, -1.0",0.0,-0.125,saeuus,0.125
+statius.achilleid,1.133,"eo, ferus, saepe, ipse, nefas, sub, inanis, natus",8,"NaN, -1.0, NaN, NaN, -1.0, NaN, NaN, 0.0",-0.25,-0.25,"ferus, nefas",0.25
+statius.achilleid,1.134,"tartara, et, ad, stygius, iterum, fero, mergo, fons",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.135,"hic, aboleo, metus, magicus, iubeo, ordo, sacer",7,"NaN, NaN, -1.0, NaN, NaN, 0.5, 1.0",0.071,-0.143,hic,0.143
+statius.achilleid,1.136,"carpathius, uates, puer, sub, axis, perago",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.137,"secerno, lustraris, fretus, ubi, litus, summus",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.138,"oceani, et, genitor, tepeo, in-labor, astrum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.139,"pontus, ibi, ignosco, horreo, piaculum, diuus",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.14,"dono, sed, longus, cunctus, enumero, ueto",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.141,"trado, magis, sic, fictum, parens, neque, enim, ille, do",9,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.056,0.0,fictum,0.111
+statius.achilleid,1.142,"si, mollis, habitus, et, tegimen, foedus, fateor",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+statius.achilleid,1.143,"audeo, senex, tunc, ipse, refero, duco, bonus, quaeso",8,"NaN, 0.0, NaN, NaN, NaN, NaN, 1.0, NaN",0.125,0.0,,0.0
+statius.achilleid,1.144,"duco, genetrix, humilis, deus, infringo, preco",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,humilis,0.167
+statius.achilleid,1.145,"nam, supero, tuus, ueto, modus, placo, multus",7,"NaN, NaN, 0.0, NaN, 0.5, NaN, 0.0",0.071,0.0,,0.0
+statius.achilleid,1.146,"inuidia, sum, non, addo, metus, sed, uerus, fateor",8,"-1.0, NaN, NaN, NaN, -1.0, NaN, 0.5, NaN",-0.188,-0.25,inuidia,0.125
+statius.achilleid,1.147,"nescio, quis, magnus, neque, ego, patria, omen, fallo",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,fallo,0.125
+statius.achilleid,1.148,"uolo, festino, paro, tenuis, superuenio, annus",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.149,"olim, et, fero, minae, auidus, audio, soleo",7,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,,0.0
+statius.achilleid,1.15,"imperium, et, noster, procul, haud, discedo, ab, antrum",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.151,"nunc, ille, non, os, capio, non, pelion, ingens",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, -0.5",-0.062,-0.062,,0.0
+statius.achilleid,1.152,"thessaliaeue, nix, ipse, ego, saepe, queror",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.153,"centaurus, rapio, domus, abstraho, coram",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.154,"armentum, et, sui, campus, fluuius, fugaris",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.155,"insidior, et, bellum, paro, tumidus, mino",6,"NaN, NaN, 0.0, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+statius.achilleid,1.156,"olim, equidem, argoos, pinus, cum, thessala, rex",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.157,"hic, ueho, iuuenis, alcide, -ne, et, theseus, uideo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+statius.achilleid,1.158,"sed, taceo, figo, gelidus, nereida, pallor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,pallor,0.167
+statius.achilleid,1.159,"ille, adsum, multus, sudor, et, puluis, magnus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.16,"et, tamen, arma, inter, festino, labor",6,"NaN, NaN, 0.0, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+statius.achilleid,1.161,"dulcis, adhuc, uideo, niueus, nato, ignis, in, os",8,"0.5, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.062,0.0,niueus,0.125
+statius.achilleid,1.162,"purpureus, fuluus, niteo, coma, gratus, aurum",6,"NaN, NaN, NaN, NaN, 1.0, 0.5",0.25,0.0,,0.0
+statius.achilleid,1.163,"necdum, primus, nouo, lanugo, uerto, aetas",6,"NaN, 0.5, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+statius.achilleid,1.164,"tranquillus, fax, oculus, et, multus, uultus",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,fax,0.167
+statius.achilleid,1.165,"mater, insum, qualis, lycia, uenator, apollo",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.166,"cum, redeo, et, saeuus, permuto, plectrum, pharetra",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,saeuus,0.143
+statius.achilleid,1.167,"fors, et, laetus, adsum, o, quantus, gaudium, forma",8,"0.0, NaN, 1.0, NaN, NaN, NaN, 1.0, 1.0",0.375,0.0,,0.0
+statius.achilleid,1.168,"adicio, fetus, pholoes, sub, rupes, leaena",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,leaena,0.167
+statius.achilleid,1.169,"percello, ferrum, uacuus, relinquo, antrum",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.17,"ipse, sed, catulus, apporto, et, incito, unguis",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.171,"qui, tamen, ut, fido, genetrix, in, limen, uideo, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.172,"abicio, excipio, auidus, circumligo, ulna",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.173,"iam, grauis, amplexus, iam, aequus, uertex, mater",7,"NaN, -0.5, NaN, NaN, 0.5, NaN, 0.0",0.0,-0.071,,0.0
+statius.achilleid,1.174,"insequor, magnus, iam, tunc, conecto, amor",6,"NaN, 0.0, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+statius.achilleid,1.175,"patroclus, tantus, extendo, aemulus, ago",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.176,"par, studium, aeuum, modus, sed, robur, longus",7,"0.5, 0.5, NaN, 0.5, NaN, 0.5, 0.0",0.286,0.0,,0.0
+statius.achilleid,1.177,"et, tamen, aequal, uideo, pergama, fatum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,pergama,0.167
+statius.achilleid,1.178,"protinus, ille, subeo, rapidus, qui, propior, saltus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.179,"flumen, fumo, gena, crinis, nouo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,gena,0.2
+statius.achilleid,1.18,"fons, eurotae, qualis, uado, castor, anhelo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.181,"intro, equus, fatisco, suus, iubar, excito, astrion",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.182,"miro, como, senex, nunc, pectus, mulceo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.183,"nunc, fortis, umerus, ango, suus, gaudium, mater",7,"NaN, 0.5, NaN, NaN, NaN, 1.0, 0.0",0.214,0.0,,0.0
+statius.achilleid,1.184,"tunc, libaris, daps, baccheaque, munus, chiro, -ne",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,baccheaque,0.143
+statius.achilleid,1.185,"oro, et, attono, uario, oblectamen, necto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.186,"elicio, exter, chely, -ne, et, solo, cura",7,"NaN, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+statius.achilleid,1.187,"filum, moueo, leuis, experior, polliceo, chorda",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,,0.0
+statius.achilleid,1.188,"do, puer, cano, ille, libet, immanis, laus",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, 1.0",0.143,0.0,immanis,0.143
+statius.achilleid,1.189,"semen, quot, tumidus, supero, iubeo, nouerca",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,nouerca,0.167
+statius.achilleid,1.19,"amphitryoniades, crudus, quo, bebryca, caestus",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,,0.0
+statius.achilleid,1.191,"obruo, pollux, quantus, circumdo, necto",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.192,"rumpo, aegis, minoius, bracchium, taurus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.193,"maternus, in, finis, torus, superus, grauo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.194,"pelion, hic, uinco, rideo, thetis, anxius, uultus",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,"hic, thetis",0.286
+statius.achilleid,1.195,"nox, traho, in, somnus, saxum, collabor, ingens",7,"0.0, NaN, NaN, 0.5, 0.0, NaN, -0.5",0.0,-0.071,,0.0
+statius.achilleid,1.196,"centaurus, blandus, umerus, sui, innecto, achilles",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,achilles,0.167
+statius.achilleid,1.197,"quamquam, ibi, fidus, parens, assuesco, pectus, malo",7,"NaN, NaN, 1.0, 0.5, NaN, NaN, NaN",0.214,0.0,,0.0
+statius.achilleid,1.198,"at, thetis, undisonus, per, nox, in, rupes, asto",8,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,thetis,0.125
+statius.achilleid,1.199,"qui, natus, secerno, uolo, qui, abdo, terra",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.2,"destino, huc, illic, diuido, mens, uoluto",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+statius.achilleid,1.201,"propior, sed, studium, multus, mauortia, thrace",6,"0.0, NaN, 0.5, 0.0, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.202,"nee, macetum, gens, durus, placeo, laus, do",7,"NaN, NaN, 0.0, -0.5, NaN, 1.0, NaN",0.071,-0.071,,0.0
+statius.achilleid,1.203,"cecropidae, stimulus, nimium, opportunus, carina",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,stimulus,0.2
+statius.achilleid,1.204,"sestos, abydenique, sinus, placeo, eo, per, alo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.205,"cycladas, hic, sperno, myconosque, humilis, seriphos",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, humilis",0.333
+statius.achilleid,1.206,"et, lemnos, non, aequus, uis, atque, hospita, delos",8,"NaN, NaN, NaN, 0.5, 1.0, NaN, 0.5, NaN",0.25,0.0,hospita,0.125
+statius.achilleid,1.207,"gens, imbellis, nuper, lycomedis, ab, aula",6,"0.0, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+statius.achilleid,1.208,"uirgineus, coitus, et, litus, persono, ludo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.209,"audio, durus, laxo, aegaeona, necto",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+statius.achilleid,1.21,"mitto, sequor, centum, deus, numeraris, cateno",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,cateno,0.167
+statius.achilleid,1.211,"hic, placeo, hic, timidus, tellus, tueor, mater",7,"NaN, NaN, NaN, -0.5, NaN, NaN, 0.0",-0.071,-0.071,"hic, hic, timidus",0.429
+statius.achilleid,1.212,"qualis, uicinus, uolucris, iam, sedulus, partus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.213,"iam, timeo, qui, frons, domus, suspendo, inanis",7,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.214,"prouideo, hic, uenio, hic, anxius, cogito, anguis",7,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,"hic, hic",0.286
+statius.achilleid,1.215,"hic, homo, tandem, dubius, placeo, umbra, nouus",7,"NaN, 0.0, NaN, -0.5, NaN, NaN, 1.0",0.071,-0.071,hic,0.143
+statius.achilleid,1.216,"uix, sto, in, ramus, et, protinus, arbor, amo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.217,"alter, consilium, supersum, tristis, fatigo",5,"NaN, 0.5, NaN, -1.0, NaN",-0.1,-0.2,,0.0
+statius.achilleid,1.218,"cura, dea, natus, ipse, sinus, complector, per, unda",8,"-1.0, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",-0.125,-0.125,,0.0
+statius.achilleid,1.219,"an, magnus, tero, fero, uenio, uolucris",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.22,"aduoco, an, pelagus, soleo, thaumantida, pascor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.221,"elicio, inde, fretus, et, murex, freno, acuo",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+statius.achilleid,1.222,"delphinas, biiugi, qui, ille, maximus, tethys",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.223,"gurges, atlanteo, pelagus, sub, ualles, sonorus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,gurges,0.167
+statius.achilleid,1.224,"nutrio, nullus, uado, per, neptunia, glaucus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,glaucus,0.167
+statius.achilleid,1.225,"tantus, honor, forma, no, potentia, neque, multus",7,"NaN, 1.0, 1.0, NaN, 0.5, NaN, 0.0",0.357,0.0,,0.0
+statius.achilleid,1.226,"pectus, humanus, iubeo, hic, subsisto, plenus",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.167
+statius.achilleid,1.227,"litus, ne, nudus, noceo, contagium, terra",6,"NaN, NaN, 0.0, NaN, -1.0, 0.0",-0.167,-0.167,noceo,0.167
+statius.achilleid,1.228,"ipse, dehinc, totus, resoluo, pectus, achille, -ne",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.229,"qui, puer, sopor, haemonii, de, rupes, antrum",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,haemonii,0.143
+statius.achilleid,1.23,"ad, placidus, deporto, aqua, et, iubeo, taceo",7,"NaN, 1.0, NaN, 0.0, NaN, NaN, NaN",0.143,0.0,,0.0
+statius.achilleid,1.231,"litus, monstro, iter, totus, ex-fulguro, orbis",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.232,"cynthia, prosequor, diua, celer, recursus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.233,"securus, pelagus, chiro, -ne, rogo, udus, celo",7,"1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.143,0.0,udus,0.143
+statius.achilleid,1.234,"lumen, et, arrepo, subeo, iamiam, lateo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.235,"erigo, prospecto, equus, qui, canus, parumper",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.236,"spumo, signum, fuga, et, liquidus, pereo, orbita, pontus",8,"NaN, 0.0, -0.5, NaN, NaN, NaN, NaN, 0.0",-0.062,-0.062,,0.0
+statius.achilleid,1.237,"ille, non, alius, redeo, ad, thessala, tempe",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.238,"iam, tristis, pholoe, iam, nubilus, ingemo, othrys",7,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+statius.achilleid,1.239,"et, tenuis, spercheos, aqua, spelunca, doceo",6,"NaN, 0.0, NaN, 0.0, 0.0, NaN",0.0,0.0,spercheos,0.167
+statius.achilleid,1.24,"muto, senex, quaero, puerilis, carmen, fauni",6,"NaN, 0.0, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.241,"et, spero, diu, ploro, conubium, nympha",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.242,"iam, premo, astrum, dies, humilis, ex, aequor, titan",8,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,humilis,0.125
+statius.achilleid,1.243,"roro, euoluo, equus, et, ab, aether, magnus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.244,"tollo, currus, pelagus, cado, at, uado, mater",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.245,"scyria, iamdudum, fluctus, emetior, teneo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.246,"exeo, iugum, fatisco, delphin, erilis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.247,"cum, puer, tremefacio, quies, oculus, pateo",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.248,"infundo, sentio, dies, stupeo, aer, primus",6,"NaN, NaN, 0.0, NaN, 0.0, 0.5",0.083,0.0,,0.0
+statius.achilleid,1.249,"qui, locum, qui, fluctus, ubi, pelion, omnis, uerso",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.25,"atque, ignotus, uideo, dubito, agnosco, mater",6,"NaN, -0.5, NaN, NaN, NaN, 0.0",-0.083,-0.083,,0.0
+statius.achilleid,1.251,"occupo, ille, manus, blandus, affor, paueo",6,"NaN, NaN, 0.0, 0.5, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.252,"si, ego, caris, puer, thalamus, sors, aequus, fero",8,"NaN, NaN, NaN, 0.0, NaN, -1.0, 0.5, NaN",-0.062,-0.125,,0.0
+statius.achilleid,1.253,"qui, do, aetherius, ego, tu, complector, teneo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+statius.achilleid,1.254,"sidus, grandis, plaga, magnus, puerpera, caelum",6,"NaN, 0.0, 0.0, 0.0, NaN, 0.5",0.083,0.0,,0.0
+statius.achilleid,1.255,"nihil, humilis, parco, terrenus, fatum, uereor",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,humilis,0.167
+statius.achilleid,1.256,"nunc, impar, tu, natus, genus, praecludo, letum",7,"NaN, -0.5, NaN, 0.0, 0.0, NaN, -1.0",-0.214,-0.214,tu,0.143
+statius.achilleid,1.257,"tantus, ab, mater, uia, sum, quin, et, metuo, propinquo",9,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.258,"tempus, et, exter, admoueo, periculum, metior",6,"0.0, NaN, 0.0, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+statius.achilleid,1.259,"cedo, paulus, animus, summitto, uirilis",5,"NaN, NaN, 0.5, NaN, 0.5",0.2,0.0,,0.0
+statius.achilleid,1.26,"atque, habitus, dignaris, meus, si, lydia, durus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, -0.5",-0.071,-0.071,,0.0
+statius.achilleid,1.261,"pensum, manus, mollis, fero, tirynthius, hasta",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.262,"si, decet, auro, bacchum, uestigium, palla",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.263,"uerro, uirgineus, si, iuppiter, induo, artus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.264,"neque, magnus, ambiguus, frango, caenea, sexus",6,"NaN, 0.0, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+statius.achilleid,1.265,"hic, sine, quaeso, minae, nubis, exeo, malignus",7,"NaN, NaN, NaN, -0.5, NaN, NaN, -1.0",-0.214,-0.214,hic,0.143
+statius.achilleid,1.266,"mox, iterum, campus, iterum, centaurica, reddo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.267,"lustro, tu, per, ego, hic, decus, et, uenio, iuuenta",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, hic",0.222
+statius.achilleid,1.268,"gaudium, si, terra, humilis, experior, maritus",6,"1.0, NaN, 0.0, NaN, NaN, 0.0",0.167,0.0,"humilis, maritus",0.333
+statius.achilleid,1.269,"tu, propter, si, progigno, stygos, amnis, sero",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+statius.achilleid,1.27,"armo, totus, utinam, capio, tueor, parumper",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.271,"tegimen, nihil, noceo, animus, cur, os, redux",7,"NaN, NaN, NaN, 0.5, NaN, 0.0, NaN",0.071,0.0,noceo,0.143
+statius.achilleid,1.272,"quis, paro, oculus, pudeo, hic, mitesco, cultus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, -0.5",-0.071,-0.071,"pudeo, hic",0.286
+statius.achilleid,1.273,"per, tu, caris, puer, cognatus, per, aequor, iuro",8,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.125
+statius.achilleid,1.274,"nescio, hic, chiro, -ne, sic, horridus, pectus, tracto",8,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.125,-0.125,hic,0.125
+statius.achilleid,1.275,"nequiquam, mulceo, obsto, genitor, rogo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.276,"nutritor, ingens, et, crudus, exordium, magnus",6,"NaN, -0.5, NaN, -1.0, NaN, 0.0",-0.25,-0.25,,0.0
+statius.achilleid,1.277,"indoles, effrenus, tumidus, uelut, ignis, iuuenta",6,"0.0, NaN, -0.5, NaN, 0.0, NaN",-0.083,-0.083,,0.0
+statius.achilleid,1.278,"si, quis, equus, primus, summitto, tento, habena",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+statius.achilleid,1.279,"ille, diu, campus, fluuius, et, honor, superbus",7,"NaN, NaN, 0.0, NaN, NaN, 1.0, -1.0",0.0,-0.143,,0.0
+statius.achilleid,1.28,"gaudeo, non, collum, iugum, non, asper, praebeo",7,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+statius.achilleid,1.281,"os, lupus, dominus, fremo, captiuus, ineo",6,"0.0, 0.0, NaN, NaN, -1.0, NaN",-0.167,-0.167,captiuus,0.167
+statius.achilleid,1.282,"imperium, atque, alius, miro, disco, curro",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.283,"quis, deus, attono, fraudo, astus, parens",6,"NaN, 0.0, NaN, NaN, -0.5, 0.5",0.0,-0.083,"fraudo, astus",0.333
+statius.achilleid,1.284,"confero, indocilis, qui, mens, detraho, achillem",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.285,"palladi, litoreus, celebro, scyros, honor",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+statius.achilleid,1.286,"fors, dies, placidus, sero, lycomede, soror",6,"0.0, 0.0, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+statius.achilleid,1.287,"lux, sacer, patrius, qui, rarus, licentia, murus",7,"NaN, 1.0, 0.0, NaN, NaN, -0.5, NaN",0.071,-0.071,licentia,0.143
+statius.achilleid,1.288,"exeo, do, uerus, ops, diua, sero",6,"NaN, NaN, 0.5, 0.0, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.289,"frons, ligaris, como, et, spargo, flos, hasta",7,"0.0, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+statius.achilleid,1.29,"omnis, eximius, forma, decus, omnis, idem",6,"NaN, 1.0, 1.0, NaN, NaN, NaN",0.333,0.0,,0.0
+statius.achilleid,1.291,"cultus, et, expleo, teneo, iam, finis, pudor",7,"-0.5, NaN, NaN, NaN, NaN, 0.0, 0.5",0.0,-0.071,pudor,0.143
+statius.achilleid,1.292,"uirginitas, maturo, torus, annus, tumeo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.293,"sed, quantus, uiridis, pelagus, uenus, addo, nympha",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+statius.achilleid,1.294,"obruo, aut, umerus, quantus, diana, relinquo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.295,"naidas, effulgeo, tantus, regina, decorus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.296,"deidamia, chorus, pulcher, soror, obsto",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+statius.achilleid,1.297,"ille, et, roseus, flammo, purpura, uultus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,flammo,0.167
+statius.achilleid,1.298,"et, gemma, lux, magnus, insum, et, blandus, aurum",8,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.5, 0.5",0.125,0.0,,0.0
+statius.achilleid,1.299,"atque, ipse, par, forma, dea, sum, si, pectus, anguis",9,"NaN, NaN, 0.5, 1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+statius.achilleid,1.3,"pono, et, eximo, pacetur, cassis, uultus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.301,"hic, ubi, duco, longus, socio, agmen, uideo",7,"NaN, NaN, NaN, 0.0, NaN, -1.0, NaN",-0.143,-0.143,hic,0.143
+statius.achilleid,1.302,"trux, puer, et, nullus, temero, pectus, motus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"trux, temero",0.286
+statius.achilleid,1.303,"derigesco, foris, nouus, bibo, os, ignis",6,"NaN, NaN, 1.0, NaN, 0.0, 0.0",0.167,0.0,,0.0
+statius.achilleid,1.304,"neque, lateo, haurio, amor, sed, fax, uibro, medulla",8,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.125,0.0,fax,0.125
+statius.achilleid,1.305,"in, uultus, atque, os, redeo, lux, genaris",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,genaris,0.143
+statius.achilleid,1.306,"tingo, et, impello, tenuis, sudor, pererro",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.307,"lacteus, massagetae, uelut, cum, poculum, fusco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.308,"sanguis, puniceus, uel, ebur, corrumpo, ostrum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,puniceus,0.167
+statius.achilleid,1.309,"sic, uarius, manifestus, nosco, palleo, rubeo",6,"NaN, 0.0, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+statius.achilleid,1.31,"flamma, repo, eo, atque, ultro, ferus, hospita, sacer",8,"NaN, NaN, NaN, NaN, NaN, -1.0, 0.5, 1.0",0.062,-0.125,"ferus, hospita",0.25
+statius.achilleid,1.311,"dissiciat, turba, securus, et, immemor, aeuum",6,"NaN, 0.0, 1.0, NaN, -1.0, NaN",0.0,-0.167,,0.0
+statius.achilleid,1.312,"ni, pudor, et, iungo, teneo, reuerendus, mater",7,"NaN, 0.5, NaN, NaN, NaN, 1.0, 0.0",0.214,0.0,pudor,0.143
+statius.achilleid,1.313,"ut, pater, armentum, quondam, ducto, sum",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.314,"qui, nondum, totus, perago, cornu, gyrus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.315,"cum, socia, pasco, niueus, candor, iuuenca",6,"NaN, NaN, NaN, NaN, 0.5, 0.0",0.083,0.0,niueus,0.167
+statius.achilleid,1.316,"aspicio, ardescunt, animus, primus, per, os",6,"NaN, NaN, 0.5, 0.5, NaN, 0.0",0.167,0.0,,0.0
+statius.achilleid,1.317,"spumo, amor, specto, hilaris, obsto, magister",6,"NaN, 1.0, NaN, 1.0, NaN, 0.5",0.417,0.0,hilaris,0.167
+statius.achilleid,1.318,"occupo, arrepo, iam, conscius, tempus, mater",6,"NaN, NaN, NaN, -0.5, 0.0, 0.0",-0.083,-0.083,conscius,0.167
+statius.achilleid,1.319,"hic, -ne, inter, simularis, chorus, et, bracchium, ludo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+statius.achilleid,1.32,"necto, natus, grauis, sum, gelidus, quis, talis, sub, os",9,"NaN, 0.0, -0.5, NaN, NaN, NaN, NaN, NaN, 0.0",-0.056,-0.056,,0.0
+statius.achilleid,1.321,"peliacisque, iugum, o, si, ego, iungo, cura",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+statius.achilleid,1.322,"atque, alius, porto, sinus, contingo, achille, -ne",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.323,"mulceo, laetus, rubeo, uideo, proteruus",5,"NaN, 1.0, NaN, NaN, -0.5",0.1,-0.1,proteruus,0.2
+statius.achilleid,1.324,"obliquo, uestis, manus, leuis, repello",5,"NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,uestis,0.2
+statius.achilleid,1.325,"aspicio, ambiguus, genetrix, cogo, uolo",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+statius.achilleid,1.326,"in-iacio, sinus, tum, collum, rigeo, mollio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.327,"summitto, grauis, umerus, et, fortis, laxo",6,"NaN, -0.5, NaN, NaN, 0.5, NaN",0.0,-0.083,,0.0
+statius.achilleid,1.328,"bracchium, et, impexos, certus, domo, ordo, crinis",7,"NaN, NaN, NaN, 0.5, NaN, 0.5, NaN",0.143,0.0,,0.0
+statius.achilleid,1.329,"atque, suus, diligo, ceruix, monile, transfero",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.33,"et, picturatus, cohibeo, uestigium, limbus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.331,"incedo, moueo, doceo, for, pudor",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,pudor,0.2
+statius.achilleid,1.332,"qualis, artifex, uinco, polliceo, cera",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.333,"accipio, forma, ignis, manon, sequor",5,"NaN, 1.0, 0.0, NaN, NaN",0.2,0.0,,0.0
+statius.achilleid,1.334,"talis, sum, diua, natus, muto, imago",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.335,"neque, luctor, diu, supersum, nam, multus, ille",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.336,"inuito, uirtus, decor, fallo, tueor",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,fallo,0.2
+statius.achilleid,1.337,"ambiguus, teneo, lateo, discrimen, sexus",5,"-0.5, NaN, NaN, -1.0, NaN",-0.3,-0.3,,0.0
+statius.achilleid,1.338,"procedo, iterum, moneo, iterum, fatigo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.339,"blandus, thetis, sic, ergo, gradus, sic, os, manus",8,"0.5, NaN, NaN, NaN, 0.0, NaN, 0.0, 0.0",0.062,0.0,thetis,0.125
+statius.achilleid,1.34,"natus, fero, comito, modus, imito, fingo",6,"0.0, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,fingo,0.167
+statius.achilleid,1.341,"neo, suspicio, mollis, non, misceo, aula",6,"NaN, -0.5, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+statius.achilleid,1.342,"rector, et, incipio, pereo, mendacium, furtum",6,"NaN, NaN, NaN, NaN, -1.0, -1.0",-0.333,-0.333,"mendacium, furtum",0.333
+statius.achilleid,1.343,"dico, et, admoueo, non, disto, como, tango",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.344,"sic, ubi, uirgineus, hecate, lasso, therapnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.345,"ad, pater, frater, redeo, comes, haereo, eo",7,"NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.346,"mater, et, ipse, umerus, exsero, bracchium, uelo",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.347,"ipse, arcus, pharetra, loco, uestis, lateo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uestis,0.167
+statius.achilleid,1.348,"deduco, spargo, tumeo, compono, crinis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.349,"protinus, aggredior, rex, atque, ibi, testis, ara",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.35,"hic, tu, aio, noster, germana, rector, achillis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.286
+statius.achilleid,1.351,"nonne, uideo, ut, toruus, gena, aequo, frater",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,gena,0.143
+statius.achilleid,1.352,"trado, arma, umerus, arx, animosus, peto",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.353,"fero, et, amazonio, conubium, pello, ritus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.354,"sed, ego, cura, satis, sum, pro, stirps, uirilis",8,"NaN, NaN, -1.0, 0.5, NaN, NaN, NaN, 0.5",0.0,-0.125,,0.0
+statius.achilleid,1.355,"hic, calathus, et, sacer, fero, tu, frango, rego",8,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.125,0.0,"hic, tu",0.25
+statius.achilleid,1.356,"indocilis, sexuque, teneo, dum, nubilis, aetas",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.357,"soluo, pudor, neue, exerceo, proteruus",5,"NaN, 0.5, NaN, NaN, -0.5",0.0,-0.1,"pudor, proteruus",0.4
+statius.achilleid,1.358,"gymnadas, aut, lustrum, nemus, concedo, uagaris",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.359,"intus, al, et, similis, inter, secludo, puella",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.36,"litus, praecipuus, portus, arceo, memento",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.361,"uideo, modo, uelo, phrygum, iam, mutuus, ius",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.5",0.071,0.0,,0.0
+statius.achilleid,1.362,"fallo, transmitto, pelagus, disco, carina",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,fallo,0.2
+statius.achilleid,1.363,"accedo, dictum, pater, ingenium, parens",5,"NaN, 0.0, 0.0, 0.5, 0.5",0.2,0.0,,0.0
+statius.achilleid,1.364,"occulo, aeacide, -ne, quis, diuus, fraus, obsto",7,"NaN, NaN, NaN, NaN, 0.0, -1.0, NaN",-0.143,-0.143,fraus,0.143
+statius.achilleid,1.365,"accipio, ultro, etiam, ueneror, supplex, dextera",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.366,"et, grates, eligo, ago, neque, turba, piaris",7,"NaN, 1.0, NaN, NaN, NaN, 0.0, NaN",0.143,0.0,,0.0
+statius.achilleid,1.367,"scyriadum, cesso, nimius, defigo, uideo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,nimius,0.2
+statius.achilleid,1.368,"uirgo, os, nouus, quantus, ceruix, como",6,"NaN, 0.0, 1.0, NaN, NaN, NaN",0.167,0.0,uirgo,0.167
+statius.achilleid,1.369,"emineo, quantus, umerus, atque, pectus, fundo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.37,"dehinc, sociaris, chorus, caueo, accedo, sacrum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.371,"hortor, cedo, locus, et, contingo, gaudeo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.372,"qualis, idaliae, uolucris, ubi, mollis, frango",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.373,"nubila, iam, longus, caelo, domo, grego",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.374,"si, iungo, pinnas, diuerto, hospita, traho",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,hospita,0.167
+statius.achilleid,1.375,"uenio, auus, cunctus, primus, miror, et, horreo",7,"NaN, NaN, 0.0, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+statius.achilleid,1.376,"mox, propius, propius, uolo, atque, aer, in, ipse",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.377,"paulatim, facio, suus, plaudo, secundus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.378,"circueunt, hilaris, et, ad, altus, cubile, duco",7,"NaN, 1.0, NaN, NaN, 0.5, NaN, NaN",0.214,0.0,hilaris,0.143
+statius.achilleid,1.379,"digredior, multus, cuncto, in, limen, mater",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.38,"dum, repeto, moneo, arcanus, murmur, figo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.381,"auris, et, taceo, do, uerbum, nouus, uultus",7,"NaN, NaN, NaN, NaN, 0.0, 1.0, NaN",0.143,0.0,,0.0
+statius.achilleid,1.382,"tunc, excipio, fretus, longus, ceruix, reflecto",6,"NaN, NaN, 0.5, 0.0, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.383,"abnato, et, blandus, affor, litus, uoueo",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.384,"carus, ego, tellus, magnus, qui, pignus, cura",7,"1.0, NaN, NaN, 0.0, NaN, 0.0, -1.0",0.0,-0.143,,0.0
+statius.achilleid,1.385,"depono, ingens, timidus, committo, astus",5,"NaN, -0.5, -0.5, NaN, -0.5",-0.3,-0.3,"timidus, astus",0.4
+statius.achilleid,1.386,"sum, felix, taceo, precor, quo, mos, taceo",7,"NaN, 1.0, NaN, NaN, NaN, 0.5, NaN",0.214,0.0,,0.0
+statius.achilleid,1.387,"cerno, rheae, tu, longus, honor, aeternus, cingo",7,"NaN, NaN, NaN, 0.0, 1.0, 0.5, NaN",0.214,0.0,tu,0.143
+statius.achilleid,1.388,"templum, neque, instabilis, fama, supero, delo",6,"NaN, NaN, -0.5, 1.0, NaN, NaN",0.083,-0.083,,0.0
+statius.achilleid,1.389,"et, uenio, et, sacer, fretus, inter, uadosus",7,"NaN, NaN, NaN, 1.0, 0.5, NaN, NaN",0.214,0.0,,0.0
+statius.achilleid,1.39,"cycladas, aegaeae, frango, ubi, saxum, procella",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.391,"nereidum, tranquillus, domus, iuro, nauta",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.392,"insula, ne, solus, danaas, admitto, carino",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+statius.achilleid,1.393,"ne, precor, hic, thiasus, tantus, et, nihil, utilis, bellum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, 0.0",0.111,0.0,hic,0.111
+statius.achilleid,1.394,"hic, fama, narro, doceo, dum, arma, paro",7,"NaN, 1.0, NaN, NaN, NaN, 0.0, NaN",0.143,0.0,hic,0.143
+statius.achilleid,1.395,"doricus, et, alternus, mauors, interfuro, orbis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,mauors,0.167
+statius.achilleid,1.396,"cedo, equidem, sum, uirgo, pius, lycomedis, achilles",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"uirgo, achilles",0.286
+statius.achilleid,1.397,"interea, mereo, ultrix, europa, dolor",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,ultrix,0.2
+statius.achilleid,1.398,"dulcis, armus, furia, et, supplex, rex",6,"0.5, NaN, NaN, NaN, 0.0, 0.0",0.083,0.0,furia,0.167
+statius.achilleid,1.399,"conqueror, flammo, moueo, quippe, amb-eo, atrides",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"flammo, atrides",0.333
+statius.achilleid,1.4,"ille, magis, qui, nubo, domus, facinus, refero",7,"NaN, NaN, NaN, NaN, 0.0, -1.0, NaN",-0.143,-0.143,"nubo, facinus",0.286
+statius.achilleid,1.401,"aspero, iliacus, capio, sine, martes, sine, arma",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.402,"progenies, caelum, spartaeque, possum, alumna",5,"0.0, 0.5, NaN, NaN, 0.0",0.1,0.0,,0.0
+statius.achilleid,1.403,"ius, fides, superus, unus, calceo, rapina",6,"0.5, 1.0, NaN, NaN, NaN, NaN",0.25,0.0,rapina,0.167
+statius.achilleid,1.404,"hic, foedus, phrygius, hic, geminus, commercium, terra",7,"NaN, -1.0, NaN, NaN, NaN, NaN, 0.0",-0.143,-0.143,"hic, hic",0.286
+statius.achilleid,1.405,"quis, maneo, populus, ubi, tantus, iniuria, primus",7,"NaN, NaN, 0.0, NaN, NaN, -1.0, 0.5",-0.071,-0.143,,0.0
+statius.achilleid,1.406,"degrassor, dux, coeo, gens, omnis, et, aetas",7,"NaN, 0.5, NaN, 0.0, NaN, NaN, 0.0",0.071,0.0,,0.0
+statius.achilleid,1.407,"neque, tantus, excio, bimaris, qui, isthmia, uallo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.408,"claustra, neque, undisonus, qui, circumeo, umbo, maleae",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.409,"sed, procul, admoueo, phrixi, qui, semita, iungo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.41,"europamque, asia, ueto, quisque, ordo, gens",6,"NaN, NaN, NaN, NaN, 0.5, 0.0",0.083,0.0,,0.0
+statius.achilleid,1.411,"litus, abydeno, mare, alligo, unda, supernus",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.412,"ferueo, amor, bellum, concutio, erigo, urbs",6,"NaN, 1.0, 0.0, NaN, NaN, 0.5",0.25,0.0,,0.0
+statius.achilleid,1.413,"aes, domo, temese, quatio, naual, os",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.414,"eubois, innumerus, resono, incudo, mycenae",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.415,"pisa, nouo, currus, nemee, do, tergum, ferus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,ferus,0.143
+statius.achilleid,1.416,"cirrha, sagittifer, certo, stiparis, pharetra",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,sagittifer,0.2
+statius.achilleid,1.417,"lerna, grauis, clipeus, caedo, uestio, iuuencus",6,"NaN, -0.5, NaN, NaN, NaN, NaN",-0.083,-0.083,"lerna, uestio",0.333
+statius.achilleid,1.418,"do, bellum, pedito, aetolus, et, asper, acarna, -ne",8,"NaN, 0.0, NaN, NaN, NaN, -0.5, NaN, NaN",-0.062,-0.062,,0.0
+statius.achilleid,1.419,"argos, ago, turma, uacuo, pascuus, dis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.42,"arcadia, freno, celer, epiros, alumnus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.421,"phocis, et, aoniae, iaculis, raresco, umbra",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.422,"murus, tormentum, pylos, messenaque, tendo",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+statius.achilleid,1.423,"nullus, immunis, humus, uello, postis, altus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,humus,0.167
+statius.achilleid,1.424,"arma, olim, dimitto, pater, flamma, liquesco",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.425,"donum, deus, eripio, superi, mars, effero, aurum",7,"0.0, 0.0, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+statius.achilleid,1.426,"nusquam, umbra, uetus, paruus, othrys, et, arduus, sido",8,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.427,"taygeta, exuo, uideo, aes, mons",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.428,"iam, nato, omnis, nemus, caedo, robur, classis",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,classis,0.143
+statius.achilleid,1.429,"silua, paruus, remi, ferrum, lasso, in, utor",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.43,"innumerus, qui, rostrum, ligo, qui, munio, arma",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.431,"belliger, qui, freno, equus, qui, mille, catena",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,catena,0.143
+statius.achilleid,1.432,"squaleo, necto, tunica, qui, sanguis, fumo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.433,"uulnero, altus, bibo, qui, conspiro, ueneno",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.434,"impello, mors, tenuo, umeo, saxum",5,"NaN, -1.0, NaN, NaN, 0.0",-0.2,-0.2,,0.0
+statius.achilleid,1.435,"attero, et, piger, addo, mucro, ira",6,"NaN, NaN, NaN, NaN, -1.0, -1.0",-0.333,-0.333,,0.0
+statius.achilleid,1.436,"neque, modus, aut, arcus, lentaris, aut, fundo, glandes",8,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+statius.achilleid,1.437,"aut, torreo, sudo, galea, attollo, coeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.438,"hic, inter, moueo, piger, gemo, unus, quies",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+statius.achilleid,1.439,"thessalia, et, geminus, incuso, fatum, querela",6,"NaN, NaN, NaN, NaN, 0.0, -0.5",-0.083,-0.083,,0.0
+statius.achilleid,1.44,"qui, senex, peleus, neque, adhuc, maturus, achilles",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,achilles,0.143
+statius.achilleid,1.441,"iam, pelopis, terra, graiumque, exhaurio, orbis",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.442,"praecipito, in, transtrum, uir, insanus, equus",6,"NaN, NaN, NaN, 0.5, -1.0, NaN",-0.083,-0.167,insanus,0.167
+statius.achilleid,1.443,"bellipotens, ferueo, portus, et, operio, carina",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.444,"stagnum, suo, hiemo, classis, promoueo, suus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"stagnum, classis",0.333
+statius.achilleid,1.445,"attollo, fluctus, ipse, iam, puppis, aequor",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.446,"deficio, et, totus, consumo, carbasus, uenio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.447,"primus, ratis, danaas, hecateia, congrego, aulis",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.448,"rupes, expono, longus, crepido, dorsum",5,"0.0, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.449,"euboicum, scando, aulis, mare, litus, multus",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.45,"montiuagus, diligo, dea, iuxta, caphereus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,montiuagus,0.2
+statius.achilleid,1.451,"latro, pelagus, tollo, caput, ille, pelasgas",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,latro,0.167
+statius.achilleid,1.452,"ut, uideo, tranaris, ratis, ter, mons, ter, unda",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.453,"intono, saeuus, do, praesagium, nox",5,"NaN, -1.0, NaN, NaN, 0.0",-0.2,-0.2,saeuus,0.2
+statius.achilleid,1.454,"coitus, ibi, armus, troia, fatal, ibi, ingens",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,,0.0
+statius.achilleid,1.455,"iuro, bellum, donec, sol, annuus, omnis",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.456,"confacio, meto, tunc, primus, graecia, uireo",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.457,"contemplo, suus, tunc, spargo, atque, dissonus, moles",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+statius.achilleid,1.458,"in, corpus, uultus, coeo, et, rex, sub, unus",8,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.459,"dispono, sum, sic, curuo, ferus, indago, lateo",7,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,ferus,0.143
+statius.achilleid,1.46,"claudo, et, admoueo, paulatim, casses, arto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.461,"ille, ignis, sono, paueo, diffundo, linquo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.462,"auia, miro, suus, decresco, mons",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.463,"donec, in, angustus, cado, undique, uallo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.464,"in, uicis, stupeo, grex, socio, timor",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+statius.achilleid,1.465,"mansuesco, simul, hirtus, aper, simul, ursa, lupus",7,"NaN, NaN, -0.5, NaN, NaN, NaN, 0.0",-0.071,-0.071,ursa,0.143
+statius.achilleid,1.466,"cogo, et, capio, contemno, cerua, leo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,leo,0.167
+statius.achilleid,1.467,"sed, quamquam, et, geminus, pariter, suus, bellum, capesso",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.468,"atridae, fama, auidus, uirtus, paternus",5,"NaN, 1.0, NaN, 1.0, NaN",0.4,0.0,,0.0
+statius.achilleid,1.469,"tydides, sthenelnsque, premo, neque, cogito, annus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.47,"antilochos, septem, aiax, umbo, corusco",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.471,"armentum, rex, atque, aequus, moenia, orbis",6,"NaN, 0.0, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.472,"consilium, armus, uigil, contendo, ulixes",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+statius.achilleid,1.473,"omnis, in, absum, bellum, manus, ardeo, achillem",7,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.474,"nomen, achillis, amo, et, in, hector, solus, achilles",8,"0.0, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.062,-0.062,achilles,0.125
+statius.achilleid,1.475,"posco, ille, unus, teucer, priamoque, loquor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,teucer,0.167
+statius.achilleid,1.476,"fatal, quis, enim, haemoniis, sub, ualles, alter",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.477,"cerno, effodio, repto, niuit, qui, adorior",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,repto,0.167
+statius.achilleid,1.478,"crudus, rudimentum, et, tener, formo, annus",6,"-1.0, 0.0, NaN, NaN, NaN, 0.0",-0.167,-0.167,,0.0
+statius.achilleid,1.479,"centaurus, patrius, propior, qui, lineus, caelum",6,"NaN, 0.0, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+statius.achilleid,1.48,"qui, alius, stygius, fero, secerno, per, amnis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.481,"nereis, et, pulcher, ferrum, praestruo, artus",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+statius.achilleid,1.482,"hic, graiae, castrum, itero, trado, cohors",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+statius.achilleid,1.483,"cedo, turba, dux, uinco, haud, maestus, fateor",7,"NaN, 0.0, 0.5, NaN, NaN, -1.0, NaN",-0.071,-0.143,,0.0
+statius.achilleid,1.484,"sic, cum, palleo, phlegraea, in, castrum, coeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.485,"caelicola, iam, odrysiam, gradiuus, in, hasta",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.486,"surgo, et, libycos, tritonia, tollo, anguis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"libycos, tritonia",0.333
+statius.achilleid,1.487,"ingens, manus, curuo, delius, arcus",5,"-0.5, 0.0, NaN, NaN, NaN",-0.1,-0.1,,0.0
+statius.achilleid,1.488,"sto, anhelo, metus, solus, natura, tono",6,"NaN, NaN, -1.0, -0.5, 0.0, NaN",-0.25,-0.25,,0.0
+statius.achilleid,1.489,"respicio, quando, ille, hiemo, tonitrus, uoco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.49,"nubis, ignifer, quot, fulmen, posco, aetne, -ne",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.491,"atque, ibi, dum, misceo, uallo, plebs, suus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.492,"et, mare, et, bellum, consulto, tempus, rex",7,"NaN, 0.0, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.493,"increpito, magnus, uates, calchanta, tumultus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,increpito,0.2
+statius.achilleid,1.494,"protesilaus, aio, namque, hic, bellaris, cupido",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,hic,0.167
+statius.achilleid,1.495,"praecipuus, et, primus, iam, tunc, do, gloria, mors",8,"0.0, NaN, 0.5, NaN, NaN, NaN, 0.0, -1.0",-0.062,-0.125,,0.0
+statius.achilleid,1.496,"o, nimium, phoebus, tripus, obliuiscor, tuus",6,"NaN, 0.0, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.497,"thestoride, quando, os, deus, possessus, moueo",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.498,"iustus, aut, quianam, parcaris, occulo, recludo",6,"1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+statius.achilleid,1.499,"cerno, ut, ignotus, cunctus, stupeo, fremo",6,"NaN, NaN, -0.5, 0.0, NaN, NaN",-0.083,-0.083,,0.0
+statius.achilleid,1.5,"aeacide, -ne, sordeo, uulgo, calydonius, heros",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,sordeo,0.167
+statius.achilleid,1.501,"et, magnus, gigno, telamo, aiaxque, secundus",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.502,"nos, quoque, sed, mauors, et, troia, arrepo, probo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,mauors,0.125
+statius.achilleid,1.503,"ille, neglego, pudeo, heu, ductor, omnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"pudeo, heu",0.333
+statius.achilleid,1.504,"belliger, ceu, numen, amo, dico, ocior, aut, cur",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.505,"sero, como, et, multus, honor, qui, abdo, ora",8,"NaN, NaN, NaN, 0.0, 1.0, NaN, NaN, NaN",0.125,0.0,,0.0
+statius.achilleid,1.506,"qui, iubeo, tellus, peto, nam, fama, neque, antrum",8,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN, 0.0",0.125,0.0,,0.0
+statius.achilleid,1.507,"chironis, patria, neque, dego, peleos, aula",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.508,"heia, irrumpo, deus, et, fatum, lateo, uexo",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,uexo,0.143
+statius.achilleid,1.509,"laurigerosque, ignis, si, quando, auidus, haurio",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.51,"arma, horreo, tu, saeuus, remitto, ensis",6,"0.0, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,"tu, saeuus",0.333
+statius.achilleid,1.511,"numquam, hic, imbellis, galea, uiolo, uitta",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,"hic, uiolo",0.333
+statius.achilleid,1.512,"sed, felix, numero, dux, praesto, omnis",6,"NaN, 1.0, NaN, 0.5, NaN, NaN",0.25,0.0,,0.0
+statius.achilleid,1.513,"si, magnus, danais, per, tu, depfendis, achillem",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.143
+statius.achilleid,1.514,"iamdudum, trepido, circumfero, lumen, motus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.515,"intro, deus, primus, pallor, fateor",5,"NaN, 0.0, 0.5, NaN, NaN",0.1,0.0,pallor,0.2
+statius.achilleid,1.516,"thestorides, mox, ignis, gena, et, sanguis, torqueo",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,gena,0.143
+statius.achilleid,1.517,"neque, socius, neque, castrum, uideo, sed, caecus, et, absum",9,"NaN, 1.0, NaN, NaN, NaN, NaN, -1.0, NaN, NaN",0.0,-0.111,,0.0
+statius.achilleid,1.518,"nunc, superi, magnus, deprehendo, in, aether, coitus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.519,"nunc, saga, affor, aueo, nunc, durus, soror",7,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+statius.achilleid,1.52,"licium, turifer, modo, consulo, anxius, ara",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+statius.achilleid,1.521,"flamma, apex, rapio, et, caligo, sacer",6,"NaN, NaN, NaN, NaN, -0.5, 1.0",0.083,-0.083,,0.0
+statius.achilleid,1.522,"pascor, exsilio, crinis, rigidus, laboro",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,exsilio,0.2
+statius.achilleid,1.523,"uitta, como, neque, collum, locus, neque, in, ordo, gressus",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.5, 0.0",0.056,0.0,,0.0
+statius.achilleid,1.524,"tandem, fessus, tremo, longus, mugitus, os",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.525,"soluo, et, oppono, uox, eluctor, furor, sum",7,"NaN, NaN, NaN, 0.0, NaN, -1.0, NaN",-0.143,-0.143,furor,0.143
+statius.achilleid,1.526,"quo, rapio, ingens, magnus, chironis, alumnus",6,"NaN, NaN, -0.5, 0.0, NaN, NaN",-0.083,-0.083,,0.0
+statius.achilleid,1.527,"femineus, nerei, dolus, huc, mitto, quis, aufero",7,"-0.5, NaN, NaN, NaN, NaN, NaN, NaN",-0.071,-0.071,dolus,0.143
+statius.achilleid,1.528,"non, patior, meus, iste, meus, tu, diuus, profundo",8,"NaN, NaN, 0.0, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,tu,0.125
+statius.achilleid,1.529,"et, ego, phoebus, ago, latebra, qui, abdo, tento",8,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.062,-0.062,,0.0
+statius.achilleid,1.53,"euersor, asia, uideo, per, cycladas, alo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.531,"attono, et, turpis, quaero, litus, furtum",6,"NaN, NaN, -1.0, NaN, NaN, -1.0",-0.333,-0.333,"turpis, furtum",0.333
+statius.achilleid,1.532,"occaedes, placeo, lycomedis, conscius, tellus",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,conscius,0.2
+statius.achilleid,1.533,"o, scelus, en, fluo, uenio, in, pectus, uestis",8,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.125,-0.125,"scelus, uestis",0.25
+statius.achilleid,1.534,"scindo, puer, scindo, et, timidus, ne, cedo, parens",8,"NaN, 0.0, NaN, NaN, -0.5, NaN, NaN, 0.5",0.0,-0.062,timidus,0.125
+statius.achilleid,1.535,"is, ego, rapio, abeo, quisnam, hic, procul, improbus, uirgo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.111,-0.111,"hic, improbus, uirgo",0.333
+statius.achilleid,1.536,"hic, nuto, gradus, sto, amitto, furor",6,"NaN, NaN, 0.0, NaN, NaN, -1.0",-0.167,-0.167,"hic, furor",0.333
+statius.achilleid,1.537,"uis, ante, ipse, tremefacio, con-ruo, ara",6,"1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+statius.achilleid,1.538,"tunc, haereo, ithacum, calydonius, occupo, heros",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.539,"nos, uoco, iste, labor, neque, enim, comes, eo, recuso",9,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.056,-0.056,,0.0
+statius.achilleid,1.54,"si, tuus, cura, traho, licet, ille, sono, antrum",8,"NaN, 0.0, -1.0, NaN, NaN, NaN, NaN, 0.0",-0.125,-0.125,,0.0
+statius.achilleid,1.541,"tethyos, auerto, gremium, premo, aquosus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.542,"nereos, inuenio, tu, tantus, prouidus, astus",6,"NaN, NaN, NaN, NaN, 1.0, -0.5",0.083,-0.083,"tu, astus",0.333
+statius.achilleid,1.543,"tendo, animus, uigilis, fecundus, erigo, pectus",6,"NaN, 0.5, NaN, 1.0, NaN, NaN",0.25,0.0,,0.0
+statius.achilleid,1.544,"non, ego, quis, uates, dubius, in, casus, audeo",8,"NaN, NaN, NaN, NaN, -0.5, NaN, 0.0, NaN",-0.062,-0.062,,0.0
+statius.achilleid,1.545,"fatum, uideo, prior, subicio, gaudeo, ulixes",6,"0.0, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.546,"sic, deus, omnipotens, firmo, sic, annuo, ille",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.547,"uirgo, paternus, tu, sed, ego, spes, lubricus, tardo",8,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.062,0.0,"uirgo, tu",0.25
+statius.achilleid,1.548,"grandis, equidem, armo, castrum, induco, achillem",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.549,"sed, si, fatum, nego, quam, foedus, atque, tristis, reuorto",9,"NaN, NaN, 0.0, NaN, NaN, -1.0, NaN, -1.0, NaN",-0.222,-0.222,,0.0
+statius.achilleid,1.55,"ueto, tamen, danaum, non, in-tento, relinquo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,danaum,0.167
+statius.achilleid,1.551,"iam, adeo, aut, adsum, cum, ego, peleius, heros",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.552,"aut, uerus, penitus, lateo, et, sine, apolline, calchas",8,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+statius.achilleid,1.553,"conclamo, danai, stimulo, agamemno, uolo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"danai, stimulo, agamemno",0.6
+statius.achilleid,1.554,"laxo, coitus, resoluo, murmur, laeto",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.555,"agmen, discedo, qualis, iam, nox, propinquus",6,"-1.0, NaN, NaN, NaN, 0.0, 0.0",-0.167,-0.167,,0.0
+statius.achilleid,1.556,"e, pasco, refero, aueo, uel, in, antrum, reuorto",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.557,"mel, nouo, grauida, mitis, uideo, hybla, caterua",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+statius.achilleid,1.558,"neque, mora, iam, dexter, ithacesia, carbasus, aura, posco",8,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.125,0.0,,0.0
+statius.achilleid,1.559,"et, in, remi, hilaris, sedeo, iuuentus",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,hilaris,0.167
+statius.achilleid,1.56,"at, procul, occulo, fallo, sub, imago, sexus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fallo,0.143
+statius.achilleid,1.561,"aeacide, -ne, furtum, iam, nosco, unus, lateo",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,furtum,0.143
+statius.achilleid,1.562,"deidamia, uir, sed, operio, conscius, culpa",6,"NaN, 0.5, NaN, NaN, -0.5, -1.0",-0.167,-0.25,"conscius, culpa",0.333
+statius.achilleid,1.563,"cunctus, paueo, taceo, puto, sentio, soror",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.564,"namque, ut, uirgineus, sto, in, grex, durus, achilles",8,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.062,-0.062,achilles,0.125
+statius.achilleid,1.565,"exsoluo, rudis, genetrix, digredior, pudor",5,"NaN, -0.5, NaN, NaN, 0.5",0.0,-0.1,pudor,0.2
+statius.achilleid,1.566,"protinus, eligo, comes, quamquam, omnis, in, ille",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.567,"turba, coeo, blandus, nouo, nihil, talis, timeo",7,"0.0, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+statius.achilleid,1.568,"admoueo, insidiae, ille, sequor, premo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,insidiae,0.2
+statius.achilleid,1.569,"improbus, ille, oculus, iterum, iterum, resumo",6,"-1.0, NaN, 0.0, NaN, NaN, NaN",-0.167,-0.167,improbus,0.167
+statius.achilleid,1.57,"nunc, nimius, lateo, non, euito, inhaereo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,nimius,0.167
+statius.achilleid,1.571,"nunc, leuis, serta, labor, nunc, sponte, canistrum",7,"NaN, 0.0, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,,0.0
+statius.achilleid,1.572,"nunc, thyrsus, parco, ferio, modo, dulcis, nosco",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+statius.achilleid,1.573,"filum, lyra, tenuis, modus, et, carmen, monstro",7,"NaN, 0.0, 0.0, 0.5, NaN, 0.0, NaN",0.071,0.0,,0.0
+statius.achilleid,1.574,"chironis, duco, manus, digitus, sono",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.575,"infringo, cithara, nunc, occupo, os, caneo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.576,"et, ligo, amplector, et, mille, per, osculum, laudo",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.577,"ille, libet, disco, quo, uertex, pelion, et, quis",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.578,"aeacides, puer, audio, nomen, et, ago",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,aeacides,0.167
+statius.achilleid,1.579,"assiduus, stupeo, et, praesens, canto, achillem",6,"0.5, NaN, NaN, 0.0, 0.0, NaN",0.083,0.0,,0.0
+statius.achilleid,1.58,"ipse, quoque, et, ualidus, profero, modestus, artus",7,"NaN, NaN, NaN, 1.0, NaN, 1.0, NaN",0.286,0.0,modestus,0.143
+statius.achilleid,1.581,"et, tenuaris, rudo, attero, polliceo, lana",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,lana,0.167
+statius.achilleid,1.582,"demonstro, reficio, color, et, perdo, durus",6,"NaN, NaN, 0.0, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+statius.achilleid,1.583,"pensum, manus, uox, sonus, pondus, teneo",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.584,"quisque, fugio, comes, nimius, qui, lumen, sui",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,nimius,0.143
+statius.achilleid,1.585,"ago, et, in, uerbum, intempestiuus, anhelo",6,"NaN, NaN, NaN, 0.0, -1.0, NaN",-0.167,-0.167,,0.0
+statius.achilleid,1.586,"miro, iam, iam, dolus, aperio, paro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,dolus,0.167
+statius.achilleid,1.587,"uirgineus, leuitas, fugio, prohibeo, fateor",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.588,"sic, sub, mater, rhea, iuuenis, regnator, olympi",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.589,"osculum, securus, do, insidiosus, soror",5,"0.0, 1.0, NaN, -1.0, NaN",0.0,-0.2,insidiosus,0.2
+statius.achilleid,1.59,"frater, adhuc, medius, donec, reuerendus, cedo",6,"0.0, NaN, 0.0, NaN, 1.0, NaN",0.167,0.0,,0.0
+statius.achilleid,1.591,"sanguis, et, uerro, germanus, expauesco, amor",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+statius.achilleid,1.592,"tandem, detego, timidus, nereidos, astus",5,"NaN, NaN, -0.5, NaN, -0.5",-0.2,-0.2,"timidus, astus",0.4
+statius.achilleid,1.593,"lucus, agenorei, sublimis, ad, Orgia, bacchi",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.594,"sto, et, admitto, caelum, nemus, hic, in, umbra",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,hic,0.125
+statius.achilleid,1.595,"alternus, renouaris, pius, trieterida, mater",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.596,"consuesco, scissus, pecus, terra, reuello",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.597,"fero, trabs, gratus, deus, praesto, furor",6,"NaN, 0.0, 1.0, 0.0, NaN, -1.0",0.0,-0.167,furor,0.167
+statius.achilleid,1.598,"lex, procul, eo, maris, itcrat, praecipio, uereor",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+statius.achilleid,1.599,"ducto, inaccessus, uis, edico, antrum",5,"NaN, NaN, 1.0, NaN, 0.0",0.2,0.0,,0.0
+statius.achilleid,1.6,"neque, satis, sum, sto, finis, do, metuo, sacerdos",8,"NaN, 0.5, NaN, NaN, 0.0, NaN, NaN, NaN",0.062,0.0,,0.0
+statius.achilleid,1.601,"exploro, aditus, ne, quis, temerator, oberro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.602,"agmen, femineus, taceo, sui, rideo, achilles",6,"-1.0, -0.5, NaN, NaN, NaN, NaN",-0.25,-0.25,achilles,0.167
+statius.achilleid,1.603,"ille, uirgineus, duco, signum, caterua",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.604,"magnus, difficilis, soluo, bracchium, motus",5,"0.0, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+statius.achilleid,1.605,"et, sexus, pariter, decet, et, mendacium, mater",7,"NaN, NaN, NaN, NaN, NaN, -1.0, 0.0",-0.143,-0.143,mendacium,0.143
+statius.achilleid,1.606,"miror, comes, neque, iam, pulcher, turba",6,"NaN, NaN, NaN, NaN, 1.0, 0.0",0.167,0.0,,0.0
+statius.achilleid,1.607,"deidamia, suus, tantus, admoueo, superbus",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+statius.achilleid,1.608,"uincio, aeacide, quantus, premo, ipse, soror",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.609,"ut, uerus, e, teres, demitto, nebrida, collum",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+statius.achilleid,1.61,"erro, sinus, hedera, colligo, et, altus",6,"0.0, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+statius.achilleid,1.611,"cingo, purpureus, flaueo, tempus, uitta",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.612,"uibro, grauis, redimitus, missilis, dextera",5,"NaN, -0.5, NaN, NaN, 0.0",-0.1,-0.1,,0.0
+statius.achilleid,1.613,"attono, sto, turba, metus, sacer, relinquo",6,"NaN, NaN, 0.0, -1.0, 1.0, NaN",0.0,-0.167,,0.0
+statius.achilleid,1.614,"ille, amb-eo, libet, pronus, attollo, uultus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.615,"talis, ubi, ad, thebas, uultus, animus, remitto",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+statius.achilleid,1.616,"euhius, et, patrius, satio, pectus, luxus",6,"NaN, NaN, 0.0, NaN, NaN, -0.5",-0.083,-0.083,luxus,0.167
+statius.achilleid,1.617,"sero, como, mitra, leuo, thyrsus, uireo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.618,"armo, et, hostilis, inuiso, fortis, indus",6,"NaN, NaN, -1.0, NaN, 0.5, NaN",-0.083,-0.167,hostilis,0.167
+statius.achilleid,1.619,"scando, roseus, medius, fastigium, caelum",5,"NaN, NaN, 0.0, NaN, 0.5",0.1,0.0,,0.0
+statius.achilleid,1.62,"luna, iugum, totus, ubi, somnus, iners, ala",7,"NaN, NaN, NaN, NaN, 0.5, 0.0, NaN",0.071,0.0,iners,0.143
+statius.achilleid,1.621,"defluo, in, terra, mutus, amplector, orbis",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.622,"consido, chorus, paulus, exerceo, pello",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.623,"aes, taceo, tener, cum, solus, ab, agmen, achilles",8,"NaN, NaN, NaN, NaN, -0.5, NaN, -1.0, NaN",-0.188,-0.188,achilles,0.125
+statius.achilleid,1.624,"hic, cum, sui, quonam, timidus, commento, parens",7,"NaN, NaN, NaN, NaN, -0.5, NaN, 0.5",0.0,-0.071,"hic, timidus",0.286
+statius.achilleid,1.625,"usque, fero, primus, imbellis, carcer, perdo",6,"NaN, NaN, 0.5, -1.0, NaN, NaN",-0.083,-0.167,carcer,0.167
+statius.achilleid,1.626,"flos, animus, non, telum, licet, mauortia, dextera",7,"0.5, 0.5, NaN, NaN, NaN, NaN, 0.0",0.143,0.0,,0.0
+statius.achilleid,1.627,"non, trepido, agito, ferus, ubi, campus, et, amnis",8,"NaN, NaN, NaN, -1.0, NaN, 0.0, NaN, NaN",-0.125,-0.125,ferus,0.125
+statius.achilleid,1.628,"haemonii, quaero, -ne, meus, sperchie, nato",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,haemonii,0.167
+statius.achilleid,1.629,"promitto, como, an, desertor, alumnus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,desertor,0.2
+statius.achilleid,1.63,"nullus, honor, stygiasque, procul, iam, rapio, ad, umbra",8,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+statius.achilleid,1.631,"dico, et, orbo, plango, meus, funero, chiro, -ne",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.632,"tu, nunc, telum, manus, noster, tu, dirigo, arcus",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"tu, tu",0.25
+statius.achilleid,1.633,"nutrio, ego, scando, patrocle, iugalis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,iugalis,0.2
+statius.achilleid,1.634,"at, ego, pampineus, diffundo, bracchium, thyrsus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.635,"et, tenuaris, colus, pudeo, hic, taedet, fateor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"pudeo, hic",0.286
+statius.achilleid,1.636,"iam, scio, quin, etiam, diligo, uirgo, ignis",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,uirgo,0.143
+statius.achilleid,1.637,"aequaeuus, fax, capio, nox, dies",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,fax,0.2
+statius.achilleid,1.638,"dissimulo, quonam, usque, premo, uro, pectus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.639,"uulnero, tu, maris, pudeo, heu, neque, amor, probaris",8,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.125,0.0,"tu, pudeo, heu",0.375
+statius.achilleid,1.64,"sic, aio, et, densus, nox, gaudeo, in, umbra",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.641,"tempestiuus, suus, torpeo, silentium, furtum",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,furtum,0.2
+statius.achilleid,1.642,"uis, potio, uoueo, et, totus, pectus, uerus",7,"1.0, NaN, NaN, NaN, NaN, NaN, 0.5",0.214,0.0,,0.0
+statius.achilleid,1.643,"admoueo, amplector, uideo, chorus, omnis, ab, altus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+statius.achilleid,1.644,"astrum, et, tener, rubesco, cornu, luna",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.645,"ille, quidem, clamor, nemus, mons, re-pleo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.646,"sed, bacchi, comes, discutio, nubes, soporus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.647,"signum, chorus, indico, puto, fragor, undique, notus",7,"0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.648,"tollo, et, thyrsus, iterum, uibro, achilles",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,achilles,0.167
+statius.achilleid,1.649,"ante, tamen, dubius, uerbum, solo, amicus",6,"NaN, NaN, -0.5, 0.0, NaN, 1.0",0.083,-0.083,,0.0
+statius.achilleid,1.65,"ille, ego, quis, trepido, gigno, qui, caerulus, mater",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,caerulus,0.125
+statius.achilleid,1.651,"paene, ioui, silua, nix, immitto, alo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.652,"thessalicis, neque, ego, hic, cultus, aut, foedus, subeo",8,"NaN, NaN, NaN, NaN, -0.5, NaN, -1.0, NaN",-0.188,-0.188,hic,0.125
+statius.achilleid,1.653,"tegimen, ni, primus, tu, uideo, in, litus, cedo",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,tu,0.125
+statius.achilleid,1.654,"tu, propter, tu, pensum, manus, tu, mollis, gero",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"tu, tu, tu",0.375
+statius.achilleid,1.655,"tympanum, quis, defleo, magnus, nurus, addo, pontus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,nurus,0.143
+statius.achilleid,1.656,"quis, gemo, ingens, caelum, pario, nepos",6,"NaN, NaN, -0.5, 0.5, NaN, 0.0",0.0,-0.083,,0.0
+statius.achilleid,1.657,"sed, pater, ante, ignis, ferrum, ex-caedo, iaceo",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,iaceo,0.143
+statius.achilleid,1.658,"scyros, et, in, tumidus, eo, hic, uerso, procella",8,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.062,-0.062,hic,0.125
+statius.achilleid,1.659,"moenia, quam, saeuus, meus, tu, conubium, pendo",7,"NaN, NaN, -1.0, 0.0, NaN, NaN, NaN",-0.143,-0.143,"saeuus, tu",0.286
+statius.achilleid,1.66,"funus, non, adeo, pareo, omnis, mater",6,"-0.5, NaN, NaN, NaN, NaN, 0.0",-0.083,-0.083,,0.0
+statius.achilleid,1.661,"no, -ne",2,"NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.662,"obstipesco, tantus, regina, exterreo, monstrum",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,monstrum,0.2
+statius.achilleid,1.663,"quamquam, olim, suspicio, fides, et, comminus, ipse",7,"NaN, NaN, -0.5, 1.0, NaN, NaN, NaN",0.071,-0.071,,0.0
+statius.achilleid,1.664,"horreo, et, facies, multus, muto, fateor",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.665,"quis, facio, casus, -ne, suus, fero, ipse, parens",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,,0.0
+statius.achilleid,1.666,"sequor, simul, iuuenis, premo, fortassis, acerbus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,acerbus,0.167
+statius.achilleid,1.667,"haurio, poena, et, adhuc, in, cor, maneo",7,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,poena,0.143
+statius.achilleid,1.668,"ille, diu, decipio, amor, sileo, aeger, premo",7,"NaN, NaN, NaN, 1.0, NaN, -1.0, NaN",0.0,-0.143,decipio,0.143
+statius.achilleid,1.669,"iam, communis, nefas, unus, placeo, addo, furtum",7,"NaN, 0.0, -1.0, NaN, NaN, NaN, -1.0",-0.286,-0.286,"nefas, furtum",0.286
+statius.achilleid,1.67,"altrix, socia, prex, qui, uinco, duo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,altrix,0.167
+statius.achilleid,1.671,"annuo, ille, astus, taceo, rapio, pudor",6,"NaN, NaN, -0.5, NaN, NaN, 0.5",0.0,-0.083,"astus, pudor",0.333
+statius.achilleid,1.672,"surgo, uterus, atque, aegrosi, -ne, pondus, mensis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.673,"occulo, plenus, donec, sto, tempus, metior",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.674,"affero, et, pario, index, lucinus, resoluo",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+statius.achilleid,1.675,"iam, per, aegaeos, eo, laertia, flecto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.676,"puppis, et, innumerus, muto, cycladas, aurae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.677,"iam, parus, olearosque, lateo, iam, rado, altus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+statius.achilleid,1.678,"lemnos, et, ab, tergum, decresco, bacchica, naxos",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.679,"ante, oculus, cresco, samus, iam, delos, opaco",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.68,"aequor, ibi, e, celsus, libo, carchesium, puppis",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.681,"respondeo, fides, et, uerus, calchanta, preco",6,"NaN, 1.0, NaN, 0.5, NaN, NaN",0.25,0.0,,0.0
+statius.achilleid,1.682,"audio, arcitenens, zephyrumque, e, uertex, cynthi",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.683,"impello, et, dubius, plenus, do, omen, uelo",7,"NaN, NaN, -0.5, 0.0, NaN, NaN, NaN",-0.071,-0.071,,0.0
+statius.achilleid,1.684,"eo, pelagus, securus, ratis, quippe, altus, tono",7,"NaN, NaN, 1.0, NaN, NaN, 0.5, NaN",0.214,0.0,,0.0
+statius.achilleid,1.685,"iubeo, theti, -ne, certo, fatum, uerto, lex",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.5",0.071,0.0,theti,0.143
+statius.achilleid,1.686,"arceo, aeger, lacrima, atque, multus, timeo",6,"NaN, -1.0, NaN, NaN, 0.0, NaN",-0.167,-0.167,,0.0
+statius.achilleid,1.687,"qui, non, eruo, pontus, uenio, fretus",6,"NaN, NaN, NaN, 0.0, NaN, 0.5",0.083,0.0,,0.0
+statius.achilleid,1.688,"omnis, inuideo, iam, tunc, sequor, ulixem",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.689,"frango, radius, humilis, iam, pronus, olympus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,humilis,0.167
+statius.achilleid,1.69,"phoebus, et, oceani, penetrabilis, litus, anhelis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.691,"promitto, equus, cum, sui, scopulosus, leuo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.692,"scyros, in, hic, totus, emitto, puppis, rudo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+statius.achilleid,1.693,"dux, laertiades, socius, resumo, pontus",5,"0.5, NaN, 1.0, NaN, 0.0",0.3,0.0,,0.0
+statius.achilleid,1.694,"impero, et, remi, zephyros, suppleo, cado",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.695,"accedo, iuxta, et, magis, indubito, magus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.696,"scyros, sum, placidus, super, tritonia, custos",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,tritonia,0.167
+statius.achilleid,1.697,"litor, egredior, numen, ueneror, amica",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.698,"aetolusque, ithacusque, dea, tunc, prouidus, heros",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+statius.achilleid,1.699,"hospita, ne, subeo, terreo, moenia, coitus",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,hospita,0.167
+statius.achilleid,1.7,"puppis, iubeo, remaneo, suus, ipse, arduus, fido",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.701,"cum, diomede, peto, sed, iam, praeuenio, arx",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.702,"litoreus, seruator, abas, ignosco, rex",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.703,"edo, sed, graius, tamen, succedo, terra",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.704,"carbasus, procedo, geminus, ceu, foedus, iungo",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+statius.achilleid,1.705,"hibernus, sub, nox, lupus, licet, et, suus, pulso",8,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.706,"nascor, fames, penitus, rabies, mino",5,"NaN, -0.5, NaN, -1.0, NaN",-0.3,-0.3,rabies,0.2
+statius.achilleid,1.707,"dissimulo, humilis, meo, ne, nuntio, hostis",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,humilis,0.167
+statius.achilleid,1.708,"cura, canis, et, trepidus, moneo, uigilaris, magister",7,"-1.0, NaN, NaN, -1.0, NaN, NaN, 0.5",-0.214,-0.286,,0.0
+statius.achilleid,1.709,"sic, segnis, heros, eo, campus, pateo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.71,"qui, medius, portus, celsus, interiaceo, urbs",6,"NaN, 0.0, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+statius.achilleid,1.711,"alterno, sermo, tero, prior, occupo, acer",6,"NaN, -0.5, NaN, 0.5, NaN, NaN",0.0,-0.083,,0.0
+statius.achilleid,1.712,"tydides, qui, nunc, uerus, ratio, paro",6,"NaN, NaN, NaN, 0.5, 0.0, NaN",0.083,0.0,,0.0
+statius.achilleid,1.713,"scrutor, namque, ambiguus, sub, pectus, pridem",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+statius.achilleid,1.714,"uerso, quis, imbellis, thyrsus, mercor, et, aes",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,mercor,0.143
+statius.achilleid,1.715,"urbs, in, medius, baccheaque, tergum, mitra",6,"0.5, NaN, 0.0, NaN, NaN, NaN",0.083,0.0,baccheaque,0.167
+statius.achilleid,1.716,"huc, fero, uario, aspersas, nebridae, aurum",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+statius.achilleid,1.717,"hic, -ne, grauis, priamo, phrygibusque, armo, achillem",7,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.071,-0.071,"hic, priamo",0.286
+statius.achilleid,1.718,"ille, subrideo, ithacus, paulus, os, remitto",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.719,"hic, tu, uirgineus, modo, si, lycomedis, in, aula, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.222
+statius.achilleid,1.72,"fraus, lateo, ultro, confiteor, in, proelio, duco",7,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,fraus,0.143
+statius.achilleid,1.721,"pelide, -ne, tu, cunctus, cieo, de, puppis, memento",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"pelide, tu",0.25
+statius.achilleid,1.722,"fero, ubi, tempus, sum, clipeus, hic, iungo, donum",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.125
+statius.achilleid,1.723,"qui, pulcher, signum, aurum, asper, hasta, hic",7,"NaN, 1.0, 0.0, 0.5, -0.5, NaN, NaN",0.143,-0.071,hic,0.143
+statius.achilleid,1.724,"satis, sum, cum, tu, lituus, bonus, adsum, agyrtes",8,"0.5, NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.188,0.0,tu,0.125
+statius.achilleid,1.725,"occulo, tuba, taceo, apporto, in, utor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.726,"dico, atque, ipse, portaris, in, limen, rex",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.727,"cerno, et, ostendo, pax, praefor, oliua",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.728,"magnus, reor, pridem, tuus, peruenio, ad, auris",7,"0.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.729,"fama, trux, bellum, rex, placidus, qui, nunc",7,"1.0, NaN, 0.0, 0.0, 1.0, NaN, NaN",0.286,0.0,trux,0.143
+statius.achilleid,1.73,"europamque, asia, quatio, si, nomen, fors",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.731,"huc, perfero, dux, adeo, qui, ultor, atrides",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,"ultor, atrides",0.286
+statius.achilleid,1.732,"hic, tu, qui, tantus, bonus, stirps, creo",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,"hic, tu",0.286
+statius.achilleid,1.733,"magnanimus, tydeus, ithacis, ego, ducto, ulixes",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.734,"causa, uia, metuo, quis, enim, tu, cunctus, fateor",8,"0.0, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.125
+statius.achilleid,1.735,"cum, graius, nosco, fides, celeber, unus",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+statius.achilleid,1.736,"exploraris, aditus, inuideo, litus, troia",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.737,"quis, pareo, medium, sermo, intercipio, ille",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+statius.achilleid,1.738,"annuo, fortuna, precor, dexter, secundo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.739,"iste, deus, nunc, hospitium, meus, tectum, pius",7,"NaN, 0.0, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.74,"in-lustro, lar, simul, intra, limen, duco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.741,"neque, mora, iam, mensa, famularis, turba, torus",7,"NaN, NaN, NaN, 0.0, 0.0, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.742,"instruo, interea, uideo, perlustro, ulixes",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.743,"scrutor, domus, si, qui, uestigium, magnus",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.744,"uirgo, aut, dubius, facies, suspicio, figuro",6,"NaN, NaN, -0.5, 0.0, -0.5, NaN",-0.167,-0.167,uirgo,0.167
+statius.achilleid,1.745,"porticus, uagus, erro, totus, penates",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.746,"ceu, miro, adeo, uelut, ille, cubile, praeda",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.747,"indubito, teneo, muto, lego, aruum, molosso",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.748,"uenator, uideo, donec, sub, frons, hostis",6,"NaN, NaN, NaN, NaN, 0.0, -1.0",-0.167,-0.167,,0.0
+statius.achilleid,1.749,"porrigo, somnus, pono, in, caespes, dens",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.75,"rumor, in, arcanus, iamdudum, perstrepo, aula",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,perstrepo,0.167
+statius.achilleid,1.751,"uirgo, qui, fidus, domus, uenio, pelasgum",6,"NaN, NaN, 1.0, 0.0, NaN, NaN",0.167,0.0,"uirgo, pelasgum",0.333
+statius.achilleid,1.752,"ductor, graiamque, ratis, socius, recipio",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+statius.achilleid,1.753,"ius, paueo, alius, sed, uix, nouo, gaudium, celo",8,"0.5, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.188,0.0,,0.0
+statius.achilleid,1.754,"pelides, auidus, noui, heros, et, arma",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.755,"uel, talis, uideo, cupio, iam, atrium, ferueo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.756,"regal, strepitus, et, pingo, discumbo, aurum",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+statius.achilleid,1.757,"cum, pater, eo, iubeo, nato, comito, pudicus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,pudicus,0.143
+statius.achilleid,1.758,"nataris, subeo, qualis, maeotide, ripa",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,nataris,0.2
+statius.achilleid,1.759,"cum, scythicas, rapio, domus, et, capio, getaris",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.76,"moenia, sepono, epulor, amazones, arma",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.761,"tum, uerus, intendo, uultus, atque, pectus, ulixes",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+statius.achilleid,1.762,"perlibro, uideo, sed, nox, infero, fallo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,fallo,0.167
+statius.achilleid,1.763,"lumen, et, extemplo, lateo, mensura, iacentum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.764,"at, tamen, erigo, gena, oculus, uago",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,gena,0.167
+statius.achilleid,1.765,"nullus, uirgineus, seruo, signum, pudor",5,"NaN, NaN, NaN, 0.0, 0.5",0.1,0.0,pudor,0.2
+statius.achilleid,1.766,"defigo, comes, obliquus, lumen, monstro",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.767,"qui, nisi, praecipito, blandus, complector, moneo",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.768,"deidamia, sinus, nudo, pectus, semper",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.769,"exsero, manus, umerus, in, uestis, teneo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,uestis,0.167
+statius.achilleid,1.77,"et, prodeo, torus, et, posco, uinum, ueto",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.771,"saepis, et, frons, crinal, repono, aurum",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,crinal,0.167
+statius.achilleid,1.772,"argolicis, dux, iam, tunc, pateo, achilles",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,achilles,0.167
+statius.achilleid,1.773,"ut, placo, fames, epulis, bis, ter, re-pono",7,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.071,-0.071,epulis,0.143
+statius.achilleid,1.774,"rex, prior, alloquor, pateo, hortor, achiuos",6,"0.0, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.775,"inuideo, uester, fateor, decus, inclutus, gens",6,"NaN, NaN, NaN, NaN, 0.5, 0.0",0.083,0.0,,0.0
+statius.achilleid,1.776,"argolicus, coepio, utinam, et, ego, fortis, aetas",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 0.0",0.071,0.0,,0.0
+statius.achilleid,1.777,"quisque, sum, dolopas, is, scyria, litus, adorior",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.778,"perdomo, frango, uado, qui, signum, triumphus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.779,"uideo, celsus, murus, in, frons, carino",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.78,"saltem, si, suboles, aptus, quam, mitto, bellum",7,"NaN, NaN, 0.5, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+statius.achilleid,1.781,"no, -ne",2,"NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.782,"nunc, ipse, uireo, meus, et, carus, uideo",7,"NaN, NaN, NaN, 0.0, NaN, 1.0, NaN",0.143,0.0,,0.0
+statius.achilleid,1.783,"pignus, quando, noui, do, hic, ego, turba, nepos",8,"0.0, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,hic,0.125
+statius.achilleid,1.784,"dico, et, sollers, arrepo, tempus, ulixes",6,"NaN, NaN, 1.0, NaN, 0.0, NaN",0.167,0.0,,0.0
+statius.achilleid,1.785,"haud, sperno, cupio, quis, enim, non, uiso, gens",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.786,"innumerus, uarius, dux, atque, agmen, rex",6,"NaN, 0.0, 0.5, NaN, -1.0, 0.0",-0.083,-0.167,,0.0
+statius.achilleid,1.787,"ardeo, omnis, simul, robur, decus, possum",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.788,"europae, mereo, ultro, iuro, in, ensis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.789,"rus, urbs, uaco, mons, spolio, alo",6,"0.0, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.79,"omnis, fretus, longus, uelum, obtexitur, umbra",6,"NaN, 0.5, 0.0, NaN, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.791,"trado, arma, pater, rapio, irreuocatus, iuuentus",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.792,"non, alius, umquam, tantus, do, copia, fama",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 1.0",0.214,0.0,,0.0
+statius.achilleid,1.793,"fortis, aut, campus, magnus, exerceo, uirtus",6,"0.5, NaN, 0.0, 0.0, NaN, 1.0",0.25,0.0,,0.0
+statius.achilleid,1.794,"aspicio, intentus, uigil, hic, auris, traho",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+statius.achilleid,1.795,"cum, paueo, alius, demitto, lumen, flecto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.796,"atque, itero, quisquis, proauus, et, gens, superbus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, -1.0",-0.143,-0.143,,0.0
+statius.achilleid,1.797,"quisquis, equus, iaculus, possum, qui, praeualeo, arcus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.798,"omnis, honor, illic, illic, ingens, certo",6,"NaN, 1.0, NaN, NaN, -0.5, NaN",0.083,-0.083,,0.0
+statius.achilleid,1.799,"nomen, uix, timidus, mater, aut, agmen, cesso",7,"0.0, NaN, -0.5, 0.0, NaN, -1.0, NaN",-0.214,-0.214,timidus,0.143
+statius.achilleid,1.8,"uirgineus, aulus, multus, sterilis, damno, in, annus",7,"NaN, NaN, 0.0, -0.5, NaN, NaN, 0.0",-0.071,-0.071,damno,0.143
+statius.achilleid,1.801,"inuideo, deus, si, qui, hic, nouo, gloria, segnis",8,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.125
+statius.achilleid,1.802,"praetereo, exeo, sterno, ni, prouidus, signum",6,"NaN, NaN, NaN, NaN, 1.0, 0.0",0.167,0.0,,0.0
+statius.achilleid,1.803,"deidamia, do, cunctus, horto, soror",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.804,"linquo, mensa, ipse, complector, sed, haereo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.805,"respicio, ithacum, coitus, nouus, exeo",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+statius.achilleid,1.806,"ille, quidem, inceptum, paulus, ex, sermo, remitto",7,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+statius.achilleid,1.807,"paucus, tamen, iungo, at, tu, tranquillus, in, altus",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,tu,0.125
+statius.achilleid,1.808,"pax, mane, caueo, paro, conubium, obstino",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+statius.achilleid,1.809,"qui, tu, sidereus, diuaris, uultus, aequo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+statius.achilleid,1.81,"fors, do, ut, ego, olim, taceo, reuerendus, tango",8,"0.0, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.125,0.0,,0.0
+statius.achilleid,1.811,"is, decor, et, forma, species, permisceo, uirilis",7,"NaN, NaN, NaN, 1.0, NaN, NaN, 0.5",0.214,0.0,,0.0
+statius.achilleid,1.812,"occurro, genitor, quis, si, aut, bacchea, fero",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.813,"Orgia, palladias, aut, circum, uideo, ara",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.814,"et, do, si, fors, nouus, cuncto, auster",7,"NaN, NaN, NaN, 0.0, 1.0, NaN, NaN",0.143,0.0,,0.0
+statius.achilleid,1.815,"excipio, cupidus, et, taceo, spes, addo, uoueo",7,"NaN, -0.5, NaN, NaN, 0.5, NaN, NaN",0.0,-0.071,,0.0
+statius.achilleid,1.816,"ceterus, depono, lycomedis, regius, cura",5,"0.0, NaN, NaN, 0.0, -1.0",-0.2,-0.2,,0.0
+statius.achilleid,1.817,"tranquillus, sub, pax, sileo, sed, longus, sagax",7,"NaN, NaN, 0.5, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+statius.achilleid,1.818,"nox, ithaco, lux, cupio, somnus, grauo",6,"0.0, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+statius.achilleid,1.819,"uixdum, exorior, dies, et, iam, comitor, agyrte",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.82,"tydides, adsum, praedico, donum, fero",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.821,"neque, paruus, egredior, thalamus, scyreides, eo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.822,"ostentaris, chorus, promitto, sacer, uereor",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+statius.achilleid,1.823,"hospes, niteo, ante, alius, regina, como",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.824,"pelides, qualis, sicula, sub, rupes, aetnae",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.825,"naidas, ennaeas, inter, diana, ferox",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,ferox,0.2
+statius.achilleid,1.826,"pallas, et, elysii, luceo, sponsa, tyrannus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tyrannus,0.167
+statius.achilleid,1.827,"iam, moueo, gressus, thiasus, ismenia, buxus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.828,"signum, do, quater, aes, rheae, quater, entheus, pulso",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,entheus,0.125
+statius.achilleid,1.829,"tergum, manus, uarius, quater, lego, recursus",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.83,"tunc, thyrsus, parito, leuo, parito, repono",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.831,"multiplico, gradus, modo, quo, curetes, in, actus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.832,"quoque, pius, samothraces, eo, nunc, obuius, uerro",7,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+statius.achilleid,1.833,"pecto, amazonio, modo, quo, cito, orbis, lacaenas",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,pecto,0.143
+statius.achilleid,1.834,"de_-lio, plaudo, suus, intorqueo, amyclis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,de_-lio,0.2
+statius.achilleid,1.835,"tunc, uerus, tunc, praecipuus, manifestus, achilles",6,"NaN, 0.5, NaN, 0.0, -0.5, NaN",0.0,-0.083,achilles,0.167
+statius.achilleid,1.836,"neque, seruaris, uicis, neque, bracchium, iungo, curo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.837,"tunc, mollis, gressus, tunc, aspernor, amicio",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,aspernor,0.167
+statius.achilleid,1.838,"multus, soleo, rumpo, chorus, et, multus, turbo",7,"0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.839,"sic, indignor, thyrsus, accipio, mater",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.84,"tympanum, iam, tristis, specto, penthea, thebe",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,penthea,0.167
+statius.achilleid,1.841,"soluo, laudo, cohors, repeto, paternus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.842,"limen, ubi, in, medius, iamdudum, sedes, aula",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.843,"munus, uirgineus, uideo, frango, loco",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+statius.achilleid,1.844,"tydides, signum, hospitium, pretium, labor",5,"NaN, 0.0, 0.0, 1.0, -0.5",0.1,-0.1,pretium,0.2
+statius.achilleid,1.845,"horto, lego, neque, rex, placidus, arceo",6,"NaN, NaN, NaN, 0.0, 1.0, NaN",0.167,0.0,,0.0
+statius.achilleid,1.846,"heu, simplex, nimius, rudis, qui, callidus, donum",7,"NaN, 0.5, NaN, -0.5, NaN, 1.0, 0.0",0.143,-0.071,"heu, nimius, callidus",0.429
+statius.achilleid,1.847,"graiorumque, dolus, uarius, ignoro, ulixem",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,dolus,0.2
+statius.achilleid,1.848,"hic, alius, qui, sexus, iners, natura, duco",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,"hic, iners",0.286
+statius.achilleid,1.849,"aut, teres, thyrsus, aut, respondeo, tento",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.85,"tympanum, gemino, aut, necto, tempus, limbus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.851,"arma, uideo, magnus, puto, dono, parens",6,"0.0, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+statius.achilleid,1.852,"at, ferus, aeacides, radio, ut, comminus, orbis",7,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,"ferus, aeacides",0.286
+statius.achilleid,1.853,"caelo, pugna, saeuus, et, fors, rubeo",6,"NaN, -1.0, -1.0, NaN, 0.0, NaN",-0.333,-0.333,saeuus,0.167
+statius.achilleid,1.854,"bellum, maculis, adclinem, conspicio, hasta",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.855,"infremo, torqueo, gena, et, frons, relinquo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"infremo, gena",0.333
+statius.achilleid,1.856,"surgo, coma, nusquam, mandatum, parens",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+statius.achilleid,1.857,"nusquam, occulo, amor, totus, in, pectus, troia, sum",8,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+statius.achilleid,1.858,"ut, leo, maternus, cum, rapio, ab, uber, mos",8,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, 0.5",0.188,0.0,leo,0.125
+statius.achilleid,1.859,"accipio, pecto, iuba, homo, uereor",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,pecto,0.2
+statius.achilleid,1.86,"edisco, nullus, rapio, nisi, iubeo, in, ira",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+statius.achilleid,1.861,"si, semel, aduerso, radio, lumen, ferrum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.862,"ex-iuro, fides, domito, inimicus, in, ille",6,"NaN, 1.0, NaN, -1.0, NaN, NaN",0.0,-0.167,,0.0
+statius.achilleid,1.863,"primus, fames, timidus, pudeo, seruio, magister",6,"0.5, -0.5, -0.5, NaN, NaN, 0.5",0.0,-0.167,"timidus, pudeo",0.333
+statius.achilleid,1.864,"ut, uerus, accedo, propius, lux, aemulo, uultus",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+statius.achilleid,1.865,"reddo, et, similis, talis, sui, uideo, in, aurum",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,,0.0
+statius.achilleid,1.866,"horreo, erubesco, simul, tunc, acer, ulixes",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,erubesco,0.167
+statius.achilleid,1.867,"admoueo, lateo, summitto, uox, quis, haereo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.868,"scio, aio, tu, semifer, chironis, alumnus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, semifer",0.333
+statius.achilleid,1.869,"tu, caelum, pelagius, nepos, tu, doricus, classis",7,"NaN, 0.5, 0.0, 0.0, NaN, NaN, NaN",0.071,0.0,"tu, tu, classis",0.429
+statius.achilleid,1.87,"tu, tuus, suspendo, exspecto, graecia, signum",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.167
+statius.achilleid,1.871,"ipse, iam, dubius, nuto, tu, pergama, murus",7,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.071,-0.071,"tu, pergama",0.286
+statius.achilleid,1.872,"heia, abrumpo, mora, sine, perfidus, palleo, ide",7,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,perfidus,0.143
+statius.achilleid,1.873,"et, iuuo, hic, audio, pater, pudeo, dolosus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"hic, pudeo",0.286
+statius.achilleid,1.874,"sic, pro, tu, timeo, theti, -ne, iam, pectus, amictus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.056,0.0,"tu, theti",0.222
+statius.achilleid,1.875,"laxo, cum, grandis, tuba, sic, iubeo, agyrtes",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.876,"insono, fugio, dis-iacio, undique, donum",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.877,"imploro, pater, commoueo, proelio, credo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.878,"ille, intactus, cado, ab, pectus, uestis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uestis,0.167
+statius.achilleid,1.879,"iam, clipeus, breuis, manus, consumo, hasta",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.88,"mirus, fides, ithacumque, umerus, excedo, uideo",6,"1.0, 1.0, NaN, NaN, NaN, NaN",0.333,0.0,,0.0
+statius.achilleid,1.881,"aetolumque, dux, tantus, subeo, arma, calo",6,"NaN, 0.5, NaN, NaN, 0.0, NaN",0.083,0.0,,0.0
+statius.achilleid,1.882,"martius, horreo, confundo, lux, penates",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.883,"immanis, gradus, ceu, protinus, hector, posco",6,"0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,immanis,0.167
+statius.achilleid,1.884,"sto, medius, trepido, domus, peleaque, uirgo",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,uirgo,0.167
+statius.achilleid,1.885,"quaero, at, alius, plango, pars, retego",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.886,"deidamia, dolus, qui, cum, grandis, primus",6,"NaN, NaN, NaN, NaN, 0.0, 0.5",0.083,0.0,dolus,0.167
+statius.achilleid,1.887,"lamento, et, nosco, accipio, pectus, uoco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.888,"haereo, et, occulo, uirtus, infringo, calor, sum",7,"NaN, NaN, NaN, 1.0, NaN, 0.0, NaN",0.143,0.0,,0.0
+statius.achilleid,1.889,"demitto, clipeus, rego, ad, lumen, uerro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.89,"attono, facio, inopinus, monstrum, paueo",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,monstrum,0.2
+statius.achilleid,1.891,"sicut, sum, nudus, lycomedem, affor, in, arma",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.892,"ego, tu, caris, pater, dubius, dimitto, pauor",7,"NaN, NaN, NaN, 0.0, -0.5, NaN, -1.0",-0.214,-0.214,tu,0.143
+statius.achilleid,1.893,"ego, do, almus, thetis, tu, pridem, tantus, maneo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"thetis, tu",0.25
+statius.achilleid,1.894,"gloria, quaero, danais, tu, mitto, achillem",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.167
+statius.achilleid,1.895,"gratus, et, magnus, si, fas, dico, pareo",7,"1.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+statius.achilleid,1.896,"et, dulcis, chirone, ego, sed, cor, parumper",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+statius.achilleid,1.897,"huc, aduerto, libet, atque, hic, bonus, accipio, uoco",8,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.125,0.0,hic,0.125
+statius.achilleid,1.898,"peleus, tu, natus, socer, et, thetis, hospita, iungo",8,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,"tu, thetis, hospita",0.375
+statius.achilleid,1.899,"ad-lego, suus, uterque, ab, sanguis, diuus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.9,"unus, uirgineus, nataris, ex, agmen, posco",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,nataris,0.167
+statius.achilleid,1.901,"do, an, gens, humilis, tu, degenero, uideo",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"humilis, tu",0.286
+statius.achilleid,1.902,"non, renuo, iungo, ergo, manus, et, concipio, foedus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, -1.0",-0.125,-0.125,,0.0
+statius.achilleid,1.903,"atque, ignosco, tuus, taceo, iam, cognosco, furtum",7,"NaN, NaN, 0.0, NaN, NaN, NaN, -1.0",-0.143,-0.143,furtum,0.143
+statius.achilleid,1.904,"deidamia, ego, quis, enim, hic, obstaris, lacertus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+statius.achilleid,1.905,"qui, possum, noster, possessus, repello, uires",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.906,"ego, luo, iste, iubeo, pono, arma, et, reddo, pelasgis",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,luo,0.111
+statius.achilleid,1.907,"et, maneo, quis, tristis, fremo, quis, lumen, muto",8,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.125,-0.125,,0.0
+statius.achilleid,1.908,"iam, socer, sum, natus, ante, pes, prosterno, et, addo",9,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.909,"iam, auus, immitis, quotiens, itero, ensis",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,immitis,0.167
+statius.achilleid,1.91,"turba, sum, tunc, et, danai, per, sacer, fides",8,"0.0, NaN, NaN, NaN, NaN, NaN, 1.0, 1.0",0.25,0.0,danai,0.125
+statius.achilleid,1.911,"hospitium, blandus, prex, compello, ulixes",5,"0.0, 0.5, 0.0, NaN, NaN",0.1,0.0,,0.0
+statius.achilleid,1.912,"ille, etsi, carus, comperio, iniuria, nascor",6,"NaN, NaN, 1.0, NaN, -1.0, NaN",0.0,-0.167,,0.0
+statius.achilleid,1.913,"et, thetidis, mandatum, moueo, prodo, uideo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.914,"depono, tam, grandis, dea, tamen, obuius, eo",7,"NaN, NaN, 0.0, NaN, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+statius.achilleid,1.915,"tot, metuo, fatum, argiuaque, bellum, moraris",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,1.916,"facio, uolo, ipse, illic, mater, sperno, achilles",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,achilles,0.143
+statius.achilleid,1.917,"neque, tamen, abnuo, gener, sui, iungo, talis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.918,"uincio, areanis, effero, pudibundus, tenebrae",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.919,"deidamia, gradus, uenia, neque, protinus, amens",6,"NaN, 0.0, 1.0, NaN, NaN, -1.0",0.0,-0.167,amens,0.167
+statius.achilleid,1.92,"credo, et, oppono, genitor, placeo, achille",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.921,"mitto, haemoniam, magnus, qui, pelea, facio",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.922,"impleo, et, classis, comito, in, proelio, posco",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,classis,0.143
+statius.achilleid,1.923,"neque, non, et, gemino, regnator, scyrius, alnus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.924,"deduco, gener, uireo, excuso, achiuis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.925,"tunc, epulis, consumo, dies, tandem, retego",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,epulis,0.167
+statius.achilleid,1.926,"foedus, et, intrepidus, nox, conscius, iungo, amo",7,"-1.0, NaN, 1.0, 0.0, -0.5, NaN, NaN",-0.071,-0.214,conscius,0.143
+statius.achilleid,1.927,"ille, ante, oculus, nouo, bellum, et, xanthus, et, ide",9,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.928,"argolicaeque, ratis, atque, ipse, cogito, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,1.929,"aurora, timeo, carus, ceruix, maritus",5,"NaN, NaN, 1.0, NaN, 0.0",0.2,0.0,maritus,0.2
+statius.achilleid,1.93,"fundo, nosco, lacrima, iam, soluo, et, occupo, artus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.931,"aspicio, -ne, iterum, ego, hic, in, pectus, pono",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+statius.achilleid,1.932,"aeacide, rursus, tuus, digno, pario",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,1.933,"an, tumidus, teucrosque, lar, et, capio, reporto",7,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+statius.achilleid,1.934,"pergama, uirgineus, nolo, memini, latebra",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,pergama,0.2
+statius.achilleid,1.935,"quis, preco, heu, timeo, prior, quis, anxius, mando",8,"NaN, NaN, NaN, NaN, 0.5, NaN, -1.0, NaN",-0.062,-0.125,heu,0.125
+statius.achilleid,1.936,"qui, uix, fleo, uaco, modo, tu, nox, unus, do",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.111
+statius.achilleid,1.937,"inuideo, ego, thalamus, hic, tempus, noster",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.167
+statius.achilleid,1.938,"hic, sum, liber, hymen, o, dulcis, furtum, dolus",8,"NaN, NaN, 0.5, NaN, NaN, 0.5, -1.0, NaN",0.0,-0.125,"hic, furtum, dolus",0.375
+statius.achilleid,1.939,"o, timor, abripio, miser, permitto, achilles",6,"NaN, -0.5, NaN, -1.0, NaN, NaN",-0.25,-0.25,"miser, achilles",0.333
+statius.achilleid,1.94,"eo, neque, enim, tantus, audeo, reuocaris, paro",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.941,"eo, caueo, neque, uanus, theti, -ne, timeo, memento",8,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.062,-0.062,"uanus, theti",0.25
+statius.achilleid,1.942,"eo, felix, noster, redeo, nimis, improbus, posco",7,"NaN, 1.0, NaN, NaN, NaN, -1.0, NaN",0.0,-0.143,improbus,0.143
+statius.achilleid,1.943,"iam, tu, spero, lacrima, plango, decorus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+statius.achilleid,1.944,"troades, opto, tuus, do, collum, catena",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,catena,0.167
+statius.achilleid,1.945,"et, patria, pensaris, torus, aut, ipse, placeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.946,"tyndaris, incesto, nimium, laudo, rapina",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"incesto, rapina",0.4
+statius.achilleid,1.947,"at, nos, primus, puerilis, fabula, culpa",6,"NaN, NaN, 0.5, 0.0, 0.0, -1.0",-0.083,-0.167,culpa,0.167
+statius.achilleid,1.948,"narro, famulis, aut, dissimulo, lateo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,1.949,"quin, ago, duco, comes, cur, non, ego, martia, cum, tu",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+statius.achilleid,1.95,"signum, fero, tu, thyrsa, manus, baccheaque, cum, ego",8,"0.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"tu, baccheaque",0.25
+statius.achilleid,1.951,"sacer, qui, infelix, non, credo, troia, fero",7,"1.0, NaN, -1.0, NaN, NaN, NaN, NaN",0.0,-0.143,infelix,0.143
+statius.achilleid,1.952,"attamen, hic, qui, maestus, ego, solacium, linquo",7,"NaN, NaN, NaN, -1.0, NaN, 1.0, NaN",0.0,-0.143,hic,0.143
+statius.achilleid,1.953,"hic, saltem, sub, cor, teneo, et, concedo, precor",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+statius.achilleid,1.954,"hic, solus, pario, ne, quis, tu, barbarum, coniunx",8,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN, -0.5",-0.125,-0.125,"hic, tu, barbarum",0.375
+statius.achilleid,1.955,"ne, qui, do, indignus, thetidi, captiuus, nepos",7,"NaN, NaN, NaN, -1.0, NaN, -1.0, 0.0",-0.286,-0.286,"thetidi, captiuus",0.286
+statius.achilleid,1.956,"talis, dico, non, ipse, immotus, achilles",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,achilles,0.167
+statius.achilleid,1.957,"solo, iuro, fides, iuro, fleo",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+statius.achilleid,1.958,"spondeo, et, ingens, famulo, capio, reuorto",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+statius.achilleid,1.959,"ilium, -ne, et, phrygiae, promitto, munus, gaza",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+statius.achilleid,1.96,"irrito, uentosus, rapio, uerbum, procella",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,2.1,"exuo, implico, tenebrae, umeo, orbis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.2,"oceanus, profero, dies, genitor, coruscus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.3,"lucus, adhuc, hebeto, uicinum, nox, leuo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,2.4,"et, nondum, excutio, roro, lampada, pontus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,2.5,"et, iam, puniceus, nudo, pectus, palla",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,puniceus,0.167
+statius.achilleid,2.6,"insignis, ipse, qui, primus, inuado, arma",6,"0.0, NaN, NaN, 0.5, NaN, 0.0",0.083,0.0,,0.0
+statius.achilleid,2.7,"aeacide, -ne, quippe, aura, uoco, cognatus, suadeo",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+statius.achilleid,2.8,"aequor, prospecto, cunctus, iuuenis, dux",5,"0.0, NaN, 0.0, NaN, 0.5",0.1,0.0,,0.0
+statius.achilleid,2.9,"nihil, audeo, memini, paueo, sic, omnis, uideo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.1,"muto, redeo, ceu, numquam, scyria, patior",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.11,"litus, peliacoque, ratis, escendo, ab, antrum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,2.12,"tunc, ex, mos, deus, ita, namque, moneo, ulixes",8,"NaN, NaN, 0.5, 0.0, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+statius.achilleid,2.13,"aequor, auster, lito, fluctus, sub, ipse",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.14,"caeruleus, rex, taurus, ueneror, auus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.15,"nerea, uittatus, genetrix, placo, iuuencus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.16,"hic, spumo, salum, iacio, tumidus, exta, profor",7,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN",-0.071,-0.071,hic,0.143
+statius.achilleid,2.17,"pareo, genetrix, quamquam, haud, tolero, iubeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.18,"pareo, nimium, bellum, ad, troianus, ratis",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.19,"argolicas, quaero, is, sic, ordior, et, alnus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.2,"in-sileo, penitus, nosco, strideo, propinquus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,2.21,"abripio, terra, et, iam, arduus, duco, nubes",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.22,"incipio, et, longus, scyros, discedo, pontus",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,2.23,"turris, procul, summus, lacrima, comito, soror",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.24,"committo, teneo, et, habeo, nomen, pyrrhum",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,2.25,"pendo, coniunx, oculus, in, carbasus, figo",6,"NaN, -0.5, 0.0, NaN, NaN, NaN",-0.083,-0.083,,0.0
+statius.achilleid,2.26,"eo, et, ipse, fretus, et, puppis, iam, solus, uideo",9,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, -0.5, NaN",0.0,-0.056,,0.0
+statius.achilleid,2.27,"ille, quoque, obliquus, diligo, ad, moenia, uultus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.28,"declino, uidua, domus, gemo, relinquo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,uidua,0.2
+statius.achilleid,2.29,"cogito, occulo, sub, cor, renascor, ardor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.3,"do, locus, uirtus, sentio, laertius, heros",6,"NaN, 0.0, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+statius.achilleid,2.31,"maereo, et, placidus, aggredior, flecto, dictum",6,"NaN, NaN, 1.0, NaN, NaN, 0.0",0.167,0.0,,0.0
+statius.achilleid,2.32,"teneo, inquam, magnus, uastator, debeo, troia",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.33,"qui, danaae, classis, qui, diuus, oraculum, posco",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,classis,0.143
+statius.achilleid,2.34,"erigo, maneo, resero, in, limen, bellum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,2.35,"callidus, femineus, genetrix, uiolo, amictus",5,"1.0, -0.5, NaN, NaN, 0.5",0.2,-0.1,"callidus, uiolo",0.4
+statius.achilleid,2.36,"committo, ille, tam, grandis, furtum, latebra",6,"NaN, NaN, NaN, 0.0, -1.0, -0.5",-0.25,-0.25,furtum,0.167
+statius.achilleid,2.37,"spero, fides, nimis, o, suspendo, nimis",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+statius.achilleid,2.38,"mater, an, hic, taceo, uirtus, torpeo, in, umbra",8,"0.0, NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.125,0.0,hic,0.125
+statius.achilleid,2.39,"qui, uix, audio, litus, clangor, refugio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.4,"et, theti, -ne, et, comes, et, qui, supprimo, ignis",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,theti,0.111
+statius.achilleid,2.41,"neque, nos, sum, qui, in, arma, uenio, sequor, preco",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.42,"uenio, dico, qui, talis, occupo, heros",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.43,"aeacius, longus, resideo, expono, causa",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,2.44,"maternus, nefas, hic, excuso, ensis",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,"nefas, hic",0.4
+statius.achilleid,2.45,"scyros, et, indecoro, fatum, crimen, cultus",6,"NaN, NaN, NaN, 0.0, -1.0, -0.5",-0.25,-0.25,crimen,0.167
+statius.achilleid,2.46,"tu, potis, dum, lenis, fretus, zephyroque, fruor",7,"NaN, 0.0, NaN, 1.0, 0.5, NaN, NaN",0.214,0.0,tu,0.143
+statius.achilleid,2.47,"carbasus, qui, danais, tantus, primordius, bellum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,2.48,"edo, libet, iustus, hinc, sumo, protinus, ira",7,"NaN, NaN, 1.0, NaN, NaN, NaN, -1.0",0.0,-0.143,,0.0
+statius.achilleid,2.49,"hic, ithacus, paulus, repeto, longus, ordior",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.167
+statius.achilleid,2.5,"fero, in, hectorea, si, talis, credo, ida",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.51,"eligo, forma, certamen, soluo, pastor",5,"NaN, 1.0, 0.5, NaN, NaN",0.3,0.0,,0.0
+statius.achilleid,2.52,"sollicitus, teneo, dea, neque, toruus, mineruae",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+statius.achilleid,2.53,"os, neque, aetherius, socia, rector, amicus",6,"0.0, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+statius.achilleid,2.54,"lumen, sed, solus, nimium, uideo, dio, -ne",7,"NaN, NaN, -0.5, 0.0, NaN, NaN, NaN",-0.071,-0.071,,0.0
+statius.achilleid,2.55,"atque, adeo, lis, ille, tuus, exorior, sub, antrum",8,"NaN, NaN, -0.5, NaN, 0.0, NaN, NaN, 0.0",-0.062,-0.062,,0.0
+statius.achilleid,2.56,"concilio, superi, dum, pelea, dulcis, marito",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,marito,0.167
+statius.achilleid,2.57,"pelion, et, noster, iam, tunc, promitto, arma",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,2.58,"ira, quatio, uinco, peto, exitialis, iudex",6,"-1.0, NaN, NaN, NaN, -1.0, 0.5",-0.25,-0.333,,0.0
+statius.achilleid,2.59,"praemium, raptor, facilis, monstro, amyclae",5,"1.0, NaN, 0.5, NaN, NaN",0.3,0.0,raptor,0.2
+statius.achilleid,2.6,"ille, phrygas, lucus, mater, penetralis, caedo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.61,"turrigerae, uereor, solum, procumbo, pinus",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,2.62,"praecipio, terra, fretus, defero, achaeas",5,"NaN, 0.0, 0.5, NaN, NaN",0.1,0.0,,0.0
+statius.achilleid,2.63,"hospes, atridae, pudeo, heu, misero, possum",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"pudeo, heu, misero",0.5
+statius.achilleid,2.64,"europae, spolio, thalamus, helenaque, superbus",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+statius.achilleid,2.65,"nauigo, et, capio, ad, pergama, deueho, argos",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,pergama,0.143
+statius.achilleid,2.66,"inde, do, passim, uario, rumor, per, urbs",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+statius.achilleid,2.67,"undique, inexcitus, sui, quisque, et, sponte, coeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.68,"ultor, quis, enim, illicitus, genialia, rumpo",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,"ultor, illicitus",0.333
+statius.achilleid,2.69,"paciscor, dolus, facilis, traho, conubium, rapio",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,dolus,0.167
+statius.achilleid,2.7,"ceu, pecus, armentum, aut, uilis, messis, aceruus",7,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN",-0.071,-0.071,uilis,0.143
+statius.achilleid,2.71,"perfero, hic, etiam, fortis, iactura, moueo",6,"NaN, NaN, NaN, 0.5, -0.5, NaN",0.0,-0.083,hic,0.167
+statius.achilleid,2.72,"non, fero, insidiae, diuus, imperiosus, agenor",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,insidiae,0.167
+statius.achilleid,2.73,"mugio, sacer, et, magnus, numen, ueho",6,"NaN, 1.0, NaN, 0.0, NaN, NaN",0.167,0.0,,0.0
+statius.achilleid,2.74,"quaero, europe, -ne, aspernor, tono, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"europe, aspernor",0.333
+statius.achilleid,2.75,"ut, gener, rapio, scythico, de, litus, proles",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+statius.achilleid,2.76,"non, fero, aeetes, ferrum, et, classis, sequor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,classis,0.143
+statius.achilleid,2.77,"semideus, rex, et, eo, in, sidus, puppis",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.78,"nos, phryga, semiuir, portus, et, litus, circum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.79,"argolica, incesto, uolito, puppis, fero",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,incesto,0.2
+statius.achilleid,2.8,"usque, adeo, nusquam, arma, et, equus, fretus, inuius, grais",9,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.5, 0.0, NaN",0.056,0.0,,0.0
+statius.achilleid,2.81,"quis, si, nunc, aliquis, patrius, rapio, ab, ora",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.82,"deidamia, -ne, eo, uiduo, e, sedes, reuello",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,2.83,"attono, et, magnus, clamo, nomen, achillis",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,2.84,"ille, ad, capulus, redeo, manus, atque, simul, ingens",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, -0.5",-0.062,-0.062,,0.0
+statius.achilleid,2.85,"impello, os, rubor, taceo, contineo, ulixes",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,rubor,0.167
+statius.achilleid,2.86,"excipio, oenides, quin, o, dignus, caelum",6,"NaN, NaN, NaN, NaN, 1.0, 0.5",0.25,0.0,,0.0
+statius.achilleid,2.87,"progenies, ritus, tuus, elementum, primus",5,"0.0, NaN, 0.0, 0.5, 0.5",0.2,0.0,,0.0
+statius.achilleid,2.88,"indoles, et, ualidus, mox, accedo, iuuenta",6,"0.0, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+statius.achilleid,2.89,"qui, soleo, laus, tu, semen, pando, chiro, -ne",8,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.125,0.0,tu,0.125
+statius.achilleid,2.9,"uirtus, aditus, qui, membrum, augeo, per, ars",7,"1.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.143,0.0,,0.0
+statius.achilleid,2.91,"qui, animus, socius, multus, faueo, edo",6,"NaN, 0.5, 1.0, 0.0, NaN, NaN",0.25,0.0,,0.0
+statius.achilleid,2.92,"sum, pretium, longus, penitus, quaero, per, unda",7,"NaN, 1.0, 0.0, NaN, NaN, NaN, 0.0",0.143,0.0,pretium,0.143
+statius.achilleid,2.93,"scyro, -ne, et, hic, primus, arma, ostendo, lacertus",8,"NaN, NaN, NaN, NaN, 0.5, 0.0, NaN, NaN",0.062,0.0,hic,0.125
+statius.achilleid,2.94,"qui, pigeo, suus, facio, loquor, tamen, ille, modestus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,modestus,0.125
+statius.achilleid,2.95,"incoho, ambiguus, paulus, propio, cogo",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+statius.achilleid,2.96,"dico, et, in, teneo, et, adhuc, repto, annus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,repto,0.125
+statius.achilleid,2.97,"thessalus, ut, rigidus, senex, ego, mons, recipio",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.98,"non, ullus, ex, mos, cibus, haurio, neque, almus",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+statius.achilleid,2.99,"uber, satio, fames, sed, spisso, leo",6,"1.0, NaN, -0.5, NaN, NaN, NaN",0.083,-0.083,leo,0.167
+statius.achilleid,2.1,"uiscera, semianimis, lupa, traho, medulla",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,semianimis,0.2
+statius.achilleid,2.101,"hic, ego, primus, cero, hic, laetus, munus, bacchi",8,"NaN, NaN, 0.5, NaN, NaN, 1.0, 0.5, NaN",0.25,0.0,"hic, hic",0.25
+statius.achilleid,2.102,"sic, do, ille, pater, mox, eo, per, inuius, cum, sui",10,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.103,"lustro, gradus, magnus, traho, uideo, doceo",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.104,"ad-rideo, fera, neque, frango, ruo, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,fera,0.167
+statius.achilleid,2.105,"saxum, neque, ad, uastus, trepido, silentium, silua",7,"0.0, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,uastus,0.143
+statius.achilleid,2.106,"iam, tunc, arma, manus, iam, tunc, ceruix, pharetra",8,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.107,"et, fero, propero, amor, duro, multus",6,"NaN, NaN, NaN, 1.0, NaN, 0.0",0.167,0.0,,0.0
+statius.achilleid,2.108,"sol, gelus, cutis, tener, neque, fluo, cubile",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,cutis,0.143
+statius.achilleid,2.109,"membrum, sed, ingens, saxum, communis, magister",6,"NaN, NaN, -0.5, 0.0, 0.0, 0.5",0.0,-0.083,,0.0
+statius.achilleid,2.11,"uix, ego, bissenos, annus, torqueo, orbo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.111,"uito, rudis, uolucris, cum, iam, praeuerto, ceruus",7,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+statius.achilleid,2.112,"et, lapithas, cogo, equus, praemitto, cursus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.113,"telum, sequor, saepe, ipse, gradus, ego, praepeto, chiro, -ne",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.114,"dum, uelox, aetas, campus, admitto, ago",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.115,"omnis, exhaurio, uago, per, gramen, passus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.116,"laudo, gaudeo, atque, in, suus, tergum, leuo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.117,"saepe, etiam, primus, fluuius, torpor, iubeo",6,"NaN, NaN, 0.5, NaN, -1.0, NaN",-0.083,-0.167,,0.0
+statius.achilleid,2.118,"eo, supra, glacio, leuis, non, frango, planto",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.119,"hic, puerilis, decus, quis, nunc, tu, proelio, dico",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, tu",0.25
+statius.achilleid,2.12,"siluaris, et, saeuus, uacuus, iam, murmur, saltus",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,saeuus,0.143
+statius.achilleid,2.121,"numquam, ille, imbellis, ossaea, per, auia, damma",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,damma,0.143
+statius.achilleid,2.122,"sectaris, aut, timidus, patior, ego, cuspis, lyncas",7,"NaN, NaN, -0.5, NaN, NaN, -1.0, NaN",-0.214,-0.214,"timidus, lyncas",0.286
+statius.achilleid,2.123,"sterno, sed, tristis, turbo, cubilis, ursus",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,ursus,0.167
+statius.achilleid,2.124,"fulmineus, sus, et, sicubi, maximus, tigris",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fulmineus,0.167
+statius.achilleid,2.125,"aut, seduco, iugum, fetus, spelunca, leaena",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,leaena,0.167
+statius.achilleid,2.126,"ipse, sedeo, uasto, facio, exspecto, in, antrum",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,uasto,0.143
+statius.achilleid,2.127,"si, spargo, niger, remearis, sanguis, neque, ego",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.128,"ante, nisi, inspicio, admitto, ad, osculum, telum",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,2.129,"iam, et, ad, ensifer, uicinum, pubes, tumultus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.13,"apto, neque, ego, ullus, ferio, mauortis, imago",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.131,"praetereo, disco, quo, paeon, arma, roto",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,2.132,"quo, macetae, suus, gaesum, cito, quo, turbo, contus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.133,"sauromates, falx, getes, arx, gelonus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.134,"tendo, et, flecto, balearicus, actor, habena",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+statius.achilleid,2.135,"quo, suspendo, traho, libro, uulnero, torqueo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.136,"includo, suus, distinguo, aes, gyrus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.137,"uix, memoro, cunctus, etsi, bene, gero, ago",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.138,"nunc, doceo, ingens, saltus, ego, iungo, fossa",7,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+statius.achilleid,2.139,"nunc, caput, aerius, scando, prehendo, mons",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.14,"quo, fugio, per, planum, gradus, simulacrum, pugna",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, -1.0",-0.143,-0.143,planum,0.143
+statius.achilleid,2.141,"excipio, immitto, scutato, umbo, molaris",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.142,"ardeo, erro, cado, pedito, uolo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.143,"sisto, quadriiugi, memini, rapidus, eo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.144,"imber, assiduus, pasco, nix, soluo",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+statius.achilleid,2.145,"spercheos, uiuo, trabs, et, saxum, fero",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,spercheos,0.167
+statius.achilleid,2.146,"cum, ego, ille, immitto, qui, saeuus, impetus, unda",8,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, 0.0",-0.125,-0.125,saeuus,0.125
+statius.achilleid,2.147,"sto, iubeo, contra, tumidus, repello, fluctus",6,"NaN, NaN, NaN, -0.5, NaN, 0.0",-0.083,-0.083,,0.0
+statius.achilleid,2.148,"qui, uix, ipse, gradus, totiens, obsto, fero",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.149,"sto, equidem, sed, ego, refero, concieo, amnis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.15,"et, fero, caligo, fuga, ferus, ille, mino",7,"NaN, NaN, -0.5, -0.5, -1.0, NaN, NaN",-0.286,-0.286,ferus,0.143
+statius.achilleid,2.151,"desuper, incumbo, uerbum, urgeo, pudor",5,"NaN, NaN, 0.0, NaN, 0.5",0.1,0.0,pudor,0.2
+statius.achilleid,2.152,"neque, nisi, iubeo, abeo, sic, ego, sublimis, ago",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,,0.0
+statius.achilleid,2.153,"gloria, neque, durus, tantus, sub, testis, labor",7,"0.0, NaN, -0.5, NaN, NaN, NaN, -0.5",-0.143,-0.143,,0.0
+statius.achilleid,2.154,"nam, procul, oebalios, in, nubila, condo, discus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.155,"et, liquidus, nodaris, pal, -ne, et, spargo, caestus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.156,"ludus, sum, requies, ego, neque, magnus, in, iste",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.157,"sudor, apollinco, quam, filum, sono, plectrum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+statius.achilleid,2.158,"cum, quatio, prisci, uir, miro, honor",6,"NaN, NaN, NaN, 0.5, NaN, 1.0",0.25,0.0,,0.0
+statius.achilleid,2.159,"quin, etiam, sucus, atque, auxilio, morbus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+statius.achilleid,2.16,"gramen, quo, nimius, sto, medicamen, sanguis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,nimius,0.167
+statius.achilleid,2.161,"quis, facio, somnus, quis, hio, uulnero, claudo",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,hio,0.143
+statius.achilleid,2.162,"qui, ferrum, cohibeo, luo, qui, cedo, herba",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,luo,0.143
+statius.achilleid,2.163,"edoceo, moneo, sacer, sub, pectus, figo",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+statius.achilleid,2.164,"iustitia, qui, peliacis, do, ius, uereor",6,"1.0, NaN, NaN, NaN, 0.5, NaN",0.25,0.0,,0.0
+statius.achilleid,2.165,"gens, atque, suus, soleo, pacaris, biformis",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+statius.achilleid,2.166,"hactenus, annus, comes, elementum, meus",5,"NaN, 0.0, NaN, 0.5, 0.0",0.1,0.0,,0.0
+statius.achilleid,2.167,"et, memini, et, memini, iuuo, scio, ceterus, mater",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0

@@ -1,0 +1,1059 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+seneca.agamemnon,1.0,"opacus, linquo, dis, infernus, locum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,2.0,"adsum, profundo, tartaris, emitto, specus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,specus,0.2
+seneca.agamemnon,3.0,"incertus, uter, odi, sedes, magis",5,"-0.5, NaN, NaN, 0.0, NaN",-0.1,-0.1,,0.0
+seneca.agamemnon,4.0,"fugio, thyestes, inferi, superus, fugo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,5.0,"en, horreo, animus, et, pauor, membrum, excutio",7,"NaN, NaN, 0.5, NaN, -1.0, NaN, NaN",-0.071,-0.143,,0.0
+seneca.agamemnon,6.0,"uideo, paternus, immo, fraternus, lar",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,fraternus,0.2
+seneca.agamemnon,7.0,"hic, sum, uetustus, pelopiae, limen, domus",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,hic,0.167
+seneca.agamemnon,8.0,"hinc, auspicaris, regius, caput, decus",5,"NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,9.0,"mos, sum, pelasgis, hic, sedeo, alo, torus",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,hic,0.143
+seneca.agamemnon,10.0,"qui, superbus, sceptrum, gesto, manus",5,"NaN, -1.0, NaN, NaN, 0.0",-0.2,-0.2,,0.0
+seneca.agamemnon,11.0,"locus, hic, habeo, curia, hic, epulis, locus",7,"0.0, NaN, NaN, -1.0, NaN, NaN, 0.0",-0.143,-0.143,"hic, hic, epulis",0.429
+seneca.agamemnon,12.0,"libet, reuorto, nonne, uel, tristis, lacus",6,"NaN, NaN, NaN, NaN, -1.0, 0.0",-0.167,-0.167,,0.0
+seneca.agamemnon,13.0,"incolo, sero, nonne, custos, styx",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,14.0,"trigeminus, niger, collum, iacto, iuba",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,15.0,"ubi, ille, celer, corpus, euincio, rota",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,16.0,"in, sui, refero, ubi, per, aduerro, irritus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,,0.0
+seneca.agamemnon,17.0,"redeo, totiens, ludo, saxum, labor",5,"NaN, NaN, NaN, 0.0, -0.5",-0.1,-0.1,,0.0
+seneca.agamemnon,18.0,"ubi, tondeo, ales, auidus, fecundus, iecur",6,"NaN, NaN, 0.0, NaN, 1.0, NaN",0.167,0.0,,0.0
+seneca.agamemnon,19.0,"et, inter, unda, feruidus, exuro, sitis",6,"NaN, NaN, 0.0, -0.5, NaN, -0.5",-0.167,-0.167,,0.0
+seneca.agamemnon,20.0,"aqua, fugax, os, decipio, appeto",5,"0.0, NaN, 0.0, NaN, NaN",0.0,0.0,"fugax, decipio",0.4
+seneca.agamemnon,21.0,"poena, do, caelitum, daps, grauis",5,"-1.0, NaN, NaN, NaN, -0.5",-0.3,-0.3,poena,0.2
+seneca.agamemnon,22.0,"sed, ille, noster, pars, quotus, sum, culpa, senex",8,"NaN, NaN, NaN, 0.0, NaN, NaN, -1.0, 0.0",-0.125,-0.125,culpa,0.125
+seneca.agamemnon,23.0,"reputo, omnis, qui, ob, infer, manus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,24.0,"quaesitor, urna, gnosius, uerso, reus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,reus,0.2
+seneca.agamemnon,25.0,"uinco, thyestes, scelus, cunctus, meus",5,"NaN, NaN, -1.0, 0.0, 0.0",-0.2,-0.2,scelus,0.2
+seneca.agamemnon,26.0,"ab, frater, uinco, liber, plenus, tres",6,"NaN, 0.0, NaN, 0.5, 0.0, NaN",0.083,0.0,,0.0
+seneca.agamemnon,27.0,"in, ego, sepelio, uiscera, exedo, meus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,sepelio,0.167
+seneca.agamemnon,28.0,"neque, hactenus, fortuna, maculo, pater",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,maculo,0.2
+seneca.agamemnon,29.0,"sed, magnus, alius, audeo, committo, scelus",6,"NaN, 0.0, NaN, NaN, NaN, -1.0",-0.167,-0.167,scelus,0.167
+seneca.agamemnon,30.0,"gnatae, nefandus, peto, concubo, iubeo",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,"nefandus, concubo",0.4
+seneca.agamemnon,31.0,"non, pauidus, haurio, dictum, sed, capio, nefas",7,"NaN, -1.0, NaN, 0.0, NaN, NaN, -1.0",-0.286,-0.286,nefas,0.143
+seneca.agamemnon,32.0,"ergo, ut, per, omnis, liber, eo, parens",7,"NaN, NaN, NaN, NaN, 0.5, NaN, 0.5",0.143,0.0,,0.0
+seneca.agamemnon,33.0,"cogo, fatum, gnata, fero, uterus, grauis",6,"NaN, 0.0, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+seneca.agamemnon,34.0,"ego, pater, dignus, uerso, natura, sum, retro",7,"NaN, 0.0, 1.0, NaN, 0.0, NaN, NaN",0.143,0.0,,0.0
+seneca.agamemnon,35.0,"auus, parens, pro, nefas, pater, uir",6,"NaN, 0.5, NaN, -1.0, 0.0, 0.5",0.0,-0.167,nefas,0.167
+seneca.agamemnon,36.0,"nascor, nepos, misceo, nox, dies",5,"NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,37.0,"sed, serus, tandem, respicio, fatisco, malus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+seneca.agamemnon,38.0,"post, fatum, demum, sors, incertus, fides",6,"NaN, 0.0, NaN, -1.0, -0.5, 1.0",-0.083,-0.25,,0.0
+seneca.agamemnon,39.0,"rex, ille, rex, ducto, agamemno, -ne, dux",7,"0.0, NaN, 0.0, NaN, NaN, NaN, 0.5",0.071,0.0,agamemno,0.143
+seneca.agamemnon,40.0,"qui, sequor, mille, uexillum, ratis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,41.0,"iliacus, uelis, mare, tego, suus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,42.0,"post, decimus, phoebus, lustro, deuinco, ilium",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,43.0,"adsum, do, coniunx, iugulum, suus",5,"NaN, NaN, -0.5, NaN, NaN",-0.1,-0.1,,0.0
+seneca.agamemnon,44.0,"iam, iam, nato, sanguis, alterno, domus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,45.0,"ensis, securis, telum, diuido, grauis",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,,0.0
+seneca.agamemnon,46.0,"ictus, bipennis, regius, uideo, caput",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,47.0,"iam, scelus, prope, sum, iam, dolus, caedes, cruor",8,"NaN, -1.0, NaN, NaN, NaN, NaN, -0.5, NaN",-0.188,-0.188,"scelus, dolus, caedes, cruor",0.5
+seneca.agamemnon,48.0,"paro, epulae, causa, natal, tuus",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,49.0,"aegisthe, uenio, quis, pudor, uultus, grauo",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,pudor,0.167
+seneca.agamemnon,50.0,"quis, dextera, dubius, trepido, consilium, labo",6,"NaN, 0.0, -0.5, NaN, 0.5, NaN",0.0,-0.083,,0.0
+seneca.agamemnon,51.0,"quis, ipse, tu, consul, torqueo, rogo",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,tu,0.167
+seneca.agamemnon,52.0,"an, decet, hic, tu, respicio, ad, mater, decet",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, tu",0.25
+seneca.agamemnon,53.0,"sed, cur, repens, nox, aestiuus, uicis",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,54.0,"hibernus, longus, spatior, produco, mora",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,55.0,"aut, quis, cado, detineo, stella, polus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,56.0,"phoebum, moror, reddo, iam, mundus, dies",6,"NaN, NaN, NaN, NaN, 1.0, 0.0",0.167,0.0,,0.0
+seneca.agamemnon,57.0,"o, regnum, magnus, fallax",4,"NaN, 0.0, 0.0, -1.0",-0.25,-0.25,,0.0
+seneca.agamemnon,58.0,"fortuna, bonus, in, praeceps",4,"0.0, 1.0, NaN, NaN",0.25,0.0,,0.0
+seneca.agamemnon,59.0,"dubius, loeas, nimis, excello",4,"-0.5, NaN, NaN, NaN",-0.125,-0.125,,0.0
+seneca.agamemnon,60.0,"numquam, placidus, sceptrum, quies",4,"NaN, 1.0, NaN, NaN",0.25,0.0,,0.0
+seneca.agamemnon,61.0,"certumue, suus, teneo, dies",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,62.0,"alius, ex, alius, cura, fatigo",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+seneca.agamemnon,63.0,"uexatque, animus, nouo, tempestas",4,"NaN, 0.5, NaN, 0.0",0.125,0.0,,0.0
+seneca.agamemnon,64.0,"non, sic, libycis, syrtis, aequor",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,65.0,"furio, alternus, uoluo, fluctus",4,"NaN, NaN, NaN, 0.0",0.0,0.0,furio,0.25
+seneca.agamemnon,66.0,"non, euxini, turget, ab, imus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,67.0,"commoueo, uado",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,68.0,"unda, niual, uicinum, polus",4,"0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,69.0,"ubi, caeruleus, immunis, aqua",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,70.0,"lucidus, uerso, plaustrum, bootes",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,71.0,"ut, praeceps, rex, casus",4,"NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,72.0,"fortuna, roto",2,"0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,73.0,"metuo, cupio, metuo, timeo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,74.0,"non, nox, ille, almus, recedo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,75.0,"praebeo, tueor, non, cura",4,"NaN, NaN, NaN, -1.0",-0.25,-0.25,,0.0
+seneca.agamemnon,76.0,"somnus, domito, pectus, soluo",4,"0.5, NaN, NaN, NaN",0.125,0.0,,0.0
+seneca.agamemnon,77.0,"qui, non, arx, scelus, alternus",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,scelus,0.2
+seneca.agamemnon,78.0,"do, in, praeceps, impius, qui, non",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,impius,0.167
+seneca.agamemnon,79.0,"arma, fatigo, ius, pudor",4,"0.0, NaN, 0.5, 0.5",0.25,0.0,pudor,0.25
+seneca.agamemnon,80.0,"et, coniugium, sacro, fides",4,"NaN, NaN, NaN, 1.0",0.25,0.0,,0.0
+seneca.agamemnon,81.0,"fugio, aula, sequor, tristis",4,"NaN, NaN, NaN, -1.0",-0.25,-0.25,,0.0
+seneca.agamemnon,82.0,"sanguinolentus, bellona, manus",3,"NaN, NaN, 0.0",0.0,0.0,"sanguinolentus, bellona",0.667
+seneca.agamemnon,83.0,"quisque, superbus, uro, erinys",4,"NaN, -1.0, NaN, NaN",-0.25,-0.25,erinys,0.25
+seneca.agamemnon,84.0,"nimius, semper, comito, domus",4,"NaN, NaN, NaN, 0.0",0.0,0.0,nimius,0.25
+seneca.agamemnon,85.0,"qui, in, planus, qui, hora",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,86.0,"fero, ex, altus",3,"NaN, NaN, 0.5",0.167,0.0,,0.0
+seneca.agamemnon,87.0,"licet, arma, uaco, cesso, dolus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,dolus,0.2
+seneca.agamemnon,88.0,"sido, ipse, pondus, magnus",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,89.0,"cedo, onus, fortuna, suus",4,"NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,90.0,"uelo, secundus, inflo, nosco",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,91.0,"uenio, nimium, timeo, suus",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,92.0,"nubis, ipse, insero, caput",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,93.0,"turris, pluuius, uapulo, auster",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,94.0,"densus, nemus, spargo, umbra",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,95.0,"annosus, uideo, robur, frango",4,"NaN, NaN, 0.5, NaN",0.125,0.0,,0.0
+seneca.agamemnon,96.0,"ferio, celsus, fulmen, collis",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,97.0,"corpus, morbus, magnus, pateo",4,"0.0, -1.0, 0.0, NaN",-0.25,-0.25,,0.0
+seneca.agamemnon,98.0,"et, cum, in, pasco, armentum, uagus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,99.0,"uilis, curro",2,"-0.5, NaN",-0.25,-0.25,uilis,0.5
+seneca.agamemnon,100.0,"placeo, in, uulnus, maximus, ceruix",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,,0.0
+seneca.agamemnon,101.0,"quisquis, in, altus, fortuna, fero",5,"NaN, NaN, 0.5, 0.0, NaN",0.1,0.0,,0.0
+seneca.agamemnon,102.0,"ruitura, leuo, modicus, res",4,"NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,103.0,"longus, aeuum, sum, felix, medius",5,"0.0, NaN, NaN, 1.0, 0.0",0.2,0.0,,0.0
+seneca.agamemnon,104.0,"quisquis, turba, sors, quiesco",4,"NaN, 0.0, -1.0, NaN",-0.25,-0.25,,0.0
+seneca.agamemnon,105.0,"aura, stringo, litus, tueor",4,"1.0, NaN, NaN, NaN",0.25,0.0,,0.0
+seneca.agamemnon,106.0,"timidus, mare, credo, cumbam",4,"-0.5, 0.0, NaN, NaN",-0.125,-0.125,timidus,0.25
+seneca.agamemnon,107.0,"remus, terra, propior, lego",4,"NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,108.0,"quis, segnis, animus, tueor, consilium, expeto",6,"NaN, NaN, 0.5, NaN, 0.5, NaN",0.167,0.0,,0.0
+seneca.agamemnon,109.0,"quis, fluctuaris, claudo, iam, bonus, uia, sum",7,"NaN, NaN, NaN, NaN, 1.0, 0.0, NaN",0.143,0.0,,0.0
+seneca.agamemnon,110.0,"licet, pudicus, coniunx, quondam, torus",5,"NaN, 0.5, -0.5, NaN, NaN",0.0,-0.1,pudicus,0.2
+seneca.agamemnon,111.0,"et, sceptrum, castus, uiduo, tutaris, fides",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+seneca.agamemnon,112.0,"pereo, mos, ius, decus, pietas, fides",6,"NaN, 0.5, 0.5, NaN, 1.0, 1.0",0.5,0.0,,0.0
+seneca.agamemnon,113.0,"et, qui, redeo, cum, pereo, nescio, pudor",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,pudor,0.143
+seneca.agamemnon,114.0,"do, frenum, et, omnis, pronus, nequitia, incito",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,nequitia,0.143
+seneca.agamemnon,115.0,"per, scelus, semper, scelus, tueor, sum, iter",7,"NaN, -1.0, NaN, -1.0, NaN, NaN, 0.0",-0.286,-0.286,"scelus, scelus",0.286
+seneca.agamemnon,116.0,"cum, tu, ipse, nunc, euoluo, femineus, dolus",7,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.071,-0.071,"tu, dolus",0.286
+seneca.agamemnon,117.0,"qui, ullus, coniunx, perfidus, atque, impos, suus",7,"NaN, NaN, -0.5, -1.0, NaN, NaN, NaN",-0.214,-0.214,perfidus,0.143
+seneca.agamemnon,118.0,"amor, caecus, qui, nouercal, manus",5,"1.0, -1.0, NaN, NaN, 0.0",0.0,-0.2,,0.0
+seneca.agamemnon,119.0,"audeo, qui, ardeo, impius, uirgo, fax",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,"impius, uirgo, fax",0.5
+seneca.agamemnon,120.0,"phasiaca, fugio, regnum, thessalica, trabs",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,121.0,"ferrum, ueneno, uel, mycenaeas, domus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,122.0,"coniungo, socius, profugio, furtiuus, ratis",5,"NaN, 1.0, NaN, -1.0, NaN",0.0,-0.2,profugio,0.2
+seneca.agamemnon,123.0,"quis, timidus, loquor, furtum, et, exsilium, et, fugo",8,"NaN, -0.5, NaN, -1.0, NaN, -1.0, NaN, NaN",-0.312,-0.312,"timidus, furtum",0.25
+seneca.agamemnon,124.0,"soror, iste, facio, tu, decet, magnus, nefas",7,"NaN, NaN, NaN, NaN, NaN, 0.0, -1.0",-0.143,-0.143,"tu, nefas",0.286
+seneca.agamemnon,125.0,"regina, danaum, et, inclutus, leda, genus",6,"NaN, NaN, NaN, 0.5, NaN, 0.0",0.083,0.0,danaum,0.167
+seneca.agamemnon,126.0,"quis, taceo, uerso, quis, consilium, impotens",6,"NaN, NaN, NaN, NaN, 0.5, -1.0",-0.083,-0.167,impotens,0.167
+seneca.agamemnon,127.0,"tumidus, ferox, impetus, animus, gero",5,"-0.5, -1.0, NaN, 0.5, NaN",-0.2,-0.3,ferox,0.2
+seneca.agamemnon,128.0,"licet, ipse, sileo, totus, in, uultus, sum, dolor",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,,0.0
+seneca.agamemnon,129.0,"pro-eo, -ne, quisquis, sum, do, tempus, atque, spatium, tu",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.111
+seneca.agamemnon,130.0,"qui, ratio, non, queo, saepe, sano, mora",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,131.0,"magnus, crucio, quam, ut, mora, possum, patior",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,132.0,"flamma, medulla, et, cor, exuro, meus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,133.0,"misceo, dolor, subdo, stimulus, timor",5,"NaN, -1.0, NaN, 0.0, -0.5",-0.3,-0.3,stimulus,0.2
+seneca.agamemnon,134.0,"inuidia, pulso, pectus, hinc, animus, iugum",6,"-1.0, NaN, NaN, NaN, 0.5, NaN",-0.083,-0.167,inuidia,0.167
+seneca.agamemnon,135.0,"premo, cupido, turpis, et, uinco, ueto",6,"NaN, -0.5, -1.0, NaN, NaN, NaN",-0.25,-0.25,turpis,0.167
+seneca.agamemnon,136.0,"et, inter, iste, mens, ob-sedeo, fax",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,fax,0.167
+seneca.agamemnon,137.0,"fessus, quidem, et, deuincio, et, pessumdatus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,138.0,"pudor, rebello, fluctus, uarius, ago",5,"0.5, NaN, 0.0, 0.0, NaN",0.1,0.0,"pudor, rebello",0.4
+seneca.agamemnon,139.0,"ut, cum, hinc, profundum, uenio, hinc, aestus, rapio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,profundum,0.125
+seneca.agamemnon,140.0,"incertus, dubito, unda, qui, cedo, malus",6,"-0.5, NaN, 0.0, NaN, NaN, -1.0",-0.25,-0.25,,0.0
+seneca.agamemnon,141.0,"proinde, omitto, regime, -ne, e, manus, meus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,142.0,"quicumque, ego, ira, qui, dolor, quo, spes, fero",8,"NaN, NaN, -1.0, NaN, -1.0, NaN, 0.5, NaN",-0.188,-0.25,,0.0
+seneca.agamemnon,143.0,"hic, eo, pergo, fluctus, do, ratis",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.167
+seneca.agamemnon,144.0,"ubi, animus, erro, bonus, sum, casus, sequor",7,"NaN, 0.5, 0.0, 1.0, NaN, 0.0, NaN",0.214,0.0,,0.0
+seneca.agamemnon,145.0,"caecus, sum, temeritas, qui, peto, casus, dux",7,"-1.0, NaN, -0.5, NaN, NaN, 0.0, 0.5",-0.143,-0.214,temeritas,0.143
+seneca.agamemnon,146.0,"qui, ulter, sum, fortuna, quis, dubius, timeo",7,"NaN, NaN, NaN, 0.0, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+seneca.agamemnon,147.0,"tueor, sum, lateo, culpa, si, patera, tuus",7,"NaN, NaN, NaN, -1.0, NaN, NaN, 0.0",-0.143,-0.143,culpa,0.143
+seneca.agamemnon,148.0,"perluceo, omnis, regia, uitium, domus",5,"NaN, NaN, NaN, -1.0, 0.0",-0.2,-0.2,,0.0
+seneca.agamemnon,149.0,"pigeo, prior, et, nouus, crimen, struo",6,"NaN, 0.5, NaN, 1.0, -1.0, NaN",0.083,-0.167,crimen,0.167
+seneca.agamemnon,150.0,"res, sum, profecto, stultus, nequitia, modus",6,"0.0, NaN, NaN, -1.0, -1.0, 0.5",-0.25,-0.333,"stultus, nequitia",0.333
+seneca.agamemnon,151.0,"qui, metuo, augeo, qui, scelus, scelus, obruo",7,"NaN, NaN, NaN, NaN, -1.0, -1.0, NaN",-0.286,-0.286,"scelus, scelus",0.286
+seneca.agamemnon,152.0,"et, ferrum, et, ignis, saepe, medicina, locus, sum",8,"NaN, NaN, NaN, 0.0, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,153.0,"exter, primus, nemo, tento, locus",5,"0.0, 0.5, -0.5, NaN, 0.0",0.0,-0.1,,0.0
+seneca.agamemnon,154.0,"rapio, res, in, malus, praeceps, uia, sum",7,"NaN, 0.0, NaN, -1.0, NaN, 0.0, NaN",-0.143,-0.143,,0.0
+seneca.agamemnon,155.0,"at, tu, reflecto, coniunx, nomen, sacer",6,"NaN, NaN, NaN, -0.5, 0.0, 1.0",0.083,-0.083,tu,0.167
+seneca.agamemnon,156.0,"decem, per, annus, uiduo, respicio, uir",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+seneca.agamemnon,157.0,"memini, debeo, suboles, ex, ille, tuus",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,,0.0
+seneca.agamemnon,158.0,"equidem, et, iugalis, filia, memini, fax",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"iugalis, fax",0.333
+seneca.agamemnon,159.0,"et, gener, achillem, praesto, mater, fides",6,"NaN, NaN, NaN, NaN, 0.0, 1.0",0.167,0.0,,0.0
+seneca.agamemnon,160.0,"redimo, ille, classis, immotus, mora",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,classis,0.2
+seneca.agamemnon,161.0,"et, mare, piger, figo, languor, impello",6,"NaN, 0.0, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+seneca.agamemnon,162.0,"pudeo, doleo, tyndaris, caelum, genus",5,"NaN, NaN, NaN, 0.5, 0.0",0.1,0.0,pudeo,0.2
+seneca.agamemnon,163.0,"lustral, classis, doricae, pario, caput",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,classis,0.2
+seneca.agamemnon,164.0,"reuoluo, animus, uirgo, thalamus, meus",5,"NaN, 0.5, NaN, NaN, 0.0",0.1,0.0,uirgo,0.2
+seneca.agamemnon,165.0,"qui, ille, dignus, pelopia, facio, domus",6,"NaN, NaN, 1.0, NaN, NaN, 0.0",0.167,0.0,,0.0
+seneca.agamemnon,166.0,"cum, sto, ad, ara, os, sacrifico, pater",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,167.0,"quam, nuptial, horreo, calchas, suus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,168.0,"respondeo, uox, et, recedo, focus",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,169.0,"o, scelus, semper, scelus, uinco, domus",6,"NaN, -1.0, NaN, -1.0, NaN, 0.0",-0.333,-0.333,"scelus, scelus",0.333
+seneca.agamemnon,170.0,"cruor, uenio, emo, bellum, nex",5,"NaN, NaN, NaN, 0.0, -1.0",-0.2,-0.2,"cruor, emo, nex",0.6
+seneca.agamemnon,171.0,"sed, uelo, pariter, mille, facio, ratis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,172.0,"non, sum, soluo, prosper, classis, deus",6,"NaN, NaN, NaN, 1.0, NaN, 0.0",0.167,0.0,classis,0.167
+seneca.agamemnon,173.0,"eicio, aulis, impius, portus, ratis",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,impius,0.2
+seneca.agamemnon,174.0,"sic, auspico, bellum, non, bonus, gero",6,"NaN, NaN, 0.0, NaN, 1.0, NaN",0.167,0.0,,0.0
+seneca.agamemnon,175.0,"amor, capio, capio, immotus, prex",5,"1.0, NaN, NaN, NaN, 0.0",0.2,0.0,,0.0
+seneca.agamemnon,176.0,"zminthea, teneo, spolium, phoebei, senex",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,177.0,"ardor, sacer, uirgo, iam, tum, furo",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,"uirgo, furo",0.333
+seneca.agamemnon,178.0,"non, ille, achilles, flecto, indomitus, minae",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,"achilles, indomitus",0.333
+seneca.agamemnon,179.0,"non, ille, solus, fatum, qui, mundus, uideo",7,"NaN, NaN, -0.5, 0.0, NaN, 1.0, NaN",0.071,-0.071,,0.0
+seneca.agamemnon,180.0,"in, nos, fidelis, augur, in, capio, leuis",7,"NaN, NaN, 1.0, NaN, NaN, NaN, 0.0",0.143,0.0,,0.0
+seneca.agamemnon,181.0,"non, populus, aeger, et, reluceo, rogus",6,"NaN, 0.0, -1.0, NaN, NaN, NaN",-0.167,-0.167,rogus,0.167
+seneca.agamemnon,182.0,"inter, ruo, graecia, strages, ulter",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,strages,0.2
+seneca.agamemnon,183.0,"sine, hostis, uinco, marceo, atque, ueneri, uaco",7,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+seneca.agamemnon,184.0,"reparo, amor, neue, desero, sum",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+seneca.agamemnon,185.0,"ab, paelice, umquam, barbarum, caelebs, torus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"paelice, barbarum, caelebs",0.5
+seneca.agamemnon,186.0,"aufero, achilles, diligo, lyrnesida",4,"NaN, NaN, NaN, NaN",nan,nan,achilles,0.25
+seneca.agamemnon,187.0,"neque, rapio, pudeo, e, sinus, auulsam, uir",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,pudeo,0.143
+seneca.agamemnon,188.0,"en, paris, hostis, nunc, nouus, uulnus, gero",7,"NaN, 0.5, -1.0, NaN, 1.0, -1.0, NaN",-0.071,-0.286,,0.0
+seneca.agamemnon,189.0,"amor, phrygiae, uates, incendo, furio",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,furio,0.2
+seneca.agamemnon,190.0,"et, post, tropaeum, troica, atque, uerro, ille",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,191.0,"capio, maritus, re-meo, et, priami, gener",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,maritus,0.167
+seneca.agamemnon,192.0,"accingo, animus, bellum, non, leuis, appario",6,"NaN, 0.5, 0.0, NaN, 0.0, NaN",0.083,0.0,,0.0
+seneca.agamemnon,193.0,"scelus, occupo, sum, piger, qui, ex-pecto, dies",7,"-1.0, NaN, NaN, NaN, NaN, NaN, 0.0",-0.143,-0.143,scelus,0.143
+seneca.agamemnon,194.0,"pelopia, phrygiae, sceptrum, dum, teneo, nurus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,nurus,0.167
+seneca.agamemnon,195.0,"an, tu, moror, uirgo, uidua, domus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, uirgo, uidua",0.5
+seneca.agamemnon,196.0,"pater, orestes, similis, hic, tu, malus",6,"0.0, NaN, 0.0, NaN, NaN, -1.0",-0.167,-0.167,"hic, tu",0.333
+seneca.agamemnon,197.0,"uenio, moueo, turbo, quis, res, immineo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,198.0,"quis, misero, cesso, en, adsum, nascor, tuus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,misero,0.143
+seneca.agamemnon,199.0,"furo, nouerca, per, tuus, si, aliter, nequeo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"furo, nouerca",0.286
+seneca.agamemnon,200.0,"latus, exigo, ensis, et, perimo, duo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,201.0,"misceo, cruor, perdo, pereo, uir",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,cruor,0.2
+seneca.agamemnon,202.0,"mors, misero, non, sum, commorior, cum, quo, uelis",8,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.125,-0.125,misero,0.125
+seneca.agamemnon,203.0,"regina, frenum, tu, et, sisto, impetus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+seneca.agamemnon,204.0,"et, quantus, tento, cogito, uictor, uenio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,205.0,"asia, ferox, ultor, europae, traho",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,"ferox, ultor",0.4
+seneca.agamemnon,206.0,"captiuus, pergama, et, diu, uinco, phrygas",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,"captiuus, pergama",0.333
+seneca.agamemnon,207.0,"hic, fraus, nunc, conaris, et, furtum, aggredio",7,"NaN, -1.0, NaN, NaN, NaN, -1.0, NaN",-0.286,-0.286,"hic, fraus, furtum",0.429
+seneca.agamemnon,208.0,"qui, non, achilles, ensis, uiolo, fero",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"achilles, uiolo",0.333
+seneca.agamemnon,209.0,"quiuis, procax, toruus, armo, manus",5,"NaN, -1.0, NaN, NaN, 0.0",-0.2,-0.2,procax,0.2
+seneca.agamemnon,210.0,"non, bonus, aiax, mors, decretum, furo",6,"NaN, 1.0, NaN, -1.0, NaN, NaN",0.0,-0.167,furo,0.167
+seneca.agamemnon,211.0,"non, solus, danais, hector, et, bellum, mora",7,"NaN, -0.5, NaN, NaN, NaN, 0.0, NaN",-0.071,-0.071,,0.0
+seneca.agamemnon,212.0,"non, telum, paris, certus, non, memno, -ne, niger",8,"NaN, NaN, 0.5, 0.5, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+seneca.agamemnon,213.0,"non, xanthus, arma, corpus, immisceo, aggero",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,214.0,"fluctus, simois, caedes, purpureus, ago",5,"0.0, NaN, -0.5, NaN, NaN",-0.1,-0.1,caedes,0.2
+seneca.agamemnon,215.0,"non, niueus, proles, cycnus, aequoreus, deus",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,niueus,0.167
+seneca.agamemnon,216.0,"non, bellicosus, thressa, cum, rheso, phalanx",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,bellicosus,0.167
+seneca.agamemnon,217.0,"non, pingo, pharetra, et, securigera, manus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,218.0,"peltatus, amazo, -ne, hic, domus, reducem, paro",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.143
+seneca.agamemnon,219.0,"macto, et, ara, caedes, macularis, impius",6,"NaN, NaN, NaN, -0.5, NaN, -1.0",-0.25,-0.25,"caedes, impius",0.333
+seneca.agamemnon,220.0,"uictrix, inultus, graecia, hic, facinus, fero",6,"NaN, -0.5, NaN, NaN, -1.0, NaN",-0.25,-0.25,"inultus, hic, facinus",0.5
+seneca.agamemnon,221.0,"equus, et, arma, classis, horreo, fretus",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,classis,0.167
+seneca.agamemnon,222.0,"propono, et, altus, sanguis, exundo, solus",6,"NaN, NaN, 0.5, NaN, NaN, -0.5",0.0,-0.083,exundo,0.167
+seneca.agamemnon,223.0,"et, totus, capio, fatum, dardanus, domus",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,224.0,"regero, danais, comprimo, afficio, trux",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,trux,0.2
+seneca.agamemnon,225.0,"mens, tu, ipse, pacificus, tuus",5,"0.5, NaN, NaN, NaN, 0.0",0.1,0.0,tu,0.2
+seneca.agamemnon,226.0,"qui, tempus, animus, semper, atque, mens, horreo",7,"NaN, 0.0, 0.5, NaN, NaN, 0.5, NaN",0.143,0.0,,0.0
+seneca.agamemnon,227.0,"adsum, profecto, res, exter, meus",5,"NaN, NaN, 0.0, 0.0, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,228.0,"quis, tergum, uerto, animus, quis, primus, impetus",7,"NaN, NaN, NaN, 0.5, NaN, 0.5, NaN",0.143,0.0,,0.0
+seneca.agamemnon,229.0,"depono, arma, credo, pernicies, tu",5,"NaN, 0.0, NaN, -1.0, NaN",-0.2,-0.2,tu,0.2
+seneca.agamemnon,230.0,"et, dirus, saeuus, fatum, molior, deus",6,"NaN, -1.0, -1.0, 0.0, NaN, 0.0",-0.333,-0.333,"dirus, saeuus",0.333
+seneca.agamemnon,231.0,"oppono, cunctus, uilis, supplicium, caput",5,"NaN, 0.0, -0.5, NaN, 0.0",-0.1,-0.1,"uilis, supplicium",0.4
+seneca.agamemnon,232.0,"ferrum, et, ignis, pectus, aduerso, excipio",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,233.0,"aegisthe, non, sum, poena, sic, natus, morior",7,"NaN, NaN, NaN, -1.0, NaN, 0.0, NaN",-0.143,-0.143,poena,0.143
+seneca.agamemnon,234.0,"tu, nos, periculum, socio, tu, lada, sero",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,"tu, tu",0.286
+seneca.agamemnon,235.0,"comitaris, tantus, sanguis, reddo, tu",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+seneca.agamemnon,236.0,"ignauus, iste, ducto, atque, fortis, pater",6,"-1.0, NaN, NaN, NaN, 0.5, 0.0",-0.083,-0.167,ignauus,0.167
+seneca.agamemnon,237.0,"sed, quis, tremo, circumeo, pallor, gena",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"pallor, gena",0.333
+seneca.agamemnon,238.0,"iaceo, uultus, languidus, obtueor, stupeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,iaceo,0.2
+seneca.agamemnon,239.0,"amor, iugal, uincio, atque, flecto, retro",6,"1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+seneca.agamemnon,240.0,"refero, illic, unde, non, decet, prior",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+seneca.agamemnon,241.0,"abeo, sed, nunc, castus, repeto, fides",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+seneca.agamemnon,242.0,"nam, serus, numquam, sum, ad, bonus, mos, uia",8,"NaN, NaN, NaN, NaN, NaN, 1.0, 0.5, 0.0",0.188,0.0,,0.0
+seneca.agamemnon,243.0,"qui, paeniteo, pecco, paene, sum, innocens",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,innocens,0.167
+seneca.agamemnon,244.0,"quo, rapio, amens, credo, aut, spero, tu",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,"amens, tu",0.286
+seneca.agamemnon,245.0,"agamemnon, fidelis, coniugium, ut, nihil",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+seneca.agamemnon,246.0,"subsum, animus, qui, grauis, facio, metus",6,"NaN, 0.5, NaN, -0.5, NaN, -1.0",-0.167,-0.25,,0.0
+seneca.agamemnon,247.0,"tamen, superbus, et, impotens, flo, nimis",6,"NaN, -1.0, NaN, -1.0, NaN, NaN",-0.333,-0.333,impotens,0.167
+seneca.agamemnon,248.0,"fortuna, magnus, spiritus, tumidus, do",5,"0.0, 0.0, 0.0, -0.5, NaN",-0.1,-0.1,,0.0
+seneca.agamemnon,249.0,"grauis, ille, socius, sto, adhuc, troia, sum",7,"-0.5, NaN, 1.0, NaN, NaN, NaN, NaN",0.071,-0.071,,0.0
+seneca.agamemnon,250.0,"quis, reor, ad, animus, suapte, natura, trux",7,"NaN, NaN, NaN, 0.5, NaN, 0.0, NaN",0.071,0.0,trux,0.143
+seneca.agamemnon,251.0,"troiam, addo, rex, mycenaris, sum",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,252.0,"uenio, tyrannus, prosper, animus, effero",5,"NaN, NaN, 1.0, 0.5, NaN",0.3,0.0,tyrannus,0.2
+seneca.agamemnon,253.0,"effundo, circa, paelicum, quantus, uenio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,254.0,"turba, apparatus, solus, sed, turba, emineo",6,"0.0, 1.0, -0.5, NaN, 0.0, NaN",0.083,-0.083,,0.0
+seneca.agamemnon,255.0,"teneo, rex, famulo, ueridicus, deus",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,256.0,"fero, -ne, thalamus, uinco, consors, tuus",6,"NaN, NaN, NaN, NaN, 1.0, 0.0",0.167,0.0,,0.0
+seneca.agamemnon,257.0,"at, ille, nolo, ulter, sum, nubo, malus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,nubo,0.143
+seneca.agamemnon,258.0,"palam, maritus, possideo, paelex, domus",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,maritus,0.2
+seneca.agamemnon,259.0,"neque, regnum, socius, fero, neque, taeda, scio",7,"NaN, 0.0, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,taeda,0.143
+seneca.agamemnon,260.0,"aegistbe, quis, ego, rursus, in, praeceps, ago",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,261.0,"ira, flamma, iam, resideo, incito",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,,0.0
+seneca.agamemnon,262.0,"permitto, aliquis, uictor, in, capio, sui",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,263.0,"neque, coniunx, hic, respicio, neque, domina, decet",7,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.071,-0.071,hic,0.143
+seneca.agamemnon,264.0,"lex, alius, solium, sum, alius, priuo, in, torus",8,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+seneca.agamemnon,265.0,"quis, qui, sero, fero, ego, lex, uir",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 0.5",0.143,0.0,,0.0
+seneca.agamemnon,266.0,"non, patior, animus, turpis, admitto, memor",6,"NaN, NaN, 0.5, -1.0, NaN, 1.0",0.083,-0.167,turpis,0.167
+seneca.agamemnon,267.0,"do, ille, uenio, facilis, qui, uenia, sum, opus",8,"NaN, NaN, NaN, 0.5, NaN, 1.0, NaN, 0.5",0.25,0.0,,0.0
+seneca.agamemnon,268.0,"ita, -ne, sum, pacisco, mutuus, uenio, licet",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,269.0,"ignotus, tu, sum, ius, regnum, aut, nouo",7,"-0.5, NaN, NaN, 0.5, 0.0, NaN, NaN",0.0,-0.071,tu,0.143
+seneca.agamemnon,270.0,"nos, malignus, iudex, aequum, sui",5,"NaN, -1.0, 0.5, 0.5, NaN",0.0,-0.2,,0.0
+seneca.agamemnon,271.0,"is, sum, regnum, magnus, pignus, puto",6,"NaN, NaN, 0.0, 0.0, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,272.0,"si, quisquis, alius, non, licet, sol, licet",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,273.0,"ignosco, helenae, iungo, menelao, redeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,274.0,"qui, europam, et, asia, par, affligo, malus",7,"NaN, NaN, NaN, NaN, 0.5, NaN, -1.0",-0.071,-0.143,,0.0
+seneca.agamemnon,275.0,"sed, nullus, atride, -ne, uenio, furtiuus, aufero",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,atride,0.143
+seneca.agamemnon,276.0,"neque, capio, animus, coniunx, obstringo, suus",6,"NaN, NaN, 0.5, -0.5, NaN, NaN",0.0,-0.083,,0.0
+seneca.agamemnon,277.0,"iam, crimen, ille, quaero, et, causa, paro",7,"NaN, -1.0, NaN, NaN, NaN, 0.0, NaN",-0.143,-0.143,crimen,0.143
+seneca.agamemnon,278.0,"nihil, sum, credo, turpis, committo, tu",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,"turpis, tu",0.333
+seneca.agamemnon,279.0,"quis, honestus, prodo, uito, flagitium, uaco",6,"NaN, 1.0, NaN, NaN, -1.0, NaN",0.0,-0.167,"honestus, flagitium",0.333
+seneca.agamemnon,280.0,"ubi, dominus, odi, fio, noceo, non, quaero",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,noceo,0.143
+seneca.agamemnon,281.0,"spartam, -ne, repeto, sperno, et, eurota, -ne, tuus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,282.0,"patria, sedes, profugus, non, do, exitus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,283.0,"repudio, rex, spes, metus, fallo, leuo",6,"NaN, 0.0, 0.5, -1.0, NaN, NaN",-0.083,-0.167,fallo,0.167
+seneca.agamemnon,284.0,"delictum, nosco, nemo, nisi, fidus, meus",6,"-1.0, NaN, -0.5, NaN, 1.0, 0.0",-0.083,-0.25,delictum,0.167
+seneca.agamemnon,285.0,"non, intro, umquam, regius, limen, fides",6,"NaN, NaN, NaN, 0.0, NaN, 1.0",0.167,0.0,,0.0
+seneca.agamemnon,286.0,"ops, mereo, ut, fides, pretium, obligo",6,"0.0, NaN, NaN, 1.0, 1.0, NaN",0.333,0.0,pretium,0.167
+seneca.agamemnon,287.0,"pretium, paro, uincio, pretium, fides",5,"1.0, NaN, NaN, 1.0, 1.0",0.6,0.0,"pretium, pretium",0.4
+seneca.agamemnon,288.0,"surgo, residuus, pristinus, mens, pudor",5,"NaN, NaN, 0.0, 0.5, 0.5",0.2,0.0,pudor,0.2
+seneca.agamemnon,289.0,"quis, obstrepo, quis, uox, blandiloquus, malus",6,"NaN, NaN, NaN, 0.0, NaN, -1.0",-0.167,-0.167,,0.0
+seneca.agamemnon,290.0,"consilium, dico, scilicet, nubo, tu",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,"nubo, tu",0.4
+seneca.agamemnon,291.0,"rex, relinquo, rex, generosus, exulis",5,"0.0, NaN, 0.0, 1.0, NaN",0.2,0.0,exulis,0.2
+seneca.agamemnon,292.0,"et, cur, atrida, uideo, inferus, tu",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+seneca.agamemnon,293.0,"nascor, thyestae",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,294.0,"si, parum, sum, addo, et, nepos",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,295.0,"auctor, phoebus, gigno, haud, genus, pudeo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,pudeo,0.167
+seneca.agamemnon,296.0,"phoebum, nefandus, stirps, auctor, uoco",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,nefandus,0.2
+seneca.agamemnon,297.0,"qui, nox, subeo, frenum, reuoco, suus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,298.0,"caelum, expello, quis, deus, probrum, addo",6,"0.5, NaN, NaN, 0.0, -1.0, NaN",-0.083,-0.167,probrum,0.167
+seneca.agamemnon,299.0,"surripio, doceo, fraus, genial, torus",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,"surripio, fraus",0.4
+seneca.agamemnon,300.0,"qui, uenio, tantus, scio, illicitus, uir",6,"NaN, NaN, NaN, NaN, -1.0, 0.5",-0.083,-0.167,illicitus,0.167
+seneca.agamemnon,301.0,"facesso, properus, atque, dedecus, noster, domus",6,"NaN, NaN, NaN, -1.0, NaN, 0.0",-0.167,-0.167,dedecus,0.167
+seneca.agamemnon,302.0,"asporto, ab, oculus, hic, uaco, rex, atque, uir",8,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, 0.5",0.062,0.0,hic,0.125
+seneca.agamemnon,303.0,"exsilium, ego, sum, haud, nouo, assuesco, malus",7,"-1.0, NaN, NaN, NaN, NaN, NaN, -1.0",-0.286,-0.286,,0.0
+seneca.agamemnon,304.0,"si, tu, impero, regina, non, tantus, domus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+seneca.agamemnon,305.0,"argisue, cedo, nihil, moror, iussus, tuus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,306.0,"aperio, ferrum, pectus, aerumna, grauis",5,"NaN, NaN, NaN, -0.5, -0.5",-0.2,-0.2,,0.0
+seneca.agamemnon,307.0,"siquidem, hic, cruento, tyndaris, fio, sino",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, cruento",0.333
+seneca.agamemnon,308.0,"qui, iungo, pecco, debeo, et, culpa, fides",7,"NaN, NaN, NaN, NaN, NaN, -1.0, 1.0",0.0,-0.143,culpa,0.143
+seneca.agamemnon,309.0,"secedo, cum, ego, potis, ut, res, status",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,310.0,"dubius, atque, minax, iungo, consilium, explico",6,"-0.5, NaN, NaN, NaN, 0.5, NaN",0.0,-0.083,,0.0
+seneca.agamemnon,311.0,"cano, o, pubes, inclutus, phoebum",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+seneca.agamemnon,312.0,"tu, festus, caput",3,"NaN, NaN, 0.0",0.0,0.0,tu,0.333
+seneca.agamemnon,313.0,"turba, corono, tu, uirgineus",4,"0.0, NaN, NaN, NaN",0.0,0.0,tu,0.25
+seneca.agamemnon,314.0,"laurus, quatio",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,315.0,"de, mos, como, innubus, fundo",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+seneca.agamemnon,316.0,"stirps, inachia",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,317.0,"tu, quoque, noster, thespias, hospes",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.2
+seneca.agamemnon,318.0,"comitaris, chorus",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,319.0,"quisque, erasini, gelidus, fons",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,320.0,"quisque, eurota, -ne",3,"NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,321.0,"quisque, uireo, taceo, ripa",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,322.0,"bibo, ismeno, -ne",3,"NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,323.0,"quam, fatum, praescius, mantum",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,324.0,"sero, tiresia",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,325.0,"latonigenas, moneo, sacrum",3,"NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,326.0,"celebraris, deus",2,"NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,327.0,"arcus, uictor, pax, refero",4,"NaN, NaN, 0.5, NaN",0.125,0.0,,0.0
+seneca.agamemnon,328.0,"phoebus, relaxo",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,329.0,"umerus, grauis, leuis, telum",4,"NaN, -0.5, 0.0, NaN",-0.125,-0.125,,0.0
+seneca.agamemnon,330.0,"pono, pharetra",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,331.0,"resono, manus, pello, cito",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,332.0,"uocal, chelys",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,333.0,"nihil, acer, uolo, magnus, modus",5,"NaN, NaN, NaN, 0.0, 0.5",0.1,0.0,,0.0
+seneca.agamemnon,334.0,"intono, altus",2,"NaN, 0.5",0.25,0.0,,0.0
+seneca.agamemnon,335.0,"sed, qualis, soleo, leuis, lyra",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,336.0,"flecto, carmen",2,"NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,337.0,"simplex, lusus, cum, doceo, tuus",5,"0.5, NaN, NaN, NaN, 0.0",0.1,0.0,,0.0
+seneca.agamemnon,338.0,"musa, recenseo",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,339.0,"licet, et, chordus, grauis, sono",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,,0.0
+seneca.agamemnon,340.0,"qualis, caneo",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,341.0,"cum, titanas, fulmen, uinco",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,342.0,"uideo, deus",2,"NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,343.0,"uel, cum, mons, mons, altus",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+seneca.agamemnon,344.0,"super, impono",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,345.0,"struo, gradus, trux, monstrum",4,"NaN, 0.0, NaN, 0.5",0.125,0.0,"trux, monstrum",0.5
+seneca.agamemnon,346.0,"sto, impono",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,347.0,"pelion, os, pinifer, ambo",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,348.0,"premo, olympus",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,349.0,"adsum, o, magnus, soror, et, coniunx",6,"NaN, NaN, 0.0, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+seneca.agamemnon,350.0,"consors, sceptrum",2,"1.0, NaN",0.5,0.0,,0.0
+seneca.agamemnon,351.0,"regius, iuno, tuus, tu, colo",5,"0.0, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.2
+seneca.agamemnon,352.0,"turba, mycenae",2,"0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,353.0,"tu, sollicitus, supplex, tuus",4,"NaN, -1.0, 0.0, 0.0",-0.25,-0.25,tu,0.25
+seneca.agamemnon,354.0,"numen, argos",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,355.0,"solus, tueor, tu, bellum, manus",5,"-0.5, NaN, NaN, 0.0, 0.0",-0.1,-0.1,tu,0.2
+seneca.agamemnon,356.0,"pax, rex",2,"0.5, 0.0",0.25,0.0,,0.0
+seneca.agamemnon,357.0,"tu, nunc, laurus, agamemnonias",4,"NaN, NaN, NaN, NaN",nan,nan,tu,0.25
+seneca.agamemnon,358.0,"accipio, uictrix",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,359.0,"tu, multiforus, tibia, buxus",4,"NaN, NaN, NaN, NaN",nan,nan,tu,0.25
+seneca.agamemnon,360.0,"sol, -ne, cano",3,"NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,361.0,"tu, filum, moueo, doceo, puella",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+seneca.agamemnon,362.0,"carmen, mollis",2,"0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,363.0,"tu, uotiuus, mater, graiae",4,"NaN, 0.0, 0.0, NaN",0.0,0.0,tu,0.25
+seneca.agamemnon,364.0,"lampada, iacto",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,365.0,"ad, tuus, coniunx, candidus, taurus",5,"NaN, 0.0, -0.5, NaN, NaN",-0.1,-0.1,,0.0
+seneca.agamemnon,366.0,"delubrum, cado",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,367.0,"nescius, arater, nullus, collum",4,"-0.5, NaN, NaN, NaN",-0.125,-0.125,nescius,0.25
+seneca.agamemnon,368.0,"signo, iugum",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,369.0,"tu, o, magnus, gnata, tono",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.2
+seneca.agamemnon,370.0,"inclutus, pallas",2,"0.5, NaN",0.25,0.0,,0.0
+seneca.agamemnon,371.0,"qui, dardanias, cuspis, turris",4,"NaN, NaN, -1.0, NaN",-0.25,-0.25,,0.0
+seneca.agamemnon,372.0,"saepe, peto",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,373.0,"tu, per-misceo, matrona, paruus",4,"NaN, NaN, -0.5, 0.0",-0.125,-0.125,"tu, matrona",0.5
+seneca.agamemnon,374.0,"magnus, chorus",2,"0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,375.0,"colo, et, resero, uenio, dea",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,376.0,"templum, sacerdos",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,377.0,"tu, nexilis, turba, corona",4,"NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.25
+seneca.agamemnon,378.0,"re-imito, uenio",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,379.0,"tu, grandaeui, lassus, senex",4,"NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.25
+seneca.agamemnon,380.0,"compotor, ueto",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,381.0,"reddo, grates, libo, manus",4,"NaN, 1.0, NaN, 0.0",0.25,0.0,,0.0
+seneca.agamemnon,382.0,"uinum, tremo",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,383.0,"et, tu, triuius, nosco, memor",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,tu,0.2
+seneca.agamemnon,384.0,"uox, preco",2,"0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,385.0,"tu, maternus, sisto, delo, -ne",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+seneca.agamemnon,386.0,"lucinus, iubeo",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,387.0,"huc, atque, illic, prior, erro",5,"NaN, NaN, NaN, 0.5, 0.0",0.1,0.0,,0.0
+seneca.agamemnon,388.0,"cyclada, uenio",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,389.0,"nunc, iam, stabilis, figo, terra",5,"NaN, NaN, 0.5, NaN, 0.0",0.1,0.0,,0.0
+seneca.agamemnon,390.0,"radix, teneo",2,"0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,391.0,"respuo, aura, religo, ratis",4,"NaN, 1.0, NaN, NaN",0.25,0.0,,0.0
+seneca.agamemnon,392.0,"assuesco, sequor",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,393.0,"tu, tantalidos, funero, mater",4,"NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.25
+seneca.agamemnon,394.0,"uictrix, numero",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,395.0,"sto, nunc, sipyli, uertex, superus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,396.0,"flebilis, saxum",2,"-1.0, 0.0",-0.5,-0.5,,0.0
+seneca.agamemnon,397.0,"et, adhuc, lacrima, marmoro, fundo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,398.0,"antiquus, nouo",2,"0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,399.0,"colo, impendo, femina, uir",4,"NaN, NaN, 0.0, 0.5",0.125,0.0,,0.0
+seneca.agamemnon,400.0,"numen, geminus",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,401.0,"tu, ante, omnis, pater, atque, rector",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.167
+seneca.agamemnon,402.0,"fulmen, polleo",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,403.0,"qui, nutus, simul, extremus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,404.0,"tremo, polio",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,405.0,"genus, noster, iuppiter, auctor",4,"0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,406.0,"capio, donum, libet",3,"NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,407.0,"abauusque, tuus, non, degenero",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,408.0,"respicio, proles",2,"NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,409.0,"sed, ecce, uasto, concieo, miles, gradus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,uasto,0.167
+seneca.agamemnon,410.0,"manifestus, propero, signum, laetitia, fero",5,"-0.5, NaN, 0.0, 1.0, NaN",0.1,-0.1,,0.0
+seneca.agamemnon,411.0,"namque, hasta, superus, laurea, ferrum, gero",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,412.0,"fidus, rex, semper, eurybates, adsum",5,"1.0, 0.0, NaN, NaN, NaN",0.2,0.0,,0.0
+seneca.agamemnon,413.0,"delubrum, et, ara, caelitum, et, patrius, lar",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,414.0,"post, longus, fessus, spatior, uix, credo, ego",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,415.0,"supplex, adoro, ueto, superi, soluo",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,416.0,"tellus, altus, re-meo, argolicus, decus",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+seneca.agamemnon,417.0,"tandem, ad, penates, uictor, agamemno, -ne, suus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,agamemno,0.143
+seneca.agamemnon,418.0,"felix, ad, auris, nuntius, uenio, meus",6,"1.0, NaN, NaN, NaN, NaN, 0.0",0.167,0.0,,0.0
+seneca.agamemnon,419.0,"ubi, peto, per, decem, coniunx, ego",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+seneca.agamemnon,420.0,"annus, moror, pelagus, an, terra, premo",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,421.0,"incolumis, augeo, gloria, laus, inclutus",5,"-0.5, NaN, 0.0, 1.0, 0.5",0.2,-0.1,,0.0
+seneca.agamemnon,422.0,"reducem, expeto, litor, imprimo, pedis",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,423.0,"sacrum, colo, prosper, tandem, dies",5,"NaN, NaN, 1.0, NaN, 0.0",0.2,0.0,,0.0
+seneca.agamemnon,424.0,"et, si, propitius, attamen, lentus, deus",6,"NaN, NaN, 1.0, NaN, NaN, 0.0",0.167,0.0,,0.0
+seneca.agamemnon,425.0,"tu, pando, uiuo, coniunx, frater, meus",6,"NaN, NaN, NaN, -0.5, 0.0, 0.0",-0.083,-0.083,tu,0.167
+seneca.agamemnon,426.0,"et, pando, teneo, qui, soror, sedes, meus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,427.0,"bonus, uoueo, posco, et, obtestor, deus",6,"1.0, NaN, NaN, NaN, NaN, 0.0",0.167,0.0,,0.0
+seneca.agamemnon,428.0,"nam, certus, faris, sors, mare, dubius, ueto",7,"NaN, 0.5, NaN, -1.0, 0.0, -0.5, NaN",-0.143,-0.214,,0.0
+seneca.agamemnon,429.0,"ut, spargo, tumidus, classis, excipio, mare",6,"NaN, NaN, -0.5, NaN, NaN, 0.0",-0.083,-0.083,classis,0.167
+seneca.agamemnon,430.0,"ratis, uideo, socio, non, possum, ratis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,431.0,"quin, ipse, atrides, aequor, immensus, uagus",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,atrides,0.167
+seneca.agamemnon,432.0,"grauis, pelagus, damno, quam, bellum, fero",6,"-0.5, NaN, NaN, NaN, 0.0, NaN",-0.083,-0.083,damno,0.167
+seneca.agamemnon,433.0,"re-meo, uinco, similis, exiguus, traho",5,"NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,434.0,"lacero, uictor, classis, de, tantus, ratis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"lacero, classis",0.333
+seneca.agamemnon,435.0,"effaris, casus, quis, ratis, haurio, meus",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,436.0,"aut, qui, mare, fortuna, dispello, dux",6,"NaN, NaN, 0.0, 0.0, NaN, 0.5",0.083,0.0,,0.0
+seneca.agamemnon,437.0,"acerbus, for, posco, infaustus, iubeo",5,"-1.0, NaN, NaN, -1.0, NaN",-0.4,-0.4,"acerbus, infaustus",0.4
+seneca.agamemnon,438.0,"misceo, laeto, nuntius, refugio, loquor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,439.0,"mens, aeger, tantus, atque, inhorresco, malus",6,"0.5, -1.0, NaN, NaN, NaN, -1.0",-0.25,-0.333,,0.0
+seneca.agamemnon,440.0,"expromo, clades, scio, qui, refugio, suus",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+seneca.agamemnon,441.0,"grauo, timor, dubius, multus, torqueo, malus",6,"NaN, -0.5, -0.5, 0.0, NaN, -1.0",-0.333,-0.333,,0.0
+seneca.agamemnon,442.0,"ut, pergamum, omnis, doricus, cado, fax",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fax,0.167
+seneca.agamemnon,443.0,"diuido, praeda, sum, mare, propero, peto",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,444.0,"iam, ensis, fatisco, miles, exonero, latus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,445.0,"neglego, superus, scutum, per, puppis, iaceo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,iaceo,0.167
+seneca.agamemnon,446.0,"ad, militaris, reor, apto, manus",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,447.0,"omne, nimium, longus, propero, mora, sum",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,448.0,"signum, recursus, regius, ut, fulcio, ratis",6,"0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,449.0,"et, clarus, laetus, remigo, moneo, tuba",6,"NaN, 0.5, 1.0, NaN, NaN, NaN",0.25,0.0,,0.0
+seneca.agamemnon,450.0,"auro, primus, prora, designo, uia",5,"NaN, 0.5, NaN, NaN, 0.0",0.1,0.0,,0.0
+seneca.agamemnon,451.0,"aperio, curro, mille, qui, puppis, seco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,452.0,"hinc, aura, primus, lenis, impello, ratis",6,"NaN, 1.0, 0.5, 1.0, NaN, NaN",0.417,0.0,,0.0
+seneca.agamemnon,453.0,"allabor, uelis, unda, uix, actus, leuis",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,454.0,"tranquillus, zephyrus, mollio, afflo, tremo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,455.0,"splendeo, classis, polagus, et, pariter, lateo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,classis,0.167
+seneca.agamemnon,456.0,"iuuo, uideo, nudo, troia, litus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,457.0,"iuuo, rolicti, solus, sigei, locum",5,"NaN, NaN, -0.5, NaN, NaN",-0.1,-0.1,,0.0
+seneca.agamemnon,458.0,"proporat, iuuentus, omnis, adduco, simul",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,459.0,"lentaris, remus, adiuuo, uenio, manus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,460.0,"et, ualidus, nisus, bracchium, alterno, moueo",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+seneca.agamemnon,461.0,"sulco, uibro, aequor, et, latus, increpo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,increpo,0.167
+seneca.agamemnon,462.0,"dirimo, canus, caerulis, spuma, mare",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,463.0,"ut, aura, plenus, fortis, tendo, sinus",6,"NaN, 1.0, 0.0, 0.5, NaN, NaN",0.25,0.0,,0.0
+seneca.agamemnon,464.0,"pono, tondeo, credo, sum, uenio, ratis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,465.0,"utor, transtrum, miles, aut, terra, procul",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,466.0,"quantus, recedo, uelo, fugio, noto",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,467.0,"aut, bellum, narro, hector, fortis, minae",6,"NaN, 0.0, NaN, NaN, 0.5, -0.5",0.0,-0.083,,0.0
+seneca.agamemnon,468.0,"currus, et, emo, reddo, corpus, rogo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,emo,0.167
+seneca.agamemnon,469.0,"spargo, cruor, rogus, herceum, iouem",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"cruor, rogus",0.4
+seneca.agamemnon,470.0,"tunc, qui, iaceo, reciprocus, ludo, salum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,iaceo,0.167
+seneca.agamemnon,471.0,"tumidus, pando, transilit, dorsum, mare",5,"-0.5, NaN, NaN, NaN, 0.0",-0.1,-0.1,,0.0
+seneca.agamemnon,472.0,"tyrrhenus, omnis, piscis, exultat, fretus",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+seneca.agamemnon,473.0,"agito, gyrus, et, comes, lateo, adnato",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,474.0,"anteeo, nauo, laetus, et, rursus, sequor",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+seneca.agamemnon,475.0,"nunc, primus, tango, rostrum, lasciuit, chorus",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+seneca.agamemnon,476.0,"millosimam, nunc, amb-eo, et, lustro, ratis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,477.0,"iam, litus, omnis, tego, et, campus, lateo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,478.0,"et, dubius, pareo, mons, idaei, iugum",6,"NaN, -0.5, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+seneca.agamemnon,479.0,"et, iam, qui, unus, peruicax, acies, uideo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,peruicax,0.143
+seneca.agamemnon,480.0,"iliacus, ater, fumus, apparot, nosco",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,481.0,"iam, lasso, titan, collum, releuo, iugum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,482.0,"in, astrum, iam, lux, pronus, iam, praeceps, dius",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,483.0,"exiguus, nubes, sordidus, cresco, globus",5,"0.0, NaN, -1.0, NaN, NaN",-0.2,-0.2,sordidus,0.2
+seneca.agamemnon,484.0,"nitidus, cado, inquino, phoebus, iubar",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,inquino,0.2
+seneca.agamemnon,485.0,"suspicio, rarus, occaedes, facio, fretus",5,"-0.5, NaN, NaN, NaN, 0.5",0.0,-0.1,,0.0
+seneca.agamemnon,486.0,"nox, primus, caelum, spargo, stella, iaceo",6,"0.0, 0.5, 0.5, NaN, NaN, NaN",0.167,0.0,iaceo,0.167
+seneca.agamemnon,487.0,"desero, uenio, uelo, tum, murmur, grauis",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+seneca.agamemnon,488.0,"magnus, minito, collis, summus, cado",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,489.0,"traho, longus, litus, atque, petra, gemo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,490.0,"agito, uenio, unda, uenio, tumeo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,491.0,"cum, subeo, luna, condio, stella, lateo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,492.0,"in, astrum, pontus, tollo, caelum, pereo",6,"NaN, NaN, 0.0, NaN, 0.5, NaN",0.083,0.0,,0.0
+seneca.agamemnon,493.0,"neque, unus, nox, sum, densus, tenebrae, obruo",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,494.0,"caligo, et, omnis, lux, subduco, fretus",6,"-0.5, NaN, NaN, NaN, NaN, 0.5",0.0,-0.083,,0.0
+seneca.agamemnon,495.0,"caelum, misceo, undique, incumbo, simul",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+seneca.agamemnon,496.0,"rapio, pelagus, infimus, euerro, solum",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,497.0,"aduerro, eurus, zephyros, et, boreas, notus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,498.0,"suus, quisque, mitto, telum, et, infestus, fretus",7,"NaN, NaN, NaN, NaN, NaN, -1.0, 0.5",-0.071,-0.143,,0.0
+seneca.agamemnon,499.0,"emolior, turbo, conuoluo, mare",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,500.0,"strymonius, alo, aquilus, contorqueo, nix",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,501.0,"libycusque, harena, auster, atque, syrtes, ago",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,502.0,"neque, maneo, in, auster, fio, grauis, nimbus, notus",8,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN, 0.0",-0.062,-0.062,,0.0
+seneca.agamemnon,503.0,"imber, augeo, unda, eurus, orior, moueo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,504.0,"nabataea, quatio, regnum, et, eoos, sinus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,505.0,"quis, rabidus, os, corus, oceanus, exerens",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,rabidus,0.167
+seneca.agamemnon,506.0,"mundus, reuello, sedes, totus, suus",5,"1.0, NaN, 0.0, NaN, NaN",0.2,0.0,,0.0
+seneca.agamemnon,507.0,"ipse, rumpo, credo, caelum, deus",5,"NaN, NaN, NaN, 0.5, 0.0",0.1,0.0,,0.0
+seneca.agamemnon,508.0,"decido, et, ater, res, induco, chaos",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,chaos,0.167
+seneca.agamemnon,509.0,"uenio, resisto, aestus, et, uenio, retro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,510.0,"aestus, reuoluo, non, capio, sui, mare",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,511.0,"undo, misceo, imber, et, fluctus, suus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,512.0,"neque, hic, leuame, -ne, denique, aerumna, do",7,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.071,-0.071,hic,0.143
+seneca.agamemnon,513.0,"uideo, saltem, et, nosco, quo, pereo, malus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+seneca.agamemnon,514.0,"premo, tenebra, lumen, et, dirus, styx",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,dirus,0.167
+seneca.agamemnon,515.0,"infernus, nox, sum, excido, ignis, tamen",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,516.0,"et, nubes, dirus, fulmen, elido, mico",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,dirus,0.167
+seneca.agamemnon,517.0,"mitto, lucus, tantus, dulcedo, sum, malus",6,"NaN, NaN, NaN, 0.5, NaN, -1.0",-0.083,-0.167,dulcedo,0.167
+seneca.agamemnon,518.0,"hic, lumen, opto, ipse, sui, classis, premo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, classis",0.286
+seneca.agamemnon,519.0,"et, prora, prora, noceo, et, lateo, latus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,noceo,0.143
+seneca.agamemnon,520.0,"ille, dehisco, pontus, in, praeceps, rapio",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,dehisco,0.167
+seneca.agamemnon,521.0,"haurio, et, altus, reddo, reuomo, mare",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,reuomo,0.167
+seneca.agamemnon,522.0,"hic, onus, sido, ille, conuulsus, latus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+seneca.agamemnon,523.0,"summitto, unda, fluctus, hic, decimus, tego",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.167
+seneca.agamemnon,524.0,"hic, lacero, et, omnis, decus, populo, leuis",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, lacero",0.286
+seneca.agamemnon,525.0,"fluito, neque, ille, uelo, neque, tondeo, maneo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fluito,0.143
+seneca.agamemnon,526.0,"neque, rectus, alo, malus, antenna, fero",6,"NaN, 1.0, NaN, -1.0, NaN, NaN",0.0,-0.167,,0.0
+seneca.agamemnon,527.0,"sed, truncus, totus, puppis, icario, nato",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,528.0,"nihil, ratio, et, utor, audeo, ars, cedo, malus",8,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN, -1.0",-0.125,-0.125,,0.0
+seneca.agamemnon,529.0,"teneo, horror, artus, omnis, officium, stupeo",6,"NaN, -1.0, NaN, NaN, 0.5, NaN",-0.083,-0.167,,0.0
+seneca.agamemnon,530.0,"nauta, relinquo, reor, effugio, manus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,531.0,"in, ueto, miser, ulter, cogo, timor",6,"NaN, NaN, -1.0, NaN, NaN, -0.5",-0.25,-0.25,miser,0.167
+seneca.agamemnon,532.0,"idem, superus, troes, et, danai, rogo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,danai,0.167
+seneca.agamemnon,533.0,"eo, quis, fatum, possum, inuideo, pyrrhus, pater",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,534.0,"a-iacio, ulixes, hector, atrides, paruus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,atrides,0.2
+seneca.agamemnon,535.0,"agamemno, priamo, quisquis, ad, troiam, iaceo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"agamemno, priamo, iaceo",0.5
+seneca.agamemnon,536.0,"felix, uoco, cado, qui, mereo, gradus",6,"1.0, NaN, NaN, NaN, NaN, 0.0",0.167,0.0,,0.0
+seneca.agamemnon,537.0,"qui, fama, seruo, uinco, qui, tellus, tego",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+seneca.agamemnon,538.0,"nihil, nobilis, audeo, pontus, atque, unda, fero",7,"NaN, 1.0, NaN, 0.0, NaN, 0.0, NaN",0.143,0.0,,0.0
+seneca.agamemnon,539.0,"ignauus, fortis, fatum, consumo, uir",5,"-1.0, 0.5, 0.0, NaN, 0.5",0.0,-0.2,ignauus,0.2
+seneca.agamemnon,540.0,"perdo, mors, sum, quisquis, sum, nondum, malus",7,"NaN, -1.0, NaN, NaN, NaN, NaN, -1.0",-0.286,-0.286,,0.0
+seneca.agamemnon,541.0,"satio, tantus, caelitum, tandem, tuus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,542.0,"numen, serenus, clades, noster, do",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,,0.0
+seneca.agamemnon,543.0,"uel, troia, lacrima, odium, si, duro, tuus",7,"NaN, NaN, NaN, -1.0, NaN, NaN, 0.0",-0.143,-0.143,,0.0
+seneca.agamemnon,544.0,"placo, mitto, doricum, exitium, genus",5,"NaN, NaN, NaN, -1.0, 0.0",-0.2,-0.2,,0.0
+seneca.agamemnon,545.0,"quis, hic, simul, pereo, cum, nos, iuuo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+seneca.agamemnon,546.0,"qui, perimas., sistito, infestus, mare",5,"NaN, NaN, NaN, -1.0, 0.0",-0.2,-0.2,,0.0
+seneca.agamemnon,547.0,"ueho, iste, danaos, classis, et, troas, uenio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,classis,0.143
+seneca.agamemnon,548.0,"neque, multus, possum, occupo, uoco, mare",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,549.0,"ecce, alius, clades, fulmen, irascor, io",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+seneca.agamemnon,550.0,"armo, pallas, quisquis, haud, hasta, minax",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,551.0,"haud, aegis, haud, furor, gorgoneo, possum",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,furor,0.167
+seneca.agamemnon,552.0,"at, ignis, patrius, tento, et, caelum, nouus",7,"NaN, 0.0, 0.0, NaN, NaN, 0.5, 1.0",0.214,0.0,,0.0
+seneca.agamemnon,553.0,"spiro, procella, solus, inuictus, malus",5,"NaN, NaN, -0.5, 1.0, -1.0",-0.1,-0.3,,0.0
+seneca.agamemnon,554.0,"luctor, aiax, uelo, cogo, hic, suus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+seneca.agamemnon,555.0,"tento, rudo, flamma, praestringo, cado",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,556.0,"libro, alius, fulmen, hic, totus, impetus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+seneca.agamemnon,557.0,"certus, reduco, pallas, excutio, manus",5,"0.5, NaN, NaN, NaN, 0.0",0.1,0.0,,0.0
+seneca.agamemnon,558.0,"imito, pater, transeo, aiacem, et, ratis",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,559.0,"reor, pars, cum, sui, et, aiacem, fero",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,560.0,"nihil, ille, moueo, arduus, ut, cautes, salum",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,561.0,"amburo, extat, dirimo, insanus, mare",5,"NaN, NaN, NaN, -1.0, 0.0",-0.2,-0.2,insanus,0.2
+seneca.agamemnon,562.0,"fluctus, rumpo, pectus, et, nauo, manus",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,563.0,"complexus, ignis, traho, et, caecus, mare",6,"0.0, 0.0, NaN, NaN, -1.0, 0.0",-0.167,-0.167,,0.0
+seneca.agamemnon,564.0,"colluceo, aiax, omnis, resplendeo, fretus",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+seneca.agamemnon,565.0,"tandem, occupo, rupes, furibundus, intono",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,furibundus,0.2
+seneca.agamemnon,566.0,"supero, cunctus, pelagus, atque, ignis, iuuo",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,567.0,"uinco, caelum, palla, fulmen, mare",5,"NaN, 0.5, NaN, NaN, 0.0",0.1,0.0,,0.0
+seneca.agamemnon,568.0,"non, ego, fugo, bellicus, terror, deus",6,"NaN, NaN, NaN, 0.0, -1.0, 0.0",-0.167,-0.167,,0.0
+seneca.agamemnon,569.0,"et, hector, unus, solus, et, martes, fero",7,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,,0.0
+seneca.agamemnon,570.0,"phoebea, neque, ego, telum, pello, gradus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,571.0,"cum, phrygibus, iste, uinco, teneo, horreo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,572.0,"alienus, iners, telum, mitto, dextera",5,"-0.5, 0.0, NaN, NaN, 0.0",-0.1,-0.1,iners,0.2
+seneca.agamemnon,573.0,"quis, si, ipse, mitto, multus, cum, audeo, furo",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,furo,0.125
+seneca.agamemnon,574.0,"tridens, rupes, surruo, pello, pater",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,575.0,"neptunus, imus, exerens, unda, caput",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,576.0,"soluo, mons, qui, cado, cum, sui, fero",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,577.0,"terra, et, ignis, uinco, et, pelagus, iaceo",7,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,iaceo,0.143
+seneca.agamemnon,578.0,"nos, alius, magnus, naufragus, pestis, uoco",6,"NaN, NaN, 0.0, -0.5, -1.0, NaN",-0.25,-0.25,"naufragus, pestis",0.333
+seneca.agamemnon,579.0,"sum, humilis, unda, scrupea, mendax, uado",6,"NaN, NaN, 0.0, NaN, -1.0, NaN",-0.167,-0.167,"humilis, mendax",0.333
+seneca.agamemnon,580.0,"ubi, saxum, rapidus, claudo, uertex, tego",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,581.0,"fallax, caphereus, aestuo, scopulus, fretus",5,"-1.0, NaN, NaN, 0.0, 0.5",-0.1,-0.2,aestuo,0.2
+seneca.agamemnon,582.0,"feruetque, semper, fluctus, alternus, uicus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,583.0,"arx, immineo, praeruptus, qui, specto, mare",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,584.0,"utrimque, geminus, pelopis, hinc, ora, tuus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,585.0,"et, isthmo, -ne, artus, qui, recuruatus, solum",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,586.0,"ionia, iungo, mare, phrixeis, ueto",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,587.0,"hinc, scelus, lemno, -ne, nobilis, et, calchedona",7,"NaN, -1.0, NaN, NaN, 1.0, NaN, NaN",0.0,-0.143,scelus,0.143
+seneca.agamemnon,588.0,"tardus, ratis, aulida, hic, arx, occupo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+seneca.agamemnon,589.0,"palamedis, ille, genitor, et, clarus, manus",6,"NaN, NaN, NaN, NaN, 0.5, 0.0",0.083,0.0,,0.0
+seneca.agamemnon,590.0,"lumen, nefandus, uertex, e, superus, effero",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,nefandus,0.167
+seneca.agamemnon,591.0,"in, saxum, duco, perfidus, classis, fax",6,"NaN, 0.0, NaN, -1.0, NaN, NaN",-0.167,-0.167,"perfidus, classis, fax",0.5
+seneca.agamemnon,592.0,"haereo, acuo, rupes, figo, ratis",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,593.0,"hic, inops, unda, breuio, comminuo, uado",6,"NaN, -1.0, 0.0, NaN, NaN, NaN",-0.167,-0.167,hic,0.167
+seneca.agamemnon,594.0,"pars, ueho, hic, primus, pars, scopulus, sedeo",7,"0.0, NaN, NaN, 0.5, 0.0, 0.0, NaN",0.071,0.0,hic,0.143
+seneca.agamemnon,595.0,"hic, alius, retro, spatior, relego, ferio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+seneca.agamemnon,596.0,"et, frango, frango, iam, timeo, terra, ratis",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,597.0,"et, mare, malo, cado, in, lux, furor",7,"NaN, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,furor,0.143
+seneca.agamemnon,598.0,"postquam, litas, sum, ilium, phoebus, redeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,599.0,"et, damno, nox, tristis, ostendo, dies",6,"NaN, NaN, 0.0, -1.0, NaN, 0.0",-0.167,-0.167,damno,0.167
+seneca.agamemnon,600.0,"utrum, -ne, doleo, laeto, an, reducem, uir",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+seneca.agamemnon,601.0,"re-meo, laeto, uulnus, et, regnum, grauis",6,"NaN, NaN, -1.0, NaN, 0.0, -0.5",-0.25,-0.25,,0.0
+seneca.agamemnon,602.0,"lugeo, cogo, reddo, iam, grais, pater",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,603.0,"altisonus, quatio, regnum, placo, deus",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,604.0,"nunc, omnis, laetus, frons, ueletur, caput",6,"NaN, NaN, 1.0, 0.0, NaN, 0.0",0.167,0.0,,0.0
+seneca.agamemnon,605.0,"sacrifiea, dulcis, tibia, effundo, modus",5,"NaN, 0.5, NaN, NaN, 0.5",0.2,0.0,,0.0
+seneca.agamemnon,606.0,"et, niueus, magnus, uictima, ante, ara, cado",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,niueus,0.143
+seneca.agamemnon,607.0,"sed, ecce, turba, tristis, in, como, como",7,"NaN, NaN, 0.0, -1.0, NaN, NaN, NaN",-0.143,-0.143,,0.0
+seneca.agamemnon,608.0,"iliades, adsum, qui, super, celsus, gradus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,609.0,"effreno, phoebas, entheus, laurus, quatio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"effreno, entheus",0.4
+seneca.agamemnon,610.0,"heu, quam, dulcis, malus, mortalis, addo",6,"NaN, NaN, 0.5, -1.0, -1.0, NaN",-0.25,-0.333,heu,0.167
+seneca.agamemnon,611.0,"uita, dirae, amor, cum, pateo, malus",6,"0.0, NaN, 1.0, NaN, NaN, -1.0",0.0,-0.167,,0.0
+seneca.agamemnon,612.0,"effugius, et, miser, liber, mors, uoco",6,"NaN, NaN, -1.0, 0.5, -1.0, NaN",-0.25,-0.333,miser,0.167
+seneca.agamemnon,613.0,"portus, aeternus, placidus, quiesco",4,"NaN, 0.5, 1.0, NaN",0.375,0.0,,0.0
+seneca.agamemnon,614.0,"nullus, hic, terror, neque, impotens",5,"NaN, NaN, -1.0, NaN, -1.0",-0.4,-0.4,"hic, impotens",0.4
+seneca.agamemnon,615.0,"procella, fortuna, moueo, aut, iniquus",5,"NaN, 0.0, NaN, NaN, -1.0",-0.2,-0.2,iniquus,0.2
+seneca.agamemnon,616.0,"flamma, tono",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,617.0,"perrumpo, omnis, seruitium",3,"NaN, NaN, -1.0",-0.333,-0.333,,0.0
+seneca.agamemnon,618.0,"contemptor, leuis, deus",3,"NaN, 0.0, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,619.0,"qui, uultus, acheron, ater",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,620.0,"qui, styga, tristis, non, tristis, uideo",6,"NaN, NaN, -1.0, NaN, -1.0, NaN",-0.333,-0.333,,0.0
+seneca.agamemnon,621.0,"audeo, uita, pono, finis",4,"NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,622.0,"altus, paxnullos",2,"0.5, NaN",0.25,0.0,,0.0
+seneca.agamemnon,623.0,"ciuis, coitus, timeo, aut, minax",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+seneca.agamemnon,624.0,"uictor, ira, non, mare, asper",5,"NaN, -1.0, NaN, 0.0, -0.5",-0.3,-0.3,,0.0
+seneca.agamemnon,625.0,"insanus, cora, non, acies, ferus",5,"-1.0, NaN, NaN, 0.0, -1.0",-0.4,-0.4,"insanus, ferus",0.4
+seneca.agamemnon,626.0,"puluereamue, nubes",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,627.0,"moueo, barbaricus, eques, caterua",4,"NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,628.0,"non, urbs, cum, totus, populus, cado",6,"NaN, 0.5, NaN, NaN, 0.0, NaN",0.083,0.0,,0.0
+seneca.agamemnon,629.0,"hosticus, murus, populor, tu, flamma",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,tu,0.2
+seneca.agamemnon,630.0,"indoinitumue, bellum",2,"NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,631.0,"par, ille, rex, par, superi, sum",6,"0.5, NaN, 0.0, 0.5, NaN, NaN",0.167,0.0,,0.0
+seneca.agamemnon,632.0,"o, quam, miser, sum, nescio, morior",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,miser,0.167
+seneca.agamemnon,633.0,"uideo, patria, ruo, nox, funestus",5,"NaN, NaN, NaN, 0.0, -1.0",-0.2,-0.2,funestus,0.2
+seneca.agamemnon,634.0,"cum, dardanus, tectum, dorici, rapio, ignis",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,635.0,"non, ille, bellum, uinco, non, arma",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,636.0,"ut, quondam, herculea, cado, pharetra",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,637.0,"quam, non, pelei, thetidisquo, nascor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,638.0,"caros, pelidae, nimium, ferox",4,"NaN, NaN, 0.0, -1.0",-0.25,-0.25,ferox,0.25
+seneca.agamemnon,639.0,"uinco, accipio, cum, fulcio, arma",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,640.0,"fundo, troas, falsus, achilles",4,"NaN, NaN, -1.0, NaN",-0.25,-0.25,achilles,0.25
+seneca.agamemnon,641.0,"aut, cum, ipse, pelides, animus, ferox",6,"NaN, NaN, NaN, NaN, 0.5, -1.0",-0.083,-0.167,ferox,0.167
+seneca.agamemnon,642.0,"tollo, luctus, celer, saltus",4,"NaN, -1.0, NaN, NaN",-0.25,-0.25,,0.0
+seneca.agamemnon,643.0,"troades, summus, timeo, murus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,644.0,"perdo, in, malus",3,"NaN, NaN, -1.0",-0.333,-0.333,,0.0
+seneca.agamemnon,645.0,"exter, decus, fortis, uinco",4,"0.0, NaN, 0.5, NaN",0.125,0.0,,0.0
+seneca.agamemnon,646.0,"resto, quini, bis, annus",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,647.0,"unus, nox, pereo, furtum",4,"NaN, 0.0, NaN, -1.0",-0.25,-0.25,furtum,0.25
+seneca.agamemnon,648.0,"uideo, simulo, donum",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,649.0,"molio, immensus, danaumque",3,"NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,650.0,"fatalis, munus, duco, noster",4,"0.0, 0.5, NaN, NaN",0.125,0.0,,0.0
+seneca.agamemnon,651.0,"credulis, dextera, tremo, saepe",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,652.0,"limen, in, primus, sonipes, cauerna",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,cauerna,0.2
+seneca.agamemnon,653.0,"condio, rex, bellus, gesto",4,"NaN, 0.0, 1.0, NaN",0.25,0.0,,0.0
+seneca.agamemnon,654.0,"et, licet, dolus, uersaris, ut, ipse",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,dolus,0.167
+seneca.agamemnon,655.0,"fraus, suus, cado, pelasgi",4,"-1.0, NaN, NaN, NaN",-0.25,-0.25,fraus,0.25
+seneca.agamemnon,656.0,"saepe, commoueo, sono, parma",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,657.0,"taceo, murmur, percutio, auris",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,658.0,"ut, fremo, malus, subdolus",4,"NaN, NaN, -1.0, -1.0",-0.5,-0.5,subdolus,0.25
+seneca.agamemnon,659.0,"parens, pyrrhus, ulixi",3,"0.5, NaN, NaN",0.167,0.0,,0.0
+seneca.agamemnon,660.0,"securus, metus, troica, pubes",4,"1.0, -1.0, NaN, NaN",0.0,-0.25,,0.0
+seneca.agamemnon,661.0,"sacer, gaudeo, tango, funis",4,"1.0, NaN, NaN, NaN",0.25,0.0,,0.0
+seneca.agamemnon,662.0,"hinc, aequaeui, grex, astyanax",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,663.0,"hinc, haemonius, despondeo, rogo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,664.0,"duco, turma",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,665.0,"hic, femineus, ille, uirilis",4,"NaN, -0.5, NaN, 0.5",0.0,-0.125,hic,0.25
+seneca.agamemnon,666.0,"festus, mater, uotiuus, fero",4,"NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,667.0,"munus, diuus",2,"0.5, 0.0",0.25,0.0,,0.0
+seneca.agamemnon,668.0,"festus, pater, adeo, ara",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,669.0,"unus, totus, sum, uultus, in, urbs",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+seneca.agamemnon,670.0,"et, qui, numquam, post, hectoreos",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,671.0,"uideo, ignis, laetus, sum, hecuba",5,"NaN, 0.0, 1.0, NaN, NaN",0.2,0.0,,0.0
+seneca.agamemnon,672.0,"quis, nunc, primus, dolor, infelix",5,"NaN, NaN, 0.5, -1.0, -1.0",-0.3,-0.4,infelix,0.2
+seneca.agamemnon,673.0,"quis, exter, defleo, paro",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,674.0,"moenia, diuus, fabricor, manus",4,"NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,675.0,"diruo, noster",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,676.0,"an, templum, deus, super, uro, suus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,677.0,"non, uaco, iste, lacrimaris, malus",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+seneca.agamemnon,678.0,"tu, magnus, parens, fleo, iliades",5,"NaN, 0.0, 0.5, NaN, NaN",0.1,0.0,tu,0.2
+seneca.agamemnon,679.0,"uideo, uideo",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,680.0,"senex, in, iugulo, telis, pyrrhi",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,iugulo,0.2
+seneca.agamemnon,681.0,"uix, exiguus, sanguis, tingui",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,682.0,"cohibeo, lacrima, omnis, qui, tempus, peto",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,683.0,"troades, et, ipse, uester, lamentabilis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,684.0,"lugeo, gemitus, funero, aerumna, meus",5,"NaN, -0.5, NaN, -0.5, 0.0",-0.2,-0.2,,0.0
+seneca.agamemnon,685.0,"socius, recuso, clades, queror, meus",5,"1.0, NaN, -1.0, NaN, 0.0",0.0,-0.2,,0.0
+seneca.agamemnon,686.0,"remoueo, noster, ipse, sufficio, malus",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+seneca.agamemnon,687.0,"lacrima, lacrima, misceo, iuuo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,688.0,"magis, exuro, qui, secerno",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,689.0,"lacero, cura, iuuo, in, medius",5,"NaN, -1.0, NaN, NaN, 0.0",-0.2,-0.2,lacero,0.2
+seneca.agamemnon,690.0,"defleo, suus, neque, tu, quiuis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+seneca.agamemnon,691.0,"durus, uirago, patior, malus",4,"-0.5, NaN, NaN, -1.0",-0.375,-0.375,,0.0
+seneca.agamemnon,692.0,"possum, tantus, fleo, ruina",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,693.0,"non, qui, uernus, mobilis, carmen",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,694.0,"ramus, canto, tristis, aedo, -ne",5,"NaN, 0.0, -1.0, NaN, NaN",-0.2,-0.2,,0.0
+seneca.agamemnon,695.0,"ity, -ne, in, uarius, modulor, sonus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,696.0,"non, qui, tectum, bistonis, ales",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,697.0,"resideo, summus, impius, dirus",4,"NaN, NaN, -1.0, -1.0",-0.5,-0.5,"impius, dirus",0.5
+seneca.agamemnon,698.0,"furtum, maritus, garrulus, narro",4,"-1.0, 0.0, NaN, NaN",-0.25,-0.25,"furtum, maritus, garrulus",0.75
+seneca.agamemnon,699.0,"lugeo, tuus, possum, dignus",4,"NaN, 0.0, NaN, 1.0",0.25,0.0,,0.0
+seneca.agamemnon,700.0,"conqueror, domus, licet, ipse, uolo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,701.0,"clarus, niueus, inter, olor",4,"0.5, NaN, NaN, NaN",0.125,0.0,"niueus, olor",0.5
+seneca.agamemnon,702.0,"histrum, cycnus, tanainque, colo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,703.0,"exter, loquor, licet, alcyones",4,"0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,704.0,"ceyca, suus, fluctus, leuis",4,"NaN, NaN, 0.0, 0.0",0.0,0.0,ceyca,0.25
+seneca.agamemnon,705.0,"plango, sono, cum, tranquillus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,706.0,"malus, confido, credo, iterum",4,"-1.0, NaN, NaN, NaN",-0.25,-0.25,,0.0
+seneca.agamemnon,707.0,"pelagus, audax, fetus, suus",4,"NaN, NaN, NaN, NaN",nan,nan,audax,0.25
+seneca.agamemnon,708.0,"nidus, pauidus, titubo, foueo",4,"NaN, -1.0, NaN, NaN",-0.25,-0.25,,0.0
+seneca.agamemnon,709.0,"non, si, mollis, comito, uir",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+seneca.agamemnon,710.0,"tristis, iaceo, bracchium, cum, tu",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,"iaceo, tu",0.4
+seneca.agamemnon,711.0,"qui, turritus, turba, parens",4,"NaN, NaN, 0.0, 0.5",0.125,0.0,,0.0
+seneca.agamemnon,712.0,"pectus, raucus, concito, buxus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,713.0,"ferio, ut, phrygius, lugeo, atti, -ne",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,714.0,"non, sum, lacrima, cassandra, modus",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+seneca.agamemnon,715.0,"quia, qui, patior, uinco, modus",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+seneca.agamemnon,716.0,"sed, cur, sacro, deripio, caput, infula",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,717.0,"miser, colo, magnus, superus, puto",5,"-1.0, NaN, 0.0, NaN, NaN",-0.2,-0.2,miser,0.2
+seneca.agamemnon,718.0,"cass, uinco, noster, iam, metus, omnis, malus",7,"NaN, NaN, NaN, NaN, -1.0, NaN, -1.0",-0.286,-0.286,,0.0
+seneca.agamemnon,719.0,"equidem, neque, ullus, caelites, placo, prex",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,720.0,"neque, si, uolo, saeuio, quo, noceo, habeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"saeuio, noceo",0.286
+seneca.agamemnon,721.0,"fortuna, uireo, ipse, consumo, suus",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,722.0,"qui, patria, resto, quis, pater, qui, iam, soror",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,723.0,"bibo, tumulis, sanguis, atque, ara, meus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,724.0,"quis, ille, felix, turba, fraternus, grex",6,"NaN, NaN, 1.0, 0.0, 0.0, NaN",0.167,0.0,fraternus,0.167
+seneca.agamemnon,725.0,"exhaurio, nempe, regius, miser, senex",5,"NaN, NaN, 0.0, -1.0, 0.0",-0.2,-0.2,miser,0.2
+seneca.agamemnon,726.0,"uacuus, relinquo, tot, per, thalamus, uideo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,727.0,"praeter, lacaenam, ceterus, uiduo, nurus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,nurus,0.2
+seneca.agamemnon,728.0,"tot, ille, rex, mater, et, regime, -ne, phrygum",8,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,729.0,"fecundus, in, ignis, hecuba, fatum, nouo",6,"1.0, NaN, 0.0, NaN, 0.0, NaN",0.167,0.0,,0.0
+seneca.agamemnon,730.0,"experior, lex, induo, uultus, ferus",5,"NaN, 0.5, NaN, NaN, -1.0",-0.1,-0.2,ferus,0.2
+seneca.agamemnon,731.0,"circa, ruina, rabidus, latro, suus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"rabidus, latro",0.4
+seneca.agamemnon,732.0,"troia, supersto, hector, priamo, sui",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,priamo,0.2
+seneca.agamemnon,733.0,"sileo, repens, phoebas, et, pallor, gena",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"pallor, gena",0.333
+seneca.agamemnon,734.0,"creber, totus, possideo, corpus, tremor",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,735.0,"sto, uitta, mollio, horresco, coma",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,736.0,"anhelo, cor, murmur, includo, fremo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,737.0,"incertus, nuto, lumen, et, uerro, retro",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+seneca.agamemnon,738.0,"torqueo, oculus, rursus, immotus, rigo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,739.0,"nunc, leuo, in, aura, alo, soleo, caput",7,"NaN, NaN, NaN, 1.0, NaN, NaN, 0.0",0.143,0.0,,0.0
+seneca.agamemnon,740.0,"gradior, celsus, nunc, reluctor, paro",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,741.0,"reseraris, fauces, uerbum, nunc, claudo, malus",6,"NaN, NaN, 0.0, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+seneca.agamemnon,742.0,"custodio, os, maenaa, impatiens, deus",5,"NaN, 0.0, NaN, -0.5, 0.0",-0.1,-0.1,,0.0
+seneca.agamemnon,743.0,"quis, ego, furor, incitus, stimulus, nosco",6,"NaN, NaN, -1.0, NaN, 0.0, NaN",-0.167,-0.167,"furor, incitus, stimulus",0.5
+seneca.agamemnon,744.0,"quis, mens, inops, sacer, parnasi, iugum",6,"NaN, 0.5, -1.0, 1.0, NaN, NaN",0.083,-0.167,,0.0
+seneca.agamemnon,745.0,"rapio, recedo, phoebus, iam, non, sum, tuus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,746.0,"extingue, flamma, pector, infigo, meus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,747.0,"qui, nunc, uago, uesanus, qui, bacchor, furo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"uesanus, bacchor, furo",0.429
+seneca.agamemnon,748.0,"iam, troia, cado, fallo, quis, uates, ago",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fallo,0.143
+seneca.agamemnon,749.0,"ubi, sum, fugio, lux, almus, et, obscuro, gena",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,gena,0.125
+seneca.agamemnon,750.0,"nox, altus, et, aether, abdo, tenebrae, lateo",7,"0.0, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+seneca.agamemnon,751.0,"sed, ecce, geminus, sol, praefulgeo, dies",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,752.0,"geminus, duplex, argos, attollo, domus",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,753.0,"idaea, cerno, nemus, fatal, sedeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,754.0,"inter, potens, arbiter, pastor, dea",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+seneca.agamemnon,755.0,"timeo, rex, moneo, furtiuus, genus",5,"NaN, 0.0, NaN, -1.0, 0.0",-0.2,-0.2,,0.0
+seneca.agamemnon,756.0,"agrestis, iste, alumnus, euerto, domus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,757.0,"quis, iste, uaecors, telum, femineus, manus",6,"NaN, NaN, -1.0, NaN, -0.5, 0.0",-0.25,-0.25,uaecors,0.167
+seneca.agamemnon,758.0,"destringo, praefero, qui, peto, dextera, uir",6,"NaN, NaN, NaN, NaN, 0.0, 0.5",0.083,0.0,,0.0
+seneca.agamemnon,759.0,"lacaena, cultus, ferrum, amazonium, gero",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+seneca.agamemnon,760.0,"qui, uerso, oculus, alius, nunc, facies, meus",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,761.0,"uictor, ferus, collum, sublimis, iaceo",5,"NaN, -1.0, NaN, 0.5, NaN",-0.1,-0.2,"ferus, iaceo",0.4
+seneca.agamemnon,762.0,"ignobilis, sub, dens, marmaricus, leo",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,leo,0.2
+seneca.agamemnon,763.0,"mordeo, cruentus, patior, audax, lea",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"cruentus, audax, lea",0.6
+seneca.agamemnon,764.0,"quis, ego, uoco, sospes, solus, e, meus",7,"NaN, NaN, NaN, 1.0, -0.5, NaN, 0.0",0.071,-0.071,,0.0
+seneca.agamemnon,765.0,"umbra, meus, tu, sequor, testis, pater",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.167
+seneca.agamemnon,766.0,"troia, sepelio, frater, auxilium, phrygum",5,"NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,sepelio,0.2
+seneca.agamemnon,767.0,"terror, danaum, non, ego, antiquus, decus",6,"-1.0, NaN, NaN, NaN, 0.0, NaN",-0.167,-0.167,danaum,0.167
+seneca.agamemnon,768.0,"uideo, aut, caleo, ratis, exuro, manus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,769.0,"sed, lacero, membrum, et, saucius, uinclum, grauis",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,"lacero, uinclum",0.286
+seneca.agamemnon,770.0,"ille, lacertus, tu, sequor, nimium, cito",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.167
+seneca.agamemnon,771.0,"congredior, achilles, troilis, incertus, gero",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,achilles,0.2
+seneca.agamemnon,772.0,"deiphobe, uultus, coniunx, munus, nouus",5,"NaN, NaN, -0.5, 0.5, 1.0",0.2,-0.1,,0.0
+seneca.agamemnon,773.0,"iuuo, per, ipse, ingredior, stygius, lacus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,774.0,"iuuo, uideo, tartaris, saeuus, canis",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,saeuus,0.2
+seneca.agamemnon,775.0,"auidus, regnum, dis, hic, hodie, ratis",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.167
+seneca.agamemnon,776.0,"phlegethontis, ater, regia, anima, ueho",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,phlegethontis,0.2
+seneca.agamemnon,777.0,"uictamq, -ne, uictricemqne, tu, umbra, precor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+seneca.agamemnon,778.0,"iuro, superi, unda, tu, pariter, precor",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.167
+seneca.agamemnon,779.0,"resero, paulus, tergum, nigro, polio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,nigro,0.2
+seneca.agamemnon,780.0,"leuis, ut, mycenas, turba, prospicio, phrygum",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,781.0,"spectas, miser, fatum, sui, uerto, retro",6,"NaN, -1.0, 0.0, NaN, NaN, NaN",-0.167,-0.167,miser,0.167
+seneca.agamemnon,782.0,"insto, soror, squalidus",3,"NaN, NaN, -1.0",-0.333,-0.333,,0.0
+seneca.agamemnon,783.0,"sanguineus, iacto, uerbero",3,"NaN, NaN, NaN",nan,nan,uerbero,0.333
+seneca.agamemnon,784.0,"fero, laeua, semustus, fax",4,"NaN, NaN, NaN, NaN",nan,nan,fax,0.25
+seneca.agamemnon,785.0,"turgentque, palleo, gena",3,"NaN, NaN, NaN",nan,nan,gena,0.333
+seneca.agamemnon,786.0,"et, uestio, ater, funus",4,"NaN, NaN, NaN, -0.5",-0.125,-0.125,uestio,0.25
+seneca.agamemnon,787.0,"ex-edo, cingo, ilia",3,"NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,788.0,"strepuntque, nocturnus, metus",3,"NaN, NaN, -1.0",-0.333,-0.333,,0.0
+seneca.agamemnon,789.0,"et, os, uastus, corpus",4,"NaN, 0.0, -1.0, 0.0",-0.25,-0.25,uastus,0.25
+seneca.agamemnon,790.0,"corrumpo, longinquus, sino",3,"NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,791.0,"palus, limosus, iaceo",3,"NaN, NaN, NaN",nan,nan,"limosus, iaceo",0.667
+seneca.agamemnon,792.0,"et, ecce, defatiscor, senex",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,793.0,"ad, os, ludo, aqua",4,"NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,794.0,"non, capto, obliuiscor, sitis",4,"NaN, NaN, NaN, -0.5",-0.125,-0.125,,0.0
+seneca.agamemnon,795.0,"maestus, sum, funus",3,"-1.0, NaN, -0.5",-0.5,-0.5,,0.0
+seneca.agamemnon,796.0,"exultat, et, pono, gradus",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,797.0,"pater, decorus, dardanus",3,"0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,798.0,"iam, peruagor, ipse, sui, frango, furor",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,furor,0.167
+seneca.agamemnon,799.0,"cado, flecto, qualis, ante, ara, genu",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,800.0,"ceruix, taurus, uulnus, incertus, gero",5,"NaN, NaN, -1.0, -0.5, NaN",-0.3,-0.3,,0.0
+seneca.agamemnon,801.0,"releuemus, artus, en, deus, tandem, suus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,802.0,"uictrix, lauru, cingo, agamemno, -ne, adeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,agamemno,0.167
+seneca.agamemnon,803.0,"et, festus, coniunx, obuius, ille, fero",6,"NaN, NaN, -0.5, -0.5, NaN, NaN",-0.167,-0.167,,0.0
+seneca.agamemnon,804.0,"gressus, redeo, iungo, concordi, gradus",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,805.0,"tandem, reuerter, sospes, ad, patrius, lar",6,"NaN, NaN, 1.0, NaN, 0.0, NaN",0.167,0.0,,0.0
+seneca.agamemnon,806.0,"o, carus, saluus, terra, tu, tot, barbara",7,"NaN, 1.0, 1.0, 0.0, NaN, NaN, NaN",0.286,0.0,"tu, barbara",0.286
+seneca.agamemnon,807.0,"do, gens, spolium, tu, felix, diu",6,"NaN, 0.0, NaN, NaN, 1.0, NaN",0.167,0.0,tu,0.167
+seneca.agamemnon,808.0,"possum, asia, troia, summitto, manus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,809.0,"quis, iste, uates, corpus, effundo, atque, tremo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,810.0,"dubius, labo, ceruix, famulis, attollo",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+seneca.agamemnon,811.0,"refouete, gelidus, latex, iam, recipio, dies",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,812.0,"marceo, uideo, suscito, sensus, tuus",5,"NaN, NaN, NaN, 0.5, 0.0",0.1,0.0,,0.0
+seneca.agamemnon,813.0,"opto, ille, portus, aerumna, adsum",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,,0.0
+seneca.agamemnon,814.0,"festus, dies, sum",3,"NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,815.0,"festus, et, troia, sum",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,816.0,"ueneror, ara",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,817.0,"cado, ante, ara, pater",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,818.0,"iouem, preco, pariter",3,"NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,819.0,"herceum, iouem",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,820.0,"credo, uideo, tu, ille",4,"NaN, NaN, NaN, NaN",nan,nan,tu,0.25
+seneca.agamemnon,821.0,"et, priamum, simul",3,"NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,822.0,"hic, troia, non, sum",4,"NaN, NaN, NaN, NaN",nan,nan,hic,0.25
+seneca.agamemnon,823.0,"helena, ubi, sum, troiam",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,824.0,puto,1,NaN,nan,nan,,0.0
+seneca.agamemnon,825.0,"ne, metuo, domina, famulo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,826.0,"libertas, adsum",2,"0.5, NaN",0.25,0.0,,0.0
+seneca.agamemnon,827.0,"securus, uiuo",2,"1.0, NaN",0.5,0.0,,0.0
+seneca.agamemnon,828.0,"ego, morior, sum, securitas",4,"NaN, NaN, NaN, 1.0",0.25,0.0,,0.0
+seneca.agamemnon,829.0,"nullus, sum, periculum, tu",4,"NaN, NaN, -1.0, NaN",-0.25,-0.25,tu,0.25
+seneca.agamemnon,830.0,"at, magnus",2,"NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,831.0,tu,1,NaN,nan,nan,tu,1.0
+seneca.agamemnon,832.0,"uictor, timeo, quis, possum",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,833.0,"qui, non, timeo",3,"NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,834.0,"hic, fidus, famulis, turba, dum, excutio, deus",7,"NaN, 1.0, NaN, 0.0, NaN, NaN, 0.0",0.143,0.0,hic,0.143
+seneca.agamemnon,835.0,"retineo, ne, quis, impotens, pecco, furor",6,"NaN, NaN, NaN, -1.0, NaN, -1.0",-0.333,-0.333,"impotens, furor",0.333
+seneca.agamemnon,836.0,"at, tu, pater, qui, saeuus, torqueo, fulmen",7,"NaN, NaN, 0.0, NaN, -1.0, NaN, NaN",-0.143,-0.143,"tu, saeuus",0.286
+seneca.agamemnon,837.0,"pello, nubes, sidus, et, terra, rex",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,838.0,"ad, qui, triumphus, spolium, uictor, fero",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,839.0,"et, tu, soror, cunctus, polleo, uir",6,"NaN, NaN, NaN, 0.0, NaN, 0.5",0.083,0.0,tu,0.167
+seneca.agamemnon,840.0,"argolica, limus, pecus, uotiuus, libet",5,"NaN, -0.5, NaN, 0.0, NaN",-0.1,-0.1,limus,0.2
+seneca.agamemnon,841.0,"arabumque, donum, supplex, et, fibra, colo",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,842.0,"argos, nobilis, nobilis, ciuis",4,"NaN, 1.0, 1.0, 0.5",0.625,0.0,,0.0
+seneca.agamemnon,843.0,"argos, irascor, caris, nouerca",4,"NaN, NaN, NaN, NaN",nan,nan,nouerca,0.25
+seneca.agamemnon,844.0,"semper, ingens, alumnus",3,"NaN, -0.5, NaN",-0.167,-0.167,,0.0
+seneca.agamemnon,845.0,"educo, numerus, deus",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,846.0,"imparis, aequo, tuus, ille",4,"NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,847.0,"bis, seni, mereo, labor",4,"NaN, NaN, NaN, -0.5",-0.125,-0.125,,0.0
+seneca.agamemnon,848.0,"ad-lego, caelum",2,"NaN, 0.5",0.25,0.0,,0.0
+seneca.agamemnon,849.0,"magnus, alcides, qui, lex, mundus",5,"0.0, NaN, NaN, 0.5, 1.0",0.3,0.0,alcides,0.2
+seneca.agamemnon,850.0,"iuppiter, rumpo, gemino, hora",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,851.0,"roscidus, nox, iubeo, phoebum",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,852.0,"tardus, celer, agito, currus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,853.0,"et, tuus, lentus, remearis, biga",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,854.0,"pallidus, phoebus",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,855.0,"refero, pedis",2,"NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,856.0,"nomen, alternus, stella, qui, muto",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,857.0,"sequor, miror, sum, hesperum, dico",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,858.0,"aurora, moueo, ad, soleo, uicis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,859.0,"caput, et, relabor, impono, senex",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,860.0,"collum, marito",2,"NaN, NaN",nan,nan,marito,0.5
+seneca.agamemnon,861.0,"sentio, ortus, sentio, occido",4,"NaN, NaN, NaN, NaN",nan,nan,occido,0.25
+seneca.agamemnon,862.0,"herculis, nascor, uiolentus, ille",4,"NaN, NaN, -1.0, NaN",-0.25,-0.25,,0.0
+seneca.agamemnon,863.0,"nox, non, unus, possum, creo",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,864.0,"tu, concito, substo, mundus",4,"NaN, NaN, NaN, 1.0",0.25,0.0,tu,0.25
+seneca.agamemnon,865.0,"o, puer, subeo, caelum",4,"NaN, 0.0, NaN, 0.5",0.125,0.0,,0.0
+seneca.agamemnon,866.0,"tu, sentio, nemeaeus, artus",4,"NaN, NaN, NaN, NaN",nan,nan,tu,0.25
+seneca.agamemnon,867.0,"premo, lacertus, fulmineus, leo",4,"NaN, NaN, NaN, NaN",nan,nan,"fulmineus, leo",0.5
+seneca.agamemnon,868.0,"cerua, parrhasis",2,"0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,869.0,"sentio, arcadii, populator, ager",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,870.0,"gemo, taurus, dictaea, linquo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,871.0,"horridus, aruum",2,"-1.0, NaN",-0.5,-0.5,,0.0
+seneca.agamemnon,872.0,"mors, fecundus, domo, draco",4,"-1.0, 1.0, NaN, NaN",0.0,-0.25,,0.0
+seneca.agamemnon,873.0,"ueto, collum, pereo, nascor",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,874.0,"gemini, frater",2,"NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,875.0,"pectus, ex, unus, tres, monstrum, nascor",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,monstrum,0.167
+seneca.agamemnon,876.0,"stipes, incutio, frango, insulto",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,877.0,"duco, ad, ortus, hesperius, pecus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,878.0,"geryonae, spolium, triformis",3,"NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,879.0,"ago, threicium, grex",3,"NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,880.0,"qui, non, strymonii, gramen, flumen",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,881.0,"hebriue, ripa, pasco, tyrannus",4,"NaN, NaN, NaN, NaN",nan,nan,tyrannus,0.25
+seneca.agamemnon,882.0,"hospes, dirus, stabulis, cruor",4,"0.0, -1.0, NaN, NaN",-0.25,-0.25,"dirus, cruor",0.5
+seneca.agamemnon,883.0,"praebeo, saeuus, tingo, crudus",4,"NaN, -1.0, NaN, -1.0",-0.5,-0.5,saeuus,0.25
+seneca.agamemnon,884.0,"ulter, rictus, sanguis, auriga",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,885.0,"uideo, hippolyto, ferox",3,"NaN, NaN, -1.0",-0.333,-0.333,ferox,0.333
+seneca.agamemnon,886.0,"pectus, e, medium, rapio",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,887.0,"spolium, et, sagitta",3,"NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,888.0,"nubes, percutio, stymphal, altus",4,"NaN, NaN, NaN, 0.5",0.125,0.0,,0.0
+seneca.agamemnon,889.0,"decido, caelum",2,"NaN, 0.5",0.25,0.0,,0.0
+seneca.agamemnon,890.0,"arbor, pomum, fertilis, aureus",4,"NaN, 0.0, 1.0, 0.5",0.375,0.0,,0.0
+seneca.agamemnon,891.0,"extimesco, manus, insuetus, carpo",4,"NaN, 0.0, NaN, NaN",0.0,0.0,extimesco,0.25
+seneca.agamemnon,892.0,"fugio, in, aura, leuis, ramus",5,"NaN, NaN, 1.0, 0.0, NaN",0.2,0.0,,0.0
+seneca.agamemnon,893.0,"audio, sonitus, crepito, lamina",4,"NaN, NaN, NaN, NaN",nan,nan,crepito,0.25
+seneca.agamemnon,894.0,"frigidus, custos, nescius, somnium",4,"NaN, NaN, -0.5, 0.5",0.0,-0.125,nescius,0.25
+seneca.agamemnon,895.0,"linquo, cum, iam, nemus, omnis, fuluus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,896.0,"plenus, alcides, uacuus, metallum",4,"0.0, NaN, NaN, NaN",0.0,0.0,alcides,0.25
+seneca.agamemnon,897.0,"traho, ad, caelum, canis, inferus",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+seneca.agamemnon,898.0,"triplex, catena, taceo, neque, ullus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,catena,0.2
+seneca.agamemnon,899.0,"latro, os",2,"NaN, 0.0",0.0,0.0,latro,0.5
+seneca.agamemnon,900.0,"lucus, ignosco, metuo, color",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,901.0,"tu, dux, succido",3,"NaN, 0.5, NaN",0.167,0.0,tu,0.333
+seneca.agamemnon,902.0,"mendax, dardanides, domus",3,"-1.0, NaN, 0.0",-0.333,-0.333,mendax,0.333
+seneca.agamemnon,903.0,"et, sentio, arcus, iterum, timeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,904.0,"tu, dux, concido",3,"NaN, 0.5, NaN",0.167,0.0,tu,0.333
+seneca.agamemnon,905.0,"totidem, dies, troia, quot, annus",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,906.0,"res, ago, intus, magnus, par, annus, decem",7,"0.0, NaN, NaN, 0.0, 0.5, 0.0, NaN",0.071,0.0,,0.0
+seneca.agamemnon,907.0,"eheu, quis, hic, sum, animus, consurgo, et, capio",8,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.062,0.0,hic,0.125
+seneca.agamemnon,908.0,"pretium, furor, uinco, uinco, phryges",5,"1.0, -1.0, NaN, NaN, NaN",0.0,-0.2,"pretium, furor",0.4
+seneca.agamemnon,909.0,"bene, sum, resurgo, troia, traho, iaceo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,iaceo,0.167
+seneca.agamemnon,910.0,"parens, mycenas, tergum, do, uictor, tuus",6,"0.5, NaN, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+seneca.agamemnon,911.0,"tam, clarus, numquam, prouidus, mens, furor",6,"NaN, 0.5, NaN, 1.0, 0.5, -1.0",0.167,-0.167,furor,0.167
+seneca.agamemnon,912.0,"ostendo, oculus, uideo, et, intersum, et, fruor",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,913.0,"imago, uideo, dubius, non, fallo, meus",6,"NaN, NaN, -0.5, NaN, NaN, 0.0",-0.083,-0.083,fallo,0.167
+seneca.agamemnon,914.0,"specto, epulae, regius, instruo, domus",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,915.0,"qualis, sum, ulter, phrygibus, daps",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,916.0,"celebro, ostrum, lego, iliacus, niteo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,917.0,"merus, in, aurum, ueto, assaraci, traho",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+seneca.agamemnon,918.0,"en, ipse, pingo, uestis, sublimis, iaceo",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,"uestis, iaceo",0.333
+seneca.agamemnon,919.0,"priami, superbus, corpus, exuuiae, gero",5,"NaN, -1.0, 0.0, NaN, NaN",-0.2,-0.2,,0.0
+seneca.agamemnon,920.0,"detraho, cultus, uxor, hostilis, iubeo",5,"NaN, -0.5, 0.0, -1.0, NaN",-0.3,-0.3,"uxor, hostilis",0.4
+seneca.agamemnon,921.0,"induo, potis, coniunx, fidus, manus",5,"NaN, 0.0, -0.5, 1.0, 0.0",0.1,-0.1,,0.0
+seneca.agamemnon,922.0,"textos, amicio, horreum, atque, animus, tremo",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+seneca.agamemnon,923.0,"rex, -ne, perimo, exul, et, adulter, uir",7,"0.0, NaN, NaN, -1.0, NaN, NaN, 0.5",-0.071,-0.143,adulter,0.143
+seneca.agamemnon,924.0,"uenio, fatum, sanguis, exter, daps",5,"NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,925.0,"dominus, uideo, et, cruor, baccho, incido",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,cruor,0.167
+seneca.agamemnon,926.0,"mortifera, uincio, perfidus, trado, nex",5,"NaN, NaN, -1.0, NaN, -1.0",-0.4,-0.4,"perfidus, nex",0.4
+seneca.agamemnon,927.0,"induo, uestio, exitus, manus, nego",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,uestio,0.2
+seneca.agamemnon,928.0,"caput, laxus, et, inuius, claudo, sinus",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,929.0,"haurio, tremo, semiuir, dextera, latus",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,930.0,"neque, penitus, ago, uulnus, in, medium, stupeo",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,,0.0
+seneca.agamemnon,931.0,"at, ille, ut, altus, hispidus, silua, aper",7,"NaN, NaN, NaN, 0.5, -0.5, NaN, NaN",0.0,-0.071,hispidus,0.143
+seneca.agamemnon,932.0,"cum, caueo, uincio, tento, egredior, tamen",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,933.0,"arto, motus, uinclum, et, in, cassus, furio",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"uinclum, furio",0.286
+seneca.agamemnon,934.0,"cupio, fluo, undique, et, caecus, sinus",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+seneca.agamemnon,935.0,"dissicere, et, hostis, quaero, implico, suus",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+seneca.agamemnon,936.0,"armo, bipennis, tyndaris, dexter, furo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,furo,0.2
+seneca.agamemnon,937.0,"qualis, ad, ara, collum, taurus, popa",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,938.0,"designo, oculus, antequam, ferrum, peto",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,939.0,"sic, huc, et, illic, impius, libro, manus",7,"NaN, NaN, NaN, NaN, -1.0, NaN, 0.0",-0.143,-0.143,impius,0.143
+seneca.agamemnon,940.0,"habeo, perago, sum, pendeo, exiguus, malus",6,"NaN, NaN, NaN, NaN, 0.0, -1.0",-0.167,-0.167,,0.0
+seneca.agamemnon,941.0,"caput, amputas, pars, et, hinc, trunco, cruor",7,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,cruor,0.143
+seneca.agamemnon,942.0,"exundo, illic, os, cum, fremo, iaceo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"exundo, iaceo",0.333
+seneca.agamemnon,943.0,"nondum, recedo, ille, iam, exanimis, peto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,944.0,"lacero, corpus, ille, fodio, adiuuo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,lacero,0.2
+seneca.agamemnon,945.0,"uterque, tantus, scelus, respondeo, suus",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,scelus,0.2
+seneca.agamemnon,946.0,"sum, hic, thy, sum, nascor, hic, helenae, soror",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.25
+seneca.agamemnon,947.0,"sto, ecce, titan, dubius, emereo, dies",6,"NaN, NaN, NaN, -0.5, NaN, 0.0",-0.083,-0.083,,0.0
+seneca.agamemnon,948.0,"suus, -ne, curro, an, thyestea, uia",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,949.0,"fugio, o, paternus, mors, auxilium, unicus",6,"NaN, NaN, NaN, -1.0, 0.0, NaN",-0.167,-0.167,,0.0
+seneca.agamemnon,950.0,"fugio, et, scelestus, hostis, uito, manus",6,"NaN, NaN, -1.0, -1.0, NaN, 0.0",-0.333,-0.333,scelestus,0.167
+seneca.agamemnon,951.0,"euerro, domus, sum, fundus, regnum, occaedes",6,"NaN, 0.0, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,952.0,"hospes, quis, iste, concieo, currus, ago",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,953.0,"germanus, uultus, uestis, furor, tuus",5,"NaN, NaN, NaN, -1.0, 0.0",-0.2,-0.2,"uestis, furor",0.4
+seneca.agamemnon,954.0,"quis, animus, demens, refugio, externus, timeo",6,"NaN, 0.5, -1.0, NaN, 0.0, NaN",-0.083,-0.167,demens,0.167
+seneca.agamemnon,955.0,"domus, timeo, sum, pono, iam, trepidus, metus",7,"0.0, NaN, NaN, NaN, NaN, -1.0, -1.0",-0.286,-0.286,,0.0
+seneca.agamemnon,956.0,"oresta, amicus, fidus, praesidium, intuo",5,"NaN, 1.0, 1.0, NaN, NaN",0.4,0.0,,0.0
+seneca.agamemnon,957.0,"phocis, relinquo, strophius, elea, inclutus",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+seneca.agamemnon,958.0,"palmo, reuorto, causa, uenio, sum",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,959.0,"grataris, amicus, qui, impello, manus",5,"NaN, 1.0, NaN, NaN, 0.0",0.2,0.0,,0.0
+seneca.agamemnon,960.0,"cado, decennis, martes, concutio, ille",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,961.0,"quisnam, iste, lacrima, lugubris, uultus, rigo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,962.0,"paueo, maestus, regius, agnosco, genus",5,"NaN, -1.0, 0.0, NaN, 0.0",-0.2,-0.2,,0.0
+seneca.agamemnon,963.0,"electrus, fletus, causa, qui, laetus, in, domus, sum",8,"NaN, NaN, 0.0, NaN, 1.0, NaN, 0.0, NaN",0.125,0.0,,0.0
+seneca.agamemnon,964.0,"pater, per-emo, scelus, maternus, iaceo",5,"0.0, NaN, -1.0, NaN, NaN",-0.2,-0.2,"per-emo, scelus, iaceo",0.6
+seneca.agamemnon,965.0,"comes, paternus, quaero, nascor, nex",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,nex,0.2
+seneca.agamemnon,966.0,"aegisthus, arx, uenio, quaero, teneo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,967.0,"o, nullus, longus, tempus, felicitas",5,"NaN, NaN, 0.0, 0.0, 1.0",0.2,0.0,,0.0
+seneca.agamemnon,968.0,"per, tu, parens, memoria, obtestor, meus",6,"NaN, NaN, 0.5, 1.0, NaN, 0.0",0.25,0.0,tu,0.167
+seneca.agamemnon,969.0,"per, sceptrum, terra, nosco, per, dubius, deus",7,"NaN, NaN, 0.0, NaN, NaN, -0.5, 0.0",-0.071,-0.071,,0.0
+seneca.agamemnon,970.0,"recipio, hic, oreste, -ne, atque, pius, furtum, occulis",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,"hic, furtum",0.25
+seneca.agamemnon,971.0,"etsi, timeo, caedo, agamemno, -ne, doceo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,agamemno,0.167
+seneca.agamemnon,972.0,"aggredio, et, tu, oresta, furor, libet",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,"tu, furor",0.333
+seneca.agamemnon,973.0,"fides, secundus, posco, aduerso, exigo",5,"1.0, 0.0, NaN, NaN, NaN",0.2,0.0,,0.0
+seneca.agamemnon,974.0,"capio, hic, decorus, ludicrum, certamen",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,hic,0.2
+seneca.agamemnon,975.0,"insignis, frons, laeua, uictrix, teneo",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,976.0,"frons, uireo, protego, ramus, caput",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,977.0,"et, iste, donum, palmo, pisaei, io",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,978.0,"uelame, -ne, idem, praesto, atque, omen, tu",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+seneca.agamemnon,979.0,"tu, o, paternus, assideo, frenum, comes",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+seneca.agamemnon,980.0,"condisco, pylade, pater, exemplum, fides",5,"NaN, NaN, 0.0, 0.0, 1.0",0.2,0.0,pylade,0.2
+seneca.agamemnon,981.0,"tu, graecia, nunc, testis, uelox, equus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+seneca.agamemnon,982.0,"infidus, cursus, fugio, praeceps, locum",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,,0.0
+seneca.agamemnon,983.0,"excedo, abeo, currus, effreno, impetus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,effreno,0.2
+seneca.agamemnon,984.0,"cffugit, acies, tueor, iam, cpperiar, meus",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,985.0,"hostis, et, ultro, uulnus, oppono, caput",6,"-1.0, NaN, NaN, -1.0, NaN, 0.0",-0.333,-0.333,,0.0
+seneca.agamemnon,986.0,"adsum, cruento, coniunx, uictrix, suus",5,"NaN, NaN, -0.5, NaN, NaN",-0.1,-0.1,cruento,0.2
+seneca.agamemnon,987.0,"et, signum, caedes, uestis, maculo, gero",6,"NaN, 0.0, -0.5, NaN, NaN, NaN",-0.083,-0.083,"caedes, uestis, maculo",0.5
+seneca.agamemnon,988.0,"manus, recens, sanguis, etiamnum, madeo",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,989.0,"uultus, prae, sui, scelus, truculentus, fero",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,"scelus, truculentus",0.333
+seneca.agamemnon,990.0,"concedo, ad, ara, pateo, ego, uitta, tuus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,991.0,"cassandra, iungo, par, metuo, tu",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,tu,0.2
+seneca.agamemnon,992.0,"hostis, parens, impius, atque, audax, caput",6,"-1.0, 0.5, -1.0, NaN, NaN, 0.0",-0.25,-0.333,"impius, audax",0.333
+seneca.agamemnon,993.0,"quo, mos, coitus, publicus, uirgo, peto",6,"NaN, 0.5, NaN, 0.0, NaN, NaN",0.083,0.0,uirgo,0.167
+seneca.agamemnon,994.0,"adulteraris, uirgo, desero, domus",4,"NaN, NaN, NaN, 0.0",0.0,0.0,uirgo,0.25
+seneca.agamemnon,995.0,"quis, sum, credo, uirgo",4,"NaN, NaN, NaN, NaN",nan,nan,uirgo,0.25
+seneca.agamemnon,996.0,"nata, tuus",2,"NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,997.0,"modestia, cum, mater",3,"0.5, NaN, 0.0",0.167,0.0,modestia,0.333
+seneca.agamemnon,998.0,"pietas, doceo",2,"1.0, NaN",0.5,0.0,,0.0
+seneca.agamemnon,999.0,"animus, uirilis, cor, tumefacio, gero",5,"0.5, 0.5, NaN, NaN, NaN",0.2,0.0,,0.0
+seneca.agamemnon,1000.0,"sed, ago, domo, femina, disco, malus",6,"NaN, NaN, NaN, 0.0, NaN, -1.0",-0.167,-0.167,,0.0
+seneca.agamemnon,1001.0,"nisi, fors, fallo, femina, ferrum, decet",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,fallo,0.167
+seneca.agamemnon,1002.0,"et, sum, demens, tu, par, nos, puto",7,"NaN, NaN, -1.0, NaN, 0.5, NaN, NaN",-0.071,-0.143,"demens, tu",0.286
+seneca.agamemnon,1003.0,"tu, quis, iste, sum, alter, agamemno, -ne, tuus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, agamemno",0.25
+seneca.agamemnon,1004.0,"ut, uiduo, loquor, uir, careo, uito, tuus",7,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0",0.071,0.0,,0.0
+seneca.agamemnon,1005.0,"indomitus, posthac, uirgo, uerbum, impius",5,"NaN, NaN, NaN, 0.0, -1.0",-0.2,-0.2,"indomitus, uirgo, impius",0.6
+seneca.agamemnon,1006.0,"regina, frango, cieo, interea, ego",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,1007.0,"edissero, ubi, sum, nascor, ubi, frater, tuus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,1008.0,"extra, mycenas",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,1009.0,"reddo, nunc, natus, ego",4,"NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,1010.0,"et, tu, parens, reddo",4,"NaN, NaN, 0.5, NaN",0.125,0.0,tu,0.25
+seneca.agamemnon,1011.0,"quo, latito, locus",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,1012.0,"tueor, quiesco, regnum, non, metuo, nouo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+seneca.agamemnon,1013.0,"iustus, parens, satis",3,"1.0, 0.5, 0.5",0.667,0.0,,0.0
+seneca.agamemnon,1014.0,"at, irascor, parum",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,1015.0,"morior, hodie",2,"NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,1016.0,"dummodo, hic, morior, manus",4,"NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.25
+seneca.agamemnon,1017.0,"recedo, ab, ara, siue, tu, iugulo, iuuo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, iugulo",0.286
+seneca.agamemnon,1018.0,"mergo, ferrum, praebeo, iugulum, tu",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+seneca.agamemnon,1019.0,"seu, mos, pecus, collum, resecaris, placeo",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+seneca.agamemnon,1020.0,"intendo, ceruix, uulnus, ex-pecto, tuus",5,"NaN, NaN, -1.0, NaN, 0.0",-0.2,-0.2,,0.0
+seneca.agamemnon,1021.0,"scelus, paro, sum, caedes, respergo, uir",6,"-1.0, NaN, NaN, -0.5, NaN, 0.5",-0.167,-0.25,"scelus, caedes",0.333
+seneca.agamemnon,1022.0,"atque, obsolesco, sanguis, hic, dexter, abluo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"obsolesco, hic",0.333
+seneca.agamemnon,1023.0,"consors, periculum, pariter, atque, regnum, meus",6,"1.0, -1.0, NaN, NaN, 0.0, 0.0",0.0,-0.167,,0.0
+seneca.agamemnon,1024.0,"aegisthe, gradior, gnata, genetrix, impius",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,impius,0.2
+seneca.agamemnon,1025.0,"probrum, lacesso, occulo, frater, abdo",5,"-1.0, NaN, NaN, 0.0, NaN",-0.2,-0.2,probrum,0.2
+seneca.agamemnon,1026.0,"furibundus, uirgo, uox, infer, sonus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"furibundus, uirgo",0.4
+seneca.agamemnon,1027.0,"et, auris, uerbum, indignus, maternus, opprimo",6,"NaN, NaN, 0.0, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+seneca.agamemnon,1028.0,"etiam, moneo, scelus, infer, artifex",5,"NaN, NaN, -1.0, NaN, 0.0",-0.2,-0.2,scelus,0.2
+seneca.agamemnon,1029.0,"per, scelus, nascor, nomen, ambiguus, suus",6,"NaN, -1.0, NaN, 0.0, -0.5, NaN",-0.25,-0.25,scelus,0.167
+seneca.agamemnon,1030.0,"idem, soror, nascor, et, pater, nepos",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,1031.0,"aegisthe, cesso, impius, ferrum, caput",5,"NaN, NaN, -1.0, NaN, 0.0",-0.2,-0.2,impius,0.2
+seneca.agamemnon,1032.0,"demeto, frater, reddo, aut, anima, statim",6,"NaN, 0.0, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+seneca.agamemnon,1033.0,"abstrudo, caecus, carcer, et, saxum, exigo",6,"NaN, -1.0, NaN, NaN, 0.0, NaN",-0.167,-0.167,carcer,0.167
+seneca.agamemnon,1034.0,"aeuum, et, per, omnis, torqueo, poena, modus",7,"NaN, NaN, NaN, NaN, NaN, -1.0, 0.5",-0.071,-0.143,poena,0.143
+seneca.agamemnon,1035.0,"refero, qui, nunc, occulo, forsan, uolo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,1036.0,"inops, egeo, includo, paedor, obruo",5,"-1.0, NaN, NaN, -0.5, NaN",-0.3,-0.3,paedor,0.2
+seneca.agamemnon,1037.0,"uiduo, ante, thalamus, exul, inuideo, omnis",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+seneca.agamemnon,1038.0,"aether, nego, serus, subcumbet, malus",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+seneca.agamemnon,1039.0,"concedo, mors",2,"NaN, -1.0",-0.5,-0.5,,0.0
+seneca.agamemnon,1040.0,"si, recusaris, do",3,"NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,1041.0,"rudis, sum, tyrannus, mors, qui, poena, exigo",7,"-0.5, NaN, NaN, -1.0, NaN, -1.0, NaN",-0.357,-0.357,"tyrannus, poena",0.286
+seneca.agamemnon,1042.0,"mors, aliquis, ultra, sum",4,"-1.0, NaN, NaN, NaN",-0.25,-0.25,,0.0
+seneca.agamemnon,1043.0,"uito, si, cupio, morior",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,1044.0,"abripio, famulis, monstrum, et, aueho, procul",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,monstrum,0.167
+seneca.agamemnon,1045.0,"ultra, mycenas, ultimo, in, regnum, angulus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+seneca.agamemnon,1046.0,"uincio, saepio, nox, tenebrosus, specus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,specus,0.2
+seneca.agamemnon,1047.0,"ut, inquietus, uirgo, carcer, domo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"uirgo, carcer",0.4
+seneca.agamemnon,1048.0,"at, iste, poena, caput, persoluo, suus",6,"NaN, NaN, -1.0, 0.0, NaN, NaN",-0.167,-0.167,poena,0.167
+seneca.agamemnon,1049.0,"captiuus, coniunx, regius, paelex, torus",5,"-1.0, -0.5, 0.0, NaN, NaN",-0.3,-0.3,captiuus,0.2
+seneca.agamemnon,1050.0,"traho, ut, sequor, coniunx, eripio, ego",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+seneca.agamemnon,1051.0,"ne, traho, uester, ipse, praecedo, gradus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,1052.0,"perfero, primus, nuntius, phrygibus, meus",5,"NaN, 0.5, NaN, NaN, 0.0",0.1,0.0,,0.0
+seneca.agamemnon,1053.0,"propero, repletum, ratis, euerro, mare",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+seneca.agamemnon,1054.0,"capio, mycenas, mille, ductor, dux",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+seneca.agamemnon,1055.0,"ut, par, fatum, troicis, luo, malus",6,"NaN, 0.5, 0.0, NaN, NaN, -1.0",-0.083,-0.167,luo,0.167
+seneca.agamemnon,1056.0,"pereo, donum, femina, stuprum, dolus",5,"NaN, 0.0, 0.0, -1.0, NaN",-0.2,-0.2,"stuprum, dolus",0.4
+seneca.agamemnon,1057.0,"nihil, moror, rapio, quin, grates, ago",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+seneca.agamemnon,1058.0,"iam, iam, iuuo, uiuo, post, troiam, iuuo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
