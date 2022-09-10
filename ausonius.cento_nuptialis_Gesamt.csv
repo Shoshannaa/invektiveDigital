@@ -1,0 +1,165 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+ausonius.cento_nuptialis,1.0,"ausonius, paulus, s., perlego, hic, etiam, si, opera, sum, friuolus, et, nullus, pretium, opusculis, qui, neque, labor, excudo, neque, cura, limo, sine, ingenium, acumen, et, mora, maturitas, cento, uoco, qui, primus, hic, concinnatio, ludo, solus, memoria, negotium, spargo, colligo, et, integraris, lacero, qui, rideo, magis, quam, laudo, possum, pro, quo, si, per, sigillaria, in, auctio, uenio, neque, afranius, naucum, do, neque, ciccus, suus, plautus, offertor, pigeo, enim, uergiliani, carmen, dignitas, tam, iocularis, dehonestasse, materia, sed, quis, facio, iubeo, sum, quisque, sum, potens, impero, genus, rogo, qui, iubeo, possum, sancio, imperator, ualentinianus, uir, meus, iudicium, erudio, nuptiae, quondam, eiusmodi, ludo, describo, aptus, equidem, uersus, et, compositio, festiuus, experior, deinde, uolo, quantus, noster, contentio, praecelleret, similis, nos, de, idem, concinnaris, praecipio, quam, scrupulosum, hic, ego, sum, intellego, neque, antefero, uolo, neque, posthaberi, cum, alius, quoque, iudicium, detego, sum, adulatio, ineptus, si, cedo, insolentia, si, ut, aemulus, eminerem, suscipio, igitur, similis, recuso, felicito, et, obnoxius, gratia, tenuis, neque, uictor, offendo, hic, tum, dies, unus, et, addo, lucubratio, propero, modo, inter, liturarios, meus, cum, reperissem, tantus, ego, candor, tuus, et, amor, fiducia, sum, ut, seueritas, tuus, neque, rideo, subtraherem, accipio, igitur, opusculis, de, inconexis, continuus, de, diuerto, unus, de, serius, ludicrum, de, alienus, nos, ne, in, sacrum, et, fabula, aut, thyonianum, miror, aut, uirbium, ille, de, dionyso, hic, de, hippolyto, reformatum, et, si, patera, ut, doceo, doceo, ipse, cento, quis, sum, absoluo, uarius, de, locus, sensus, diuerto, quidam, carmen, structura, solido, in, unus, uerro, ut, coeo, aut, caedo, duo, aut, unus, et, sequor, lt.medius&gt, cum, medium, nam, duo, iunctim, locaris, ineptus, sum, et, tres, unus, series, merus, nugae, diffinduntur, autem, per, caesuras, omnis, qui, recipio, uerro, heroicus, conuenio, ut, possum, aut, penthemimeres, cum, reliquus, anapaesticus, aut, trochaice, cum, posterus, segmentum, aut, septem, semipedes, cum, anapaesticus, choricus, aut, lt.ponatur&gt, post, dactylus, atque, semipedem, quisquis, resto, hexameter, similis, ut, dico, ludicer, qui, graecus, ostomachio, -ne, uoco, ossiculum, is, sum, ad, summa, quattuordecim, figura, geometrice, habeo, sum, enim, aequalis, triquetrus, uel, extendo, linea, uel, idem, frons, uel, rectis, angulis, uel, obliquus, isoscelis, ipse, uel, isopleura, uoco, orthogonia, quoque, et, scalena, haris, uerticularis, ariis, coagmentum, simulantur, species, mille, formaris, helephantus, belua, aut, aper, bestia, anser, uolo, et, mirmillo, in, arma, subsido, uenator, et, latro, canis, quin, et, turris, et, cantharus, et, alius, huiusmodi, innumerabilis, figuraris, qui, alius, alius, scio, uariegant, sed, peritor, concinnatio, miraculis, sum, imperitor, iungo, ridiculus, quo, praedico, scio, qui, ego, posterus, imitor, sum, hic, ergo, centonis, opusculis, ut, ille, ludus, tracto, par, modo, sensus, diuerto, ut, congruo, adoptiuus, qui, sum, ut, cognatus, uideo, alienus, ne, interluceant, arcesso, ne, uis, redarguant, densus, ne, supra, modus, protuberent, hiulcus, ne, pateo, qui, si, omnis, ita, tu, uideo, ut, praeceptum, sum, dico, ego, compono, cento, et, quia, sub, imperator, meus, tum, mereo, procedo, ego, inter, frequens, stipendium, iubeo, sin, aliter, aer, diruo, facies, ut, cumulo, carmen, in, fiscus, suus, redigo, redeo, uerro, unde, uenio, ual",476,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, -0.5, NaN, NaN, -1.0, NaN, NaN, 0.5, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, -0.5, 1.0, -0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 1.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 0.5, 0.0, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, -0.5, -1.0, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, -0.5, 1.0, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.5, 0.0, NaN, 1.0, 0.5, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, 0.5, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, 0.5, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, 0.5, NaN, -0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.008,-0.022,"hic, pretium, hic, lacero, nuptiae, hic, adulatio, ineptus, hic, seueritas, hic, ineptus, bestia, latro, ridiculus, hic, tu",0.036
+ausonius.cento_nuptialis,1.1,"accipio, hic, animus, laeto, aduerto, mens",6,"NaN, NaN, 0.5, NaN, NaN, 0.5",0.167,0.0,hic,0.167
+ausonius.cento_nuptialis,2.0,"ambo, animus, ambo, insignis, praesto, arma",6,"NaN, 0.5, NaN, 0.0, NaN, 0.0",0.083,0.0,,0.0
+ausonius.cento_nuptialis,3.0,"ambo, floreo, genus, insuperabilis, bellum",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ausonius.cento_nuptialis,4.0,"tu, prior, nam, tu, magnus, eo, per, altus",8,"NaN, 0.5, NaN, NaN, 0.0, NaN, NaN, 0.5",0.125,0.0,"tu, tu",0.25
+ausonius.cento_nuptialis,5.0,"auspicium, manifestus, fides, quo, iustus, alter",6,"0.0, -0.5, 1.0, NaN, 1.0, NaN",0.25,-0.083,,0.0
+ausonius.cento_nuptialis,6.0,"neque, pietas, sum, neque, bellum, magnus, et, arma",8,"NaN, 1.0, NaN, NaN, 0.0, 0.0, NaN, 0.0",0.125,0.0,,0.0
+ausonius.cento_nuptialis,7.0,"tu, puer, tuus, magnus, spes, alter, roma",7,"NaN, 0.0, 0.0, 0.0, 0.5, NaN, NaN",0.071,0.0,tu,0.143
+ausonius.cento_nuptialis,8.0,"flos, uetus, uirtus, uir, meus, maximus, cura",7,"0.5, 0.0, 1.0, 0.5, 0.0, NaN, -1.0",0.143,-0.143,,0.0
+ausonius.cento_nuptialis,9.0,"nomen, auus, refero, animus, manus, parens",6,"0.0, NaN, NaN, 0.5, 0.0, 0.5",0.167,0.0,,0.0
+ausonius.cento_nuptialis,10.0,"non, iniussus, cano, suus, quisque, exordior, labor",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,,0.0
+ausonius.cento_nuptialis,11.0,"fortuna, fero, ego, iubeo, capesso, fas, sum",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,12.0,"expecto, dies, adsum, dignus, Hymenaeus",5,"NaN, 0.0, NaN, 1.0, NaN",0.2,0.0,,0.0
+ausonius.cento_nuptialis,13.0,"mater, atque, uir, iuuenis, ante, os, parens",7,"0.0, NaN, 0.5, NaN, NaN, 0.0, 0.5",0.143,0.0,,0.0
+ausonius.cento_nuptialis,14.0,"conuenio, sterno, super, discumbo, ostrum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,15.0,"do, famulis, manus, lympho, onero, canistrum",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,16.0,"donum, laboro, cero, pinguis, ferina",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,17.0,"uiscera, torreo, fero, series, longus, res",6,"NaN, NaN, NaN, 0.5, 0.0, 0.0",0.083,0.0,,0.0
+ausonius.cento_nuptialis,18.0,"alituum, pecus, genus, caprea, sequax",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,19.0,"non, absum, illic, neque, ouo, haedus, petulcus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,20.0,"et, genus, aequoreus, damma, ceruus, fugax",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"damma, fugax",0.333
+ausonius.cento_nuptialis,21.0,"ante, oculus, inter, manus, sum, mitis, pomum",7,"NaN, 0.0, NaN, 0.0, NaN, 1.0, 0.0",0.143,0.0,,0.0
+ausonius.cento_nuptialis,22.0,"postquam, eximo, fames, et, amor, comprimo, edo",7,"NaN, NaN, -0.5, NaN, 1.0, NaN, NaN",0.071,-0.071,,0.0
+ausonius.cento_nuptialis,23.0,"cratera, magnus, statuo, bacchumque, ministro",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,24.0,"sacer, cano, plaudo, chorea, et, carmen, dico",7,"1.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.143,0.0,,0.0
+ausonius.cento_nuptialis,25.0,"neque, non, thraeicius, longus, cum, uestis, sacerdos",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,uestis,0.143
+ausonius.cento_nuptialis,26.0,"obloquor, numerus, septem, discrimino, uox",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.cento_nuptialis,27.0,"at, pars, ex, alius, biforis, do, tibia, cano",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,28.0,"omnis, unus, quies, opus, cunctus, relinquo",6,"NaN, NaN, NaN, 0.5, 0.0, NaN",0.083,0.0,,0.0
+ausonius.cento_nuptialis,29.0,"consurgo, mensis, per, limen, laetus, frequens",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+ausonius.cento_nuptialis,30.0,"discurro, uario, uicis, populus, patro",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,31.0,"matrona, puer, uoco, per, amplus, uoluto",6,"-0.5, 0.0, NaN, NaN, 0.0, NaN",-0.083,-0.083,matrona,0.167
+ausonius.cento_nuptialis,32.0,"atrium, dependo, lychnus, laquearis, aureus",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+ausonius.cento_nuptialis,33.0,"tandem, progredio, uenio, iustus, cura",5,"NaN, NaN, NaN, 1.0, -1.0",0.0,-0.2,,0.0
+ausonius.cento_nuptialis,34.0,"iam, maturo, uir, iam, plenus, nubilis, annus",7,"NaN, NaN, 0.5, NaN, 0.0, NaN, 0.0",0.071,0.0,,0.0
+ausonius.cento_nuptialis,35.0,"uirgo, os, habeo, gero, qui, multus, ignis",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,uirgo,0.143
+ausonius.cento_nuptialis,36.0,"subicio, rubor, et, calefacio, per, os, curro",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,rubor,0.143
+ausonius.cento_nuptialis,37.0,"intendo, uoluo, oculus, uro, uideo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,38.0,"ille, omnis, tectum, ager, effundo, iuuentus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,39.0,"turbo, miro, mater, uestigium, primus",5,"NaN, NaN, 0.0, NaN, 0.5",0.1,0.0,,0.0
+ausonius.cento_nuptialis,40.0,"albus, pes, do, como, diffundo, uenio",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,41.0,"fero, picturatus, aurum, subtemen, uestis",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,uestis,0.2
+ausonius.cento_nuptialis,42.0,"orno, argiuae, helenae, qualis, uideo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,43.0,"caelicola, et, quantus, soleo, uenus, aureus, contra",7,"NaN, NaN, NaN, NaN, 1.0, 0.5, NaN",0.214,0.0,,0.0
+ausonius.cento_nuptialis,44.0,"talis, sum, species, talis, sui, laetus, fero",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+ausonius.cento_nuptialis,45.0,"ad, socer, solium, altus, subnixus, re-sedeo",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+ausonius.cento_nuptialis,46.0,"at, pars, ex, alius, foris, sui, infero, altus",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,,0.0
+ausonius.cento_nuptialis,47.0,"os, puer, primus, signo, intondeo, iuuenta",6,"0.0, 0.0, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+ausonius.cento_nuptialis,48.0,"pingo, acus, chlamys, auro, quam, multus, circum",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,49.0,"purpura, maeandro, duplex, meliboea, curro",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,50.0,"et, tunica, mollis, mater, quam, neuerat, aurum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.5",0.071,0.0,,0.0
+ausonius.cento_nuptialis,51.0,"os, umerus, deus, similis, lumen, iuuenta",6,"0.0, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,52.0,"qualis, ubi, oceani, perfundo, lucifer, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.cento_nuptialis,53.0,"effero, os, sacer, caelum, sic, os, fero",7,"NaN, 0.0, 1.0, 0.5, NaN, 0.0, NaN",0.214,0.0,,0.0
+ausonius.cento_nuptialis,54.0,"sic, oculus, curro, amens, ad, limen, tendo",7,"NaN, 0.0, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,amens,0.143
+ausonius.cento_nuptialis,55.0,"ille, turbo, amor, figo, in, uirgo, uultus",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,uirgo,0.143
+ausonius.cento_nuptialis,56.0,"osculum, libo, dexter, amplector, inhaereo",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,57.0,"incedo, puer, parito, ante, os, parens",6,"NaN, 0.0, NaN, NaN, 0.0, 0.5",0.083,0.0,,0.0
+ausonius.cento_nuptialis,58.0,"donum, fero, palla, signum, aurum, rigeo",6,"0.0, NaN, NaN, 0.0, 0.5, NaN",0.083,0.0,,0.0
+ausonius.cento_nuptialis,59.0,"munus, porto, aurum, ebur, talentum",5,"0.5, NaN, 0.5, NaN, NaN",0.2,0.0,,0.0
+ausonius.cento_nuptialis,60.0,"et, sella, et, pingo, croceus, uelame, -ne, acanthus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,61.0,"ingens, argentum, mensis, colloquor, monilis",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+ausonius.cento_nuptialis,62.0,"baco, et, duplico, gemma, aurum, corona",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+ausonius.cento_nuptialis,63.0,"ille, seruo, do, geminus, sub, uber, nascor",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+ausonius.cento_nuptialis,64.0,"quattuor, hic, iuuenis, totidem, innubo, puella",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+ausonius.cento_nuptialis,65.0,"omnis, in, mos, tondeo, coma, pectus, superus",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+ausonius.cento_nuptialis,66.0,"flexilis, obtorqueo, per, collum, circulus, aurum",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ausonius.cento_nuptialis,67.0,"tum, studium, effundo, mater, ad, limen, duco",7,"NaN, 0.5, NaN, 0.0, NaN, NaN, NaN",0.071,0.0,,0.0
+ausonius.cento_nuptialis,68.0,"at, chorus, aequalis, puer, innubo, puella",6,"NaN, NaN, 0.5, 0.0, NaN, NaN",0.083,0.0,,0.0
+ausonius.cento_nuptialis,69.0,"uersus, incomptus, ludo, et, carmen, dico",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,70.0,"o, digno, coniungo, uir, gratus, coniunx",6,"NaN, NaN, NaN, 0.5, 1.0, -0.5",0.167,-0.083,,0.0
+ausonius.cento_nuptialis,71.0,"sum, felix, primus, lucinus, experior, labor",6,"NaN, 1.0, 0.5, NaN, NaN, -0.5",0.167,-0.083,,0.0
+ausonius.cento_nuptialis,72.0,"et, mater, capio, maeonii, carchesium, bacchi",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,73.0,"spargo, maritus, nuces, cingo, hic, altare, uitta",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"maritus, hic",0.286
+ausonius.cento_nuptialis,74.0,"flos, uetus, uirtus, uir, tu, duco, uxor",7,"0.5, 0.0, 1.0, 0.5, NaN, NaN, 0.0",0.286,0.0,"tu, uxor",0.286
+ausonius.cento_nuptialis,75.0,"omnis, ut, cum, tu, meritum, pro, talis, annus",8,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN, 0.0",0.125,0.0,tu,0.125
+ausonius.cento_nuptialis,76.0,"exigo, et, pulcher, facio, tu, proles, parens",7,"NaN, NaN, 1.0, NaN, NaN, 0.0, 0.5",0.214,0.0,tu,0.143
+ausonius.cento_nuptialis,77.0,"fortuno, ambo, si, quis, pius, numen, possum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,78.0,"uiuo, felix, dico, “currite, fundo",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+ausonius.cento_nuptialis,79.0,"concordo, stabilis, fatum, numen, parca",5,"NaN, 0.5, 0.0, NaN, NaN",0.1,0.0,,0.0
+ausonius.cento_nuptialis,80.0,"postquam, sum, in, thalamus, pendeo, pumex, tectum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,pumex,0.143
+ausonius.cento_nuptialis,81.0,"peruenio, liceo, tandem, sermo, fruor",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,,0.0
+ausonius.cento_nuptialis,82.0,"congredior, iungo, dexter, sterno, repono",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,83.0,"at, cytherea, nouo, ars, et, pronuba, iuno",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,84.0,"sollicito, suadeo, ignotus, lacesso, bellum",5,"NaN, NaN, -0.5, NaN, 0.0",-0.1,-0.1,,0.0
+ausonius.cento_nuptialis,85.0,"ille, ubi, complexus, mollis, foueo, atque, repens",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.cento_nuptialis,86.0,"accipio, soleo, flamma, lego, iugal",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,87.0,"“o, uirgo, nouo, ego, facies, gratus, coniunx",7,"NaN, NaN, NaN, NaN, 0.0, 1.0, -0.5",0.071,-0.071,uirgo,0.143
+ausonius.cento_nuptialis,88.0,"uenio, tandem, meus, solus, et, serus, uoluptas",7,"NaN, NaN, 0.0, -0.5, NaN, NaN, 1.0",0.071,-0.071,,0.0
+ausonius.cento_nuptialis,89.0,"o, dulcis, coniunx, non, hic, sine, numen, diuus",8,"NaN, 0.5, -0.5, NaN, NaN, NaN, NaN, 0.0",0.0,-0.062,hic,0.125
+ausonius.cento_nuptialis,90.0,"prouenio, placeo, etiam, pugno, amor",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+ausonius.cento_nuptialis,91.0,"talis, dico, iamdudum, auerto, tueor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,92.0,"cuncto, metus, telum, insto, tremiscit",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,,0.0
+ausonius.cento_nuptialis,93.0,"spes, metus, inter, fundo, hic, os, loquela",7,"0.5, -1.0, NaN, NaN, NaN, 0.0, NaN",-0.071,-0.143,hic,0.143
+ausonius.cento_nuptialis,94.0,"“per, tu, per, qui, tu, talis, gigno, parens",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,"tu, tu",0.25
+ausonius.cento_nuptialis,95.0,"o, formosus, puer, nox, non, amplus, unus",7,"NaN, 1.0, 0.0, 0.0, NaN, 0.0, NaN",0.143,0.0,,0.0
+ausonius.cento_nuptialis,96.0,"hic, tu, oro, solaris, inops, et, misereor, preco",8,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.125,-0.125,"hic, tu",0.25
+ausonius.cento_nuptialis,97.0,"succido, non, lingua, ualeo, non, corpus, nosco",7,"NaN, NaN, -0.5, NaN, NaN, 0.0, NaN",-0.071,-0.071,,0.0
+ausonius.cento_nuptialis,98.0,"sufficio, uireo, neque, uox, aut, uerbum, sequor",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,99.0,"ille, autem, “causas, nequiquam, necto, inanis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,100.0,"praecipito, mora, omnis, soluo, pudor",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,pudor,0.2
+ausonius.cento_nuptialis,100.1,"hactenus, caueo, auris, audio, mysterium, nuptial, ambitus, loquor, et, circuitio, uelaui, uerus, quoniam, et, fescenninos, amo, celebritas, nuptial, uerbum, petulantia, notus, ueto, instituo, ludus, admitto, ceterus, quoque, cubiculum, et, lectulis, operio, prodentur, ab, idem, auctor, colligo, ut, bis, erubesco, qui, et, uergilium, facio, impudens, tu, si, placeo, hic, iam, lego, modus, pono, ceterus, curiosus, relinquo",55,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, -0.5, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 0.0, NaN, NaN",-0.009,-0.027,"petulantia, erubesco, impudens, tu, hic",0.091
+ausonius.cento_nuptialis,101.0,"postquam, congredior, solus, sub, nox, per, umbra",7,"NaN, NaN, -0.5, NaN, 0.0, NaN, NaN",-0.071,-0.071,,0.0
+ausonius.cento_nuptialis,102.0,"et, mens, uenus, ipse, do, nouo, proelio, tento",8,"NaN, 0.5, 1.0, NaN, NaN, NaN, NaN, NaN",0.188,0.0,,0.0
+ausonius.cento_nuptialis,103.0,"tollo, sui, arrideo, conor, multus, frustra",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,104.0,"occupo, os, facies, pedis, pes, feruidus, urgeo",7,"NaN, 0.0, 0.0, 0.0, 0.0, -0.5, NaN",-0.071,-0.071,,0.0
+ausonius.cento_nuptialis,105.0,"perfidus, altus, peto, ramus, qui, uestis, lateo",7,"-1.0, 0.5, NaN, NaN, NaN, NaN, NaN",-0.071,-0.143,"perfidus, uestis",0.286
+ausonius.cento_nuptialis,106.0,"sanguineus, ebulis, baca, minius, rubeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,107.0,"nudo, caput, et, pes, per, mutuus, necto",7,"NaN, 0.0, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,108.0,"monstrum, horreo, informis, ingens, qui, lumen, adimo",7,"0.5, NaN, -1.0, -0.5, NaN, NaN, NaN",-0.143,-0.214,monstrum,0.143
+ausonius.cento_nuptialis,109.0,"eripio, ab, femore, et, trepido, feruidus, insto",7,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+ausonius.cento_nuptialis,110.0,"sum, in, secedo, tenuis, quo, semita, duco",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,111.0,"igneus, rima, mico, exhalo, opacus, mephitis",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,112.0,"nullus, fas, castus, scelero, insisto, limen",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,scelero,0.167
+ausonius.cento_nuptialis,113.0,"hic, specus, horreo, talis, sui, halitus, ater",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, specus",0.286
+ausonius.cento_nuptialis,114.0,"fauces, effundo, naris, contingo, odor",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.cento_nuptialis,115.0,"huc, iuuenis, nosco, fero, regio, uiaris",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,116.0,"et, super, incumbo, nodus, et, cortex, crudus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+ausonius.cento_nuptialis,117.0,"intorqueo, summus, annitor, uis, hasta",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+ausonius.cento_nuptialis,118.0,"haereo, uirgineus, altus, bibo, ago, cruor",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,cruor,0.167
+ausonius.cento_nuptialis,119.0,"insono, cauus, gemo, do, cauerna",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,cauerna,0.2
+ausonius.cento_nuptialis,120.0,"ille, manus, morior, telis, traho, os, sed, inter",8,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,121.0,"altus, ad, uiuus, per-sedeo, uulnus, mucro",6,"0.5, NaN, 0.0, NaN, -1.0, -1.0",-0.25,-0.333,uiuus,0.167
+ausonius.cento_nuptialis,122.0,"ter, sui, attollo, cubo, innitor, leuo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,123.0,"ter, reuoluo, torus, sum, maneo, imperterritus, ille",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,124.0,"neque, mora, neque, requies, clauus, affigo, et, haereo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,125.0,"nusquam, amitto, oculus, sub, astrum, teneo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,126.0,"eo, redeo, uia, totiens, uterus, recutio",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,127.0,"transadigo, costa, et, pecto, pulso, eburnus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"transadigo, pecto",0.333
+ausonius.cento_nuptialis,128.0,"iam, fere, spatium, exter, fatisco, sub, ipse",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,129.0,"finis, aduento, tum, creber, anhelitus, artus",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,130.0,"aridus, os, quatio, sudor, fluo, undique, riuus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,131.0,"labor, exsanguis, destillo, ab, inguine, uirus",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,exsanguis,0.167
+ausonius.cento_nuptialis,132.0,"contineo, sum, paulis, ego",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,133.0,"lasciuus, paulis, pagina",3,"NaN, NaN, NaN",nan,nan,lasciuus,0.333
+ausonius.cento_nuptialis,134.0,"rideo, nihil, ultra, expeto",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,135.0,"sed, cum, lego, adsum, ego, aduerro, is, qui",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,136.0,"ut, iuuenal, aio, “curios, simulo, et, bacchanalia",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,137.0,"uiuo, ne, fortasse, mos, meus, specto, de, carmen",8,"NaN, NaN, NaN, 0.5, 0.0, NaN, NaN, 0.0",0.062,0.0,,0.0
+ausonius.cento_nuptialis,138.0,"“lasciua, sum, nos, pagina, uito, probus",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,probus,0.167
+ausonius.cento_nuptialis,139.0,"ut, martial, dico, memini, autem, quippe, erudio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,140.0,"probus, uir, plinio, in, poematiis, lasciuia",6,"1.0, 0.5, NaN, NaN, NaN, NaN",0.25,0.0,"probus, lasciuia",0.333
+ausonius.cento_nuptialis,141.0,"in, mos, consto, censeo, prurio, opusculis",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+ausonius.cento_nuptialis,142.0,"sulpicia, frons, caperaris, sum, appuleium, in, uito",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,143.0,"philosophus, in, epigramma, amator, in, praecipio",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,amator,0.167
+ausonius.cento_nuptialis,144.0,"cicero, extaris, seueritas, in, epistula, ad",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,seueritas,0.167
+ausonius.cento_nuptialis,145.0,"caerelliam, subsum, petulantia, platonis, symposio, -ne",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,petulantia,0.167
+ausonius.cento_nuptialis,146.0,"compono, in, ephebus, epyllia, contineo, nam, quis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,ephebus,0.143
+ausonius.cento_nuptialis,147.0,"anniani, fescenninos, quis, antiquus, poeta, laeuii",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,148.0,"erotopaegnio, -ne, liber, loquor, quis, euenum, qui",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+ausonius.cento_nuptialis,149.0,"menander, sapio, uoco, quis, ipse, menandrum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,150.0,"quis, comicus, omnis, qui, seuerus, uito, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,151.0,"et, laetus, materia, quis, etiam, maronem, parthenium, -ne",8,"NaN, 1.0, 0.0, NaN, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+ausonius.cento_nuptialis,152.0,"dico, causa, pudor, qui, in, octauus, aeneidos, cum",8,"NaN, 0.0, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,pudor,0.125
+ausonius.cento_nuptialis,153.0,"describo, coeo, uenio, atque, uulcani, atque, αἰσχροσεμνίαν",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,154.0,"decenter, immisceo, quis, in, tertius, georgicus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.cento_nuptialis,155.0,"de, summitto, in, grex, maritus, nonne, obscenus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, -1.0",-0.143,-0.143,maritus,0.143
+ausonius.cento_nuptialis,156.0,"significatio, honestus, uerbum, translatio",4,"NaN, 1.0, 0.0, 0.0",0.25,0.0,honestus,0.25
+ausonius.cento_nuptialis,157.0,"uelo, et, si, quis, in, noster, iocus, aliqui, homo",9,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, 0.0",-0.056,-0.056,,0.0
+ausonius.cento_nuptialis,158.0,"seueritas, uestio, condemno, de, uergilio, arcesso",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"seueritas, uestio",0.333
+ausonius.cento_nuptialis,159.0,"scio, igitur, qui, hic, ludus, noster, non, placeo, ne",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+ausonius.cento_nuptialis,160.0,"lego, aut, cum, lego, obliuiscor, aut, non, obliuiscor",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cento_nuptialis,161.0,"ignosco, etenim, fabula, de, nuptiae, sum, et, uolo, nolo",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,nuptiae,0.111
+ausonius.cento_nuptialis,162.0,"aliter, hic, sacer, non, consto",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,hic,0.2

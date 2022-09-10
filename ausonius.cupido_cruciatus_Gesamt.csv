@@ -1,0 +1,104 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+ausonius.cupido_cruciatus,1.1,"aer, in, campus, memoro, qui, musa, maronis",7,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cupido_cruciatus,1.2,"myrteus, amens, ubi, lucus, opaco, amo",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,amens,0.167
+ausonius.cupido_cruciatus,1.3,"Orgia, duco, herois, et, suus, quisque",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cupido_cruciatus,1.4,"ut, quondam, occido, letum, argumentum, gero",6,"NaN, NaN, NaN, -1.0, 0.0, NaN",-0.167,-0.167,occido,0.167
+ausonius.cupido_cruciatus,1.5,"erro, silua, in, magnus, et, sub, lux, malignus",8,"0.0, NaN, NaN, 0.0, NaN, NaN, NaN, -1.0",-0.125,-0.125,,0.0
+ausonius.cupido_cruciatus,1.6,"inter, harundineasque, como, grauidumque, papauer",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cupido_cruciatus,1.7,"et, taceo, sine, labes, lacus, sine, murmur, riuus",8,"NaN, NaN, NaN, -1.0, 0.0, NaN, NaN, NaN",-0.125,-0.125,,0.0
+ausonius.cupido_cruciatus,1.8,"qui, per, ripa, nebulosus, lumen, marceo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cupido_cruciatus,1.9,"fleo, olim, rex, et, puer, nomen, floreo",7,"NaN, NaN, 0.0, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ausonius.cupido_cruciatus,1.1,"mirator, narcissus, et, oebalides, hyacinthus",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cupido_cruciatus,1.11,"et, crocus, auricomans, et, murex, pingo, adonis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cupido_cruciatus,1.12,"et, tragicus, scribo, gemitus, salaminius, aeas",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+ausonius.cupido_cruciatus,1.13,"omnis, qui, lacrima, et, amor, anxius, maestus",7,"NaN, NaN, NaN, NaN, 1.0, -1.0, -1.0",-0.143,-0.286,,0.0
+ausonius.cupido_cruciatus,1.14,"exerceo, memor, obeo, iam, mors, dolor",6,"NaN, 1.0, NaN, NaN, -1.0, -1.0",-0.167,-0.333,,0.0
+ausonius.cupido_cruciatus,1.15,"rursus, in, amitto, reuoco, heroidas, aeuum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cupido_cruciatus,1.16,"fulmineus, semelis, decipio, puerpera, pario",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"fulmineus, decipio",0.4
+ausonius.cupido_cruciatus,1.17,"defleo, et, amburo, lacero, per, inanis, cuna",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,lacero,0.143
+ausonius.cupido_cruciatus,1.18,"uentilo, ignauus, simulo, fulgur, ignis",5,"NaN, -1.0, NaN, NaN, 0.0",-0.2,-0.2,"ignauus, fulgur",0.4
+ausonius.cupido_cruciatus,1.19,"irrito, donum, queror, sexu, gaudeo, uirilis",6,"NaN, 0.0, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ausonius.cupido_cruciatus,1.2,"maereo, in, antiquus, caenum, reuoco, figura",6,"NaN, NaN, 0.0, -0.5, NaN, NaN",-0.083,-0.083,caenum,0.167
+ausonius.cupido_cruciatus,1.21,"uulnero, sicco, adhuc, procris, cephalique, erudio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cupido_cruciatus,1.22,"diligo, et, percutio, manus, fero, fumidus, testa",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,testa,0.143
+ausonius.cupido_cruciatus,1.23,"lumen, sestiaca, praeceps, de, turris, puella",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cupido_cruciatus,1.24,"et, de, nimbosus, saltus, leucate, mino",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cupido_cruciatus,1.25,"masculus, lesbiacis, sappho, pereo, sagitta",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,sappho,0.2
+ausonius.cupido_cruciatus,1.26,"harmonia, cultus, eriphyle, maestus, recuso",5,"NaN, -0.5, NaN, -1.0, NaN",-0.3,-0.3,,0.0
+ausonius.cupido_cruciatus,1.27,"infelix, natus, neque, fortunata, marito",5,"-1.0, 0.0, NaN, NaN, NaN",-0.2,-0.2,"infelix, marito",0.4
+ausonius.cupido_cruciatus,1.28,"totus, quoque, aerius, minoius, fabula, cerno",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.cupido_cruciatus,1.29,"picturaris, instar, tenuis, sub, imago, uibro",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.cupido_cruciatus,1.3,"pasiphae, niueus, sequor, uestigium, taurus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"pasiphae, niueus",0.4
+ausonius.cupido_cruciatus,1.31,"licium, fero, glomero, manus, desero, ariadne",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.cupido_cruciatus,1.32,"respicio, abicio, despero, phaedra, tabella",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.cupido_cruciatus,1.33,"hic, laqueus, gero, hic, uanus, simulacrum, corona",7,"NaN, NaN, NaN, NaN, -0.5, 0.0, NaN",-0.071,-0.071,"hic, hic, uanus",0.429
+ausonius.cupido_cruciatus,1.34,"daedaliae, pudeo, hic, latebra, subeo, iuuenca",6,"NaN, NaN, NaN, -0.5, NaN, 0.0",-0.083,-0.083,"pudeo, hic",0.333
+ausonius.cupido_cruciatus,1.35,"praereptas, queror, per, inanis, gaudium, nox",6,"NaN, NaN, NaN, NaN, 1.0, 0.0",0.167,0.0,,0.0
+ausonius.cupido_cruciatus,1.36,"laudamia, duo, uiuo, fungor, maritus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,maritus,0.2
+ausonius.cupido_cruciatus,1.37,"pars, trux, alius, stringo, mucro, omnis",6,"0.0, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,trux,0.167
+ausonius.cupido_cruciatus,1.38,"et, thisbe, et, canace, et, sidonis, horreo, elissa",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cupido_cruciatus,1.39,"coniunx, hic, hic, pater, et, hic, gero, hospes, ensis",9,"-0.5, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",-0.056,-0.056,"hic, hic, hic",0.333
+ausonius.cupido_cruciatus,1.4,"erro, et, ipse, olim, qualis, per, latmia, saxum",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.cupido_cruciatus,1.41,"endymioneos, soleo, adfectaris, soporo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cupido_cruciatus,1.42,"cum, fax, et, astrigero, diadema, luna, bicornis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fax,0.143
+ausonius.cupido_cruciatus,1.43,"centum, alius, uetus, recolentes, uulnero, amor",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,,0.0
+ausonius.cupido_cruciatus,1.44,"dulcis, et, maestus, refoueo, tormentum, querela",6,"0.5, NaN, -1.0, NaN, -0.5, -0.5",-0.25,-0.333,,0.0
+ausonius.cupido_cruciatus,1.45,"qui, inter, medius, furuus, caligo, umbra",6,"NaN, NaN, 0.0, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+ausonius.cupido_cruciatus,1.46,"dispello, inconsultus, amor, strideo, ala",5,"NaN, -0.5, 1.0, NaN, NaN",0.1,-0.1,inconsultus,0.2
+ausonius.cupido_cruciatus,1.47,"a-nosco, omnis, puer, memor, recursus",5,"NaN, NaN, 0.0, 1.0, NaN",0.2,0.0,,0.0
+ausonius.cupido_cruciatus,1.48,"communis, sentio, reus, quamquam, umidus, circum",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,reus,0.167
+ausonius.cupido_cruciatus,1.49,"nubila, et, auro, fulgeo, cingulum, bullio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cupido_cruciatus,1.5,"et, pharetra, et, rutilus, fuscarent, lampados, ignis",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.cupido_cruciatus,1.51,"agnosco, tamen, et, uanus, uibraris, uigor",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,uanus,0.167
+ausonius.cupido_cruciatus,1.52,"occipio, hostis, unus, locum, non, suus, nanciscor",7,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+ausonius.cupido_cruciatus,1.53,"cum, piger, ago, densus, sub, nox, uolo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.cupido_cruciatus,1.54,"facio, nubes, premo, trepido, et, cassus, paro",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.cupido_cruciatus,1.55,"suffugium, in, coitus, medius, traho, caterua",6,"-1.0, NaN, NaN, 0.0, NaN, NaN",-0.167,-0.167,,0.0
+ausonius.cupido_cruciatus,1.56,"eligo, maestus, myrtus, nosco, lucus",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,,0.0
+ausonius.cupido_cruciatus,1.57,"inuidiosus, deus, poenio, cruciauerat, illic",5,"-1.0, 0.0, NaN, NaN, NaN",-0.2,-0.2,inuidiosus,0.2
+ausonius.cupido_cruciatus,1.58,"sperno, olim, memoro, uenio, proserpina, adonium, -ne",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cupido_cruciatus,1.59,"hic, in, excelsum, suspendo, stipes, amor",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,hic,0.167
+ausonius.cupido_cruciatus,1.6,"deuincio, post, tergum, manus, substringo, planta",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.cupido_cruciatus,1.61,"uinculum, maereo, nullus, moderamen, poena",5,"NaN, NaN, NaN, 0.0, -1.0",-0.2,-0.2,poena,0.2
+ausonius.cupido_cruciatus,1.62,"afficio, reus, sum, sine, crimen, iudex, nullus",7,"NaN, NaN, NaN, NaN, -1.0, 0.5, NaN",-0.071,-0.143,"reus, crimen",0.286
+ausonius.cupido_cruciatus,1.63,"accuso, amor, sui, quisque, absoluo, gestio",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+ausonius.cupido_cruciatus,1.64,"transfero, ut, proprius, alienus, in, crimen, culpo",7,"NaN, NaN, 0.0, -0.5, NaN, -1.0, NaN",-0.214,-0.214,crimen,0.143
+ausonius.cupido_cruciatus,1.65,"cunctus, exprobro, tolero, insigne, letum",5,"0.0, NaN, NaN, NaN, -1.0",-0.2,-0.2,exprobro,0.2
+ausonius.cupido_cruciatus,1.66,"expedio, hic, arma, puto, hic, ultio, dulcis",7,"NaN, NaN, 0.0, NaN, NaN, -1.0, 0.5",-0.071,-0.143,"hic, hic, ultio",0.429
+ausonius.cupido_cruciatus,1.67,"ut, quo, quisque, pereo, studeo, punio, dolor",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,punio,0.143
+ausonius.cupido_cruciatus,1.68,"hic, laqueus, teneo, hic, species, mucro, inanis",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,"hic, hic",0.286
+ausonius.cupido_cruciatus,1.69,"ingero, ille, cauus, amnis, rupes, fragosam",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.cupido_cruciatus,1.7,"insanio, metus, pelagus, et, sine, fluctus, aequor",7,"NaN, -1.0, NaN, NaN, NaN, 0.0, 0.0",-0.143,-0.143,insanio,0.143
+ausonius.cupido_cruciatus,1.71,"nonnullus, flamma, quatio, trepidus, mino",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+ausonius.cupido_cruciatus,1.72,"strideo, nullus, ignis, fax, rescindo, adoleo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,fax,0.167
+ausonius.cupido_cruciatus,1.73,"murra, uterus, lacrima, luceo, in, paueo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cupido_cruciatus,1.74,"gemmeus, fletiferi, iaculor, sucinus, truncus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cupido_cruciatus,1.75,"quidam, ignoscentum, species, ludibrium, tantus",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,ludibrium,0.2
+ausonius.cupido_cruciatus,1.76,"solus, uolo, stilus, ut, tenuis, sub, acumen, pungo",8,"-0.5, NaN, NaN, NaN, 0.0, NaN, -1.0, NaN",-0.188,-0.188,,0.0
+ausonius.cupido_cruciatus,1.77,"elicio, tener, de, quo, rodo, nata, cruor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,cruor,0.143
+ausonius.cupido_cruciatus,1.78,"aut, pubes, admoueant, petulantia, lumen, lychnus",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,petulantia,0.167
+ausonius.cupido_cruciatus,1.79,"ipse, etiam, similis, genetrix, obnoxius, culpa",6,"NaN, NaN, 0.0, NaN, -0.5, -1.0",-0.25,-0.25,culpa,0.167
+ausonius.cupido_cruciatus,1.8,"almus, uenus, tantus, penetro, securus, tumultus",6,"NaN, 1.0, NaN, NaN, 1.0, NaN",0.333,0.0,,0.0
+ausonius.cupido_cruciatus,1.81,"neque, circumuenio, propero, suffragium, natus",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ausonius.cupido_cruciatus,1.82,"terror, ingemino, stimulus, accendo, amaris",5,"-1.0, NaN, 0.0, NaN, NaN",-0.2,-0.2,stimulus,0.2
+ausonius.cupido_cruciatus,1.83,"anceps, furio, nascor, in, crimen, confero",6,"-0.5, NaN, NaN, NaN, -1.0, NaN",-0.25,-0.25,"furio, crimen",0.333
+ausonius.cupido_cruciatus,1.84,"dedecus, ipse, suus, qui, uinculum, caecus, maritus",7,"-1.0, NaN, NaN, NaN, NaN, -1.0, 0.0",-0.286,-0.286,"dedecus, maritus",0.286
+ausonius.cupido_cruciatus,1.85,"de_-prehenso, mauorte, fero, qui, pubes, pudeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,pudeo,0.167
+ausonius.cupido_cruciatus,1.86,"hellespontiaci, rideo, forma, priapi",4,"NaN, NaN, 1.0, NaN",0.25,0.0,,0.0
+ausonius.cupido_cruciatus,1.87,"qui, crudelis, eryx, qui, semiuir, hermaphroditns",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,crudelis,0.167
+ausonius.cupido_cruciatus,1.88,"neque, satis, in, uerbum, roseus, uenus, aureus, sero",8,"NaN, 0.5, NaN, 0.0, NaN, 1.0, 0.5, NaN",0.25,0.0,,0.0
+ausonius.cupido_cruciatus,1.89,"maereo, pulso, puer, et, grauis, paueo",6,"NaN, NaN, 0.0, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+ausonius.cupido_cruciatus,1.9,"ille, purpureus, mulco, corpus, roro",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.cupido_cruciatus,1.91,"sutilis, exprimo, creber, rodo, uerber, qui, iam",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uerber,0.143
+ausonius.cupido_cruciatus,1.92,"tingo, prior, traho, rutilis, magis, igneus, fucus",7,"NaN, 0.5, NaN, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+ausonius.cupido_cruciatus,1.93,"inde, trux, cado, minae, uindictaque, magnus",6,"NaN, NaN, NaN, -0.5, NaN, 0.0",-0.083,-0.083,trux,0.167
+ausonius.cupido_cruciatus,1.94,"crimen, uideo, suus, uenerem, facio, noceo",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,"crimen, noceo",0.333
+ausonius.cupido_cruciatus,1.95,"ipse, intercedo, herois, et, suus, quisque",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.cupido_cruciatus,1.96,"funero, crudelis, malo, ad-scribo, fatum",5,"NaN, -1.0, NaN, NaN, 0.0",-0.2,-0.2,crudelis,0.2
+ausonius.cupido_cruciatus,1.97,"tum, grates, pius, mater, ago, cedo, doleo",7,"NaN, 1.0, NaN, 0.0, NaN, NaN, NaN",0.143,0.0,,0.0
+ausonius.cupido_cruciatus,1.98,"et, condonatas, puer, dimitto, culpo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.cupido_cruciatus,1.99,"talis, nocturnus, olim, simulacrum, figura",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.cupido_cruciatus,1.1,"exerceo, trepidus, cassus, terror, quies",5,"NaN, -1.0, 0.0, -1.0, NaN",-0.4,-0.4,,0.0
+ausonius.cupido_cruciatus,1.101,"qui, postquam, multus, perpetior, nox, cupido",6,"NaN, NaN, 0.0, NaN, 0.0, -0.5",-0.083,-0.083,,0.0
+ausonius.cupido_cruciatus,1.102,"effugio, pello, tandem, caligo, somnium",5,"NaN, NaN, NaN, -0.5, 0.5",0.0,-0.1,,0.0
+ausonius.cupido_cruciatus,1.103,"euolo, ad, superus, porto, euado, eburnus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0

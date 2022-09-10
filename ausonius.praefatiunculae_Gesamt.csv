@@ -1,0 +1,68 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+ausonius.praefatiunculae,1.1,"ausonius, genitor, nos, ego, nomen, idem",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.praefatiunculae,1.2,"qui, sum, qui, seco, stirps, laris, et, patria",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.praefatiunculae,1.3,"ad-scribo, ut, nosco, bonus, uir, quicumque, sum",7,"NaN, NaN, NaN, 1.0, 0.5, NaN, NaN",0.214,0.0,,0.0
+ausonius.praefatiunculae,1.4,"et, notus, memor, ego, coleres, animus",6,"NaN, 0.0, 1.0, NaN, NaN, 0.5",0.25,0.0,,0.0
+ausonius.praefatiunculae,1.5,"uasates, patria, sum, pater, gens, haedua, mater",7,"NaN, NaN, NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ausonius.praefatiunculae,1.6,"de, pater, tarbellis, sed, genetrix, ab, aqua",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.praefatiunculae,1.7,"ipse, ego, burdigalae, gigno, diuido, per, urbs",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+ausonius.praefatiunculae,1.8,"quattuor, antiquus, stirps, origo, meus",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.praefatiunculae,1.9,"hinc, latus, fundo, sum, cognatio, nomen, multus",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, 0.0",0.0,0.0,,0.0
+ausonius.praefatiunculae,1.1,"ex, noster, ut, placeo, duco, domus, uenio",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.praefatiunculae,1.11,"deriuo, alius, nos, ab, stemma, primus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ausonius.praefatiunculae,1.12,"et, non, cognatus, sed, genetiua, placeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.praefatiunculae,1.13,"sed, redeo, ad, series, genitor, studeo, medicina",7,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0",0.071,0.0,,0.0
+ausonius.praefatiunculae,1.14,"disciplinaris, qui, do, unus, deus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.praefatiunculae,1.15,"nos, ad, grammaticus, -ne, studium, conuerto, et, mox",8,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.062,0.0,,0.0
+ausonius.praefatiunculae,1.16,"rhetorico, etiam, qui, satis, attingo",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+ausonius.praefatiunculae,1.17,"neque, foro, non, celebro, ego, sed, cura, doceo",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,,0.0
+ausonius.praefatiunculae,1.18,"colo, et, nomen, grammaticus, mereo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.praefatiunculae,1.19,"non, tam, grandis, quidem, quo, gloria, noster, subeo",8,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.praefatiunculae,1.2,"aemilium, aut, scaurus, berytiumue, probus",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,probus,0.2
+ausonius.praefatiunculae,1.21,"sed, quo, nostras, aquitanica, nomen, multus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ausonius.praefatiunculae,1.22,"confero, sed, non, subdo, ad-specio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.praefatiunculae,1.23,"exactisque, dehinc, per, trini, decennia, faueo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.praefatiunculae,1.24,"desero, doctor, municipal, opera",4,"NaN, 0.5, NaN, -0.5",0.0,-0.125,,0.0
+ausonius.praefatiunculae,1.25,"aureus, et, augustus, palatium, iubeo, adeo",6,"0.5, NaN, 1.0, NaN, NaN, NaN",0.25,0.0,,0.0
+ausonius.praefatiunculae,1.26,"augustus, suboles, grammaticus, doceo",4,"1.0, 0.5, NaN, NaN",0.375,0.0,,0.0
+ausonius.praefatiunculae,1.27,"mox, etiam, rhetor, neque, enim, fiducia, nos",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+ausonius.praefatiunculae,1.28,"uanus, aut, non, solidus, gloria, iudicium",6,"-0.5, NaN, NaN, 0.0, 0.0, 0.5",0.0,-0.083,uanus,0.167
+ausonius.praefatiunculae,1.29,"cedo, tamen, sum, fama, potis, magister",6,"NaN, NaN, NaN, 1.0, 0.0, 0.5",0.25,0.0,,0.0
+ausonius.praefatiunculae,1.3,"dum, nullus, sum, discipulus, bonus",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+ausonius.praefatiunculae,1.31,"alcides, atlantis, et, aeacides, chironis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"alcides, aeacides",0.4
+ausonius.praefatiunculae,1.32,"paene, io, iste, sero, filius, ille, io",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.praefatiunculae,1.33,"thessaliam, thebasque, suus, habeo, penates",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.praefatiunculae,1.34,"at, meus, hic, totus, regno, in, orbis, suus",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.125
+ausonius.praefatiunculae,1.35,"qui, ego, comes, et, quaestor, et, culmen, honor",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,,0.0
+ausonius.praefatiunculae,1.36,"praefectus, galli, et, libyae, et, latium",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.praefatiunculae,1.37,"et, prior, indipiscor, fascis, latiamque, curulis",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+ausonius.praefatiunculae,1.38,"consul, collega, posterus, sum",4,"0.5, NaN, 0.0, NaN",0.125,0.0,,0.0
+ausonius.praefatiunculae,1.39,"hic, ergo, ausonius, sed, tu, ne, temno, qui, ultro",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.222
+ausonius.praefatiunculae,1.4,"patronus, noster, tu, paro, carmen",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.2
+ausonius.praefatiunculae,2.1,"pectus, ut, noster, sedes, colo, almus, syagrus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.praefatiunculae,2.2,"communis, habito, alter, ego, ausonium",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.praefatiunculae,2.3,"sic, etiam, noster, praefor, habeo, liber",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ausonius.praefatiunculae,2.4,"differo, ut, nihilum, sum, tuus, annus, meus",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, 0.0",0.0,0.0,,0.0
+ausonius.praefatiunculae,3.0,"theodosius, augustus, ausonio, parens, salus, amor, meus, qui, in, tu, sum, et, admiratio, ingenium, atque, eruditio, tuus, qui, multus, maximus, sum, facio, parens, iucundus, ut, mos, princeps, alius, soleo, sequestraris, familiaris, sermo, autographum, ad, tu, transmitto, postulo, pro, ius, non, equidem, regius, sed, ille, priuo, inter, nos, caritas, ne, fraudaris, ego, scriptor, tuus, lectio, patior, qui, olim, ego, cognosco, et, iam, per, tempus, obliuiscor, rursum, desidero, non, solus, ut, qui, sum, nosco, recolantur, sed, etiam, ut, is, qui, fama, celeber, adiicio, memoro, accipio, qui, tu, de, promptuarius, scrinium, tuus, qui, ego, amo, libet, imperties, sequor, exemplum, auctor, bonus, qui, par, sum, mereo, qui, octauiano, augustus, res, potienti, certatim, opus, suus, trado, nullus, finis, in, is, honor, multus, condo, qui, ille, haud, scio, an, aequalis, atque, ego, tu, admiror, sum, certus, non, amplus, diligo, ual, parens",135,"NaN, 1.0, NaN, 0.5, 1.0, 1.0, 0.0, NaN, NaN, NaN, NaN, NaN, 0.5, 0.5, NaN, 0.5, 0.0, NaN, 0.0, NaN, NaN, NaN, 0.5, 1.0, NaN, 0.5, 0.5, NaN, NaN, NaN, 1.0, -0.5, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 1.0, NaN, 0.5, NaN, NaN, NaN, NaN, 1.0, 0.0, NaN, NaN, 0.5, NaN, NaN, NaN, 0.0, NaN, NaN, 1.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 0.0, NaN, NaN, 0.5",0.115,-0.007,"tu, tu, tu, tu",0.03
+ausonius.praefatiunculae,4.1,"agricola, si, flauus, cero, do, semen, terra",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.praefatiunculae,4.2,"gradiuus, iubeo, si, capio, arma, dux",6,"NaN, NaN, NaN, NaN, 0.0, 0.5",0.083,0.0,,0.0
+ausonius.praefatiunculae,4.3,"soluo, de, portus, classis, neptunus, inermis",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,classis,0.167
+ausonius.praefatiunculae,4.4,"findo, tam, fas, sum, quam, dubitaris, nefas",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,nefas,0.143
+ausonius.praefatiunculae,4.5,"insanus, quiuis, hiemo, mare, crudus, tellus",6,"-1.0, NaN, NaN, 0.0, -1.0, NaN",-0.333,-0.333,insanus,0.167
+ausonius.praefatiunculae,4.6,"semen, bellum, neque, satis, apto, manus",6,"NaN, 0.0, NaN, 0.5, NaN, 0.0",0.083,0.0,,0.0
+ausonius.praefatiunculae,4.7,"nihil, dubito, auctor, bonus, mortalia, quaero",6,"NaN, NaN, NaN, 1.0, 0.0, NaN",0.167,0.0,,0.0
+ausonius.praefatiunculae,4.8,"consilium, certus, iubeo, capesso, deus",5,"0.5, 0.5, NaN, NaN, 0.0",0.2,0.0,,0.0
+ausonius.praefatiunculae,4.9,"scribo, ego, augustus, iubeo, et, meus, carmen, posco",8,"NaN, NaN, 1.0, NaN, NaN, 0.0, 0.0, NaN",0.125,0.0,,0.0
+ausonius.praefatiunculae,4.1,"paene, rogo, blandus, uolo, lateo, imperium",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,,0.0
+ausonius.praefatiunculae,4.11,"non, habeo, ingenium, caesar, sed, iubeo, habeo",7,"NaN, NaN, 0.5, 0.5, NaN, NaN, NaN",0.143,0.0,,0.0
+ausonius.praefatiunculae,4.12,"cur, ego, possum, nego, possum, qui, ille, puto",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.praefatiunculae,4.13,"inualidus, uireo, ipse, excito, et, iuuo, idem",7,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+ausonius.praefatiunculae,4.14,"qui, iubeo, obsequium, sufficio, sum, meus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.praefatiunculae,4.15,"non, tueor, renuisse, deus, laudo, pudor",6,"NaN, NaN, NaN, 0.0, NaN, 0.5",0.083,0.0,pudor,0.167
+ausonius.praefatiunculae,4.16,"saepe, mora, sum, quotiens, contra, par, dubito",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+ausonius.praefatiunculae,4.17,"quin, etiam, non, iubeo, paro, erumpo, dudum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.praefatiunculae,4.18,"carmen, quis, nolo, caesar, sum, liber",6,"0.0, NaN, NaN, 0.5, NaN, 0.5",0.167,0.0,,0.0
+ausonius.praefatiunculae,4.19,"ne, fero, indignus, uates, centum, litura",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+ausonius.praefatiunculae,4.2,"muto, semper, deterior, nosco",4,"NaN, NaN, -1.0, NaN",-0.25,-0.25,,0.0
+ausonius.praefatiunculae,4.21,"tu, modo, tu, iubeo, pater, romane, memento",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"tu, tu",0.286
+ausonius.praefatiunculae,4.22,"in, meus, culpis, do, tu, tu, uenio",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"tu, tu",0.286

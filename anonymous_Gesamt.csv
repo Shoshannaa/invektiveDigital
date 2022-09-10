@@ -1,0 +1,149 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+anonymous,1.0,"quis, queror, serus, uirtus, dos, iuuaris",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+anonymous,2.0,"quis, promitto, deus, lentus, procedo, passus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+anonymous,3.0,"quis, finis, humanus, metior, iudex, urna",6,"NaN, 0.0, 0.0, NaN, 0.5, NaN",0.083,0.0,,0.0
+anonymous,4.0,"perpetuus, tardus, puto, qui, saeculum, debeo",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+anonymous,5.0,"acceleraris, dies, meritum, qui, praemium, reddo",6,"NaN, 0.0, 1.0, NaN, 1.0, NaN",0.333,0.0,,0.0
+anonymous,6.0,"nobilis, ingens, testor, gloria, facio",5,"1.0, -0.5, NaN, 0.0, NaN",0.1,-0.1,,0.0
+anonymous,7.0,"nam, qui, stagno, praelabor, agmen, ripa",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,stagno,0.167
+anonymous,8.0,"tardus, arar, piger, diu, uix, explico, amnis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+anonymous,9.0,"qui, fraternus, remus, progignitur, aedua, pubes",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,fraternus,0.167
+anonymous,10.0,"coniugium, memini, summus, pietas, fido",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+anonymous,11.0,"lex, diuino, tamen, mereo, cumulo, amor",6,"0.5, NaN, NaN, NaN, NaN, 1.0",0.25,0.0,,0.0
+anonymous,12.0,"et, uoueo, ambo, socius, praecedo, mors",6,"NaN, NaN, NaN, 1.0, NaN, -1.0",0.0,-0.167,,0.0
+anonymous,13.0,"maerorique, pius, cura, mando, sepulcrum",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,sepulcrum,0.2
+anonymous,14.0,"sed, prior, uxor, decerno, pagina, lego",6,"NaN, 0.5, 0.0, NaN, NaN, NaN",0.083,0.0,uxor,0.167
+anonymous,15.0,"tum, desolo, largus, iubeo, os, cauaris",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+anonymous,16.0,"post, mors, fio, qui, membrum, hospita, saxum",7,"NaN, -1.0, NaN, NaN, NaN, 0.5, 0.0",-0.071,-0.143,hospita,0.143
+anonymous,17.0,"suscipio, et, uenio, aeternus, foedero, iungo",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,foedero,0.167
+anonymous,18.0,"ut, qui, uiuo, teneo, lectulus, idem",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,lectulus,0.167
+anonymous,19.0,"post, praecipio, deus, bustum, communis, leuo",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,bustum,0.167
+anonymous,20.0,"sentio, ueto, suus, coniunx, praesagus, maritus",6,"NaN, NaN, NaN, -0.5, NaN, 0.0",-0.083,-0.083,maritus,0.167
+anonymous,21.0,"magnus, tempus, tribuo, miraculum, caueo",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+anonymous,22.0,"nam, cum, defungor, iungo, bracchium, membrum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+anonymous,23.0,"et, repeto, manus, constringo, uinculum, trunco",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+anonymous,24.0,"ne, qui, humanus, compleo, munus, uita",6,"NaN, NaN, 0.0, NaN, 0.5, 0.0",0.083,0.0,,0.0
+anonymous,25.0,"accido, informis, fluitatio, dissocio",4,"NaN, -1.0, NaN, NaN",-0.25,-0.25,,0.0
+anonymous,26.0,"immensus, dico, quo, tempus, uito, perago, sum",7,"0.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+anonymous,27.0,"iungo, socia, et, prospicio, sedes, maritus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,maritus,0.167
+anonymous,28.0,"postquam, mors, uir, resero, sum, ianua, letum",7,"NaN, -1.0, 0.5, NaN, NaN, NaN, -1.0",-0.214,-0.286,,0.0
+anonymous,29.0,"horreo, lar, iam, lux, ingratus, retego",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,ingratus,0.167
+anonymous,30.0,"deprensa, sum, laeua, protendo, femina, palma",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+anonymous,31.0,"inuito, socius, gestus, uiuo, amor",5,"NaN, 1.0, NaN, NaN, 1.0",0.4,0.0,,0.0
+anonymous,32.0,"quis, do, afficio, tumulus, quis, uinculum, soluo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+anonymous,33.0,"unde, sepelio, uideo, uenio, coniunx, umbra",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,sepelio,0.167
+anonymous,34.0,"tu, facio, hic, tu, christe, deus, tuus, signum, moueo",9,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, 0.0, NaN",0.0,0.0,"tu, hic, tu",0.333
+anonymous,35.0,"paulatim, doceo, sopio, resurgo, membrum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+anonymous,36.0,"tu, qui, uenio, sanctus, cano, propheta",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,tu,0.167
+anonymous,37.0,"incorruptus, deus, suboles, rector, regens",5,"1.0, 0.0, 0.5, NaN, 0.0",0.3,0.0,,0.0
+anonymous,38.0,"quo, sine, nihil, magnus, genitor, delibero, ingens",7,"NaN, NaN, NaN, 0.0, NaN, NaN, -0.5",-0.071,-0.071,,0.0
+anonymous,39.0,"qui, ad, imperium, certus, mare, consto, ora",7,"NaN, NaN, 0.0, 0.5, 0.0, NaN, NaN",0.071,0.0,,0.0
+anonymous,40.0,"neque, licet, immensus, terra, excurro, pontus",6,"NaN, NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+anonymous,41.0,"planum, montanus, includo, litus, fluctus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,planum,0.2
+anonymous,42.0,"qui, uario, stabilis, dotasti, munus, terra",6,"NaN, NaN, 0.5, NaN, 0.5, 0.0",0.167,0.0,,0.0
+anonymous,43.0,"in, noster, utor, largus, pietas, paternus",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+anonymous,44.0,"tu, uado, mortalis, committo, semen, sulcus",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,tu,0.167
+anonymous,45.0,"et, nouus, areo, procedo, caespes, pario",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+anonymous,46.0,"tu, manaris, iubeo, fecundus, nectaris, uito",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,tu,0.167
+anonymous,47.0,"tu, gratus, epulis, homo, medicus, salus",6,"NaN, 1.0, NaN, 0.0, NaN, 1.0",0.333,0.0,"tu, epulis",0.333
+anonymous,48.0,"arbor, succos, tu, nos, dulcis, mel",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,tu,0.167
+anonymous,49.0,"tu, seruio, iubeo, homo, genus, omnis, animantum",7,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,tu,0.143
+anonymous,50.0,"insuper, et, grauis, lucus, curuescere, pomum",6,"NaN, NaN, -0.5, NaN, NaN, 0.0",-0.083,-0.083,,0.0
+anonymous,51.0,"atque, noui, redeo, nullus, de, semen, nascor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+anonymous,52.0,"tu, uarius, amnis, noster, prosum, labor",6,"NaN, 0.0, NaN, NaN, NaN, -0.5",-0.083,-0.083,tu,0.167
+anonymous,53.0,"et, renouaris, sacrum, benedico, fons, aeuum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+anonymous,54.0,"tu, dux, ueliuolus, pateo, aequor, rostrum",6,"NaN, 0.5, NaN, NaN, 0.0, NaN",0.083,0.0,tu,0.167
+anonymous,55.0,"diuido, fretus, lustro, nauta, portus",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+anonymous,56.0,"tu, postquam, certus, sum, ago, elementum, figura",7,"NaN, NaN, 0.5, NaN, NaN, 0.5, NaN",0.143,0.0,tu,0.143
+anonymous,57.0,"ne, torpeo, rudo, caelestis, machina, uultus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+anonymous,58.0,"incipio, uario, signo, lumen, mundus",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+anonymous,59.0,"et, quisquis, caelum, radio, tuus, dextera, fingo",7,"NaN, NaN, 0.5, NaN, 0.0, 0.0, NaN",0.071,0.0,fingo,0.143
+anonymous,60.0,"hic, aula, dominus, placeo, contego, tectum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+anonymous,61.0,"iam, fretus, ne, nullus, ago, inhospitus, terra",7,"NaN, 0.5, NaN, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+anonymous,62.0,"assiduus, alacer, numero, nauta, portus",5,"0.5, 1.0, NaN, NaN, NaN",0.3,0.0,,0.0
+anonymous,63.0,"creber, satis, tumidus, defigo, insula, pontus",6,"NaN, 0.5, -0.5, NaN, NaN, 0.0",0.0,-0.083,,0.0
+anonymous,64.0,"neque, tamen, insanus, metuo, circumdo, fluctus",6,"NaN, NaN, -1.0, NaN, NaN, 0.0",-0.167,-0.167,insanus,0.167
+anonymous,65.0,"exiguus, fretus, innitor, orbis, resisto",5,"0.0, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+anonymous,66.0,"tu, dux, confido, qui, uenerabilis, paciscor",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,tu,0.167
+anonymous,67.0,"necto, lex, par, summus, imus, peraequo",6,"NaN, 0.5, 0.5, NaN, NaN, NaN",0.167,0.0,,0.0
+anonymous,68.0,"neque, sino, impono, quoquam, transcendo, finis",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+anonymous,69.0,"atque, ne, planum, nimis, tellus, uel, nudo, iaceo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"planum, iaceo",0.25
+anonymous,70.0,"uitis, aptandos, iubeo, assurgo, collis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+anonymous,71.0,"grandis, et, largus, umbraculum, tego, lucus",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+anonymous,72.0,"tum, ne, uastus, ago, silua, torpeo, horror",7,"NaN, NaN, -1.0, NaN, NaN, NaN, -1.0",-0.286,-0.286,uastus,0.143
+anonymous,73.0,"innumerus, fetus, procerus, saltus, addo",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+anonymous,74.0,"incola, uel, nemus, neu, desum, praeda, peto",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+anonymous,75.0,"tum, uolucris, multus, et, mille, examino, uox",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+anonymous,76.0,"mortal, harmonia, lucus, resonaris, canorus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+anonymous,77.0,"sic, annus, placeo, uarius, intego, forma",6,"NaN, 0.0, NaN, 0.0, NaN, 1.0",0.167,0.0,,0.0
+anonymous,78.0,"et, uicus, iucundus, mortalis, addo, fructus",6,"NaN, NaN, 1.0, -1.0, NaN, 0.5",0.083,-0.167,,0.0
+anonymous,79.0,"neu, semper, prolixus, dies, nimis, uro, orbis",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+anonymous,80.0,"neue, breuis, iustus, rapio, nasco, ignis",6,"NaN, NaN, 1.0, NaN, NaN, 0.0",0.167,0.0,,0.0
+anonymous,81.0,"atque, ne, perpetuus, quatio, labor, omnis, nisus",7,"NaN, NaN, 0.0, NaN, -0.5, NaN, NaN",-0.071,-0.071,,0.0
+anonymous,82.0,"do, requies, fatisco, homo, nox, roscidus, cura",7,"NaN, NaN, NaN, 0.0, 0.0, NaN, -1.0",-0.143,-0.143,,0.0
+anonymous,83.0,"ut, humanus, salus, securus, duco, aeuum",6,"NaN, 0.0, 1.0, 1.0, NaN, NaN",0.333,0.0,,0.0
+anonymous,84.0,"sponte, salutaris, de, caespes, surgitis, herba",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+anonymous,85.0,"hic, pater, ipse, sero, nutus, non, uomo, diues",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,hic,0.125
+anonymous,86.0,"non, ego, ferratus, tegerer, si, uiscera, murus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+anonymous,87.0,"ferreus, uox, lingua, sum, ego, mille, caneo",7,"NaN, 0.0, -0.5, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+anonymous,88.0,"munus, cunctus, queo, uester, pietas, obeo",6,"0.5, 0.0, NaN, NaN, 1.0, NaN",0.25,0.0,,0.0
+anonymous,89.0,"sed, pater, ille, tuus, secerno, in, sedes, loco",8,"NaN, 0.0, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+anonymous,90.0,"neque, quisquam, uideo, facilis, cunctus, tremo",6,"NaN, NaN, NaN, 0.5, 0.0, NaN",0.083,0.0,,0.0
+anonymous,91.0,"tu, mitto, dominus, terra, uita, magister",6,"NaN, NaN, NaN, 0.0, 0.0, 0.5",0.083,0.0,tu,0.167
+anonymous,92.0,"et, quisquis, natus, iustus, ueneror, honor",6,"NaN, NaN, 0.0, 1.0, NaN, 1.0",0.333,0.0,,0.0
+anonymous,93.0,"ambo, suus, ueto, dico, uita, perenno",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+anonymous,94.0,"tu, caueo, recingo, tenax, et, flecto, lex",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,tu,0.143
+anonymous,95.0,"post, crimen, facilis, si, qui, uecordia, praeceps",7,"NaN, -1.0, 0.5, NaN, NaN, -1.0, NaN",-0.214,-0.286,"crimen, uecordia",0.286
+anonymous,96.0,"depello, ab, tu, praescribo, limes, uita",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,tu,0.167
+anonymous,97.0,"tu, genitor, noster, pateo, ut, os, tueor",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.143
+anonymous,98.0,"induo, humanus, facies, membrum, caducus",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+anonymous,99.0,"quis, tento, enim, fragilis, attollo, uideo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+anonymous,100.0,"si, talis, trepidus, uolo, sisto, terra",6,"NaN, NaN, -1.0, NaN, NaN, 0.0",-0.167,-0.167,,0.0
+anonymous,101.0,"qualis, sum, ingens, cum, torqueo, fulmen, dextera",7,"NaN, NaN, -0.5, NaN, NaN, NaN, 0.0",-0.071,-0.071,,0.0
+anonymous,102.0,"praesens, iubeo, delictum, pauesco, poena",5,"0.0, NaN, -1.0, NaN, -1.0",-0.4,-0.4,"delictum, poena",0.4
+anonymous,103.0,"uel, cum, placo, campus, sitio, imber",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+anonymous,104.0,"diuido, et, dubius, sulcus, produco, arista",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+anonymous,105.0,"ne, tamen, insignis, res, nullus, ostendo, orior",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+anonymous,106.0,"uirgi, -ne, conciperis, non, sufficio, sum, pudicus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,pudicus,0.143
+anonymous,107.0,"neque, qui, nubo, queo, dominus, coniungo, frater",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,nubo,0.143
+anonymous,108.0,"ut, procul, ex, uterus, contagio, turpis, absum",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,turpis,0.143
+anonymous,109.0,"mox, ubi, procedo, felix, maturesco, aetas",6,"NaN, NaN, NaN, 1.0, NaN, 0.0",0.167,0.0,,0.0
+anonymous,110.0,"indocilis, animus, moneo, seruaris, paternus",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+anonymous,111.0,"aggredio, rectamque, uia, labor, offertor",5,"NaN, NaN, 0.0, -0.5, NaN",-0.1,-0.1,,0.0
+anonymous,112.0,"atque, ut, mitto, deus, penitus, praecipio, pateo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+anonymous,113.0,"imperium, tu, mors, adimo, morbus, soluo",6,"0.0, NaN, -1.0, NaN, -1.0, NaN",-0.333,-0.333,tu,0.167
+anonymous,114.0,"despero, iubeo, apprendere, munia, uita",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+anonymous,115.0,"restituisque, dies, caecus, et, ne, quis, inausus",7,"NaN, 0.0, -1.0, NaN, NaN, NaN, 0.0",-0.143,-0.143,,0.0
+anonymous,116.0,"resto, penitus, quo, perfidus, error, obeo",6,"NaN, NaN, NaN, -1.0, -1.0, NaN",-0.333,-0.333,perfidus,0.167
+anonymous,117.0,"indico, sensus, tumulus, et, condio, pridem",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+anonymous,118.0,"membrum, iubeo, iterum, superus, consurgo, in, aura",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+anonymous,119.0,"agnoscuntque, suus, diligo, cadauer, nomen",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+anonymous,120.0,"at, postquam, lex, sectator, idoneus, haurio",6,"NaN, NaN, 0.5, 0.0, NaN, NaN",0.083,0.0,,0.0
+anonymous,121.0,"ut, sui, mortal, caelestis, spiritus, aula",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+anonymous,122.0,"exuo, lex, intentus, quo, cunctus, doceo",6,"NaN, 0.5, NaN, NaN, 0.0, NaN",0.083,0.0,,0.0
+anonymous,123.0,"pro, superus, tolero, deus, recingo, perenno",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+anonymous,124.0,"contemptus, mors, sui, quisque, assumo, uita",6,"-1.0, -1.0, NaN, NaN, NaN, 0.0",-0.333,-0.333,,0.0
+anonymous,125.0,"sic, compleo, fero, genitor, iubeo, redeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+anonymous,126.0,"ad, superus, secerno, polio, qui, lucidus, aether",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+anonymous,127.0,"piger, ueto, proprius, succedo, nubila, caelum",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+anonymous,128.0,"atque, ut, certus, sum, pereo, copia, turba",7,"NaN, NaN, 0.5, NaN, NaN, 0.5, 0.0",0.143,0.0,,0.0
+anonymous,129.0,"qui, praecipio, deus, misero, auris, arceo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,misero,0.167
+anonymous,130.0,"neque, nouo, defungor, iam, pridem, ius, teneo",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+anonymous,131.0,"carcer, infernus, feralis, limen, pando",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,carcer,0.2
+anonymous,132.0,"innumeramque, iubeo, tenebrae, emergo, plebs",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+anonymous,133.0,"hic, tantus, claudo, qui, impius, uito, noto",7,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,"hic, impius",0.286
+anonymous,134.0,"et, locum, poena, uenio, diuido, umbra",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,poena,0.167
+anonymous,135.0,"qui, tu, non, credo, uel, qui, sui, credo, fingo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, fingo",0.222
+anonymous,136.0,"sancio, deus, summus, deus, uenerabilis, pignus",6,"NaN, 0.0, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+anonymous,137.0,"ad, qui, nomen, uiolentus, mors, fugo",6,"NaN, NaN, 0.0, -1.0, -1.0, NaN",-0.333,-0.333,,0.0
+anonymous,138.0,"pector, proprius, alieno, pectus, nanciscor",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+anonymous,139.0,"exclamo, pallentque, anima, iubeo, recedo",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+anonymous,140.0,"sicut, multus, prior, de, tu, miraculum, prodo",7,"NaN, 0.0, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,tu,0.143
+anonymous,141.0,"cum, terra, caelum, inter, suspendo, teneo",6,"NaN, 0.0, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+anonymous,142.0,"obstringo, per, tu, quia, nihil, permitto, hostis",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,tu,0.143
+anonymous,143.0,"at, nunc, tu, dominus, meritum, pietas, parens",7,"NaN, NaN, NaN, NaN, 1.0, 1.0, 0.5",0.357,0.0,tu,0.143
+anonymous,144.0,"imperium, facilis, uiuo, lex, magister",5,"0.0, 0.5, NaN, 0.5, 0.5",0.3,0.0,,0.0
+anonymous,145.0,"edico, par, qui, lex, tu, condio, sancio",7,"NaN, 0.5, NaN, 0.5, NaN, NaN, NaN",0.143,0.0,tu,0.143
+anonymous,146.0,"uictor, laetus, par, ego, constantinum",5,"NaN, 1.0, 0.5, NaN, NaN",0.3,0.0,,0.0
+anonymous,147.0,"hic, bonus, fetus, terra, nihil, ante, do",7,"NaN, 1.0, NaN, 0.0, NaN, NaN, NaN",0.143,0.0,hic,0.143
+anonymous,148.0,"neque, do, exaequent, utinam, suus, pignus, pater",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0

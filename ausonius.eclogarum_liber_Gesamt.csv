@@ -1,0 +1,445 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+ausonius.eclogarum_liber,1.1,"“cui, donum, lepidus, nouus, libellus",5,"NaN, 0.0, NaN, 1.0, 0.0",0.2,0.0,,0.0
+ausonius.eclogarum_liber,1.2,"ueronensis, aio, poeta, quondam",4,"NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,1.3,"inuentoque, do, statim, nepos",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,1.4,"at, nos, illepidus, rudis, libellus",5,"NaN, NaN, -1.0, -0.5, 0.0",-0.3,-0.3,,0.0
+ausonius.eclogarum_liber,1.5,"burras, quisquiliae, ineptiasque",3,"NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,1.6,"credo, gremium, qui, foueo",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,1.7,"inuenio, trepidus, sileo, nugae",4,"NaN, -1.0, NaN, -1.0",-0.5,-0.5,,0.0
+ausonius.eclogarum_liber,1.8,"neque, doceo, paruus, et, magis, benignus",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,,0.0
+ausonius.eclogarum_liber,1.9,"quam, qui, gallia, praebeo, catullo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,1.1,"hic, nullus, ego, carus, meus",5,"NaN, NaN, NaN, 1.0, 0.0",0.2,0.0,hic,0.2
+ausonius.eclogarum_liber,1.11,"qui, multus, facio, nouo, soror",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,1.12,"quam, cunctus, alius, marum, dempto",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,1.13,"“, pacatum, haud, dubius, poeta, dico",6,"NaN, NaN, NaN, -0.5, 0.0, NaN",-0.083,-0.083,,0.0
+ausonius.eclogarum_liber,1.14,"ipse, sum, intrepidus, uolo, uerro",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+ausonius.eclogarum_liber,1.15,"et, nidus, in, gremium, fouete, tueor",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,1.16,"hic, tu, diligo, hic, uolo, tueor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu, hic",0.5
+ausonius.eclogarum_liber,1.17,"ignosco, tego, probo, trado",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,1.18,"post, hic, iudicium, timeo, nullus, ual",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,hic,0.167
+ausonius.eclogarum_liber,2.1,"qui, uita, sectabor, iter, si, plenus, tumultus",7,"NaN, 0.0, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,2.2,"sum, foro, si, cura, domus, anxius, si, peregrinus",8,"NaN, NaN, NaN, -1.0, 0.0, -1.0, NaN, NaN",-0.25,-0.25,,0.0
+ausonius.eclogarum_liber,2.3,"cura, domus, sequor, mercantem, si, nouo, semper",7,"-1.0, 0.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+ausonius.eclogarum_liber,2.4,"damno, maneo, cessaris, ueto, si, turpis, egestas",7,"NaN, NaN, NaN, NaN, NaN, -1.0, -1.0",-0.286,-0.286,"damno, turpis, egestas",0.429
+ausonius.eclogarum_liber,2.5,"si, uexo, labor, agricola, mare, naufragus, horror",7,"NaN, NaN, -0.5, NaN, 0.0, -0.5, -1.0",-0.286,-0.286,"uexo, naufragus",0.286
+ausonius.eclogarum_liber,2.6,"infamo, poena, grauis, in, caelibe, uito",6,"NaN, -1.0, -0.5, NaN, NaN, NaN",-0.25,-0.25,"infamo, poena",0.333
+ausonius.eclogarum_liber,2.7,"et, grauis, caueo, custodia, uanus, maritus",6,"NaN, -0.5, NaN, NaN, -0.5, 0.0",-0.167,-0.167,"uanus, maritus",0.333
+ausonius.eclogarum_liber,2.8,"sanguineus, si, mars, opus, si, turpis, lucrum",7,"NaN, NaN, NaN, 0.5, NaN, -1.0, 0.5",0.0,-0.143,turpis,0.143
+ausonius.eclogarum_liber,2.9,"faenus, et, uelox, inops, utor, trucido",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,faenus,0.167
+ausonius.eclogarum_liber,2.1,"omnis, aeuum, cura, cunctus, suus, displiceo, aetas",7,"NaN, NaN, -1.0, 0.0, NaN, NaN, 0.0",-0.143,-0.143,,0.0
+ausonius.eclogarum_liber,2.11,"sensus, absum, paruus, iacto, et, puer",6,"0.5, NaN, 0.0, NaN, NaN, 0.0",0.083,0.0,,0.0
+ausonius.eclogarum_liber,2.12,"durus, rudimentum, et, iuuenis, temerarius, pubes",6,"-0.5, 0.0, NaN, NaN, -1.0, NaN",-0.25,-0.25,temerarius,0.167
+ausonius.eclogarum_liber,2.13,"afflicto, fortuna, uir, per, bellum, per, aequor",7,"NaN, 0.0, 0.5, NaN, 0.0, NaN, 0.0",0.071,0.0,,0.0
+ausonius.eclogarum_liber,2.14,"ira, insidior, catenatosque, labor",4,"-1.0, NaN, NaN, -0.5",-0.375,-0.375,,0.0
+ausonius.eclogarum_liber,2.15,"muto, semper, grauis, ipse, senectus",5,"NaN, NaN, -0.5, NaN, 0.0",-0.1,-0.1,,0.0
+ausonius.eclogarum_liber,2.16,"expecto, diu, uoueo, opto, malignus",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+ausonius.eclogarum_liber,2.17,"obicio, innumerus, corpus, lacerabilis, morbus",5,"NaN, NaN, 0.0, NaN, -1.0",-0.2,-0.2,,0.0
+ausonius.eclogarum_liber,2.18,"sperno, in, communis, omnis, praesens, quidam",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,2.19,"consto, nolo, deus, fio, iuturna, reclamo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,2.2,"“quo, uita, do, aeternus, cur, mors, adimo, sum",8,"NaN, 0.0, NaN, 0.5, NaN, -1.0, NaN, NaN",-0.062,-0.125,,0.0
+ausonius.eclogarum_liber,2.21,"condicio, sic, caucasea, sub, rupes, prometheus",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,2.22,"testor, saturnigenam, neque, nomen, cesso",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,2.23,"incuso, iouem, do, sum, qui, uito, perennis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,2.24,"respicio, et, ad, cultus, animus, sic, nempe, pudicus",8,"NaN, NaN, NaN, -0.5, 0.5, NaN, NaN, 0.5",0.062,-0.062,pudicus,0.125
+ausonius.eclogarum_liber,2.25,"perdo, hippolytum, non, felix, cura, pudor",6,"NaN, NaN, NaN, 1.0, -1.0, 0.5",0.083,-0.167,pudor,0.167
+ausonius.eclogarum_liber,2.26,"e, contra, illecebra, maculosam, dego, uita",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,illecebra,0.167
+ausonius.eclogarum_liber,2.27,"qui, iuuo, ad-specio, poena, et, crimen, rex",7,"NaN, NaN, NaN, -1.0, NaN, -1.0, 0.0",-0.286,-0.286,"poena, crimen",0.286
+ausonius.eclogarum_liber,2.28,"tereos, incestus, uel, mollio, sardanapalli",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,incestus,0.2
+ausonius.eclogarum_liber,2.29,"perfidia, uitaris, moneo, tres, punica, bellum",6,"-1.0, NaN, NaN, NaN, NaN, 0.0",-0.167,-0.167,perfidia,0.167
+ausonius.eclogarum_liber,2.3,"sed, prohibeo, seruaris, fides, deleo, saguntos",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+ausonius.eclogarum_liber,2.31,"uiuo, et, amicitia, semper, cole.crime, -ne, ob, iste",8,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+ausonius.eclogarum_liber,2.32,"pythagoreorum, pereo, schola, doceo, sophos, hic",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,hic,0.167
+ausonius.eclogarum_liber,2.33,"metuo, igitur, nullus, cole.crime, -ne, ob, iste",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,2.34,"timo, -ne, palladiis, olim, lapido, athenae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,2.35,"dissideo, ambiguus, semper, mens, obuius, uoueo",6,"NaN, -0.5, NaN, 0.5, -0.5, NaN",-0.083,-0.167,,0.0
+ausonius.eclogarum_liber,2.36,"neque, uolo, homo, satis, sum, opto, recuso",7,"NaN, NaN, 0.0, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+ausonius.eclogarum_liber,2.37,"sum, in, honor, placeo, mox, paeniteo, et, dominaris",8,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+ausonius.eclogarum_liber,2.38,"ut, possum, seruio, uolo, idem, augeo, honor",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+ausonius.eclogarum_liber,2.39,"inuidia, obicio, pernox, sum, cura, dissero",6,"-1.0, NaN, NaN, NaN, -1.0, NaN",-0.333,-0.333,inuidia,0.167
+ausonius.eclogarum_liber,2.4,"sed, rudis, orno, uita, careo, sum, patronus",7,"NaN, -0.5, NaN, 0.0, NaN, NaN, NaN",-0.071,-0.071,,0.0
+ausonius.eclogarum_liber,2.41,"et, defendo, reus, sed, gratia, rarus, cliens",7,"NaN, NaN, NaN, NaN, 1.0, NaN, 0.0",0.143,0.0,reus,0.143
+ausonius.eclogarum_liber,2.42,"sum, cliens, grauis, imperium, persono, patronus",6,"NaN, 0.0, -0.5, 0.0, NaN, NaN",-0.083,-0.083,,0.0
+ausonius.eclogarum_liber,2.43,"xercent, hic, ueto, pater, mox, asper, cura",7,"NaN, NaN, NaN, 0.0, NaN, -0.5, -1.0",-0.214,-0.214,hic,0.143
+ausonius.eclogarum_liber,2.44,"sollicitudo, subeo, contemno, orbo, senectus",5,"-0.5, NaN, NaN, NaN, 0.0",-0.1,-0.1,,0.0
+ausonius.eclogarum_liber,2.45,"et, captator, praeda, sum, heres, egenus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,2.46,"uita, parcus, ago, auidus, lacerabere, fama",6,"0.0, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+ausonius.eclogarum_liber,2.47,"et, largitor, grauis, censeo, noto",5,"NaN, NaN, -0.5, NaN, NaN",-0.1,-0.1,,0.0
+ausonius.eclogarum_liber,2.48,"cunctus, tu, aduerro, contrarius, casus, ergo",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.167
+ausonius.eclogarum_liber,2.49,"bonus, graiorum, sententia, quippe, homo, aio",6,"1.0, NaN, 0.0, NaN, 0.0, NaN",0.167,0.0,,0.0
+ausonius.eclogarum_liber,2.5,"non, nascor, sum, bonus, aut, natus, cito, mors, potior, hic, quidem, pythagorica, sum, apophasis, secundus",15,"NaN, NaN, NaN, 1.0, NaN, 0.0, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,-0.067,hic,0.067
+ausonius.eclogarum_liber,2.51,"talis, qui, subicio, sum, distichus, -ne",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,2.52,"πρῶτον, μὲν, μὴ, φῦναι, ἐν, ἀνθρώποισιν, ἄριστον",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,2.53,"δεύτερον, ὅττι, τάχιστα, πύλας, ̓αίδαο, περῆσαι",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,2.55,"contra, sed, alter, sectator, dogma, iste",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,2.56,"quis, doceo, reprobo, subdo, disco, lego",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,2.57,"“, ergo, nihil, quoniam, uito, sum, qui, amo, in, iste",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,2.58,"neque, tamen, incassus, fas, sum, nos, credo, nascor",8,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+ausonius.eclogarum_liber,2.59,"auctor, uita, si, iustus, credo, sum",6,"NaN, 0.0, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+ausonius.eclogarum_liber,2.6,"uito, alius, sum, nos, ille, uiuo, paro",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,2.61,"cum, quo, post, iste, possum, uiuo, uita",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,2.62,"ille, equidem, stygius, propero, descendo, ad, umbra",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,2.63,"pythagoreorum, stolidus, qui, dogma, sequor",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,stolidus,0.2
+ausonius.eclogarum_liber,2.64,"non, nascor, sui, quam, nascor, uiuo, malo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,3.1,"uir, bonus, et, sapio, qual, uix, reperio, unus",8,"0.5, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.188,0.0,,0.0
+ausonius.eclogarum_liber,3.2,"mille, e, cunctus, homo, consulo, apollo",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,3.3,"iudex, ipse, suus, totus, sui, exploro, ad, unguis",8,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+ausonius.eclogarum_liber,3.4,"quis, proceres, uanus, leuis, quis, opinio, uulgus",7,"NaN, NaN, -0.5, 0.0, NaN, 0.0, 0.0",-0.071,-0.071,uanus,0.143
+ausonius.eclogarum_liber,3.5,"securus, mundus, instar, habeo, tero, atque, rotundus",7,"1.0, 1.0, NaN, NaN, NaN, NaN, NaN",0.286,0.0,,0.0
+ausonius.eclogarum_liber,3.6,"externus, ne, quis, lo, per, leuis, sidat.",7,"0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,3.7,"ille, dies, quam, longus, sum, sub, sidus, cancer",8,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, -1.0",-0.125,-0.125,,0.0
+ausonius.eclogarum_liber,3.8,"quantus, nox, tropicus, sui, porrigo, in, capricornus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,3.9,"cogito, et, iustus, trutina, sui, examen, pendo",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+ausonius.eclogarum_liber,3.1,"ne, quis, luo, ne, quis, protubero, angulus, aequus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,luo,0.125
+ausonius.eclogarum_liber,3.11,"pars, ut, coeo, nihil, ut, deliro, amussis",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,deliro,0.143
+ausonius.eclogarum_liber,3.12,"sum, solidus, quicumque, subsum, neque, inanis, subter",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,3.13,"indico, .admotus, digitus, pello, iacio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,3.14,"non, prior, in, dulcis, declino, lumen, somnus",7,"NaN, 0.5, NaN, 0.5, NaN, NaN, 0.5",0.214,0.0,,0.0
+ausonius.eclogarum_liber,3.15,"omnis, quam, longus, reputauerit, ago, dies",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,3.16,"qui, praetergredior, quis, gero, in, tempus, quis, non.",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,3.17,"cur, iste, facio, decus, asum, aut, ratio, ille",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,3.18,"quis, ego, praetereo, cur, hic, sententia, sedeo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.143
+ausonius.eclogarum_liber,3.19,"quam, bonus, muto, sum, miseror, egeo",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+ausonius.eclogarum_liber,3.2,"cur, aliquis, frango, persentio, mens, dolor",6,"NaN, NaN, NaN, NaN, 0.5, -1.0",-0.083,-0.167,,0.0
+ausonius.eclogarum_liber,3.21,"quis, uolo, qui, nolo, bonus, sum, utilis, honestus",8,"NaN, NaN, NaN, NaN, 1.0, NaN, 1.0, 1.0",0.375,0.0,honestus,0.125
+ausonius.eclogarum_liber,3.22,"cur, malus, antetulis, num, dico, aut, denique, uultus",8,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.125,-0.125,,0.0
+ausonius.eclogarum_liber,3.23,"perstringo, quisquam, cur, ego, natura, magis, quam",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,3.24,"disciplina, traho, sic, dictum, et, facio, per, omnis",8,"0.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,3.25,"ingredior, orior, ab, uesperus, cunctus, reuoluo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,3.26,"offendo, prauus, do, palma, et, praemium, rectus",7,"NaN, -1.0, NaN, NaN, NaN, 1.0, 1.0",0.143,-0.143,prauus,0.143
+ausonius.eclogarum_liber,4.1,"sum, et, non, cunctus, monosyllabus, nosco, frequento",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,4.2,"hic, deemo, nihil, sum, homo, qui, sermo, uoluto",8,"NaN, NaN, NaN, NaN, 0.0, NaN, -0.5, NaN",-0.062,-0.062,hic,0.125
+ausonius.eclogarum_liber,4.3,"omnis, in, hic, et, ab, hic, sum, omnis, siue, negotium",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.05,-0.05,"hic, hic",0.2
+ausonius.eclogarum_liber,4.4,"siue, otium, quisquam, sum, seu, turbidus, siue, quietus",8,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,otium,0.125
+ausonius.eclogarum_liber,4.5,"alteruter, pariter, nonnumquam, saepe, seorsus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,4.6,"obsisto, studium, ut, mos, ingenium",5,"NaN, 0.5, NaN, 0.5, 0.5",0.3,0.0,,0.0
+ausonius.eclogarum_liber,4.7,"ut, facilis, uel, difficilis, contentio, nanciscor, sum",7,"NaN, 0.5, NaN, -0.5, NaN, NaN, NaN",0.0,-0.071,,0.0
+ausonius.eclogarum_liber,4.8,"si, consentio, mora, nullus, interuenio, “e, sum, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,4.9,"sin, controuersus, dissensio, subicio, “no, -ne",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,4.1,"hinc, foro, dissulto, clamor, hinc, furiosus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,"dissulto, furiosus",0.333
+ausonius.eclogarum_liber,4.11,"iurgium, sum, circos, cuneati, hinc, fero, theatrum",7,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+ausonius.eclogarum_liber,4.12,"seditio, et, talis, agito, quoque, curia, lis",7,"NaN, NaN, NaN, NaN, NaN, -1.0, -0.5",-0.214,-0.214,seditio,0.143
+ausonius.eclogarum_liber,4.13,"coniugium, et, nascor, cum, pater, iste, quiesco",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,4.14,"uerbum, sero, studium, saluo, pietas, loquor",6,"0.0, NaN, 0.5, NaN, 1.0, NaN",0.25,0.0,,0.0
+ausonius.eclogarum_liber,4.15,"hinc, etiam, placidus, schola, consono, disciplina",6,"NaN, NaN, 1.0, NaN, NaN, 0.0",0.167,0.0,,0.0
+ausonius.eclogarum_liber,4.16,"dogmaticus, agito, placidus, certamen, lis",5,"NaN, NaN, 1.0, 0.5, -0.5",0.2,-0.1,,0.0
+ausonius.eclogarum_liber,4.17,"hinc, omnis, certo, dialectica, turba, sophos",6,"NaN, NaN, NaN, NaN, 0.0, 1.0",0.167,0.0,,0.0
+ausonius.eclogarum_liber,4.18,"sum, -ne, dies, sum, ergo, dies, non, conuenio, iste",9,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,4.19,"nam, fax, multus, aut, fulgeribus, quotiens, lux",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,fax,0.143
+ausonius.eclogarum_liber,4.2,"sum, nocturnus, homo, non, sum, lux, iste, dies",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,4.21,"sum, et, non, igitur, quotiens, lux, sum, fateor, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,4.22,"sed, non, sum, dies, mille, hinc, certamen, surgo",8,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.5, NaN",0.062,0.0,,0.0
+ausonius.eclogarum_liber,4.23,"hinc, raucus, multus, quoque, talis, commeditor",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,4.24,"murmur, concludo, rabiosus, silentium, rodo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,4.25,"qualis, uito, homo, duo, quam, monosyllabus, uerso",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,5.1,"ter, bini, decies, nouo, super, exeo, in, annus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,5.2,"iustus, senescentum, qui, impleo, uito, uir",6,"1.0, NaN, NaN, NaN, NaN, 0.5",0.25,0.0,,0.0
+ausonius.eclogarum_liber,5.3,"hic, nouies, supero, uiuo, garrulus, cornix",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, garrulus",0.333
+ausonius.eclogarum_liber,5.4,"et, quater, egredior, cornix, saeculum, ceruus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,5.5,"alipedem, ceruus, ter, uincio, coruus, et, ille",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,5.6,"multiplico, nouies, phoenix, reparabilis, ales",5,"NaN, NaN, NaN, 1.0, 0.0",0.2,0.0,,0.0
+ausonius.eclogarum_liber,5.7,"qui, nos, perpetuus, decies, praeuertimus, aeuum",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,5.8,"nympha, hamadryades, qui, longus, uito, sum",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,5.9,"hic, cohibeo, finis, uiuacia, fatum, animantum",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,hic,0.167
+ausonius.eclogarum_liber,5.1,"ceterus, secerno, nosco, deus, arbiter, aeui",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,5.11,"tempus, qui, stilbo, -ne, uoluo, qui, saeculum, phaeno, -ne",9,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,5.12,"qui, pyrois, habeo, qui, iuppiter, ignis, benignus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 1.0",0.143,0.0,,0.0
+ausonius.eclogarum_liber,5.13,"circumeo, qual, propero, uenus, almus, recursus",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+ausonius.eclogarum_liber,5.14,"qui, phoebus, -ne, quantus, maneo, titana, labor",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,,0.0
+ausonius.eclogarum_liber,5.15,"donec, consumo, magnus, qui, dico, annus",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,5.16,"rursus, in, anticus, uenio, uago, sidus, cursus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,5.17,"qualis, dispono, sto, ab, origo, mundus",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+ausonius.eclogarum_liber,6.1,"miror, quicumque, maneo, ingens, mundus",5,"NaN, NaN, NaN, -0.5, 1.0",0.1,-0.1,,0.0
+ausonius.eclogarum_liber,6.2,"corpus, sublimis, caelum, circumdo, gyrus",5,"0.0, 0.5, 0.5, NaN, NaN",0.2,0.0,,0.0
+ausonius.eclogarum_liber,6.3,"et, tantus, nullus, molio, intercedo, labo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,6.4,"accipio, qui, miro, magis, tenuis, tantus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,6.5,"principia, et, noster, non, admitto, uideo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,6.6,"paruaris, series, consto, conecto, atomus",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+ausonius.eclogarum_liber,6.7,"sed, solidus, in, paruus, nullus, secabilis, segme, -ne",8,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,6.8,"unde, uigor, uireo, maneo, aeternus, res",6,"NaN, NaN, NaN, NaN, 0.5, 0.0",0.083,0.0,,0.0
+ausonius.eclogarum_liber,6.9,"mobilito, nullus, umquam, superabilis, aeuum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,6.1,"diuinus, humanus, licet, con-pono, sic, sum",6,"0.5, 0.0, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+ausonius.eclogarum_liber,6.11,"as, solidus, quoniam, bis, sex, de, pars, aequus",8,"0.0, 0.0, NaN, NaN, NaN, NaN, 0.0, 0.5",0.062,0.0,,0.0
+ausonius.eclogarum_liber,6.12,"consto, et, in, paruus, par, tamen, unus, maneo, uolo",9,"NaN, NaN, NaN, 0.0, 0.5, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+ausonius.eclogarum_liber,6.13,"nam, si, quis, numerus, minuo, summus, uacillo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,6.14,"conuulsaeque, ruo, labefacto, corpus, pars",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,6.15,"ut, medius, si, quis, uello, de, fornix, saxum",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,6.16,"incumbo, qui, cunctus, simul, deuexus, sequor",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,deuexus,0.167
+ausonius.eclogarum_liber,6.17,"ceterus, communis, traho, ab, uertex, labor",6,"0.0, 0.0, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+ausonius.eclogarum_liber,6.18,"non, aliter, liber, sum, si, desum, uncia, totus",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+ausonius.eclogarum_liber,6.19,"non, sum, as, nomen, deunx, iam, casus, habeo",8,"NaN, NaN, 0.0, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,6.2,"neque, dextans, retineo, nomen, sextante, remoueo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,6.21,"et, dodrans, quadro, sero, auctor, careo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,6.22,"diuulsusque, triens, prohibeo, persisto, bessem",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,6.23,"iam, quincunx, tu, nullus, sum, si, gramma, reuellas",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+ausonius.eclogarum_liber,6.24,"et, semis, qui, semis, sum, pereo, adsum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,6.25,"pars, et, qui, libra, pars, septimus, septunx",7,"0.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,6.26,"liber, igitur, totus, si, nullus, in, pars, uacillet",8,"0.5, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.062,0.0,,0.0
+ausonius.eclogarum_liber,6.27,"pondus, et, numerus, morus, opus, et, aqua",7,"NaN, NaN, NaN, -1.0, 0.5, NaN, 0.0",-0.071,-0.143,,0.0
+ausonius.eclogarum_liber,6.28,"liber, neque, sum, modulus, qui, non, hic, nomen, signo",9,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.056,0.0,hic,0.111
+ausonius.eclogarum_liber,6.29,"tellus, medium, qui, pendeo, in, aer, liber, sum",8,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.5, NaN",0.062,0.0,,0.0
+ausonius.eclogarum_liber,6.3,"et, sol, luna, uia, suus, liber, cohercet",7,"NaN, NaN, NaN, 0.0, NaN, 0.5, NaN",0.071,0.0,,0.0
+ausonius.eclogarum_liber,6.31,"liber, dius, somnus, par, determino, horas, liber, caledonios, sine, litus, contineo, aestus, tu, quoque, certus, mane, mos, ego, liber, meus",20,"0.5, NaN, 0.5, 0.5, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 0.5, NaN, 0.5, 0.0",0.175,0.0,tu,0.05
+ausonius.eclogarum_liber,7.1,"omnis, qui, uario, res, metior, in, actus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,7.2,"astrum, dominor, ago, terrenus, tantus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,7.3,"membrum, homo, e, superi, fortuna, et, spiritus, auris",8,"NaN, 0.0, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,7.4,"septeni, modero, chorus, sed, praesideo, ille",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,7.5,"sortior, regime, -ne, nitidus, sol, aureus, aethra",7,"NaN, NaN, NaN, 0.5, NaN, 0.5, NaN",0.143,0.0,,0.0
+ausonius.eclogarum_liber,7.6,"neque, solus, in, nos, moderor, tempus, uita",7,"NaN, -0.5, NaN, NaN, NaN, 0.0, 0.0",-0.071,-0.071,,0.0
+ausonius.eclogarum_liber,7.7,"dum, breuis, sollicitus, spatium, produco, aeuum",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+ausonius.eclogarum_liber,7.8,"credo, occulo, sero, et, tempus, uita",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,7.9,"maternus, duco, uterus, formo, uideo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,7.1,"et, nondum, exorior, lex, con-pono, uita",6,"NaN, NaN, NaN, 0.5, NaN, 0.0",0.083,0.0,,0.0
+ausonius.eclogarum_liber,7.11,"namque, ubi, concipio, genital, in-sedeo, aruum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,7.12,"haud, dubius, sol, quicumque, insisto, signum",6,"NaN, -0.5, NaN, NaN, NaN, 0.0",-0.083,-0.083,,0.0
+ausonius.eclogarum_liber,7.13,"qui, cum, uicinus, statio, capio, astrion",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,7.14,"contiguos, nullus, transfundo, lumen, in, ortus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,7.15,"at, ubi, conuerro, post, menstruus, tempus, habena",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,7.16,"scando, purpureus, iam, tertius, sidus, currus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,7.17,"obliquus, exilis, demitto, lineus, lux",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,7.18,"adspirans, tenuis, per, inertia, pondero, moueo",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,inertia,0.167
+ausonius.eclogarum_liber,7.19,"quartus, in, sedes, uigeo, primus, indulgeo, sol",7,"0.0, NaN, 0.0, NaN, 0.5, NaN, NaN",0.071,0.0,indulgeo,0.143
+ausonius.eclogarum_liber,7.2,"suadeo, et, infundo, tener, coalesco, fetus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,7.21,"fulgor, et, trigonum, aspicio, uital, corusco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,7.22,"clarus, et, lenis, mico, quintus, qui, cardo, signum",8,"0.5, NaN, 1.0, NaN, NaN, NaN, NaN, 0.0",0.188,0.0,,0.0
+ausonius.eclogarum_liber,7.23,"incutio, attono, uegetato, infer, parens",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+ausonius.eclogarum_liber,7.24,"nam, sextus, uolo, nullus, locus, quia, nullus, tueor",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,7.25,"aequo, lateo, signo, regula, phoebo.",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,7.26,"at, ubi, signiferae, medius, in, regio, cohors",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,7.27,"septimus, accipio, limo, rutilo, flamma",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,7.28,"recingo, castrum, sino, turgentis, foedero, pario",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,foedero,0.167
+ausonius.eclogarum_liber,7.29,"iam, plenus, sub, lux, uideo, neque, fulgur, parcus",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,fulgur,0.125
+ausonius.eclogarum_liber,7.3,"lumen, intendo, totus, foueo, ignis, corona",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,7.31,"hinc, ille, qui, legitimus, lucinus, labor",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+ausonius.eclogarum_liber,7.32,"praeuenio, et, grauidus, sentio, sub-repo, nitor",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,,0.0
+ausonius.eclogarum_liber,7.33,"ante, expectas, festino, puerpera, uoueo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,7.34,"qui, nisi, septeni, cum, lumen, fundo, ab, astrum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,7.35,"impello, tardus, claustra, obluctor, pario",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,7.36,"posterus, nequeo, possum, prior, an, quia, sextus",7,"0.0, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+ausonius.eclogarum_liber,7.37,"aemulus, octauus, conspicio, inutilis, astrion",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,inutilis,0.2
+ausonius.eclogarum_liber,7.38,"nescio, conparilis, latus, formo, figura",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,7.39,"sed, nonus, incumbo, signum, cuncto, mater",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,7.4,"ueto, leuo, trigonum, uireo, sociante, sequor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,7.41,"at, si, difficilis, rursum, traho, ilithyia",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+ausonius.eclogarum_liber,7.42,"tetragono, absoluo, dubiaris, uinclum, moraris",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,uinclum,0.2
+ausonius.eclogarum_liber,8.1,"nomen, qui, septem, uenio, apto, dies",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,8.2,"annus, habeo, totidem, erro, facio, planeta",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,8.3,"qui, indefessus, uoluo, uertigo, mundus",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+ausonius.eclogarum_liber,8.4,"signum, obliquus, iubeo, in, statio, uagaris",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,8.5,"primus, superus, dies, radio, habeo, sol",6,"0.5, NaN, 0.0, NaN, NaN, NaN",0.083,0.0,,0.0
+ausonius.eclogarum_liber,8.6,"propior, fraternus, succedo, luna, corona",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,fraternus,0.2
+ausonius.eclogarum_liber,8.7,"tertius, assequor, titania, lumen, mauors",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,mauors,0.2
+ausonius.eclogarum_liber,8.8,"mercurius, quartus, sui, uindico, astrum, dies",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,8.9,"illustro, quintus, io, aureus, sidus, zona",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+ausonius.eclogarum_liber,8.1,"sextus, salutigerum, sequor, uenus, almus, parens",6,"NaN, NaN, NaN, 1.0, NaN, 0.5",0.25,0.0,,0.0
+ausonius.eclogarum_liber,8.11,"cunctus, supergrediens, saturnus, septimus, lux, sum",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,8.12,"octauus, instauro, reuolubilis, orbita, sol",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,9.1,"primus, romanus, ordior, iane, kalendae",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+ausonius.eclogarum_liber,9.2,"februo, uicinus, mensis, numa, instituo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,9.3,"martius, antiquus, primordius, profero, annus",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,9.4,"fetiferum, aprilis, uindico, almus, uenus",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+ausonius.eclogarum_liber,9.5,"magnus, dico, pater, de, nomen, magnus",6,"0.0, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,9.6,"iunius, aetas, proximus, sum, titulus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,9.7,"nomen, caesareus, quintilis, iulius, augeo",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,9.8,"augustus, nomen, caesareum, sequor",4,"1.0, 0.0, NaN, NaN",0.25,0.0,,0.0
+ausonius.eclogarum_liber,9.9,"auctumnus, pomona, tuus, september, opimat",5,"0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,9.1,"triticeus, october, faenus, dito, ager",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,faenus,0.2
+ausonius.eclogarum_liber,9.11,"sidus, praecipito, pelagus, intempeste, nouember",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,9.12,"tu, genial, hiems, festus, december, ago",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+ausonius.eclogarum_liber,10.1,"ia, -ne, nouus, primus, qui, do, tuus, nomen, metior",9,"NaN, NaN, 1.0, 0.5, NaN, NaN, 0.0, 0.0, NaN",0.167,0.0,,0.0
+ausonius.eclogarum_liber,10.2,"ia, -ne, bifrons, specto, tempus, bini, simul",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,10.3,"post, superi, cultus, uicinus, februo, mensis",6,"NaN, NaN, -0.5, 0.0, NaN, NaN",-0.083,-0.083,,0.0
+ausonius.eclogarum_liber,10.4,"do, numa, cognatus, manus, inferiae",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,10.5,"martius, et, genus, romanus, praesul, et, annus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,10.6,"primus, do, latius, tempus, consul",5,"0.5, NaN, NaN, 0.0, 0.5",0.2,0.0,,0.0
+ausonius.eclogarum_liber,10.7,"aeneadum, genetrix, uicinus, nomen, aprilis",5,"NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,10.8,"do, uenus, sum, mars, namque, aphrodita, comes",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+ausonius.eclogarum_liber,10.9,"maia, dea, an, magnus, maius, tu, facio, aetas",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.125
+ausonius.eclogarum_liber,10.1,"ambago, sed, metior, sum, auctor, uterque, bonus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+ausonius.eclogarum_liber,10.11,"iunius, hic, sequor, duplex, celebrandus, honor",6,"NaN, NaN, NaN, 0.0, NaN, 1.0",0.167,0.0,hic,0.167
+ausonius.eclogarum_liber,10.12,"seu, nomen, iuno, siue, iuuenta, do",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,10.13,"inde, dionaeo, praefulgeo, iulius, astrum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,10.14,"aestas, medius, tempus, certus, teneo",5,"NaN, 0.0, 0.0, 0.5, NaN",0.1,0.0,,0.0
+ausonius.eclogarum_liber,10.15,"augustus, sequor, cognatus, ab, caesar, nomen",6,"1.0, NaN, NaN, NaN, 0.5, 0.0",0.25,0.0,,0.0
+ausonius.eclogarum_liber,10.16,"ordo, sic, annus, proximus, ut, genus",6,"0.5, NaN, 0.0, NaN, NaN, 0.0",0.083,0.0,,0.0
+ausonius.eclogarum_liber,10.17,"necto, post, hic, numerus, ex, ordo, signo",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,hic,0.143
+ausonius.eclogarum_liber,10.18,"september, bacchi, munus, prelum, rigo",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+ausonius.eclogarum_liber,10.19,"et, qui, sementis, per, tempus, faenus, laetus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 1.0",0.143,0.0,faenus,0.143
+ausonius.eclogarum_liber,10.2,"october, cupidus, spes, foueo, agricola",5,"NaN, -0.5, 0.5, NaN, NaN",0.0,-0.1,,0.0
+ausonius.eclogarum_liber,10.21,"quisque, salum, mergo, sollemne, signum, nouember",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,10.22,"praecipito, caelum, mox, redeo, suus",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+ausonius.eclogarum_liber,10.23,"concludo, numerus, genialia, festus, december",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,10.24,"finio, ut, ab, bruma, mox, nouus, annus, eo",8,"NaN, NaN, NaN, NaN, NaN, 1.0, 0.0, NaN",0.125,0.0,,0.0
+ausonius.eclogarum_liber,11.1,"bis, seni, annus, reparo, lucinus, kalendae",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,11.2,"et, totidem, medius, do, curro, iuppiter, idus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,11.3,"nonarumque, dies, facio, infra, octo, secundus",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,11.4,"hic, sum, romanus, tantus, tres, nomen, metior",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.143
+ausonius.eclogarum_liber,11.5,"ceterus, per, numerus, sum, cognomentum, dies",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,12.1,"inpleo, triceni, per, singulus, menstruus, luceo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,12.2,"iunius, aprilisque, et, cum, septembre, nouember",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,12.3,"unus, ter, deni, cumulo, addo, dies",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,12.4,"per, septem, mensis, iani, martes, kalendae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,12.5,"et, qui, magnus, ago, qui, iulius, augustusque",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,12.6,"et, qui, october, pono, in, finis, december",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,12.7,"unus, sum, tantus, duodetriginta, dies",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,12.8,"qui, numa, praepono, uolo, succedo, iano",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,12.9,"sic, ter, centeni, decies, accedo, seni",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,12.1,"quadrantemque, et, quinque, dies, sui, con-puto, annus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,13.1,"at, nona, modo, quartus, aperio, modo, sextus, refero, lux",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,13.2,"sextus, refero, mai, octobris, martes, recursus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,13.3,"et, qui, solstitium, suus, tempus, iulius, infero",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,13.4,"ceterus, pars, metior, quartum, sum, praeditus, nonus",7,"0.0, 0.0, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+ausonius.eclogarum_liber,13.5,"omnis, uerus, idus, octauus, lux, recurro",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+ausonius.eclogarum_liber,14.1,"post, idus, qui, quisque, suus, habeo, ordo, mensis",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,,0.0
+ausonius.eclogarum_liber,14.2,"diuerto, numerus, redeo, uario, kalendae",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,14.3,"dum, uerto, annus, rursum, iterum, uoco",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,14.4,"ut, tandem, optas, procedo, tempus, ortus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,14.5,"ter, senex, unus, dies, genialia, festus",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,14.6,"porrigo, ut, ianus, arcesso, nouo, bruma, moror",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,14.7,"hic, numerus, metior, numae, redeo, auctumnus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.167
+ausonius.eclogarum_liber,14.8,"principium, refero, bacchi, september, alumnus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,14.9,"iulius, et, magnus, pono, in, finis, december",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,14.1,"octoberque, dies, res, uoco, tardus, unus",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,14.11,"inde, dies, redeo, paruus, unus, quattuor, ultra",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,14.12,"qui, numerus, adicio, sextilis, iunius, atque",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,14.13,"aprilis, post, qui, paenultimus, meto, nouember",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,14.14,"ter, quini, unus, dies, iunonie, mauors",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,mauors,0.167
+ausonius.eclogarum_liber,14.15,"ut, redeo, refero, exordium, primus, cieris",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+ausonius.eclogarum_liber,14.16,"hic, numerus, ad, plenus, uerto, reparabitur, annus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+ausonius.eclogarum_liber,15.1,"nonaginta, dies, et, quattuor, atque, medius, sol",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,15.2,"confacio, ab, tropicus, in, tropicum, dum, per-meo, astrum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,15.3,"octipedem, in, cancer, phrixeo, ab, aries, pergo",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+ausonius.eclogarum_liber,15.4,"hic, spatium, aestiuus, pello, et, meto, dies",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+ausonius.eclogarum_liber,15.5,"semidiemque, duo, dies, decies, noueni",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,15.6,"ab, cancer, in, chelae, aequo, tempus, nox",7,"NaN, -1.0, NaN, NaN, NaN, 0.0, 0.0",-0.143,-0.143,,0.0
+ausonius.eclogarum_liber,15.7,"atque, dius, cursus, perago, sol, aureus, alter",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+ausonius.eclogarum_liber,15.8,"auctumnus, aestas, simul, confine, misceo",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,15.9,"unde, autumnal, transcurro, ordo, mensis",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+ausonius.eclogarum_liber,15.1,"ad, tropicum, pergo, signum, gelidus, capricorni",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,15.11,"octo, dies, decies, octoni, insuper, addo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,15.12,"quadrantemque, dius, quintus, qui, protinus, annus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,15.13,"mensis, numae, exter, nomen, capio, embolimaei",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,15.14,"inde, ad, agenorei, festino, cornu, taurus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,15.15,"scando, lanifica, tropicum, sol, aureus, astrum",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+ausonius.eclogarum_liber,15.16,"nonaginta, dies, decretum, finis, cohercens",5,"NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,15.17,"hic, tu, circus, sum, semper, uerto, annus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, tu",0.286
+ausonius.eclogarum_liber,15.18,"ter, centum, atque, senex, decies, et, quinque, dies",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,16.1,"principium, iani, sancio, tropicus, capricornus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,16.2,"mensis, numae, in, medium, solidus, sto, sidus, aquaris",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,16.3,"procedo, duplex, in, martia, tempus, piscis",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,16.4,"respicio, aprilis, aries, phryxee, kalendae",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,16.5,"magnus, agenorei, miro, cornu, taurus",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,16.6,"iunius, aequo, caelum, uideo, eo, laconas",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+ausonius.eclogarum_liber,16.7,"solstitium, ardeo, cancer, fero, iulius, astrum",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+ausonius.eclogarum_liber,16.8,"augustus, mensis, leo, feruidus, ignis, peruro",6,"1.0, NaN, NaN, -0.5, 0.0, NaN",0.083,-0.083,leo,0.167
+ausonius.eclogarum_liber,16.9,"sidus, uirgo, tuus, bacchum, september, opimat",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,uirgo,0.167
+ausonius.eclogarum_liber,16.1,"aequo, et, october, sementis, tempus, libra",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,16.11,"scorpius, hibernus, praeceps, iubeo, eo, nouembrem",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,16.12,"termino, arcitenens, medium, suus, signum, december",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,17.1,"sol, proficiscor, ab, teporo, uerus, aequinoctium",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+ausonius.eclogarum_liber,17.2,"post, semidiem, post, totus, nonaginta, et, quattuor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,17.3,"feruidus, flagro, habena, pello, aestiuus, confacio",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+ausonius.eclogarum_liber,17.4,"inde, auctumnus, nox, hora, libro, aequus, lumen",7,"NaN, 0.0, 0.0, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+ausonius.eclogarum_liber,17.5,"octo, et, octoginta, goeris, et, super, trihorio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,17.6,"inde, floridus, reflecto, uer, reuiso, oreis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,17.7,"addo, ad, hic, prior, goeros, geminus, orbis",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,hic,0.143
+ausonius.eclogarum_liber,18.1,"aeternus, mensis, et, tempus, quattuor, annus",6,"0.5, NaN, NaN, 0.0, NaN, 0.0",0.083,0.0,,0.0
+ausonius.eclogarum_liber,18.2,"quattuor, iste, tu, subiectum, monostichum, dico",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+ausonius.eclogarum_liber,18.3,"martius, aprilis, magnus, sum, tempus, uerus",6,"NaN, NaN, 0.0, NaN, 0.0, 0.5",0.083,0.0,,0.0
+ausonius.eclogarum_liber,18.4,"iulius, augustus, neque, non, et, iunius, aestas",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+ausonius.eclogarum_liber,18.5,"september, october, autumnat, totus, nouembri",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,18.6,"brumal, ianus, februarius, atque, december",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,19.1,"quattuor, antiqui, celebro, achaia, ludus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,19.2,"caelicolum, duo, sum, et, duo, festus, homo",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,19.3,"sacer, io, phoebique, palaemonis, archemorique",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+ausonius.eclogarum_liber,19.4,"sero, qui, pinus, malus, oliua, apis",6,"NaN, NaN, 0.0, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+ausonius.eclogarum_liber,20.1,"primus, ioui, magnus, celebro, olympia, pisa",6,"0.5, NaN, 0.0, NaN, NaN, NaN",0.083,0.0,,0.0
+ausonius.eclogarum_liber,20.2,"parnasus, clario, sacro, pythia, phoebus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,20.3,"isthmia, portuno, bimaris, dico, altus, corinthos",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+ausonius.eclogarum_liber,20.4,"archemori, nemeaea, colo, funebria, thebe",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,nemeaea,0.2
+ausonius.eclogarum_liber,21.1,"primus, olympiacae, sacro, festus, corona",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+ausonius.eclogarum_liber,21.2,"iuppiter, argiui, stadium, ad, longus, circos",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,21.3,"proximus, alcides, nemeum, sacro, honor",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,alcides,0.2
+ausonius.eclogarum_liber,21.4,"hic, quoque, tempus, quinquennia, sacer, noto",6,"NaN, NaN, 0.0, NaN, 1.0, NaN",0.167,0.0,hic,0.167
+ausonius.eclogarum_liber,21.5,"isthmia, neptunus, do, sum, et, pythia, phoebus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,21.6,"anceps, cultus, diuus, homo, sepultis.",5,"-0.5, -0.5, 0.0, 0.0, NaN",-0.2,-0.2,,0.0
+ausonius.eclogarum_liber,22.1,"funebris, ludo, habeo",3,"-0.5, NaN, NaN",-0.167,-0.167,,0.0
+ausonius.eclogarum_liber,22.2,"tantalidae, pelopi, maestus, dico, elis, honor",6,"NaN, NaN, -1.0, NaN, NaN, 1.0",0.0,-0.167,tantalidae,0.167
+ausonius.eclogarum_liber,22.3,"archemori, nemeaea, colo, quinquennia, thebe",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,nemeaea,0.2
+ausonius.eclogarum_liber,22.4,"isthmia, defungor, celebro, palaemone, notus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,22.5,"pythia, placo, delphi, statuo, draco",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,23.1,"nunc, et, apollineos, tiberinus, per, ostium, ludus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,23.2,"et, megalesiacae, mater, operio, loquor",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,23.3,"uulcanique, dies, auctumnus, exordium, primus",5,"NaN, 0.0, 0.0, NaN, 0.5",0.1,0.0,,0.0
+ausonius.eclogarum_liber,23.4,"quinquatrusque, dea, pallados, expedio",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,23.5,"et, medius, idus, mai, augustique, recursus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,23.6,"qui, sui, mercurius, quisque, diana, dico",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,23.7,"matrona, qui, sacer, colo, pro, laus, uir",7,"-0.5, NaN, 1.0, NaN, NaN, 1.0, 0.5",0.286,-0.071,matrona,0.143
+ausonius.eclogarum_liber,23.8,"mauortis, primus, cum, redeo, dies",5,"NaN, 0.5, NaN, NaN, 0.0",0.1,0.0,,0.0
+ausonius.eclogarum_liber,23.9,"festus, caprotinis, memoro, celeber, nonus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,23.1,"cum, stola, matrona, dempta, tego, famulo",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,matrona,0.167
+ausonius.eclogarum_liber,23.11,"quattuor, ille, etiam, discerno, pars, annus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,23.12,"solstitium, et, luceo, nox, dius, par",6,"NaN, NaN, NaN, 0.0, NaN, 0.5",0.083,0.0,,0.0
+ausonius.eclogarum_liber,23.13,"neque, regifugium, pello, ex, urbs, tyrannus",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,tyrannus,0.167
+ausonius.eclogarum_liber,23.14,"laetus, romanus, fas, reticeo, dies",5,"1.0, NaN, NaN, NaN, 0.0",0.2,0.0,,0.0
+ausonius.eclogarum_liber,23.15,"uolo, -ne, ops, ante, sacer, uel, saturnalia, dico",8,"NaN, NaN, 0.0, NaN, 1.0, NaN, NaN, NaN",0.125,0.0,,0.0
+ausonius.eclogarum_liber,23.16,"festus, seruus, cum, famulo, erus",5,"NaN, -0.5, NaN, NaN, 0.0",-0.1,-0.1,erus,0.2
+ausonius.eclogarum_liber,23.17,"et, numquam, certus, redeo, festus, dies",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,,0.0
+ausonius.eclogarum_liber,23.18,"compitum, per, uicus, cum, suus, quisque, colo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,23.19,"aut, duplico, cultus, qui, neptunalia, dico",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+ausonius.eclogarum_liber,23.2,"et, qui, de, conso, consilium, uoco",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+ausonius.eclogarum_liber,23.21,"festus, hic, nauigium, aut, qui, celebro, quadrigae",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, nauigium",0.286
+ausonius.eclogarum_liber,23.22,"iungo, romanus, finitimi, dux",4,"NaN, NaN, NaN, 0.5",0.125,0.0,,0.0
+ausonius.eclogarum_liber,23.23,"adicio, cultus, peregrinus, sacer, deus",5,"NaN, -0.5, NaN, 1.0, 0.0",0.1,-0.1,,0.0
+ausonius.eclogarum_liber,23.24,"natal, herculeum, uel, ratis, isiacae",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,23.25,"neque, non, lasciuus, floralia, laetus, theatrum",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,lasciuus,0.167
+ausonius.eclogarum_liber,23.26,"qui, specto, uolo, qui, uolo, nego",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,23.27,"nunc, etiam, uetus, celebro, equirria, ludo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,23.28,"primus, hic, romanus, nomen, circus, habeo",6,"0.5, NaN, NaN, 0.0, NaN, NaN",0.083,0.0,hic,0.167
+ausonius.eclogarum_liber,23.29,"et, dionysiacos, latium, cognomen, ludus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,23.3,"roma, colo, liber, qui, sui, ueto, dico",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+ausonius.eclogarum_liber,23.31,"aedilis, etiam, plebs, aedilis, curulis",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,23.32,"sacer, sigilla, nomen, dictum, colo",5,"1.0, NaN, 0.0, 0.0, NaN",0.2,0.0,,0.0
+ausonius.eclogarum_liber,23.33,"et, gladiator, funebria, proelio, notus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,23.34,"decertasse, forum, nunc, sui, harena, suus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,23.35,"uindico, exter, qui, iam, sub, finis, december",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,23.36,"falcigerum, placo, sanguis, caeligenam",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,24.1,"primus, cleonaei, tolero, aerumna, leo",5,"0.5, NaN, NaN, -0.5, NaN",0.0,-0.1,"cleonaei, leo",0.4
+ausonius.eclogarum_liber,24.2,"propior, lernaeam, ferrum, et, fax, contundo, hydram",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,fax,0.143
+ausonius.eclogarum_liber,24.3,"mox, erymantheum, uolo, tertius, percello, aper",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,24.4,"aeripedis, quartum, fero, aureus, cornu, ceruus",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+ausonius.eclogarum_liber,24.5,"stymphalidas, pello, uolucris, discrimen, quintus",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+ausonius.eclogarum_liber,24.6,"thraeiciam, sextus, spolio, amazona, balteus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,24.7,"septimus, in, augei, stabulis, impensa, labor",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+ausonius.eclogarum_liber,24.8,"octauus, expello, numero, adoria, taurus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,24.9,"in, diomedeis, uictoria, nonus, quadrigae",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,24.1,"geryone, ex-tingo, decimus, do, hiberia, palma",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,24.11,"undecimus, malus, hesperidum, destringo, triumphus",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,,0.0
+ausonius.eclogarum_liber,24.12,"cerberus, extremus, .suprema, sum, meto, labor",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+ausonius.eclogarum_liber,25.1,"flamen, uernus, cieo, obscurum, lumen, piscis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,25.2,"curriculum, aries, aequo, nox, dius",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,25.3,"cornu, qui, condo, florus, praenuntio, taurus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,25.4,"aridus, aestas, geminus, primordius, pando",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,25.5,"longus, iam, munio, praeclarus, lumen, cancer",6,"0.0, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+ausonius.eclogarum_liber,25.6,"languificus, leo, proflo, ferus, os, calor",6,"NaN, NaN, NaN, -1.0, 0.0, 0.0",-0.167,-0.167,"leo, ferus",0.333
+ausonius.eclogarum_liber,25.7,"post, modius, quatio, uirgo, fugo, orior, uaporo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uirgo,0.143
+ausonius.eclogarum_liber,25.8,"auctumnus, resero, porta, aequo, diurnus",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,25.9,"tempus, nocturnus, dispenso, sidus, liber",5,"0.0, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+ausonius.eclogarum_liber,25.1,"ecfetos, ramus, denudo, flamma, nepas",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,25.11,"piger, sagittipotens, iaculor, frigus, terra",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.eclogarum_liber,25.12,"bruma, gelus, glacio, iubar, exspiro, capricorni",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,25.13,"quam, sequor, nebula, roro, liquo, altus, aquaris",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+ausonius.eclogarum_liber,25.14,"tantus, supra, circo, uigeo, uolo, flammeus, mundus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+ausonius.eclogarum_liber,25.15,"at, dextera, laeua, cieo, rota, fulgidus, sol",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,25.16,"mobilis, curriculis, et, luna, simulacrum, fero",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,25.17,"squama, sub, aeternus, conspectus, torqueo, draco",6,"NaN, NaN, 0.5, 0.0, NaN, NaN",0.083,0.0,,0.0
+ausonius.eclogarum_liber,25.18,"emineo, hic, infra, fulgeo, arcera, septem",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+ausonius.eclogarum_liber,25.19,"magnus, quatio, stella, quam, seruo, serus, in, altus",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,,0.0
+ausonius.eclogarum_liber,25.2,"condio, oceani, ripa, cum, lux, bootes.",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,26.1,"unguis, mercurius, barba, io, cypride, crinis, mercurius, furtum, probo, unguis, semper, acuo",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.083,-0.083,furtum,0.083
+ausonius.eclogarum_liber,26.2,"articulus, acies, non, sino, imminuo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,26.3,"barba, ioui, crinis, ueneri, decor, ergo, necesse, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.eclogarum_liber,26.4,"ut, nolo, demo, quo, sui, uterque, placeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,26.5,"mauors, imberbos, et, caluus, luna, adamo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,mauors,0.167
+ausonius.eclogarum_liber,26.6,"non, prohibeo, como, tum, caput, atque, gena",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,gena,0.143
+ausonius.eclogarum_liber,26.7,"sol, et, saturnus, nihil, obsto, unguis, ergo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.eclogarum_liber,26.8,"non, placeo, diuus, tollo, monostichium",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0

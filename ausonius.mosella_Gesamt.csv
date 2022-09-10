@@ -1,0 +1,484 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+ausonius.mosella,1.0,"transeo, celer, nebulosus, flumen, nauam",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,2.0,"addo, miror, uetus, nouo, moenia, uinco",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,3.0,"aequo, latias, ubi, quondam, gallia, canna",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,4.0,"infletaeque, iaceo, inops, super, aruum, caterua",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,iaceo,0.167
+ausonius.mosella,5.0,"unde, iter, ingredior, nemorosus, per, auia, solus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,,0.0
+ausonius.mosella,6.0,"et, nullus, humanus, specto, uestigium, cultus",6,"NaN, NaN, 0.0, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+ausonius.mosella,7.0,"praetereo, areo, sitio, undique, terra",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,8.0,"dumnissum, riguasque, perenni, fons, taberna",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,9.0,"aruum, sauromatum, nuper, meto, colonia",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,10.0,"et, tandem, primus, belgae, conspicor, ora",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+ausonius.mosella,11.0,"noiomagum, diuus, castrum, inclutus, constantini",5,"NaN, 0.0, NaN, 0.5, NaN",0.1,0.0,,0.0
+ausonius.mosella,12.0,"purus, hic, campus, aer, phoebusque, serenus",6,"1.0, NaN, 0.0, 0.0, NaN, NaN",0.167,0.0,hic,0.167
+ausonius.mosella,13.0,"lumen, purpureus, resero, iam, sudus, olympum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,14.0,"neque, iam, consero, per, mutuus, uinculum, ramus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,15.0,"quaero, excludo, uiridis, caligo, caelum",5,"NaN, NaN, NaN, -0.5, 0.5",0.0,-0.1,,0.0
+ausonius.mosella,16.0,"sed, liquidus, iubar, et, rutilus, uiso, aethra",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,17.0,"liber, perspicuus, non, inuideo, aura, dies",6,"0.5, NaN, NaN, NaN, 1.0, 0.0",0.25,0.0,,0.0
+ausonius.mosella,18.0,"in, species, quin, ego, patria, colo, niteo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,19.0,"burdigalae, blandus, pello, omnis, uideo",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+ausonius.mosella,20.0,"culmen, uillaris, pendeo, edo, ripa",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,21.0,"et, uiridis, baccho, collis, et, amoenus, fluentum",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,fluentum,0.143
+ausonius.mosella,22.0,"subter, labor, taceo, rumor, mosellae",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+ausonius.mosella,23.0,"saluus, amnis, laudo, ager, laudo, colonia",6,"1.0, NaN, NaN, 0.0, NaN, NaN",0.167,0.0,,0.0
+ausonius.mosella,24.0,"digno, imperium, debeo, qui, moenia, belgae",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,25.0,"amnis, odorifero, iugum, uiteus, consite, baccho",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,26.0,"consite, gramineus, amnis, uiridissime, ripa",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,27.0,"nauiger, ut, pelagus, deuexas, pronus, in, unda",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,28.0,"ut, fluuius, uitreus, lacus, imitas, profundo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,29.0,"et, riuus, trepido, potio, aequiperaris, meo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,30.0,"et, liquidus, gelidus, fons, praecello, potus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,31.0,"omnis, solus, habeo, qui, fons, qui, riuus, et, amnis",9,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.056,-0.056,,0.0
+ausonius.mosella,32.0,"et, lacus, et, biuius, refluus, manamine, pontus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,33.0,"tu, placidus, praelabor, aqua, neque, murmur, uenio",7,"NaN, 1.0, NaN, 0.0, NaN, NaN, NaN",0.143,0.0,tu,0.143
+ausonius.mosella,34.0,"ullus, neque, occulo, patera, luctamen, saxum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,35.0,"non, spiro, uado, rapidus, properaris, meo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,36.0,"cogo, extantes, medium, non, aequor, terra",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ausonius.mosella,37.0,"intercipio, habeo, iustus, ne, demo, honor",6,"NaN, NaN, 1.0, NaN, NaN, 1.0",0.333,0.0,,0.0
+ausonius.mosella,38.0,"nomen, excludo, si, diuido, insula, flumen",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,39.0,"tu, duplex, sortio, uia, et, cum, amnis, secundus",8,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.125
+ausonius.mosella,40.0,"defluis, ut, celer, ferio, uado, concito, remi",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,41.0,"et, cum, per, ripa, nusquam, cesso, remulcum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,42.0,"intendo, collum, malus, uinculum, nauta",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,,0.0
+ausonius.mosella,43.0,"ipse, tuus, quotiens, miror, in, amnis, recursus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,44.0,"legitimosque, puto, prope, segnis, eo, meo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,45.0,"tu, neque, limigenis, ripa, praetexeris, ulua",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+ausonius.mosella,46.0,"neque, piger, immundus, perfundo, litus, caenum",6,"NaN, NaN, -0.5, NaN, NaN, -0.5",-0.167,-0.167,caenum,0.167
+ausonius.mosella,47.0,"sicco, in, primoris, pergo, uestigium, lympho",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,48.0,"eo, nunc, et, phrygiis, solus, leuis, consero, crusta",8,"NaN, NaN, NaN, NaN, -0.5, 0.0, NaN, NaN",-0.062,-0.062,"phrygiis, crusta",0.25
+ausonius.mosella,49.0,"tendo, marmoreus, laqueatus, per, atrium, campus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,50.0,"at, ego, despicio, qui, census, ops, do",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,51.0,"natura, miror, opus, non, dirus, nepos",6,"0.0, NaN, 0.5, NaN, -1.0, 0.0",-0.083,-0.167,dirus,0.167
+ausonius.mosella,52.0,"laeto, iacio, ubi, luxurio, egestas",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,"luxurio, egestas",0.4
+ausonius.mosella,53.0,"hic, solidus, sterno, umeo, litus, harena",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.167
+ausonius.mosella,54.0,"neque, retineo, memor, uestigium, premo, figura",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+ausonius.mosella,55.0,"specto, uitreus, per, leuis, tergum, profundo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,56.0,"secerno, nihil, amnis, habeo, ut, almus, aperio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,57.0,"pando, intueor, liquidus, obtus, aer",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,58.0,"neque, placidus, prohibeo, oculus, per, inanis, uenio",7,"NaN, 1.0, NaN, 0.0, NaN, NaN, NaN",0.143,0.0,,0.0
+ausonius.mosella,59.0,"sic, demergo, procul, duro, per, intimo, uideo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,demergo,0.143
+ausonius.mosella,60.0,"cerno, arcanus, pateo, penetral, profundo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,61.0,"cum, uado, lenis, meo, liquidaris, et, labor, aqua",8,"NaN, NaN, 1.0, NaN, NaN, NaN, -0.5, 0.0",0.062,-0.062,,0.0
+ausonius.mosella,62.0,"prodeo, caeruleus, dis-permulceo, lux, figura",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,63.0,"qui, sulco, leuis, crispatur, harena, meo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,64.0,"inclino, tremo, uiridis, qui, gramen, fundo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,65.0,"usque, sub, ingenuus, agito, fons, herba",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,ingenuus,0.167
+ausonius.mosella,66.0,"uibro, patior, aqua, luceo, lateo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,67.0,"calculus, et, uiridis, distinguo, glarea, muscus",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,68.0,"totus, caledoniis, talis, pateo, os, britannis",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,69.0,"cum, uiridis, alga, et, rubra, corallia, nudo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,70.0,"aestus, et, albeo, concharis, germino, baca",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,71.0,"deliquia, homo, locupletibus, atque, sub, unda",6,"0.5, 0.0, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+ausonius.mosella,72.0,"ad-simulo, noster, imito, monile, cultus",5,"NaN, NaN, NaN, 0.0, -0.5",-0.1,-0.1,,0.0
+ausonius.mosella,73.0,"haud, aliter, placidus, subter, uado, laetus, mosellae",7,"NaN, NaN, 1.0, NaN, NaN, 1.0, NaN",0.286,0.0,,0.0
+ausonius.mosella,74.0,"detego, admisceo, non, concolor, herba, lapillus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,75.0,"intendo, tamen, usque, oculus, error, fatigo",6,"NaN, NaN, NaN, 0.0, -1.0, NaN",-0.167,-0.167,,0.0
+ausonius.mosella,76.0,"interludentes, examino, lubricus, piscis",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,77.0,"sed, neque, tot, species, obliquatosque, nato",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,78.0,"quisque, per, aduerro, succedo, agmen, flumen",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+ausonius.mosella,79.0,"nomino, et, cunctus, numerosus, stirps, alumnus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,80.0,"edo, fas, aut, ille, sino, qui, cura, secundus",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, 0.0",-0.125,-0.125,,0.0
+ausonius.mosella,81.0,"sors, et, aequoreus, cedo, tutela, tridens",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+ausonius.mosella,82.0,"tu, ego, flumineus, habitatrix, nautilus, in, ora",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, flumineus",0.286
+ausonius.mosella,83.0,"squamigeri, grex, edo, chorus, liquidus, sub, alueus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,84.0,"dissero, caeruleus, fluito, amnis, caterua",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,fluito,0.2
+ausonius.mosella,85.0,"squameus, herbosus, capito, inter, luceo, harena",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,86.0,"uisco, praetenero, fartim, congero, arista",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,87.0,"neque, duro, post, bini, trihoria, mensis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,88.0,"purpureus, salo, stellatus, tergora, gutta",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,stellatus,0.2
+ausonius.mosella,89.0,"et, nullus, spina, noceo, acumen, rhedo",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,noceo,0.167
+ausonius.mosella,90.0,"effugiensque, oculus, celer, leuis, umbra, nato",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,91.0,"iuque, per, obliquus, fauces, uexate, saraui",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,92.0,"qui, bis, terni, fremo, scopulosus, ostium, pila",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,93.0,"cum, defluxisti, fama, magnus, in, amnis",6,"NaN, NaN, 1.0, 0.0, NaN, NaN",0.167,0.0,,0.0
+ausonius.mosella,94.0,"liber, laxus, exerceo, barbe, nato",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+ausonius.mosella,95.0,"tu, bonus, malus, aeuum, tu, contingo, omnis",7,"NaN, 1.0, -1.0, NaN, NaN, NaN, NaN",0.0,-0.143,"tu, tu",0.286
+ausonius.mosella,96.0,"spirantum, ex, numerus, non, illaudatus, senectus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,97.0,"neque, tu, puniceus, rutilo, uisco, salmo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, puniceus",0.333
+ausonius.mosella,98.0,"transeo, fero, qui, uago, uerbero, cauda",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uerbero,0.167
+ausonius.mosella,99.0,"gurges, de, medium, superus, refero, in, unda",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,gurges,0.143
+ausonius.mosella,100.0,"occulo, placidus, cum, prodeo, aequor, pello",6,"NaN, 1.0, NaN, NaN, 0.0, NaN",0.167,0.0,,0.0
+ausonius.mosella,101.0,"tu, loricato, squamosus, pectus, frons",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,tu,0.2
+ausonius.mosella,102.0,"lubricus, et, dubius, facio, ferculum, cena",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+ausonius.mosella,103.0,"tempus, longaris, fero, incorruptus, moraris",5,"0.0, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+ausonius.mosella,104.0,"praesignis, maculis, capio, qui, prodigus, nuto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,105.0,"aluus, opimatoque, fluo, abdomen, uenter",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,106.0,"quisque, per, illyricus, per, stagnum, binominis, histri",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,stagnum,0.143
+ausonius.mosella,107.0,"spumaris, indicium, capio, mustela, natantum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,108.0,"in, nos, subueho, fretus, ne, laetus, mosellae",7,"NaN, NaN, NaN, 0.5, NaN, 1.0, NaN",0.214,0.0,,0.0
+ausonius.mosella,109.0,"flumen, tam, celeber, defrudarentur, alumnus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,110.0,"quis, tu, natura, pingo, color, ater, supernus",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.143
+ausonius.mosella,111.0,"pungo, noto, tergum, qui, luteus, circumeo, iris",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,112.0,"lubricus, caeruleus, perduco, tergora, fucus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,113.0,"corpus, ad, medius, fartim, pinguescis, at, illinc",7,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,114.0,"usque, sub, extremus, squaleo, cutis, aridus, cauda",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,cutis,0.143
+ausonius.mosella,115.0,"neque, tu, deliquia, mensaris, perca, sileo",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,tu,0.167
+ausonius.mosella,116.0,"amnigenos, inter, piscis, dignande, marinus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,117.0,"solus, puniceus, facilis, contendo, mullus",5,"-0.5, NaN, 0.5, NaN, NaN",0.0,-0.1,puniceus,0.2
+ausonius.mosella,118.0,"nam, neque, gustus, iners, solidus, in, corpus, pars",8,"NaN, NaN, NaN, 0.0, 0.0, NaN, 0.0, 0.0",0.0,0.0,iners,0.125
+ausonius.mosella,119.0,"segmentum, coeo, sed, dissociantur, arista",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,120.0,"hic, etiam, latium, rideo, praenomen, cultor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+ausonius.mosella,121.0,"stagnum, querulis, uolo, infestus, rana",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,stagnum,0.2
+ausonius.mosella,122.0,"lucius, obscuro, ulua, caenum, lacuna",5,"NaN, NaN, NaN, -0.5, 0.0",-0.1,-0.1,caenum,0.2
+ausonius.mosella,123.0,"obsido, hic, nullus, mensaris, lego, ad, utor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+ausonius.mosella,124.0,"ferueo, fumosus, olidus, nidor, popina",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,125.0,"quis, non, et, uiridis, uulgus, solacium, tinea",7,"NaN, NaN, NaN, NaN, 0.0, 1.0, NaN",0.143,0.0,,0.0
+ausonius.mosella,126.0,"nosco, et, alburnos, praeda, puerilis, hamus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,127.0,"strideo, focus, obsonium, plebs, alausas",5,"NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,128.0,"tu, inter, species, gemino, neuter, et, uterque",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+ausonius.mosella,129.0,"qui, neque, dum, salmo, neque, iam, salo, ambiguusque",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,130.0,"ambo, medium, sario, intercepte, sub, aeuum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,131.0,"tu, quoque, flumineus, inter, memoro, cohors",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, flumineus",0.333
+ausonius.mosella,132.0,"gobio, non, geminus, magnus, sine, polliceo, palma",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,133.0,"praepinguis, tero, ouipara, congestior, aluus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,134.0,"propexique, iuba, imitor, gobio, barbi",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,135.0,"nunc, pecus, aequoreus, celebro, magnus, silure",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,136.0,"qui, uelut, actaeo, perduco, tergora, oliuum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,137.0,"amnicolam, delphina, reor, sic, per, fretus, magnus",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 0.0",0.071,0.0,,0.0
+ausonius.mosella,138.0,"labor, et, longus, uix, corpus, agmen, soluo",7,"-0.5, NaN, 0.0, NaN, 0.0, -1.0, NaN",-0.214,-0.214,,0.0
+ausonius.mosella,139.0,"aut, breuis, deprensa, uado, aut, flumen, ulua",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,140.0,"at, cum, tranquillus, molior, in, amnis, meo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,141.0,"tu, uiridis, ripa, tu, caerulus, turba, natantum",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"tu, tu, caerulus",0.429
+ausonius.mosella,142.0,"tu, liquidus, miror, aqua, diffundo, alueus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.167
+ausonius.mosella,143.0,"aestus, et, extremus, procurro, margo, fluctus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,144.0,"talis, atlantiaco, quondam, ballena, profundo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,145.0,"cum, uenio, motuue, suus, tellus, ad, ora",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,146.0,"pello, excludo, exundo, mare, magnus, surgo",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,exundo,0.167
+ausonius.mosella,147.0,"aequor, uicinus, timeo, decresco, mons",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,148.0,"hic, tamen, hic, noster, mitis, ballena, mosellae",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,"hic, hic",0.286
+ausonius.mosella,149.0,"exitium, procul, sum, magnus, honor, addo, amnis",7,"-1.0, NaN, NaN, 0.0, 1.0, NaN, NaN",0.0,-0.143,,0.0
+ausonius.mosella,150.0,"iam, liquidus, specto, uia, et, lubricus, piscis",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,151.0,"agmen, multiplico, satis, numero, caterua",5,"-1.0, NaN, 0.5, NaN, NaN",-0.1,-0.2,,0.0
+ausonius.mosella,152.0,"induco, alius, spectaculum, uiteus, pompa",5,"NaN, NaN, 0.0, NaN, 0.5",0.1,0.0,spectaculum,0.2
+ausonius.mosella,153.0,"sollicito, uagus, baccheia, munus, uideo",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+ausonius.mosella,154.0,"qui, sublimis, apex, longus, super, arduus, traho",7,"NaN, 0.5, NaN, 0.0, NaN, NaN, NaN",0.071,0.0,,0.0
+ausonius.mosella,155.0,"et, rupes, et, apricus, iugo, flecto, sinus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,156.0,"uitis, assurgo, naturalis, theatrum",4,"NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,157.0,"gauranum, sic, almus, iugum, uindemio, uestio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uestio,0.167
+ausonius.mosella,158.0,"et, rhodope, -ne, proprius, niteo, pangaea, lyaeo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,159.0,"sic, uireo, ismarius, super, aequor, thracia, collis",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,160.0,"sic, meus, flaueo, pingo, uinetum, garumnam",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,161.0,"summus, quippe, iugum, tendo, in, ulter, cliuus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,162.0,"consero, uiridis, fluuial, margo, lyaeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,163.0,"laetus, opus, plebs, festinantesque, colonus",5,"1.0, 0.5, 0.0, NaN, 0.0",0.3,0.0,,0.0
+ausonius.mosella,164.0,"uertex, nunc, superus, propero, nunc, deiuge, dorsum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,165.0,"certo, stolidus, clamor, inde, uiator",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,stolidus,0.2
+ausonius.mosella,166.0,"riparis, subiectum, tero, hinc, nauta, labor",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+ausonius.mosella,167.0,"probrum, cano, sero, cultor, adstrepit, ille",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,probrum,0.167
+ausonius.mosella,168.0,"et, rupes, et, silua, tremo, et, concauus, amnis",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,169.0,"neque, solus, homo, delecto, scaena, locus",6,"NaN, -0.5, 0.0, NaN, NaN, 0.0",-0.083,-0.083,,0.0
+ausonius.mosella,170.0,"hic, ego, et, agrestis, satyrus, et, glaucus, tueor",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, glaucus",0.25
+ausonius.mosella,171.0,"naidas, exter, credo, concurro, ripa",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,172.0,"capripedes, agito, cum, laetus, proteruia, panas",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+ausonius.mosella,173.0,"insultantque, uado, trepido, sub, amnis, soror",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,174.0,"terreo, indocilis, pulso, uerber, fluctus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,uerber,0.2
+ausonius.mosella,175.0,"saepe, etiam, medius, furor, e, collis, labrusca",7,"NaN, NaN, 0.0, -1.0, NaN, NaN, NaN",-0.143,-0.143,furor,0.143
+ausonius.mosella,176.0,"inter, oreiadas, panope, fluuial, amica",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,177.0,"fugio, lasciuus, paganicus, numen, faunos",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,lasciuus,0.2
+ausonius.mosella,178.0,"dico, et, medium, cum, sol, sto, igneus, orbis",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,179.0,"ad, communis, fretus, satyrus, uitreus, soror",6,"NaN, 0.0, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+ausonius.mosella,180.0,"consortes, celebraris, chorus, cum, praebeo, hora",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,181.0,"secerno, homo, coitus, flagro, aestus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,182.0,"tu, -ne, insulto, suus, per, fretus, ludo, nympha",8,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.062,0.0,tu,0.125
+ausonius.mosella,183.0,"et, satyrus, mersaris, uado, rudis, nato",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+ausonius.mosella,184.0,"per, medius, exeo, manus, dum, lubricus, fallo",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,fallo,0.143
+ausonius.mosella,185.0,"membrum, peto, liquidus, faueo, pro, corpus, fluctus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ausonius.mosella,186.0,"sed, non, hic, specto, ullus, neque, cognosco, uideo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+ausonius.mosella,187.0,"fas, ego, sum, pro, pars, loquor, secerno, tego",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,188.0,"et, committo, suus, lateo, reuerendus, riuus",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+ausonius.mosella,189.0,"ille, fruor, palam, species, cum, glaucus, opacus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,glaucus,0.143
+ausonius.mosella,190.0,"respondeo, collum, fluuius, frondeo, uideo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,191.0,"flumineus, latex, et, palmes, consero, amnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,flumineus,0.167
+ausonius.mosella,192.0,"quis, color, ille, uado, serus, cum, propello, umbra",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,193.0,"hesperus, et, uiridis, perfundo, mons, mosellam",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,194.0,"totus, nato, crispus, iugum, motus, et, tremo, absum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,195.0,"pampinus, et, uitreus, uindemio, turget, in, unda",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,196.0,"ad-numero, uiridis, derideo, nauta, uito",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,derideo,0.2
+ausonius.mosella,197.0,"nauta, caudiceo, fluito, super, aequor, lembus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,fluito,0.167
+ausonius.mosella,198.0,"per, medius, qui, sui, amnis, confundo, imago",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,199.0,"collis, et, umbraris, confine, consero, amnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,200.0,"hic, quoque, quam, dulcis, celebro, spectaculum, pompa",7,"NaN, NaN, NaN, 0.5, NaN, 0.0, 0.5",0.143,0.0,"hic, spectaculum",0.286
+ausonius.mosella,201.0,"remipedes, medium, certo, cum, flumen, lembus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,202.0,"et, uarius, ineo, flecto, uiridis, per, ora",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,203.0,"stringo, attondeo, pubentia, germino, pratum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,204.0,"puppis, et, prora, alacer, gestio, magister",6,"NaN, NaN, NaN, 1.0, NaN, 0.5",0.25,0.0,,0.0
+ausonius.mosella,205.0,"impubes, manus, super, amnicus, tergum, uago",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,impubes,0.167
+ausonius.mosella,206.0,"dum, specto, uiridis, qui, surgo, ripa, colonus, non, sentio, transeo, dies, suus, seria, ludo",14,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,seria,0.071
+ausonius.mosella,207.0,"posthabet, excludo, uetus, nouo, gratia, cura",6,"NaN, NaN, 0.0, NaN, 1.0, -1.0",0.0,-0.167,,0.0
+ausonius.mosella,208.0,"qualis, cumanus, despecto, in, aequor, ludus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,209.0,"liber, sulphurei, cum, per, iugum, consero, gauri",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+ausonius.mosella,210.0,"per, uaporiferi, gradior, uinetum, ueseui",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,211.0,"cum, uenus, actiacis, augustus, laetus, triumphus",6,"NaN, 1.0, NaN, 1.0, 1.0, NaN",0.5,0.0,,0.0
+ausonius.mosella,212.0,"ludo, lasciuus, ferus, proelio, iubeo, amor",6,"NaN, NaN, -1.0, NaN, NaN, 1.0",0.0,-0.167,"lasciuus, ferus",0.333
+ausonius.mosella,213.0,"qualis, niliacae, classis, latiaeque, triremis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,classis,0.2
+ausonius.mosella,214.0,"subter, apollineae, gero, leucados, arx",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,215.0,"aut, pompeianus, mylasena, periculum, bellum",5,"NaN, NaN, NaN, -1.0, 0.0",-0.2,-0.2,,0.0
+ausonius.mosella,216.0,"euboicus, refero, per, a-uerno, sono, cumbae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,217.0,"innocuus, ratis, pello, pugno, iocor",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+ausonius.mosella,218.0,"naumachia, siculo, qualis, specto, peloro",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,naumachia,0.2
+ausonius.mosella,219.0,"caeruleus, uiridis, reparo, sub, imago, pontus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,220.0,"non, alius, species, petulans, addo, ephebus",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,"petulans, ephebus",0.333
+ausonius.mosella,221.0,"pubertasque, amnis, et, pingo, rostrum, phaselis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,222.0,"hic, hyperionio, cum, sol, perfundo, aestus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+ausonius.mosella,223.0,"reddo, nautal, uitreus, sub, gurges, forma",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,gurges,0.167
+ausonius.mosella,224.0,"et, redigo, pando, inuerto, corpus, umbra",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,inuerto,0.167
+ausonius.mosella,225.0,"ut, agilis, moueo, dextera, laeua, frequento",6,"NaN, 0.5, NaN, 0.0, NaN, NaN",0.083,0.0,,0.0
+ausonius.mosella,226.0,"et, commutas, alterno, pondero, remi",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,227.0,"unda, refero, alius, simulacrum, umeo, nauta",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,228.0,"ipse, suus, gaudeo, simulamine, nauticus, pubes",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,229.0,"fallax, fluuius, miror, redeo, figura",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,,0.0
+ausonius.mosella,230.0,"sic, ubi, compono, ostentatura, capillus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,capillus,0.2
+ausonius.mosella,231.0,"candeo, latus, speculis, explorantis, honor",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+ausonius.mosella,232.0,"cum, primus, carus, nutrix, admoueo, alumna",6,"NaN, 0.5, 1.0, NaN, NaN, 0.0",0.25,0.0,,0.0
+ausonius.mosella,233.0,"laetus, ignorato, fruor, uirguncula, ludo",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+ausonius.mosella,234.0,"germana, puto, forma, specto, puella",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+ausonius.mosella,235.0,"osculum, fulgeo, do, non, refero, metallum",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,236.0,"aut, figo, praetempto, acus, aut, frons, ad, ora",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,237.0,"uibro, capto, digitus, extendo, crinis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,238.0,"talis, ad, umbraris, ludibrium, nauticus, pubes",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,ludibrium,0.167
+ausonius.mosella,239.0,"ambiguus, fruor, uerus, fallo, figura",5,"-0.5, NaN, 0.5, NaN, NaN",0.0,-0.1,fallo,0.2
+ausonius.mosella,240.0,"iam, uerus, accedo, facilis, qui, ripa, ministro",7,"NaN, 0.5, NaN, 0.5, NaN, NaN, NaN",0.143,0.0,,0.0
+ausonius.mosella,241.0,"scrutor, totus, populatrix, turba, profundo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,242.0,"heu, malus, defendo, penetralis, flumen, piscis",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,heu,0.167
+ausonius.mosella,243.0,"hic, medium, procul, amnis, traho, umeo, linum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+ausonius.mosella,244.0,"nodosus, decipio, plaga, examino, uerro",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,decipio,0.2
+ausonius.mosella,245.0,"at, hic, tranquillus, qui, labor, agmen, flumen",7,"NaN, NaN, NaN, NaN, -0.5, -1.0, NaN",-0.214,-0.214,hic,0.143
+ausonius.mosella,246.0,"duco, corticeis, fluito, rete, signum",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,fluito,0.2
+ausonius.mosella,247.0,"ille, autem, scopulus, deicio, pronus, in, unda",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,248.0,"inclino, lentus, conuexus, cacumen, uirga",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+ausonius.mosella,249.0,"induco, esca, iacio, letal, hamus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,250.0,"qui, ignarus, dolus, postquam, uago, turba, natantum",7,"NaN, -1.0, NaN, NaN, NaN, 0.0, NaN",-0.143,-0.143,dolus,0.143
+ausonius.mosella,251.0,"rictus, inuado, patulaeque, per, intimo, fauces",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,252.0,"serus, occultas, sentio, uulnero, fero",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,253.0,"dum, trepido, subeo, indicium, crispoque, tremori",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,254.0,"uibro, saeta, nuto, consentio, harundo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,saeta,0.2
+ausonius.mosella,255.0,"neque, mora, et, excutio, strideo, uerber, praeda",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uerber,0.143
+ausonius.mosella,256.0,"dexter, in, obliquus, rapto, puer, excipio, ictus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,257.0,"spiritus, ut, rapio, quondam, per, inanis, flagellum",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,258.0,"aura, crepo, moueo, ad-sibilo, aer, uenio",6,"1.0, NaN, NaN, NaN, 0.0, NaN",0.167,0.0,,0.0
+ausonius.mosella,259.0,"exultant, udus, super, aridus, saxum, rapina",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"udus, rapina",0.333
+ausonius.mosella,260.0,"luciferique, paueo, letalis, telum, dies",5,"NaN, NaN, -1.0, NaN, 0.0",-0.2,-0.2,,0.0
+ausonius.mosella,261.0,"quisque, sub, amnis, suus, maneo, uigor, aer, noster",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,262.0,"segnis, anhelo, uita, consumo, in, auris",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,263.0,"iam, piger, inualidus, uibro, corpus, plaudo",6,"NaN, NaN, -1.0, NaN, 0.0, NaN",-0.167,-0.167,,0.0
+ausonius.mosella,264.0,"torpida, superus, patior, iam, cauda, tremor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,265.0,"neque, coeo, rictus, haurio, sed, hiatus, aura",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,hiatus,0.143
+ausonius.mosella,266.0,"reddo, mortiferos, expirans, branchia, flo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,expirans,0.2
+ausonius.mosella,267.0,"sic, ubi, fabrilis, exerceo, spiritus, ignis",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ausonius.mosella,268.0,"accipio, alterno, cohibeo, foramen, uenio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,269.0,"laneus, fagineis, ad-ludo, parma, cauerna",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,cauerna,0.2
+ausonius.mosella,270.0,"uideo, nos, quidam, letum, sub, finis, tremo",7,"NaN, NaN, NaN, -1.0, NaN, 0.0, NaN",-0.143,-0.143,,0.0
+ausonius.mosella,271.0,"colligo, anima, mox, in, sublimis, cito",6,"NaN, 0.5, NaN, NaN, 0.5, NaN",0.167,0.0,,0.0
+ausonius.mosella,272.0,"cernua, subicio, praeceps, do, corpus, in, amnis",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,273.0,"desperataris, potientes, rursus, aqua",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,274.0,"qui, impos, damnum, puer, inconsultus, ab, altus",7,"NaN, NaN, -1.0, 0.0, -0.5, NaN, 0.5",-0.143,-0.214,inconsultus,0.143
+ausonius.mosella,275.0,"impeto, et, stolidus, capto, prensaris, nato",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,stolidus,0.167
+ausonius.mosella,276.0,"sic, anthedonius, boeotia, per, fretus, glaucus",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,glaucus,0.167
+ausonius.mosella,277.0,"gramen, gusto, postquam, exitialis, circo",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+ausonius.mosella,278.0,"experior, carpo, moribundus, piscis, herba",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,279.0,"sumo, carpathium, subeo, nouus, accola, pontus",6,"NaN, NaN, NaN, 1.0, NaN, 0.0",0.167,0.0,,0.0
+ausonius.mosella,280.0,"ille, hamus, et, reor, possum, scrutator, operio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,281.0,"nereos, aequoreus, soleo, conuerro, tethy, -ne",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,282.0,"inter, captiua, fluito, praedo, caterua",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"captiua, fluito",0.4
+ausonius.mosella,283.0,"talis, despecto, longus, per, caerulus, traho",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,caerulus,0.167
+ausonius.mosella,284.0,"pendeo, saxum, insto, culmen, uilla",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,285.0,"qui, medius, dirimo, sinuosus, flexus, erro",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,286.0,"amnis, et, alterno, como, praetorius, ripa",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,287.0,"quis, modo, sestiacum, pelagus, nepheleidos, helles",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,288.0,"aequor, abydeni, fretus, quis, miro, ephebus",6,"0.0, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,ephebus,0.167
+ausonius.mosella,289.0,"quis, chalcedonio, consterno, ab, litus, pontus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,290.0,"rex, opus, magnus, medius, euripus, ubi, unda",7,"0.0, 0.5, 0.0, 0.0, NaN, NaN, 0.0",0.071,0.0,,0.0
+ausonius.mosella,291.0,"europaeque, asia, ueto, concurro, terra",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,292.0,"non, hic, dirus, fretus, rabio, non, saeuus, furentum",8,"NaN, NaN, -1.0, 0.5, NaN, NaN, -1.0, NaN",-0.188,-0.25,"hic, dirus, rabio, saeuus",0.5
+ausonius.mosella,293.0,"proelio, caurorum, licet, hic, commercium, lingua",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,hic,0.167
+ausonius.mosella,294.0,"iungo, et, alterno, sermo, tego, pello",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+ausonius.mosella,295.0,"blandus, salutifer, permisceo, litus, uoco",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+ausonius.mosella,296.0,"et, uoco, et, paene, manus, resono, utrimque",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,297.0,"uerbum, refero, concurro, fluctus, echo",5,"0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,298.0,"quis, potio, innumerus, colo, habeo, retexens",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,299.0,"pando, tectonicas, per, singulus, praedium, forma",6,"NaN, NaN, NaN, 0.0, 0.0, 1.0",0.167,0.0,praedium,0.167
+ausonius.mosella,300.0,"non, hic, sperno, opus, gortynius, aliger, aedes",7,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0",0.071,0.0,hic,0.143
+ausonius.mosella,301.0,"conditor, euboicus, casus, qui, fingo, in, aurum",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.5",0.071,0.0,fingo,0.143
+ausonius.mosella,302.0,"conor, icarios, patrius, pello, dolor",5,"NaN, NaN, 0.0, NaN, -1.0",-0.2,-0.2,,0.0
+ausonius.mosella,303.0,"non, philus, cecropius, non, qui, laudo, ab, hostis",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,,0.0
+ausonius.mosella,304.0,"clarus, syracosii, traho, certamen, bellum",5,"0.5, NaN, NaN, 0.5, 0.0",0.2,0.0,,0.0
+ausonius.mosella,305.0,"forsan, et, insignis, homo, opus, labor",6,"NaN, NaN, 0.0, 0.0, 0.5, -0.5",0.0,-0.083,,0.0
+ausonius.mosella,306.0,"hic, habeo, decimus, celebro, uolumen, marcei",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+ausonius.mosella,307.0,"hebdomas, hic, clarus, uigesco, menecrates, ars",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,hic,0.167
+ausonius.mosella,308.0,"atque, ephesus, specto, manus, uel, in, arx, mineruae",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,309.0,"ictinus, magicus, qui, noctua, perlito, fuco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fuco,0.167
+ausonius.mosella,310.0,"adlicit, omnis, genus, uolucris, perimitque, tueor",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,311.0,"conditor, hic, forsan, sum, ptolomaidos, aula",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+ausonius.mosella,312.0,"dinocharis, quadro, qui, in, fastigium, conus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,313.0,"surgo, ipse, suus, consumo, pyramis, umbra",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,314.0,"iubeo, ob, incestus, qui, quondam, foedus, amor",7,"NaN, NaN, NaN, NaN, NaN, -1.0, 1.0",0.0,-0.143,incestus,0.143
+ausonius.mosella,315.0,"arsinoe, -ne, pharii, suspendo, in, aer, templum",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,316.0,"spiro, enim, tectum, testudo, uirus, achates",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,317.0,"adflatamque, traho, ferratus, crinis, puella",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,318.0,"hic, ergo, aut, hic, similis, sum, credo, dignus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 1.0",0.125,0.0,"hic, hic",0.25
+ausonius.mosella,319.0,"belgae, in, terra, scaena, pono, domorum",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,320.0,"molio, celsus, fluuius, decoramina, uilla",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,321.0,"hic, sum, natura, sublimis, in, aggero, saxum",7,"NaN, NaN, 0.0, 0.5, NaN, NaN, 0.0",0.071,0.0,hic,0.143
+ausonius.mosella,322.0,"hic, procurro, fundo, crepido, ripa",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.2
+ausonius.mosella,323.0,"hic, refugio, capio, sinus, sui, uindico, amnis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+ausonius.mosella,324.0,"ille, teneo, collis, qui, multus, immineo, amnis",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,325.0,"usurpo, facilis, per, colo, per, asper, uideo",7,"NaN, 0.5, NaN, NaN, NaN, -0.5, NaN",0.0,-0.071,,0.0
+ausonius.mosella,326.0,"ut, suus, fruor, diues, speculatio, terra",6,"NaN, NaN, NaN, 0.5, NaN, 0.0",0.083,0.0,,0.0
+ausonius.mosella,327.0,"quin, etiam, riguus, humilis, pes, condio, pratum",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,humilis,0.143
+ausonius.mosella,328.0,"compenso, celsus, bonus, naturale, mons",5,"NaN, NaN, 1.0, 0.0, NaN",0.2,0.0,,0.0
+ausonius.mosella,329.0,"sublimique, mino, irrumpo, in, aether, tectum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,330.0,"ostento, alo, pharos, ut, memphitica, turris",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,331.0,"hic, proprius, claudo, consaepio, gurges, piscis",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"hic, gurges",0.333
+ausonius.mosella,332.0,"apricus, scopulus, inter, captaris, noual",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,333.0,"hic, summus, innitor, iugum, labor, subter",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,hic,0.167
+ausonius.mosella,334.0,"flumen, despicio, iam, caligo, tueor",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,,0.0
+ausonius.mosella,335.0,"atrium, quis, memoro, uiridantibus, assitus, pratum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,336.0,"innumerus, super, niteo, tectum, columna",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,337.0,"quis, qui, flumineus, substruo, crepido, fumo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,flumineus,0.167
+ausonius.mosella,338.0,"balneum, ferueo, cum, mulciber, haurio, operio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,339.0,"uoluo, anhelatas, tectorium, per, cauo, flamma",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tectorium,0.167
+ausonius.mosella,340.0,"includo, glomero, aestus, spiro, uaporo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,341.0,"uideo, ego, defatiscor, multus, sudor, lauacrum",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,342.0,"fastidisse, lacus, et, frigus, piscinaris",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,343.0,"ut, uiuo, fruor, aqua, mox, amnis, refotos",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,344.0,"plaudenti, gelidus, flumen, pello, nato",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,345.0,"qui, si, cumanis, huc, adsum, hospes, ab, ora",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,346.0,"credo, euboicas, simulacrum, exsilium, baiae",5,"NaN, NaN, 0.0, -1.0, NaN",-0.2,-0.2,,0.0
+ausonius.mosella,347.0,"hic, dono, locus, tantus, colo, nitor",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,hic,0.167
+ausonius.mosella,348.0,"adlicit, et, nullus, pario, oblectatio, luxus",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,luxus,0.167
+ausonius.mosella,349.0,"sed, ego, qui, tandem, finis, tuus, glaucus, fluentum",8,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,"glaucus, fluentum",0.25
+ausonius.mosella,350.0,"dico, dignandumque, mare, memoro, mosellam",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,351.0,"innumerus, qui, tu, diuerto, per, ostium, latus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+ausonius.mosella,352.0,"incurro, amnis, quamquam, differo, meo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,353.0,"possum, sed, celero, in, tu, consumo, nomen",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+ausonius.mosella,354.0,"namque, et, promeae, nemesaeque, adiuuo, meo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,355.0,"sura, tuus, propero, non, degener, eo, sub, unda",8,"NaN, 0.0, NaN, NaN, -1.0, NaN, NaN, 0.0",-0.125,-0.125,,0.0
+ausonius.mosella,356.0,"sura, intercipio, tu, gratificor, fluo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+ausonius.mosella,357.0,"nobilis, permisceo, tuus, sub, nomen, quam, si",7,"1.0, NaN, 0.0, NaN, 0.0, NaN, NaN",0.143,0.0,,0.0
+ausonius.mosella,358.0,"ignoro, pater, contendo, ostium, pontus",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,359.0,"tu, rapidus, celbis, tu, marmor, clarus, erubris",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,"tu, tu",0.286
+ausonius.mosella,360.0,"festino, famulis, quam, primus, adlambere, lympha",6,"NaN, NaN, NaN, 0.5, NaN, 0.0",0.083,0.0,,0.0
+ausonius.mosella,361.0,"nobilis, celbis, celebro, piscis, ille",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+ausonius.mosella,362.0,"praeceps, torqueo, cerealia, saxum, roto",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,363.0,"strideo, traho, per, leuis, marmoro, serro",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,364.0,"audio, perpetuus, ripa, ex, uter, tumultus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,365.0,"praetereo, exilis, lesuram, tenuis, drahonum",5,"NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,366.0,"neque, fastidio, salmonae, usurpo, fluor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,367.0,"nauiger, undisona, dudum, ego, moles, sarauus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,368.0,"totus, uestis, uoco, longus, qui, differo, amnis",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,uestis,0.143
+ausonius.mosella,369.0,"fessus, sub, augustus, ut, uolueret, ostium, murus",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+ausonius.mosella,370.0,"neque, paruus, hic, taceo, qui, per, solus, pinguis, labor",9,"NaN, 0.0, NaN, NaN, NaN, NaN, -0.5, NaN, -0.5",-0.111,-0.111,hic,0.111
+ausonius.mosella,371.0,"stringo, frugifer, felix, alisontia, ripa",5,"NaN, 1.0, 1.0, NaN, NaN",0.4,0.0,,0.0
+ausonius.mosella,372.0,"mille, alius, prout, quisque, suus, magis, impetus, urgeo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,373.0,"sum, tuus, cupio, tantus, propero, unda",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,374.0,"ambitus, aut, mos, qui, si, tu, dius, mosella",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,tu,0.125
+ausonius.mosella,375.0,"smyrna, suus, uates, uel, mantua, clarus, do",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+ausonius.mosella,376.0,"cedo, iliacus, simois, memoro, in, ora",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,377.0,"neque, praefero, suus, audeo, thybris, honor",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+ausonius.mosella,378.0,"do, uenio, do, roma, possum, pello, oro, facesso",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,379.0,"inuidia, et, latiae, nemesis, non, cognosco, lingua, contingo, hic, bonus, thybris, tu, gloria, qui, tu",15,"-1.0, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, 1.0, NaN, NaN, 0.0, NaN, NaN",-0.033,-0.1,"inuidia, hic, tu, tu",0.267
+ausonius.mosella,380.0,"imperium, sedes, romaeque, tueor, penates",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,381.0,"saluus, magnus, parens, frugumque, uir, mosella",6,"1.0, 0.0, 0.5, NaN, 0.5, NaN",0.333,0.0,,0.0
+ausonius.mosella,382.0,"tu, clarus, proceres, tu, bellum, exerceo, pubes",7,"NaN, 0.5, NaN, NaN, 0.0, NaN, NaN",0.071,0.0,"tu, tu",0.286
+ausonius.mosella,383.0,"aemulo, tu, latiae, decoro, facundia, lingua",6,"NaN, NaN, NaN, NaN, 1.0, -0.5",0.083,-0.083,tu,0.167
+ausonius.mosella,384.0,"quin, etiam, mos, et, laetus, frons, serenus",7,"NaN, NaN, 0.5, NaN, 1.0, 0.0, NaN",0.214,0.0,,0.0
+ausonius.mosella,385.0,"ingenium, natura, tuus, concedo, alumnus",5,"0.5, 0.0, 0.0, NaN, NaN",0.1,0.0,,0.0
+ausonius.mosella,386.0,"neque, solus, antiqui, ostento, roma, catones",6,"NaN, -0.5, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+ausonius.mosella,387.0,"aut, unus, tantus, iustus, spectator, et, aequum",7,"NaN, NaN, NaN, 1.0, NaN, NaN, 0.5",0.214,0.0,,0.0
+ausonius.mosella,388.0,"polleo, aristides, uetus, in-lustro, athenae",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,389.0,"uerus, ego, quis, laxus, nimium, spatior, habena",7,"0.5, NaN, NaN, NaN, 0.0, NaN, NaN",0.071,0.0,,0.0
+ausonius.mosella,390.0,"uinco, amor, tuus, praeconium, detero, condo",6,"NaN, 1.0, 0.0, 0.0, NaN, NaN",0.167,0.0,,0.0
+ausonius.mosella,391.0,"musa, chely, -ne, pello, exter, carmen, no",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,392.0,"tempus, sum, cum, ego, studium, ignobilis, otium",7,"0.0, NaN, NaN, NaN, 0.5, -1.0, 0.5",0.0,-0.143,otium,0.143
+ausonius.mosella,393.0,"mulceo, cura, seniique, apricus, fouentem",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,,0.0
+ausonius.mosella,394.0,"materia, commendo, honor, cum, facio, uiritim",6,"0.0, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+ausonius.mosella,395.0,"belgae, patrius, cano, decus, inclutus, mos",6,"NaN, 0.0, NaN, NaN, 0.5, 0.5",0.167,0.0,,0.0
+ausonius.mosella,396.0,"mollis, subtilis, nebunt, ego, carmen, filum",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,397.0,"pierides, teneo, apto, subtemen, tela",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,398.0,"percurro, do, noster, quoque, purpura, fundo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,399.0,"quis, ego, tum, non, dico, sum, memoro, quiesco",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,400.0,"agricola, lex, catus, for, potens",5,"NaN, 0.5, 1.0, NaN, 1.0",0.5,0.0,,0.0
+ausonius.mosella,401.0,"praesidium, sublimis, redeo, qui, curia, summus",6,"NaN, 0.5, NaN, NaN, -1.0, NaN",-0.083,-0.167,,0.0
+ausonius.mosella,402.0,"municipum, uideo, proceres, proprius, senatus",5,"NaN, NaN, NaN, 0.0, 0.5",0.1,0.0,,0.0
+ausonius.mosella,403.0,"qui, praetextas, celeber, facundia, ludo",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+ausonius.mosella,404.0,"confero, ad, ueto, praeconium, quintiliani",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,405.0,"quisque, suus, rego, urbs, purus, tribunal",6,"NaN, NaN, NaN, 0.5, 1.0, 0.0",0.25,0.0,,0.0
+ausonius.mosella,406.0,"sanguis, et, innocuus, in-lustro, securis",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+ausonius.mosella,407.0,"aut, italus, populus, aquilonigenasque, britannos",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,408.0,"praefecturaris, titulus, teneo, secundus",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,409.0,"quisque, caput, res, roma, populus, patro",6,"NaN, 0.0, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,410.0,"tantus, non, primus, rego, sub, nomen, quiuis",7,"NaN, NaN, 0.5, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+ausonius.mosella,411.0,"par, sum, primus, festino, soluo, tandem",6,"0.5, NaN, 0.5, NaN, NaN, NaN",0.167,0.0,,0.0
+ausonius.mosella,412.0,"error, fortuna, suus, libo, supplens",5,"-1.0, 0.0, NaN, NaN, NaN",-0.2,-0.2,,0.0
+ausonius.mosella,413.0,"praemium, iam, uerus, fastigium, reddo, honor",6,"1.0, NaN, 0.5, NaN, NaN, 1.0",0.417,0.0,,0.0
+ausonius.mosella,414.0,"nobilis, repeto, nepos, at, modo, coepio",6,"1.0, NaN, 0.0, NaN, NaN, NaN",0.167,0.0,,0.0
+ausonius.mosella,415.0,"detexatur, opus, differo, et, laus, uir",6,"NaN, 0.5, NaN, NaN, 1.0, 0.5",0.333,0.0,,0.0
+ausonius.mosella,416.0,"dico, laeto, per, rus, uireo, traho",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,417.0,"felix, fluuius, rhenique, sacro, in, unda",6,"1.0, NaN, NaN, NaN, NaN, 0.0",0.167,0.0,,0.0
+ausonius.mosella,418.0,"caeruleus, nunc, rhene, sinus, hyaloque, uireo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,419.0,"pando, peplus, spatium, nosco, metaris, fluo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,420.0,"fraternus, cumulandus, aqua, neque, praemium, in, unda",7,"0.0, NaN, 0.0, NaN, 1.0, NaN, 0.0",0.143,0.0,fraternus,0.143
+ausonius.mosella,421.0,"solus, sed, augustus, uenio, qui, moenia, urbs",7,"-0.5, NaN, 1.0, NaN, NaN, NaN, 0.5",0.143,-0.071,,0.0
+ausonius.mosella,422.0,"specto, iungo, nascor, pater, triumphus",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,423.0,"hostis, exigo, nicrum, super, et, lupodunum",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+ausonius.mosella,424.0,"et, fons, latius, ignotus, annal, histri",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+ausonius.mosella,425.0,"hic, profligo, uenio, modo, laureus, bellum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.167
+ausonius.mosella,426.0,"hinc, alius, alius, fero, tu, pergo, iungo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+ausonius.mosella,427.0,"et, mare, purpureus, geminus, propello, traho",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,428.0,"neu, uerearis, paruus, pulcher, rhene, uideo",6,"NaN, NaN, 0.0, 1.0, NaN, NaN",0.167,0.0,,0.0
+ausonius.mosella,429.0,"inuidia, nihil, hospes, habeo, potio, perenni",6,"-1.0, NaN, 0.0, NaN, NaN, NaN",-0.167,-0.167,inuidia,0.167
+ausonius.mosella,430.0,"nomen, tu, frater, fama, securus, adopto",6,"0.0, NaN, 0.0, 1.0, 1.0, NaN",0.333,0.0,tu,0.167
+ausonius.mosella,431.0,"diues, aqua, diues, nympha, largitor, uterque",6,"0.5, 0.0, 0.5, NaN, NaN, NaN",0.167,0.0,,0.0
+ausonius.mosella,432.0,"alueus, extendo, geminus, diuortium, ripa",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,433.0,"communis, uia, diuerto, per, ostium, pando",6,"0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,434.0,"accedo, uireo, qui, francia, quisque, chamaues",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,435.0,"germanus, tremo, tunc, uerus, habeo, limo",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+ausonius.mosella,436.0,"ab, ccedet, tantus, geminus, tu, nomen, ab, amnis",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.125
+ausonius.mosella,437.0,"cum, unus, de, fons, fluas, dico, bicornis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,438.0,"hic, ego, uiuisca, duco, ab, origo, gens",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+ausonius.mosella,439.0,"belgae, hospitium, non, per, nouo, foedero, notus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,foedero,0.143
+ausonius.mosella,440.0,"ausonius, nomen, latium, patrium, domo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,441.0,"gallus, extremus, inter, celsus, pyrene, -ne",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,gallus,0.167
+ausonius.mosella,442.0,"tempero, ingenuus, qui, laetus, aquitanica, mos",6,"NaN, 0.5, NaN, 1.0, NaN, 0.5",0.333,0.0,ingenuus,0.167
+ausonius.mosella,443.0,"audax, exiguus, fides, concino, fas, ego, sacer",7,"NaN, 0.0, 1.0, NaN, NaN, NaN, 1.0",0.286,0.0,audax,0.143
+ausonius.mosella,444.0,"perstrinxisse, amnis, tenuis, libamen, musa",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,445.0,"neque, laus, afficio, uenio, peto, sum, tu, multus",8,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.125,0.0,tu,0.125
+ausonius.mosella,446.0,"almus, amnis, sacer, qui, sollicito, fluor",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+ausonius.mosella,447.0,"aomdum, totus, soleo, haurio, aganippe, -ne",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,448.0,"at, ego, quantus, meus, do, sui, uena, liquor",8,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.mosella,449.0,"burdigalam, cum, ego, in, patria, nidus, senecta",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,450.0,"augustus, pater, et, nascor, meus, maximus, cura",7,"1.0, 0.0, NaN, NaN, 0.0, NaN, -1.0",0.0,-0.143,,0.0
+ausonius.mosella,451.0,"fascis, ausoniis, decoro, et, honor, curulis",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+ausonius.mosella,452.0,"mitto, emereo, post, munus, disciplina",5,"NaN, NaN, NaN, 0.5, 0.0",0.1,0.0,,0.0
+ausonius.mosella,453.0,"fero, arctous, praeconium, persequor, amnis",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,454.0,"addo, urbs, taceo, qui, subterlaberis, alueus",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+ausonius.mosella,455.0,"moenia, antiquus, tu, prospecto, murus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.2
+ausonius.mosella,456.0,"addo, praesidium, dubiaris, condio, res",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,457.0,"sed, modo, securis, non, castrum, sed, horreum, belgae",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,458.0,"addo, felix, ripa, ex, uter, colonus",6,"NaN, 1.0, NaN, NaN, NaN, 0.0",0.167,0.0,,0.0
+ausonius.mosella,459.0,"tu, inter, medius, homo, bos, labor",6,"NaN, NaN, 0.0, 0.0, NaN, -0.5",-0.083,-0.083,tu,0.167
+ausonius.mosella,460.0,"stringo, ripa, et, pinguis, colo, seco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,461.0,"non, tu, sui, ligo, anteferet, non, axona, praeceps",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+ausonius.mosella,462.0,"matrona, non, galli, belgisque, intersero, finis",6,"-0.5, NaN, NaN, NaN, NaN, 0.0",-0.083,-0.083,matrona,0.167
+ausonius.mosella,463.0,"santonico, refluus, non, ipse, carantonus, aestus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,464.0,"concedo, gelidus, durani, de, mons, uoluo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,465.0,"amnis, et, aurifer, postpono, gallia, tamen",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,466.0,"insanus, ruo, per, saxum, roto, latus",6,"-1.0, NaN, NaN, 0.0, NaN, NaN",-0.167,-0.167,insanus,0.167
+ausonius.mosella,467.0,"in, mare, purpureus, domina, tamen, ante, mosellae",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,468.0,"numen, adoro, tarbellicus, eo, aturrus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,469.0,"corniger, externus, celebro, mosella, per, ora",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,470.0,"neque, sol, celebro, locus, ubi, fons, superus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.mosella,471.0,"ex-sum, auro, taurinus, frons, honor",5,"NaN, NaN, NaN, 0.0, 1.0",0.2,0.0,,0.0
+ausonius.mosella,472.0,"qui, traho, placidus, sinuosus, per, aruum, meo",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+ausonius.mosella,473.0,"uel, qui, germanus, sub, portus, ostium, soluo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.mosella,474.0,"si, quis, honor, tenuis, uolo, adspiraris, camenae",7,"NaN, NaN, 1.0, 0.0, NaN, NaN, NaN",0.143,0.0,,0.0
+ausonius.mosella,475.0,"perdo, si, quis, in, hic, digno, otium, musis",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,"hic, otium",0.25
+ausonius.mosella,476.0,"eo, in, os, homo, laeto, fouebere, cantus",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.mosella,477.0,"tu, fons, uiuo, lacus, tu, caerulus, nosco",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"tu, tu, caerulus",0.429
+ausonius.mosella,478.0,"flumen, tu, uetus, pagus, gloria, lucius",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,tu,0.167
+ausonius.mosella,479.0,"tu, druna, tu, spargo, incertus, druentia, ripa",7,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN",-0.071,-0.071,"tu, tu",0.286
+ausonius.mosella,480.0,"alpinique, colo, fluuius, duplico, per, urbs",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ausonius.mosella,481.0,"qui, meo, et, dexter, rhodanus, do, nomen, ripa",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,rhodanus,0.125
+ausonius.mosella,482.0,"tu, stagnum, ego, caeruleus, magnus, sonorus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"tu, stagnum",0.333
+ausonius.mosella,483.0,"amnis, aequoreus, tu, commendo, garumnae",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2

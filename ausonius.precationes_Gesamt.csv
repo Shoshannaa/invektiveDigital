@@ -1,0 +1,69 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+ausonius.precationes,1.1,"ianuarius, fascis, sumo",3,"NaN, NaN, NaN",nan,nan,,0.0
+ausonius.precationes,1.2,"ia, -ne, uenio, nouus, annus, uenio, renouo, uenio, sol",9,"NaN, NaN, NaN, 1.0, 0.0, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+ausonius.precationes,1.4,"consul, ausonii, latiam, uideo, curulis",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+ausonius.precationes,1.5,"ecquis, ab, augustus, nunc, maiestas, secundus",6,"NaN, NaN, 1.0, NaN, NaN, 0.0",0.167,0.0,,0.0
+ausonius.precationes,1.6,"qui, miror, habeo, roma, ille, domus, quirinus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.precationes,1.7,"et, toga, purpureus, rutilans, praetexo, senatus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ausonius.precationes,1.8,"hic, apex, aeternus, signo, suus, tempus, faueo, ia, -ne, uenio, nouus, annus, uenio, renouo, uenio, sol., skipl, preuline=",18,"NaN, NaN, 0.5, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 1.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.083,0.0,hic,0.056
+ausonius.precationes,1.1,"annus, bonus, coepte, auspicium, do, uerus, salubris",7,"0.0, 1.0, NaN, 0.0, NaN, 0.5, 1.0",0.357,0.0,,0.0
+ausonius.precationes,1.11,"apricus, uentor, anima, do, roscidus, cancer",6,"NaN, NaN, 0.5, NaN, NaN, -1.0",-0.083,-0.167,,0.0
+ausonius.precationes,1.12,"solstitium, et, gelidus, boreas, septembribus, hora",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.precationes,1.13,"mordeo, auctumnus, frigus, subtilis, pruina",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.precationes,1.14,"et, tenuo, mos, cesso, mediocris, aestas",6,"NaN, NaN, 0.5, NaN, 0.0, NaN",0.083,0.0,,0.0
+ausonius.precationes,1.15,"sementis, notus, umificet, sum, bruma, niual",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.precationes,1.16,"dum, pater, antiquus, renouo, martius, annus, ia, -ne, uenio, nouus, annus, uenio, renouo, uenio, sol",15,"NaN, 0.0, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN, 1.0, 0.0, NaN, NaN, NaN, NaN",0.067,0.0,,0.0
+ausonius.precationes,1.17,"spiro, odoro, florus, nouo, gratia, maio",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+ausonius.precationes,1.18,"iulius, et, seges, coquo, et, mare, tempero, eurus, skipl, preuline=",10,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.precationes,1.2,"sirius, ardeo, non, augeo, ignis, leo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,leo,0.167
+ausonius.precationes,1.21,"discolor, arboreus, uario, pomona, sapor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.precationes,1.22,"mitigo, auctumnus, qui, maturauerit, aestas",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.precationes,1.23,"et, genial, hiems, pario, sui, dos, fruor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.precationes,1.24,"pax, mundus, ago, neque, turbidus, sidus, regno, ia, -ne, uenio, nouus, annus, uenio, renouo, uenio, sol, skipl, preuline=",18,"0.5, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.139,0.0,,0.0
+ausonius.precationes,1.26,"nullus, tuus, gradior, offendo, stella, penates",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.precationes,1.27,"qui, non, aequus, tu, non, cynthia, non, celer, arca",9,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.056,0.0,tu,0.111
+ausonius.precationes,1.28,"finitimus, terra, non, tu, satur, superus",6,"NaN, 0.0, NaN, NaN, 0.5, NaN",0.083,0.0,"finitimus, tu",0.333
+ausonius.precationes,1.29,"ulter, circuitus, procul, ab, pyroente, remoueo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.precationes,1.3,"tranquillus, propero, iter, tu, comminus, eo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.167
+ausonius.precationes,1.31,"stella, salutigeri, io, et, cythereie, uesper",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.precationes,1.32,"non, umquam, hospes, facilis, cyllenius, absum",6,"NaN, NaN, 0.0, 0.5, NaN, NaN",0.083,0.0,,0.0
+ausonius.precationes,1.33,"ia, -ne, uenio, nouus, annus, uenio, renouo, uenio, sol",9,"NaN, NaN, NaN, 1.0, 0.0, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+ausonius.precationes,1.34,"hostis, edomitis, qui, francia, misceo, sueo",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+ausonius.precationes,1.35,"certo, ad, obsequium, latius, ut, milito, arma",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ausonius.precationes,1.36,"qui, uago, sauromates, sui, iungo, agmen, chuni",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+ausonius.precationes,1.37,"quisque, getes, socius, histrum, adsultabat, alanis",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+ausonius.precationes,1.38,"hic, ego, praepes, uictoria, nuntio, ala",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+ausonius.precationes,1.39,"iam, uenio, augustus, noster, ut, como, honor",7,"NaN, NaN, 1.0, NaN, NaN, NaN, 1.0",0.286,0.0,,0.0
+ausonius.precationes,1.4,"officium, exorno, qui, participaris, cupio",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+ausonius.precationes,1.41,"ia, -ne, uenio, nouus, annus, uenio, renouo, uenio, sol",9,"NaN, NaN, NaN, 1.0, 0.0, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+ausonius.precationes,1.42,"aureus, uenio, sol, porrigo, gaudium, iano",6,"0.5, NaN, NaN, NaN, 1.0, NaN",0.25,0.0,,0.0
+ausonius.precationes,1.43,"fascis, ausonii, succedo, caesar, in, annus",6,"NaN, NaN, NaN, 0.5, NaN, 0.0",0.083,0.0,,0.0
+ausonius.precationes,1.44,"quintus, romulei, praetexta, habeo, honor",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+ausonius.precationes,1.45,"ecce, ubi, sui, cumulo, meus, purpura, mitis, audio",8,"NaN, NaN, NaN, NaN, 0.0, NaN, 1.0, NaN",0.125,0.0,,0.0
+ausonius.precationes,1.46,"auris, hic, nemesis, post, ego, digno, orior",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+ausonius.precationes,1.47,"augustus, consul, multus, quam, confero, uideo",6,"1.0, 0.5, 0.0, NaN, NaN, NaN",0.25,0.0,,0.0
+ausonius.precationes,1.48,"ego, sui, qui, iubeo, noster, praecedo, fascis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.precationes,1.49,"ia, -ne, uenio, nouus, annus, uenio, renouo, uenio, sol",9,"NaN, NaN, NaN, 1.0, 0.0, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+ausonius.precationes,1.5,"tu, tropicum, solus, do, cedo, rursus, et, ille",8,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.062,-0.062,tu,0.125
+ausonius.precationes,1.51,"tergum, do, ut, duplex, tropicus, uario, ab, astrum",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.precationes,1.52,"et, quater, ab, terni, propero, mutatio, signum",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ausonius.precationes,1.53,"aestiuus, inpelle, dies, bruma, moror",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.precationes,1.54,"nox, adceleret, promitto, caesar, annus",5,"0.0, NaN, NaN, 0.5, 0.0",0.1,0.0,,0.0
+ausonius.precationes,1.55,"ille, ego, si, cerno, tum, ter, quater, beatus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,,0.0
+ausonius.precationes,1.56,"tunc, sum, bis, consul, tunc, tango, uertex, caelum",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, 0.5",0.125,0.0,,0.0
+ausonius.precationes,6.1,"annus, bonus, coepte, auspicium, felicia, cerno",6,"0.0, 1.0, NaN, 0.0, NaN, NaN",0.167,0.0,,0.0
+ausonius.precationes,6.2,"consul, ausonii, primordius, promo, coruscus",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+ausonius.precationes,6.3,"sol, aeternus, caput, soleo, illustris, almus",6,"NaN, 0.5, 0.0, NaN, NaN, NaN",0.083,0.0,,0.0
+ausonius.precationes,6.4,"lumen, purpureus, iubar, exeo, lucus, eoae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.precationes,6.5,"annus, pater, res, qui, iani, mensis, bifrontis",7,"0.0, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.precationes,6.6,"uoluo, in, hibernus, glacial, finis, decembrem",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ausonius.precationes,6.7,"almus, uenio, et, festus, uetus, nouus, adicio, ianus, cogo, sequor, bis, seni, per, ostium, menses.",15,"NaN, NaN, NaN, NaN, 0.0, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.067,0.0,,0.0
+ausonius.precationes,6.8,"sollemnis, peruado, uia, bissenaque, mundus",5,"0.0, NaN, 0.0, NaN, 1.0",0.2,0.0,,0.0
+ausonius.precationes,6.9,"curriculum, aequo, uario, per, tempus, signum",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ausonius.precationes,6.1,"praecipito, aeternus, perfero, uertigo, cursus",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+ausonius.precationes,6.11,"sic, pronus, raptas, polus, contrarius, phoebus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.precationes,6.12,"ut, momentum, fero, seruo, pars, dies",6,"NaN, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ausonius.precationes,6.13,"et, nouus, hiberno, reparo, suus, lumen, pello",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+ausonius.precationes,6.14,"menstruus, ter, decies, redeo, dum, cornu, luna",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.precationes,6.15,"exorior, obeo, manus, uoluo, roto",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.precationes,6.16,"legitimus, phoebus, cohibeo, per, signum, meo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
