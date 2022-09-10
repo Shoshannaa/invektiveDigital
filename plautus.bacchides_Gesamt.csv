@@ -1,0 +1,1204 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+plautus.bacchides,1.0,"qui, ingenium, in, animus, utibilis, sum, modicus, et, sine, uernilitas",10,"NaN, 0.5, NaN, 0.5, NaN, NaN, 0.0, NaN, NaN, NaN",0.1,0.0,,0.0
+plautus.bacchides,2.0,"uinclum, uirga, mola, saeuitudo, malus, fio, malus",7,"NaN, NaN, NaN, NaN, -1.0, NaN, -1.0",-0.286,-0.286,uinclum,0.143
+plautus.bacchides,3.0,"conuerro, scopa, ago, strenuus",4,"NaN, NaN, NaN, 1.0",0.25,0.0,,0.0
+plautus.bacchides,4.0,"ecquis, euoco",2,"NaN, NaN",nan,nan,,0.0
+plautus.bacchides,5.0,"cum, nassiterna, et, cum, aqua, iste, impurus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, -1.0",-0.143,-0.143,impurus,0.143
+plautus.bacchides,6.0,"sicut, lac, lac, similis, sum",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,7.0,"ille, ego, cognomen, sum",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,8.0,"latro, suus, qui, aurum, uita, uendito",6,"NaN, NaN, NaN, 0.5, 0.0, NaN",0.083,0.0,"latro, uendito",0.333
+plautus.bacchides,9.0,"scio, spiritus, is, magnus, sum, multus",6,"NaN, 0.0, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,10.0,"quam, follis, taurinus, habeo, cum, liquesco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,11.0,"petra, ferrum, ubi, fio, cuiatis, tu, uideo, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.bacchides,12.0,"praenestinum, opino, sum, ita, sum, gloriosus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,opino,0.167
+plautus.bacchides,13.0,"neque, is, haud, subditiuus, gloria, oppidum, arbitror",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,14.0,"ne, ab, quoquam, accipio, alius, merces, annuo",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+plautus.bacchides,15.0,"nisi, ab, sui, neque, cum, quisquam, limaris, caput",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,16.0,"limaces, uir",2,"NaN, 0.5",0.25,0.0,,0.0
+plautus.bacchides,17.0,"cor, meus, spes, meus",4,"NaN, 0.0, 0.5, 0.0",0.125,0.0,,0.0
+plautus.bacchides,18.0,"mel, meus, suauitudo, cibus, gaudium",5,"NaN, 0.0, 0.5, NaN, 1.0",0.3,0.0,,0.0
+plautus.bacchides,19.0,"sine, tu, amo",3,"NaN, NaN, NaN",nan,nan,tu,0.333
+plautus.bacchides,20.0,"cupido, -ne, cum, tu, saeuus, sum, annus, amor",8,"-0.5, NaN, NaN, NaN, -1.0, NaN, 0.0, 1.0",-0.062,-0.188,"tu, saeuus",0.25
+plautus.bacchides,21.0,"ulixem, audio, sum, aerumnosus",4,"NaN, NaN, NaN, -1.0",-0.25,-0.25,,0.0
+plautus.bacchides,22.0,"qui, annus, uiginti, erro, ab, patria, asum",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,23.0,"uerus, hic, adulescens, multus, ulixem, anteeo",6,"0.5, NaN, NaN, 0.0, NaN, NaN",0.083,0.0,"hic, adulescens",0.333
+plautus.bacchides,24.0,"qui, ilico, erro, intra, murus, ciuicus",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+plautus.bacchides,25.0,"quisquis, sum, nomen, sui",4,"NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,26.0,"qui, sodalis, atque, ego, exerceo, habeo",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+plautus.bacchides,27.0,"nam, credo, quiuis, excantaris, cor, possum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,28.0,"sin, lenocinium, fors, collibet, sum, tu",6,"NaN, -1.0, 0.0, NaN, NaN, NaN",-0.167,-0.167,tu,0.167
+plautus.bacchides,29.0,"uideo, merces, quis, tu, sum, aequus, do",7,"NaN, 1.0, NaN, NaN, NaN, 0.5, NaN",0.214,0.0,tu,0.143
+plautus.bacchides,30.0,"ne, istac, aetas, ego, sector, gratia",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,,0.0
+plautus.bacchides,31.0,arabus,1,NaN,nan,nan,,0.0
+plautus.bacchides,35.0,"quis, si, hic, potio, sum, ut, tu, taceo, ego, loquor, lepidus, licet",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.167
+plautus.bacchides,36.0,"ubi, ego, fugio, memoria, ibi, tu, facio, ut, subuenio, soror",10,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.1,0.0,tu,0.1
+plautus.bacchides,37.0,"pol, magis, metuo, ne, desum, ego, in, moneo, oratio",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.056,-0.056,,0.0
+plautus.bacchides,38.0,"pol, ego, metuo, lusciniola, ne, desum, cantio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,39.0,"sequor, hic, quis, ago, duo, germana, meretrix, cognomino",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, meretrix",0.25
+plautus.bacchides,40.0,"quis, in, consilium, consulo, bene, pol, haud, meretricius, sum",9,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.056,0.0,meretricius,0.111
+plautus.bacchides,41.0,"miser, nihil, sum, quam, mulier, quis, sum, dico, dignus",9,"-1.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 1.0",0.0,-0.111,"miser, mulier",0.222
+plautus.bacchides,42.0,"hic, ita, ego, oro, sui, qui, caueat, aliquis, ut, homo, reperio",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.091
+plautus.bacchides,43.0,"ut, iste, militemut, ubi, emereo, sui, sum, sui, reueho, domus",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,44.0,"is, amo, tu, hic, cauea, quis, iste, cauea, ut, reueho, domus",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, hic",0.182
+plautus.bacchides,45.0,"ubi, is, dedo, opera, ne, hic, ille, habeo, pro, ancilla, sui",11,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",-0.045,-0.045,"hic, ancilla",0.182
+plautus.bacchides,46.0,"nam, si, hic, habeo, aurum, qui, ille, renumero, facio, libet",10,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.05,0.0,hic,0.1
+plautus.bacchides,47.0,"ubi, nunc, is, homo, sum, iam, hic, credo, adsum, sed, hic, idem, apud, nos, rectus",15,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.067,0.0,"hic, hic",0.133
+plautus.bacchides,48.0,"possum, ago, atque, is, dum, uenio, sedeo, ibi, opperibere",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,49.0,"idem, bibo, idem, do, tu, ubi, bibo, sauium",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.bacchides,50.0,"uiscus, merus, uester, sum, blanditia, quis, iam, quia, enim, intellego",10,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.05,0.0,blanditia,0.1
+plautus.bacchides,51.0,"duo, unus, expeto, palumbis, pereo, harundo, ala, uerbero",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uerbero,0.125
+plautus.bacchides,52.0,"non, ego, iste, facinus, ego, mulier, conducibilis, sum, arbitror",9,"NaN, NaN, NaN, -1.0, NaN, 0.0, NaN, NaN, NaN",-0.111,-0.111,"facinus, mulier",0.222
+plautus.bacchides,53.0,"qui, amo, quia, bacchis, bacchas, metuo, et, bacchanal, tuus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,54.0,"quis, sum, quis, metuo, ne, tu, lego, malitia, apud, ego, suadeo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.091,-0.091,tu,0.091
+plautus.bacchides,55.0,"magis, illicio, tuus, quam, lectus, metuo, malus, tu, sum, bestia",10,"NaN, NaN, 0.0, NaN, 0.0, NaN, -1.0, NaN, NaN, NaN",-0.1,-0.1,"tu, bestia",0.2
+plautus.bacchides,56.0,"nam, hic, aetas, non, conduco, mulier, latebrosus, locus",8,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,"hic, mulier",0.25
+plautus.bacchides,57.0,"nos, apud, ego, si, quis, stultus, facio, cupio, prohibeo",9,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.111,-0.111,stultus,0.111
+plautus.bacchides,58.0,"sed, ego, apud, ego, tu, sum, ob, is, res, miles, cum, uenio, uolo",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.077
+plautus.bacchides,59.0,"quia, cum, tu, adsum, hic, ego, haud, facio, quisquam, iniuria",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.1,-0.1,"tu, hic",0.2
+plautus.bacchides,60.0,"tu, prohibeo, et, idem, opus, tuus, sodal, opera, do",9,"NaN, NaN, NaN, NaN, 0.5, 0.0, NaN, -0.5, NaN",0.0,-0.056,tu,0.111
+plautus.bacchides,61.0,"et, ille, aduenio, tuus, ego, sum, amica, suspicor",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,62.0,"quis, amo, opticuisti, quia, iste, lepidus, sum, memoratus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,63.0,"idem, in, usus, atque, ubi, periculum, facio, aculeatus, sum",9,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.111,-0.111,,0.0
+plautus.bacchides,64.0,"animus, fodicant, bonus, distimulo, facio, et, fama, saucio",8,"0.5, NaN, 1.0, NaN, NaN, NaN, 1.0, NaN",0.312,0.0,,0.0
+plautus.bacchides,65.0,"quis, ab, hic, metuo, quis, ego, metuo, rogito, adulescens, homo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, adulescens",0.2
+plautus.bacchides,66.0,"penetro, ego, hic, modus, in, palaestra, ubi, damnum, desudasco",9,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, -1.0, NaN",-0.056,-0.111,hic,0.111
+plautus.bacchides,67.0,"ubi, pro, disco, damnum, capio, pro, curro, dedecus",8,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, -1.0",-0.25,-0.25,dedecus,0.125
+plautus.bacchides,68.0,"lepidus, memoro, ubi, ego, capio, pro, machaera, turtur",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,69.0,"ubique, impono, in, manus, alius, ego, pro, caestus, cantharis",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,70.0,"pro, galea, scaphium, pro, insignio, sum, corolla, plectilis",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,71.0,"pro, hasta, talus, pro, lorica, malacus, capio, pallium",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,malacus,0.125
+plautus.bacchides,72.0,"ubi, ego, pro, equus, lego, do, scortum, pro, scutum, accubo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,scortum,0.1
+plautus.bacchides,73.0,"apage, ab, ego, apage, ah, nimium, ferus, sum, ego, sum, malacisso, sum",12,"NaN, NaN, NaN, NaN, NaN, 0.0, -1.0, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,ferus,0.083
+plautus.bacchides,74.0,"equidem, tu, do, hic, opera, ah, nimium, pretiosus, sum, operarius",10,"NaN, NaN, NaN, NaN, -0.5, NaN, 0.0, NaN, NaN, NaN",-0.05,-0.05,"tu, hic, pretiosus",0.3
+plautus.bacchides,75.0,"simulo, ego, amo, utrum, ego, iste, iocus, -ne, adsimulis, an, serius",11,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, 0.0",-0.045,-0.045,,0.0
+plautus.bacchides,76.0,"heia, hic, ago, bonus, sum, miles, cum, huc, aduenio, tu, uolo",11,"NaN, NaN, NaN, 1.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.091,0.0,"hic, tu",0.182
+plautus.bacchides,77.0,"ego, amplexaris, quis, is, ego, opus, sum, ut, ille, tu, uideo, uolo",12,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.042,0.0,tu,0.083
+plautus.bacchides,78.0,"scio, quis, ago, et, pol, ego, scio, quis, metuo, sed, quis, aio, quis, sum",14,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,79.0,"quis, si, apud, tu, euenio, de_-subeo, prandium, aut, potatio",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, potatio",0.222
+plautus.bacchides,80.0,"fors, aut, cena, ut, soleo, in, iste, fio, conciliabulis",9,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,81.0,"ubi, ego, tum, accumbo, apud, ego, ego, animus, ut, lepidus, cum, lepidus, accubo",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.038,0.0,,0.0
+plautus.bacchides,82.0,"locus, hic, apud, nos, quiuis, subeo, uenio, semper, liber, sum",10,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.05,0.0,hic,0.1
+plautus.bacchides,83.0,"ubi, tu, lepidus, uolo, sum, tu, meus, rodo, ego, dico",10,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"tu, tu",0.2
+plautus.bacchides,84.0,"do, qui, bene, sum, ego, ubi, bene, sum, tu, locus, lepidus, do",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.083
+plautus.bacchides,85.0,"rapidus, fluuius, sum, hic, non, hic, temere, transeo, possum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.222
+plautus.bacchides,86.0,"atque, ecastor, apud, hic, fluuius, aliquis, perdo, sum, tu",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"ecastor, hic, tu",0.333
+plautus.bacchides,87.0,"manus, do, et, sequor, aha, paruus, quis, ita, quia, istoc, in, lecebrosius",12,"0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,88.0,"fio, nihil, possum, nox, mulier, uinum, homo, adulescentulus",8,"NaN, NaN, NaN, 0.0, 0.0, NaN, 0.0, NaN",0.0,0.0,mulier,0.125
+plautus.bacchides,89.0,"ago, igitur, equidem, pol, nihilis, facio, nisi, causa, tuus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+plautus.bacchides,90.0,"ille, quidem, hic, abduco, tu, nullus, adsum, si, non, lubet",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.2
+plautus.bacchides,91.0,"sum, -ne, autem, nihilis, qui, nequeo, ingenium, moderaris, meus",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 0.0",0.056,0.0,,0.0
+plautus.bacchides,92.0,"quis, sum, qui, metuo, nihil, sum, nugae, mulier, tu, ego, emancupo",11,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, 0.0, NaN, NaN, NaN",-0.091,-0.091,"mulier, tu",0.182
+plautus.bacchides,93.0,"tuus, sum, tu, dedo, operam., nunc, ego, tu, facio, hic, uolo",11,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"tu, tu, hic",0.273
+plautus.bacchides,94.0,"ego, soror, meus, cena, hodie, do, uolo, uiaticus",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,95.0,"is, tu, argentum, iubeo, iam, intus, ecferri, foras",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.bacchides,96.0,"tu, facio, obsonatus, nos, sum, opulentus, obsonium",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.bacchides,97.0,"ego, opsono, nam, is, flagitium, meus, sum, meus, tu, gratia",10,"NaN, NaN, NaN, NaN, -1.0, 0.0, NaN, 0.0, NaN, 1.0",0.0,-0.1,"flagitium, tu",0.2
+plautus.bacchides,98.0,"et, opera, do, ego, et, ad, is, opera, facio, sumo, de, tuus",12,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, 0.0",-0.083,-0.083,,0.0
+plautus.bacchides,99.0,"at, ego, nolo, do, tu, quisquam, sine, sino, equidem, si, lubet",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.091
+plautus.bacchides,100.0,"propero, amo, prior, hic, adsum, quam, tu, amo, desino",9,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.056,0.0,"hic, tu",0.222
+plautus.bacchides,101.0,"bene, ego, accipio, aduenio, meus, soror, quis, ita, obsecro",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,102.0,"quia, piscor, meus, quidem, animus, hic, tu, hodie, euenio, bonus",10,"NaN, NaN, 0.0, NaN, 0.5, NaN, NaN, NaN, NaN, 1.0",0.15,0.0,"hic, tu",0.2
+plautus.bacchides,103.0,"meus, ille, quidem, sum, tu, nunc, opera, do, de, mnesilocho, soror",11,"0.0, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.045,-0.045,tu,0.091
+plautus.bacchides,104.0,"ut, hic, accipio, potis, aurum, quam, hinc, is, cum, miles",10,"NaN, NaN, NaN, 0.0, 0.5, NaN, NaN, NaN, NaN, 0.0",0.05,0.0,hic,0.1
+plautus.bacchides,105.0,"cupio, do, opus, aqua, caleo, eo, hinc, intro, ut, lauo",10,"NaN, NaN, 0.5, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.bacchides,106.0,"nam, uti, no, ueho, sum, credo, timidus, sum, aliquantus, soror",10,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.05,-0.05,timidus,0.1
+plautus.bacchides,107.0,"simul, hic, nescio, qui, turbo, qui, huc, eo, decedo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.bacchides,108.0,"sequor, hic, igitur, ego, intro, in, lectus, ut, sedes, lassitudo",10,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,hic,0.1
+plautus.bacchides,109.0,"iam, dudum, pistoclere, taceo, tu, sequor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"pistoclere, tu",0.333
+plautus.bacchides,110.0,"expectans, qui, tu, res, hic, orno, gero",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"tu, hic",0.286
+plautus.bacchides,111.0,"namque, ita, ego, deus, amo, ut, lycurgus, ego, quidem",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,112.0,"uideo, possum, hic, ad, nequitia, adduco",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,"hic, nequitia",0.333
+plautus.bacchides,113.0,"quo, nunc, capesso, tu, hinc, aduerso, uia",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+plautus.bacchides,114.0,"cum, tantus, pompa, huc, quis, huc, quis, istic, habeo",9,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.bacchides,115.0,"amor, uoluptas, uenus, uenustus, gaudium",5,"1.0, 1.0, 1.0, 1.0, 1.0",1.0,0.0,,0.0
+plautus.bacchides,116.0,"iocus, ludus, sermo, suauisauiatio",4,"-0.5, NaN, -0.5, NaN",-0.25,-0.25,,0.0
+plautus.bacchides,117.0,"quis, tu, commercium, sum, cum, deus, damnosus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.143
+plautus.bacchides,118.0,"malus, sum, homo, qui, bonus, dico, malus",7,"-1.0, NaN, 0.0, NaN, 1.0, NaN, -1.0",-0.143,-0.286,,0.0
+plautus.bacchides,119.0,"tu, deus, neque, rectus, dico, non, aequus, facio",8,"NaN, 0.0, NaN, 1.0, NaN, NaN, 0.5, NaN",0.188,0.0,tu,0.125
+plautus.bacchides,120.0,"an, deus, sum, ullus, suauisauiatio",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,121.0,"an, non, puto, sum, umquam, o, lyde, sum, barbarus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,lyde,0.111
+plautus.bacchides,122.0,"qui, ego, sapio, nimius, censeo, multus, quam, thal",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,nimius,0.125
+plautus.bacchides,123.0,"is, stultus, sum, barbarus, poticio",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,stultus,0.2
+plautus.bacchides,124.0,"qui, tantus, natus, deus, nescio, nomen",6,"NaN, NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,125.0,"non, hic, placeo, ego, orno, nemo, ergo, tu",8,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN",-0.062,-0.062,"hic, tu",0.25
+plautus.bacchides,126.0,"hic, appario, ego, paro, sum, qui, placeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.bacchides,127.0,"etiam, ego, aduersus, exordior, argutiae",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,128.0,"qui, si, decem, habeo, lingua, mutus, sum, addecet",8,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.062,-0.062,addecet,0.125
+plautus.bacchides,129.0,"non, omnis, aetas, lyde, ludo, conuenio",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,lyde,0.167
+plautus.bacchides,130.0,"magis, unus, in, mens, sum, ego, nunc, satis, ut, commodus",10,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, 0.5, NaN, 0.5",0.15,0.0,,0.0
+plautus.bacchides,131.0,"pro, dignitas, obsonium, hic, concuro, coquus",6,"NaN, 1.0, NaN, NaN, NaN, 0.0",0.167,0.0,hic,0.167
+plautus.bacchides,132.0,"iam, perdo, tu, atque, ego, atque, opera, meus",8,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, 0.0",-0.062,-0.062,tu,0.125
+plautus.bacchides,133.0,"qui, tu, nequiquam, saepe, monstro, bene",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.bacchides,134.0,"ibidem, ego, meus, opera, perdo, ubi, tu, tuus",8,"NaN, NaN, 0.0, -0.5, NaN, NaN, NaN, 0.0",-0.062,-0.062,tu,0.125
+plautus.bacchides,135.0,"tuus, disciplina, neque, ego, prodo, neque, tu",7,"0.0, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.143
+plautus.bacchides,136.0,"o, praeligo, pectus, odiosus, ego, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,137.0,"taceo, atque, sequor, lyde, ego, illic, sum, uideo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,lyde,0.125
+plautus.bacchides,138.0,"non, paedagogus, iam, ego, sed, lydum, uoco",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,139.0,"non, par, uideo, neque, sum, consentaneus",6,"NaN, 0.5, NaN, NaN, NaN, 0.5",0.167,0.0,,0.0
+plautus.bacchides,140.0,"cum, hic, qui, emo, intus, sum, et, cum, amicus, accubo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.1,0.0,"hic, emo",0.2
+plautus.bacchides,141.0,"cum, osculo, et, conuiua, alius, accubo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,142.0,"praesens, ille, paedagogus, unus, ut, sum",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,143.0,"an, hic, ad, is, res, obsonatus, sum, obsecro",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.125
+plautus.bacchides,144.0,"spero, quidem, animus, quo, euenat, deus, in, manus, sum",9,"NaN, NaN, 0.5, NaN, NaN, 0.0, NaN, 0.0, NaN",0.056,0.0,,0.0
+plautus.bacchides,145.0,"tu, amica, habeo, cum, uideo, tum, scio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.bacchides,146.0,"immo, neque, habeo, neque, sino, eo, prorsus, domus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,147.0,"omitto, lyde, atque, caueo, malus, quis, caueo, malus",8,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, -1.0",-0.25,-0.25,lyde,0.125
+plautus.bacchides,148.0,"iam, excedo, ego, aetas, ex, magisterius, tuus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,149.0,"o, barathrum, ubi, nunc, sum, ut, ego, tu, usurpo, libet",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.bacchides,150.0,"uideo, nimius, iam, multus, multus, quam, uolo",7,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,nimius,0.143
+plautus.bacchides,151.0,"uiuo, nimius, sero, sum, iam, quam, uiuo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,nimius,0.143
+plautus.bacchides,152.0,"magister, -ne, quisquam, discipulis, minito",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+plautus.bacchides,153.0,"nihil, moror, discipulus, ego, iam, plenus, sanguis",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,154.0,"ualeo, afflicto, ego, uaciuus, uis",5,"NaN, NaN, NaN, 0.0, 1.0",0.2,0.0,,0.0
+plautus.bacchides,155.0,"fio, ut, ego, opinor, herculis, tu, autem, linus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.bacchides,156.0,"pol, metuo, magis, ne, phoenix, tuus, facio, sum",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,157.0,"tu, ad, pater, sum, morior, renuntio",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.167
+plautus.bacchides,158.0,"satis, historiaris, sum, hic, uereor, perdo",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,hic,0.167
+plautus.bacchides,159.0,"compendium, edepol, haud, aetas, optabilis",5,"0.5, NaN, NaN, 0.0, 1.0",0.3,0.0,edepol,0.2
+plautus.bacchides,160.0,"facio, cum, iste, impudentia",4,"NaN, NaN, NaN, -1.0",-0.25,-0.25,,0.0
+plautus.bacchides,161.0,"occido, hic, homo, sum, ecquis, in, mens, sum, tu",9,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.5, NaN, NaN",0.056,0.0,"occido, hic, tu",0.333
+plautus.bacchides,162.0,"pater, tu, sum, tu, ego, an, tu, ego, seruus, sum",10,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.05,-0.05,"tu, tu, tu",0.3
+plautus.bacchides,163.0,"malus, magister, tu, iste, doceo, non, ego",7,"-1.0, 0.5, NaN, NaN, NaN, NaN, NaN",-0.071,-0.143,tu,0.143
+plautus.bacchides,164.0,"nimius, sum, tu, ad, iste, res, discipulus, docilis",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"nimius, tu",0.25
+plautus.bacchides,165.0,"quam, ad, ille, qui, tu, doceo, ubi, opera, perdo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.056,-0.056,tu,0.111
+plautus.bacchides,166.0,"edepol, facio, furtum, in, aetas, malus",6,"NaN, NaN, -1.0, NaN, 0.0, -1.0",-0.333,-0.333,"edepol, furtum",0.333
+plautus.bacchides,167.0,"cum, iste, flagitium, ego, celo, et, pater",7,"NaN, NaN, -1.0, NaN, NaN, NaN, 0.0",-0.143,-0.143,flagitium,0.143
+plautus.bacchides,168.0,"istactenus, tu, lyde, libertas, do, sum",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,"tu, lyde",0.333
+plautus.bacchides,169.0,"oratio, satis, sum, sequor, hic, ego, atque, taceo",8,"-0.5, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.0,-0.062,hic,0.125
+plautus.bacchides,170.0,"erilis, patria, saluus, quam, ego, biennium",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+plautus.bacchides,171.0,"postquam, hinc, in, ephesus, abeo, conspicio, libet",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,172.0,"saluto, tu, uicinus, apollo, qui, aedes",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,tu,0.167
+plautus.bacchides,173.0,"propinquus, noster, accolo, uenio, tu",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.2
+plautus.bacchides,174.0,"ne, nicobulis, ego, sino, nos, senex",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,nicobulis,0.167
+plautus.bacchides,175.0,"prior, conuenio, quam, sodalis, uideo",5,"0.5, NaN, NaN, 1.0, NaN",0.3,0.0,,0.0
+plautus.bacchides,176.0,"mnesilochi, pistoclerum, qui, ad, epistula",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+plautus.bacchides,177.0,"mnesilochus, mitto, super, amicus, bacchide",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+plautus.bacchides,178.0,"mirus, sum, ego, ut, redeo, tu, opus, tantus, quaeso",9,"1.0, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.167,0.0,tu,0.111
+plautus.bacchides,179.0,"qui, abeo, hinc, nullus, pacisco, possum, si, uolo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,180.0,"ita, ego, uado, amor, uincio, ad-teneo",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+plautus.bacchides,181.0,"pro, deus, immortalis, pistoclerum, conspicor",5,"NaN, 0.0, 0.5, NaN, NaN",0.1,0.0,,0.0
+plautus.bacchides,182.0,"o, pistoclere, saluus, saluus, chrysal",5,"NaN, NaN, 1.0, 1.0, NaN",0.4,0.0,pistoclere,0.2
+plautus.bacchides,183.0,"compendium, uerbum, multus, iam, facio, tu",6,"0.5, 0.0, 0.0, NaN, NaN, NaN",0.083,0.0,tu,0.167
+plautus.bacchides,184.0,"uenio, tu, ego, gaudeo, ego, credo, tu",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.286
+plautus.bacchides,185.0,"hospitium, et, cena, polliceo, ut, conuenio",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,186.0,"peregre, aduenio, ego, autem, uenio, annuo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,187.0,"salus, tu, ab, sodal, solidus, nuntio",6,"1.0, NaN, NaN, NaN, 0.0, NaN",0.167,0.0,tu,0.167
+plautus.bacchides,188.0,"rogo, ego, ubi, sum, uiuo, nempe, rectus, ualeo",8,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.125,0.0,,0.0
+plautus.bacchides,189.0,"iste, uolo, ego, ex, tu, perconto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.bacchides,190.0,"qui, scio, possum, nullus, multus, quisnam, ad, modus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.5",0.062,0.0,,0.0
+plautus.bacchides,191.0,"quia, si, ille, inuenio, sum, quam, ille, amo, rectus, ualeo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.1,0.0,,0.0
+plautus.bacchides,192.0,"si, non, inuenio, sum, paruus, ualeo, moribundus, sum",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,193.0,"anima, sum, amicus, amo, si, absum, nullus, sum",8,"0.5, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.188,0.0,,0.0
+plautus.bacchides,194.0,"si, adsum, res, nullus, sum, ipse, estnequam, et, miser",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, -1.0",-0.111,-0.111,miser,0.111
+plautus.bacchides,195.0,"sed, tu, quis, factito, mandatum, super",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.bacchides,196.0,"ego, -ne, ut, qui, ab, ille, attingo, nuntius",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,197.0,"non, impetro, is, aduenio, is, reddo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,198.0,"regio, colo, malo, acherunticas",4,"0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,200.0,"eho, an, inuenio, bacchidem, zamia, quidem",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,201.0,"uideo, quaeso, ne, quis, tracto, ille, in-diligo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,in-diligo,0.143
+plautus.bacchides,202.0,"scio, tu, ut, confringo, uas, cito, samium, soleo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, uas",0.25
+plautus.bacchides,203.0,"iam, -ne, ut, soleo, dico, ubi, is, nunc, sum, obsecro",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,204.0,"hic, exeo, ego, unde, aspicio, modo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+plautus.bacchides,205.0,"ut, iste, sum, lepidus, proximus, uicinia",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,206.0,"habito, ecquidnam, memini, mnesilochi, rogo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,207.0,"immo, unicus, unus, plurimus, pendo, papae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,208.0,"immo, ut, is, credo, misero, amo, desidero",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,misero,0.143
+plautus.bacchides,209.0,"scio, iste, immo, chrysal, em, non, tantulis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,210.0,"umquam, intermitto, tempus, quin, is, nomino",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,211.0,"tantus, hercules, bonus, immo, immo, hercules, abeo",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+plautus.bacchides,212.0,"potis, num, inuitus, res, bene, gero, audio, erus",8,"0.0, NaN, -0.5, 0.0, NaN, NaN, NaN, 0.0",-0.062,-0.062,erus,0.125
+plautus.bacchides,213.0,"non, res, sed, actor, ego, cor, odium, saucio",8,"NaN, 0.0, NaN, 0.0, NaN, NaN, -1.0, NaN",-0.125,-0.125,,0.0
+plautus.bacchides,214.0,"etiam, epidicum, quam, ego, fabula, aequus, atque, ego, ipse, amo",10,"NaN, NaN, NaN, NaN, 0.0, 0.5, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.bacchides,215.0,"nullus, aequus, inuitus, specto, si, ago, pellion",7,"NaN, 0.5, -0.5, NaN, NaN, NaN, NaN",0.0,-0.071,,0.0
+plautus.bacchides,216.0,"sed, bacchis, etiam, fortis, tu, uideo, sum, rogo",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,tu,0.125
+plautus.bacchides,217.0,"ni, nanciscor, uenerem, sum, hic, iuno, dico",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.bacchides,218.0,"edepol, mnesiloche, ut, hic, res, nata, intellego",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"edepol, hic",0.286
+plautus.bacchides,219.0,"qui, amo, paro, sum, qui, do, inuenio, sum, opus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.056,0.0,,0.0
+plautus.bacchides,220.0,"nam, istic, fortasse, aurum, sum, opus, sum, philippeo, quidem",9,"NaN, NaN, NaN, 0.5, NaN, 0.5, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.bacchides,221.0,"atque, is, fortasse, iam, opus, sum, immo, etiam, prior",9,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, 0.5",0.111,0.0,,0.0
+plautus.bacchides,222.0,"nam, iam, huc, aduenio, miles, et, miles, quidem",8,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,223.0,"qui, de, amitto, bacchide, aurum, hic, exigo",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,hic,0.143
+plautus.bacchides,224.0,"uenio, quando, uolo, atque, ita, ne, ego, sum, mora",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,225.0,"domus, sum, non, metuo, neque, ego, quisquam, supplico",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,226.0,"dum, quidem, hic, ualeo, pectus, perfidia, meus",7,"NaN, NaN, NaN, NaN, NaN, -1.0, 0.0",-0.143,-0.143,"hic, perfidia",0.286
+plautus.bacchides,227.0,"abeo, intro, ego, hic, curo, tu, intus, dico",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.25
+plautus.bacchides,228.0,"mnesilochum, adsum, bacchidi, facio, ut, iubeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,229.0,"negotium, hic, ad, ego, ad-teneo, aurarius",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,hic,0.167
+plautus.bacchides,230.0,"mille, et, ducenti, philippos, affero, aureus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+plautus.bacchides,231.0,"epheso, qui, hospes, debeo, noster, senex",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,232.0,"inde, ego, hodie, aliqui, machinor, machina",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,233.0,"unde, aurum, efficio, amo, erilis, filius",6,"NaN, 0.5, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+plautus.bacchides,234.0,"sed, foris, concrepo, noster, quisnam, exeo, foras",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,235.0,"eo, in, piraeum, uideo, ecqui, aduenio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,236.0,"in, portus, ex, epheso, nauus, mercatorius",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,237.0,"nam, meus, formido, animus, nos, tam, diu",7,"NaN, 0.0, -1.0, 0.5, NaN, NaN, NaN",-0.071,-0.143,,0.0
+plautus.bacchides,238.0,"ibi, desideo, neque, redeo, filius",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,239.0,"extexo, ego, ille, pulcher, iam, si, deus, uolo",8,"NaN, NaN, NaN, 1.0, NaN, NaN, 0.0, NaN",0.125,0.0,,0.0
+plautus.bacchides,240.0,"haud, dormitandum, sum, opus, sum, chrysos, chrysalo",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.bacchides,241.0,"adeo, hic, qui, quidem, ego, hodie, facio, hic, aries",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.222
+plautus.bacchides,242.0,"phrixi, itaque, tondeo, aurum, usque, ad, uiuo, cutis",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, 0.0",0.062,0.0,cutis,0.125
+plautus.bacchides,243.0,"seruus, saluto, nicobulis, chrysalus",4,"-0.5, NaN, NaN, NaN",-0.125,-0.125,nicobulis,0.25
+plautus.bacchides,244.0,"pro, deus, immortalis, chrysal, ubi, ego, sum, filius",8,"NaN, 0.0, 0.5, NaN, NaN, NaN, NaN, 0.0",0.062,0.0,,0.0
+plautus.bacchides,245.0,"quin, tu, salus, primus, reddo, quam, do",7,"NaN, NaN, 1.0, 0.5, NaN, NaN, NaN",0.214,0.0,tu,0.143
+plautus.bacchides,246.0,"saluus, sed, ubi, sum, mnesilochus, uiuo, ualeo",7,"1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+plautus.bacchides,247.0,"uenio, uenio, euax, aspersisti, aqua",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,248.0,"bene, -ne, usque, ualeo, pancratice, atque, athleticus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+plautus.bacchides,249.0,"quis, hic, qui, causa, is, in, ephesus, miser",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, -1.0",-0.125,-0.125,"hic, miser",0.25
+plautus.bacchides,250.0,"accipio, -ne, aurum, ab, hospes, archidemide",6,"NaN, NaN, 0.5, NaN, 0.0, NaN",0.083,0.0,,0.0
+plautus.bacchides,251.0,"heu, cor, meus, et, cerebrum, nicobulis, findo",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"heu, nicobulis",0.286
+plautus.bacchides,252.0,"iste, homo, ubi, fio, cum, mentior",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,253.0,"tu, -ne, hospes, ille, nomino, hostis, tuus",7,"NaN, NaN, 0.0, NaN, NaN, -1.0, 0.0",-0.143,-0.143,tu,0.143
+plautus.bacchides,254.0,"quis, ita, obsecro, hercules, quia, edepol, certus, scio",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,edepol,0.125
+plautus.bacchides,255.0,"uolcanus, luna, sol, dies, deus, quattuor",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,256.0,"scelestus, nullus, in-luceo, alter",4,"-1.0, NaN, NaN, NaN",-0.25,-0.25,scelestus,0.25
+plautus.bacchides,257.0,"quam, -ne, archidemidem, quam, inquam, archidemidem",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,258.0,"quis, facio, quis, non, facio, quin, tu, is, ego, rogo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.bacchides,259.0,"primumdum, infitior, eo, coepio, filius",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,260.0,"nego, sui, debeo, tu, triobulis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+plautus.bacchides,261.0,"continuo, antiquus, hospes, nos, sui",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,262.0,"mnesilochus, aduoco, pelagonem, senex",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,263.0,"is, praesens, homo, extemplo, ostendo, symbolus",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,264.0,"qui, tueor, do, ad, is, ut, fero, filius",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,265.0,"quis, ubi, is, ostendo, symbolus, in-fio, dico",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,266.0,"adulterinus, et, non, is, sum, symbolus",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+plautus.bacchides,267.0,"quot, innocens, is, dico, contumelia",5,"NaN, 0.5, NaN, NaN, -1.0",-0.1,-0.2,"innocens, contumelia",0.4
+plautus.bacchides,268.0,"adulteraris, is, aio, res, ceterus",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+plautus.bacchides,269.0,"habeti, -ne, aurum, is, ego, dico, uolo",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.bacchides,270.0,"postquam, quidem, praetor, recuperator, do",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+plautus.bacchides,271.0,"damno, demum, uis, cogo, reddo",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,damno,0.2
+plautus.bacchides,272.0,"ducenti, et, mille, philippum, tantus, debeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,273.0,"porro, etiam, ausculto, pugna, quam, uolo, do",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,,0.0
+plautus.bacchides,274.0,"etiam, sum, quis, porro, em, accipitrina, hic, nunc, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.bacchides,275.0,"decipio, sum, autolyco, hospes, aurum, credo",6,"NaN, NaN, NaN, 0.0, 0.5, NaN",0.083,0.0,decipio,0.167
+plautus.bacchides,276.0,"quin, tu, audio, immo, ingenium, auidus, haud, pernoram, hospes",9,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, 0.0",0.056,0.0,tu,0.111
+plautus.bacchides,277.0,"postquam, aurum, aufero, in, nauo, conscendo",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+plautus.bacchides,278.0,"domus, cupio, fors, ut, ad-sedeo, in, stega",7,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,279.0,"dum, circumspicio, atque, ego, lembus, conspicor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,280.0,"longus, strigorem, maleficus, exorno",4,"0.0, NaN, -1.0, NaN",-0.25,-0.25,maleficus,0.25
+plautus.bacchides,281.0,"pereo, hercules, lembus, ille, ego, laedo, latus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,282.0,"is, sum, communis, cum, hospes, et, praedo",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,283.0,"adeo, -ne, ego, sum, fungus, ut, qui, ille, credo",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,284.0,"cum, ego, ipse, nomen, is, archidemides",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,285.0,"clamo, dempturum, sum, si, quis, credo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,286.0,"is, lembus, noster, no, insidiae, do",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,insidiae,0.167
+plautus.bacchides,287.0,"occipio, ego, obseruaris, is, quam, res, gero",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,288.0,"interea, e, portus, noster, nauus, soluo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,289.0,"ubi, portus, exeo, homo, remigium, sequor",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,290.0,"neque, aueo, neque, uenio, cieo, quoniam, sentio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,291.0,"qui, res, gero, nauo, extemplo, statuo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,292.0,"quoniam, uideo, nos, sto, occipio, ratis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,293.0,"turbo, in, portus, edepol, mortalis, malus",6,"NaN, NaN, NaN, NaN, -1.0, -1.0",-0.333,-0.333,edepol,0.167
+plautus.bacchides,294.0,"quis, denique, ago, rursum, in, portus, recipio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,295.0,"sapienter, facio, ab, tu, quis, ille, postea",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.bacchides,296.0,"reuorsio, ad, terra, facio, uesperus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,297.0,"aurum, hercules, aufero, uolo, is, res, opera, do",8,"0.5, NaN, NaN, NaN, NaN, 0.0, -0.5, NaN",0.0,-0.062,,0.0
+plautus.bacchides,298.0,"non, ego, fallo, sentio, is, exanimo, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"fallo, exanimo",0.286
+plautus.bacchides,299.0,"quoniam, uideo, aurum, insidiae, fio",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,insidiae,0.2
+plautus.bacchides,300.0,"capio, consilium, continuo, postridie",4,"NaN, 0.5, NaN, NaN",0.125,0.0,,0.0
+plautus.bacchides,301.0,"aufero, aurum, omnis, ille, praesens",5,"NaN, 0.5, NaN, NaN, 0.0",0.1,0.0,,0.0
+plautus.bacchides,302.0,"palam, atque, apertus, ut, ille, is, facio, scisco",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,303.0,"scio, hercules, cedo, quis, ille, tristis, ilico",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+plautus.bacchides,304.0,"cum, extemplo, ab, portus, eo, nos, cum, aurum, uideo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.056,0.0,,0.0
+plautus.bacchides,305.0,"subduco, lembus, caput, quasso",4,"NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,306.0,"nos, apud, theotimum, omnis, aurum, deposiuimus",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+plautus.bacchides,307.0,"qui, illic, sacerdos, sum, diana, ephesiae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,308.0,"quis, istic, theotimus, sum, megalobulis, filius",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,309.0,"qui, nunc, in, epheso, sum, ephesiis, carus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+plautus.bacchides,310.0,"ne, ille, hercules, ego, sum, multus, tantus, carus",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 1.0",0.125,0.0,,0.0
+plautus.bacchides,311.0,"si, ego, ille, aurum, tantus, circumduco",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+plautus.bacchides,312.0,"quin, in, eapse, aedes, dianai, condio, sum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,313.0,"ibidem, publicitus, seruo, occido, ego",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,occido,0.2
+plautus.bacchides,314.0,"nimius, hic, priuatim, seruo, rectus",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,"nimius, hic",0.4
+plautus.bacchides,315.0,"sed, nihil, affero, inde, aurum, domus",6,"NaN, NaN, NaN, NaN, 0.5, 0.0",0.083,0.0,,0.0
+plautus.bacchides,316.0,"immo, etiam, uerus, quantus, affero, nescio",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+plautus.bacchides,317.0,"quis, nescio, quia, mnesilochus, nox, clanculis",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,318.0,"deuenio, ad, theotimum, neque, ego, credo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,319.0,"neque, quisquam, in, no, uolo, is, ego, nescio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,320.0,"quantillus, affero, uerus, haud, permultus, affero",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+plautus.bacchides,321.0,"etiam, dimidium, censeo, non, edepol, scio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,edepol,0.167
+plautus.bacchides,322.0,"uerus, haud, opinor, fero, -ne, pars, tertius",7,"0.5, NaN, NaN, NaN, NaN, 0.0, 0.0",0.071,0.0,,0.0
+plautus.bacchides,323.0,"non, hercules, opinor, uerus, uerus, nescio",6,"NaN, NaN, NaN, 0.5, 0.5, NaN",0.167,0.0,,0.0
+plautus.bacchides,324.0,"profecto, de, aurum, nihil, scio, nisi, nescio",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.bacchides,325.0,"nunc, tu, illic, no, capio, sum, iter",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+plautus.bacchides,326.0,"ut, ille, reporto, aurum, ab, theotimo, domus",7,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0",0.071,0.0,,0.0
+plautus.bacchides,327.0,"atque, heus, tu, quis, uolo, anulus, nascor, tuus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.125
+plautus.bacchides,328.0,"facio, ut, memini, fero, quis, opus, sum, anulus",8,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.062,0.0,,0.0
+plautus.bacchides,329.0,"quia, is, signum, sum, cum, theotimo, qui, is, ille, affero",10,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,330.0,"is, aurum, ut, reddo, memini, et, rectus, moneo",8,"NaN, 0.5, NaN, NaN, NaN, NaN, 1.0, NaN",0.188,0.0,,0.0
+plautus.bacchides,331.0,"sed, diues, sum, istic, theotimus, etiam, rogo",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.bacchides,332.0,"quin, aurum, habeo, soccus, sub-paciscor, solus",6,"NaN, 0.5, NaN, NaN, NaN, -0.5",0.0,-0.083,,0.0
+plautus.bacchides,333.0,"cur, ita, fastidio, tantus, diuitiae, habeo",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+plautus.bacchides,334.0,"nescio, quis, facio, aurum, ego, do, uolo",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.bacchides,335.0,"sed, qui, praesens, is, aurum, theotimo, do, sum",8,"NaN, NaN, 0.0, NaN, 0.5, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.bacchides,336.0,"populus, praesens, nullus, sum, ephesus, quin, scio",7,"0.0, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,337.0,"iste, sapienter, saltem, facio, filius",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,338.0,"cum, diues, homo, is, aurum, seruo, do",7,"NaN, 0.5, 0.0, NaN, 0.5, NaN, NaN",0.143,0.0,,0.0
+plautus.bacchides,339.0,"ab, is, liceo, quiuis, subeo, sumo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,340.0,"immo, em, tantisper, numquam, tu, moror",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.bacchides,341.0,"quin, habeo, ille, quo, dies, illic, uenio",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,342.0,"censeo, ego, effugio, ab, uito, marituma",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,343.0,"ne, nauigaris, tandem, hic, aetas, senex",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,hic,0.167
+plautus.bacchides,344.0,"is, ego, haud, utrum, uolo, licet, intellego",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,345.0,"ita, bellus, hospes, facio, archidemides",5,"NaN, 1.0, 0.0, NaN, NaN",0.2,0.0,,0.0
+plautus.bacchides,346.0,"ubi, nunc, sum, ergo, meus, mnesilochus, filius",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,347.0,"deus, atque, amicus, eo, saluto, ad, forum",7,"0.0, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+plautus.bacchides,348.0,"at, ego, hinc, ad, ille, ut, conuena, quantus, possum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,349.0,"ille, sum, onero, rectus, et, multus, iustus, ueho",8,"NaN, NaN, NaN, 1.0, NaN, 0.0, 1.0, NaN",0.25,0.0,,0.0
+plautus.bacchides,350.0,"exordior, hic, telum, non, malus, omnino, ego, sum",8,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.125,-0.125,hic,0.125
+plautus.bacchides,351.0,"ut, amo, erilis, copis, facio, filius",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,352.0,"ita, facio, ut, aurum, quantus, uolo, sumo",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.bacchides,353.0,"quantus, autem, lubet, reddo, ut, reddo, pater",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,354.0,"senex, in, ephesus, eo, aurum, arcesso",6,"0.0, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+plautus.bacchides,355.0,"hic, noster, ago, aetas, in, malacus, modus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.5",0.071,0.0,"hic, malacus",0.286
+plautus.bacchides,356.0,"siquidem, hic, relinquo, neque, cum, sui, abduco, senex",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.125
+plautus.bacchides,357.0,"ego, et, mnesilochum, qui, ego, hic, turbo, do",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.bacchides,358.0,"sed, quis, sum, sum, cum, hic, senex, re-scio",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.125
+plautus.bacchides,359.0,"cum, sui, excurro, illic, frustra, scio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,360.0,"nos, aurum, abutor, quis, ego, fio, postea",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.bacchides,361.0,"credo, hercules, aduenio, nomen, muto, ego",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,362.0,"facio, extemplo, crucisal, ego, ex, chrysalo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,363.0,"aufugio, hercules, si, magis, utor, uenio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,364.0,"si, sum, reprehendo, macto, ego, ille, infortunium",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+plautus.bacchides,365.0,"si, ille, sum, uirga, rus, at, ego, tergum, domus, sum",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,366.0,"nunc, eo, erilis, filius, hic, fabrica, do",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,hic,0.143
+plautus.bacchides,367.0,"super, aurum, amicus, is, inuenio, bacchide",6,"NaN, 0.5, 1.0, NaN, NaN, NaN",0.25,0.0,,0.0
+plautus.bacchides,368.0,"pando, atque, aperio, properus, ianua, hic, orcus, obsecro",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.bacchides,369.0,"nam, equidem, haud, aliter, sum, duco, quippe, quo, nemo, aduenio",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.05,-0.05,,0.0
+plautus.bacchides,370.0,"nisi, qui, spes, relinquo, omnis, sum, ut, frugi, possiet",9,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,frugi,0.111
+plautus.bacchides,371.0,"bacchides, non, bacchides, sed, bacchae, sum, acerrumae",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,372.0,"apage, iste, ab, ego, soror, qui, homo, sorbeo, sanguis",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,373.0,"omnis, ad, pernicies, instruo, domus, opimus, atque, opiparis",8,"NaN, NaN, -1.0, NaN, 0.0, NaN, NaN, NaN",-0.125,-0.125,,0.0
+plautus.bacchides,374.0,"qui, ut, aspicio, ego, continuo, contulis, protinam, in, pes",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,375.0,"ego, -ne, ut, hic, concludo, gesto, clanculis, ut, celis, pater",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.1
+plautus.bacchides,376.0,"pistoclere, tuus, flagitium, aut, damno, aut, desidiabulum",7,"NaN, 0.0, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,"pistoclere, flagitium, damno",0.429
+plautus.bacchides,377.0,"qui, pater, et, ego, tu, amicus, omnis, afficio, tuus",9,"NaN, 0.0, NaN, NaN, NaN, 1.0, NaN, NaN, 0.0",0.111,0.0,tu,0.111
+plautus.bacchides,378.0,"ad, probrum, damnum, flagitium, appello, unus, et, perdo",8,"NaN, -1.0, -1.0, -1.0, NaN, NaN, NaN, NaN",-0.375,-0.375,"probrum, flagitium",0.25
+plautus.bacchides,379.0,"neque, meus, neque, tu, tuus, intus, pudeo, sum, facio, qui, facio",11,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"tu, pudeo",0.182
+plautus.bacchides,380.0,"qui, tuus, pater, ego, unus, amicus, affinis, tuus",8,"NaN, 0.0, 0.0, NaN, NaN, 1.0, 0.0, 0.0",0.125,0.0,,0.0
+plautus.bacchides,381.0,"tuus, infamia, facio, gerulifigulus, flagitium",5,"0.0, -1.0, NaN, NaN, -1.0",-0.4,-0.4,"infamia, flagitium",0.4
+plautus.bacchides,382.0,"nunc, prior, quam, malus, istoc, addo, certus, sum, iam, dico, pater",11,"NaN, 0.5, NaN, -1.0, NaN, NaN, 0.5, NaN, NaN, NaN, 0.0",0.0,-0.091,,0.0
+plautus.bacchides,383.0,"de, ego, hic, culpa, demolibor, iam, et, senex, facio, palam",10,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, 0.0, NaN, NaN",-0.1,-0.1,"hic, culpa",0.2
+plautus.bacchides,384.0,"ut, is, ex, lutulentus, caenum, properus, hinc, elicio, foras",9,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.056,-0.056,caenum,0.111
+plautus.bacchides,385.0,"multimodus, meditor, nos, cum, ego, sum, et, ita, sum, arbitror",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,386.0,"homo, amicus, qui, sum, amicus, ita, uti, nomen, possideo",9,"0.0, 1.0, NaN, NaN, 1.0, NaN, NaN, 0.0, NaN",0.222,0.0,,0.0
+plautus.bacchides,387.0,"nisi, deus, is, nihil, praesto, is, opus, experior, sum, sum, ita",11,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.045,0.0,,0.0
+plautus.bacchides,388.0,"nam, ut, in, ephesus, hinc, abeo, hic, facio, sum, ferme, abhinc, biennium",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.083
+plautus.bacchides,389.0,"ex, epheso, huc, ad, pistoclerum, meus, sodalis, littera",8,"NaN, NaN, NaN, NaN, NaN, 0.0, 1.0, 0.0",0.125,0.0,,0.0
+plautus.bacchides,390.0,"mitto, amica, ut, ego, inuenio, bacchidem, ille, intellego",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,391.0,"inuenio, ut, seruus, meus, ego, nuntio, chrysalus",7,"NaN, NaN, -0.5, 0.0, NaN, NaN, NaN",-0.071,-0.071,,0.0
+plautus.bacchides,392.0,"condignus, is, quam, techna, de, aurum, ad-uerto, meus, facio, pater",10,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 0.0, NaN, 0.0",0.05,0.0,,0.0
+plautus.bacchides,393.0,"ut, ego, amo, copia, sum, sed, ecce, uideo, incedo",9,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.bacchides,394.0,"nam, pol, quidem, meus, animus, ingratus, homo, nihil, in-pendo, sum",10,"NaN, NaN, NaN, 0.0, 0.5, -1.0, 0.0, NaN, NaN, NaN",-0.05,-0.1,ingratus,0.1
+plautus.bacchides,395.0,"malefactor, amitto, sero, quam, relinquo, beneficus",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+plautus.bacchides,396.0,"nimius, impendiosus, praesto, tu, quam, ingratus, dico",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,"nimius, tu, ingratus",0.429
+plautus.bacchides,397.0,"ille, laudo, bonus, hic, etiam, ipse, culpo, malus",8,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, -1.0",0.0,-0.125,hic,0.125
+plautus.bacchides,398.0,"qui, ego, causa, magis, cum, cura, sum, aequus, obuigilato, sum, opus",11,"NaN, NaN, 0.0, NaN, NaN, -1.0, NaN, 0.5, NaN, NaN, 0.5",0.0,-0.091,,0.0
+plautus.bacchides,399.0,"nunc, mnesiloche, specimen, specio, nunc, certamen, cerno",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+plautus.bacchides,400.0,"sum, -ne, necne, ut, sum, oportet, malus, bonus, qui, modus",10,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, 1.0, NaN, 0.5",0.05,-0.1,,0.0
+plautus.bacchides,401.0,"iustus, iniustus, malignus, largus, como, incommodus",6,"1.0, -1.0, -1.0, NaN, NaN, -0.5",-0.25,-0.417,iniustus,0.167
+plautus.bacchides,402.0,"caueo, sum, tu, supero, seruus, sino, facio, bene",8,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.062,-0.062,tu,0.125
+plautus.bacchides,403.0,"utut, sum, moneo, haud, celo, sed, ecce, uideo, incedo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,404.0,"pater, sodalis, et, magister, hinc, ausculto, quam, res, ago",9,"0.0, 1.0, NaN, 0.5, NaN, NaN, NaN, 0.0, NaN",0.167,0.0,,0.0
+plautus.bacchides,405.0,"nunc, experior, sum, acetum, tu, cor, acer, in, pectus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.bacchides,406.0,"sequor, quo, sequor, quo, dux, nunc, ego, ad, ille, qui, tuus",11,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, 0.0",0.045,0.0,,0.0
+plautus.bacchides,407.0,"perdo, pessum, do, tu, filius, unicus, unicus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.143
+plautus.bacchides,408.0,"heia, lyde, lenis, qui, saeuio, sapio, magis",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,"lyde, saeuio",0.286
+plautus.bacchides,409.0,"paruus, miror, sum, illic, aetas, si, quis, ille, facio",9,"0.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,410.0,"quam, si, non, facio, facio, ego, iste, itidem, in, adulescentia",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,411.0,"is, ego, is, ego, iste, ille, perdo, assentatio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,assentatio,0.125
+plautus.bacchides,412.0,"nam, absque, tu, sum, ego, ille, habeo, recingo, ad, ingenium, bonus",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, 1.0",0.136,0.0,tu,0.091
+plautus.bacchides,413.0,"nunc, propter, tu, tuus, prauus, facio, sum, fiducia",8,"NaN, NaN, NaN, 0.0, -1.0, NaN, NaN, 0.5",-0.062,-0.125,"tu, prauus",0.25
+plautus.bacchides,414.0,"pistoclerus, deus, immortalis, meus, sodalis, hic, nomino",7,"NaN, 0.0, 0.5, 0.0, 1.0, NaN, NaN",0.214,0.0,hic,0.143
+plautus.bacchides,415.0,"quis, hic, negotium, sum, pistoclerum, lydus, qui, erus, tam, cieo",10,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",-0.05,-0.05,"hic, erus",0.2
+plautus.bacchides,416.0,"paulisper, lyde, sum, libido, homo, suus, animus, obsequor",8,"NaN, NaN, NaN, -0.5, 0.0, NaN, 0.5, NaN",0.0,-0.062,"lyde, libido",0.25
+plautus.bacchides,417.0,"iam, adsum, tempus, cum, sui, etiam, ipse, odi, mos, gero",10,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.05,0.0,,0.0
+plautus.bacchides,418.0,"dum, caueatur, praeter, aequus, ne, quis, delinquo, sine",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.bacchides,419.0,"non, sino, neque, equidem, ille, ego, uiuo, corrumpo, sino",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,420.0,"sed, tu, qui, pro, tam, corrumpo, dico, causa, filius",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,tu,0.111
+plautus.bacchides,421.0,"idem, -ne, sum, hic, disciplina, tu, cum, tu, adulescens, sum",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, tu, tu, adulescens",0.4
+plautus.bacchides,422.0,"nego, tu, hic, annus, uiginti, sum, primus, copia",8,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.5, 0.5",0.125,0.0,"tu, hic",0.25
+plautus.bacchides,423.0,"digitus, longus, ab, paedagogus, pedis, ut, effero, aedes",8,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,424.0,"ante, sol, exorior, nisi, in, palaestra, uenio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,425.0,"gymnasium, praeficio, haud, mediocris, poena, pendeo",6,"NaN, NaN, NaN, 0.0, -1.0, NaN",-0.167,-0.167,poena,0.167
+plautus.bacchides,426.0,"is, cum, obtingo, hic, etiam, ad, malus, arcesso, malus",9,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, -1.0",-0.222,-0.222,hic,0.111
+plautus.bacchides,427.0,"et, discipulus, et, magister, perhibeo, improbus",6,"NaN, NaN, NaN, 0.5, NaN, -1.0",-0.083,-0.167,improbus,0.167
+plautus.bacchides,428.0,"ibi, cursus, luctor, hasta, disco, pugilatus, pilum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,429.0,"salio, sui, exerceo, magis, quam, scortum, aut, sauiis",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,scortum,0.125
+plautus.bacchides,430.0,"ibi, suus, aetas, extendo, non, in, latebrosus, locus",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,431.0,"inde, de, hippodromos, et, palaestra, ubi, reuenio, domus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,432.0,"cincticulus, praecingo, in, sella, apud, magister, assideo",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+plautus.bacchides,433.0,"cum, liber, cum, lego, si, unus, pecco, syllaba",8,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.bacchides,434.0,"fio, corium, tam, maculosus, quam, sum, nutrix, pallium",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,maculosus,0.125
+plautus.bacchides,435.0,"propter, ego, hic, nunc, meus, sodal, dico, discrucio, miser",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, -1.0",-0.111,-0.111,"hic, miser",0.222
+plautus.bacchides,436.0,"innocens, suspicio, hic, sustineo, causa, meus",6,"0.5, -0.5, NaN, NaN, 0.0, 0.0",0.0,-0.083,"innocens, hic",0.333
+plautus.bacchides,437.0,"alius, lyde, nunc, sum, mos, is, equidem, ego, certus, scio",10,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, 0.5, NaN",0.1,0.0,lyde,0.1
+plautus.bacchides,438.0,"nam, olim, populus, prior, honor, capio, suffragium",7,"NaN, NaN, 0.0, 0.5, 1.0, NaN, 0.0",0.214,0.0,,0.0
+plautus.bacchides,439.0,"quam, magister, desino, sum, dico, oboedio",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+plautus.bacchides,440.0,"at, nunc, prior, quam, septuennis, sum, si, attingo, is, manus",10,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.05,0.0,,0.0
+plautus.bacchides,441.0,"extemplo, puer, paedagogus, tabula, disrumpo, caput",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,442.0,"cum, pater, adeo, postulo, puer, sic, dico, pater",8,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,443.0,"noster, sum, dum, tu, possum, defensaris, iniuria",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,tu,0.143
+plautus.bacchides,444.0,"prouoco, paedagogus, eho, senex, minimus, pretium",6,"NaN, NaN, NaN, 0.0, NaN, 1.0",0.167,0.0,pretium,0.167
+plautus.bacchides,445.0,"ne, attigo, puer, istac, causa, quando, facio, strenuus",8,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, 1.0",0.125,0.0,,0.0
+plautus.bacchides,446.0,"eo, magister, quasi, lucerna, ungo, expretus, linteum",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,linteum,0.143
+plautus.bacchides,447.0,"eo, illinc, ius, dico, hoci, -ne, hic, pacisco, possum",9,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.056,0.0,"hoci, hic",0.222
+plautus.bacchides,448.0,"inhibeo, imperium, magister, si, ipse, primus, uapulo",7,"NaN, 0.0, 0.5, NaN, NaN, 0.5, NaN",0.143,0.0,,0.0
+plautus.bacchides,449.0,"acer, postulatio, hic, sum, cum, hic, dictum, intellego",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, hic",0.25
+plautus.bacchides,450.0,"mirus, sum, ni, pistoclerus, lydum, pugna, contundo",7,"1.0, NaN, NaN, NaN, NaN, -1.0, NaN",0.0,-0.143,,0.0
+plautus.bacchides,451.0,"sed, quis, hic, sum, qui, asto, uideo, ante, ostium, o, philoxene",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.091
+plautus.bacchides,452.0,"deus, propitius, ego, uideo, quam, ille, haud, malo, ego",9,"0.0, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.bacchides,453.0,"quis, illic, sum, mnesilochus, nascor, tuus, sodalis, pistocleri",8,"NaN, NaN, NaN, NaN, NaN, 0.0, 1.0, NaN",0.125,0.0,,0.0
+plautus.bacchides,454.0,"haud, consimilis, ingenium, atque, ille, sum, qui, in, lupanaris, accubo",10,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.05,0.0,lupanaris,0.1
+plautus.bacchides,455.0,"fortuno, nicobulis, qui, ille, produco, sui",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,nicobulis,0.167
+plautus.bacchides,456.0,"saluus, sum, mnesiloche, saluus, tu, aduenio, gaudeo",7,"1.0, NaN, NaN, 1.0, NaN, NaN, NaN",0.286,0.0,tu,0.143
+plautus.bacchides,457.0,"deus, tu, amo, philoxene, hic, enim, rite, produco, sum, pater",10,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, hic",0.2
+plautus.bacchides,458.0,"in, mare, eo, res, familiaris, curo, custodio, domus",8,"NaN, 0.0, NaN, 0.0, 1.0, NaN, NaN, 0.0",0.125,0.0,,0.0
+plautus.bacchides,459.0,"obsequor, oboedio, sum, morior, atque, imperium, pater",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+plautus.bacchides,460.0,"hic, sodalis, pistoclero, iam, puer, puer, sum",7,"NaN, 1.0, NaN, NaN, 0.0, 0.0, NaN",0.143,0.0,hic,0.143
+plautus.bacchides,461.0,"triduum, non, intersum, aetas, uter, magnus, sum",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,462.0,"uerus, ingenium, multus, triginta, annus, magnus, sum, quam, alter",9,"0.5, 0.5, 0.0, NaN, 0.0, 0.0, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.bacchides,463.0,"caueo, malus, et, compesco, in, ille, dico, iniustus, taceo",9,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.222,-0.222,iniustus,0.111
+plautus.bacchides,464.0,"stultus, sum, qui, ille, malus, aeger, pateo, dico, qui, facio",10,"-1.0, NaN, NaN, NaN, -1.0, -1.0, NaN, NaN, NaN, NaN",-0.3,-0.3,stultus,0.1
+plautus.bacchides,465.0,"nam, ille, meus, malus, promptaris, malo, quam, peculium",8,"NaN, NaN, 0.0, -1.0, NaN, NaN, NaN, 0.0",-0.125,-0.125,,0.0
+plautus.bacchides,466.0,"quidum, quia, malus, si, prompto, in, dies, facio, paruus",9,"NaN, NaN, -1.0, NaN, NaN, NaN, 0.0, NaN, 0.0",-0.111,-0.111,,0.0
+plautus.bacchides,467.0,"quis, sodalis, meus, castigo, lyde, discipulis, tuus",7,"NaN, 1.0, 0.0, NaN, NaN, NaN, 0.0",0.143,0.0,"castigo, lyde",0.286
+plautus.bacchides,468.0,"pereo, tu, sodalis, ne, deus, sino, sic, sum, ut, loquor",10,"NaN, NaN, 1.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.1,0.0,tu,0.1
+plautus.bacchides,469.0,"quin, ego, cum, pereo, uideo, non, ex, audio, arguo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,470.0,"quis, facio, sum, meretrix, indignus, depereo, non, tu, taceo",9,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.111,-0.111,"meretrix, tu",0.222
+plautus.bacchides,471.0,"atque, acerrume, aestuosus, absorbeo, ubi, quisque, attigo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,472.0,"ubi, is, mulier, habito, hic, unde, is, sum, aio, ex, samus",11,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"mulier, hic",0.182
+plautus.bacchides,473.0,"qui, uoco, bacchis, erro, lyde, ego, omnis, res, scio",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,lyde,0.111
+plautus.bacchides,474.0,"qui, ad, modus, sum, tu, pistoclerum, fallo, atque, insons, arguo",10,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.15,0.0,"tu, fallo, insons",0.3
+plautus.bacchides,475.0,"nam, ille, amicus, et, beneuolens, suus, sodal, sedulus",8,"NaN, NaN, 1.0, NaN, 1.0, NaN, NaN, NaN",0.25,0.0,,0.0
+plautus.bacchides,476.0,"res, mando, exsequor, ipse, neque, amo, neque, tu, credo",9,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.111
+plautus.bacchides,477.0,"ita, -ne, oportet, res, mando, gero, amicus, sedulus",8,"NaN, NaN, NaN, 0.0, NaN, NaN, 1.0, NaN",0.125,0.0,,0.0
+plautus.bacchides,478.0,"ut, ipse, in, gremium, osculo, mulier, teneo, sedeo",8,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,mulier,0.125
+plautus.bacchides,479.0,"nullus, -ne, pacisco, res, mandatum, possum, ago, nisi, identidem",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,480.0,"manus, fero, is, ad, papilla, labrum, ab, labrum, nusquam, aufero",10,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,481.0,"nam, alius, memoro, qui, ille, facio, uideo, dispudet",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,482.0,"cum, manus, sub, uestimentum, ad, corpus, fero, bacchidi",8,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,483.0,"ego, praesens, neque, pudeo, quisquam, quis, uerbum, opus, sum",9,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, 0.5, NaN",0.056,0.0,pudeo,0.111
+plautus.bacchides,484.0,"ego, discipulus, tu, sodalis, pereo, hic, filius",7,"NaN, NaN, NaN, 1.0, NaN, NaN, 0.0",0.143,0.0,"tu, hic",0.286
+plautus.bacchides,485.0,"nam, ego, ille, pereo, dico, qui, quidem, pereo, pudor",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.056,0.0,pudor,0.111
+plautus.bacchides,486.0,"quis, opus, sum, uerbum, si, opperior, uolo, paulisper, modo",9,"NaN, 0.5, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.bacchides,487.0,"ut, opinor, ille, inspecto, ego, sum, magnus, copia",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.5",0.062,0.0,,0.0
+plautus.bacchides,488.0,"multus, uideo, quam, decet, quam, ego, atque, ille, aequus, sum",10,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.05,0.0,,0.0
+plautus.bacchides,489.0,"perdo, ego, sodalis, ego, -ne, ut, ille, mulier",8,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, 0.0",0.125,0.0,mulier,0.125
+plautus.bacchides,490.0,"capio, non, perdo, pereo, ego, malus, malo, modus",8,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, 0.5",-0.062,-0.125,,0.0
+plautus.bacchides,491.0,"satis, ne, ut, qui, tu, habeo, fidelis, tu, aut, qui, credo, nescio",12,"0.5, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.125,0.0,"tu, tu",0.167
+plautus.bacchides,492.0,"uideo, -ne, ut, aeger, patior, nascor, sum, corrumpo, tuus",9,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, 0.0",-0.111,-0.111,,0.0
+plautus.bacchides,493.0,"suus, sodalis, ut, ipse, sui, crucio, aegritudo",7,"NaN, 1.0, NaN, NaN, NaN, NaN, -1.0",0.0,-0.143,,0.0
+plautus.bacchides,494.0,"mnesiloche, hic, cum, tu, oro, ut, ille, animus, atque, ingenium, rego",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 0.5, NaN",0.091,0.0,"hic, tu",0.182
+plautus.bacchides,495.0,"seruo, tu, sodalis, et, ego, filius, facio, uolo",8,"NaN, NaN, 1.0, NaN, NaN, 0.0, NaN, NaN",0.125,0.0,tu,0.125
+plautus.bacchides,496.0,"bonus, sum, ego, quoque, unus, si, cum, ille, relinquo",9,"1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.bacchides,497.0,"affatim, sum, mnesiloche, cura, is, concastigo, homo, probus",8,"NaN, NaN, NaN, -1.0, NaN, NaN, 0.0, 1.0",0.0,-0.125,probus,0.125
+plautus.bacchides,498.0,"qui, dedecoro, tu, ego, amicus, alius, flagitium, suus",8,"NaN, NaN, NaN, NaN, 1.0, NaN, -1.0, NaN",0.0,-0.125,"tu, flagitium",0.25
+plautus.bacchides,499.0,"in, tu, ego, hic, onus, omnis, impono, lyde, sequor, hic, ego, sequor",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, hic, lyde, hic",0.333
+plautus.bacchides,500.0,"inimicus, nunc, utrum, credo, magis",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,,0.0
+plautus.bacchides,501.0,"sodalis, -ne, sum, an, bacchidem, incertus, admodum, sum",8,"1.0, NaN, NaN, NaN, NaN, -0.5, NaN, NaN",0.062,-0.062,,0.0
+plautus.bacchides,502.0,"ille, exopto, potis, habeo, bonus, sum",6,"NaN, NaN, 0.0, NaN, 1.0, NaN",0.167,0.0,,0.0
+plautus.bacchides,503.0,"ne, ille, ille, hercules, cum, malus, facio, suus",8,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.125,-0.125,,0.0
+plautus.bacchides,504.0,"nam, ego, diuinus, numquam, quisquam, credo",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+plautus.bacchides,505.0,"ni, ego, ille, exemplum, plurumis, planequeamo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,506.0,"ego, facio, hau, dico, nanciscor, qui, derideo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,derideo,0.143
+plautus.bacchides,507.0,"nam, iam, domus, eo, atquealiquid, surrupiam, pater, is, iste, do, ego, iste, multus, ulciscor, modus",15,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.5",0.033,0.0,ulciscor,0.067
+plautus.bacchides,508.0,"adeo, ego, ille, cogo, usque, ut, mendicetmeus, pater",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,509.0,"sed, sero, ego, animus, mens, sincerus, gero",7,"NaN, NaN, NaN, 0.5, 0.5, 0.5, NaN",0.214,0.0,,0.0
+plautus.bacchides,510.0,"qui, ad, hic, modus, hic, hic, qui, sum, fabulor",9,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.056,0.0,"hic, hic, hic",0.333
+plautus.bacchides,511.0,"amo, hercules, opino, ut, potis, qui, pro, certus, scio",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.5, NaN",0.056,0.0,opino,0.111
+plautus.bacchides,512.0,"uerus, quam, ille, umquam, de, meus, pecunia",7,"0.5, NaN, NaN, NaN, NaN, 0.0, 0.0",0.071,0.0,pecunia,0.143
+plautus.bacchides,513.0,"ramenta, fio, plumeus, propendeo",4,"NaN, NaN, NaN, NaN",nan,nan,ramenta,0.25
+plautus.bacchides,514.0,"mendicus, malo, mendico, uinco",4,"-1.0, NaN, NaN, NaN",-0.25,-0.25,,0.0
+plautus.bacchides,515.0,"numquam, edepol, uiuus, ego, irrideo, nam, ego",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"edepol, uiuus",0.286
+plautus.bacchides,516.0,"decretum, sum, renumeraris, iam, omnis, aurum, pater",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 0.0",0.071,0.0,,0.0
+plautus.bacchides,517.0,"igitur, ego, inanis, atque, inops, subblandibitur",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+plautus.bacchides,518.0,"tum, cum, blandio, nihilum, multus, refero",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,519.0,"quam, si, ad, sepulcrum, mortuus, narro, logos, sed, autem, quam, ille, umquam, meus, opulentia, ramenta, fio, grauis, aut, propendeo, morior, ego, malo, excrucio, inopia",24,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.062,-0.062,"sepulcrum, ramenta, excrucio",0.125
+plautus.bacchides,520.0,"profecto, stabilis, sum, ego, pater, aurum, reddo",7,"NaN, 0.5, NaN, NaN, 0.0, 0.5, NaN",0.143,0.0,,0.0
+plautus.bacchides,521.0,"idem, exoro, chrysalo, causa, meus",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+plautus.bacchides,522.0,"pater, ne, noceo, neu, quis, is, suscenseo",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,noceo,0.143
+plautus.bacchides,523.0,"meus, causa, de, aurum, qui, is, ludifico, sum",8,"0.0, 0.0, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.bacchides,524.0,"nam, ille, aequus, sum, ego, consulo, qui, causa, meus",9,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, 0.0, 0.0",0.056,0.0,,0.0
+plautus.bacchides,525.0,"mendacium, is, dico, tu, ego, sequor",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,"mendacium, tu",0.333
+plautus.bacchides,526.0,"res, alius, ante-uerto, bacchis, qui, mando, ego",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,527.0,"mnesilochum, ut, requiro, atque, ut, is, cum, ego, ad, tu, adduco, simul",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.083
+plautus.bacchides,528.0,"nam, ille, animus, meus, miro, si, ab, ego, tango, nuntius",10,"NaN, NaN, 0.5, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.bacchides,529.0,"quis, remoror, eo, ut, uideo, huc, ad, is, si, fors, sum, domus",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,530.0,"reddo, pater, omnis, aurum, nunc, ego, ille, ego, uolo",9,"NaN, 0.0, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.bacchides,531.0,"conuenio, postquam, inanis, sum, contemptrix, meus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,532.0,"sed, uenio, ego, quam, grauo, pater, do, de, chrysalo",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,533.0,"uerus, postremo, impetro, ut, ne, quis, is, suscenseo",8,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.bacchides,534.0,"sum, -ne, hic, meus, sodalis, sum, -ne, hic, hostis, qui, aspicio, meus",12,"NaN, NaN, NaN, 0.0, 1.0, NaN, NaN, NaN, -1.0, NaN, NaN, 0.0",0.0,-0.083,"hic, hic",0.167
+plautus.bacchides,535.0,"certus, is, sum, is, sum, adeo, contra, et, contollo, gradus",10,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.05,0.0,,0.0
+plautus.bacchides,536.0,"saluus, sum, mnesiloche, saluus, saluus, cum, peregre, aduenio",8,"1.0, NaN, NaN, 1.0, 1.0, NaN, NaN, NaN",0.375,0.0,,0.0
+plautus.bacchides,537.0,"cena, do, non, placeo, ego, cena, qui, bilis, moueo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,538.0,"numquae, aduenio, aegritudo, obiecto, sum, atque, acerruma",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+plautus.bacchides,539.0,"unde, ab, homo, qui, ego, amicus, sum, arbitror, sum, antehac",10,"NaN, NaN, 0.0, NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+plautus.bacchides,540.0,"multus, mos, iste, atque, exemplum, uiuo, qui, cum, censeo",9,"0.0, 0.5, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.bacchides,541.0,"sum, amicus, reperio, fallo, falsimonia",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,fallo,0.2
+plautus.bacchides,542.0,"lingua, factiosus, iners, opus, sublestus, fides",6,"-0.5, NaN, 0.0, 0.5, NaN, 1.0",0.167,-0.083,iners,0.167
+plautus.bacchides,543.0,"nullus, sum, qui, non, inuideo, res, secundus, obtingo",8,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,544.0,"sui, ne, inuideo, ipse, ignauia, rectus, caueo",7,"NaN, NaN, NaN, NaN, -1.0, 1.0, NaN",0.0,-0.143,ignauia,0.143
+plautus.bacchides,545.0,"edepol, ne, tu, ille, mos, perquam, meditas, teneo",8,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.062,0.0,"edepol, tu",0.25
+plautus.bacchides,546.0,"sed, etiam, unus, hic, ex, ingenium, malus, malus, inuenio, suus",10,"NaN, NaN, NaN, NaN, NaN, 0.5, -1.0, -1.0, NaN, NaN",-0.15,-0.2,hic,0.1
+plautus.bacchides,547.0,"nullus, amicus, sum, inimicus, ipse, in, sui, omnis, habeo",9,"NaN, 1.0, NaN, -1.0, NaN, NaN, NaN, NaN, NaN",0.0,-0.111,,0.0
+plautus.bacchides,548.0,"is, sui, cum, frustro, frustraris, alius, stolidus, existimo",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,stolidus,0.125
+plautus.bacchides,549.0,"sicut, sum, hic, qui, sum, amicus, reor, sum, atque, ipse, sum, ego",12,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.083,0.0,hic,0.083
+plautus.bacchides,550.0,"ille, qui, in, sui, sum, accuro, habeo, qui, possum, malus",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.1,-0.1,,0.0
+plautus.bacchides,551.0,"facio, in, ego, inconcilio, copia, omnis, meus",7,"NaN, NaN, NaN, NaN, 0.5, NaN, 0.0",0.071,0.0,,0.0
+plautus.bacchides,552.0,"improbus, iste, sum, oportet, homo, ego, ita, sum, arbitror",9,"-1.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",-0.111,-0.111,improbus,0.111
+plautus.bacchides,553.0,"obsecro, hercules, loquor, quis, is, sum, beneuolens, uiuo, tu",9,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.111,0.0,tu,0.111
+plautus.bacchides,554.0,"nam, ni, ita, sum, cum, tu, oraris, ut, is, qui, possum, malus",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.083,-0.083,tu,0.083
+plautus.bacchides,555.0,"facio, facio, dico, modo, homo, qui, sum, si, non, facio",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,556.0,"is, malus, aliquis, pacisco, ego, sum, dico, ignauus",8,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN, -1.0",-0.25,-0.25,ignauus,0.125
+plautus.bacchides,557.0,"nequam, homo, sum, uerus, hercules, amicus, sum, tu, tantus, magis",10,"-1.0, 0.0, NaN, 0.5, NaN, 1.0, NaN, NaN, NaN, NaN",0.05,-0.1,"nequam, tu",0.2
+plautus.bacchides,558.0,"dico, quis, sum, nequam, homo, ego, paruus, pendo, gratia",9,"NaN, NaN, NaN, -1.0, 0.0, NaN, 0.0, NaN, 1.0",0.0,-0.111,nequam,0.111
+plautus.bacchides,559.0,"uideo, non, potesse, quin, tu, is, nomen, eloquor",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.125
+plautus.bacchides,560.0,"pistoclere, perdo, ego, sodalis, fundus",5,"NaN, NaN, NaN, 1.0, 0.0",0.2,0.0,pistoclere,0.2
+plautus.bacchides,561.0,"quis, iste, sum, quis, sum, mitto, -ne, ego, ad, tu, ex, epheso, epistula",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.038,0.0,tu,0.077
+plautus.bacchides,562.0,"super, amicus, ut, ego, inuenio, fateor, facio, et, reperio",9,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.bacchides,563.0,"quis, tu, non, sum, meretrix, alius, athenae, copia",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,"tu, meretrix",0.25
+plautus.bacchides,564.0,"cum, qui, habeo, res, nisi, cum, ille, quam, ego, mando, tu",11,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.091
+plautus.bacchides,565.0,"ob-capio, tueor, amo, et, ego, eo, consulo, malus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,,0.0
+plautus.bacchides,566.0,"sanu, -ne, sum, res, reperio, omnis, ex, tuus, magister, ne, nego",11,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, 0.5, NaN, NaN",0.045,0.0,sanu,0.091
+plautus.bacchides,567.0,"perdo, ego, etiam, -ne, ultro, tuus, ego, prolecto, probrum",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, -1.0",-0.111,-0.111,probrum,0.111
+plautus.bacchides,568.0,"quis, amo, bacchidem, duo, ergo, hic, intus, ecce, bacchides",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.bacchides,569.0,"quis, duo, atque, ambo, soror, loquor, nunc, nugae, scio",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.111,-0.111,,0.0
+plautus.bacchides,570.0,"postremo, si, pergo, paruus, ego, fides, arbitror",7,"NaN, NaN, NaN, 0.0, NaN, 1.0, NaN",0.143,0.0,,0.0
+plautus.bacchides,571.0,"tollo, ego, tu, in, collum, atque, intro, hinc, aufero, immo, eo, mane",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.083
+plautus.bacchides,572.0,"non, maneo, neque, tu, ego, habeo, fallo, suspicio, sequor",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.056,-0.056,"tu, fallo",0.222
+plautus.bacchides,573.0,"parasitus, ego, sum, homo, nequam, atque, improbus",7,"-0.5, NaN, NaN, 0.0, -1.0, NaN, -1.0",-0.357,-0.357,"parasitus, nequam, improbus",0.429
+plautus.bacchides,574.0,"miles, qui, amica, cum, sui, aueho, ex, samus",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,575.0,"nunc, ego, eo, iubeo, ad, is, et, perconto",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,576.0,"utrum, aurum, reddo, annus, eo, cum, sui, semul",8,"NaN, 0.5, NaN, 0.0, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.bacchides,577.0,"tu, dudum, puer, cum, illac, usque, iste, semul",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.125
+plautus.bacchides,578.0,"qui, haris, sum, aedes, pulta., adeo, actus, ad, foris",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,579.0,"recedo, hinc, dierecte, ut, pulso, propudium",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,580.0,"comedo, panis, tres, pes, latus, possum",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,581.0,"foris, pultaris, nescio, ecquis, in, aedes, sum",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,582.0,"heus, ecquis, hic, sum, ecquis, hic, aperio, ostium",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.25
+plautus.bacchides,583.0,"ecquis, exeo, quis, iste, qui, iste, sum, pulsatio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,584.0,"qui, tu, malus, crux, agito, qui, ad, iste, modus",9,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, 0.5",-0.056,-0.111,"tu, crux",0.222
+plautus.bacchides,585.0,"alienus, uis, tuus, extento, ostium",5,"-0.5, 1.0, 0.0, NaN, NaN",0.1,-0.1,,0.0
+plautus.bacchides,586.0,"foris, paene, exfregisti, quis, nunc, uolo, tu",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.bacchides,587.0,"adulescens, saluus, saluus, sed, qui, quaerito",6,"NaN, 1.0, 1.0, NaN, NaN, NaN",0.333,0.0,adulescens,0.167
+plautus.bacchides,588.0,"bacchidem, utram, ergo, nihil, scio, nisi, bacchidem",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,589.0,"paucus, ego, mitto, miles, ad, is, cleomachus",7,"0.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,590.0,"uel, ut, ducenti, philippos, reddo, aureus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+plautus.bacchides,591.0,"uel, ut, hinc, in, elatiam, hodie, eo, cum, sui, semul",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,592.0,"non, eo, nego, sui, eo, abeo, et, renuntio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,593.0,"alius, ille, amo, non, ille, duco, tu, ab, aedes",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.111
+plautus.bacchides,594.0,"nimis, iracundus, at, scio, ne, quam, iracundus, sum",8,"NaN, -1.0, NaN, NaN, NaN, NaN, -1.0, NaN",-0.25,-0.25,"iracundus, iracundus",0.25
+plautus.bacchides,595.0,"ne, tu, hercules, haud, longus, sum, os, ab, infortunium",9,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, -1.0",-0.111,-0.111,tu,0.111
+plautus.bacchides,596.0,"ita, dentifrangibulus, hic, meus, manus, gestio",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,hic,0.167
+plautus.bacchides,597.0,"cum, ego, hic, uerbum, interpretor, ego, cautio, sum",8,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.5, NaN",0.062,0.0,hic,0.125
+plautus.bacchides,598.0,"ne, nucifrangibulum, excutio, ex, malus, meus",6,"NaN, NaN, NaN, NaN, -1.0, 0.0",-0.167,-0.167,,0.0
+plautus.bacchides,599.0,"tuus, ego, iste, igitur, dico, ille, periculum",7,"0.0, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+plautus.bacchides,600.0,"quis, aio, tu, ego, iste, ille, dico, dico, ego",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.bacchides,601.0,"quis, tu, sum, ille, sum, integumentum, corpus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+plautus.bacchides,602.0,"nequam, sum, oportet, qui, tu, integumentum",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,"nequam, tu",0.333
+plautus.bacchides,603.0,"sufflo, ille, huc, uenio, dirrumptum, uolo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,604.0,"numquid, uolo, abeo, celer, facio, sum, opus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+plautus.bacchides,605.0,"ual, dentifrangibulis, et, tu, integumentum, ual",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.bacchides,606.0,"in, is, nunc, hic, res, uenio, locus, ut, quis, consilium",10,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, 0.5",0.05,0.0,hic,0.1
+plautus.bacchides,607.0,"do, meus, sodal, super, amicus, nescio",6,"NaN, 0.0, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+plautus.bacchides,608.0,"qui, irascor, renumero, omnis, aurum, pater",6,"NaN, NaN, NaN, NaN, 0.5, 0.0",0.083,0.0,,0.0
+plautus.bacchides,609.0,"neque, nummus, ullus, sum, qui, reddo, miles",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,nummus,0.143
+plautus.bacchides,610.0,"sed, huc, concedo, nam, concrepo, foris",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,611.0,"mnesilochus, ecce, maestus, progredio, foras",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,,0.0
+plautus.bacchides,612.0,"petulans, proteruus, iracundus, animus, indomitus, incogito",6,"-0.5, -0.5, -1.0, 0.5, NaN, NaN",-0.25,-0.333,"petulans, proteruus, iracundus, indomitus",0.667
+plautus.bacchides,613.0,"sine, modo, et, modestia, sum, sine, bonus, ius, atque, honor",10,"NaN, NaN, NaN, 0.5, NaN, NaN, 1.0, 0.5, NaN, 1.0",0.3,0.0,modestia,0.1
+plautus.bacchides,614.0,"incredibilis, imposque, animus, inamabilis, illepidus, uiuo",6,"-0.5, NaN, 0.5, -1.0, -1.0, NaN",-0.333,-0.417,,0.0
+plautus.bacchides,615.0,"maleuolens, ingenium, nascor, postremo, is, ego, sum, qui, uolo, ego, sum, alius, credibilis, hic, sum",15,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.067,0.0,hic,0.067
+plautus.bacchides,616.0,"nequior, nemo, sum, neque, indignus, qui, deus, bene, facio, neque, qui, quisquam",12,"NaN, -0.5, NaN, NaN, -1.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",-0.125,-0.125,,0.0
+plautus.bacchides,617.0,"homo, aut, amo, aut, adeo",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,618.0,"inimicus, quam, amicus, aequus, sum, ego, habeo",7,"-1.0, NaN, 1.0, 0.5, NaN, NaN, NaN",0.071,-0.143,,0.0
+plautus.bacchides,619.0,"malus, quam, bonus, par, magis, ego, iuuaris",7,"-1.0, NaN, 1.0, 0.5, NaN, NaN, NaN",0.071,-0.143,,0.0
+plautus.bacchides,620.0,"omnis, probrum, qui, improbus, uis",5,"NaN, -1.0, NaN, -1.0, 1.0",-0.2,-0.4,"probrum, improbus",0.4
+plautus.bacchides,621.0,"dignus, sum, dignus, nullus, sum, homo",6,"1.0, NaN, 1.0, NaN, NaN, 0.0",0.333,0.0,,0.0
+plautus.bacchides,622.0,"qui, pater, reddo, omnis, aurum, amo, ego",7,"NaN, 0.0, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+plautus.bacchides,623.0,"qui, sum, prae, manus, sum, -ne, ego, homo, miser",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, -1.0",-0.111,-0.111,miser,0.111
+plautus.bacchides,624.0,"perdo, ego, simul, opera, chrysal",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,,0.0
+plautus.bacchides,625.0,"consolo, hic, ego, sum, eo, ad, is",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.bacchides,626.0,"mnesiloche, quis, fio, pereo, deus, bonus, facio, pereo",8,"NaN, NaN, NaN, NaN, 0.0, 1.0, NaN, NaN",0.125,0.0,,0.0
+plautus.bacchides,627.0,"non, taceo, insipiens, taceo, sanus, satis, non, sum, pereo",9,"NaN, NaN, -1.0, NaN, 1.0, 0.5, NaN, NaN, NaN",0.056,-0.111,insipiens,0.111
+plautus.bacchides,628.0,"multus, malus, ego, in, pectus, nunc, acer, atque, acerbus, euenio",10,"0.0, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,acerbus,0.1
+plautus.bacchides,629.0,"crimen, -ne, ego, habeo, fides, immeritus, tu, irascor, sum",9,"-1.0, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.0,-0.111,"crimen, tu",0.222
+plautus.bacchides,630.0,"heia, bonus, habeo, animus, unde, habeo, mortuus, multus, pretium, sum",10,"NaN, 1.0, NaN, 0.5, NaN, NaN, NaN, 0.0, 1.0, NaN",0.25,0.0,pretium,0.1
+plautus.bacchides,631.0,"quam, ego, sum, miles, parasitus, uenio, modo, aurum, peto, hinc",10,"NaN, NaN, NaN, 0.0, -0.5, NaN, NaN, 0.5, NaN, NaN",0.0,-0.05,parasitus,0.1
+plautus.bacchides,632.0,"is, ego, meus, dictum, malus, hic, foris, atque, hic, platea, abigo",11,"NaN, NaN, 0.0, 0.0, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.091,-0.091,"hic, hic",0.182
+plautus.bacchides,633.0,"repello, reicio, homo, quis, ego, is, prodo, cum, ipse, uenio",10,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,634.0,"quis, facio, nihil, habeo, miser, ille, quidem, hic, abduco, scio",10,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.1,-0.1,"miser, hic",0.2
+plautus.bacchides,635.0,"si, ego, sum, non, polliceo, scio, do, nosco, tuus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,636.0,"sed, nisi, amo, non, habeo, tu, fides, tantus, is, qui, amo, tamen",12,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.083,0.0,tu,0.083
+plautus.bacchides,637.0,"nunc, agito, satis, tueor, tuus, res, sin, liber, sum",9,"NaN, NaN, 0.5, NaN, 0.0, 0.0, NaN, 0.5, NaN",0.111,0.0,,0.0
+plautus.bacchides,638.0,"ego, -ne, ut, ops, ego, fero, possum, puto, inops, tu, non, possum, taceo, modo, deus, respicio, nos, aliquis, nugae, ual",20,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, -1.0, NaN",-0.1,-0.1,tu,0.05
+plautus.bacchides,639.0,"mane, quis, sum, tuus, copia, ecce, chrysal, uideo, taceo",9,"NaN, NaN, NaN, 0.0, 0.5, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.bacchides,640.0,"hic, homo, decet, aurum, expendo, hic, decet, statua, statuo, ex, aurum",11,"NaN, 0.0, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.091,0.0,"hic, hic",0.182
+plautus.bacchides,641.0,"nam, duplex, hodie, facinus, facio, duplex, spolium, sum, affectus",9,"NaN, 0.0, NaN, -1.0, NaN, 0.0, NaN, NaN, 0.0",-0.111,-0.111,facinus,0.111
+plautus.bacchides,642.0,"erus, magnus, meus, ut, ego, hodie, ludo, lepidus, ut, ludifico, sum",11,"0.0, 0.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,erus,0.091
+plautus.bacchides,643.0,"callidus, senex, callidus, dolus",4,"1.0, 0.0, 1.0, NaN",0.5,0.0,"callidus, callidus, dolus",0.75
+plautus.bacchides,644.0,"compulis, et, perpulis, ego, omnis, ut, credo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,645.0,"nunc, amo, sum, filius, senex",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+plautus.bacchides,646.0,"cum, qui, ego, bibo, cum, qui, edo, et, amo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,647.0,"regia, copia, aurea, optulis",4,"NaN, 0.5, NaN, NaN",0.125,0.0,,0.0
+plautus.bacchides,648.0,"ut, domus, sumo, neu, foris, quaero",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,649.0,"non, ego, iste, placeo, parmenones, syrus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,650.0,"qui, duo, aut, tres, minae, aufero, sum",7,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN",-0.071,-0.071,,0.0
+plautus.bacchides,651.0,"nequius, nihil, sum, quam, egeo, consilium, seruus, nisi",8,"NaN, NaN, NaN, NaN, NaN, 0.5, -0.5, NaN",0.0,-0.062,nequius,0.125
+plautus.bacchides,652.0,"habeo, multipotens, pectus",3,"NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,653.0,"ubicumque, utor, sum, pectus, expromo, suus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,654.0,"nullus, frugi, sum, possum, homo",5,"NaN, 1.0, NaN, NaN, 0.0",0.2,0.0,frugi,0.2
+plautus.bacchides,655.0,"nisi, qui, et, bene, et, malus, facio, teneo",8,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.125,-0.125,,0.0
+plautus.bacchides,656.0,"improbus, cum, improbus, sum, harpago, fur",6,"-1.0, NaN, -1.0, NaN, NaN, -1.0",-0.5,-0.5,"improbus, improbus, fur",0.5
+plautus.bacchides,657.0,"furo, qui, queo",3,"NaN, NaN, NaN",nan,nan,furo,0.333
+plautus.bacchides,658.0,"uersipellis, frugi, conuenio, sum, homo",5,"NaN, 1.0, NaN, NaN, 0.0",0.2,0.0,frugi,0.2
+plautus.bacchides,659.0,"pectus, qui, sapio, bonus, sum, bonus, malus, sum, malus",9,"NaN, NaN, NaN, 1.0, NaN, 1.0, -1.0, NaN, -1.0",0.0,-0.222,,0.0
+plautus.bacchides,662.0,"utcumque, res, sum, ita, animus, habeo",6,"NaN, 0.0, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+plautus.bacchides,663.0,"sed, lubet, scio, quantus, aurum, erus, sui",7,"NaN, NaN, NaN, NaN, 0.5, 0.0, NaN",0.071,0.0,erus,0.143
+plautus.bacchides,664.0,"demo, et, quis, suus, reddo, pater",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,665.0,"si, frugi, sum, herculis, facio, ex, pater",7,"NaN, 1.0, NaN, NaN, NaN, NaN, 0.0",0.143,0.0,frugi,0.143
+plautus.bacchides,666.0,"decimus, pars, is, do, sui, nouo, aufero",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,667.0,"sed, qui, quaero, bonus, ecce, obuius, ego, sum",8,"NaN, NaN, NaN, 1.0, NaN, -0.5, NaN, NaN",0.062,-0.062,,0.0
+plautus.bacchides,668.0,"num, qui, nummus, excido, eremus, tu, qui, sic, terra, obtueor",10,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"nummus, tu",0.2
+plautus.bacchides,669.0,"quis, tu, maestus, tam, tristis, sum, conspicor",7,"NaN, NaN, -1.0, NaN, -1.0, NaN, NaN",-0.286,-0.286,tu,0.143
+plautus.bacchides,670.0,"non, placeo, neque, temere, sum, etiam, quin, ego, respondeo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,671.0,"chrsal, occido, fortassis, tu, aurum, demo, parum",7,"NaN, NaN, NaN, NaN, 0.5, NaN, 0.0",0.071,0.0,"occido, tu",0.286
+plautus.bacchides,672.0,"quam, malus, parum, immo, uerus, nimius, paruus, multus, parum",9,"NaN, -1.0, 0.0, NaN, 0.5, NaN, 0.0, 0.0, 0.0",-0.056,-0.111,nimius,0.111
+plautus.bacchides,673.0,"quis, igitur, stultus, an, tu, quoniam, occasio, ad, is, res, sum",11,"NaN, NaN, -1.0, NaN, NaN, NaN, 0.5, NaN, NaN, 0.0, NaN",-0.045,-0.091,"stultus, tu",0.182
+plautus.bacchides,674.0,"meus, uirtus, pario, ut, quantus, uolo, tantus, sumo",8,"0.0, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+plautus.bacchides,675.0,"sic, hic, digitulis, duo, sumo, primoris",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+plautus.bacchides,676.0,"an, nescio, quam, is, modus, homo, rarus, tempus, sui, do",10,"NaN, NaN, NaN, NaN, 0.5, 0.0, NaN, 0.0, NaN, NaN",0.05,0.0,,0.0
+plautus.bacchides,677.0,"erro, at, quidem, tueor, erro, cum, parum, immersti, ampliter",9,"0.0, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,678.0,"pol, tu, quam, nunc, ego, accuso, magis, si, magis, res, nosco",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.091
+plautus.bacchides,679.0,"occido, animus, iam, istoc, dico, multus, praesagio, malus",8,"NaN, 0.5, NaN, NaN, NaN, 0.0, NaN, -1.0",-0.062,-0.125,occido,0.125
+plautus.bacchides,680.0,"pereo, quis, ita, quia, pater, omnis, cum, ramentum, reddo",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,681.0,"reddo, reddo, omne, oppidum, occido, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,occido,0.167
+plautus.bacchides,682.0,"qui, in, mens, uenio, tu, iste, facinus, facio, tam, malus",10,"NaN, NaN, 0.5, NaN, NaN, NaN, -1.0, NaN, NaN, -1.0",-0.15,-0.2,"tu, facinus",0.2
+plautus.bacchides,683.0,"bacchidem, atque, hic, suspicor, propter, crimen, chrysal",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,"hic, crimen",0.286
+plautus.bacchides,684.0,"ego, malus, consulo, ob, is, res, omnis, aurum, irascor, reddo",10,"NaN, -1.0, NaN, NaN, NaN, 0.0, NaN, 0.5, NaN, NaN",-0.05,-0.1,,0.0
+plautus.bacchides,685.0,"meus, pater, quis, ubi, reddo, aurum, dico, pater",8,"0.0, 0.0, NaN, NaN, NaN, 0.5, NaN, 0.0",0.062,0.0,,0.0
+plautus.bacchides,686.0,"ego, is, aurum, accipio, extemplo, ab, hospes, archidemide, em",9,"NaN, NaN, 0.5, NaN, NaN, NaN, 0.0, NaN, NaN",0.056,0.0,,0.0
+plautus.bacchides,687.0,"istoc, dico, do, hodie, in, cruciatus, chrysal",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+plautus.bacchides,688.0,"nam, ubi, ego, aspicio, ad, carnufex, rapio, continuo, senex",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,carnufex,0.111
+plautus.bacchides,689.0,"ego, pater, exoro, nempe, ergo, hic, ut, facio, qui, loquor",10,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.1
+plautus.bacchides,690.0,"immo, tu, ne, noceo, neu, quis, ob, is, res, suscenseo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"tu, noceo",0.2
+plautus.bacchides,691.0,"atque, aeger, impetro, nunc, hic, tu, curo, sum, chrysal",9,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.111,-0.111,"hic, tu",0.222
+plautus.bacchides,692.0,"quis, uolo, curo, ut, ad, senex, etiam, alter, facio, uia",10,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,693.0,"comparo, fabricaris, fingo, qui, lubet, conglutino",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fingo,0.167
+plautus.bacchides,694.0,"ut, senex, hodie, doceo, doceo, fallo, aurum, aufero",8,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,fallo,0.125
+plautus.bacchides,695.0,"uix, uideo, fio, possum, pergo, atque, facilis, ecfeceris",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,,0.0
+plautus.bacchides,696.0,"quam, malus, facilis, qui, mendacium, prehendo, manifestus, modo",8,"NaN, -1.0, 0.5, NaN, -1.0, NaN, -0.5, NaN",-0.25,-0.312,mendacium,0.125
+plautus.bacchides,697.0,"qui, si, oro, ut, ego, nihil, credo, is, non, audeo, credo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,698.0,"immo, si, audio, qui, dictum, dico, ego, aduerro, tu",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.111
+plautus.bacchides,699.0,"quis, dico, si, tu, ille, sol, sui, sol, sum, dico",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.bacchides,700.0,"sui, ille, luna, credo, sum, et, nox, qui, nunc, sum, dies",11,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,701.0,"emungo, hercules, homo, probus, hodie, ne, is, nequiquam, dico",9,"NaN, NaN, 0.0, 1.0, NaN, NaN, NaN, NaN, NaN",0.111,0.0,probus,0.111
+plautus.bacchides,702.0,"nunc, quis, nos, uolo, facio, enim, nihil, nisi, ut, amo, impero",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,703.0,"ceterum, quantus, lubet, ego, posco, aurum, ego, do",8,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.062,0.0,,0.0
+plautus.bacchides,704.0,"quis, ego, refero, chrysalo, sum, nomen, nisi, facio, probo",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,705.0,"sed, nunc, quantillus, utor, sum, aurum, tu, mnesiloche, dico, ego",10,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.05,0.0,tu,0.1
+plautus.bacchides,706.0,"miles, nummus, ducenti, iam, utor, sum, pro, bacchide",8,"0.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,nummus,0.125
+plautus.bacchides,707.0,"ego, do, tum, nos, opus, sum, sumo, ah, placidus, uolo",10,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, 1.0, NaN",0.15,0.0,,0.0
+plautus.bacchides,708.0,"unus, quisque, ago, hic, ubi, ago, tum, iste, ago",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.bacchides,709.0,"de, ducenti, nummus, primus, intendo, ballista, in, senex",8,"NaN, NaN, 0.0, 0.5, NaN, NaN, NaN, 0.0",0.062,0.0,nummus,0.125
+plautus.bacchides,710.0,"is, ballista, si, per-uerto, turris, et, propugnaculum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,711.0,"recta, porto, inuado, extemplo, in, oppidum, anticus, et, uetus",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,712.0,"si, is, capsus, gero, amicus, uester, aurum, corbis",8,"NaN, NaN, NaN, NaN, 1.0, NaN, 0.5, NaN",0.188,0.0,,0.0
+plautus.bacchides,713.0,"sicut, animus, spero, apud, tu, sum, animus, noster, chrysal",9,"NaN, 0.5, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.111,0.0,tu,0.111
+plautus.bacchides,714.0,"nunc, tu, abeo, intro, pistoclere, ad, bacchidem, atque, ecfer, cito",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, pistoclere",0.2
+plautus.bacchides,715.0,"quis, stilis, cera, et, tabella, linum, iam, facio, hic, sum",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.1
+plautus.bacchides,716.0,"quis, nunc, sum, facio, is, ego, dico, coquo, sum, prandium",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,717.0,"tu, duo, sum, atque, amicus, tuus, sum, cum, tu, tertius",10,"NaN, NaN, NaN, NaN, 1.0, 0.0, NaN, NaN, NaN, 0.0",0.1,0.0,"tu, tu",0.2
+plautus.bacchides,718.0,"sicut, dico, pistoclero, nullus, amicus, sum, immo, adsum",8,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.125,0.0,,0.0
+plautus.bacchides,719.0,"alter, ille, amo, soror, ego, alter, ambo, bacchides",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,720.0,"quis, tu, loquor, hic, ut, sum, sum, ubi, sum, biclinium",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, hic",0.2
+plautus.bacchides,721.0,"tu, sterno, quis, is, ex-quaero, res, ita, sum, dico, uolo",10,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.1
+plautus.bacchides,722.0,"nescio, quis, ego, ago, sum, neque, facinus, quantus, exordior",9,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.111,-0.111,facinus,0.111
+plautus.bacchides,723.0,"cedo, manus, atque, subsequor, propius, ego, ad, foris, intro, inspicio",10,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,725.0,"euax, nimis, bellus, atque, ut, sum, magnus, opto, locus",9,"NaN, NaN, 1.0, NaN, NaN, NaN, 0.0, NaN, 0.0",0.111,0.0,,0.0
+plautus.bacchides,726.0,"qui, impero, impero, bene, bonus, facio, ilico, sum",8,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.125,0.0,,0.0
+plautus.bacchides,727.0,"quis, paro, qui, paro, tu, iubeo, omnis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.bacchides,728.0,"capio, stilis, properus, et, tabella, tu, hic, tu, quis, postea",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"tu, hic, tu",0.3
+plautus.bacchides,729.0,"qui, iubeo, scribo, istic, nam, propterea, tu, uolo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.bacchides,730.0,"scribo, ut, pater, cognosco, littera, quando, lego",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,731.0,"scribo, quis, scribo, salus, tuus, pater, uerbum, tuus",8,"NaN, NaN, NaN, 1.0, 0.0, 0.0, 0.0, 0.0",0.125,0.0,,0.0
+plautus.bacchides,732.0,"quis, si, potis, morbus, mors, scribo, is, sum, rectus",9,"NaN, NaN, 0.0, -1.0, -1.0, NaN, NaN, NaN, 1.0",-0.111,-0.222,,0.0
+plautus.bacchides,733.0,"ne, interturbo, iam, impero, in, cero, insum, dico, qui, ad, modus",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.045,0.0,,0.0
+plautus.bacchides,734.0,"mnesilochus, salus, dico, suus, pater, ad-scribo, hic, cito",8,"NaN, 1.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.125,0.0,hic,0.125
+plautus.bacchides,735.0,"chrysalus, ego, usque, quisque, loquor, neque, rectus, pater",8,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, 0.0",0.125,0.0,,0.0
+plautus.bacchides,736.0,"quia, tu, aurum, reddo, et, quia, non, tu, fraudo",9,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.056,0.0,"tu, tu, fraudo",0.333
+plautus.bacchides,737.0,"mane, dum, scribo, celer, oportet, sum, amator, manus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,amator,0.125
+plautus.bacchides,738.0,"atque, idem, hercules, em, perdo, magis, quam, ad, scribundum, sum, cito",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,739.0,"loquor, hic, scribo, sum, nunc, pater, ego, pro-eo, -ne, tu, ab, is, ut, cauea, tu",15,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, tu, tu",0.2
+plautus.bacchides,740.0,"sycophantia, compono, aurum, ut, abs, tu, aufero",7,"-1.0, NaN, 0.5, NaN, NaN, NaN, NaN",-0.071,-0.143,tu,0.143
+plautus.bacchides,741.0,"et, profecto, sui, aufero, dico, planus, ad-scribo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,742.0,"dico, modo, atque, is, polliceor, sui, do, aurum, ego",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.056,0.0,,0.0
+plautus.bacchides,743.0,"qui, do, scortum, quisque, in, lustrum, comedim, congraeco, pater",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,scortum,0.111
+plautus.bacchides,744.0,"sed, pater, uideo, ne, tu, hodie, uerbum, do, quaeso, caueo",10,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.1
+plautus.bacchides,745.0,"loquor, porro, ad-scribo, dum, etiam, loquor, quis, scribo, modo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,746.0,"sed, pater, qui, promitto, ego, tu, quaeso, ut, memini",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.111
+plautus.bacchides,747.0,"ne, ille, uerbero, uerus, apud, tu, uincio, ad-seruo, domus",9,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, 0.0",0.056,0.0,"uerbero, tu",0.222
+plautus.bacchides,748.0,"cedo, tu, cera, atque, linum, actus, ago, obligo, obsigno, cito",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.bacchides,749.0,"obsecro, quis, iste, ad, iste, utor, sum, conscribo, modus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.056,0.0,,0.0
+plautus.bacchides,750.0,"ut, tu, ne, quis, credo, atque, ut, uincio, tu, ad-seruo, domus",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, tu",0.182
+plautus.bacchides,751.0,"quia, ego, ita, lubet, potio, -ne, ut, curo, tu, atque, ut, ne, parco, ego",14,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.071
+plautus.bacchides,752.0,"meus, fiducia, opus, conduco, et, meus, periculum, res, gero",9,"0.0, 0.5, 0.5, NaN, NaN, 0.0, -1.0, 0.0, NaN",0.0,-0.111,,0.0
+plautus.bacchides,753.0,"aequus, dico, cedo, tabella, accipio, animus, ad-uerto",7,"0.5, NaN, NaN, 0.0, NaN, 0.5, NaN",0.143,0.0,,0.0
+plautus.bacchides,754.0,"mnesiloche, et, tu, pistoclere, iam, facio, in, biclinium",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, pistoclere",0.25
+plautus.bacchides,755.0,"cum, amicus, suus, uterque, accumbo, eo, ita, negotium, sum",9,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",0.056,-0.056,,0.0
+plautus.bacchides,756.0,"atque, ibidem, ubi, nunc, sum, lego, sterno, poto, cito",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,757.0,"numquid, alius, hic, atque, etiam, ubi, sum, accumbo, semel",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.bacchides,758.0,"ne, quoquam, exsurgo, donec, ab, ego, sum, signum, do",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,759.0,"o, imperator, probus, iam, bis, bibo, oportet",7,"NaN, 0.5, 1.0, NaN, NaN, NaN, NaN",0.214,0.0,probus,0.143
+plautus.bacchides,760.0,"fugio, tu, uester, curo, officium, ego, efficio, meus",8,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, 0.0",0.062,0.0,tu,0.125
+plautus.bacchides,761.0,"insanus, magnus, molio, negotium",4,"-1.0, 0.0, NaN, -0.5",-0.375,-0.375,insanus,0.25
+plautus.bacchides,762.0,"metuo, ut, hodie, possiem, emolior",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,763.0,"sed, nunc, truculentus, ego, atque, saeuus, utor, seni, sum",9,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.111,-0.111,"truculentus, saeuus",0.222
+plautus.bacchides,764.0,"nam, non, conduco, hic, sycophantia",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,hic,0.2
+plautus.bacchides,765.0,"senex, tranquillus, sum, ubi, ego, aspicio",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,766.0,"uerso, ego, ille, hodie, si, uiuo, probus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,probus,0.143
+plautus.bacchides,767.0,"tam, frico, ego, ille, reddo, quam, frico, sum, cicer",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"frico, frico",0.222
+plautus.bacchides,768.0,"adambulo, ad, ostium, ut, quando, exeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,769.0,"extemplo, aduenio, is, tabella, do, in, manus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,770.0,"nimium, illic, res, sum, magnus, diuidia, ego",7,"0.0, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,771.0,"supterfugisse, sic, ego, hodie, chrysal",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,772.0,"saluus, sum, irascor, sum, senex, nunc, sum, ego",8,"1.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.125,0.0,,0.0
+plautus.bacchides,773.0,"adeo, ad, homo, tempus, quis, loquor, prope",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,774.0,"atque, hic, quidem, opinor, chrysalus, sum, accedo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.bacchides,775.0,"bonus, seruus, saluus, quis, fio, quam, mox, nauigo",8,"1.0, -0.5, 1.0, NaN, NaN, NaN, NaN, NaN",0.188,-0.062,,0.0
+plautus.bacchides,776.0,"in, ephesus, ut, aurum, repeto, ab, theotimo, domus",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, 0.0",0.062,0.0,,0.0
+plautus.bacchides,777.0,"taceo, per, omnis, deus, adiuro, ut, ni, meus",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,778.0,"nascor, tam, amo, atque, is, facio, cupio, qui, is, uolo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,780.0,"ut, tuus, iam, uirga, latus, lacero, probus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,"lacero, probus",0.286
+plautus.bacchides,781.0,"ferratus, in, pistrinum, aetas, contero",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,782.0,"omnis, re-scio, scelus, ex, mnesilocho, tuus",6,"NaN, NaN, -1.0, NaN, NaN, 0.0",-0.167,-0.167,scelus,0.167
+plautus.bacchides,783.0,"ego, -ne, crimino, sum, optume, sum, ego, sum, malus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.111,-0.111,,0.0
+plautus.bacchides,784.0,"ego, sum, sacer, scelestus, specto, res, modo",7,"NaN, NaN, 1.0, -1.0, NaN, 0.0, NaN",0.0,-0.143,scelestus,0.143
+plautus.bacchides,785.0,"ego, uerbum, facio, nullus, etiam, carnufex",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,carnufex,0.167
+plautus.bacchides,786.0,"minitaris, nosco, tu, ille, actus, qualis, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.bacchides,787.0,"nunc, hic, tabella, fero, ego, iubeo, tu",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"hic, tu",0.286
+plautus.bacchides,788.0,"oro, qui, istic, sum, scribo, ut, fio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,789.0,"cedo, nosco, signum, nosco, ubi, ipse, sum, nescio",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,790.0,"nihil, iam, ego, oportet, scio, obliuiscor, sum, omnis",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,791.0,"scio, ego, sum, seruus, nescio, etiam, is, qui, scio",9,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.056,-0.056,,0.0
+plautus.bacchides,792.0,"nunc, ab, trasenna, hic, turdus, lumbricus, peto",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.bacchides,793.0,"pendeo, hodie, pulcher, ita, intendo, tenus",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+plautus.bacchides,794.0,"mane, dum, parumper, iam, exeo, ad, tu, chrysal",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.bacchides,795.0,"ut, uerbum, ego, do, ut, nescio, quam, res, gero",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,796.0,"seruus, arcesso, intus, qui, ego, uincio",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+plautus.bacchides,797.0,"bene, nauus, agito, pulcher, hic, confero, ratis",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,hic,0.143
+plautus.bacchides,798.0,"sed, conticiscam, nam, audio, aperio, foris",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,799.0,"constringo, tu, ille, artamo, actus, manus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.167
+plautus.bacchides,800.0,"quis, facio, impingo, pugnus, si, mutio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,801.0,"quis, hic, locuntur, littera, quis, ego, rogo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.143
+plautus.bacchides,802.0,"ut, ab, ille, accipio, ad, tu, obsigno, affero",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.bacchides,803.0,"eho, tu, loquitor, sum, nascor, meus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.167
+plautus.bacchides,804.0,"malus, per, sermo, quia, ego, is, aurum, reddo",8,"-1.0, NaN, -0.5, NaN, NaN, NaN, 0.5, NaN",-0.125,-0.188,,0.0
+plautus.bacchides,805.0,"et, tu, dico, is, aurum, aufero, tamen",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,tu,0.143
+plautus.bacchides,806.0,"per, sycophantia, ego, -ne, iste, dico, ita",7,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+plautus.bacchides,807.0,"quis, homo, sum, qui, dico, ego, dico, iste, taceo",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,808.0,"nullus, homo, dico, hic, tabella, tu, arguo",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"hic, tu",0.286
+plautus.bacchides,809.0,"qui, tu, affero, em, hic, tu, uincio, iubeo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, hic, tu",0.375
+plautus.bacchides,810.0,"aha, bellorophontem, tuus, ego, facio, filius",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,811.0,"nos, tabella, tetulis, ut, uincio, sine",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,812.0,"propterea, hic, facio, ut, suadeo, nascor, meus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+plautus.bacchides,813.0,"ut, pergraecor, cum, tu, terueneficus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+plautus.bacchides,814.0,"o, stultus, stultus, nescio, nunc, uenio, tu",7,"NaN, -1.0, -1.0, NaN, NaN, NaN, NaN",-0.286,-0.286,"stultus, stultus, tu",0.429
+plautus.bacchides,815.0,"atque, in, eopse, asto, lapis, ut, praeco, praedico",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,816.0,"respondeo, quis, ego, uendo, qui, deus, diligo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,uendo,0.143
+plautus.bacchides,817.0,"adulescens, morior, dum, ualeo, sentio, sapio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,adulescens,0.167
+plautus.bacchides,818.0,"hic, si, ullus, deus, amo, multus, annus, decem",8,"NaN, NaN, NaN, 0.0, NaN, 0.0, 0.0, NaN",0.0,0.0,hic,0.125
+plautus.bacchides,819.0,"multus, iam, uiginti, morior, sum, oportet",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,820.0,"terra, odium, ambulo, iam, nihil, sapio",6,"0.0, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+plautus.bacchides,821.0,"neque, sentio, tantus, sum, quantus, sum, fungus, putidus",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,822.0,"tu, -ne, terra, ego, odium, sum, autumo, abduco, hic",9,"NaN, NaN, 0.0, NaN, -1.0, NaN, NaN, NaN, NaN",-0.111,-0.111,"tu, hic",0.222
+plautus.bacchides,823.0,"intro, atque, ad-stringo, ad, columna, fortis",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+plautus.bacchides,824.0,"numquam, aufero, hinc, aurum, at, qui, iam, do",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.bacchides,825.0,"do, atque, oro, ego, quidem, ultro, ut, aufero",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,826.0,"cum, ille, rescisco, criminator, meus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,827.0,"quantus, in, periculum, et, quantus, in, pernicies, sum",8,"NaN, NaN, -1.0, NaN, NaN, NaN, -1.0, NaN",-0.25,-0.25,,0.0
+plautus.bacchides,828.0,"tum, libertas, chrysalo, largibere",4,"NaN, 0.5, NaN, NaN",0.125,0.0,,0.0
+plautus.bacchides,829.0,"ego, adeo, numquam, accipio, dico, scelus, caput",7,"NaN, NaN, NaN, NaN, NaN, -1.0, 0.0",-0.143,-0.143,scelus,0.143
+plautus.bacchides,830.0,"dico, quo, in, periculum, sum, meus, mnesilochus, filius",8,"NaN, NaN, NaN, -1.0, NaN, 0.0, NaN, 0.0",-0.125,-0.125,,0.0
+plautus.bacchides,831.0,"sequor, hic, ego, facio, iam, scio, quo, gens",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.125
+plautus.bacchides,832.0,"tres, unus, patior, uel, decem, agedum, tu, artamo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.bacchides,833.0,"sum, hic, pauxillum, aperio, placidus, ne, crepo",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,hic,0.143
+plautus.bacchides,834.0,"satis, sum, accedo, huc, tu, uideo, -ne, conuiuium",8,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,"tu, conuiuium",0.25
+plautus.bacchides,835.0,"uideo, exaduorsum, pistoclerum, et, bacchidem",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,836.0,"qui, sum, in, lectus, ille, alter, intereo, miser",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, -1.0",-0.125,-0.125,miser,0.125
+plautus.bacchides,837.0,"nosco, -ne, homo, nosco, dico, si, audeo, ego",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,838.0,"bellum, -ne, uideo, species, mulier, admodum",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,mulier,0.167
+plautus.bacchides,839.0,"quis, ille, meretrix, sum, censeo, quippini",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"meretrix, quippini",0.333
+plautus.bacchides,840.0,"frustra, sum, quis, igitur, obsecro, sum, inuenio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,841.0,"ex, ego, quidem, hodie, numquam, fio, certus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+plautus.bacchides,842.0,"meus, -ne, hic, mnesilochus, nicobulis, filius",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, nicobulis",0.333
+plautus.bacchides,843.0,"per, uis, ut, retineo, mulier, qui, hic, factio, sum",9,"NaN, 1.0, NaN, NaN, 0.0, NaN, NaN, 0.5, NaN",0.167,0.0,"mulier, hic, factio",0.333
+plautus.bacchides,844.0,"quis, ille, sum, per, tempus, hic, uenio, miles, ego",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.111
+plautus.bacchides,845.0,"non, ego, arbitror, miles, sed, mulier",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,mulier,0.167
+plautus.bacchides,846.0,"qui, ego, mei, non, queo, defendo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,847.0,"nam, neque, bellona, ego, umquam, neque, mars, credo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,bellona,0.125
+plautus.bacchides,848.0,"ni, ille, exanimal, facio, si, conuenio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,849.0,"niuit, exheredo, facio, uita, suus",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,850.0,"chrysal, quis, ille, sum, qui, minito, filius",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,851.0,"uir, hic, sum, ille, mulier, cum, qui, accubo",8,"0.5, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.062,0.0,"hic, mulier",0.25
+plautus.bacchides,852.0,"quis, uir, uir, inquam, nuptane, sum, ille, obsecro",8,"NaN, 0.5, 0.5, NaN, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+plautus.bacchides,853.0,"scio, haud, multus, post., oppidum, intereo, miser",7,"NaN, NaN, 0.0, NaN, NaN, NaN, -1.0",-0.143,-0.143,miser,0.143
+plautus.bacchides,854.0,"quis, nunc, scelestus, tu, uideo, chrysalus",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,"scelestus, tu",0.333
+plautus.bacchides,855.0,"ago, nunc, uincio, ego, ausculto, filius",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,856.0,"dico, -ne, tu, ego, ille, inuenio, tu, qualis, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.222
+plautus.bacchides,857.0,"quis, nunc, ego, facio, iubeo, sum, ego, exsoluo, cito",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,858.0,"nam, ni, ego, exsoluo, iam, manifestus, homo, opprimo",8,"NaN, NaN, NaN, NaN, NaN, -0.5, 0.0, NaN",-0.062,-0.062,,0.0
+plautus.bacchides,859.0,"nihil, sum, lucrum, qui, ego, hodie, facio, malo",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.bacchides,860.0,"quam, ille, cubo, cum, ille, opprimo, ambo, ut, nex",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.111,-0.111,nex,0.111
+plautus.bacchides,861.0,"audio, -ne, qui, loquor, quin, tu, ego, exsoluo, iubeo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.bacchides,862.0,"exsoluo, iste, pereo, pertimeo, miser",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,miser,0.2
+plautus.bacchides,863.0,"tum, ille, qui, corpus, publico, uulgo, suus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,864.0,"facio, sui, haud, dico, nanciscor, qui, derideo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,derideo,0.143
+plautus.bacchides,865.0,"pacisco, cum, ille, paululus, pecunia",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,pecunia,0.2
+plautus.bacchides,866.0,"possum, pacisco, ergo, obsecro, quis, tu, lubet",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.bacchides,867.0,"dum, ne, manifesto, homo, opprimo, neue, eneco",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,868.0,"nunc, nisi, ducenti, philippi, reddo, ego",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,869.0,"iam, ille, ego, anima, ambo, exsorbeo, oppidum",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.bacchides,870.0,"em, illic, pacisco, si, possum, pergo, obsecro",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,871.0,"pacisco, quis, uolo, eo, et, facio, sedulus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,872.0,"quis, clamo, ubi, erus, tuus, sum, nusquam, nescio",8,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,erus,0.125
+plautus.bacchides,873.0,"uolo, tu, ducenti, nummus, iam, promitto",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"tu, nummus",0.333
+plautus.bacchides,874.0,"ut, ne, clamor, hic, facio, neu, conuicium",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,"hic, conuicium",0.286
+plautus.bacchides,875.0,"nihil, sum, qui, malo, atque, ut, tu, malus, multus, ingero",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, 0.0, NaN",-0.1,-0.1,tu,0.1
+plautus.bacchides,876.0,"tuus, arbitratus, ut, subblandior, carnufex",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,carnufex,0.2
+plautus.bacchides,877.0,"pater, hic, mnesilochi, sum, sequor, is, promitto, tu",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, tu",0.25
+plautus.bacchides,878.0,"tu, aurum, rogo, ceterum, uerbum, satis, sum",7,"NaN, 0.5, NaN, NaN, 0.0, 0.5, NaN",0.143,0.0,tu,0.143
+plautus.bacchides,879.0,"quis, fio, ducenti, philippis, res, pepigi, ah, salus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 1.0",0.125,0.0,,0.0
+plautus.bacchides,880.0,"meus, seruo, ego, quam, mox, dico, do",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,881.0,"rogo, hic, tu, tu, promitto, hic, promitto, rogo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu, tu, hic",0.5
+plautus.bacchides,882.0,"ducenti, nummus, aureus, philippos, probus",5,"NaN, 0.0, 0.5, NaN, 1.0",0.3,0.0,"nummus, probus",0.4
+plautus.bacchides,883.0,"dabi, -ne, do, in, respondeo, do",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,884.0,"quis, nunc, impurus, numquid, debeo, tu",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,"impurus, tu",0.333
+plautus.bacchides,885.0,"quis, ille, quis, ille, mors, terreo",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+plautus.bacchides,886.0,"et, ego, tu, et, ille, macto, infortunium",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,tu,0.143
+plautus.bacchides,887.0,"si, tu, sum, machaera, at, nos, ueruina, sum, domus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.111
+plautus.bacchides,888.0,"qui, quidem, tu, facio, si, tu, ego, irrito",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.25
+plautus.bacchides,889.0,"confodio, soricinus, nenia",3,"NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,890.0,"iam, dudum, hercules, equidem, sentio, suspicio",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+plautus.bacchides,891.0,"qui, tu, sollicito, is, sum, cum, ille, mulier",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, mulier",0.25
+plautus.bacchides,892.0,"immo, sum, quoque, ita, ego, iuppiter, iuno, cero",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,893.0,"minerua, latona, spes, ops, uirtus, uenus",6,"NaN, NaN, 0.5, 0.0, 1.0, 1.0",0.417,0.0,,0.0
+plautus.bacchides,894.0,"castor, polluces, mars, mercurius, herculis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,895.0,"summanus, sol, saturnus, deus, omnis, amo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,896.0,"ut, ille, cum, ille, neque, cubo, neque, ambulo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,897.0,"neque, osculo, neque, ille, qui, dico, soleo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,898.0,"ut, iuro, seruo, ego, ille, suus, periurium",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,periurium,0.143
+plautus.bacchides,899.0,"ubi, nunc, mnesilochus, ergo, sum, rus, mitto, pater",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,900.0,"ille, autem, in, arx, abeo, aedes, uiso",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,901.0,"mineruae, nunc, apertus, sum, eo, uideo, edo, ibi",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,902.0,"abeo, ad, forum, igitur, uel, hercules, in, malus, crux",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.111,-0.111,crux,0.111
+plautus.bacchides,903.0,"hodie, exigo, aurum, hic, exigo, atque, suspendo, tu",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,"hic, tu",0.25
+plautus.bacchides,904.0,"ne, supplicaris, hic, censeo, tu, nihilis, homo",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, tu",0.286
+plautus.bacchides,905.0,"ille, sum, amoueo, sine, ego, per, tu, eremus, obsecro",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.bacchides,906.0,"deus, immortalis, eo, huc, intro, ad, filius",7,"0.0, 0.5, NaN, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+plautus.bacchides,907.0,"quis, is, intro, eo, ut, is, dictum, plurumis",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,908.0,"castigo, cum, hic, sic, facio, ad, hic, facio, modus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.056,0.0,"castigo, hic, hic",0.333
+plautus.bacchides,909.0,"immo, oro, ut, facio, chrysal, et, tu, obsecro",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.bacchides,910.0,"caueo, parsis, in, is, dico, etiam, ego, moneo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,911.0,"satis, ne, sum, si, multus, ex, ego, audio, hodie, malus",10,"0.5, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.05,-0.1,,0.0
+plautus.bacchides,912.0,"quam, audio, umquam, clinia, ex, demetrio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,913.0,"lippio, illic, oculus, seruus, sum, similis",6,"NaN, NaN, 0.0, -0.5, NaN, 0.0",-0.083,-0.083,,0.0
+plautus.bacchides,914.0,"si, non, sum, nolo, sum, neque, desidero",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,915.0,"si, sum, abstineo, quin, attingo, non, queo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,916.0,"nam, ni, illic, hodie, fors, fortuna, hic, sum",8,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,hic,0.125
+plautus.bacchides,917.0,"miles, mnesilochum, cum, uxor, opprimo, suus",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,uxor,0.167
+plautus.bacchides,918.0,"atque, obtrunco, moechus, manufestarium",4,"NaN, NaN, NaN, NaN",nan,nan,moechus,0.25
+plautus.bacchides,919.0,"nunc, quasi, ducenti, philippis, emo, filius",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,emo,0.167
+plautus.bacchides,920.0,"qui, do, promitto, miles, qui, non, do",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,921.0,"temere, etiam, prior, quam, filius, conuenio",6,"NaN, NaN, 0.5, NaN, 0.0, NaN",0.083,0.0,,0.0
+plautus.bacchides,922.0,"numquam, edepol, quisquam, temere, credo, chrysalo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,edepol,0.167
+plautus.bacchides,923.0,"uerus, lubet, etiam, ego, hic, perlego, denuo",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,hic,0.143
+plautus.bacchides,924.0,"aequus, sum, tabella, consigno, credo",5,"0.5, NaN, 0.0, NaN, NaN",0.1,0.0,,0.0
+plautus.bacchides,925.0,"atridae, duo, frater, clueo, facio, facinus, magnus",7,"NaN, NaN, 0.0, NaN, NaN, -1.0, 0.0",-0.143,-0.143,facinus,0.143
+plautus.bacchides,926.0,"cum, priami, patria, pergamum, diuino, moenitum, manus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,927.0,"arma, equus, exercitus, atque, eximius, bellator",6,"0.0, NaN, 0.0, NaN, 1.0, NaN",0.167,0.0,,0.0
+plautus.bacchides,928.0,"mille, cum, numerus, nauis, decimus, annus, post, subigo",8,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,929.0,"non, pes, termentum, sum, praeut, ego, erus, expugno, meus",9,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,erus,0.111
+plautus.bacchides,930.0,"sine, classis, sino, exercitus, et, tantus, numerus, miles",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,classis,0.125
+plautus.bacchides,931.0,"capio, expugno, amo, erilis, filius, aurum, ab, suus, pater",9,"NaN, NaN, NaN, NaN, 0.0, 0.5, NaN, NaN, 0.0",0.056,0.0,,0.0
+plautus.bacchides,932.0,"nunc, prior, quam, huc, senex, uenio, libet, lamentaris, dum, exeo",10,"NaN, 0.5, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.bacchides,933.0,"o, troia, o, patria, o, pergamum, o, priame, pereo, senex",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,934.0,"qui, mitto, malus, mulco, quadringenti, philippis, aureus",7,"NaN, NaN, -1.0, NaN, NaN, NaN, 0.5",-0.071,-0.143,,0.0
+plautus.bacchides,935.0,"nam, ego, hic, tabella, obsigno, consigno, qui, fero",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.125
+plautus.bacchides,936.0,"non, sum, tabella, sed, equus, qui, mitto, achiui, ligneus",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,ligneus,0.111
+plautus.bacchides,937.0,"epius, sum, pistoclerus, ab, is, hic, sumo, mnesilochus, sino, sum",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.1
+plautus.bacchides,938.0,"relinquo, ellum, non, in, bustum, achilles, sed, in, lectus, accubo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"bustum, achilles",0.2
+plautus.bacchides,939.0,"bacchidem, habeo, cum, sui, ille, olim, habeo, ignis, qui, signum, do",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,940.0,"hic, ipse, exuro, ego, sum, ulixes, qui, consilium, hic, gero",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.05,0.0,"hic, hic",0.2
+plautus.bacchides,941.0,"tum, qui, hic, sum, scribo, littera, hic, in, equus, insum, miles",11,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, hic",0.182
+plautus.bacchides,942.0,"armatus, atque, animo, probus, ita, res, succedo, ego, usque, adhuc",10,"0.0, NaN, NaN, 1.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.1,0.0,probus,0.1
+plautus.bacchides,943.0,"atque, hic, equus, non, in, arx, uerus, in, arca, facio, impetus",11,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.045,0.0,hic,0.091
+plautus.bacchides,944.0,"exitium, excidium, elecebra, fio, hic, equus, hodie, aurum, senex",9,"-1.0, -1.0, NaN, NaN, NaN, NaN, NaN, 0.5, 0.0",-0.167,-0.222,hic,0.111
+plautus.bacchides,945.0,"noster, senex, hic, stolidus, is, profecto, nomen, facio, ego, ilium",10,"NaN, 0.0, NaN, -1.0, NaN, NaN, 0.0, NaN, NaN, NaN",-0.1,-0.1,"hic, stolidus",0.2
+plautus.bacchides,946.0,"miles, menelaus, sum, ego, agamemno, idem, ulixes, lartius",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,agamemno,0.125
+plautus.bacchides,947.0,"mnesilochus, sum, alexander, qui, sum, exitium, res, patria, suus",9,"NaN, NaN, NaN, NaN, NaN, -1.0, 0.0, NaN, NaN",-0.111,-0.111,,0.0
+plautus.bacchides,948.0,"is, helenam, aueho, cuia, causa, nunc, facio, obsidium, ilium",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,949.0,"nam, ille, itidem, ulixem, audio, ut, ego, sum, sum, et, audax, et, malus",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.077,-0.077,audax,0.077
+plautus.bacchides,950.0,"in, dolus, ego, prensus, sum, ille, mendico, paene, inuenio, intereo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,dolus,0.1
+plautus.bacchides,951.0,"dum, ibi, exquiro, fatum, ilium, assimiliter, ego, hodie, obtingo",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,952.0,"uincio, sum, sed, dolus, ego, eximo, item, sui, ille, seruo, dolus",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"dolus, dolus",0.182
+plautus.bacchides,953.0,"ilium, tres, sum, audio, fatum, qui, ille, sum, exitium",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, -1.0",-0.111,-0.111,,0.0
+plautus.bacchides,954.0,"signum, ex, arx, si, pereo, alter, etiam, sum, troilis, mors",10,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.1,-0.1,,0.0
+plautus.bacchides,955.0,"tertius, cum, porta, phrygiae, limen, superi, scindo",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,956.0,"par, item, tres, is, tres, sum, fatum, noster, hic, ilium",10,"0.5, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.05,0.0,hic,0.1
+plautus.bacchides,957.0,"nam, dudum, primus, ut, dico, noster, senex, mendacium",8,"NaN, NaN, 0.5, NaN, NaN, NaN, 0.0, -1.0",-0.062,-0.125,mendacium,0.125
+plautus.bacchides,958.0,"et, de, hospes, et, de, aurum, et, de, lembus, ibi, signum, ex, arx, iam, abstulis",15,"NaN, NaN, 0.0, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.033,0.0,,0.0
+plautus.bacchides,959.0,"iam, duo, resto, fatum, tunc, neque, magis, is, capio, oppidum",10,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,960.0,"post, ubi, tabella, ad, senex, defero, ibi, occido, troilis",9,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,occido,0.111
+plautus.bacchides,961.0,"cum, censeo, mnesilochum, cum, uxor, sum, dudum, miles",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,uxor,0.125
+plautus.bacchides,962.0,"ibi, uix, ego, exsoluo, is, periculum, adsimilo, ulixem, ut, praedico",10,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+plautus.bacchides,963.0,"cognosco, ab, helena, sum, prodeo, hecubae, sed, ut, olim, ille, sui",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,964.0,"blanditia, eximo, et, persuadeo, sui, ut, amitto",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,blanditia,0.143
+plautus.bacchides,965.0,"item, ego, dolus, ego, ille, extulis, e, periculum, et, decipio, senex",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, 0.0",-0.091,-0.091,"dolus, decipio",0.182
+plautus.bacchides,966.0,"post, cum, magnifico, miles, urbs, uerbum, qui, inermus, capio",9,"NaN, NaN, NaN, 0.0, 0.5, 0.0, NaN, 0.0, NaN",0.056,0.0,,0.0
+plautus.bacchides,967.0,"confligo, atque, homo, repello, deinde, pugna, conseruus, senex",8,"NaN, NaN, 0.0, NaN, NaN, -1.0, NaN, 0.0",-0.125,-0.125,,0.0
+plautus.bacchides,968.0,"is, ego, adeo, unus, mendacium, deuinco, unus, ictus, extempulo",9,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.111,-0.111,mendacium,0.111
+plautus.bacchides,969.0,"capio, spolium, is, nunc, ducenti, nummus, philippos, miles",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,nummus,0.125
+plautus.bacchides,970.0,"qui, do, sui, promitto, do",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,971.0,"nunc, alter, etiam, ducenti, utor, sum, qui, dispenso",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,972.0,"ilium, capio, ut, sum, mulsum, qui, triumpho, miles",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,973.0,"sed, priamus, hic, multus, ille, praesto, non, quinquaginta, modo",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.111
+plautus.bacchides,974.0,"quadringenti, filius, habeo, atque, equidem, omnis, lectus, sine, probrum",9,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, -1.0",-0.111,-0.111,probrum,0.111
+plautus.bacchides,975.0,"is, ego, hodie, omnis, contrunco, duo, sol, ictus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,976.0,"nunc, priamo, noster, si, sum, quis, emptor, comptional, senex",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,"priamo, emptor",0.222
+plautus.bacchides,977.0,"uendo, ego, uenal, qui, habeo, extemplo, ubi, oppidum, expugno",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"uendo, uenal",0.222
+plautus.bacchides,978.0,"sed, priamum, asto, ecce, ante, porta, uideo, adeo, atque, alloquor",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,979.0,"quoianam, uox, prope, ego, sono, o, nicobulis, quis, fio",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,nicobulis,0.111
+plautus.bacchides,980.0,"quis, qui, tu, mitto, ecquis, ago, rogo, congredior, gradior",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.bacchides,981.0,"bonus, sum, orator, ad, lacrima, cogo, homo, castigo",8,"1.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.125,0.0,castigo,0.125
+plautus.bacchides,982.0,"malus, dictum, qui, quidem, queo, comminisci, quis, aio, uerbum",9,"-1.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",-0.111,-0.111,,0.0
+plautus.bacchides,983.0,"nullus, facio, lacrumans, taceo, ausculto, qui, ego, loquor",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,984.0,"taceo, conscribo, tabella, obsigno, ego, hic, do",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.143
+plautus.bacchides,985.0,"tu, ego, iubeo, do, sed, metuo, ne, idem, canto, qui, prior",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.5",0.045,0.0,tu,0.091
+plautus.bacchides,986.0,"nosco, signum, sum, -ne, is, nosco, libet, perlego, hic, perlego",10,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.1
+plautus.bacchides,987.0,"nunc, superi, limen, scindo, nunc, adsum, exitium, ilium",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,,0.0
+plautus.bacchides,988.0,"turbo, equus, lepidus, ligneus, chrysal, adsum, dum, ego, hic, perlego, quis, ego, tu, adsum, opus, sum, uolo, ut, qui, iubeo, facio",21,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.024,0.0,"ligneus, hic, tu",0.143
+plautus.bacchides,989.0,"ut, scio, qui, hic, scribo, sum, nihil, moror, neque, scio, uolo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.091
+plautus.bacchides,990.0,"tamen, adsum, quis, opus, sum, taceo, qui, iubeo, is, facio, adsum",11,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.045,0.0,,0.0
+plautus.bacchides,991.0,"euge, littera, minuo, qui, quidem, uideo, parum",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,992.0,"uerus, qui, satis, uideo, grandis, satis, sum, animus, ad-uerto, igitur",10,"0.5, NaN, 0.5, NaN, 0.0, 0.5, NaN, 0.5, NaN, NaN",0.2,0.0,,0.0
+plautus.bacchides,993.0,"nolo, inquam, at, uolo, inquam, quis, opus, sum, at, enim, is, qui, tu, iubeo, facio",15,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.033,0.0,tu,0.067
+plautus.bacchides,994.0,"iustus, sum, ut, tuus, tu, seruus, tuus, arbitratus, seruio",9,"1.0, NaN, NaN, 0.0, NaN, -0.5, 0.0, NaN, NaN",0.056,-0.056,tu,0.111
+plautus.bacchides,995.0,"hic, ago, sum, nuncia, ubi, lubet, recito, auris, opera, tu, dico",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN",-0.045,-0.045,"hic, tu",0.182
+plautus.bacchides,996.0,"cera, quidem, haud, parsit, neque, stilus, sed, quisquis, sum, pellegere, certus, sum",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.042,0.0,,0.0
+plautus.bacchides,997.0,"pater, ducenti, philippos, quaeso, chrsalo",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,998.0,"do, si, sum, saluus, uolo, ego, aut, uital, tu",9,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.111,0.0,tu,0.111
+plautus.bacchides,999.0,"malus, quidem, hercules, magnus, tu, dico, quis, sum",8,"-1.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",-0.125,-0.125,tu,0.125
+plautus.bacchides,1000.0,"non, prior, salus, scribo, nusquam, sentio",6,"NaN, 0.5, 1.0, NaN, NaN, NaN",0.25,0.0,,0.0
+plautus.bacchides,1001.0,"non, do, si, sapio, uerus, si, do, magnus",8,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, 0.0",0.062,0.0,,0.0
+plautus.bacchides,1002.0,"ne, ille, alius, gerulis, quaero, si, sapio, sui",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1003.0,"nam, ego, non, fero, sum, si, iubeo, magnus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,1004.0,"satis, sic, suspicio, sum, cum, careo, noxius",7,"0.5, NaN, -0.5, NaN, NaN, NaN, 0.5",0.071,-0.071,noxius,0.143
+plautus.bacchides,1005.0,"ausculto, porro, dum, hic, qui, scribo, sum, perlego",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.bacchides,1006.0,"inde, ab, principium, iam, impudens, epistula, sum",7,"NaN, NaN, NaN, NaN, -1.0, 0.5, NaN",-0.071,-0.143,impudens,0.143
+plautus.bacchides,1007.0,"pudeo, prodeo, ego, ad, tu, in, conspectus, pater",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,"pudeo, tu",0.25
+plautus.bacchides,1008.0,"tantus, flagitium, tu, scio, audio, meus",6,"NaN, -1.0, NaN, NaN, NaN, 0.0",-0.167,-0.167,"flagitium, tu",0.333
+plautus.bacchides,1009.0,"qui, cum, peregrinus, cubo, uxor, miles",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,uxor,0.167
+plautus.bacchides,1010.0,"pol, haud, derideo, nam, ducenti, aureus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,derideo,0.167
+plautus.bacchides,1011.0,"philippis, redemo, uita, ex, flagitium, tuus",6,"NaN, NaN, 0.0, NaN, -1.0, 0.0",-0.167,-0.167,flagitium,0.167
+plautus.bacchides,1012.0,"nihil, sum, ille, quin, ego, ille, dico",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1013.0,"stultus, facio, fateor, sed, quaeso, pater",6,"-1.0, NaN, NaN, NaN, NaN, 0.0",-0.167,-0.167,stultus,0.167
+plautus.bacchides,1014.0,"ne, ego, in, stultitia, si, delinquo, desero",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,stultitia,0.143
+plautus.bacchides,1015.0,"ego, animus, cupido, atque, oculus, indomitus, sum",7,"NaN, 0.5, -0.5, NaN, 0.0, NaN, NaN",0.0,-0.071,indomitus,0.143
+plautus.bacchides,1016.0,"persuadeo, sum, facio, qui, ego, nunc, facio, pudeo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,pudeo,0.125
+plautus.bacchides,1017.0,"prior, tu, caueo, ergo, quam, pudeo, aequus, sum",8,"0.5, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.125,0.0,"tu, pudeo",0.25
+plautus.bacchides,1018.0,"idem, iste, uerbum, dudum, ille, dico, omnis",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,1019.0,"quaeso, ut, satis, habeo, is, pater, qui, chrysalus",8,"NaN, NaN, 0.5, NaN, NaN, 0.0, NaN, NaN",0.062,0.0,,0.0
+plautus.bacchides,1020.0,"ego, obiurigauit, plurumis, uerbum, malus",5,"NaN, NaN, NaN, 0.0, -1.0",-0.2,-0.2,,0.0
+plautus.bacchides,1021.0,"et, ego, bonus, facio, praecipio, suus",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+plautus.bacchides,1022.0,"ut, tu, is, habeo, gratia, aequus, sum, bonus",8,"NaN, NaN, NaN, NaN, 1.0, 0.5, NaN, 1.0",0.312,0.0,tu,0.125
+plautus.bacchides,1023.0,"sum, -ne, iste, istic, scribo, em, specto, tum, scio",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1024.0,"ut, qui, delinquo, supplex, sum, ultro, omnis",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,1025.0,"nunc, si, ego, fas, sum, obsecraris, abs, tu, pater",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.111
+plautus.bacchides,1026.0,"do, ego, ducenti, nummus, philippos, tu, obsecro",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"nummus, tu",0.286
+plautus.bacchides,1027.0,"ne, unus, quidem, hercules, si, sapio, sine, perlego",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1028.0,"ego, ius, iuro, uerbum, concipio, do",6,"NaN, 0.5, NaN, 0.0, NaN, NaN",0.083,0.0,,0.0
+plautus.bacchides,1029.0,"do, is, ego, hodie, mulier, ante, uesperus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,mulier,0.143
+plautus.bacchides,1030.0,"prior, quam, ab, ego, abeo, nunc, pater, ne, perierem",9,"0.5, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.056,0.0,,0.0
+plautus.bacchides,1031.0,"cura, atque, abduco, ego, hinc, ab, hic, quantus, possum",9,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.111,-0.111,hic,0.111
+plautus.bacchides,1032.0,"quam, propter, tantus, damnum, facio, et, flagitium",7,"NaN, NaN, NaN, -1.0, NaN, NaN, -1.0",-0.286,-0.286,flagitium,0.143
+plautus.bacchides,1033.0,"caueo, tu, ducenti, nummus, diuidia, sum",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"tu, nummus",0.333
+plautus.bacchides,1034.0,"sescenti, tantus, reddo, si, uiuo, tu",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.bacchides,1035.0,"ual, atque, hic, cura, quis, nunc, censeo, chrysal",8,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.125,-0.125,hic,0.125
+plautus.bacchides,1036.0,"nihil, ego, tu, hodie, consilium, quisquam, do",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,tu,0.143
+plautus.bacchides,1037.0,"neque, ego, haud, committo, ut, si, quis, peccatum, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.111,-0.111,,0.0
+plautus.bacchides,1038.0,"facio, dico, de, meus, sententia",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+plautus.bacchides,1039.0,"uerus, ut, ego, opinor, si, ego, in, istoc, sum, locus",10,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.05,0.0,,0.0
+plautus.bacchides,1040.0,"do, potis, aurum, quam, ille, corrumpo, sino",7,"NaN, 0.0, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.bacchides,1041.0,"duo, condicio, sum, uter, tu, accipio, uideo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.143
+plautus.bacchides,1042.0,"uel, ut, aurum, perdo, uel, ut, amator, perieret",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,amator,0.125
+plautus.bacchides,1043.0,"ego, neque, tu, iubeo, neque, ueto, neque, suadeo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.bacchides,1044.0,"misero, ego, ille, tuus, sum, non, mirus, facio",8,"NaN, NaN, NaN, 0.0, NaN, NaN, 1.0, NaN",0.125,0.0,misero,0.125
+plautus.bacchides,1045.0,"si, multus, perdo, sum, pereo, suauis, sum",7,"NaN, 0.0, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+plautus.bacchides,1046.0,"quam, ille, flagitium, uulgo, dispalesco",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,flagitium,0.2
+plautus.bacchides,1047.0,"ne, ille, edepol, ephesus, multus, malo, sum",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,edepol,0.143
+plautus.bacchides,1048.0,"dum, saluus, sum, quam, reuenio, domus",6,"NaN, 1.0, NaN, NaN, NaN, 0.0",0.167,0.0,,0.0
+plautus.bacchides,1049.0,"quis, ego, istic, qui, perdo, sum, propero, perdo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1050.0,"bini, ducenti, philippos, iam, intus, ecferam",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1051.0,"et, miles, qui, dudum, promitto, miser",6,"NaN, 0.0, NaN, NaN, NaN, -1.0",-0.167,-0.167,miser,0.167
+plautus.bacchides,1052.0,"et, iste, mane, istic, iam, exeo, ad, tu, chrysal",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.bacchides,1053.0,"fio, uasto, troia, scindo, proceres, pergamum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uasto,0.167
+plautus.bacchides,1054.0,"scio, ego, iam, dudum, sum, ego, exitium, pergamo",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,,0.0
+plautus.bacchides,1055.0,"edepol, qui, ego, sum, dico, crucio, malus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,edepol,0.143
+plautus.bacchides,1056.0,"dignus, ne, ego, cum, ille, pignus, haud, audeo, do",9,"1.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.bacchides,1057.0,"tantus, turbellae, facio, sed, crepo, foris",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1058.0,"ecfertur, praeda, ex, troia, taceo, nuncia",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1059.0,"capio, hic, tu, aurum, chrysal, eo, fero, filius",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, 0.0",0.062,0.0,"hic, tu",0.25
+plautus.bacchides,1060.0,"ego, ad, forum, autem, hinc, eo, ut, soluo, miles",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,1061.0,"non, equidem, accipio, pro-eo, -ne, tu, quaero, qui, fero",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.bacchides,1062.0,"nolo, ego, ego, credo, capio, uerus, odiosus, facio",8,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.062,0.0,,0.0
+plautus.bacchides,1063.0,"non, equidem, capio, at, quaeso, dico, ut, res, sui, habeo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,1064.0,"moraris, nolo, inquam, aurum, concredo, ego",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+plautus.bacchides,1065.0,"uel, do, aliquis, qui, seruo, ego, ohe, odiosus, facio",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1066.0,"cedo, si, necesse, sum, cura, hic, iam, ego, huc, reuenio",10,"NaN, NaN, 0.0, NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.1,-0.1,hic,0.1
+plautus.bacchides,1067.0,"curo, estesse, tu, senex, miserrumum",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.2
+plautus.bacchides,1068.0,"hic, sum, inceptum, efficio, pulcher, bellulis",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,hic,0.167
+plautus.bacchides,1069.0,"ego, euenio, ut, ouo, praeda, onustus, incedo",7,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+plautus.bacchides,1070.0,"salus, noster, atque, urbs, capio, per, dolus",7,"1.0, NaN, NaN, 0.5, NaN, NaN, NaN",0.214,0.0,dolus,0.143
+plautus.bacchides,1071.0,"domus, reduco, integer, omnis, exercitus",5,"0.0, NaN, 0.5, NaN, 0.0",0.1,0.0,,0.0
+plautus.bacchides,1072.0,"sed, spectator, tu, nunc, ne, miro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.bacchides,1073.0,"qui, non, triumphus, per-uulgo, sum, nihil, moror",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1074.0,"uerus, tamen, accipio, mulceo, miles",5,"0.5, NaN, NaN, NaN, 0.0",0.1,0.0,,0.0
+plautus.bacchides,1075.0,"nunc, hic, praeda, omnis, iam, ad, quaestor, defero",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.bacchides,1076.0,"quam, magis, in, pectus, meus, foueo, qui, meus, filius, turbo, turbo",11,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,1077.0,"quam, sui, ad, uita, et, qui, ad, mos, praecipito, inscitus, capesso",11,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.5, NaN, 0.0, NaN",0.045,0.0,inscitus,0.091
+plautus.bacchides,1078.0,"magis, cura, sum, magus, ad-formido, ne, is, pereo, neu, corrumpo",10,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+plautus.bacchides,1079.0,"scio, sum, ego, ille, aetas, et, facio, ille, omnis, sed, mos, modestus",12,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.5, 1.0",0.125,0.0,modestus,0.083
+plautus.bacchides,1080.0,"neque, placito, mos, qui, uideo, uulgo, in, nascor, sum, parens",10,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+plautus.bacchides,1081.0,"duco, habeo, scortum, poto, do, dono, sed, enim, is, rarus",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,scortum,0.1
+plautus.bacchides,1082.0,"ego, do, ego, meus, nascor, instituo, ut, animus, obsequium, sumo, possum",11,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.045,0.0,,0.0
+plautus.bacchides,1083.0,"aequus, sum, puto, sed, nimis, nolo, desidia, is, do, ludus",10,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.bacchides,1084.0,"nunc, mnesilochum, qui, mando, uideo, ecquis, is, ad, uirtus, aut, ad",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.091,0.0,,0.0
+plautus.bacchides,1085.0,"frugis, opus, suus, compello, sic",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+plautus.bacchides,1086.0,"ut, is, si, conuenio, scio, facio, is, sum, ingenium, nascor",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.05,0.0,,0.0
+plautus.bacchides,1087.0,"quicumque, ubi, ubi, sum, qui, sum, quisque, sum, sum, posthac",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1088.0,"stultus, stolidus, fatuus, fungor, bardus, blendius, bucco",7,"-1.0, -1.0, -0.5, NaN, -1.0, NaN, NaN",-0.5,-0.5,"stultus, stolidus, fatuus",0.429
+plautus.bacchides,1089.0,"solus, ego, omnis, longus, antideo, stultitia, et, mos, indoctus",9,"-0.5, NaN, NaN, 0.0, NaN, -1.0, NaN, 0.5, NaN",-0.111,-0.167,stultitia,0.111
+plautus.bacchides,1090.0,"pereo, pudeo, hic, ego, aetas, ludus, bis, facio, sum, indignus",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.1,-0.1,"pudeo, hic",0.2
+plautus.bacchides,1091.0,"magis, quam, is, reputo, tam, magis, uro, qui, meus, filius, turbo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,1092.0,"perdo, sum, atque, eradico, sum, omnis, exemplum, excrucio",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,excrucio,0.125
+plautus.bacchides,1093.0,"omnis, ego, malus, consector, omnis, exitium, intereo",7,"NaN, NaN, -1.0, NaN, NaN, -1.0, NaN",-0.286,-0.286,,0.0
+plautus.bacchides,1094.0,"chrysalus, ego, hodie, lacero, chrysalus, ego, miser, spolio",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,"lacero, miser",0.25
+plautus.bacchides,1095.0,"is, ego, scelus, aurum, usque, attondeo, dolus, doceo, indoctus, ut, lubitum, sum",12,"NaN, NaN, -1.0, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.042,-0.083,"scelus, dolus",0.167
+plautus.bacchides,1096.0,"ita, miles, memoro, meretrix, sum, is, quam, ille, uxor, sum, aio",11,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"meretrix, uxor",0.182
+plautus.bacchides,1097.0,"omne, ut, quisque, ago, sum, memoro, is, sui, hic, annus, conduco",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.091
+plautus.bacchides,1098.0,"relicuom, is, aurum, facio, qui, ego, is, stultus, homo, promitto, hic",11,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, -1.0, 0.0, NaN, NaN",-0.045,-0.091,"stultus, hic",0.182
+plautus.bacchides,1099.0,"hic, sum, quo, cor, peracescit, hic, sum, demum, qui, percrucio",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.2
+plautus.bacchides,1100.0,"ego, hic, aetas, ludificariimmo, edepol, sic, ludus, facio",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, edepol",0.25
+plautus.bacchides,1101.0,"cano, caput, atque, albus, barba, miser, ego, aurum, sum, emungo",10,"NaN, 0.0, NaN, NaN, NaN, -1.0, NaN, 0.5, NaN, NaN",-0.05,-0.1,miser,0.1
+plautus.bacchides,1102.0,"pereo, hic, seruus, meus, non, naucum, facio, sum, audeo, atque, ego, si, alibi",13,"NaN, NaN, -0.5, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.038,-0.038,hic,0.077
+plautus.bacchides,1103.0,"multus, perdo, paruus, aeger, habeo, paruus, is, ego, damnum, duco",10,"0.0, NaN, 0.0, -1.0, NaN, 0.0, NaN, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+plautus.bacchides,1104.0,"certus, hic, prope, ego, ego, nescio, quis, loquor, uideo, sum, sed, qui, uideo",13,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.038,0.0,hic,0.077
+plautus.bacchides,1105.0,"hic, quidem, sum, pater, mnesilochi, euge, socius, aerumna, et, meus, malus, uideo",12,"NaN, NaN, NaN, 0.0, NaN, NaN, 1.0, -0.5, NaN, 0.0, -1.0, NaN",-0.042,-0.125,hic,0.083
+plautus.bacchides,1106.0,"philoxe, -ne, saluus, et, tu, unde, ago, unde, homo, miser, atque, infortunatus",12,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, 0.0, -1.0, NaN, NaN",0.0,-0.083,"tu, miser",0.167
+plautus.bacchides,1107.0,"at, pol, ego, ibi, sum, sum, ubi, miser, homo, decet, atque, infortunatus",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, 0.0, NaN, NaN, NaN",-0.083,-0.083,miser,0.083
+plautus.bacchides,1108.0,"igitur, par, fortuna, aetas, ut, sum, utor, sic, sum, sed, tu",11,"NaN, 0.5, 0.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.045,0.0,tu,0.091
+plautus.bacchides,1109.0,"quis, tu, sum, pol, ego, par, idem, sum, qui, tu",10,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.05,0.0,"tu, tu",0.2
+plautus.bacchides,1110.0,"numquid, nam, ad, filius, hic, aegritudo, attineo",7,"NaN, NaN, NaN, 0.0, NaN, -1.0, NaN",-0.143,-0.143,hic,0.143
+plautus.bacchides,1111.0,"admodum, idem, ego, morbus, in, pectus, sum",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,,0.0
+plautus.bacchides,1112.0,"at, ego, chrsalus, bonus, homo",5,"NaN, NaN, NaN, 1.0, 0.0",0.2,0.0,,0.0
+plautus.bacchides,1113.0,"perdo, filius, ego, atque, res, omnis, meus",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,1114.0,"quis, tu, ex, filius, nam, obsecro, aeger, sum, scio",9,"NaN, NaN, NaN, 0.0, NaN, NaN, -1.0, NaN, NaN",-0.111,-0.111,tu,0.111
+plautus.bacchides,1115.0,"is, pereo, cum, tuus, ambo, aequus, amica, habeo",8,"NaN, NaN, NaN, 0.0, NaN, 0.5, NaN, NaN",0.062,0.0,,0.0
+plautus.bacchides,1116.0,"qui, scio, uideo, is, ego, dispereo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1117.0,"quis, dubito, pultaris, atque, huc, euocaris, ambo, foras",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1118.0,"haud, moror, heus, bacchis, iubeo, sum, actus, aperio, foris",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1119.0,"nisi, mauoltis, foris, et, postis, comminuo, securis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1120.0,"quis, sonitus, atque, tumultus, tantus, nomino, ego, atque, pulto, aedes",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.bacchides,1121.0,"ego, atque, hic, quis, hic, sum, negotium, nam, amo, quis, hic, huc, ouum, adigo",14,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.036,-0.036,"hic, hic, hic",0.214
+plautus.bacchides,1122.0,"ouum, nos, uoco, malus, pastor, haris",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+plautus.bacchides,1123.0,"dormio, cum, hic, eo, sic, ab, pecus, balitantes",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.bacchides,1124.0,"at, pol, niteo, haud, sordidus, uideo, ambo",7,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,sordidus,0.143
+plautus.bacchides,1125.0,"attondeo, hic, quidem, ambo, usque, sum, ut, uideo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.bacchides,1126.0,"derideo, nos, sine, suus, usque, arbitratus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,derideo,0.167
+plautus.bacchides,1127.0,"reri, -ne, ter, in, annus, tu, hic, tonsitaris",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"tu, hic",0.25
+plautus.bacchides,1128.0,"pol, hodie, alter, iam, bis, detonso, certus, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,,0.0
+plautus.bacchides,1129.0,"uetula, sum, thimiame, at, bonus, sum, credo",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+plautus.bacchides,1130.0,"uideo, -ne, limulis, obsecro, ut, intueor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1131.0,"ecastor, sine, omnis, arbitror, malitia, sum",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,ecastor,0.167
+plautus.bacchides,1132.0,"mereo, hic, nos, fio, qui, quidem, huc, uenio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.bacchides,1133.0,"cogo, quidem, intro, haud, scio, quis, is, opus, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.056,0.0,,0.0
+plautus.bacchides,1134.0,"qui, neque, lac, neque, lana, ullus, habeo, sic, sine, asto",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,lana,0.1
+plautus.bacchides,1135.0,"exsoluo, quantus, sum, omnis, fructus",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+plautus.bacchides,1136.0,"iam, ille, decido, non, uideo, ut, palo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1137.0,"solus, liber",2,"-0.5, 0.5",0.0,-0.25,,0.0
+plautus.bacchides,1138.0,"grassor, quin, aetas, credo, sum, muto, ne, balo, quidem, cum, ab, pecus, ceterus, absum",14,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.bacchides,1139.0,"stultus, atque, haud, malus, uideo",5,"-1.0, NaN, NaN, -1.0, NaN",-0.4,-0.4,stultus,0.2
+plautus.bacchides,1140.0,"reuorto, intro, soror, ilico, ambo, maneo, hic, ouo, uolo, tu",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.2
+plautus.bacchides,1141.0,"prodigium, hic, quidem, sum, humanus, nos, uox, appello, ouo",9,"0.0, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,"prodigium, hic",0.222
+plautus.bacchides,1142.0,"hic, ouo, tu, malus, res, magnus, quam, debeo, do",9,"NaN, NaN, NaN, -1.0, 0.0, 0.0, NaN, NaN, NaN",-0.111,-0.111,"hic, tu",0.222
+plautus.bacchides,1143.0,"si, quam, debeo, tu, condono, tu, habeo, numquam, abs, tu, peto",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu, tu",0.273
+plautus.bacchides,1144.0,"sed, quis, sum, quapropter, nos, tu, malus, minito",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,tu,0.125
+plautus.bacchides,1145.0,"quia, noster, agnus, concludo, istic, sum, aio, duo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1146.0,"et, praeter, is, agnus, meus, sum, istic, clam, mordax, canis",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,1147.0,"qui, nisi, nos, produco, iam, atque, emitto, foras",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1148.0,"aries, trux, nos, sum, iam, in, tu, incurso",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"trux, tu",0.25
+plautus.bacchides,1149.0,"soror, sum, qui, tu, uolo, secretum, eho, amo, quo, illic, abeo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.091
+plautus.bacchides,1150.0,"senex, ille, tu, dedo, ulter, lepidus, ut, lenio, reddo",9,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.111
+plautus.bacchides,1151.0,"ego, ad, hic, irascor, aggredior, si, possum, nos, hic, intro, in-liceo, huc",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.167
+plautus.bacchides,1152.0,"meus, pendo, ego, lepidus, accuro, quamquam, odium, sum, mors, amplexaris",10,"0.0, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+plautus.bacchides,1153.0,"facio, ut, facio, taceo, tu, tuus, facio, ego, qui, dico, haud, muto",12,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.083
+plautus.bacchides,1154.0,"quis, illic, illic, in, consilium, duo, secretum, consulto",8,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.bacchides,1155.0,"quis, aio, tu, homo, quis, ego, uolo, pudeo, dico, ego, tu, quidam",12,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"tu, pudeo, tu",0.25
+plautus.bacchides,1156.0,"quis, sum, qui, pudeo, sed, amicus, homo, tu, qui, uolo, credo, certus, sum",13,"NaN, NaN, NaN, NaN, NaN, 1.0, 0.0, NaN, NaN, NaN, NaN, 0.5, NaN",0.115,0.0,"pudeo, tu",0.154
+plautus.bacchides,1157.0,"nihilis, sum, iste, iam, pridem, scio, sed, qui, nihilis, sum, is, memoro",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1158.0,"tango, sum, uehemens, uisco",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1159.0,"cor, stimulo, fodio, pol, tu, multus, aequus, sum, coxendix",9,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.5, NaN, NaN",0.056,0.0,"stimulo, tu",0.222
+plautus.bacchides,1160.0,"sed, quis, iste, sum, etsi, iam, ego, ipse, quis, sum, probus, scio, puto, ego",14,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.071,0.0,probus,0.071
+plautus.bacchides,1161.0,"uerus, audio, etiam, ex, tu, studeo, uideo, -ne, hic, uideo, haud, malus, sum, mulier",14,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, 0.0",-0.036,-0.071,"tu, hic, mulier",0.214
+plautus.bacchides,1162.0,"pol, uerus, iste, malus, et, tu, nihilis, quis, multus, ego, amo, an, amo, ναὶ, γάρ",15,"NaN, 0.5, NaN, -1.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.033,-0.067,tu,0.067
+plautus.bacchides,1163.0,"tu, -ne, homo, putidus, amator, istac, fio, aetas, audeo, qui, non.",11,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"tu, amator",0.182
+plautus.bacchides,1164.0,"quia, flagitium, sum, quis, opus, sum, uerbum, meus, filius, non, sum, irascor",12,"NaN, -1.0, NaN, NaN, 0.5, NaN, 0.0, 0.0, 0.0, NaN, NaN, NaN",-0.042,-0.083,flagitium,0.083
+plautus.bacchides,1165.0,"neque, tu, tuus, sum, aequus, sum, irascor, si, amo, sapienter, facio",11,"NaN, NaN, 0.0, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.045,0.0,tu,0.091
+plautus.bacchides,1166.0,"sequor, hic, eo, ecce, tandem",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.2
+plautus.bacchides,1167.0,"probrum, perlecebra, et, persuastrix, quis, nunc, etiam, reddo, nos",9,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.111,-0.111,probrum,0.111
+plautus.bacchides,1168.0,"filius, et, seruus, an, ego, experior, cum, tu, uis, magnus, abeo, -ne, hinc",13,"0.0, NaN, -0.5, NaN, NaN, NaN, NaN, NaN, 1.0, 0.0, NaN, NaN, NaN",0.038,-0.038,tu,0.077
+plautus.bacchides,1169.0,"non, homo, tu, quidem, sum, qui, istoc, pacisco, tam, lepidus, illepidus, appello",12,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.083,-0.083,tu,0.083
+plautus.bacchides,1170.0,"senex, optume, quantus, sum, in, terra, sine, ego, hic, exoraris, abs, tu",12,"0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, tu",0.167
+plautus.bacchides,1171.0,"ut, iste, delinquo, desisto, tantus, opus, eo, oppugno",8,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.062,0.0,,0.0
+plautus.bacchides,1172.0,"ni, abeo, quamquam, tu, bellum, sum, malus, tu, magnus, do, iam, patior",12,"NaN, NaN, NaN, NaN, 0.0, NaN, -1.0, NaN, 0.0, NaN, NaN, NaN",-0.083,-0.083,"tu, tu",0.167
+plautus.bacchides,1173.0,"non, metuo, ne, quis, ego, doleo, qui, ferio, ut, blandiloquus, sum",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1174.0,"is, ego, metuo, hic, magis, tranquillus, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.bacchides,1175.0,"eo, hic, cum, ego, intro, atque, ibi, si, quis, uolo, filius, concastigo",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.083
+plautus.bacchides,1176.0,"abeo, -ne, ab, ego, scelus, sine, meus, pietas, tu, exoro, exoro, tu, ego",13,"NaN, NaN, NaN, NaN, -1.0, NaN, 0.0, 1.0, NaN, NaN, NaN, NaN, NaN",0.0,-0.077,"scelus, tu, tu",0.231
+plautus.bacchides,1177.0,"ego, quidem, ab, hic, certus, exoro, immo, ego, tu, oro, ut, ego, intro, abduco",14,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.036,0.0,"hic, tu",0.143
+plautus.bacchides,1178.0,"lepidus, tu, at, scio, ne, quo, pacisco, ego, ad, tu, intro, abduco, cum, ego, ut, sum",16,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.125
+plautus.bacchides,1179.0,"omnis, qui, cupio, commemoro, uideo, ego, nequam, homo, uerus, tu",10,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, 0.0, 0.5, NaN",-0.05,-0.1,"nequam, tu",0.2
+plautus.bacchides,1180.0,"nemo, deterior, ita, sum",4,"-0.5, -1.0, NaN, NaN",-0.375,-0.375,,0.0
+plautus.bacchides,1181.0,"eo, hic, cum, ego, intro, ubi, tu, sum, lepidus, uictus, uinum, atque, unguentum",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu, unguentum",0.231
+plautus.bacchides,1182.0,"satis, satis, iam, uester, sum, conuiuo, ego, nihil, paeniteo, ut, sum, accipio",12,"0.5, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.083,0.0,conuiuo,0.083
+plautus.bacchides,1183.0,"quadringenti, philippis, filius, ego, et, chrysalus, circumduco",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,1184.0,"qui, quidem, ego, ut, non, excrucio, alter, tantus, aurum, non, mereo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.045,0.0,excrucio,0.091
+plautus.bacchides,1185.0,"quis, tandem, si, dimidium, aurum, reddo, in, hic, cum, ego, intro, atque, ut",13,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.038,0.0,hic,0.077
+plautus.bacchides,1186.0,"is, delictum, ignosco, facio, paruus, nolo, nihil, moror, sine, sic",10,"NaN, -1.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",-0.1,-0.1,delictum,0.1
+plautus.bacchides,1187.0,"malus, ille, ulciscor, ambo",4,"-1.0, NaN, NaN, NaN",-0.25,-0.25,ulciscor,0.25
+plautus.bacchides,1188.0,"etiam, tu, homo, nihilis, qui, deus, do, bonus, caueo, culpa, tuus, amitto",12,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, 1.0, NaN, -1.0, 0.0, NaN",0.0,-0.083,"tu, culpa",0.167
+plautus.bacchides,1189.0,"dimidium, aurum, do, accipio, possum, et, scortum, accumbo",8,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,scortum,0.125
+plautus.bacchides,1190.0,"ego, -ne, ubi, filius, corrumpo, meus, ibi, poto, poto, sum",10,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,1191.0,"ago, iam, is, ut, ut, sum, etsi, sum, dedecor, patior, facio, induco, animus",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.038,0.0,dedecor,0.077
+plautus.bacchides,1192.0,"ego, -ne, cum, hic, cum, ille, accubo, inspecto, immo, equidem, pol, cum, tu, accumbo, tu, amo, et, tu, amplexor",19,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu, tu, tu",0.211
+plautus.bacchides,1193.0,"caput, prurio, pereo, uix, negito",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,1194.0,"non, tu, uenio, in, mens, amo, si, dum, uiuo, tu, bene, facio",12,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.042,0.0,"tu, tu",0.167
+plautus.bacchides,1195.0,"tam, pol, is, quidem, sum, haud, perlonginquus, neque, si, hic, hodie, amitto, post, in, mors, euenio, sum, umquam",18,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.056,-0.056,hic,0.056
+plautus.bacchides,1196.0,"quis, ago, quis, ago, rogito, etiam, libet, et, metuo, quis, metuo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1197.0,"ne, obnoxius, filius, sum, et, seruo, mel, meus, amo, etsi, hic, fio",12,"NaN, -0.5, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",-0.042,-0.042,hic,0.083
+plautus.bacchides,1198.0,"tuus, sum, unde, ille, sumo, censeo, nisi, qui, tueor, ille, do",11,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,1199.0,"hic, uenio, ille, sine, tu, exoro, ut, terebrat, satis, ne, offirmo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.045,0.0,"hic, tu",0.182
+plautus.bacchides,1200.0,"qui, ego, sum, is, ego, exoro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.bacchides,1201.0,"tuus, sum, opus, et, propter, tu, improbus, nemo, quam, meus, malo",11,"0.0, NaN, 0.5, NaN, NaN, NaN, -1.0, -0.5, NaN, 0.0, NaN",-0.091,-0.136,"tu, improbus",0.182
+plautus.bacchides,1202.0,"satis, ne, ego, iste, habeo, firmo, qui, semel, dico, haud, muto",11,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.045,0.0,,0.0
+plautus.bacchides,1203.0,"eo, dies, eo, intro, accumbo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.bacchides,1204.0,"filius, tu, exspecto, intus, quam, quidem, actus, emorior",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.125
+plautus.bacchides,1205.0,"uesper, hic, sum, sequor, duco, nos, quo, lubet, tamquam, quidem, addico",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, addico",0.182
+plautus.bacchides,1206.0,"lepidus, ipse, hic, sum, capio, suus, qui, filius, facio, insidiae",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"hic, insidiae",0.2
+plautus.bacchides,1207.0,"hic, senex, nisi, sum, nihilis, iam, inde, ab, adulescentia",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.111
+plautus.bacchides,1208.0,"non, hodie, hic, tantus, flagitium, facio, canis, caput",8,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, 0.0",-0.125,-0.125,"hic, flagitium",0.25
+plautus.bacchides,1209.0,"neque, adeo, hic, facio, ni, antehac, uideo, fio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.bacchides,1210.0,"ut, apud, leno, riual, filius, fio, pater",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,"leno, riual",0.286
+plautus.bacchides,1211.0,"spectator, tu, ualeo, uolo, et, claris, applaudo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143

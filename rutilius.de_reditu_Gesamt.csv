@@ -1,0 +1,713 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+rutilius.de_reditu,1.1,"uelox, potis, redeo, miror, lector",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.2,"tam, cito, romuleis, possum, careo, bonus",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+rutilius.de_reditu,1.3,"quis, longus, totus, roma, ueneror, aeuum",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.4,"nihil, umquam, longus, sum, qui, sine, finis, placeo",8,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.5,"o, quantus, et, quotiens, possum, numeraris, beatus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+rutilius.de_reditu,1.6,"nascor, felix, qui, mereo, solum",5,"NaN, 1.0, NaN, NaN, 0.0",0.2,0.0,,0.0
+rutilius.de_reditu,1.7,"qui, romanus, procerus, generosus, propago",5,"NaN, NaN, 0.5, 1.0, 0.0",0.3,0.0,,0.0
+rutilius.de_reditu,1.8,"ingenitus, cumulo, urbs, honor, decus",5,"NaN, NaN, 0.5, 1.0, NaN",0.3,0.0,,0.0
+rutilius.de_reditu,1.9,"semen, uirtus, demitto, et, trado, caelum",6,"NaN, 1.0, NaN, NaN, NaN, 0.5",0.25,0.0,,0.0
+rutilius.de_reditu,1.1,"non, possum, alius, dignus, sum, locus",6,"NaN, NaN, NaN, 1.0, NaN, 0.0",0.167,0.0,,0.0
+rutilius.de_reditu,1.11,"felix, etiam, qui, propior, munus, primus",6,"1.0, NaN, NaN, 0.0, 0.5, 0.5",0.333,0.0,,0.0
+rutilius.de_reditu,1.12,"sortio, latias, obtineo, domus",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.13,"religiosus, pateo, peregrina, curia, laus",5,"NaN, NaN, NaN, -1.0, 1.0",0.0,-0.2,,0.0
+rutilius.de_reditu,1.14,"neque, puto, externus, qui, decet, sum, suus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.15,"ordo, imperium, collega, fruor",4,"0.5, 0.0, NaN, NaN",0.125,0.0,,0.0
+rutilius.de_reditu,1.16,"et, pars, genius, qui, ueneror, habeo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.17,"qualis, per, aetherius, mundanus, uertex, axis",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.18,"concilium, superus, credo, sum, deus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.19,"at, meus, diligo, fortuna, reuellitur, ora",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.2,"indigena, suus, gallica, rus, uoco",5,"0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.21,"ille, quidem, longus, nimium, deformis, bellum",6,"NaN, NaN, 0.0, 0.0, -1.0, 0.0",-0.167,-0.167,deformis,0.167
+rutilius.de_reditu,1.22,"sed, quam, gratus, paruus, tam, misero, magis",7,"NaN, NaN, 1.0, 0.0, NaN, NaN, NaN",0.143,0.0,misero,0.143
+rutilius.de_reditu,1.23,"securus, leuis, crimen, contemno, ciuis",5,"1.0, 0.0, -1.0, NaN, 0.5",0.1,-0.2,crimen,0.2
+rutilius.de_reditu,1.24,"priuo, repeto, publicus, damno, fides",5,"NaN, NaN, 0.0, NaN, 1.0",0.2,0.0,damno,0.2
+rutilius.de_reditu,1.25,"praesens, lacrima, tectum, debeo, auitus",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.26,"prodo, admonitus, saepe, dolor, labor",5,"NaN, NaN, NaN, -1.0, -0.5",-0.3,-0.3,,0.0
+rutilius.de_reditu,1.27,"neque, fas, ultra, longus, nescio, ruina",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.28,"qui, mora, suspendo, multiplico, ops",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.29,"iam, tempus, lacer, post, saeuus, incendium, fundo",7,"NaN, 0.0, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,saeuus,0.143
+rutilius.de_reditu,1.3,"uel, pastoral, aedificaris, cado",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.31,"ipse, quin, etiam, fons, si, mitto, uoco",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.32,"ipse, si, possum, arbutum, noster, loquor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.33,"cesso, iustus, possum, urgeo, querela",5,"NaN, 1.0, NaN, NaN, -0.5",0.1,-0.1,,0.0
+rutilius.de_reditu,1.34,"et, desiderium, addo, uelo, meus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.35,"iamiam, laxo, carus, complexus, urbs",5,"NaN, NaN, 1.0, 0.0, 0.5",0.3,0.0,,0.0
+rutilius.de_reditu,1.36,"uincio, et, serus, uix, tolero, iter",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.37,"eligo, pelagus, quoniam, terrenus, uiaris",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.38,"planum, madeo, fluuius, cautes, altus, rigo",6,"NaN, NaN, NaN, 0.0, 0.5, NaN",0.083,0.0,planum,0.167
+rutilius.de_reditu,1.39,"postquam, tuscus, ager, postquamque, aurelius, agger",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.4,"perpetior, geticas, ensis, uel, ignis, manus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,geticas,0.167
+rutilius.de_reditu,1.41,"non, silua, domus, non, flumen, pons, cohercet",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.42,"incertum, sero, credo, uelo, mare",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.43,"creber, reliquendis, infigo, osculum, porta",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.44,"inuitus, supero, limen, sacer, pes",5,"-0.5, NaN, NaN, 1.0, 0.0",0.1,-0.1,,0.0
+rutilius.de_reditu,1.45,"oro, uenio, lacrima, et, laus, lito",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+rutilius.de_reditu,1.46,"in, quantus, fletus, curro, uerbum, sino",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.47,"•exaudi, regina, tuus, pulcher, mundus",5,"NaN, NaN, 0.0, 1.0, 1.0",0.4,0.0,,0.0
+rutilius.de_reditu,1.48,"inter, sidereus, roma, recipio, polus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.49,"exaudio, genetrix, homo, genetrix, deus",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.5,"non, procul, ab, caelum, per, tuus, templum, sum",8,"NaN, NaN, NaN, 0.5, NaN, 0.0, NaN, NaN",0.062,0.0,,0.0
+rutilius.de_reditu,1.51,"tu, cano, semper, sino, dum, fatum, cano",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.143
+rutilius.de_reditu,1.52,"sospes, nemo, possum, immemor, sum, tuus",6,"1.0, -0.5, NaN, -1.0, NaN, 0.0",-0.083,-0.25,,0.0
+rutilius.de_reditu,1.53,"obruerint, cieo, scelero, obliuius, sol",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,scelero,0.2
+rutilius.de_reditu,1.54,"quam, tuus, e, noster, cor, recedo, honor",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+rutilius.de_reditu,1.55,"nam, sol, radius, aequalis, munus, tendo",6,"NaN, NaN, NaN, 0.5, 0.5, NaN",0.167,0.0,,0.0
+rutilius.de_reditu,1.56,"qui, circumfundo, fluctuo, oceanus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.57,"uoluo, ipse, tu, qui, contineo, omnis, phoebus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+rutilius.de_reditu,1.58,"equus, tuus, orior, in, tuus, condio, equus",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.59,"tu, non, flammigeris, libye, tardo, harena",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+rutilius.de_reditu,1.6,"non, armo, suus, repello, ursa, gelus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,ursa,0.167
+rutilius.de_reditu,1.61,"quantus, uital, natura, tendo, in, axis",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.62,"tantus, uirtus, peruius, terra, tuus",5,"NaN, 1.0, NaN, 0.0, 0.0",0.2,0.0,,0.0
+rutilius.de_reditu,1.63,"facio, patria, diuerto, gens, unus",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.64,"prosum, iniustus, tu, dominor, capio",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,"iniustus, tu",0.4
+rutilius.de_reditu,1.65,"dum, offertor, uinco, proprius, consortium, ius",6,"NaN, NaN, NaN, 0.0, 0.0, 0.5",0.083,0.0,,0.0
+rutilius.de_reditu,1.66,"urbs, facio, qui, prior, orbis, sum",6,"0.5, NaN, NaN, 0.5, NaN, NaN",0.167,0.0,,0.0
+rutilius.de_reditu,1.67,"auctor, genus, uenerem, martes, fateor",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.68,"aeneadum, mater, romulidumque, pater",4,"NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.69,"mitigo, armo, uictrix, clemens, uireo",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+rutilius.de_reditu,1.7,"conuenio, in, mos, nomen, uterque, tuus",6,"NaN, NaN, 0.5, 0.0, NaN, 0.0",0.083,0.0,,0.0
+rutilius.de_reditu,1.71,"hinc, tu, certo, bonus, parcendique, uoluptas",6,"NaN, NaN, NaN, 1.0, NaN, 1.0",0.333,0.0,tu,0.167
+rutilius.de_reditu,1.72,"qui, timeo, supero, qui, supero, amo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.73,"inuentrix, olea, colo, uinum, repertor",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.74,"et, qui, primus, humo, premo, aratrum, puer",7,"NaN, NaN, 0.5, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+rutilius.de_reditu,1.75,"ara, paeonia, mereo, medicina, per, ars",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.76,"facio, et, alcides, nobilitas, deus",5,"NaN, NaN, NaN, 1.0, 0.0",0.2,0.0,alcides,0.2
+rutilius.de_reditu,1.77,"tu, quoque, legiferis, mundus, complector, triumphus",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,tu,0.167
+rutilius.de_reditu,1.78,"foedus, communis, uiuo, cunctus, facio",5,"-1.0, 0.0, NaN, 0.0, NaN",-0.2,-0.2,,0.0
+rutilius.de_reditu,1.79,"tu, dea, tu, celebro, romanus, ubique, recedo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.286
+rutilius.de_reditu,1.8,"pacificoque, gero, liber, collum, iugum",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,1.81,"omnis, perpetuus, qui, seruo, sidus, moueo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.82,"nullus, uideo, pulcher, imperium",4,"NaN, NaN, 1.0, 0.0",0.25,0.0,,0.0
+rutilius.de_reditu,1.83,"quis, similis, assyriis, conecto, contingo, arma",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.84,"medus, finitimi, condomuere, suus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.85,"magnus, parthi, rex, macetumque, tyrannus",5,"0.0, NaN, 0.0, NaN, NaN",0.0,0.0,"parthi, tyrannus",0.4
+rutilius.de_reditu,1.86,"mutuus, per, uario, ius, do, uicis",6,"0.0, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+rutilius.de_reditu,1.87,"neque, tu, nasco, multus, animaequus, manus",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,tu,0.167
+rutilius.de_reditu,1.88,"sed, multus, consilium, iudicium, sum",5,"NaN, 0.0, 0.5, 0.5, NaN",0.2,0.0,,0.0
+rutilius.de_reditu,1.89,"iustus, bellum, causa, neque, pax, superbus",6,"1.0, 0.0, 0.0, NaN, 0.5, -1.0",0.083,-0.167,,0.0
+rutilius.de_reditu,1.9,"nobilis, ad, superus, gloria, uenio, ops",6,"1.0, NaN, NaN, 0.0, NaN, 0.0",0.167,0.0,,0.0
+rutilius.de_reditu,1.91,"qui, regno, paruus, sum, quam, qui, regno, mereo",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.92,"excedo, facio, grandis, fatum, tuus",5,"NaN, NaN, 0.0, 0.0, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.93,"percenseo, labor, densus, decus, altus, tropaeum",6,"NaN, -0.5, NaN, NaN, 0.5, NaN",0.0,-0.083,,0.0
+rutilius.de_reditu,1.94,"ut, si, quis, stella, pernumeraris, uolo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.95,"confundo, uagus, delubrum, mico, uideo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.96,"ipse, credo, sic, habito, deus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.97,"quis, loquor, aerius, pendeo, fornix, riuus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.98,"qui, uix, imbrifer, tollo, iris, aqua",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.99,"hic, potis, dico, cerno, in, sidus, mons",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.143
+rutilius.de_reditu,1.1,"talis, giganteum, graecia, laudo, opus",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+rutilius.de_reditu,1.101,"intercipio, tuus, condo, flumen, murus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.102,"consumo, totus, celsus, lauacrum, lacus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.103,"neque, paruus, et, proprius, celebro, roscidus, uenio",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.104,"totus, natiuus, moenia, fons, sono",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.105,"frigidus, aestiuus, hinc, tempero, halitus, aura",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+rutilius.de_reditu,1.106,"innocuamque, leuo, purus, unda, sitis",5,"NaN, NaN, 1.0, 0.0, -0.5",0.1,-0.1,,0.0
+rutilius.de_reditu,1.107,"nempe, tu, subeo, calidaris, gurges, aqua",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, gurges",0.333
+rutilius.de_reditu,1.108,"rumpo, tarpeias, hostis, premo, uia",5,"NaN, NaN, -1.0, NaN, 0.0",-0.2,-0.2,,0.0
+rutilius.de_reditu,1.109,"si, sum, aeternus, casus, fortasse, puto",6,"NaN, NaN, 0.5, 0.0, NaN, NaN",0.083,0.0,,0.0
+rutilius.de_reditu,1.11,"auxilium, fluo, qui, redeo, sum",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.111,"quis, loquor, includo, inter, laquearia, silua",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.112,"uernula, qui, uario, carmen, ludo, auus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.113,"uerus, tuus, numquam, mulceo, desino, annus",6,"0.5, 0.0, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+rutilius.de_reditu,1.114,"delicia, tuus, uinco, tueor, hiems",5,"0.5, 0.0, NaN, NaN, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,1.115,"erigo, crinal, laurus, senium, sacro",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,crinal,0.2
+rutilius.de_reditu,1.116,"uertex, in, uiridis, roma, refinge, como",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.117,"aureus, turrigero, radio, diadema, conus",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,1.118,"perpetuus, ignis, aureus, umbo, uomo",5,"0.0, 0.0, 0.5, NaN, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,1.119,"abscondo, tristis, deleo, iniuria, casus",5,"NaN, -1.0, NaN, -1.0, 0.0",-0.4,-0.4,,0.0
+rutilius.de_reditu,1.12,"contemno, solidet, uulnero, claudo, dolor",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+rutilius.de_reditu,1.121,"aduerro, solo, tuus, spero, secundus",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.122,"exemplum, caelum, diues, damno, subeo",5,"0.0, 0.5, 0.5, NaN, NaN",0.2,0.0,damno,0.2
+rutilius.de_reditu,1.123,"astrum, flamma, renouo, occasus, ortus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.124,"luna, finio, cerno, ut, incipio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.125,"uictor, brenni, non, differo, allium, poena",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,poena,0.167
+rutilius.de_reditu,1.126,"samnis, seruitium, foedero, saeuus, luo",5,"NaN, -1.0, NaN, -1.0, NaN",-0.4,-0.4,"foedero, saeuus, luo",0.6
+rutilius.de_reditu,1.127,"post, multus, pyrrhum, clades, supero, fugo",6,"NaN, 0.0, NaN, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+rutilius.de_reditu,1.128,"fleo, successus, hannibal, ipse, suus",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,1.129,"qui, mergo, nequeo, nisus, magnus, resurgo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.13,"exiliuntque, imus, altus, ago, uado",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,1.131,"ut, nouo, uireo, fax, inclino, resumo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fax,0.167
+rutilius.de_reditu,1.132,"clarus, ex, humilis, sors, supernus, peto",6,"0.5, NaN, NaN, -1.0, NaN, NaN",-0.083,-0.167,humilis,0.167
+rutilius.de_reditu,1.133,"porrigo, uinco, romana, in, saeculum, lex",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+rutilius.de_reditu,1.134,"solo, fatal, non, uerearis, color",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.135,"quiuis, sedecies, deni, et, mille, perago",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.136,"annus, praeterea, iam, tu, nonus, eo",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.167
+rutilius.de_reditu,1.137,"qui, resto, nullus, obnoxius, tempus, metior",6,"NaN, NaN, NaN, -0.5, 0.0, NaN",-0.083,-0.083,,0.0
+rutilius.de_reditu,1.138,"dum, sto, terra, dum, polus, astrum, fero",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.139,"ille, tu, reparo, qui, ceterus, regnum, resoluo",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,tu,0.143
+rutilius.de_reditu,1.14,"ordo, renascor, sum, cresco, possum, malus",6,"0.5, NaN, NaN, NaN, NaN, -1.0",-0.083,-0.167,,0.0
+rutilius.de_reditu,1.141,"ergo, ago, sacrilega, tandem, cado, hostia, gens",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hostia,0.143
+rutilius.de_reditu,1.142,"submittant, trepidus, perfidus, collum, getae",5,"NaN, -1.0, -1.0, NaN, NaN",-0.4,-0.4,perfidus,0.2
+rutilius.de_reditu,1.143,"diues, pacatae, do, uectigalis, terra",5,"0.5, NaN, NaN, NaN, 0.0",0.1,0.0,,0.0
+rutilius.de_reditu,1.144,"impleo, augustus, barbarum, praeda, sinus",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,barbarum,0.2
+rutilius.de_reditu,1.145,"aeternus, tu, rhenus, aro, tu, nilus, inundo",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,"tu, tu, inundo",0.429
+rutilius.de_reditu,1.146,"altrix, suus, fertilis, orbis, alo",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,altrix,0.2
+rutilius.de_reditu,1.147,"quin, et, fecundus, tu, confero, africa, messis",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,tu,0.143
+rutilius.de_reditu,1.148,"sol, suus, diues, sed, magis, imber, tuus",7,"NaN, NaN, 0.5, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+rutilius.de_reditu,1.149,"interea, et, latius, consurgo, horreum, sulcus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.15,"pingue, hesperio, nectaris, prelum, fluo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.151,"ipse, triumphal, redimio, arundo, thybris",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.152,"romuleis, famulo, usus, apto, aqua",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.153,"atque, opulentus, tu, placidus, commercium, ripa",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,tu,0.167
+rutilius.de_reditu,1.154,"deuehat, hinc, rus, subueho, inde, mare",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.155,"pando, precor, geminus, pacatum, castor, pontus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.156,"tempero, aequoreus, dux, cytherea, uia",5,"NaN, NaN, 0.5, NaN, 0.0",0.1,0.0,,0.0
+rutilius.de_reditu,1.157,"si, non, displiceo, rego, cum, ius, quirinus",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+rutilius.de_reditu,1.158,"si, colo, sancio, consuluique, pater",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.159,"nam, qui, nullus, meus, stringo, crimen, ferrum",7,"NaN, NaN, NaN, 0.0, NaN, -1.0, NaN",-0.143,-0.143,crimen,0.143
+rutilius.de_reditu,1.16,"non, sum, praefectus, gloria, sed, populus",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.161,"siue, do, patrius, uita, compono, terra",6,"NaN, NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.162,"siue, oculus, umquam, restituo, meus",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.163,"fortuno, ago, ueto, beo, omnis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.164,"semper, digno, si, memini, mei.•",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.165,"hic, dictum, iter, arripio, comito, amicus",6,"NaN, 0.0, 0.0, NaN, NaN, 1.0",0.167,0.0,hic,0.167
+rutilius.de_reditu,1.166,"dico, non, possum, lumen, sicco, •uale•",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.167,"iam, alius, roma, redeo, haereo, eo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.168,"rufus, albinus, gloria, uiuus, pater",5,"NaN, NaN, 0.0, 0.0, 0.0",0.0,0.0,uiuus,0.2
+rutilius.de_reditu,1.169,"qui, uolusi, antiquus, deriuo, stemma, nomen",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.17,"et, rex, rutulos, testis, marum, refero",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.171,"hic, facundus, committo, palatium, lingua",5,"NaN, 1.0, NaN, NaN, -0.5",0.1,-0.1,hic,0.2
+rutilius.de_reditu,1.172,"primaeuus, mereo, princeps, os, loquor",5,"NaN, NaN, 0.5, 0.0, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,1.173,"rego, ante, puer, populus, pro, consul, poenos",7,"NaN, NaN, 0.0, 0.0, NaN, 0.5, NaN",0.071,0.0,,0.0
+rutilius.de_reditu,1.174,"aequalis, tyriis, terror, amo, sum",5,"0.5, NaN, -1.0, NaN, NaN",-0.1,-0.2,,0.0
+rutilius.de_reditu,1.175,"sedulus, promitto, summus, insto, fascis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.176,"si, fas, sum, meritum, findo, consul, sum",7,"NaN, NaN, NaN, 1.0, NaN, 0.5, NaN",0.214,0.0,,0.0
+rutilius.de_reditu,1.177,"inuitus, tristis, tandem, remearis, cogo",5,"-0.5, -1.0, NaN, NaN, NaN",-0.3,-0.3,,0.0
+rutilius.de_reditu,1.178,"corpus, diuido, mens, tamen, unus, teneo",6,"0.0, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+rutilius.de_reditu,1.179,"tum, demum, ad, nauo, gradior, qui, frons, bicornis",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.18,"diuiduus, tiberis, dexter, seco",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.181,"laeuus, inaccessus, fluuius, uito, harena",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,,0.0
+rutilius.de_reditu,1.182,"hospes, aeneus, gloria, solus, maneo",5,"0.0, 0.0, 0.0, -0.5, NaN",-0.1,-0.1,,0.0
+rutilius.de_reditu,1.183,"et, iam, nocturnus, spatium, laxo, hora",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.184,"phoebus, chelaris, palliodore, polus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.185,"cuncto, tentaris, sal, portus, sedeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.186,"neque, pigeo, oppono, otium, fero, mos",6,"NaN, NaN, NaN, 0.5, NaN, 0.5",0.167,0.0,otium,0.167
+rutilius.de_reditu,1.187,"occiduus, infidus, dum, saeuio, gurges, plias",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,"saeuio, gurges",0.333
+rutilius.de_reditu,1.188,"dum, procellosus, tempus, ira, cado",5,"NaN, NaN, 0.0, -1.0, NaN",-0.2,-0.2,,0.0
+rutilius.de_reditu,1.189,"respectaris, iuuo, uicina, saepis, urbs",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+rutilius.de_reditu,1.19,"et, mons, uideo, deficio, sequor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.191,"quisque, dux, oculus, gratus, regio, fruor",6,"NaN, 0.5, 0.0, 1.0, 0.0, NaN",0.25,0.0,,0.0
+rutilius.de_reditu,1.192,"dum, sui, qui, cupio, cerno, possum, puto",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.193,"neque, locus, ille, ego, cognosco, indico, fumus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.194,"qui, domina, arx, et, caput, orbis, habeo",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.195,"quamquam, signum, leuis, fumus, commendo, homerus",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.196,"diligo, quotiens, surgo, in, astrum, solum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.197,"sed, caelum, plaga, candidus, traho, serenus",6,"NaN, 0.5, 0.0, NaN, NaN, NaN",0.083,0.0,,0.0
+rutilius.de_reditu,1.198,"signo, septeni, culmen, clarus, iugum",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,1.199,"illic, perpetuus, soleo, atque, ipse, uideo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.2,"qui, sui, roma, facio, purus, sum, dies",7,"NaN, NaN, NaN, NaN, 1.0, NaN, 0.0",0.143,0.0,,0.0
+rutilius.de_reditu,1.201,"saepis, attono, resono, circensis, auris",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.202,"nuntio, accendo, plenus, theatrum, fauor",5,"NaN, NaN, 0.0, NaN, 1.0",0.2,0.0,,0.0
+rutilius.de_reditu,1.203,"pulso, nosco, reddo, ab, aether, uoco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.204,"uel, quia, peruenio, uel, quia, fingo, amor",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,fingo,0.143
+rutilius.de_reditu,1.205,"exploro, fides, pelagus, ter, quinque, dies",6,"NaN, 1.0, NaN, NaN, NaN, 0.0",0.167,0.0,,0.0
+rutilius.de_reditu,1.206,"dum, bonus, luna, fido, aura, nouus",6,"NaN, 1.0, NaN, NaN, 1.0, 1.0",0.5,0.0,,0.0
+rutilius.de_reditu,1.207,"tum, discedo, studium, urbs, remitto",5,"NaN, NaN, 0.5, 0.5, NaN",0.2,0.0,,0.0
+rutilius.de_reditu,1.208,"palladium, genus, spes, decus, meus",5,"NaN, 0.0, 0.5, NaN, 0.0",0.1,0.0,,0.0
+rutilius.de_reditu,1.209,"facundus, iuuenis, gallus, nuper, ab, aruum",6,"1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,gallus,0.167
+rutilius.de_reditu,1.21,"mitto, romanus, disco, ius, forum",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,1.211,"ille, meus, cum, sui, dulcis, uinculum, cura",7,"NaN, 0.0, NaN, NaN, 0.5, NaN, -1.0",-0.071,-0.143,,0.0
+rutilius.de_reditu,1.212,"filius, afficio, stirps, propinquus, habeo",5,"0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.213,"qui, aremoricas, pater, exuperantius, ora",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.214,"nunc, postliminium, pax, amo, doceo",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,1.215,"lex, restituo, libertas, reduco",4,"0.5, NaN, 0.5, NaN",0.25,0.0,,0.0
+rutilius.de_reditu,1.216,"et, seruus, famulis, non, sino, sum, suus",7,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+rutilius.de_reditu,1.217,"soluo, aurora, dubius, quo, tempus, primus",6,"NaN, NaN, -0.5, NaN, 0.0, 0.5",0.0,-0.083,,0.0
+rutilius.de_reditu,1.218,"agnosco, patior, reddo, aruum, color",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.219,"progredio, paruus, per, litus, propior, cymbis",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.22,"qui, perfugio, creber, pateo, humus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"perfugio, humus",0.4
+rutilius.de_reditu,1.221,"aestiuus, penetro, oneraria, carbasus, fluctus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.222,"tueor, auctumnus, mobilitas, fuga",4,"NaN, 0.0, NaN, -0.5",-0.125,-0.125,,0.0
+rutilius.de_reditu,1.223,"alsius, praelegitur, tellus, pyrgique, recedo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.224,"nunc, uilla, grandis, oppidum, paruus, prior",6,"NaN, NaN, 0.0, NaN, 0.0, 0.5",0.083,0.0,,0.0
+rutilius.de_reditu,1.225,"iam, caeretanos, demonstro, nauta, finis",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.226,"aeuum, depono, nomen, agylla, uetus",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.227,"stringo, expugno, et, fluctus, et, tempus, castra",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.228,"index, semirutus, porto, uetustus, locus",5,"-0.5, NaN, NaN, 0.0, 0.0",-0.1,-0.1,,0.0
+rutilius.de_reditu,1.229,"praesideo, exiguus, formo, imago, saxum",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.23,"qui, pastoral, cornu, frons, gero",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.231,"multus, licet, priscus, nomen, deleo, aetas",6,"0.0, NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.232,"hic, inuius, castra, fama, sum, puto",6,"NaN, 0.0, 0.0, 1.0, NaN, NaN",0.167,0.0,hic,0.167
+rutilius.de_reditu,1.233,"seu, pan, tyrrhenis, muto, maenala, silua",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.234,"siue, sinus, patrius, incola, faunus, ineo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.235,"dum, renouo, largus, mortalia, semen, fetus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.236,"fingo, in, uenerem, pronus, sum, deus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,fingo,0.167
+rutilius.de_reditu,1.237,"ad, centumcellas, fortis, defleximus, auster",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,1.238,"tranquillus, puppis, in, statio, sedeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.239,"moles, aequoreus, concludo, amphitheatrum",4,"NaN, NaN, NaN, NaN",nan,nan,amphitheatrum,0.25
+rutilius.de_reditu,1.24,"angustus, aditus, insula, facio, tego",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.241,"attollo, gemino, turris, bifidoque, meo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.242,"fauces, artas, pando, uterque, latus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.243,"neque, pono, satis, laxo, nauale, portus",6,"NaN, NaN, 0.5, NaN, 0.0, NaN",0.083,0.0,,0.0
+rutilius.de_reditu,1.244,"ne, uago, uel, tueor, uentilo, aura, ratis",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+rutilius.de_reditu,1.245,"intereo, medius, sinus, inuito, in, aedes",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.246,"instabilis, figo, aes, nescio, aqua",5,"-0.5, NaN, NaN, NaN, 0.0",-0.1,-0.1,,0.0
+rutilius.de_reditu,1.247,"qualis, in, euboicus, captiuus, natas, unda",6,"NaN, NaN, NaN, -1.0, NaN, 0.0",-0.167,-0.167,captiuus,0.167
+rutilius.de_reditu,1.248,"sustineo, alterno, bracchium, lentus, sonus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.249,"nosco, iuuo, taurus, dico, de, nomen, thermae",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.25,"neque, mora, difficilis, mille, eo, tres",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+rutilius.de_reditu,1.251,"non, illic, gustus, latex, uitio, amarus",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+rutilius.de_reditu,1.252,"lympho, fumifico, sulphur, tingo, caleo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,sulphur,0.2
+rutilius.de_reditu,1.253,"purus, odor, mollio, sapor, dubitaris, lauo",6,"1.0, 0.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+rutilius.de_reditu,1.254,"cogo, qui, bonus, pars, peto, aqua",6,"NaN, NaN, 1.0, 0.0, NaN, 0.0",0.167,0.0,,0.0
+rutilius.de_reditu,1.255,"credo, si, dignus, fama, flagro, taurus",6,"NaN, NaN, 1.0, 1.0, NaN, NaN",0.333,0.0,,0.0
+rutilius.de_reditu,1.256,"inuestigo, fons, lauacrum, do",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.257,"ut, soleo, excutio, pugna, praeludere, glaeba",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,glaeba,0.167
+rutilius.de_reditu,1.258,"stipes, cum, rigidus, cornu, pronus, tero",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.259,"siue, deus, facies, mentior, et, arma, iuuencus",7,"NaN, 0.0, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.26,"nolo, ardeo, donum, lateo, solus",5,"NaN, NaN, 0.0, NaN, -0.5",-0.1,-0.1,,0.0
+rutilius.de_reditu,1.261,"qualis, agenorei, rapio, gaudium, furtum",5,"NaN, NaN, NaN, 1.0, -1.0",0.0,-0.2,furtum,0.2
+rutilius.de_reditu,1.262,"per, fretus, uirgineus, sollicito, onus",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,1.263,"arduus, non, solus, decet, miraculum, graios",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+rutilius.de_reditu,1.264,"auctor, pecus, fons, heliconis, habeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.265,"elicitas, similis, credo, origo, nympha",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.266,"musa, latex, ungula, fodio, equus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.267,"hic, quoque, pieriis, spiraculum, comparo, antrum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.167
+rutilius.de_reditu,1.268,"carmen, messalae, nobilito, ager",4,"0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.269,"intro, capio, discedo, moror",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.27,"postis, affigo, dulcis, poema, sacrum",5,"NaN, NaN, 0.5, 0.0, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,1.271,"hic, sum, qui, primus, series, de, consul, duco",8,"NaN, NaN, NaN, 0.5, 0.5, NaN, 0.5, NaN",0.188,0.0,hic,0.125
+rutilius.de_reditu,1.272,"usque, ad, publicolas, si, redeo, auus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.273,"hic, et, praefectus, nutus, praetorius, rego",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+rutilius.de_reditu,1.274,"sed, mens, et, lingua, gloria, magnus, insum",7,"NaN, 0.5, NaN, -0.5, 0.0, 0.0, NaN",0.0,-0.071,,0.0
+rutilius.de_reditu,1.275,"hic, doceo, qual, posco, facundia, sedes",6,"NaN, NaN, NaN, NaN, 1.0, 0.0",0.167,0.0,hic,0.167
+rutilius.de_reditu,1.276,"ut, bonus, sum, uolo, quisque, dissero, sum",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+rutilius.de_reditu,1.277,"roscidus, puniceus, fulcio, crepusculum, caelum",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,puniceus,0.2
+rutilius.de_reditu,1.278,"pando, obliquus, linteus, flecto, sinus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.279,"paulisper, litus, fugio, munio, uadosus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.28,"suspicio, trepido, ostium, paruus, salum",5,"-0.5, NaN, NaN, 0.0, NaN",-0.1,-0.1,,0.0
+rutilius.de_reditu,1.281,"inde, grauiscaris, fastigium, rarus, uideo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.282,"qui, premo, aestiuus, saepe, palus, odor",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.283,"sed, nemorosus, uireo, densus, uicinia, lucus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.284,"pineum, exter, fluctuo, umbra, fretus",5,"NaN, 0.0, NaN, NaN, 0.5",0.1,0.0,,0.0
+rutilius.de_reditu,1.285,"cerno, antiquus, nullus, custos, ruina",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.286,"et, destituo, moenia, foedus, cosae",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+rutilius.de_reditu,1.287,"ridicula, clades, pudeo, inter, seria, causa",6,"NaN, -1.0, NaN, NaN, NaN, 0.0",-0.167,-0.167,"pudeo, seria",0.333
+rutilius.de_reditu,1.288,"promo, sed, risus, dissimulo, pigeo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.289,"dico, ciuis, quondam, migraris, cogo",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,1.29,"mus, infestus, desero, lar",4,"NaN, -1.0, NaN, NaN",-0.25,-0.25,,0.0
+rutilius.de_reditu,1.291,"credo, malo, pygmaeae, damno, cohors",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,damno,0.2
+rutilius.de_reditu,1.292,"et, coniuro, in, suus, bellum, gruo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"coniuro, gruo",0.333
+rutilius.de_reditu,1.293,"haud, procul, hinc, peto, signo, ab, herculis, portus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.294,"uergo, sequor, mollio, aura, dies",5,"NaN, NaN, NaN, 1.0, 0.0",0.2,0.0,,0.0
+rutilius.de_reditu,1.295,"inter, castrum, uestigium, sermo, retego",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,,0.0
+rutilius.de_reditu,1.296,"sardoam, lepidus, praecipito, fuga",4,"NaN, NaN, NaN, -0.5",-0.125,-0.125,,0.0
+rutilius.de_reditu,1.297,"littor, namque, cosae, cognatus, depello, hostis",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+rutilius.de_reditu,1.298,"uirtus, catulis, roma, sequor, dux",5,"1.0, NaN, NaN, NaN, 0.5",0.3,0.0,,0.0
+rutilius.de_reditu,1.299,"ille, tamen, lepidus, malus, ciuilis, arma",6,"NaN, NaN, NaN, -1.0, 0.5, 0.0",-0.083,-0.167,,0.0
+rutilius.de_reditu,1.3,"qui, gero, socius, impius, bellum, tres",6,"NaN, NaN, 1.0, -1.0, 0.0, NaN",0.0,-0.167,impius,0.167
+rutilius.de_reditu,1.301,"qui, libertas, mutina, martes, recipio",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,1.302,"obruo, auxilium, urbs, paueo, nouus",5,"NaN, 0.0, 0.5, NaN, 1.0",0.3,0.0,,0.0
+rutilius.de_reditu,1.303,"insidiae, pax, molior, tertius, audeo",5,"NaN, 0.5, NaN, 0.0, NaN",0.1,0.0,insidiae,0.2
+rutilius.de_reditu,1.304,"tristis, excipio, congruus, facio, redeo",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,,0.0
+rutilius.de_reditu,1.305,"quartus, caesareus, dum, uolo, in-repo, regnum",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.306,"incestus, poena, soluo, adulterium",4,"NaN, -1.0, NaN, -0.5",-0.375,-0.375,"incestus, poena, adulterium",0.75
+rutilius.de_reditu,1.307,"nunc, quoque, sed, bonus, de, noster, fama, queror",8,"NaN, NaN, NaN, 1.0, NaN, NaN, 1.0, NaN",0.25,0.0,,0.0
+rutilius.de_reditu,1.308,"iudex, posteritas, semen, dirus, noto",5,"0.5, 0.0, NaN, -1.0, NaN",-0.1,-0.2,dirus,0.2
+rutilius.de_reditu,1.309,"nomen, certus, credo, decurro, mos",5,"0.0, 0.5, NaN, NaN, 0.5",0.2,0.0,,0.0
+rutilius.de_reditu,1.31,"mos, an, potis, nomen, certus, do",6,"0.5, NaN, 0.0, 0.0, 0.5, NaN",0.167,0.0,,0.0
+rutilius.de_reditu,1.311,"quisquis, is, sum, mirus, latius, annal, ordo",7,"NaN, NaN, NaN, 1.0, NaN, NaN, 0.5",0.214,0.0,,0.0
+rutilius.de_reditu,1.312,"qui, lepidus, totiens, recido, ensis, malus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+rutilius.de_reditu,1.313,"necdum, decessis, pelagos, permittimur, umbra",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.314,"nascor, uicinus, uertex, uenio, adsum",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.315,"tendo, in, medius, mons, argentarius, unda",6,"NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.316,"anceps, iugum, caerulus, curuo, premo",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,caerulus,0.2
+rutilius.de_reditu,1.317,"transuerto, collis, bis, terni, mille, arto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.318,"circuitus, pontus, ter, duodena, pateo",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.319,"qualis, per, geminus, fluctus, ephyreius, isthmos",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.32,"ionias, bimaris, littor, findo, aqua",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.321,"uix, circumuehimur, spargo, dispendium, rupes",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.322,"neque, sinuosus, grauis, cura, labor, careo",6,"NaN, NaN, -0.5, -1.0, -0.5, NaN",-0.333,-0.333,,0.0
+rutilius.de_reditu,1.323,"muto, totiens, uario, spiramen, flecto",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.324,"qui, modo, prosum, uelo, repens, noceo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,noceo,0.167
+rutilius.de_reditu,1.325,"eminus, igilii, siluosus, cacumen, miro",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+rutilius.de_reditu,1.326,"quam, fraudaris, nefas, laus, honor, suus",6,"NaN, NaN, -1.0, 1.0, 1.0, NaN",0.167,-0.167,nefas,0.167
+rutilius.de_reditu,1.327,"hic, proprius, nuper, tuto, sum, insula, saltus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.143
+rutilius.de_reditu,1.328,"siue, locus, ingenium, seu, dominus, genius",6,"NaN, 0.0, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+rutilius.de_reditu,1.329,"gurges, cum, modicus, uictrix, obsto, arma",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,gurges,0.167
+rutilius.de_reditu,1.33,"tamquam, longinquus, dissocio, mare",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.331,"hic, multus, lacero, suscipio, ab, urbs, fugo",7,"NaN, 0.0, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,"hic, lacero",0.286
+rutilius.de_reditu,1.332,"hic, fatisco, pono, certus, timor, salus",6,"NaN, NaN, NaN, 0.5, -0.5, 1.0",0.167,-0.083,hic,0.167
+rutilius.de_reditu,1.333,"multus, terrenus, populauerat, aequor, bellum",5,"0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.334,"contra, natura, classis, timeo, eques",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,classis,0.2
+rutilius.de_reditu,1.335,"unus, mirus, fides, uario, discrimen, portus",6,"NaN, 1.0, 1.0, NaN, -1.0, NaN",0.167,-0.167,,0.0
+rutilius.de_reditu,1.336,"tam, prope, romanus, tam, procul, sum, getis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.337,"tango, umbronem, non, sum, ignobilis, flumen",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+rutilius.de_reditu,1.338,"qui, tueor, trepido, excipio, os, ratis",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.339,"tam, facilis, pronus, semper, pateo, alueus, unda",7,"NaN, 0.5, NaN, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+rutilius.de_reditu,1.34,"in, pontus, quotiens, saeuus, procella, ruo",6,"NaN, 0.0, NaN, -1.0, NaN, NaN",-0.167,-0.167,saeuus,0.167
+rutilius.de_reditu,1.341,"hic, ego, tranquillus, uolo, succedo, ripa",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+rutilius.de_reditu,1.342,"sed, nauta, auidus, longus, eo, sequor",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.343,"sic, festino, uenio, dies, relinquo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.344,"neque, profero, pedis, neque, reuocaris, licet",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.345,"littorea, nox, requies, metamur, harena",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.346,"do, uespertinus, myrteus, silua, focus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.347,"paruulus, subiectus, facio, tentorius, remi",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.348,"transuerto, subeo, culmen, contus, sum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.349,"lux, adsum, tondeo, progredior, sto, uideo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.35,"sed, cursus, prora, terra, relinquo, probo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.351,"occurro, chalybum, memorabilis, ilua, metallum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.352,"qui, nihil, uber, norica, glaeba, fero",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,glaeba,0.167
+rutilius.de_reditu,1.353,"non, biturix, largus, potis, stringo, caminus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.354,"neque, qui, sardonico, caespes, massa, fluo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,massa,0.167
+rutilius.de_reditu,1.355,"multus, confero, populus, fero, fecundus, creatrix",6,"0.0, NaN, 0.0, NaN, 1.0, 0.0",0.167,0.0,,0.0
+rutilius.de_reditu,1.356,"quam, tartesiaci, glarea, fuluus, tagi",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.357,"materies, uitium, aurum, letal, paro",5,"NaN, -1.0, 0.5, NaN, NaN",-0.1,-0.2,,0.0
+rutilius.de_reditu,1.358,"aurum, caecus, amor, duco, in, omnis, nefas",7,"0.5, -1.0, 1.0, NaN, NaN, NaN, -1.0",-0.071,-0.286,nefas,0.143
+rutilius.de_reditu,1.359,"aureus, legitimus, expugno, munus, taeda",5,"0.5, NaN, NaN, 0.5, NaN",0.2,0.0,taeda,0.2
+rutilius.de_reditu,1.36,"uirgineus, sinus, aureus, imber, emo",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,emo,0.2
+rutilius.de_reditu,1.361,"aurum, uinco, fides, munio, decipio, urbs",6,"0.5, NaN, 1.0, NaN, NaN, 0.5",0.333,0.0,decipio,0.167
+rutilius.de_reditu,1.362,"aurum, flagitium, ambitus, ipse, furio",5,"0.5, -1.0, NaN, NaN, NaN",-0.1,-0.2,"flagitium, furio",0.4
+rutilius.de_reditu,1.363,"at, contra, ferrum, squaleo, rus, colo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.364,"ferrum, uiuo, primus, reperio, uia, sum",6,"NaN, NaN, 0.5, NaN, 0.0, NaN",0.083,0.0,,0.0
+rutilius.de_reditu,1.365,"saeculum, semideus, ferratus, nescius, mars",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,nescius,0.2
+rutilius.de_reditu,1.366,"pugna, crudelis, sustineo, ferus",4,"-1.0, -1.0, NaN, -1.0",-0.75,-0.75,"crudelis, ferus",0.5
+rutilius.de_reditu,1.367,"humanus, manus, non, sufficio, utor, inermis",6,"0.0, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.368,"si, non, sum, alius, ferreus, telum, manus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.369,"hic, cum, ego, piger, solo, taedium, uenio",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,"hic, taedium",0.286
+rutilius.de_reditu,1.37,"dum, resono, uarius, uilis, celeusma, modus",6,"NaN, NaN, 0.0, -0.5, NaN, 0.5",0.0,-0.083,uilis,0.167
+rutilius.de_reditu,1.371,"lasso, cohibeo, uicinum, faleria, cursus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.372,"quamquam, uix, medius, phoebus, habeo, iter",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.373,"et, tum, fors, hilaris, per, compitum, rusticus, pagus",8,"NaN, NaN, 0.0, 1.0, NaN, NaN, -0.5, NaN",0.062,-0.062,hilaris,0.125
+rutilius.de_reditu,1.374,"mulceo, sacrum, pectus, fessus, iocus",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,,0.0
+rutilius.de_reditu,1.375,"ille, quippe, dies, tandem, reuoco, osiris",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.376,"excito, in, frugis, germino, laetus, nouo",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+rutilius.de_reditu,1.377,"egredior, uilla, peto, lucus, uago",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.378,"stagnum, placeo, saepio, deliciosa, uado",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,stagnum,0.2
+rutilius.de_reditu,1.379,"ludo, lasciuus, intra, uiuarius, piscis",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,lasciuus,0.2
+rutilius.de_reditu,1.38,"gurges, includo, laxus, unda, sino",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,gurges,0.2
+rutilius.de_reditu,1.381,"sed, malus, penso, requies, statio, amoenus",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+rutilius.de_reditu,1.382,"hospes, conductor, durus, antiphate",4,"0.0, NaN, -0.5, NaN",-0.125,-0.125,,0.0
+rutilius.de_reditu,1.383,"namque, locus, querulus, cura, iudaeus, ago",6,"NaN, 0.0, NaN, -1.0, NaN, NaN",-0.167,-0.167,querulus,0.167
+rutilius.de_reditu,1.384,"humanus, animal, dissocial, cibus",4,"0.0, NaN, NaN, NaN",0.0,0.0,animal,0.25
+rutilius.de_reditu,1.385,"uexo, frutico, pulsatas, imputo, alga",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,uexo,0.2
+rutilius.de_reditu,1.386,"damno, libatae, grandis, clamo, aqua",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,damno,0.2
+rutilius.de_reditu,1.387,"reddo, obscenus, conuicior, debeo, gens",5,"NaN, -1.0, NaN, NaN, 0.0",-0.2,-0.2,,0.0
+rutilius.de_reditu,1.388,"qui, genital, caput, propudiosus, metior",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,propudiosus,0.2
+rutilius.de_reditu,1.389,"radix, stultitia, qui, frigidus, sabbata, chordus",6,"0.0, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,stultitia,0.167
+rutilius.de_reditu,1.39,"sed, cor, frigidus, relligio, suus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.391,"septimus, quisque, dies, turpis, damno, ueternus",6,"NaN, NaN, 0.0, -1.0, NaN, 0.0",-0.167,-0.167,"turpis, damno",0.333
+rutilius.de_reditu,1.392,"tamquam, lasso, mollio, imago, deus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.393,"ceterus, mendacis, deliramentum, catasta",4,"0.0, NaN, NaN, NaN",0.0,0.0,catasta,0.25
+rutilius.de_reditu,1.394,"neque, puer, omnis, credo, possum, reor",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.395,"atque, utinam, numquam, iudaea, subigo, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.396,"pompeii, bellum, imperium, titus",4,"NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.397,"fero, ex-caedo, pestis, contagium, serpo",5,"NaN, NaN, -1.0, -1.0, NaN",-0.4,-0.4,"pestis, serpo",0.4
+rutilius.de_reditu,1.398,"uictor, suus, natio, uinco, premo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,natio,0.2
+rutilius.de_reditu,1.399,"aduerro, surgo, boreas, sed, nos, quoque, remi",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.4,"surgo, certo, cum, tego, astrum, dies",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.401,"propior, securus, resero, populonia, litus",5,"0.0, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+rutilius.de_reditu,1.402,"qui, natural, duco, in, aruum, sinum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.403,"non, illic, pono, extollo, in, aether, moles",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.404,"lumen, nocturnus, conspicio, pharos",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.405,"sed, specula, ualidus, rupes, sortio, uetustus",6,"NaN, NaN, 1.0, 0.0, NaN, 0.0",0.167,0.0,,0.0
+rutilius.de_reditu,1.406,"qui, fluctus, domo, arduus, urgeo, apex",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.407,"castellum, geminus, homo, fundo, in, utor",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.408,"praesidium, terra, indicium, fretus",4,"NaN, 0.0, NaN, 0.5",0.125,0.0,,0.0
+rutilius.de_reditu,1.409,"agnosco, nequeo, aeuum, monumentum, prior",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+rutilius.de_reditu,1.41,"grandis, consumo, moenia, tempus, edax",5,"0.0, NaN, NaN, 0.0, NaN",0.0,0.0,edax,0.2
+rutilius.de_reditu,1.411,"solus, maneo, intercipio, uestigium, murus",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+rutilius.de_reditu,1.412,"rudus, fero, tectum, sepelio, iaceo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"sepelio, iaceo",0.4
+rutilius.de_reditu,1.413,"non, indignor, mortalia, corpus, soluo",5,"NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.414,"cerno, exemplum, oppidum, possum, morior",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.415,"laetus, hic, noster, crebrescit, fama, per, auris",7,"1.0, NaN, NaN, NaN, 1.0, NaN, NaN",0.286,0.0,hic,0.143
+rutilius.de_reditu,1.416,"consilium, roma, paene, redeo, sum",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,1.417,"hic, praefectura, sacer, cognosco, urbs",5,"NaN, NaN, 1.0, NaN, 0.5",0.3,0.0,hic,0.2
+rutilius.de_reditu,1.418,"defero, meritum, dulcis, amicus, tuus",5,"NaN, 1.0, 0.5, 1.0, 0.0",0.5,0.0,,0.0
+rutilius.de_reditu,1.419,"optaris, uerus, complector, carmen, nomen",5,"NaN, 0.5, NaN, 0.0, 0.0",0.1,0.0,,0.0
+rutilius.de_reditu,1.42,"sed, quidam, refugio, regula, durus, pes",6,"NaN, NaN, NaN, NaN, -0.5, 0.0",-0.083,-0.083,,0.0
+rutilius.de_reditu,1.421,"cognomen, uerro, ueneror, carus, rufus",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+rutilius.de_reditu,1.422,"ille, tu, dudum, pagina, noster, cano",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+rutilius.de_reditu,1.423,"festus, dies, pridem, meus, digno, penates",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.424,"postis, corono, ueto, secundus, colo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.425,"exorno, uiridis, commune, gaudium, ramus",5,"NaN, NaN, 0.0, 1.0, NaN",0.2,0.0,,0.0
+rutilius.de_reditu,1.426,"proueho, sum, anima, portio, magnus, meus",6,"NaN, NaN, 0.5, 0.0, 0.0, 0.0",0.083,0.0,,0.0
+rutilius.de_reditu,1.427,"sic, ego, sic, potis, placeo, gemino, potestas",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.5",0.071,0.0,,0.0
+rutilius.de_reditu,1.428,"per, qui, malo, rursus, honor, fruor",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+rutilius.de_reditu,1.429,"curro, curo, uelis, aquilo, reuorto",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.43,"cum, primus, roseus, fulcio, eous, equus",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+rutilius.de_reditu,1.431,"incipio, obscurus, ostendo, corsica, mons",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.432,"nubiferumque, caput, concolor, umbra, leuo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.433,"sic, dubito, soleo, gracilis, uanesco, cornu",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.434,"defatiscor, oculus, luna, reperio, lateo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.435,"hic, pontus, breuitas, augeo, mendacium, fama",6,"NaN, 0.0, NaN, NaN, -1.0, 1.0",0.0,-0.167,"hic, mendacium",0.333
+rutilius.de_reditu,1.436,"armental, fero, quippe, nato, pecus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.437,"tempus, cyrnaeas, quo, primus, uenio, in, ora",7,"0.0, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+rutilius.de_reditu,1.438,"fors, sequor, uagus, femina, corsa, bos",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.439,"procedo, pelagus, iam, sui, caprarius, tollo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.44,"squaleo, lucifugus, insula, plenus, uis",5,"NaN, NaN, NaN, 0.0, 1.0",0.2,0.0,,0.0
+rutilius.de_reditu,1.441,"ipse, sui, monachos, graio, cognomen, dico",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.442,"qui, solus, nullus, uiuo, testis, uolo",6,"NaN, -0.5, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+rutilius.de_reditu,1.443,"munus, fortuna, metuo, dum, damno, uereor",6,"0.5, 0.0, NaN, NaN, NaN, NaN",0.083,0.0,damno,0.167
+rutilius.de_reditu,1.444,"quisquam, sponte, miser, ne, miser, sum, queo",7,"NaN, NaN, -1.0, NaN, -1.0, NaN, NaN",-0.286,-0.286,"miser, miser",0.286
+rutilius.de_reditu,1.445,"quisnam, peruerto, rabio, tam, stultus, cerebrum",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,"rabio, stultus",0.333
+rutilius.de_reditu,1.446,"dum, malus, formido, neque, bonus, possum, patior",7,"NaN, -1.0, -1.0, NaN, 1.0, NaN, NaN",-0.143,-0.286,,0.0
+rutilius.de_reditu,1.447,"siue, suus, repeto, factor, ergastulum, poena",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,poena,0.167
+rutilius.de_reditu,1.448,"tristis, seu, niger, uiscera, felle, tumeo",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+rutilius.de_reditu,1.449,"sic, nimius, bilis, morbus, assignauit, homerus",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,nimius,0.167
+rutilius.de_reditu,1.45,"bellerophonteis, sollicitudo",2,"NaN, -0.5",-0.25,-0.25,,0.0
+rutilius.de_reditu,1.451,"nam, iuuenis, offendo, saeuus, post, telum, dolor",7,"NaN, NaN, NaN, -1.0, NaN, NaN, -1.0",-0.286,-0.286,saeuus,0.143
+rutilius.de_reditu,1.452,"dico, humanus, displiceo, genus",4,"NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.453,"in, uolaterranum, uerus, uado, nomen, traho",6,"NaN, NaN, 0.5, NaN, 0.0, NaN",0.083,0.0,,0.0
+rutilius.de_reditu,1.454,"ingredior, dubius, trames, altus, lego",5,"NaN, -0.5, NaN, 0.5, NaN",0.0,-0.1,,0.0
+rutilius.de_reditu,1.455,"despecto, prora, custos, clauus, sequor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.456,"dirigo, et, puppis, uox, moneo, rego",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.457,"incertus, gemino, discrimino, arbor, fauces",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+rutilius.de_reditu,1.458,"defixasque, offero, limo, uterque, sudo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.459,"ille, procerus, mos, sum, adnecto, laurus",6,"NaN, 0.5, 0.5, NaN, NaN, NaN",0.167,0.0,,0.0
+rutilius.de_reditu,1.46,"conspicuus, ramus, et, frutico, coma",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+rutilius.de_reditu,1.461,"ut, praebeo, uia, densus, symplegas, limus",6,"NaN, NaN, 0.0, NaN, NaN, -0.5",-0.083,-0.083,limus,0.167
+rutilius.de_reditu,1.462,"seruo, inoffensas, semita, clarus, nosco",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,1.463,"illic, ego, rapidus, consisto, corus, adigo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.464,"qualis, siluaris, frango, lustro, soleo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.465,"uix, tueor, domus, saeuus, tolero, imber",6,"NaN, NaN, 0.0, -1.0, NaN, NaN",-0.167,-0.167,saeuus,0.167
+rutilius.de_reditu,1.466,"albinus, pateo, propior, uilla, meus",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.467,"namque, meus, qui, roma, meus, subiungo, honor",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, 1.0",0.143,0.0,,0.0
+rutilius.de_reditu,1.468,"per, qui, ius, meus, continuo, toga",6,"NaN, NaN, 0.5, 0.0, NaN, NaN",0.083,0.0,,0.0
+rutilius.de_reditu,1.469,"non, exspectatos, penso, laus, annus",5,"NaN, NaN, NaN, 1.0, 0.0",0.2,0.0,,0.0
+rutilius.de_reditu,1.47,"uita, floreo, puer, sed, grauitas, senex",6,"0.0, NaN, 0.0, NaN, -0.5, 0.0",-0.083,-0.083,,0.0
+rutilius.de_reditu,1.471,"mutuus, germani, iungo, reuerendus, mos",5,"0.0, NaN, NaN, 1.0, 0.5",0.3,0.0,germani,0.2
+rutilius.de_reditu,1.472,"et, fauor, alternus, cerno, amicitia",5,"NaN, 1.0, NaN, NaN, 1.0",0.4,0.0,,0.0
+rutilius.de_reditu,1.473,"praefero, ille, meus, cum, uinco, possum, habena",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.474,"at, decessor, magnus, amor, sum",5,"NaN, NaN, 0.0, 1.0, NaN",0.2,0.0,,0.0
+rutilius.de_reditu,1.475,"subiecto, uilla, uaco, aspectaris, salinae",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.476,"namque, hic, censeo, nomen, salio, palus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.167
+rutilius.de_reditu,1.477,"qui, mare, terrenus, decliue, canal, intro",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.478,"multifidosque, lacus, paruulus, fossa, rigo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.479,"at, ubi, flagro, admoneo, sirius, ignis",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.48,"cum, palleo, herba, cum, sitio, omnis, ager",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.481,"tum, cataractaris, claustra, excludo, aequor",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.482,"ut, figo, latex, torridus, duro, humus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,humus,0.167
+rutilius.de_reditu,1.483,"concipio, acer, natiuus, coagulo, phoebum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.484,"et, grauis, aestiuus, crusta, calor, coeo",6,"NaN, -0.5, NaN, NaN, 0.0, NaN",-0.083,-0.083,crusta,0.167
+rutilius.de_reditu,1.485,"haud, aliter, quam, cum, glacies, rigo, horridus, hister",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,glacies,0.125
+rutilius.de_reditu,1.486,"grandis, ad-stringo, flumen, plaustrum, ueho",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.487,"rimetur, soleo, natura, expendo, causa",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.488,"in, par, dispar, fomes, quaero, opus",6,"NaN, 0.5, 0.5, NaN, NaN, 0.5",0.25,0.0,,0.0
+rutilius.de_reditu,1.489,"uincio, fluentum, gelus, conspicio, sol, liquesco",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,fluentum,0.167
+rutilius.de_reditu,1.49,"et, rursus, liquidus, sol, gelo, aqua",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.491,"o, quam, saepe, malus, genero, origo, bonus",7,"NaN, NaN, NaN, -1.0, NaN, NaN, 1.0",0.0,-0.143,,0.0
+rutilius.de_reditu,1.492,"tempestas, dulcis, facio, amarus, mora",5,"0.0, 0.5, NaN, -0.5, NaN",0.0,-0.1,,0.0
+rutilius.de_reditu,1.493,"uicturinus, enim, noster, pars, maximus, mens",6,"NaN, NaN, NaN, 0.0, NaN, 0.5",0.083,0.0,,0.0
+rutilius.de_reditu,1.494,"congredior, ex-pleo, mutuus, ueto, suus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.495,"erro, tusci, consido, compello, ager",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.496,"et, colo, externus, capio, tolosa, lar",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.497,"neque, tantus, durus, nitesco, sapientia, res",6,"NaN, NaN, -0.5, NaN, 1.0, 0.0",0.083,-0.083,,0.0
+rutilius.de_reditu,1.498,"pectus, non, alius, prosper, fero",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+rutilius.de_reditu,1.499,"conscius, oceanus, uirtus, conscius, thyle",5,"-0.5, NaN, 1.0, -0.5, NaN",0.0,-0.2,"conscius, conscius",0.4
+rutilius.de_reditu,1.5,"et, quicumque, ferox, aruum, britannus, aro",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,ferox,0.167
+rutilius.de_reditu,1.501,"qui, praefector, uicis, freno, potestas",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+rutilius.de_reditu,1.502,"perpetuus, magnus, fenus, amor, habeo",5,"0.0, 0.0, NaN, 1.0, NaN",0.2,0.0,,0.0
+rutilius.de_reditu,1.503,"exter, pars, ille, quidem, discedo, in, orbis",7,"0.0, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.504,"sed, tamquam, medius, rector, in, urbs, sum",7,"NaN, NaN, 0.0, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+rutilius.de_reditu,1.505,"multus, palma, sum, ille, inter, uolo, placeo",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.506,"inter, qui, paruus, sum, displiceo, pudor",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,pudor,0.167
+rutilius.de_reditu,1.507,"illustris, nuper, sacer, comes, addo, aula",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+rutilius.de_reditu,1.508,"contemno, summus, rus, amor, gradus",5,"NaN, NaN, 0.0, 1.0, 0.0",0.2,0.0,,0.0
+rutilius.de_reditu,1.509,"hic, ego, complexus, uentor, aduerso, fallo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"hic, fallo",0.333
+rutilius.de_reditu,1.51,"dum, uideo, patria, iam, ego, pars, fruor",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.511,"luteus, profero, sudos, aurora, iugalis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,iugalis,0.2
+rutilius.de_reditu,1.512,"antenna, tendo, littor, aura, iubeo",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+rutilius.de_reditu,1.513,"inconcussus, ueho, tranquillus, aplustre, flo",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,1.514,"mollis, securus, uelo, rudo, tremo",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+rutilius.de_reditu,1.515,"assurgo, pontus, medium, circumfluus, gorgo, -ne",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.516,"inter, pisanum, cyrnaicumque, latus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.517,"aduerso, scopulus, damnum, monumentum, recens",5,"NaN, 0.0, -1.0, NaN, 0.0",-0.2,-0.2,,0.0
+rutilius.de_reditu,1.518,"perdo, hic, uiuo, funus, ciuis, sum",6,"NaN, NaN, NaN, -0.5, 0.5, NaN",0.0,-0.083,hic,0.167
+rutilius.de_reditu,1.519,"noster, enim, nuper, iuuenis, magnus, amplus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.52,"neque, census, inferus, coniugioue, paruus",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.521,"impello, furia, homo, terra, relinquo",5,"NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,furia,0.2
+rutilius.de_reditu,1.522,"et, turpis, latebra, credulus, exul, ago",6,"NaN, -1.0, -0.5, -0.5, -1.0, NaN",-0.5,-0.5,"turpis, credulus",0.333
+rutilius.de_reditu,1.523,"infelix, puto, illuuie, caelestis, pascor",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,infelix,0.2
+rutilius.de_reditu,1.524,"sequor, premo, laedo, saeuus, ipse, deus",6,"NaN, NaN, NaN, -1.0, NaN, 0.0",-0.167,-0.167,saeuus,0.167
+rutilius.de_reditu,1.525,"num, rogo, deterior, circaeum, seco, uenenum",6,"NaN, NaN, -1.0, NaN, NaN, -0.5",-0.25,-0.25,circaeum,0.167
+rutilius.de_reditu,1.526,"tunc, muto, corpus, nunc, animus",5,"NaN, NaN, 0.0, NaN, 0.5",0.1,0.0,,0.0
+rutilius.de_reditu,1.527,"inde, triturritam, peto, sic, uilla, uoco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.528,"qui, lateo, expello, insula, paene, fretus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+rutilius.de_reditu,1.529,"namque, manus, iungo, procedo, in, aequor, saxum",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.53,"quisque, domus, pono, condo, ante, solus",6,"NaN, 0.0, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+rutilius.de_reditu,1.531,"contiguus, stupeo, portus, qui, fama, frequento",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+rutilius.de_reditu,1.532,"pisaris, emporium, diuitiae, mare",4,"NaN, NaN, 0.5, 0.0",0.125,0.0,,0.0
+rutilius.de_reditu,1.533,"mirus, locus, facies, pelagus, pulso, aperio",6,"1.0, 0.0, 0.0, NaN, NaN, NaN",0.167,0.0,,0.0
+rutilius.de_reditu,1.534,"in, omnis, uenio, litus, nudo, pateo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.535,"non, ullus, tego, per, bracchium, tueor, recedo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.536,"aeolias, possum, qui, prohibeo, minae",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,,0.0
+rutilius.de_reditu,1.537,"sed, procerus, suus, praetexo, alga, profundo",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+rutilius.de_reditu,1.538,"mollis, offendo, non, noceo, reor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,noceo,0.2
+rutilius.de_reditu,1.539,"et, tamen, insanus, cedo, intersecat, unda",6,"NaN, NaN, -1.0, NaN, NaN, 0.0",-0.167,-0.167,insanus,0.167
+rutilius.de_reditu,1.54,"neque, sino, ex, altus, grandis, uolume, -ne, ago",8,"NaN, NaN, NaN, 0.5, 0.0, NaN, NaN, NaN",0.062,0.0,,0.0
+rutilius.de_reditu,1.541,"tempus, nauigium, clarus, reparauerat, eurus",5,"0.0, NaN, 0.5, NaN, NaN",0.1,0.0,nauigium,0.2
+rutilius.de_reditu,1.542,"sed, ego, protadium, uiso, cura, sum",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+rutilius.de_reditu,1.543,"qui, qui, fors, uolo, certus, cognosco, signum",7,"NaN, NaN, 0.0, NaN, 0.5, NaN, 0.0",0.071,0.0,,0.0
+rutilius.de_reditu,1.544,"uirtus, species, cor, uideo, peto",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+rutilius.de_reditu,1.545,"neque, magis, efficio, similis, pingo, color",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.546,"quam, qui, de, meritum, misceo, figuro, uenio",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+rutilius.de_reditu,1.547,"aspicio, procul, certus, prudentia, uultus",5,"NaN, NaN, 0.5, 0.5, NaN",0.2,0.0,,0.0
+rutilius.de_reditu,1.548,"formo, iustitia, suspicio, mico",4,"NaN, 1.0, -0.5, NaN",0.125,-0.125,,0.0
+rutilius.de_reditu,1.549,"sum, fortasse, paruus, si, laudo, gallia, ciuis",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+rutilius.de_reditu,1.55,"testis, roma, suus, praesulis, sum, possum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.551,"substituo, patrius, mediocris, umbria, sedes",5,"NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.552,"uirtus, fortuna, facio, uter, par",5,"1.0, 0.0, NaN, NaN, 0.5",0.3,0.0,,0.0
+rutilius.de_reditu,1.553,"mens, inuictus, uir, pro, magis, paruus, tueor",7,"0.5, 1.0, 0.5, NaN, NaN, 0.0, NaN",0.286,0.0,,0.0
+rutilius.de_reditu,1.554,"pro, paruus, animus, magnus, sum, suus",6,"NaN, 0.0, 0.5, 0.0, NaN, NaN",0.083,0.0,,0.0
+rutilius.de_reditu,1.555,"exiguus, rex, rector, caespes, habeo",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.556,"et, cincinnatus, iugerum, paucus, do",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.557,"hic, etiam, nos, non, inferus, fero",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+rutilius.de_reditu,1.558,"uomo, serrani, fabriciique, focus",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.559,"puppis, ergo, meus, fidus, in, statio, loco",7,"NaN, NaN, 0.0, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+rutilius.de_reditu,1.56,"ipse, ueho, pisa, qui, soleo, eo, pes",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.561,"praebeo, equus, offero, etiam, carpentum, tribunus",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+rutilius.de_reditu,1.562,"ex, commilitium, carus, et, ipse, ego",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+rutilius.de_reditu,1.563,"officium, rego, cum, regius, tectum, magister",6,"0.5, NaN, NaN, 0.0, NaN, 0.5",0.167,0.0,,0.0
+rutilius.de_reditu,1.564,"armigerasque, pius, princeps, excubiae",4,"NaN, NaN, 0.5, NaN",0.125,0.0,,0.0
+rutilius.de_reditu,1.565,"alpheae, uetus, contemplo, origo, urbs",5,"NaN, 0.0, NaN, NaN, 0.5",0.1,0.0,,0.0
+rutilius.de_reditu,1.566,"quam, cingo, geminus, arnus, et, ausur, aqua",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.567,"conus, pyramis, coeo, flumen, duco",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.568,"intro, modicus, frons, patefacio, solum",5,"NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.569,"sed, proprius, retineo, communis, in, gurges, nomen",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,gurges,0.143
+rutilius.de_reditu,1.57,"et, pontus, solus, scilicet, arnus, adeo",6,"NaN, 0.0, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+rutilius.de_reditu,1.571,"ante, diu, quam, troiugenas, fortuna, penates",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.572,"laurentinorum, rex, insero",3,"NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.573,"elido, deduco, suscipio, etruria, pisa",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.574,"nomen, indicium, testificor, genus",4,"0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.575,"hic, offertor, ego, sanctus, genitor, imago",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,hic,0.167
+rutilius.de_reditu,1.576,"pisani, proprius, quam, pono, forum",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.577,"laus, amitto, cogo, lacrimaris, parens",5,"1.0, NaN, NaN, NaN, 0.5",0.3,0.0,,0.0
+rutilius.de_reditu,1.578,"fluo, madidus, gaudium, maestus, gena",5,"NaN, NaN, 1.0, -1.0, NaN",0.0,-0.2,gena,0.2
+rutilius.de_reditu,1.579,"namque, pater, quondam, tyrrhenis, praesum, aruum",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.58,"fascis, et, senex, credo, ius, do",6,"NaN, NaN, 0.0, NaN, 0.5, NaN",0.083,0.0,,0.0
+rutilius.de_reditu,1.581,"narro, memini, multus, emetior, honor",5,"NaN, NaN, 0.0, NaN, 1.0",0.2,0.0,,0.0
+rutilius.de_reditu,1.582,"tuscorum, regime, -ne, multus, placeo, sui",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.583,"nam, neque, opos, cura, quiuis, sum, magnus, sacraris",8,"NaN, NaN, 0.5, -1.0, NaN, NaN, 0.0, NaN",-0.062,-0.125,,0.0
+rutilius.de_reditu,1.584,"neque, ius, quaestura, gratus, sum, magis",6,"NaN, 0.5, NaN, 1.0, NaN, NaN",0.25,0.0,,0.0
+rutilius.de_reditu,1.585,"ipse, si, fas, sum, postpono, praefectura",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.586,"pronus, in, tuscos, non, dubito, amor",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+rutilius.de_reditu,1.587,"neque, fallo, tam, carus, et, ipse, probo",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,fallo,0.143
+rutilius.de_reditu,1.588,"aeternus, grates, mutuus, cura, cano",5,"0.5, 1.0, 0.0, -1.0, NaN",0.1,-0.2,,0.0
+rutilius.de_reditu,1.589,"constantemque, sui, pariter, mitis, sum",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+rutilius.de_reditu,1.59,"insinuo, obstino, qui, memini, senex",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.591,"ipse, ego, gradus, non, degenero, parens",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+rutilius.de_reditu,1.592,"gaudeo, et, duplex, sedulitas, foueo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.593,"hic, idem, cum, flaminia, regio, eo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.167
+rutilius.de_reditu,1.594,"splendor, patrius, saepe, reperio, fides",5,"1.0, 0.0, NaN, NaN, 1.0",0.4,0.0,,0.0
+rutilius.de_reditu,1.595,"fama, lachanii, ueneror, numen, instar",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+rutilius.de_reditu,1.596,"inter, terrigena, lydia, totus, suus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.597,"gratus, bonus, prisci, retineo, prouinicia, mos",6,"1.0, 1.0, NaN, NaN, NaN, 0.5",0.417,0.0,,0.0
+rutilius.de_reditu,1.598,"digno, rector, semper, habeo, bonus",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+rutilius.de_reditu,1.599,"qualis, nunc, decius, lucilli, nobilis, pignus",6,"NaN, NaN, NaN, NaN, 1.0, 0.0",0.167,0.0,,0.0
+rutilius.de_reditu,1.6,"per, corythi, populus, aruum, beatus, rego",6,"NaN, NaN, 0.0, NaN, 1.0, NaN",0.167,0.0,,0.0
+rutilius.de_reditu,1.601,"neque, mirus, magnus, si, reddo, indoles, nascor",7,"NaN, 1.0, 0.0, NaN, NaN, 0.0, NaN",0.143,0.0,,0.0
+rutilius.de_reditu,1.602,"felix, tam, similis, posteritas, pater",5,"1.0, NaN, 0.0, 0.0, 0.0",0.2,0.0,,0.0
+rutilius.de_reditu,1.603,"hic, uulnificis, satura, ludo, camenis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.2
+rutilius.de_reditu,1.604,"neque, turnus, potis, neque, iuuenal, sum",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.605,"restituo, uetus, censorius, limo, pudor",5,"NaN, 0.0, NaN, NaN, 0.5",0.1,0.0,pudor,0.2
+rutilius.de_reditu,1.606,"dum, malus, carpo, praecipio, sum, bonus",6,"NaN, -1.0, NaN, NaN, NaN, 1.0",0.0,-0.167,,0.0
+rutilius.de_reditu,1.607,"non, olim, sacer, iustus, arbiter, aurum",6,"NaN, NaN, 1.0, 1.0, NaN, 0.5",0.417,0.0,,0.0
+rutilius.de_reditu,1.608,"circumsistenses, repello, harpyias",3,"NaN, NaN, NaN",nan,nan,harpyias,0.333
+rutilius.de_reditu,1.609,"harpyias, qui, discerpo, unguis, orbis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,harpyias,0.2
+rutilius.de_reditu,1.61,"qui, pes, glutineo, qui, tango, traho",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.611,"qui, luscus, facio, argus, qui, lyncea, caecus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,luscus,0.143
+rutilius.de_reditu,1.612,"inter, custos, publicus, furtum, uolo",5,"NaN, NaN, 0.0, -1.0, NaN",-0.2,-0.2,furtum,0.2
+rutilius.de_reditu,1.613,"sed, non, lucillum, briareia, praeda, fallo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fallo,0.167
+rutilius.de_reditu,1.614,"tot, simul, manus, resto, unus, manus",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.615,"iam, triturritam, pisaea, ex, urbs, reuorto",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+rutilius.de_reditu,1.616,"aptabam, nitidus, pendulus, uelo, nosco",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,1.617,"cum, subeo, tego, nimbus, insorduit, aether",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.618,"spargo, radius, nubila, rumpo, uagus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.619,"substitimus, quis, enim, sub, tempestas, malignus",6,"NaN, NaN, NaN, NaN, 0.0, -1.0",-0.167,-0.167,,0.0
+rutilius.de_reditu,1.62,"insanituris, audeo, eo, fretus",4,"NaN, NaN, NaN, 0.5",0.125,0.0,,0.0
+rutilius.de_reditu,1.621,"otium, uicinus, tero, nauale, silua",5,"0.5, 0.0, NaN, 0.0, NaN",0.1,0.0,otium,0.2
+rutilius.de_reditu,1.622,"sectandisque, iuuo, membrum, moueo, fera",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,fera,0.2
+rutilius.de_reditu,1.623,"instrumentum, paro, uenor, uillicus, hospes",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.624,"atque, olidum, doceo, nosco, cubile, canis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.625,"fundo, insidiae, et, rarus, fraus, plagaris",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,"insidiae, fraus",0.333
+rutilius.de_reditu,1.626,"terribilis, cado, fulmen, dens, aper",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+rutilius.de_reditu,1.627,"qui, meleagrei, uereantur, adeo, lacertus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.628,"qui, laxo, nodus, amphitryonidae",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.629,"tum, respondeo, persulto, buccina, collis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.63,"fio, reportando, carmen, praeda, leuis",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.631,"interea, madidus, non, desino, africus, ala",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.632,"continuus, piceus, nubes, nego, dies",5,"0.0, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.633,"iam, matutinus, hyades, occasus, udus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,udus,0.2
+rutilius.de_reditu,1.634,"iam, lateo, hiberno, condio, imber, lepus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,lepus,0.167
+rutilius.de_reditu,1.635,"exiguus, radius, sed, magnus, fluctus, astrum",6,"0.0, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.636,"quo, madidus, nullus, nauta, linquo, humus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,humus,0.167
+rutilius.de_reditu,1.637,"namque, procellosus, subiungo, orio",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.638,"aestiferumque, canis, roscidus, praeda, fugio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.639,"uideo, excio, pontus, flauesco, harena",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.64,"atque, eructato, uertex, rus, tego",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,1.641,"qualis, oceanus, medius, infundo, ager",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,1.642,"destituenda, uago, cum, premo, aruum, salum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.643,"siue, alius, refluus, noster, conliditur, orbis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,1.644,"siue, corusco, suus, sidus, pasco, aqua",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,2.1,"nondum, longus, sum, neque, multus, uolumen, patior",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,2.2,"ius, suus, possum, longus, sum, liber",6,"0.5, NaN, NaN, 0.0, NaN, 0.5",0.167,0.0,,0.0
+rutilius.de_reditu,2.3,"taedium, continuo, timeo, cedo, labor",5,"-1.0, NaN, NaN, NaN, -0.5",-0.3,-0.3,taedium,0.2
+rutilius.de_reditu,2.4,"sumo, ne, lector, iugo, paueo, opus",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+rutilius.de_reditu,2.5,"saepe, cibus, affero, serus, fastidium, finis",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,2.6,"gratus, sum, modicus, haustus, unda, sitis",6,"1.0, NaN, 0.0, NaN, 0.0, -0.5",0.083,-0.083,,0.0
+rutilius.de_reditu,2.7,"interuallum, uia, fatisco, praesto, uideo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,2.8,"qui, noto, inscribo, mille, creber, lapis",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,2.9,"partio, trepidus, per, opusculum, bini, rubor",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,rubor,0.167
+rutilius.de_reditu,2.1,"qui, sero, sum, sustineo, semel",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,2.11,"tandem, nimbosus, mare, obsidio, soluo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,2.12,"pisano, portus, contingo, altus, sequor",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,2.13,"arrideo, placidus, radius, crispantibus, aequor",5,"NaN, 1.0, NaN, NaN, 0.0",0.2,0.0,,0.0
+rutilius.de_reditu,2.14,"et, sulco, leuis, murmurat, unda, sonus",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,2.15,"incipio, appennini, deuexus, uideo",4,"NaN, NaN, NaN, NaN",nan,nan,deuexus,0.25
+rutilius.de_reditu,2.16,"qui, fremo, aerius, mons, repello, thetis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,thetis,0.167
+rutilius.de_reditu,2.17,"italia, res, domina, qui, cingo, uideo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,2.18,"et, totus, pariter, cerno, mens, uolo",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+rutilius.de_reditu,2.19,"inuenio, quernus, similis, procedo, frons",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,2.2,"artatam, latus, conuenio, sinus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,2.21,"mille, per, longus, decies, centeni, tero",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,2.22,"ab, ligurum, terra, ad, fretus, sicaniae",6,"NaN, NaN, 0.0, NaN, 0.5, NaN",0.083,0.0,,0.0
+rutilius.de_reditu,2.23,"in, latus, uarius, damnosus, anfractus, intro",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,2.24,"tyrrheni, rabio, hadriacique, sal",4,"NaN, NaN, NaN, NaN",nan,nan,rabio,0.25
+rutilius.de_reditu,2.25,"qui, tamen, sum, iungo, mare, angustus, tellus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,2.26,"triginta, et, centum, mille, solus, pateo",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+rutilius.de_reditu,2.27,"diuerto, medius, mons, obliquo, in, unda",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,2.28,"qui, fero, atque, refero, phoebus, uterque, dies",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,2.29,"urgeo, dalmaticos, eous, uertex, fluctus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,2.3,"caerulus, occiduus, frango, etrusca, iugum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,caerulus,0.2
+rutilius.de_reditu,2.31,"si, facio, certus, mundus, ratio, fateor",6,"NaN, NaN, 0.5, 1.0, 0.0, NaN",0.25,0.0,,0.0
+rutilius.de_reditu,2.32,"consilium, deus, machina, tantus, sum",5,"0.5, 0.0, NaN, NaN, NaN",0.1,0.0,,0.0
+rutilius.de_reditu,2.33,"excubiae, latius, praetexo, apenninus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,2.34,"claustra, montanus, uix, adeo, uia",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,2.35,"inuidia, timeo, natura, parus, puto",5,"-1.0, NaN, 0.0, NaN, NaN",-0.2,-0.2,inuidia,0.2
+rutilius.de_reditu,2.36,"arctous, alpes, oppono, minae",4,"NaN, NaN, NaN, -0.5",-0.125,-0.125,,0.0
+rutilius.de_reditu,2.37,"sicut, uallo, multus, uital, membrum",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,2.38,"neque, semel, includo, qui, pretiosus, fero",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,pretiosus,0.167
+rutilius.de_reditu,2.39,"iam, tum, multiplex, mereo, munimen, cingo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,2.4,"sollicitosque, habeo, roma, sum, deus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,2.41,"quo, magis, sum, facinus, dirus, stilichonis, acerbus",7,"NaN, NaN, NaN, -1.0, -1.0, NaN, -1.0",-0.429,-0.429,"facinus, dirus, acerbus",0.429
+rutilius.de_reditu,2.42,"proditor, arcanus, qui, sum, imperium",5,"-0.5, NaN, NaN, NaN, 0.0",-0.1,-0.1,proditor,0.2
+rutilius.de_reditu,2.43,"romanus, gener, dum, nitor, sum, supersto",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+rutilius.de_reditu,2.44,"crudelis, summus, misceo, imus, furor",5,"-1.0, NaN, NaN, NaN, -1.0",-0.4,-0.4,"crudelis, furor",0.4
+rutilius.de_reditu,2.45,"dum, timeo, quisquis, sui, facio, ipse, timeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,2.46,"immitto, latiae, barbarum, telum, nex",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,"barbarum, nex",0.4
+rutilius.de_reditu,2.47,"uiscera, nudus, armo, condo, hostis",5,"NaN, 0.0, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+rutilius.de_reditu,2.48,"illatae, clades, liber, dolus",4,"NaN, -1.0, 0.5, NaN",-0.125,-0.25,dolus,0.25
+rutilius.de_reditu,2.49,"ipse, satelles, pello, roma, pateo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,satelles,0.2
+rutilius.de_reditu,2.5,"et, captiuus, prior, quam, capio, sum",6,"NaN, -1.0, 0.5, NaN, NaN, NaN",-0.083,-0.167,captiuus,0.167
+rutilius.de_reditu,2.51,"neque, tantus, geticis, grassor, proditor, arma",6,"NaN, NaN, NaN, NaN, -0.5, 0.0",-0.083,-0.083,proditor,0.167
+rutilius.de_reditu,2.52,"ante, sibyllinae, fatum, cremo, ops",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,2.53,"odi, althaea, consumo, funus, torres",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,,0.0
+rutilius.de_reditu,2.54,"nisaeum, crinis, fleo, puto, auis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,2.55,"at, stilicho, aeternus, fatalis, pignus, regnum",6,"NaN, NaN, 0.5, 0.0, 0.0, 0.0",0.083,0.0,,0.0
+rutilius.de_reditu,2.56,"et, plenus, uolo, praecipitaris, color",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,2.57,"omnis, tartareus, cesso, tormentum, nero",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,,0.0
+rutilius.de_reditu,2.58,"consumo, stygius, tristis, umbra, fax",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,fax,0.2
+rutilius.de_reditu,2.59,"hic, immortal, mortal, percello, ille",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.2
+rutilius.de_reditu,2.6,"hic, mundus, mater, percello, ille, suus",6,"NaN, 1.0, 0.0, NaN, NaN, NaN",0.167,0.0,hic,0.167
+rutilius.de_reditu,2.61,"sed, diuerticulo, sum, fortasse, loquax",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,2.62,"carmen, propono, iam, repeto, iter",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,2.63,"aduehimur, celer, candeo, moenia, lapsus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+rutilius.de_reditu,2.64,"nomen, sum, auctor, sol, corusco, soror",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+rutilius.de_reditu,2.65,"indigena, supero, rideo, lilium, saxum",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+rutilius.de_reditu,2.66,"et, leuis, radio, pingo, nitor, silex",6,"NaN, 0.0, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+rutilius.de_reditu,2.67,"diues, marmor, telus, qui, lux, color",6,"0.5, NaN, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+rutilius.de_reditu,2.68,"prouoco, intactus, luxuriosus, nix, ..",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,luxuriosus,0.2

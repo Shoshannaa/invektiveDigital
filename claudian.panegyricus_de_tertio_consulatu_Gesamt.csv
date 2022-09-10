@@ -1,0 +1,213 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+claudian.panegyricus_de_tertio_consulatu,1.0,"paruus, non, aquilis, fas, sum, educo, fetus, ante, fides, soils, iudicium, polio, nam, pater, excutio, saluit, cum, tegimen, proles, ouo, maternus, rumpo, hiulcus, tepor, protinus, implumis, conuerto, ad, aether, nidus, et, recingo, flamma, impero, os, patior, consulo, ardeo, radius, et, lux, magistro, nascor, uireo, ingenium, probo, degenero, refugus, torqueo, qui, lumen, uideo, unguis, hic, saeuus, ira, paternus, ferio, explorator, oculus, qui, perfero, ignis, sustineo, acies, nobilis, dies, nutrio, uolucris, possum, et, fulmen, heres, gero, superus, telum, trisulcus, ioui, ego, quoque, pieriis, temptas, saepis, antrum, audeo, magnus, suus, mitto, roma, deus, iam, domina, auris, iam, regius, tectum, mereo, et, chelys, augustus, iudex, noster, sono",103,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, 0.5, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, -1.0, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, 0.0, 1.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 1.0, 0.5, NaN, NaN",0.019,-0.024,"hic, saeuus",0.019
+claudian.panegyricus_de_tertio_consulatu,1.1,"tertius, romulei, sumo, exordium, fascis",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,2.0,"ter, tuus, duco, bellatrix, pompa, curulis",6,"NaN, 0.0, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,3.0,"festior, annus, eo, cingo, imito, gabinos",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,4.0,"diues, hydaspeis, augescat, purpura, gemma",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,5.0,"succedo, arma, trabea, tentorius, lictor",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,6.0,"ambiat, et, latiae, redeo, ad, signum, securis",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,7.0,"tu, o, qui, patrius, cura, aequal, orbis",7,"NaN, NaN, NaN, 0.0, -1.0, NaN, NaN",-0.143,-0.143,tu,0.143
+claudian.panegyricus_de_tertio_consulatu,8.0,"eous, cum, frater, rex, precede, secundus",6,"NaN, NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,9.0,"alitibus, phoebique, noui, ordior, meo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,alitibus,0.2
+claudian.panegyricus_de_tertio_consulatu,10.0,"spes, uotumque, polio, qui, primus, ab, limen, uita",8,"0.5, NaN, NaN, NaN, 0.5, NaN, NaN, 0.0",0.125,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,11.0,"nutrix, aula, foueo, stringo, qui, fulgidus, telum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,12.0,"inter, laurigeros, alo, castrum, triumphus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,13.0,"arduus, priuo, nescio, fortuna, penates",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,14.0,"et, regnum, cum, lux, do, cognatus, potestas",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,15.0,"excipio, tyrio, uenerabilis, pignus, in, ostrum",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,16.0,"lustrauitque, tuus, aquilis, uictrix, ortus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,17.0,"miles, et, in, medius, cunabula, praebeo, hasta",7,"0.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,18.0,"tu, nasco, ferox, totus, germania, rhenus",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,"tu, ferox",0.333
+claudian.panegyricus_de_tertio_consulatu,19.0,"intremo, moueo, suus, formido, silua",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+claudian.panegyricus_de_tertio_consulatu,20.0,"caucasus, et, pono, numen, confiteor, pharetra",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,21.0,"ignauus, meroe, traho, de, crinis, sagitto",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,ignauus,0.167
+claudian.panegyricus_de_tertio_consulatu,22.0,"repto, per, scutum, puer, rex, recens",6,"NaN, NaN, NaN, 0.0, 0.0, 0.0",0.0,0.0,repto,0.167
+claudian.panegyricus_de_tertio_consulatu,23.0,"exuuiae, tu, ludus, sum, primus, soleo",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,tu,0.167
+claudian.panegyricus_de_tertio_consulatu,24.0,"asper, complector, toruus, post, proelio, pater",6,"-0.5, NaN, NaN, NaN, NaN, 0.0",-0.083,-0.083,,0.0
+claudian.panegyricus_de_tertio_consulatu,25.0,"signum, triumpho, quotiens, flecto, ab, histro",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,26.0,"arctous, de, strages, caleo, et, posco, pars",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,strages,0.143
+claudian.panegyricus_de_tertio_consulatu,27.0,"de, spolium, scythicos, arcus, aut, rapio, gelonis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,28.0,"cingulum, uel, iaculis, daci, uel, frenum, suebi",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,29.0,"ille, corusco, clipeus, tu, saepe, uolo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+claudian.panegyricus_de_tertio_consulatu,30.0,"tollo, ad-rideo, et, pectus, premo, anhelo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,31.0,"intrepidus, fero, galea, neque, tristis, timeo",6,"1.0, NaN, NaN, NaN, -1.0, NaN",0.0,-0.167,,0.0
+claudian.panegyricus_de_tertio_consulatu,32.0,"fulgur, et, ad, superus, tendo, bracchium, crista",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fulgur,0.143
+claudian.panegyricus_de_tertio_consulatu,33.0,"tum, sic, laetus, aio, rex, o, stello, olympi",8,"NaN, NaN, 1.0, NaN, 0.0, NaN, NaN, NaN",0.125,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,34.0,"talis, perdomo, redeo, ego, filius, hostis",6,"NaN, NaN, NaN, NaN, 0.0, -1.0",-0.167,-0.167,,0.0
+claudian.panegyricus_de_tertio_consulatu,35.0,"hyrcanas, populo, ops, aut, caedes, superbus",6,"NaN, NaN, 0.0, NaN, -0.5, -1.0",-0.25,-0.25,caedes,0.167
+claudian.panegyricus_de_tertio_consulatu,36.0,"assyria, sic, ensis, rubeo, sic, flamen, creber",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,37.0,"turbidus, et, gratus, respergo, puluis, bellum",6,"NaN, NaN, 1.0, NaN, NaN, 0.0",0.167,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,38.0,"armo, gauiso, refero, captiuus, parens",5,"NaN, NaN, NaN, -1.0, 0.5",-0.1,-0.2,captiuus,0.2
+claudian.panegyricus_de_tertio_consulatu,39.0,"mox, ubi, firmo, recingo, uestigium, gradior",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,40.0,"non, tu, desidia, mollis, neque, marcidus, luxus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,"tu, luxus",0.286
+claudian.panegyricus_de_tertio_consulatu,41.0,"otium, neque, somnus, genitor, permitto, iners",6,"0.5, NaN, 0.5, NaN, NaN, 0.0",0.167,0.0,"otium, iners",0.333
+claudian.panegyricus_de_tertio_consulatu,42.0,"sed, nouo, per, durus, instruo, membrum, labor",7,"NaN, NaN, NaN, -0.5, NaN, NaN, -0.5",-0.143,-0.143,,0.0
+claudian.panegyricus_de_tertio_consulatu,43.0,"et, crudus, tener, exerceo, indoles, uireo",6,"NaN, -1.0, NaN, NaN, 0.0, NaN",-0.167,-0.167,,0.0
+claudian.panegyricus_de_tertio_consulatu,44.0,"frigus, saeuus, patior, grauis, non, cedo, nimbus",7,"NaN, -1.0, NaN, -0.5, NaN, NaN, NaN",-0.214,-0.214,saeuus,0.143
+claudian.panegyricus_de_tertio_consulatu,45.0,"aestiuus, tolero, iubar, transnaris, sonorus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,46.0,"torrens, furio, ascensus, uinco, mons",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,furio,0.2
+claudian.panegyricus_de_tertio_consulatu,47.0,"planitiem, cursus, uallo, et, concauus, saltus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,48.0,"neque, non, in, clipeus, uigilis, produco, nox",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,49.0,"in, galea, poto, nix, nunc, spiculum, cornu",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,50.0,"tendo, nunc, glandes, balearis, spargo, fundo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,51.0,"quoque, magis, nimium, pugna, inflammo, amor",6,"NaN, NaN, 0.0, -1.0, NaN, 1.0",0.0,-0.167,inflammo,0.167
+claudian.panegyricus_de_tertio_consulatu,52.0,"facio, tuus, numero, auus, qui, litus, aduro",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,53.0,"horresco, libyae, ratis, imperuius, thulis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,54.0,"ille, leuo, mauros, neque, fallo, nomen, pingo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,fallo,0.143
+claudian.panegyricus_de_tertio_consulatu,55.0,"edomo, scottumque, uago, mucro, sequor",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+claudian.panegyricus_de_tertio_consulatu,56.0,"frango, hyperboreas, remi, audaeibus, unda",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,57.0,"et, geminus, fulgeo, uterque, sub, axis, tropacis",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,58.0,"tethyos, alternus, refluas, calceo, harena",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,59.0,"hic, tu, uirtus, stimulus, hic, semen, laus",7,"NaN, NaN, 1.0, 0.0, NaN, NaN, 1.0",0.286,0.0,"hic, tu, stimulus, hic",0.571
+claudian.panegyricus_de_tertio_consulatu,60.0,"hic, exemplum, do, non, ocior, haurio, achilles",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, achilles",0.286
+claudian.panegyricus_de_tertio_consulatu,61.0,"semifer, praecipio, senex, seu, cuspis, ars",6,"NaN, NaN, 0.0, NaN, -1.0, 0.0",-0.167,-0.167,semifer,0.167
+claudian.panegyricus_de_tertio_consulatu,62.0,"siue, lyra, cantus, medieas, seu, disco, herba",7,"NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,63.0,"interea, turbo, fides, ciuile, rursus",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,64.0,"bellum, tono, dubius, quatio, discordia, mundus",6,"0.0, NaN, -0.5, NaN, NaN, 1.0",0.083,-0.083,,0.0
+claudian.panegyricus_de_tertio_consulatu,65.0,"pro, crimen, superi, longus, pro, dedecus, aeuum",7,"NaN, -1.0, NaN, 0.0, NaN, -1.0, NaN",-0.286,-0.286,"crimen, dedecus",0.286
+claudian.panegyricus_de_tertio_consulatu,66.0,"barbarus, hesperias, exul, possideo, urbs",5,"NaN, NaN, -1.0, NaN, 0.5",-0.1,-0.2,,0.0
+claudian.panegyricus_de_tertio_consulatu,67.0,"sceptrum, deicio, do, romana, cliens",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,68.0,"iam, princeps, molio, iter, gens, remoueo",6,"NaN, 0.5, NaN, 0.0, 0.0, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,69.0,"colligo, aurora, tumidus, quicumque, pererro",5,"NaN, NaN, -0.5, NaN, NaN",-0.1,-0.1,,0.0
+claudian.panegyricus_de_tertio_consulatu,70.0,"euphrates, qui, lustro, halys, qui, dito, orontes",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,71.0,"turifer, a-rabo, saltus, uado, caspia, medus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,72.0,"armenii, phasi, -ne, parthi, linquo, niphate, -ne",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,parthi,0.143
+claudian.panegyricus_de_tertio_consulatu,73.0,"qui, tu, tum, mars, rabio, quantus, sequor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, rabio",0.286
+claudian.panegyricus_de_tertio_consulatu,74.0,"ardor, sum, quantus, flagro, pectus, ueto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,75.0,"opto, audio, tuba, campus, cruento",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,cruento,0.2
+claudian.panegyricus_de_tertio_consulatu,76.0,"tempestas, fruor, truncisque, in-mergo, planto",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,77.0,"ut, leo, qui, fuluus, mater, spelunca, tego",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,leo,0.143
+claudian.panegyricus_de_tertio_consulatu,78.0,"uber, soleo, pascor, cum, cresco, sentio",6,"1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,79.0,"unguis, pes, et, tergum, iuba, et, dens, os",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,80.0,"iam, nego, imbellis, epulae, et, rupes, relinquo",7,"NaN, NaN, -1.0, NaN, NaN, 0.0, NaN",-0.143,-0.143,,0.0
+claudian.panegyricus_de_tertio_consulatu,81.0,"gaetulo, comes, eo, pater, stabulum, mino",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,gaetulo,0.167
+claudian.panegyricus_de_tertio_consulatu,82.0,"aestuo, et, celsus, to, sordeo, iuuencus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"aestuo, sordeo",0.333
+claudian.panegyricus_de_tertio_consulatu,83.0,"ille, ueto, res, tu, commendo, habena",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.167
+claudian.panegyricus_de_tertio_consulatu,84.0,"et, sacro, mereo, orno, diadema, crinis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,85.0,"tantus, sui, rudis, pietas, ostendo, in, annus",7,"NaN, NaN, -0.5, 1.0, NaN, NaN, 0.0",0.071,-0.071,,0.0
+claudian.panegyricus_de_tertio_consulatu,86.0,"sic, aetas, animus, cedo, queror, ut, omnis",7,"NaN, 0.0, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,87.0,"imperium, tu, serus, do, uictoria, uelox",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.167
+claudian.panegyricus_de_tertio_consulatu,88.0,"auspicium, efficio, tuus, pugno, uterque",5,"0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,89.0,"tu, fatum, genitor, manus, tu, propter, et, alpes",8,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"tu, tu",0.25
+claudian.panegyricus_de_tertio_consulatu,90.0,"inuado, facilis, caueo, neque, prosum, hostis",6,"NaN, 0.5, NaN, NaN, NaN, -1.0",-0.083,-0.167,,0.0
+claudian.panegyricus_de_tertio_consulatu,91.0,"munio, haereo, locus, spes, irrito, ualles",6,"NaN, NaN, 0.0, 0.5, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,92.0,"concido, et, scopulus, pateo, claustra, reuello",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,93.0,"tu, propter, gelidus, aquilus, de, mons, procella",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.143
+claudian.panegyricus_de_tertio_consulatu,94.0,"obruo, aduerso, acies, reuoluo, telum",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,95.0,"uerto, in, auctor, et, turbo, repello, hasta",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,96.0,"o, nimium, diligo, deus, qui, fundo, ab, antrum",8,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,97.0,"aeolus, armo, hiemo, qui, milito, aether",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,98.0,"et, coniuro, uenio, ad, classicus, uenio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,coniuro,0.167
+claudian.panegyricus_de_tertio_consulatu,99.0,"alpinae, rubesco, nix, et, frigidus, amnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,100.0,"mutas, fumo, aqua, turbo, cadentum",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,101.0,"sto, ni, rapidus, iuuo, flumen, sanguis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,102.0,"at, ferus, inuentor, scelus, trans-iacio, altus",6,"NaN, -1.0, 0.0, -1.0, NaN, 0.5",-0.25,-0.333,"ferus, scelus",0.333
+claudian.panegyricus_de_tertio_consulatu,103.0,"non, unus, mucro, latus, duplex, tepeo",6,"NaN, NaN, -1.0, NaN, 0.0, NaN",-0.167,-0.167,,0.0
+claudian.panegyricus_de_tertio_consulatu,104.0,"ensis, et, ultrix, in, sui, conuerto, ira",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,ultrix,0.143
+claudian.panegyricus_de_tertio_consulatu,105.0,"tandem, iustus, manus, iam, libertas, reduco",6,"NaN, 1.0, 0.0, NaN, 0.5, NaN",0.25,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,106.0,"quiuis, emereo, peto, natura, reuorto",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,107.0,"numen, et, auro, astrum, pando, arx",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,108.0,"nuto, onus, uenio, conscius, atlas",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,conscius,0.2
+claudian.panegyricus_de_tertio_consulatu,109.0,"differo, augustus, cupido, sui, credo, caelum",6,"NaN, 1.0, -0.5, NaN, NaN, 0.5",0.167,-0.083,,0.0
+claudian.panegyricus_de_tertio_consulatu,110.0,"durus, tu, pacatum, praesens, trado, orbis",6,"-0.5, NaN, NaN, 0.0, NaN, NaN",-0.083,-0.083,tu,0.167
+claudian.panegyricus_de_tertio_consulatu,111.0,"neque, mora, bistoniis, alacer, consurgo, ab, ora",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,112.0,"inter, barbaricus, audeo, transeo, cohors",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,113.0,"impauido, uultus, linquo, rhodopeia, saxum",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,114.0,"orpheis, animo, modus, iugum, desero, oetes",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,115.0,"herculeo, damno, rogo, post, pelion, intro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,damno,0.167
+claudian.panegyricus_de_tertio_consulatu,116.0,"nereis, illustris, torus, tu, pulcher, enipeus",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,tu,0.167
+claudian.panegyricus_de_tertio_consulatu,117.0,"celsus, dodona, stupeo, rursus, loquor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,118.0,"in, tu, chaonius, moueo, carmen, quercus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.167
+claudian.panegyricus_de_tertio_consulatu,119.0,"illyricum, lego, plaga, litor, aruum, tero",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,120.0,"dalmatiae, phrygii, numero, stagnum, timaui",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"phrygii, stagnum",0.4
+claudian.panegyricus_de_tertio_consulatu,121.0,"gaudeo, italia, sublimis, oppidum, murus",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,122.0,"aduenio, sacro, tuus, summitto, adoro",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,123.0,"eridanus, blandus, iubeo, mitesco, fluctus",5,"NaN, 0.5, NaN, NaN, 0.0",0.1,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,124.0,"et, phaethonteas, soleo, defleo, ruina",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,125.0,"roscidus, frondosus, reuoco, electrus, soror",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,126.0,"quantus, tum, iuuenis, quantus, sperno, pudor",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,pudor,0.167
+claudian.panegyricus_de_tertio_consulatu,127.0,"specto, studium, mater, puer, seuerus",5,"NaN, 0.5, 0.0, 0.0, NaN",0.1,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,128.0,"certo, senex, cum, tu, genitor, amicus",6,"NaN, 0.0, NaN, NaN, NaN, 1.0",0.167,0.0,tu,0.167
+claudian.panegyricus_de_tertio_consulatu,129.0,"excipio, gremium, medius, ueho, per, urbs",6,"NaN, 0.0, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,130.0,"uelaretque, pius, communis, laureus, currus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,131.0,"quis, non, lucifer, roseus, cum, sol, uideo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,132.0,"credo, aut, iungo, bromio, radiaris, tono",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,133.0,"floreo, cristas, exercitus, undique, turma",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,134.0,"quisque, suus, tu, uox, caneo, praestringo, aenus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+claudian.panegyricus_de_tertio_consulatu,135.0,"lux, oculus, nudus, seges, mauortia, fero",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,136.0,"ingemino, splendor, dies, pars, nobilis, arcus",6,"NaN, 1.0, 0.0, 0.0, 1.0, NaN",0.333,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,137.0,"pars, longus, iaculis, pars, comminus, horridus, contus",7,"0.0, 0.0, NaN, 0.0, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+claudian.panegyricus_de_tertio_consulatu,138.0,"hic, uolucris, tollo, aquila, hic, pingo, draco",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.286
+claudian.panegyricus_de_tertio_consulatu,139.0,"collum, leuo, multus, tumeo, per, nubila, serpens",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,serpens,0.143
+claudian.panegyricus_de_tertio_consulatu,140.0,"irascor, stimulo, nosco, uiuo, recipio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,stimulo,0.2
+claudian.panegyricus_de_tertio_consulatu,141.0,"flatus, et, uario, mentior, sibilo, traho",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,142.0,"ut, uenio, ad, sedes, cunctus, discedo, tectum",7,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,143.0,"dux, iubeo, et, gener, compello, talis, ultro",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,144.0,"bellipotens, stilicho, qui, ego, robur, in, arma",7,"NaN, NaN, NaN, NaN, 0.5, NaN, 0.0",0.071,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,145.0,"pax, probo, fides, quis, enim, per, proelio, gero",8,"0.5, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.188,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,146.0,"tu, sine, qui, mereo, tu, non, sudo, triumphus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.25
+claudian.panegyricus_de_tertio_consulatu,147.0,"odrysium, pariter, getico, foedauimus, hebrum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,148.0,"sanguis, sarmaticas, pariter, prostrauimus, ala",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,149.0,"riphaeaque, simul, fatisco, porrigo, artus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,150.0,"in, glacies, sto, rota, sulcauimus, histrum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,glacies,0.167
+claudian.panegyricus_de_tertio_consulatu,151.0,"ergo, ago, ego, quoniam, caelestis, regius, posco",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,152.0,"tu, cura, succedo, meus, tu, pignus, solus",7,"NaN, -1.0, NaN, 0.0, NaN, 0.0, -0.5",-0.214,-0.214,"tu, tu",0.286
+claudian.panegyricus_de_tertio_consulatu,153.0,"noster, foueo, geminus, dextera, tu, protego, frater",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+claudian.panegyricus_de_tertio_consulatu,154.0,"per, consanguineus, thalamus, nox, beatus",5,"NaN, 0.0, NaN, 0.0, 1.0",0.2,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,155.0,"per, taeda, qui, ipse, tuus, regina, leuo",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,taeda,0.143
+claudian.panegyricus_de_tertio_consulatu,156.0,"coniugium, sociaque, nurum, produco, ab, aula",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,nurum,0.167
+claudian.panegyricus_de_tertio_consulatu,157.0,"induo, mens, pater, cresco, diligo, fetus",6,"NaN, 0.5, 0.0, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,158.0,"ut, dux, ut, socer, lamia, securus, ad, astrum",8,"NaN, 0.5, NaN, NaN, NaN, 1.0, NaN, NaN",0.188,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,159.0,"tu, custos, fero, rumpo, si, moles, typhoeus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+claudian.panegyricus_de_tertio_consulatu,160.0,"prosilio, uinclum, tityos, si, membrum, resoluo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"uinclum, tityos",0.333
+claudian.panegyricus_de_tertio_consulatu,161.0,"si, furor, enceladi, proiectum, mugio, aetna",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,furor,0.167
+claudian.panegyricus_de_tertio_consulatu,162.0,"oppono, stilichone, cado, neque, multus, loquor",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,163.0,"sicut, sum, liquidus, signo, trames, nubes",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,164.0,"ingredior, globus, luna, limen, relinquo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,165.0,"arcados, et, uenio, clemens, aduolo, aura",6,"NaN, NaN, NaN, 1.0, NaN, 1.0",0.333,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,166.0,"hinc, phoebus, permetior, iter, flamma, noceo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,noceo,0.167
+claudian.panegyricus_de_tertio_consulatu,167.0,"gradiui, placidus, iouem, sto, arx, superus",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,168.0,"algenti, qui, zona, rigo, saturnia, traho",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,algenti,0.167
+claudian.panegyricus_de_tertio_consulatu,169.0,"machina, laxo, caelum, rutilaeque, patesco",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,170.0,"sponte, foris, arctous, paro, conuexus, bootes",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,171.0,"austral, resero, porta, succingo, oreon",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,172.0,"inuitantque, nouus, sidus, pendeo, uicissim",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,173.0,"qui, pars, uolo, ipse, sequor, qui, sum, sodalis",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,174.0,"digno, stella, aut, qui, regio, moraris",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,175.0,"o, decus, aetherius, terra, gloria, quondam",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,176.0,"tu, tuus, oceanus, natalis, gurges, lassus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"tu, gurges",0.333
+claudian.panegyricus_de_tertio_consulatu,177.0,"excipio, et, nosco, hispania, proluo, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,proluo,0.167
+claudian.panegyricus_de_tertio_consulatu,178.0,"fortuno, parens, primus, cum, detego, ortus",6,"NaN, 0.5, 0.5, NaN, NaN, NaN",0.167,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,179.0,"ad-specio, arcadium, cum, tu, procliuis, urgeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+claudian.panegyricus_de_tertio_consulatu,180.0,"occiduus, uideo, remoror, honorius, ignis",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,181.0,"et, quicumque, uagus, flecto, sub, cardo, curro",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,182.0,"nascor, per, regnum, uenio, qui, mens, serenus",7,"NaN, NaN, 0.0, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,183.0,"maturoque, rego, iungo, moderamen, gens",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,184.0,"saeculum, qui, rursus, formo, bonus, metallum",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,185.0,"lugeo, auarities, stygiis, innecto, catena",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,catena,0.2
+claudian.panegyricus_de_tertio_consulatu,186.0,"cum, suus, demens, expello, ambitus, aurum",6,"NaN, NaN, -1.0, NaN, NaN, 0.5",-0.083,-0.167,demens,0.167
+claudian.panegyricus_de_tertio_consulatu,187.0,"non, dominor, ops, neque, corrumpentia, sensus",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,188.0,"donum, ualeo, emo, solus, uirtus, potestas",6,"0.0, NaN, NaN, -0.5, 1.0, 0.5",0.167,-0.083,emo,0.167
+claudian.panegyricus_de_tertio_consulatu,189.0,"unanimus, frater, qui, mare, terra, fatum",6,"NaN, 0.0, NaN, 0.0, 0.0, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,190.0,"debeo, quicumque, manus, euado, auitus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,191.0,"qui, supersum, pater, tu, iam, mulciber, arma",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+claudian.panegyricus_de_tertio_consulatu,192.0,"praeparo, et, sicula, cyclops, incudo, laboro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,193.0,"brontes, innumerus, exaspero, aegida, signum",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,194.0,"altus, fulmineus, crisparis, in, cassis, conus",6,"0.5, NaN, NaN, NaN, 0.0, NaN",0.083,0.0,"fulmineus, crisparis",0.333
+claudian.panegyricus_de_tertio_consulatu,195.0,"festino, steropes, necto, thoraca, pyragmo, -ne",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,196.0,"ignifluisque, gemo, liparis, fumosus, cauerna",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,cauerna,0.2
+claudian.panegyricus_de_tertio_consulatu,197.0,"tu, ionia, uiridis, neptunus, in, alga",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+claudian.panegyricus_de_tertio_consulatu,198.0,"nutrio, equus, qui, summus, fretus, per, caerulus, possum",8,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.062,0.0,caerulus,0.125
+claudian.panegyricus_de_tertio_consulatu,199.0,"fero, uia, seges, leuis, percurro, motus",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,200.0,"nescio, ut, spumo, neque, protero, ungula, culmus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,protero,0.143
+claudian.panegyricus_de_tertio_consulatu,201.0,"iam, uideo, babylona, rapio, parthumque, cogo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,202.0,"non, fictum, trepido, fuga, iam, bactra, teneo",7,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,fictum,0.143
+claudian.panegyricus_de_tertio_consulatu,203.0,"lex, et, famulis, gange, -ne, pallesco, ripa",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,204.0,"gemmo, humilis, dispergo, persida, cultus",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,humilis,0.2
+claudian.panegyricus_de_tertio_consulatu,205.0,"eo, per, exter, tanais, piger, trio",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,206.0,"eo, per, ardeo, libyam, supero, uaporo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,207.0,"sol, et, arcanus, nilis, deprendite, fons",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_tertio_consulatu,208.0,"herculeum, finis, bacchi, transcurro, meto",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,209.0,"uester, ius, sum, quisquis, complector, axis",6,"NaN, 0.5, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+claudian.panegyricus_de_tertio_consulatu,210.0,"tu, rubra, do, pretiosus, aequor, concha",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"tu, pretiosus",0.333
+claudian.panegyricus_de_tertio_consulatu,211.0,"indus, ebur, ramus, panchaia, uellus, sero",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0

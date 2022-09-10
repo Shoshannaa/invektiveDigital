@@ -1,0 +1,314 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+priscian.carmen,1.0,"superus, poeta, qui, soleo, in, uersus, qui, imperator, modulor, laus, profero, caelum, cum, peto, et, sidus, aduerso, natura, sequor, impius, tu, scio, qui, displiceo, nimis, pius, nihil, nefandus, nihil, nisi, uerus, loquor, nam, qui, tribuo, mortalis, caelestis, sapiens, damno, arbitrium, par, et, si, qui, uerus, praedico, non, credo, cum, fallo, capio, caneo, exordium, quare, precor, libet, audio, tuus, qui, cunctus, non, ego, possum, produco, non, mille, do, si, ego, lingua, simul, fons, ingenium, sum, carmen, effundo, nouus, sed, pars, fero, qui, ualeo, pro, uis, decerpo, lux, confero, qui, cantus, qui, mos, miro, fio, soleo, nam, carmen, addo, decus, res, magis, quam, sumo, deus, faueo, iam, subeo, pondero, laus, serenus, qui, releuo, uultus, ego, praesens, ubique, cerno, qui, sensus, arcanus, nudo, princeps, mitis",122,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 1.0, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, -1.0, NaN, 1.0, NaN, NaN, 0.5, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, 0.5, NaN, 0.0, NaN, 1.0, NaN, 0.0, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, 0.0, NaN, 0.5, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.5, NaN, NaN, 0.5, 1.0",0.057,-0.029,"impius, tu, nefandus, damno, fallo",0.041
+priscian.carmen,1.1,"accipio, romanus, clemens, pectus, carmen",5,"NaN, NaN, 1.0, NaN, 0.0",0.2,0.0,,0.0
+priscian.carmen,1.2,"accipio, qui, soleo, caelestis, reddo, rex",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.carmen,1.3,"munus, pro, uita, pro, pulcher, lumen, sol",7,"0.5, NaN, 0.0, NaN, 1.0, NaN, NaN",0.214,0.0,,0.0
+priscian.carmen,1.4,"namque, deus, sentio, placaris, carmen, tantus",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.carmen,1.5,"qui, sequor, princeps, animus, iustus, recingo",6,"NaN, NaN, 0.5, 0.5, 1.0, NaN",0.333,0.0,,0.0
+priscian.carmen,1.6,"qui, tu, regnum, do, qui, debeo, omnis, solus",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, -0.5",-0.062,-0.062,tu,0.125
+priscian.carmen,1.7,"prosper, qui, bellum, pariter, uel, pax, fero",7,"1.0, NaN, 0.0, NaN, NaN, 0.5, NaN",0.214,0.0,,0.0
+priscian.carmen,1.8,"audax, nam, uenio, praeconium, dico, uester",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,audax,0.167
+priscian.carmen,1.9,"qui, finio, caelum, qui, omnis, cingo, orbis",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+priscian.carmen,1.1,"neque, mirus, talis, ex, tantus, stirps, creo",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+priscian.carmen,1.11,"pompeii, proprius, qui, culmen, roma, loco",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.12,"qui, quis, mereo, ualeo, numeraris, triumphus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.13,"qui, uideo, titan, linquo, repeto, profundum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,profundum,0.167
+priscian.carmen,1.14,"qui, medium, uenio, sto, miror, olympus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.15,"sed, tamen, egregius, pompeius, cedo, nepos",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.carmen,1.16,"namque, genus, qui, tu, terra, uictor, ubique",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.143
+priscian.carmen,1.17,"indomitus, taurus, linquebas, collis, altus",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,indomitus,0.2
+priscian.carmen,1.18,"hic, domo, penitus, conuello, semen, bellum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.167
+priscian.carmen,1.19,"qui, celsus, pono, fortuna, uertex, nuper",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.2,"et, nullus, finis, credo, felix, sum",6,"NaN, NaN, 0.0, NaN, 1.0, NaN",0.167,0.0,,0.0
+priscian.carmen,1.21,"impius, condo, terra, monumentum, dolor",5,"-1.0, NaN, 0.0, NaN, -1.0",-0.4,-0.4,impius,0.2
+priscian.carmen,1.22,"uexo, domus, rapio, stuprum, furor",5,"NaN, 0.0, NaN, -1.0, -1.0",-0.4,-0.4,"uexo, stuprum, furor",0.6
+priscian.carmen,1.23,"cum, similis, omnis, ad, malus, damno, puto",7,"NaN, 0.0, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,damno,0.143
+priscian.carmen,1.24,"non, honor, aut, aetas, possum, defendo, quisquam",7,"NaN, 1.0, NaN, 0.0, NaN, NaN, NaN",0.143,0.0,,0.0
+priscian.carmen,1.25,"lex, euerro, certus, munimen, res",5,"0.5, NaN, 0.5, NaN, 0.0",0.2,0.0,,0.0
+priscian.carmen,1.26,"uis, potestas, solus, tellus, teneo",5,"1.0, 0.5, -0.5, NaN, NaN",0.2,-0.1,,0.0
+priscian.carmen,1.27,"tunc, prauus, scelus, capio, praemium, laetus",6,"NaN, -1.0, -1.0, NaN, 1.0, 1.0",0.0,-0.333,"prauus, scelus",0.333
+priscian.carmen,1.28,"iudicium, nimium, iustus, damnaris, cogo",5,"0.5, 0.0, 1.0, NaN, NaN",0.3,0.0,damnaris,0.2
+priscian.carmen,1.29,"nam, uanum, nomen, retineo, irrito, ius",6,"NaN, -1.0, 0.0, NaN, NaN, 0.5",-0.083,-0.167,,0.0
+priscian.carmen,1.3,"umbraque, iustitia, res, resto, inanis",5,"NaN, 1.0, 0.0, NaN, NaN",0.2,0.0,,0.0
+priscian.carmen,1.31,"paupertas, nullus, tenuis, prosum, ualeo",5,"-1.0, NaN, 0.0, NaN, NaN",-0.2,-0.2,,0.0
+priscian.carmen,1.32,"qui, soleo, sum, salus, raptor, tempus, rex",7,"NaN, NaN, NaN, 1.0, NaN, 0.0, 0.0",0.143,0.0,raptor,0.143
+priscian.carmen,1.33,"namque, do, poena, ut, non, praesens, fero",7,"NaN, NaN, -1.0, NaN, NaN, 0.0, NaN",-0.143,-0.143,poena,0.143
+priscian.carmen,1.34,"et, stupeo, sui, damnum, magnus, sum",6,"NaN, NaN, NaN, -1.0, 0.0, NaN",-0.167,-0.167,,0.0
+priscian.carmen,1.35,"quam, plenus, ops, largior, grauis, metallum",6,"NaN, 0.0, 0.0, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+priscian.carmen,1.36,"corpus, nam, spolii, si, copia, nullus, do",7,"0.0, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+priscian.carmen,1.37,"uexo, uinclum, uexo, stipes, durus",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,"uexo, uinclum, uexo",0.6
+priscian.carmen,1.38,"clades, hic, tandem, caelum, rex, libero, orbis",7,"-1.0, NaN, NaN, 0.5, 0.0, NaN, NaN",-0.071,-0.143,hic,0.143
+priscian.carmen,1.39,"cum, dominus, bonus, sed, pater, dico, possum",7,"NaN, NaN, 1.0, NaN, 0.0, NaN, NaN",0.143,0.0,,0.0
+priscian.carmen,1.4,"praebeo, anastasium, tantus, pietas, uigeo",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+priscian.carmen,1.41,"in, qui, uita, uirtus, cerno, omnis",6,"NaN, NaN, 0.0, 1.0, NaN, NaN",0.167,0.0,,0.0
+priscian.carmen,1.42,"sum, iustus, sapio, castus, fortis, pius",6,"NaN, 1.0, NaN, NaN, 0.5, NaN",0.25,0.0,,0.0
+priscian.carmen,1.43,"sum, clemens, stabilis, moderor, mitis, honestus",6,"NaN, 1.0, 0.5, NaN, 1.0, 1.0",0.583,0.0,honestus,0.167
+priscian.carmen,1.44,"et, loquor, ut, breuis, qui, sentio, cor, sub, imus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.45,"possideo, hic, uetus, quisquis, laudo, in, ullus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.143
+priscian.carmen,1.46,"antoninum, hic, pietas, sapientia, marcus",5,"NaN, NaN, 1.0, 1.0, NaN",0.4,0.0,hic,0.2
+priscian.carmen,1.47,"et, mitis, neruam, lenis, pectus, uinco",6,"NaN, 1.0, NaN, 1.0, NaN, NaN",0.333,0.0,,0.0
+priscian.carmen,1.48,"promeruitque, titus, non, tantus, mens, benignus",6,"NaN, NaN, NaN, NaN, 0.5, 1.0",0.25,0.0,,0.0
+priscian.carmen,1.49,"gloria, magnanimus, traiani, cedo, iste",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.5,"nam, quis, tot, domo, simul, unus, martes, tyrannus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tyrannus,0.125
+priscian.carmen,1.51,"rupes, aduerto, qui, duco, isauria, fatum",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.carmen,1.52,"qui, bonitas, dominus, placidus, cedo, iubeo",6,"NaN, 1.0, NaN, 1.0, NaN, NaN",0.333,0.0,,0.0
+priscian.carmen,1.53,"moenia, ex, urbs, uolo, neque, laedo, prorsus",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+priscian.carmen,1.54,"quamuis, supplicium, debentes, soluo, mundus",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,supplicium,0.2
+priscian.carmen,1.55,"sed, non, ille, pater, qui, sustineo, omnis, dextera",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.carmen,1.56,"atque, par, liber, iustus, momentum, repensat",6,"NaN, 0.5, 0.5, 1.0, 0.0, NaN",0.333,0.0,,0.0
+priscian.carmen,1.57,"annuo, impunis, scelero, linquo, gens",5,"NaN, -0.5, NaN, NaN, 0.0",-0.1,-0.1,"impunis, scelero",0.4
+priscian.carmen,1.58,"nam, furor, immitto, commoueo, martes, nefandus",6,"NaN, -1.0, NaN, NaN, NaN, -1.0",-0.333,-0.333,"furor, nefandus",0.333
+priscian.carmen,1.59,"et, roma, caecus, rapio, traho, ad, arx",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+priscian.carmen,1.6,"uindicta, ut, pereo, mereo, lux, relinquo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uindicta,0.167
+priscian.carmen,1.61,"tristis, nam, rursus, cupio, damno, refero",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,damno,0.167
+priscian.carmen,1.62,"et, latius, multus, regnum, malus, mino",6,"NaN, NaN, 0.0, 0.0, -1.0, NaN",-0.167,-0.167,,0.0
+priscian.carmen,1.63,"princeps, inuictus, felix, exercitus, arma",5,"0.5, 1.0, 1.0, 0.0, 0.0",0.5,0.0,,0.0
+priscian.carmen,1.64,"ductor, fides, neque, non, uirtus, potens",6,"NaN, 1.0, NaN, NaN, 1.0, 1.0",0.5,0.0,,0.0
+priscian.carmen,1.65,"omnis, afficio, caedo, profugus, ruina",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.66,"cum, dux, scelus, duco, improbus, signum",6,"NaN, 0.5, -1.0, NaN, -1.0, 0.0",-0.25,-0.333,"scelus, improbus",0.333
+priscian.carmen,1.67,"ut, leo, qui, regno, silua, dominor, in, altus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,leo,0.125
+priscian.carmen,1.68,"per, libyae, saltus, nisi, nobilis, ira, lacesso",7,"NaN, NaN, NaN, NaN, 1.0, -1.0, NaN",0.0,-0.143,,0.0
+priscian.carmen,1.69,"non, moueo, arma, suus, stimulo, neque, uerber, uis",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,"stimulo, uerber",0.25
+priscian.carmen,1.7,"at, si, commoueo, clamor, si, turba, corona",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.carmen,1.71,"infremit, horreo, simul, et, distendo, hio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hio,0.167
+priscian.carmen,1.72,"sanguineus, torqueo, ardeo, lumen, flamma",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.73,"et, ruo, in, medius, prosterno, arma, uir",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, 0.5",0.071,0.0,,0.0
+priscian.carmen,1.74,"neque, uolo, ullus, possum, uenio, obsisto, contra",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.75,"impetus, hic, frango, pello, hic, demetior, unguis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.286
+priscian.carmen,1.76,"pars, lacero, iaceo, inimicus, dens, ora",6,"0.0, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,"lacero, iaceo",0.333
+priscian.carmen,1.77,"hic, metus, exanimo, pereo, uulnus, nullus",6,"NaN, -1.0, NaN, NaN, -1.0, NaN",-0.333,-0.333,"hic, exanimo",0.333
+priscian.carmen,1.78,"uis, augustus, sic, saeuus, percello, hostis",6,"1.0, 1.0, NaN, -1.0, NaN, -1.0",0.0,-0.333,saeuus,0.167
+priscian.carmen,1.79,"per, uarius, sterno, casus, non, for, furo",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,furo,0.143
+priscian.carmen,1.8,"graecia, iam, taceo, iacto, ego, bellerophonte, -ne",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.81,"qui, uinco, solymos, ut, rursus, bellum, moueo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.carmen,1.82,"at, semel, hic, dominus, noster, felix, arma",7,"NaN, NaN, NaN, NaN, NaN, 1.0, 0.0",0.143,0.0,hic,0.143
+priscian.carmen,1.83,"sic, domo, post, hic, ne, possum, sum, rebello",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, rebello",0.25
+priscian.carmen,1.84,"qui, neque, ductor, seruilius, bonus, olim",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+priscian.carmen,1.85,"pro, mereo, laus, qui, nomen, isauricus, ille",7,"NaN, NaN, 1.0, NaN, 0.0, NaN, NaN",0.143,0.0,,0.0
+priscian.carmen,1.86,"martes, do, sum, possum, praesto, latinae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.87,"non, ille, aurum, non, uolo, non, copia, fero",8,"NaN, NaN, 0.5, NaN, NaN, NaN, 0.5, NaN",0.125,0.0,,0.0
+priscian.carmen,1.88,"ne, castellum, quidem, praerumpo, arduus, saxum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,praerumpo,0.167
+priscian.carmen,1.89,"neque, tantus, ualidus, munio, moenia, urbs",6,"NaN, NaN, 1.0, NaN, NaN, 0.5",0.25,0.0,,0.0
+priscian.carmen,1.9,"quantus, non, ullus, uictor, capio, ante",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.91,"exitium, rapio, dignus, et, princeps, ira",6,"-1.0, NaN, 1.0, NaN, 0.5, -1.0",-0.083,-0.333,,0.0
+priscian.carmen,1.92,"et, qui, spes, fluo, frustro, cunctus, teneo",7,"NaN, NaN, 0.5, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+priscian.carmen,1.93,"nihil, satis, sum, sui, credo, telum, moueo",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+priscian.carmen,1.94,"cautes, angustus, concludo, fatum, traho",5,"0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.carmen,1.95,"peioremque, fames, crudelis, mors, fero",5,"NaN, -0.5, -1.0, -1.0, NaN",-0.5,-0.5,crudelis,0.2
+priscian.carmen,1.96,"qui, multus, conrumpo, quam, ceterus, funero, uinco",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.97,"et, mens, auidus, orbis, consumo, egestas",6,"NaN, 0.5, NaN, NaN, NaN, -1.0",-0.083,-0.167,egestas,0.167
+priscian.carmen,1.98,"princeps, pro, iustus, taceo, quis, fulmen, iacio",7,"0.5, NaN, 1.0, NaN, NaN, NaN, NaN",0.214,0.0,,0.0
+priscian.carmen,1.99,"nam, qui, non, ualuit, robur, corrumpo, mars",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+priscian.carmen,1.1,"neque, tot, ductor, circumdo, moenia, uallum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.101,"deiicit, hic, superus, genitor, dextera, flagro",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.167
+priscian.carmen,1.102,"iniustus, contra, praesens, numen, pugno",5,"-1.0, NaN, 0.0, NaN, NaN",-0.2,-0.2,iniustus,0.2
+priscian.carmen,1.103,"o, pietas, praesto, totus, memorabilis, aeuum",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+priscian.carmen,1.104,"pro, qui, cum, uentus, socio, proelio, nimbus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.105,"ignis, et, rapidus, armo, fulgur, bellum",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,fulgur,0.167
+priscian.carmen,1.106,"percutiuntque, sonus, concutio, tonitruum, mons",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tonitruum,0.2
+priscian.carmen,1.107,"quis, tempestas, memoro, fluctus, orior",5,"NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.carmen,1.108,"atque, hostis, lycius, proiecto, litus, classis",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,classis,0.167
+priscian.carmen,1.109,"cum, uicus, romanus, fungor, sum, miles, unda",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.carmen,1.11,"sceptrifer, et, capio, pelagus, pugno, triumphus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.111,"omnis, sic, habeo, uirtus, elementum, salus",6,"NaN, NaN, NaN, 1.0, 0.5, 1.0",0.417,0.0,,0.0
+priscian.carmen,1.112,"quis, repeto, totiens, acies, stragesque, perago",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.113,"aequatasque, solum, sublimis, tegimen, turris",5,"NaN, 0.0, 0.5, NaN, NaN",0.1,0.0,,0.0
+priscian.carmen,1.114,"agmen, domo, cum, pars, cado, omnis",6,"-1.0, NaN, NaN, 0.0, NaN, NaN",-0.167,-0.167,,0.0
+priscian.carmen,1.115,"flumen, torreo, fluuius, muto, cruor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,cruor,0.2
+priscian.carmen,1.116,"et, prope, corpus, rapio, sum, ostium, claudo",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.117,"tunc, mare, confundo, rutilauit, sanguis, tingo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.118,"et, satur, piscis, tempsere, cadauer, multus",6,"NaN, 0.5, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+priscian.carmen,1.119,"sic, qui, spero, captiua, duco, mater",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,captiua,0.167
+priscian.carmen,1.12,"atque, fruor, spolium, urbs, sacer, palatium",6,"NaN, NaN, NaN, 0.5, 1.0, NaN",0.25,0.0,,0.0
+priscian.carmen,1.121,"et, rex, iterum, infer, sui, reddo, nos",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.122,"lumen, cum, caelum, terra, careo, sepulcrum",6,"NaN, NaN, 0.5, 0.0, NaN, NaN",0.083,0.0,sepulcrum,0.167
+priscian.carmen,1.123,"at, reliquus, patria, aedes, urbs, relinquo",6,"NaN, 0.0, NaN, 0.0, 0.5, NaN",0.083,0.0,,0.0
+priscian.carmen,1.124,"orbo, obstino, lugeo, pignus, carus",5,"NaN, NaN, NaN, 0.0, 1.0",0.2,0.0,,0.0
+priscian.carmen,1.125,"moenia, subuertunt, quicumque, relinquo, ignis",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.carmen,1.126,"et, uinco, aetherius, poena, sentio, tono",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,poena,0.167
+priscian.carmen,1.127,"reddo, sui, iustus, contemno, mille, per, annus",7,"NaN, NaN, 1.0, NaN, NaN, NaN, 0.0",0.143,0.0,,0.0
+priscian.carmen,1.128,"ultoremque, deus, post, clades, sum, fateor",6,"NaN, 0.0, NaN, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+priscian.carmen,1.129,"atque, suus, casus, sui, causa, scio, sum",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.13,"sed, tamen, augustus, supero, clemens, cunctus",6,"NaN, NaN, 1.0, NaN, 1.0, 0.0",0.333,0.0,,0.0
+priscian.carmen,1.131,"qui, sterno, releuo, domo, qui, martes, superbus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+priscian.carmen,1.132,"hostis, et, pax, concedo, munus, pax",6,"-1.0, NaN, 0.5, NaN, 0.5, 0.5",0.083,-0.167,,0.0
+priscian.carmen,1.133,"gaudeo, nunc, proceres, securus, findo, uita",6,"NaN, NaN, NaN, 1.0, NaN, 0.0",0.167,0.0,,0.0
+priscian.carmen,1.134,"imperium, suus, uiuo, pono, fructus",5,"0.0, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+priscian.carmen,1.135,"insidiae, nemo, dirae, metuo, uenenum",5,"NaN, -0.5, NaN, NaN, -0.5",-0.2,-0.2,insidiae,0.2
+priscian.carmen,1.136,"lingua, quo, multus, cado, crimen, fingo",6,"-0.5, NaN, 0.0, NaN, -1.0, NaN",-0.25,-0.25,"crimen, fingo",0.333
+priscian.carmen,1.137,"perdo, res, populus, sum, sub, tempus, dirus",7,"NaN, 0.0, 0.0, NaN, NaN, 0.0, -1.0",-0.143,-0.143,dirus,0.143
+priscian.carmen,1.138,"restituo, tamen, hic, dominus, prudentia, mirus",6,"NaN, NaN, NaN, NaN, 0.5, 1.0",0.25,0.0,hic,0.167
+priscian.carmen,1.139,"perficio, firmum, qui, capio, debilis, regnum",6,"NaN, NaN, NaN, NaN, -1.0, 0.0",-0.167,-0.167,,0.0
+priscian.carmen,1.14,"multus, simul, uarius, concurro, ordo, res",6,"0.0, NaN, 0.0, NaN, 0.5, 0.0",0.083,0.0,,0.0
+priscian.carmen,1.141,"diuerto, traho, angustus, pectus, sensus",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+priscian.carmen,1.142,"atque, ueluti, delphis, phoebas, cum, numen, plenus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.carmen,1.143,"omnis, qui, sum, qui, sum, parito, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.144,"conspicio, et, cupio, prohibeo, prodo, lucius",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.145,"sic, ego, concipio, tuus, princeps, multus, facio",7,"NaN, NaN, NaN, 0.0, 0.5, 0.0, NaN",0.071,0.0,,0.0
+priscian.carmen,1.146,"qui, tu, debeo, diuorto, pars, orbis",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.167
+priscian.carmen,1.147,"non, possum, uerbum, animus, profero, paro",6,"NaN, NaN, 0.0, 0.5, NaN, NaN",0.083,0.0,,0.0
+priscian.carmen,1.148,"quocirca, laus, relego, fastigium, summus",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+priscian.carmen,1.149,"nunc, homo, gener, laetus, saeculum, curro",6,"NaN, 0.0, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+priscian.carmen,1.15,"qui, inops, dudum, facio, iubeo, nefandus",6,"NaN, -1.0, NaN, NaN, NaN, -1.0",-0.333,-0.333,nefandus,0.167
+priscian.carmen,1.151,"qui, propter, multus, sedes, fugio, parens",6,"NaN, NaN, 0.0, 0.0, NaN, 0.5",0.083,0.0,,0.0
+priscian.carmen,1.152,"qui, pater, et, dominus, terra, deleo, in, aeuum",8,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.153,"argentum, releuans, atque, aurum, pondus, mundus",6,"NaN, NaN, NaN, 0.5, NaN, 1.0",0.25,0.0,,0.0
+priscian.carmen,1.154,"perpetuus, paro, sui, maximus, praemium, caelum",6,"0.0, NaN, NaN, NaN, 1.0, 0.5",0.25,0.0,,0.0
+priscian.carmen,1.155,"diuitiae, temno, quo, prodo, omnis, unus",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+priscian.carmen,1.156,"namque, cibus, possum, qui, uix, acquiro, uita",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.carmen,1.157,"offertor, miser, thesaurus, munus, fleo",5,"NaN, -1.0, NaN, 0.5, NaN",-0.1,-0.2,miser,0.2
+priscian.carmen,1.158,"munus, cum, gemitus, tristis, lacrima, cogo",6,"0.5, NaN, -0.5, -1.0, NaN, NaN",-0.167,-0.25,,0.0
+priscian.carmen,1.159,"quippe, do, causa, uiolens, lucrum, paro",6,"NaN, NaN, 0.0, NaN, 0.5, NaN",0.083,0.0,,0.0
+priscian.carmen,1.16,"et, malus, qui, multus, pridem, dico, caneo",7,"NaN, -1.0, NaN, 0.0, NaN, NaN, NaN",-0.143,-0.143,,0.0
+priscian.carmen,1.161,"romanus, uester, uel, graio, carmen, laus",6,"NaN, NaN, NaN, NaN, 0.0, 1.0",0.167,0.0,,0.0
+priscian.carmen,1.162,"et, quo, sceptrum, locus, do, tu, rector, olympi",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.125
+priscian.carmen,1.163,"quo, caput, ipse, tuus, primus, diadema, cingo",7,"NaN, 0.0, NaN, 0.0, 0.5, NaN, NaN",0.071,0.0,,0.0
+priscian.carmen,1.164,"hic, sui, dono, liber, uideo, aceruus",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,hic,0.167
+priscian.carmen,1.165,"census, infestus, seruo, scribo, dolor",5,"0.0, -1.0, NaN, NaN, -1.0",-0.4,-0.4,,0.0
+priscian.carmen,1.166,"munus, suscipio, flamma, aeternus, beatus",5,"0.5, NaN, NaN, 0.5, 1.0",0.4,0.0,,0.0
+priscian.carmen,1.167,"ad, qui, accedo, placidus, magis, omnis, ara",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+priscian.carmen,1.168,"aspicio, uester, radius, sol, aureus, ignis",6,"NaN, NaN, NaN, NaN, 0.5, 0.0",0.083,0.0,,0.0
+priscian.carmen,1.169,"et, placeo, dies, uiolantia, lumen, fumus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.17,"qui, purus, fulgeo, accendo, mens, serenus",6,"NaN, 1.0, NaN, NaN, 0.5, NaN",0.25,0.0,,0.0
+priscian.carmen,1.171,"ipse, locus, tu, ostendo, ius, tropaeum",6,"NaN, 0.0, NaN, NaN, 0.5, NaN",0.083,0.0,tu,0.167
+priscian.carmen,1.172,"offero, et, uincio, oculus, domo, tyrannus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tyrannus,0.167
+priscian.carmen,1.173,"ante, pes, uester, medius, circensis, ago",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.174,"aemilius, quondam, paulus, fortis, ille",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+priscian.carmen,1.175,"sic, rex, perses, -ne, populus, specto, latino",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.176,"currus, inueho, tarpeiam, traho, ad, arx",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.177,"placauitque, iuppiter, capitolium, templum, teneo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.178,"omnipotens, sed, tu, superi, conspicio, ab, arx",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+priscian.carmen,1.179,"numen, placo, caelestis, templum, teneo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.18,"auspicium, gaudeo, princeps, felix, aula",5,"0.0, NaN, 0.5, 1.0, NaN",0.3,0.0,,0.0
+priscian.carmen,1.181,"qui, deus, omniparens, renouo, credo, orbis",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.182,"iustitia, iubeo, descendo, rursus, ab, axis",6,"1.0, NaN, NaN, NaN, NaN, 0.0",0.167,0.0,,0.0
+priscian.carmen,1.183,"et, facilis, prex, populus, praebeo, auris",6,"NaN, 0.5, 0.0, 0.0, NaN, NaN",0.083,0.0,,0.0
+priscian.carmen,1.184,"qui, prosterno, recreo, fundus, urbs",5,"NaN, NaN, NaN, 0.0, 0.5",0.1,0.0,,0.0
+priscian.carmen,1.185,"portus, et, murus, undaris, et, tractus, altus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.5",0.071,0.0,undaris,0.143
+priscian.carmen,1.186,"nunc, tueor, nauta, repeto, uerus, ostium, uelum",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+priscian.carmen,1.187,"qui, dubius, quondam, malus, periculum, pontus",6,"NaN, -0.5, NaN, -1.0, -1.0, 0.0",-0.417,-0.417,,0.0
+priscian.carmen,1.188,"iam, patria, ora, tolero, nauis, teneo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.carmen,1.189,"naufragium, ratis, fatisco, statio, mino",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,naufragium,0.2
+priscian.carmen,1.19,"dis-iacio, claustra, qui, aequor, frango, altus",6,"NaN, NaN, NaN, 0.0, NaN, 0.5",0.083,0.0,,0.0
+priscian.carmen,1.191,"sed, nunc, uotum, deus, seruati, pectus, totus",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.192,"pro, pietas, tuus, qui, respicio, omnis, fundo",7,"NaN, 1.0, 0.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+priscian.carmen,1.193,"agricola, misero, dispendium, saeuus, relaxas",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,"misero, saeuus",0.4
+priscian.carmen,1.194,"curia, peruerto, nam, cesso, mos, omnis",6,"-1.0, NaN, NaN, NaN, 0.5, NaN",-0.083,-0.167,,0.0
+priscian.carmen,1.195,"neque, licet, iniustus, soleo, contemno, lex",6,"NaN, NaN, -1.0, NaN, NaN, 0.5",-0.083,-0.167,iniustus,0.167
+priscian.carmen,1.196,"nunc, eques, horreo, rector, iubeo, uehentes",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.197,"neque, lucrum, causa, commiscent, sacer, profanus",6,"NaN, 0.5, 0.0, NaN, 1.0, NaN",0.25,0.0,profanus,0.167
+priscian.carmen,1.198,"iudex, ipse, sedeo, iudex, caelestis, imago",6,"0.5, NaN, NaN, 0.5, NaN, NaN",0.167,0.0,,0.0
+priscian.carmen,1.199,"per, tu, respondeo, populus, oraculum, sancio",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.167
+priscian.carmen,1.2,"proicio, et, nullus, nisi, qui, non, iustus, reposco",8,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.125,0.0,,0.0
+priscian.carmen,1.201,"aurum, non, adhibeo, modero, ante, soleo",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+priscian.carmen,1.202,"qui, do, ne, licet, socius, euerto, furtum",7,"NaN, NaN, NaN, NaN, 1.0, NaN, -1.0",0.0,-0.143,furtum,0.143
+priscian.carmen,1.203,"exemplum, doceo, quaestus, contemno, turpis",5,"0.0, NaN, 0.5, NaN, -1.0",-0.1,-0.2,"quaestus, turpis",0.4
+priscian.carmen,1.204,"tiro, fortis, numerus, nunc, miles, compleo",6,"NaN, 0.5, NaN, NaN, 0.0, NaN",0.083,0.0,,0.0
+priscian.carmen,1.205,"uerus, non, pretium, sed, robur, signum, mereo",7,"0.5, NaN, 1.0, NaN, 0.5, 0.0, NaN",0.286,0.0,pretium,0.143
+priscian.carmen,1.206,"quis, qui, dispensas, cerealia, munus, uita",6,"NaN, NaN, NaN, NaN, 0.5, 0.0",0.083,0.0,,0.0
+priscian.carmen,1.207,"luxuries, prohibeo, urbs, caueo, sum",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+priscian.carmen,1.208,"neque, sensus, populus, caelum, penuria, praebeo",6,"NaN, 0.5, 0.0, 0.5, NaN, NaN",0.167,0.0,,0.0
+priscian.carmen,1.209,"si, desum, imber, neque, linquo, copia, uinco",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+priscian.carmen,1.21,"consilium, tuus, seruamur, saepe, paternus",5,"0.5, 0.0, NaN, NaN, NaN",0.1,0.0,,0.0
+priscian.carmen,1.211,"aegyptus, septem, sic, seruo, iosiphus, annus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.carmen,1.212,"ille, pudicitia, mereo, qui, sidus, fama",6,"NaN, 0.5, NaN, NaN, NaN, 1.0",0.25,0.0,pudicitia,0.167
+priscian.carmen,1.213,"qui, placo, sapientia, numen, ira",5,"NaN, NaN, 1.0, NaN, -1.0",0.0,-0.2,,0.0
+priscian.carmen,1.214,"memphitae, rex, soluo, insomnis, mirus",5,"NaN, 0.0, NaN, -0.5, 1.0",0.1,-0.1,,0.0
+priscian.carmen,1.215,"horreum, nam, primus, nilis, construo, ora",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+priscian.carmen,1.216,"luxuries, prohibeo, urbs, caueo, sum",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+priscian.carmen,1.217,"atque, fames, possum, diuinum, uinco, cura",6,"NaN, -0.5, NaN, NaN, NaN, -1.0",-0.25,-0.25,,0.0
+priscian.carmen,1.218,"per, tu, seditio, penitus, deleo, ab, urbs",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,"tu, seditio",0.286
+priscian.carmen,1.219,"innocuus, spolio, sub, terra, sol, retraho",6,"0.5, NaN, NaN, 0.0, NaN, NaN",0.083,0.0,,0.0
+priscian.carmen,1.22,"nam, ciuis, medius, caedo, moenia, ensis",6,"NaN, 0.5, 0.0, NaN, NaN, NaN",0.083,0.0,,0.0
+priscian.carmen,1.221,"bacchor, stimulus, uinum, plaudo, fremo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"bacchor, stimulus",0.4
+priscian.carmen,1.222,"et, spolium, pax, gaudeo, nox, paro",6,"NaN, NaN, 0.5, NaN, 0.0, NaN",0.083,0.0,,0.0
+priscian.carmen,1.223,"ipse, ueto, ludus, anima, damno, nefandus",6,"NaN, NaN, NaN, 0.5, NaN, -1.0",-0.083,-0.167,"damno, nefandus",0.333
+priscian.carmen,1.224,"atque, uoluptas, prohibeo, ab, sanguis, sumo",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+priscian.carmen,1.225,"corpus, et, causa, pasco, perdo, uita",6,"0.0, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.carmen,1.226,"humani, arceo, lacero, dens, artus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,lacero,0.2
+priscian.carmen,1.227,"dens, armo, rabio, qui, ater, ferus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,"rabio, ferus",0.333
+priscian.carmen,1.228,"et, supero, omnis, mens, nouitas, benignus",6,"NaN, NaN, NaN, 0.5, 0.0, 1.0",0.25,0.0,,0.0
+priscian.carmen,1.229,"sufficio, haud, animus, cupio, commodus, cunctus",6,"NaN, NaN, 0.5, NaN, 0.5, 0.0",0.167,0.0,,0.0
+priscian.carmen,1.23,"largior, quamuis, numerus, uinco, dono",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.231,"ingenuus, releuas, occulte, munus, praesto",5,"0.5, NaN, NaN, 0.5, NaN",0.2,0.0,ingenuus,0.2
+priscian.carmen,1.232,"namque, cupio, superi, tu, cerno, lumen, solum",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+priscian.carmen,1.233,"con-rumpo, tuus, non, ullus, superbia, pectus",6,"NaN, 0.0, NaN, NaN, -1.0, NaN",-0.167,-0.167,superbia,0.167
+priscian.carmen,1.234,"afficio, bonus, paruus, fortuna, nouo",5,"NaN, 1.0, 0.0, 0.0, NaN",0.2,0.0,,0.0
+priscian.carmen,1.235,"et, quicumque, prior, capio, quam, sceptrum, rogo",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+priscian.carmen,1.236,"offendo, proprius, temero, crimen, culpa",5,"NaN, 0.0, NaN, -1.0, -1.0",-0.4,-0.4,"temero, crimen, culpa",0.6
+priscian.carmen,1.237,"felix, dominus, fruor, nunc, tempus, laeto",6,"1.0, NaN, NaN, NaN, 0.0, NaN",0.167,0.0,,0.0
+priscian.carmen,1.238,"praemium, pro, poenio, spero, sumo, miror",6,"1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+priscian.carmen,1.239,"omnis, sed, supero, princeps, praeconium, uester",6,"NaN, NaN, NaN, 0.5, 0.0, NaN",0.083,0.0,,0.0
+priscian.carmen,1.24,"propono, sapio, quo, fidus, eligo, aula",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+priscian.carmen,1.241,"custos, per, qui, romana, potentia, cresco",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+priscian.carmen,1.242,"et, quo, roma, uetus, mitto, quicumque, benignus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 1.0",0.143,0.0,,0.0
+priscian.carmen,1.243,"sustineo, omnis, penitus, ratio, foueo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.carmen,1.244,"proueho, et, gradus, praeclaris, laetus, honor",6,"NaN, NaN, 0.0, NaN, 1.0, 1.0",0.333,0.0,,0.0
+priscian.carmen,1.245,"ne, damnum, patria, sensus, fiantue, dolor",6,"NaN, -1.0, NaN, 0.5, NaN, -1.0",-0.25,-0.333,,0.0
+priscian.carmen,1.246,"fortuna, quare, tu, debeo, atque, salus",6,"0.0, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,tu,0.167
+priscian.carmen,1.247,"ueto, suscipio, pro, tu, nox, dies",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,tu,0.167
+priscian.carmen,1.248,"neque, non, eloquium, decoro, magnus, princeps",6,"NaN, NaN, NaN, NaN, 0.0, 0.5",0.083,0.0,,0.0
+priscian.carmen,1.249,"qui, doctrina, possum, et, sudor, musicus, augeo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.25,"qui, romanus, munio, sapientia, lex",5,"NaN, NaN, NaN, 1.0, 0.5",0.3,0.0,,0.0
+priscian.carmen,1.251,"ad-sumo, socius, iustus, moderamen, res",5,"NaN, 1.0, 1.0, 0.0, 0.0",0.4,0.0,,0.0
+priscian.carmen,1.252,"et, solus, doceo, do, praemium, dignus, labor",7,"NaN, -0.5, NaN, NaN, 1.0, 1.0, -0.5",0.143,-0.143,,0.0
+priscian.carmen,1.253,"munus, ditans, et, pasco, mens, benignus",6,"0.5, NaN, NaN, NaN, 0.5, 1.0",0.333,0.0,,0.0
+priscian.carmen,1.254,"hic, propter, celsus, dominator, magnus, axis",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,hic,0.167
+priscian.carmen,1.255,"infestus, uester, auerto, ab, arx, hostis",6,"-1.0, NaN, NaN, NaN, NaN, -1.0",-0.333,-0.333,,0.0
+priscian.carmen,1.256,"qui, furor, iniustus, uiolo, foedus, moueo",6,"NaN, -1.0, -1.0, NaN, -1.0, NaN",-0.5,-0.5,"furor, iniustus, uiolo",0.5
+priscian.carmen,1.257,"euphratis, uastus, prope, maximus, flumen, raptim",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,uastus,0.167
+priscian.carmen,1.258,"ex, improuisus, latro, mos, ruo",5,"NaN, -0.5, NaN, 0.5, NaN",0.0,-0.1,latro,0.2
+priscian.carmen,1.259,"sed, deus, in, proprius, clades, conuerto, ille",7,"NaN, 0.0, NaN, 0.0, -1.0, NaN, NaN",-0.143,-0.143,,0.0
+priscian.carmen,1.26,"consilium, tuus, iustus, damno, fero",5,"0.5, 0.0, 1.0, NaN, NaN",0.3,0.0,damno,0.2
+priscian.carmen,1.261,"hic, idem, cunctus, bellum, quicumque, lacesso",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,hic,0.167
+priscian.carmen,1.262,"imperium, colume, -ne, uester, pax, maneo",6,"0.0, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+priscian.carmen,1.263,"ut, sol, oceanus, tollo, mergensque, iugalis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,iugalis,0.167
+priscian.carmen,1.264,"cerno, anastasii, floreo, per, omnis, nomen",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.carmen,1.265,"utraque, roma, tu, nam, spero, pareo, unus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+priscian.carmen,1.266,"auxilium, superus, qui, conspicio, omnis, pater",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.carmen,1.267,"qui, placo, omnis, stabilis, pietas, per, orbis",7,"NaN, NaN, NaN, 0.5, 1.0, NaN, NaN",0.214,0.0,,0.0
+priscian.carmen,1.268,"templum, nouans, renouansque, deus, fulgeo, semper",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.269,"lucraque, uerus, puto, aurum, consumo, iustus",6,"NaN, 0.5, NaN, 0.5, NaN, 1.0",0.333,0.0,,0.0
+priscian.carmen,1.27,"experior, nuper, sum, ergo, sceptrifer, omnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.271,"quantus, tuus, pectus, seruo, praesens, rex",6,"NaN, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.carmen,1.272,"caelestis, proprius, bonitas, periculum, pello",5,"NaN, 0.0, 1.0, -1.0, NaN",0.0,-0.2,,0.0
+priscian.carmen,1.273,"nam, cum, moles, suus, supra, tu, nauis, iniquus",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, -1.0",-0.125,-0.125,"tu, iniquus",0.25
+priscian.carmen,1.274,"sui, cum, uentus, ueho, uolo, nefandus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,nefandus,0.167
+priscian.carmen,1.275,"atque, salus, dubius, pendeo, maximus, uita",6,"NaN, 1.0, -0.5, NaN, NaN, 0.0",0.083,-0.083,,0.0
+priscian.carmen,1.276,"uita, qui, lex, latiae, qui, cunctus, teneo",7,"0.0, NaN, 0.5, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+priscian.carmen,1.277,"ipse, deus, pelagus, praesens, exhaurio, ab, altus",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, 0.5",0.071,0.0,,0.0
+priscian.carmen,1.278,"quantus, adsum, pro, tu, ostendo, discrimen, magnus",7,"NaN, NaN, NaN, NaN, NaN, -1.0, 0.0",-0.143,-0.143,tu,0.143
+priscian.carmen,1.279,"non, aliter, superus, soleo, monstraris, fauor",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+priscian.carmen,1.28,"sancio, pius, homo, testo, scribo, per, aeuum",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.281,"in, qui, historia, talis, sum, mille, bonus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+priscian.carmen,1.282,"qui, sic, uirtus, praefulserat, omnis, annus",6,"NaN, NaN, 1.0, NaN, NaN, 0.0",0.167,0.0,,0.0
+priscian.carmen,1.283,"dextera, qui, eripio, diuinum, e, casus, ille",7,"0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.carmen,1.284,"neque, prior, eniteo, pietas, quam, tectum, salus",7,"NaN, 0.5, NaN, 1.0, NaN, NaN, 1.0",0.357,0.0,,0.0
+priscian.carmen,1.285,"ex, insperatus, do, quam, numen, olympi",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.carmen,1.286,"hic, rex, omnipotens, in, tu, ipse, probo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, tu",0.286
+priscian.carmen,1.287,"qui, pario, mundus, qui, lumen, cunctus, tueor",7,"NaN, NaN, 1.0, NaN, NaN, 0.0, NaN",0.143,0.0,,0.0
+priscian.carmen,1.288,"qui, recolo, animus, ueneraris, tempus, in, omnis",7,"NaN, NaN, 0.5, NaN, 0.0, NaN, NaN",0.071,0.0,,0.0
+priscian.carmen,1.289,"pignus, dignus, decoro, sanguis, alo",5,"0.0, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+priscian.carmen,1.29,"nam, quis, commemoro, paulus, mitis, cor",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+priscian.carmen,1.291,"qui, tu, coniungo, munime, -ne, laus, honestus",7,"NaN, NaN, NaN, NaN, NaN, 1.0, 1.0",0.286,0.0,"tu, honestus",0.286
+priscian.carmen,1.292,"non, solus, genus, ueneror, uinculum, sacer",6,"NaN, -0.5, 0.0, NaN, NaN, 1.0",0.083,-0.083,,0.0
+priscian.carmen,1.293,"nam, mos, sequor, mediocris, pectus, castus",6,"NaN, 0.5, NaN, 0.0, NaN, NaN",0.083,0.0,,0.0
+priscian.carmen,1.294,"os, cano, quonam, pietas, culmen, tantus",6,"0.0, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+priscian.carmen,1.295,"qui, frater, nascor, animus, complector, aequus",6,"NaN, 0.0, NaN, 0.5, NaN, 0.5",0.167,0.0,,0.0
+priscian.carmen,1.296,"non, patruus, tantus, sed, pater, mos, colo",7,"NaN, NaN, NaN, NaN, 0.0, 0.5, NaN",0.071,0.0,,0.0
+priscian.carmen,1.297,"indoles, qui, nutrio, dignus, et, stirps, parens",7,"0.0, NaN, NaN, 1.0, NaN, NaN, 0.5",0.214,0.0,,0.0
+priscian.carmen,1.298,"hypatii, uester, refero, fortis, facio",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+priscian.carmen,1.299,"qui, scythicas, gens, ripa, depello, ab, histri",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.3,"qui, uideo, ualidus, parthus, sentio, timeo",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+priscian.carmen,1.301,"qui, laus, mereo, augustus, dico, possum",6,"NaN, 1.0, NaN, 1.0, NaN, NaN",0.333,0.0,,0.0
+priscian.carmen,1.302,"auctor, qui, sum, tantor, et, causa, bonus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 1.0",0.143,0.0,tantor,0.143
+priscian.carmen,1.303,"dum, patrius, munio, tam, firmus, princeps, regnum",7,"NaN, 0.0, NaN, NaN, 1.0, 0.5, 0.0",0.214,0.0,,0.0
+priscian.carmen,1.304,"permitto, uir, mundus, se-sequor, tueor",5,"NaN, 0.5, 1.0, NaN, NaN",0.3,0.0,,0.0
+priscian.carmen,1.305,"ex, omnis, sensus, inuictus, cupido, prauus",6,"NaN, NaN, 0.5, 1.0, -0.5, -1.0",0.0,-0.25,prauus,0.167
+priscian.carmen,1.306,"qui, fama, pius, uulgo, in, omnis, ora",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+priscian.carmen,1.307,"multus, facio, quam, qui, sexus, concedo, ille",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.carmen,1.308,"prouidus, cum, tantus, romanus, prosum, orbus",6,"1.0, NaN, NaN, NaN, NaN, -0.5",0.083,-0.083,,0.0
+priscian.carmen,1.309,"numen, qui, caelum, terra, pontus, reuiso",6,"NaN, NaN, 0.5, 0.0, 0.0, NaN",0.083,0.0,,0.0
+priscian.carmen,1.31,"ausoniis, seruo, regnum, hic, munus, semper",6,"NaN, NaN, 0.0, NaN, 0.5, NaN",0.083,0.0,hic,0.167
+priscian.carmen,1.311,"barbariaeque, fera, capio, iugum, uerus, subigo",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,fera,0.167
+priscian.carmen,1.312,"ueto, firmo, populus, sancio, senatus",5,"NaN, NaN, 0.0, NaN, 0.5",0.1,0.0,,0.0

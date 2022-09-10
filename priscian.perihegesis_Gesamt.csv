@@ -1,0 +1,1088 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+priscian.perihegesis,1.0,"natura, genitor, qui, mundus, contineo, omnis",6,"0.0, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+priscian.perihegesis,2.0,"annuo, rex, caelum, pono, tellus, et, unda",7,"NaN, 0.0, 0.5, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+priscian.perihegesis,3.0,"in, qui, imperium, mortalis, ipse, do",6,"NaN, NaN, 0.0, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+priscian.perihegesis,4.0,"materies, tantus, ego, promo, carmen, digno",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,5.0,"incipio, terra, traho, pontus, meo",5,"NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,6.0,"et, fluuius, cano, atque, urbs, populus, per, orbis",8,"NaN, NaN, NaN, NaN, 0.5, 0.0, NaN, NaN",0.062,0.0,,0.0
+priscian.perihegesis,7.0,"discerno, latus, refluus, memoro, paro",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,8.0,"oceanus, tellus, quo, cingo, aequor, totus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,9.0,"insula, ceu, sui, diffundo, litus, uastus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,uastus,0.167
+priscian.perihegesis,10.0,"non, tamen, assiduus, tero, undique, margo, circum",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+priscian.perihegesis,11.0,"claudo, hic, bifido, sed, bracchium, litus, pando",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,12.0,"arto, rapidus, curro, ad, sol, utrimque",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,13.0,"assimilis, funda, sed, quamuis, corpus, totus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,14.0,"una, sum, hic, homo, tres, dico, sum, dis-redimo",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.125
+priscian.perihegesis,15.0,"et, primus, libye, -ne, post, europe, -ne, asia",8,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,europe,0.125
+priscian.perihegesis,16.0,"sed, libyam, europae, discerno, finis, amplus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,17.0,"lineus, quam, obliquo, gades, atque, ostium, nilis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,18.0,"qui, boreas, excurro, memphitis, terra, sub, axis",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,19.0,"atque, locus, uoueo, spartano, fama, canopo",6,"NaN, 0.0, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+priscian.perihegesis,20.0,"sed, terra, aquilus, qui, frigor, damno, iniquus",7,"NaN, 0.0, 0.0, NaN, NaN, NaN, -1.0",-0.143,-0.143,"damno, iniquus",0.286
+priscian.perihegesis,21.0,"europe, -ne, asia, tanais, disiungo, ab, ora",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,europe,0.143
+priscian.perihegesis,22.0,"sauromatas, linquo, scythiam, qui, gurges, uastus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,"gurges, uastus",0.333
+priscian.perihegesis,23.0,"perstringo, praeceps, ruo, maeotida, posco",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,24.0,"at, medius, finis, iamiam, declinis, ad, auster, sum",8,"NaN, 0.0, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,25.0,"qui, hellesponti, fauces, dico, prior",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+priscian.perihegesis,26.0,"sed, magis, austral, sum, terminus, ostium, nilis",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,27.0,"per, mare, sic, fluuius, duo, discerno, orbis",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,28.0,"at, alius, terra, malo, discerno, terra",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,29.0,"finis, sum, asia, latus, artus, lingua, supernus",7,"0.0, NaN, NaN, NaN, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+priscian.perihegesis,30.0,"caspia, quam, medius, facio, atque, aequor, pontus",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,31.0,"euxini, locus, hic, discrimen, dico, sum",6,"NaN, 0.0, NaN, -1.0, NaN, NaN",-0.167,-0.167,hic,0.167
+priscian.perihegesis,32.0,"europes, asia, disiungens, ruribus, aruum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,33.0,"at, alius, finis, longus, exeo, in, auster",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,34.0,"qui, seco, aegypti, terra, aequo, sabaeum",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,35.0,"separo, hic, libye, -ne, asia, confine, rumpo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,36.0,"talis, mortalis, perhibeo, discrimino, terra",5,"NaN, -1.0, NaN, NaN, 0.0",-0.2,-0.2,,0.0
+priscian.perihegesis,37.0,"circumeo, oceani, gurges, tamen, undique, uastus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,"gurges, uastus",0.333
+priscian.perihegesis,38.0,"qui, quamuis, unus, sum, multus, nomen, sumo",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,39.0,"finis, hesperiis, atlanticus, ille, uoco",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,hesperiis,0.2
+priscian.perihegesis,40.0,"at, boreas, qui, gens, ferueo, arimaspa, sub, arma",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,41.0,"dico, ille, piger, neque, non, saturnius, idem",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,42.0,"mortuus, at, alius, paruus, qui, lumen, sol",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,43.0,"perfruor, tardus, radius, nam, suscipio, ortus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,44.0,"nubis, et, crassus, premo, nimbus, grauo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,45.0,"unde, tamen, primus, conscendo, lumen, titan",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+priscian.perihegesis,46.0,"eoumque, uoco, atque, indum, nomen, pontus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,47.0,"sed, qui, deuexus, calidus, polus, excipio, auster",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,deuexus,0.143
+priscian.perihegesis,48.0,"aethiopumque, simul, pelagus, rubrus, uoco",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,49.0,"qui, desero, pateo, tellus, ardor, peruro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,50.0,"circumeo, oceanus, sic, totus, magnus, orbis",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,51.0,"nomen, uarius, celebro, et, aequor, tantus",6,"0.0, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,52.0,"hinc, atque, inde, sinus, penetrabilis, efficio, ille",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,53.0,"exiguus, multus, dirimo, mare, quattuor, amplus",6,"0.0, 0.0, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,54.0,"perseco, hesperiam, primus, qui, porgitur, unda",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,,0.0
+priscian.perihegesis,55.0,"pamphylumque, latus, libyae, pertendo, ab, ora",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,56.0,"hic, paruus, sum, reliquus, magnus, qui, caspia, tellus",8,"NaN, 0.0, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.125
+priscian.perihegesis,57.0,"suscipio, intro, uastus, aquilo, ab, unda",6,"NaN, NaN, -1.0, NaN, NaN, 0.0",-0.167,-0.167,uastus,0.167
+priscian.perihegesis,58.0,"nomen, saturnus, qui, tethys, possideo, aequor",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,59.0,"caspius, iste, sinus, simul, hyrcanusque, uoco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,60.0,"at, duo, qui, uenio, austral, ab, aequor, pontus",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,61.0,"hic, supra, curro, mare, persido, efficio, altus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.5",0.071,0.0,hic,0.143
+priscian.perihegesis,62.0,"e, regio, sino, qui, caspia, uoluo, unda",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,63.0,"fluctuo, at, alter, panchaeaque, litus, pulso",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,64.0,"euxini, contra, pelagus, protentus, in, auster",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,65.0,"hic, sinus, perhibeo, qui, tethyos, efficio, unda",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+priscian.perihegesis,66.0,"magnus, nam, sum, alius, multus, paruus",6,"0.0, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,67.0,"nunc, mare, hesperii, lustro, carmen, traho",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,68.0,"flexus, in, uarius, qui, frango, aequor, pontus",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,69.0,"hic, stringo, pelagus, terra, circumfluus, ille",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.167
+priscian.perihegesis,70.0,"mons, et, rado, suppostasque, urbs, ora",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+priscian.perihegesis,71.0,"adsum, o, numen, studium, praesul, et, ars",7,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0",0.071,0.0,,0.0
+priscian.perihegesis,72.0,"ordo, principium, capio, atlantis, ab, unda",6,"0.5, NaN, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+priscian.perihegesis,73.0,"herculeo, celebro, qui, meta, munus, gades",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+priscian.perihegesis,74.0,"caeliferasque, teneo, sto, atlas, mons, columna",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,75.0,"sum, primus, uastus, qui, pontus, hibericus, unda",7,"NaN, 0.5, -1.0, NaN, 0.0, NaN, 0.0",-0.071,-0.143,uastus,0.143
+priscian.perihegesis,76.0,"diuido, europe, -ne, libya, communis, uterque",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,europe,0.167
+priscian.perihegesis,77.0,"hinc, atque, hinc, statua, sum, ambo, litus, cerno",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,78.0,"hic, libyes, hic, europes, aduerso, tueor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.333
+priscian.perihegesis,79.0,"gallicus, hinc, gurges, qui, celtica, litus, pulso",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,gurges,0.143
+priscian.perihegesis,80.0,"excipio, hic, sequor, ligurum, cognomen, dico",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+priscian.perihegesis,81.0,"qui, dominus, res, terra, cerno, latinae",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,82.0,"ad, leuce, -ne, petra, -ne, aquilo, ab, axis, reduco",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,83.0,"qui, fretus, sicaniae, concludo, litus, curuo",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+priscian.perihegesis,84.0,"insula, sed, cyrnos, proprius, pulso, ab, unda",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,85.0,"inter, sardonium, pelagus, celtumque, refundo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,refundo,0.2
+priscian.perihegesis,86.0,"inde, sal, tumidus, tyrrheni, uoluo, aestus",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+priscian.perihegesis,87.0,"ad, pars, uergo, austral, excipio, iste",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,88.0,"sicaniae, gurges, sol, deflecto, ad, ortus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,gurges,0.167
+priscian.perihegesis,89.0,"qui, procul, effundo, pachyni, distendo, ora",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,90.0,"ad, cressam, summa, qui, promineo, aequor, rupes",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,91.0,"qui, gortyna, possum, medius, qui, phaestus, in, aruum",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,92.0,"aries, hic, rupes, simulo, uertex, frons",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,hic,0.167
+priscian.perihegesis,93.0,"pro, mereo, graii, criu, dico, metopo, -ne",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,94.0,"hic, mare, gargani, concludo, iapygis, os",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.167
+priscian.perihegesis,95.0,"illinc, incipio, extendo, hadria, uastus",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,uastus,0.2
+priscian.perihegesis,96.0,"ad, boreas, penetro, pelagus, solo, cado",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,97.0,"ionius, pariter, sinus, hic, perhibeo, ab, orbis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,98.0,"diuido, et, gemino, diuorto, pars, ora",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,99.0,"qui, tamen, exter, coniungo, terminus, unus",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,100.0,"ad, dexter, pars, protendo, illyris, almus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,101.0,"post, hic, dalmatiae, populus, martia, tellus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.167
+priscian.perihegesis,102.0,"at, laeua, ausoniae, porrigo, contineo, isthmos",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,103.0,"qui, tres, circumdo, mare, undique, litus, curuo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,104.0,"tyrrhenum, siculus, neque, non, simul, hadria, uastus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,uastus,0.143
+priscian.perihegesis,105.0,"finis, at, proprius, excepto, singulus, uentus",6,"0.0, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,106.0,"tyrrhenum, zephyro, siculus, sed, tundo, auster",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,107.0,"hadria, succurrens, eous, frango, eurus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,108.0,"at, post, sicaniam, traho, diffundo, altus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+priscian.perihegesis,109.0,"ad, syrtim, pelagus, libycis, qui, cingo, ora",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,110.0,"magnus, post, quam, paruus, excipio, aequor, longus",7,"0.0, NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,111.0,"atque, sinus, geminus, resono, litus, pulso",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,112.0,"finis, ab, siculis, cretaeum, tendo, aequor",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,113.0,"ad, sol, uenio, ortus, salmonis, posco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,114.0,"dico, eous, qui, cerno, terminus, sum",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,115.0,"post, hic, sum, geminus, mare, uastus, fluctus, ater",8,"NaN, NaN, NaN, NaN, 0.0, -1.0, 0.0, NaN",-0.125,-0.125,"hic, uastus",0.25
+priscian.perihegesis,116.0,"flatus, ismarici, boreas, qui, tundo, acer",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,117.0,"qui, ruo, aduersus, celsus, de, pars, arceo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,118.0,"qui, prior, sum, pharium, perhibeo, hic, litus, tango",8,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,hic,0.125
+priscian.perihegesis,119.0,"praecipio, casii, mons, post, unda, secundus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,120.0,"sidonium, sum, pelagus, penetro, qui, gurges, pontus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,gurges,0.143
+priscian.perihegesis,121.0,"issicus, arctous, ad, pars, aequor, uergo",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,122.0,"non, longus, rectus, cilicum, nam, frango, ora",7,"NaN, 0.0, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+priscian.perihegesis,123.0,"hinc, zephyros, posco, ueluti, draco, flecto, unda",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,124.0,"qui, iugum, montiuagus, uasto, silua, fatigo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"montiuagus, uasto",0.333
+priscian.perihegesis,125.0,"pars, exter, pamphylia, claudo, iste",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,126.0,"atque, chelidonias, rupes, cingo, idem",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,127.0,"at, procul, hic, zephyrus, finio, patareide, summus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,128.0,"post, hic, arctous, ad, pars, aspicio, rursus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.143
+priscian.perihegesis,129.0,"aegaeum, supero, qui, fluctus, aequor, cunctus",6,"NaN, NaN, NaN, 0.0, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,130.0,"dis-permulceo, uastus, qui, gurges, cycladas, amb-eo",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,"uastus, gurges",0.333
+priscian.perihegesis,131.0,"termino, hic, imbros, pariter, tenedosque, coerceo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, coerceo",0.333
+priscian.perihegesis,132.0,"angustus, traho, qui, fauces, propontidis, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,133.0,"asia, quam, supra, populus, distendo, amplus",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,134.0,"ad, nodia, pars, qui, latus, duco, isthmos",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,135.0,"threicius, sequor, post, bosphorus, ostium, pontus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,136.0,"hic, nullus, perhibeo, terra, angustus, orbis",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.167
+priscian.perihegesis,137.0,"sum, fretus, dirimo, hic, sum, symplegas, artus",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,hic,0.143
+priscian.perihegesis,138.0,"pando, hinc, pontus, pelagus, titanis, ad, ortus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,139.0,"qui, peto, obliquus, boreas, solo, meo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,140.0,"hinc, atque, hinc, medium, procurro, aequor, collis",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,141.0,"unus, qui, uenio, asia, de, pars, carambis",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,142.0,"dico, austral, sed, contra, finis, alter",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,143.0,"promineo, europae, hic, criu, dico, metopo, -ne",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,144.0,"ergo, conuenio, aduerro, gurges, tantus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,gurges,0.2
+priscian.perihegesis,145.0,"disto, quantus, terni, transeo, dies",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,146.0,"eualeat, nauis, bimaris, sic, aequor, pontus",6,"NaN, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,147.0,"aspicio, similis, cornu, qui, flecto, arcus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,148.0,"neruus, curuati, distendo, dextera, neruus",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,149.0,"assimilat, recingo, traho, nam, lineus, ductus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,150.0,"extra, quam, boreas, qui, scando, solus, carambis",7,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+priscian.perihegesis,151.0,"sed, forma, cornu, gemino, flexus, edo",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+priscian.perihegesis,152.0,"litus, qui, pontus, cingo, sub, pars, sinistra",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,153.0,"in, quam, maeotis, penetro, aquilo, ad, axis",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,154.0,"quam, scythiae, gens, circumdo, undique, ripa",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,155.0,"et, mater, pontus, perhibeo, maeotidis, unda",6,"NaN, 0.0, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,156.0,"scilicet, hinc, pontus, uolo, exeo, gurges, multus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,gurges,0.143
+priscian.perihegesis,157.0,"cimmerium, torreo, per, bosphoro, -ne, hic, ubi, taurus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+priscian.perihegesis,158.0,"cimmerii, gelidus, habito, sub, finis, imus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,159.0,"hic, mare, sum, species, splendeo, hic, forma, profundo",8,"NaN, 0.0, NaN, NaN, NaN, NaN, 1.0, NaN",0.125,0.0,"hic, hic",0.25
+priscian.perihegesis,160.0,"nunc, tu, tellus, regio, carmen, pando",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,tu,0.167
+priscian.perihegesis,161.0,"ut, cerno, animus, non, uideo, lumen, terra",7,"NaN, NaN, 0.5, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+priscian.perihegesis,162.0,"atque, doceo, alius, laudo, pectus, doceo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,163.0,"incipio, libye, tenuis, ab, tethyos, unda",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,164.0,"oceanus, tyrias, qui, pulso, gurges, gades",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,gurges,0.167
+priscian.perihegesis,165.0,"tendo, ad, notias, pars, et, sol, ad, ortus",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,166.0,"et, metior, forma, reddo, mensor, artus",6,"NaN, NaN, 1.0, NaN, 0.0, NaN",0.167,0.0,,0.0
+priscian.perihegesis,167.0,"quam, trado, terra, non, aequus, margo, cingo",7,"NaN, NaN, 0.0, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+priscian.perihegesis,168.0,"termino, hic, finis, rubrus, prope, litus, pontus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+priscian.perihegesis,169.0,"fero, aethiopum, populus, qui, possideo, alter",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,170.0,"qui, calidus, iuxta, terra, pasco, erembi",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,171.0,"hic, pello, similis, pardus, dico, prior",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,hic,0.167
+priscian.perihegesis,172.0,"namque, solus, squaleo, orbo, distinguo, opacus",6,"NaN, -0.5, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+priscian.perihegesis,173.0,"hic, sum, hic, umor, fero, uario, in, ager",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, hic",0.25
+priscian.perihegesis,174.0,"sed, summa, libye, -ne, habito, ad, tethyos, unda",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,175.0,"alcidae, qui, sum, statua, maurusia, plebs",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,alcidae,0.167
+priscian.perihegesis,176.0,"post, hic, immensus, nomadum, de, semen, gens",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+priscian.perihegesis,177.0,"atque, masaesylii, neque, non, massylia, proles",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,178.0,"saltus, hic, durus, asper, silua, uagor",6,"NaN, NaN, -0.5, -0.5, NaN, NaN",-0.167,-0.167,hic,0.167
+priscian.perihegesis,179.0,"uinco, alo, saeuus, quaero, caedes, ferus",6,"NaN, NaN, -1.0, NaN, -0.5, -1.0",-0.417,-0.417,"saeuus, caedes, ferus",0.5
+priscian.perihegesis,180.0,"scilicet, ignarus, terra, perfindere, rastrum",5,"NaN, -1.0, 0.0, NaN, NaN",-0.2,-0.2,,0.0
+priscian.perihegesis,181.0,"agricolasque, bos, plaustrum, domitaris, sonorus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,182.0,"namque, erro, nemus, per, dumus, mos, ferus",7,"NaN, 0.0, NaN, NaN, NaN, 0.5, -1.0",-0.071,-0.143,ferus,0.143
+priscian.perihegesis,183.0,"qui, prope, tendo, finis, carthago, alo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,184.0,"perpetuus, tyriis, celebro, qui, condio, laus",6,"0.0, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+priscian.perihegesis,185.0,"qui, regno, felix, dis-do, per, saeculum, uiuo",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+priscian.perihegesis,186.0,"atque, pudicitia, non, perdo, crimen, fallo",6,"NaN, 0.5, NaN, NaN, -1.0, NaN",-0.083,-0.167,"pudicitia, crimen, fallo",0.5
+priscian.perihegesis,187.0,"hic, paruus, insequor, syrtis, magnus, secundus",6,"NaN, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,hic,0.167
+priscian.perihegesis,188.0,"qui, tumor, immensus, tyrrheni, pello, aestus",6,"NaN, -0.5, 0.0, NaN, NaN, NaN",-0.083,-0.083,,0.0
+priscian.perihegesis,189.0,"accedo, furio, siccus, recedo, harena",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,furio,0.2
+priscian.perihegesis,190.0,"at, inter, syrtis, urbs, sum, quam, nomen, dico",8,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0, NaN",0.062,0.0,,0.0
+priscian.perihegesis,191.0,"sum, nea, -ne, polio, -ne, hic, supra, iustus, fero",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.111,0.0,hic,0.111
+priscian.perihegesis,192.0,"hospitium, gaudeo, gens, dego, lotophagorum",5,"0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,193.0,"hic, licet, ad, finis, desero, cerno, terra",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+priscian.perihegesis,194.0,"ex-tingo, populus, nasamonum, martes, latino",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,195.0,"asbystae, post, hic, terra, rus, teneo",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,hic,0.167
+priscian.perihegesis,196.0,"in, medium, summus, libycis, et, gens, hammo, -ne",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,197.0,"neque, non, cyrene, clarus, mater, equus",6,"NaN, NaN, NaN, 0.5, 0.0, NaN",0.083,0.0,,0.0
+priscian.perihegesis,198.0,"urbis, amyclaeae, populus, quam, condo, olim",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,199.0,"marmaridae, post, hic, aegypti, ad, flumen, uerto",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,200.0,"gaetulique, super, sum, uicinique, nigretes",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,201.0,"continuo, post, hic, sequor, phaurusia, tellus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+priscian.perihegesis,202.0,"hic, habito, iuxta, garamantes, debride, clarus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,hic,0.167
+priscian.perihegesis,203.0,"qui, supero, cunctus, urbs, miro, munus, fons",7,"NaN, NaN, 0.0, 0.5, NaN, 0.5, NaN",0.143,0.0,,0.0
+priscian.perihegesis,204.0,"frigor, qui, nox, ferueo, calefacio, et, umbra",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,205.0,"at, sol, frigeo, radius, glacial, et, ignis",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,206.0,"omnis, exter, populus, claudo, in, os",6,"NaN, 0.0, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,207.0,"aethiops, libyes, ubi, finio, litus, cerno",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,208.0,"oceanus, nimius, qui, pulso, sol, caleo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,nimius,0.167
+priscian.perihegesis,209.0,"neque, longus, ferueo, blemyum, sub, collis, ager",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,210.0,"hinc, fluuius, pinguis, descendo, flumen, nilis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,211.0,"pars, ab, libycis, qui, curro, sol, ad, ortus",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,212.0,"sino, ab, aethiopum, populus, cognomen, fero",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,213.0,"uerro, cultor, nilis, dico, syenes",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,214.0,"hinc, boreas, curro, ad, pars, flumen, pinguis",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,215.0,"fertilis, aegypti, terra, fecundo, opimus",5,"1.0, NaN, 0.0, NaN, NaN",0.2,0.0,fecundo,0.2
+priscian.perihegesis,216.0,"septenoque, ferio, pellaeum, gurges, pontus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,gurges,0.2
+priscian.perihegesis,217.0,"non, alius, tantus, fluuius, dito, harena",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,218.0,"atque, traho, limus, complector, uber, campus",6,"NaN, NaN, -0.5, NaN, 1.0, 0.0",0.083,-0.083,limus,0.167
+priscian.perihegesis,219.0,"hic, fero, libye, -ne, asia, distermino, ora",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,220.0,"hic, ortus, cerno, uideo, auster, ille, caleo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,221.0,"hic, habito, iuxta, sapiens, cor, uir",6,"NaN, NaN, NaN, 1.0, NaN, 0.5",0.25,0.0,hic,0.167
+priscian.perihegesis,222.0,"disposuere, uia, qui, uita, mens, potens",6,"NaN, 0.0, NaN, 0.0, 0.5, 1.0",0.25,0.0,,0.0
+priscian.perihegesis,223.0,"et, primus, do, sulcus, et, semen, terra",7,"NaN, 0.5, NaN, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+priscian.perihegesis,224.0,"obliquus, sol, tracto, pectus, curro",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,225.0,"hic, tellus, finis, nunc, carmen, dico",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,hic,0.167
+priscian.perihegesis,226.0,"et, forma, celebro, quam, gloria, magnus, per, orbis",8,"NaN, 1.0, NaN, NaN, 0.0, 0.0, NaN, NaN",0.125,0.0,,0.0
+priscian.perihegesis,227.0,"hic, igitur, fero, diffundo, patesco, in, aruum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,228.0,"fertilis, et, supero, alius, pinguedo, glaeba",6,"1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,glaeba,0.167
+priscian.perihegesis,229.0,"margo, latus, formo, at, undique, terni",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,230.0,"fero, quidem, boreas, sub, litus, tendo, ora",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,231.0,"at, ortus, angustus, peto, summa, syene, -ne",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,232.0,"qui, celsus, medius, mons, utrimque, coerceo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,coerceo,0.167
+priscian.perihegesis,233.0,"irrigui, per, quam, descendo, flumen, nilis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,234.0,"hic, habito, homo, multus, parito, opulens",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,hic,0.167
+priscian.perihegesis,235.0,"qui, uetus, clarus, colo, sub, moenia, thebes",7,"NaN, 0.0, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+priscian.perihegesis,236.0,"quam, perhibeo, centum, porta, habeo, prior",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+priscian.perihegesis,237.0,"filius, aurora, memno, -ne, qui, regnum, teneo",7,"0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,238.0,"hic, sum, et, septem, medius, in, finis, urbs",8,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, 0.5",0.062,0.0,hic,0.125
+priscian.perihegesis,239.0,"qui, celebro, totus, discurro, fama, per, orbis",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+priscian.perihegesis,240.0,"et, quicumque, mare, uiuo, prope, litus, uastus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, -1.0",-0.143,-0.143,uastus,0.143
+priscian.perihegesis,241.0,"qui, lacus, sum, ingens, liquidus, serbonidis, unda",7,"NaN, 0.0, NaN, -0.5, NaN, NaN, 0.0",-0.071,-0.071,,0.0
+priscian.perihegesis,242.0,"ad, qui, zephyrum, macetum, sum, moenia, rex",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,243.0,"et, pharos, idothees, scopulus, pallenidis, alo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,244.0,"post, urbs, sub, casio, pelusi, uergo, ad, ortus",8,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+priscian.perihegesis,245.0,"nauigium, populus, durus, quam, possideo, aptus",6,"NaN, 0.0, -0.5, NaN, NaN, NaN",-0.083,-0.083,nauigium,0.167
+priscian.perihegesis,246.0,"non, tamen, sum, libyes, pono, finis, iste",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,247.0,"scilicet, eoas, nilis, qui, contineo, ora",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,248.0,"nilis, qui, circum, floreo, mirabilis, arbor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,249.0,"extinguitque, sitis, pomum, qui, nomen, adipsos",6,"NaN, -0.5, 0.0, NaN, 0.0, NaN",-0.083,-0.083,,0.0
+priscian.perihegesis,250.0,"hic, facies, libyes, hic, claudo, terminus, ille",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, hic",0.286
+priscian.perihegesis,251.0,"sum, tamen, hic, alius, gens, qui, litus, superus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.125
+priscian.perihegesis,252.0,"tethyos, aut, medius, habito, tellus, in, aruum",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,253.0,"et, gratus, circum, ripa, tritonidis, unda",6,"NaN, 1.0, NaN, NaN, NaN, 0.0",0.167,0.0,,0.0
+priscian.perihegesis,254.0,"hic, lapis, heeliotropius, qui, nomen, uerus",6,"NaN, 0.0, NaN, NaN, 0.0, 0.5",0.083,0.0,hic,0.167
+priscian.perihegesis,255.0,"dico, sum, uerto, radius, nam, sol, in, unda",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,256.0,"siquis, is, fundo, labrum, immergat, aenus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,257.0,"sanguineus, rubeo, resplendeo, lux, color",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,258.0,"purus, at, solus, reniteo, nudo, ab, unda",7,"1.0, NaN, -0.5, NaN, NaN, NaN, 0.0",0.071,-0.071,,0.0
+priscian.perihegesis,259.0,"si, placeo, europes, quoque, ego, tu, dico, forma",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,tu,0.125
+priscian.perihegesis,260.0,"haud, taceo, similis, libyae, sum, sed, uergo, ad, arctos",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,261.0,"finis, et, pariter, distendo, pergo, ad, ortus",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,262.0,"lineus, namque, asia, similis, disiungo, uter",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,263.0,"hic, notias, specto, pars, aquilo, at, ille",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.143
+priscian.perihegesis,264.0,"at, ambo, unus, si, terra, sum, puto",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,265.0,"assimilent, conus, latus, compages, aequus",5,"NaN, NaN, NaN, 0.5, 0.5",0.2,0.0,,0.0
+priscian.perihegesis,266.0,"qui, ad, occido, sum, superus, fero, sub, ortus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,occido,0.125
+priscian.perihegesis,267.0,"sic, europa, tu, facilis, dignosco, ars",6,"NaN, NaN, NaN, 0.5, NaN, 0.0",0.083,0.0,tu,0.167
+priscian.perihegesis,268.0,"ad, qui, superus, prope, meto, hercules, alo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,269.0,"magnanimus, gens, do, quis, nomen, hiberus",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,270.0,"ad, spatium, multus, terra, rus, colo",6,"NaN, NaN, 0.0, 0.0, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,271.0,"oceanus, boreo, contingo, frigor, durus",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,,0.0
+priscian.perihegesis,272.0,"scrutor, decus, pulcher, sapio, aurum",5,"NaN, NaN, 1.0, NaN, 0.5",0.3,0.0,,0.0
+priscian.perihegesis,273.0,"qui, tamen, haud, maculo, praesens, neque, deicio, absum",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,maculo,0.125
+priscian.perihegesis,274.0,"qui, sum, germanus, bellaces, atque, britanni",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,275.0,"saltus, hercyniis, germania, subiaceo, atrox",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+priscian.perihegesis,276.0,"hic, tergum, similis, taurinus, dico, sum",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.167
+priscian.perihegesis,277.0,"et, pasco, uolucris, mirus, fulgeo, ala",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+priscian.perihegesis,278.0,"quis, dux, nox, cerno, flecto, uia",6,"NaN, 0.5, 0.0, NaN, NaN, 0.0",0.083,0.0,,0.0
+priscian.perihegesis,279.0,"pyrenes, sequor, mons, post, hic, celtica, tellus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,280.0,"eridani, fons, contingo, raucus, fluentum",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,fluentum,0.2
+priscian.perihegesis,281.0,"hic, phaethonta, suus, carus, luceo, soror",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,hic,0.167
+priscian.perihegesis,282.0,"hic, electrus, lego, alnus, stillo, celtae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+priscian.perihegesis,283.0,"sucinus, qui, memoro, mel, uiniue, color",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,284.0,"qui, palea, rapio, traho, frondeo, caducus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,palea,0.167
+priscian.perihegesis,285.0,"post, hic, tyrrheni, qui, iuxta, sol, ab, ortus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+priscian.perihegesis,286.0,"incipio, alpes, qui, exeo, gurges, uastus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,"gurges, uastus",0.333
+priscian.perihegesis,287.0,"oceani, rumpo, glacial, litus, rhenus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,288.0,"hic, prope, consurgo, fons, histri, flumen, longus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+priscian.perihegesis,289.0,"qui, posco, ortus, euxini, peruenio, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,290.0,"irriguam, peuce, -ne, amplector, gurges, quini",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,gurges,0.167
+priscian.perihegesis,291.0,"qui, ad, arctous, sum, pars, barbarum, tellus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,barbarum,0.143
+priscian.perihegesis,292.0,"innumerus, gens, gremium, complector, reduco",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,293.0,"qui, finis, facio, maeotidis, ostium, uastus",6,"NaN, 0.0, NaN, NaN, NaN, -1.0",-0.167,-0.167,uastus,0.167
+priscian.perihegesis,294.0,"hinc, sum, germanus, trux, et, sarmata, bellax",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"trux, sarmata",0.286
+priscian.perihegesis,295.0,"atque, getae, neque, non, basterna, semen, gens",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,296.0,"dacorumque, manus, et, martia, pectus, alani",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,297.0,"atque, dromos, -ne, taurus, retineo, fortis, achilles",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,achilles,0.143
+priscian.perihegesis,298.0,"angustus, et, longus, maeotidis, ostium, iuxta",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,299.0,"hic, eques, supra, celer, fundo, agaui",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.167
+priscian.perihegesis,300.0,"atque, melanchlaenum, populus, metuo, in, arcus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,301.0,"post, hippemolgi, sum, hippopodesque, potens",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+priscian.perihegesis,302.0,"atque, gelonus, cum, neuris, pingo, agathyrsi",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,agathyrsi,0.167
+priscian.perihegesis,303.0,"hic, ubi, descendo, porrigo, borysthenis, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.167
+priscian.perihegesis,304.0,"euxinumque, subeo, criu, prope, traho, metopo, -ne",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,305.0,"e, regio, iaceo, locus, hic, symplegados, artus",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"iaceo, hic",0.286
+priscian.perihegesis,306.0,"hic, sum, ardisci, quoque, panticapique, fluentum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, fluentum",0.333
+priscian.perihegesis,307.0,"diuidui, curro, riphaeis, mons, ambo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,308.0,"hic, misceo, qui, sui, pontus, glacial, unda",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,hic,0.143
+priscian.perihegesis,309.0,"nascor, electrus, praefulgeo, lux, niteo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,310.0,"mensis, soleo, primus, qualis, splendescere, luna",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+priscian.perihegesis,311.0,"hic, adamanta, lego, iuxta, fortis, agathyrsi",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,"hic, agathyrsi",0.333
+priscian.perihegesis,312.0,"tot, dirimo, gens, aquilo, pars, hister",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,313.0,"hic, ad, austral, terra, gerraeque, ferox",6,"NaN, NaN, NaN, 0.0, NaN, -1.0",-0.167,-0.167,"hic, ferox",0.333
+priscian.perihegesis,314.0,"noriciique, colo, bellaces, pannoniique",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,315.0,"et, mysi, thracum, boreis, in, finis, orior",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,thracum,0.143
+priscian.perihegesis,316.0,"in, qui, terra, qui, pontus, praefluo, unda",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,317.0,"ignipotens, oleum, commisceo, gigno, herba",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,318.0,"medico, qui, nomen, qui, compesco, flamma",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,319.0,"si, quis, aqua, cupio, multus, ignis, pasco, in, ille",9,"NaN, NaN, 0.0, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,320.0,"puluis, hic, iacio, potio, sum, extinguere, solus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,hic,0.143
+priscian.perihegesis,321.0,"thraces, aro, post, hic, fero, rus, teneo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.143
+priscian.perihegesis,322.0,"qui, torreo, stringo, finio, propontidis, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,323.0,"atque, hellesponti, fauces, aegaeus, et, altus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+priscian.perihegesis,324.0,"nascor, hic, scopulus, pallenae, gemma, refulgeo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.167
+priscian.perihegesis,325.0,"asterion, perhibeo, stella, certo, puto",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,326.0,"et, flamma, similis, splendeo, lumen, lychnus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,327.0,"hic, ripa, histri, porrigo, undique, cingo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+priscian.perihegesis,328.0,"europae, reliquus, nunc, pars, aspicio, terni",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,329.0,"phoebeos, uergo, qui, emineo, ille, sub, ortus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,330.0,"primus, sum, hispanus, qui, frango, litus, pontus",7,"0.5, NaN, NaN, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+priscian.perihegesis,331.0,"alter, tyrrhenum, qui, pulso, moles, aequor",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,332.0,"tertius, qui, graios, circumfluus, gurges, pasco",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,gurges,0.167
+priscian.perihegesis,333.0,"sed, tamen, oceanus, contingo, hiberica, tellus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,334.0,"occiduus, calpe, -ne, qui, summa, sustineo, unus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,335.0,"hercules, e, statuo, quam, supra, diues, et, altus",8,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 0.5",0.125,0.0,,0.0
+priscian.perihegesis,336.0,"tartessus, cempsique, sedeo, qui, collis, imus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,337.0,"pyrenes, caelum, qui, tango, uertex, superus",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+priscian.perihegesis,338.0,"at, ambo, inter, tellus, iaceo, ausonidaris",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,iaceo,0.167
+priscian.perihegesis,339.0,"limes, quam, recingo, medius, seco, appenninus",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,340.0,"qui, mons, incipio, boreis, ex, alpibus, altus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+priscian.perihegesis,341.0,"in, fretus, sicaniae, porrigo, termino, ora",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+priscian.perihegesis,342.0,"hic, urbs, circum, populus, gens, frequento",6,"NaN, 0.5, NaN, 0.0, 0.0, NaN",0.083,0.0,hic,0.167
+priscian.perihegesis,343.0,"qui, breuis, retegam, noster, tu, carmen, cunctus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,tu,0.143
+priscian.perihegesis,344.0,"tyrrheni, primus, fortis, iuxta, pelasgi",5,"NaN, 0.5, 0.5, NaN, NaN",0.2,0.0,,0.0
+priscian.perihegesis,345.0,"cyllenes, quondam, proprius, qui, sedes, relinquo",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,346.0,"tyrrhenis, socio, peto, nauis, arx",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,347.0,"hic, prope, sum, omnis, supero, laus, latinus",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,hic,0.143
+priscian.perihegesis,348.0,"qui, per, terra, decurro, in, aequor, thybris",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,349.0,"regius, irriguus, dirimo, qui, gurges, roma",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,gurges,0.167
+priscian.perihegesis,350.0,"roma, qui, genetrix, rex, dominor, in, orbis",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,351.0,"post, hic, pinguis, solus, sequor, campaneus, diues",7,"NaN, NaN, NaN, -0.5, NaN, NaN, 0.5",0.0,-0.071,hic,0.143
+priscian.perihegesis,352.0,"hic, ubi, parthenopes, domus, sum, castus, frugum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.143
+priscian.perihegesis,353.0,"fertilis, hic, pontus, proprius, excipio, unda",6,"1.0, NaN, 0.0, 0.0, NaN, 0.0",0.167,0.0,hic,0.167
+priscian.perihegesis,354.0,"ad, nosco, -ne, sum, longus, supra, sirenida, rupes",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,355.0,"picentis, silaris, gurges, spectabilis, flumen",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,gurges,0.2
+priscian.perihegesis,356.0,"hic, habito, prope, lucani, brettique, colonus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.167
+priscian.perihegesis,357.0,"ad, leuce, -ne, petra, longus, rus, teneo",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,358.0,"hinc, sum, ad, boreas, zephyrus, qui, summus, uoco",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,359.0,"sub, qui, sum, locri, celer, qui, tempus, priscus",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,360.0,"iste, regina, proprius, uenio, sequor",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,361.0,"ausoniamque, teneo, qui, curro, flumen, halecis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,362.0,"moenia, cerno, metaponti, deinde, crotonque",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,363.0,"quam, pulcher, gratus, praeterfluo, aesarus, urbs",6,"NaN, 1.0, 1.0, NaN, NaN, 0.5",0.417,0.0,,0.0
+priscian.perihegesis,364.0,"ulterius, pergo, hinc, templum, lacinia, cerno",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,365.0,"post, hic, sum, sybaris, pereo, qui, numen, ira",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,hic,0.125
+priscian.perihegesis,366.0,"praepono, homo, tumulus, caelestis, ara",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,367.0,"posco, qui, pisa, audeo, certamen, solus",6,"NaN, NaN, NaN, NaN, 0.5, -0.5",0.0,-0.083,,0.0
+priscian.perihegesis,368.0,"samnites, medium, complector, itala, tellus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,369.0,"in, gremium, marsosque, simul, tunc, deinde, tarentum",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,370.0,"tango, aequor, qui, muniuere, lacones",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,371.0,"continuo, calabrae, tellus, rus, sequor",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,372.0,"usque, hyrii, summa, sed, tendo, iapygis, os",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,373.0,"qui, sal, hadriaci, traho, uastissimus, aestus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,374.0,"atque, sinum, penetro, aquileium, colligo, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,375.0,"altus, tegestraeo, -ne, posterus, moenia, terra",6,"0.5, NaN, NaN, 0.0, NaN, 0.0",0.083,0.0,,0.0
+priscian.perihegesis,376.0,"qui, sinus, ionius, finio, gurges, lasso",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,gurges,0.167
+priscian.perihegesis,377.0,"hic, sum, ausoniae, populus, gens, potens",6,"NaN, NaN, NaN, 0.0, 0.0, 1.0",0.167,0.0,hic,0.167
+priscian.perihegesis,378.0,"flexilis, hinc, pontus, conuerto, uergo, ad, ortus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,379.0,"atque, liburnorum, terra, hyllisque, ferox",5,"NaN, NaN, 0.0, NaN, -1.0",-0.2,-0.2,ferox,0.2
+priscian.perihegesis,380.0,"bulimeo, -ne, pariter, praestringo, litus, curro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,381.0,"et, uenio, illyrias, latus, porrigo, ad, arx",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,382.0,"qui, tollo, mons, excello, ceraunia, superus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,383.0,"cerno, hic, tumulus, qui, cadmi, dico, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,384.0,"harmoniaeque, simul, namque, hic, serpens, ille",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, serpens",0.333
+priscian.perihegesis,385.0,"corpus, post, tempus, longus, muto, fero",6,"0.0, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,386.0,"in, senium, postquam, patria, thebasque, relinquo",6,"NaN, -0.5, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+priscian.perihegesis,387.0,"hic, ille, alius, pono, numen, monstrum",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,"hic, monstrum",0.333
+priscian.perihegesis,388.0,"namque, duo, tumulis, concurro, pestis, sum",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,pestis,0.167
+priscian.perihegesis,389.0,"significo, quotiens, saeuus, damno, colonia",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,"saeuus, damno",0.4
+priscian.perihegesis,390.0,"hic, regius, fons, miro, concipio, unda",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.167
+priscian.perihegesis,391.0,"qui, mereo, ueteres, dico, nomen, sacer",6,"NaN, NaN, NaN, NaN, 0.0, 1.0",0.167,0.0,,0.0
+priscian.perihegesis,392.0,"nam, gelidus, supero, cunctaris, frigus, aqua",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,393.0,"accendo, fax, si, quis, prope, duco, unda",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,fax,0.143
+priscian.perihegesis,394.0,"extinguit, flamma, recipio, sed, rursus, idem",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,395.0,"admoueo, dextera, cum, ex-tingo, lampada, fons",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,396.0,"sed, supra, thrace, -ne, neque, non, epiro, -ne, ad, auster",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,397.0,"principium, terra, doceo, graecia, sumo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,398.0,"ascendo, multus, gemino, sub, aequor, cingo",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,399.0,"aegaeus, siculoque, moueo, qui, flamen, uentus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,400.0,"diuerto, siculus, zephyrus, teneo, eurus, at, altus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+priscian.perihegesis,401.0,"aegaeum, sequor, pelopis, post, insula, fero",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,402.0,"consimilis, folium, platanus, qui, murus, acutus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,403.0,"aequiperat, cauda, qui, iaceo, isthmos, imago",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,iaceo,0.167
+priscian.perihegesis,404.0,"hellados, ad, boreas, sui, confine, iungo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,405.0,"latus, at, tellus, folium, ceu, flexilis, circum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,406.0,"cingo, aequor, zephyrum, triphyllidis, aruum",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,407.0,"excipio, per, quam, descendo, flumen, pulcher",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+priscian.perihegesis,408.0,"alpheus, qui, messeni, discindo, unda",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,409.0,"eurotae, terra, ambo, nascor, aseis",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,410.0,"hic, tamen, eleos, et, diuido, ille, laconas",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,411.0,"hic, medius, habito, latus, tellus, in, aruum",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.143
+priscian.perihegesis,412.0,"arcades, apidanei, sub, scopulus, erymanthi",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,413.0,"qui, melas, atque, crathis, fluuius, qui, curro, iao, -ne",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,414.0,"tendo, atque, uetus, qui, longus, gurges, lado, -ne",8,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,gurges,0.125
+priscian.perihegesis,415.0,"hic, merulos, perhibeo, albus, mirabilis, dico",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+priscian.perihegesis,416.0,"hic, nascor, lapis, qui, tango, accendo, ab, ignis",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.125
+priscian.perihegesis,417.0,"extingui, nequitur, qui, graii, nomen, uerus",6,"NaN, NaN, NaN, NaN, 0.0, 0.5",0.083,0.0,,0.0
+priscian.perihegesis,418.0,"asbestos, memoro, fero, niteo, ille, color",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,419.0,"iuxta, sum, argiuum, tellus, parito, laconum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,420.0,"ortus, argiui, uerguntque, lacones, ad, auster",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,421.0,"aequor, geminus, isthmos, pulso, utrimque",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,422.0,"hic, ephyre, -ne, contra, zephyrus, sed, uerbero, ille",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, uerbero",0.25
+priscian.perihegesis,423.0,"eurus, in, immensus, qui, mergo, unda, profundum",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,profundum,0.143
+priscian.perihegesis,424.0,"nomen, quam, danai, dico, saronida, priscus",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,danai,0.167
+priscian.perihegesis,425.0,"attica, sed, tellus, post, isthmo, -ne, sol, ad, orior, sum",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,426.0,"hinc, orithyiam, boreas, rapio, puella",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,427.0,"trado, hic, ilisos, aqua, deuoluo, amnis",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"hic, deuoluo",0.333
+priscian.perihegesis,428.0,"boeotum, sequor, finis, quo, dico, unda",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,429.0,"sum, potestas, diuerto, namque, duo",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+priscian.perihegesis,430.0,"flumen, uerto, ueruecum, lana, color",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,lana,0.2
+priscian.perihegesis,431.0,"hic, fusco, niueas, hic, albat, gurges, niger",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic, gurges",0.429
+priscian.perihegesis,432.0,"locridis, inde, solus, sequor, regio, et, os",7,"NaN, NaN, -0.5, NaN, 0.0, NaN, 0.0",-0.071,-0.071,,0.0
+priscian.perihegesis,433.0,"thessal, et, tellus, macetum, cum, moenia, altus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+priscian.perihegesis,434.0,"sub, qui, scopulus, tango, uertex, caelum",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+priscian.perihegesis,435.0,"spelunca, uetus, seruo, insigne, clades",5,"0.0, 0.0, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+priscian.perihegesis,436.0,"finis, in, medius, terra, namque, uideo",6,"0.0, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,437.0,"ostreum, murex, sicco, lateo, sum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,438.0,"diluuium, latebra, do, qui, piscis, ille",6,"NaN, -0.5, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+priscian.perihegesis,439.0,"concipio, et, pario, hic, natura, munus, gemma",7,"NaN, NaN, NaN, NaN, 0.0, 0.5, NaN",0.071,0.0,hic,0.143
+priscian.perihegesis,440.0,"quam, paeanite, -ne, perhibeo, praegno, iste",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,441.0,"auxilium, confero, facilis, releuamine, pario",5,"0.0, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+priscian.perihegesis,442.0,"cerno, hinc, niueas, attollo, uertex, rupes",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,443.0,"haemus, trhreicius, qui, contra, tendo, ager",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,haemus,0.167
+priscian.perihegesis,444.0,"ad, zephyrum, regius, dodona, fero, ferax",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,,0.0
+priscian.perihegesis,445.0,"ad, qui, notias, pars, sub, rupes, aracynthi",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,446.0,"aetolae, gens, sum, bellum, laus, possum",6,"NaN, 0.0, NaN, 0.0, 1.0, NaN",0.167,0.0,,0.0
+priscian.perihegesis,447.0,"campus, qui, medius, acheloia, perseco, unda",6,"0.0, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,448.0,"et, mare, trinacrium, perrumpo, echinadas, inter",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,449.0,"regnum, cephallenae, prope, sum, sapio, ulixi",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,450.0,"iste, galactite, -ne, ripa, ostendo, in, altus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+priscian.perihegesis,451.0,"uberibus, prodo, neque, non, infer, idem",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,452.0,"et, si, quis, tero, hic, albesco, lac, liquesco",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+priscian.perihegesis,453.0,"hic, fluuius, iuxta, praeclarus, sol, ad, ortus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,454.0,"phocis, ad, arctous, uentus, extendo, ingens",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+priscian.perihegesis,455.0,"donec, contingo, calidum, ostium, thermopylaris",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,456.0,"sub, iugum, parnasi, cephisos, gurges, magnus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,gurges,0.167
+priscian.perihegesis,457.0,"quam, medius, dirimo, descendo, murmur, uastus",6,"NaN, 0.0, NaN, NaN, NaN, -1.0",-0.167,-0.167,uastus,0.167
+priscian.perihegesis,458.0,"qui, templum, phoebus, memorabilis, delphica, sedes",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,459.0,"nunc, magnus, nos, sum, insula, os, canendae",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,460.0,"qui, homo, totus, dis-permulceo, aequor, cerno",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,461.0,"sum, igitur, pontus, tellus, circumfluus, primus",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+priscian.perihegesis,462.0,"qui, nomen, gadis, statua, hic, hercules, inter",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.143
+priscian.perihegesis,463.0,"ab, tyriis, colo, cotinussa, uoco, uetustus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,464.0,"continuo, iaceo, gymnesiae, hic, baliaris",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"iaceo, hic",0.4
+priscian.perihegesis,465.0,"romanus, memoro, hinc, frango, aequor, ebuso",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,466.0,"sardoniae, post, quam, pelagus, circumfluus, tellus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,467.0,"fons, e, liquidus, praebeo, miraculum, mundus",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+priscian.perihegesis,468.0,"qui, sano, oculus, aeger, damno, nefandus",6,"NaN, NaN, 0.0, -1.0, NaN, -1.0",-0.333,-0.333,"damno, nefandus",0.333
+priscian.perihegesis,469.0,"periurus, furtum, qui, tango, flumen, caecant",6,"-1.0, -1.0, NaN, NaN, NaN, NaN",-0.333,-0.333,"periurus, furtum",0.333
+priscian.perihegesis,470.0,"post, quam, non, longus, cerno, litus, cyrni",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,471.0,"corsica, quam, pariter, gemino, nomen, dico",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,472.0,"hic, solus, perhibeo, catochite, -ne, gigno, terra",7,"NaN, -0.5, NaN, NaN, NaN, NaN, 0.0",-0.071,-0.071,hic,0.143
+priscian.perihegesis,473.0,"corpus, lapis, hic, ceu, glutinum, tango, adhaereo",7,"0.0, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.143
+priscian.perihegesis,474.0,"nullus, tamen, tellus, alo, robur, silua",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+priscian.perihegesis,475.0,"sic, alibi, genero, dehinc, rupes, aeolidaris",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,476.0,"qui, septem, numerus, perhibeo, cognomen, plotas",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,477.0,"quippe, uia, ratis, pelagus, do, undique, uastus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,uastus,0.143
+priscian.perihegesis,478.0,"trinacriae, post, hic, moles, distendo, amplus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.167
+priscian.perihegesis,479.0,"cardo, terni, latus, quam, termino, ago",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,480.0,"procurro, pachyno, longus, claustra, pelori",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,481.0,"exterrensque, ratis, lilybaei, cautes, aspris",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,482.0,"emineo, ad, zephyrum, lilybe, pachynusque, sub, orior",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,483.0,"aspicio, ausoniam, boreas, pelorus, ad, axis",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,484.0,"qui, mare, uix, supero, nauta, cum, mille, periculum",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,,0.0
+priscian.perihegesis,485.0,"angustus, rapidus, qui, frango, gurges, saxum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,gurges,0.167
+priscian.perihegesis,486.0,"trado, hic, pelagus, diruptas, uis, olim",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,hic,0.167
+priscian.perihegesis,487.0,"excipio, fretus, terra, cogo, ruina",5,"NaN, 0.5, 0.0, NaN, NaN",0.1,0.0,,0.0
+priscian.perihegesis,488.0,"multus, sum, istic, totus, memoro, per, orbis",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,489.0,"dianas, fons, sum, camerina, gigno, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,490.0,"qui, si, quis, manus, non, caueo, haurio, umquam",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,491.0,"laetifico, tristis, non, misceo, poculum, baccho",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+priscian.perihegesis,492.0,"hic, idem, mons, miror, sustineo, aetnam",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+priscian.perihegesis,493.0,"uertex, qui, superus, rigidus, niuit, tempero, ignis",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,494.0,"neque, supero, flamma, frigus, neque, frigus, flamma",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,495.0,"hic, sal, en, acragas, miraculum, possideo, unus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,496.0,"natura, in, quo, proprius, muto, uideo",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,497.0,"ignis, et, unda, sal, namque, ille, soluo, flamma",8,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,498.0,"unda, soleo, crepo, ille, coniungo, moueo",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,499.0,"hic, et, halesinus, fons, sum, mitis, unda",7,"NaN, NaN, NaN, NaN, NaN, 1.0, 0.0",0.143,0.0,hic,0.143
+priscian.perihegesis,500.0,"tibia, qui, extollo, cantus, salto, puto",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,salto,0.167
+priscian.perihegesis,501.0,"musicus, et, ripa, laeto, excurro, plenus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,502.0,"cerno, egregius, lapis, hic, qui, nomen, achates",7,"NaN, 0.0, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.143
+priscian.perihegesis,503.0,"hic, do, fluuius, qui, genero, ad, unda",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+priscian.perihegesis,504.0,"hic, simulacrum, uideo, uena, ostendo, gemma",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.167
+priscian.perihegesis,505.0,"aequor, at, siculis, qui, uastus, fundo, unda",7,"0.0, NaN, NaN, NaN, -1.0, NaN, 0.0",-0.143,-0.143,uastus,0.143
+priscian.perihegesis,506.0,"ad, nosco, -ne, sum, pontus, libyae, syrtisque, uadosa",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,507.0,"magnus, at, ultra, si, pergo, cerno, paruus",7,"0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,508.0,"occiduus, iuxta, quam, menix, insula, fulgeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,509.0,"et, cercina, simul, libyca, statio, pateo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,510.0,"hadria, qui, penetro, uenio, si, pars, sinistra",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,511.0,"atque, lego, calabrum, litus, tunc, insula, magnus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,512.0,"ostendo, sui, diomedis, nomen, dictum",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,513.0,"quo, profugus, quondam, uictor, concedo, ille",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,514.0,"coniunx, incesta, per, fraudo, aegialeae",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,fraudo,0.2
+priscian.perihegesis,515.0,"ionium, pergo, absyrtidas, aequor, ad, ortus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,516.0,"circumeo, hic, olim, colchi, teneo, ferox",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,"hic, ferox",0.333
+priscian.perihegesis,517.0,"lassus, dum, frustra, medeae, furtum, sequor",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,furtum,0.167
+priscian.perihegesis,518.0,"continuo, post, hic, liburnidas, aspicio, alo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+priscian.perihegesis,519.0,"ad, notias, pars, hinc, saeuus, ceraunia, nauta",7,"NaN, NaN, 0.0, NaN, -1.0, NaN, NaN",-0.143,-0.143,saeuus,0.143
+priscian.perihegesis,520.0,"insula, ambraciae, contra, cerno, in, altus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+priscian.perihegesis,521.0,"et, corcyra, possum, ithaces, atque, asper, tellus",7,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+priscian.perihegesis,522.0,"et, qui, oblimo, riuus, acheloius, amnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,523.0,"flumen, torreo, praecelsam, chalcida, linquo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,524.0,"sed, multus, amnisi, boreas, sub, pars, uideo",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,525.0,"aegylaque, inde, cythera, calauria, durus, colonia",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+priscian.perihegesis,526.0,"ad, radius, uergo, sed, carpathus, hic, prope, cerno",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+priscian.perihegesis,527.0,"pinguis, et, umbrosus, extendo, collis, ide, -ne",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,528.0,"ante, ortus, sol, perhibeo, quam, fulgeo, sol",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,529.0,"gigno, hic, alimos, quam, si, quis, mordeo, herba",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+priscian.perihegesis,530.0,"compesco, damnum, fames, rabies, diurnus",5,"NaN, -1.0, -0.5, -1.0, 0.0",-0.5,-0.5,rabies,0.2
+priscian.perihegesis,531.0,"at, rhodos, aegyptus, contra, iaceo, insula, diues",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,iaceo,0.143
+priscian.perihegesis,532.0,"suniados, contra, quoque, superus, rupes, ad, ortus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,533.0,"nubila, quam, numquam, uetuerunt, lumen, sol",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,534.0,"nam, purus, carus, potio, tellus, abantas",6,"NaN, 1.0, 1.0, NaN, NaN, NaN",0.333,0.0,,0.0
+priscian.perihegesis,535.0,"supra, sum, salamis, neque, non, aegina, sed, ortus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,536.0,"cerno, cyprus, pontus, pamphylius, amb-eo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,537.0,"post, hic, sum, terni, citer, patareida, summa",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,538.0,"fama, chelidonias, celebro, qui, nomen, terra",6,"1.0, NaN, NaN, NaN, 0.0, 0.0",0.167,0.0,,0.0
+priscian.perihegesis,539.0,"neque, procul, sum, arados, phoenix, aequor, cingo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,540.0,"aegaei, uerus, diuorto, pars, alo",5,"NaN, 0.5, NaN, 0.0, NaN",0.1,0.0,,0.0
+priscian.perihegesis,541.0,"ad, fauces, artus, multus, sum, insula, abydi",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,542.0,"confinis, asia, dexter, europesque, sinister",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,543.0,"ad, boreas, tamen, hic, pertendunt, ordo, longus",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 0.0",0.071,0.0,hic,0.143
+priscian.perihegesis,544.0,"europes, macris, contingo, abantias, ora",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,545.0,"et, celsus, scyrus, peparethus, sacro, lemnos",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,546.0,"fertilis, atque, thasos, simul, imbros, post, corybantum",7,"1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+priscian.perihegesis,547.0,"moenia, antiquus, samothracia, cerno, augeo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,548.0,"at, asia, pars, qui, tango, aequor, primus",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, 0.5",0.071,0.0,,0.0
+priscian.perihegesis,549.0,"delo, -ne, circumdo, hic, dico, cycladas, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,550.0,"continuo, sporadas, ceu, stella, aspicio, almas",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,551.0,"ioniasque, simul, qui, inter, caunus, et, alo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,552.0,"sum, samus, atque, chius, celebro, nomen, clarus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.5",0.071,0.0,,0.0
+priscian.perihegesis,553.0,"aeolicae, post, et, lesbus, tenedusque, sequor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,554.0,"et, sinus, inde, melas, helles, prorumpo, in, aequor",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,555.0,"pando, hinc, pelagus, tumidus, propontide, ferueo",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+priscian.perihegesis,556.0,"ad, boreas, saxum, uigeo, proconesus, in, ille",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,557.0,"sum, etiam, laeuus, euxini, pars, unus",6,"NaN, NaN, -1.0, NaN, 0.0, NaN",-0.167,-0.167,,0.0
+priscian.perihegesis,558.0,"quam, leuce, -ne, perhibeo, aduerso, borysthenis, amnis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,559.0,"pasco, auis, quoniam, multus, candor, niual",6,"NaN, NaN, NaN, 0.0, 0.5, NaN",0.083,0.0,,0.0
+priscian.perihegesis,560.0,"hic, anima, perhibeo, heros, laus, potens",6,"NaN, 0.5, NaN, NaN, 1.0, 1.0",0.417,0.0,hic,0.167
+priscian.perihegesis,561.0,"dego, securus, uirtus, munus, pulcher",5,"NaN, 1.0, 1.0, 0.5, 1.0",0.7,0.0,,0.0
+priscian.perihegesis,562.0,"cimmerium, recta, sed, si, quis, bosphoro, -ne, eo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,563.0,"cerno, hic, dextera, uastus, maeotidis, unda",6,"NaN, NaN, 0.0, -1.0, NaN, 0.0",-0.167,-0.167,"hic, uastus",0.333
+priscian.perihegesis,564.0,"insula, moles, grauis, sto, alopecea, fero",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+priscian.perihegesis,565.0,"post, quam, phaenagore, -ne, hermonassamque, nepos",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,566.0,"egregius, quondam, colo, gens, ionum",5,"0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,567.0,"insula, hic, celeber, pelagus, sum, nomen, clarus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.5",0.071,0.0,hic,0.143
+priscian.perihegesis,568.0,"at, alius, refluus, circumdo, tethyos, aequor",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,569.0,"qui, demonstro, pono, regio, et, aura",6,"NaN, NaN, NaN, 0.0, NaN, 1.0",0.167,0.0,,0.0
+priscian.perihegesis,570.0,"aethiops, habito, erythraeus, pectus, iustus",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+priscian.perihegesis,571.0,"atlantem, iuxta, longaeuus, finis, olim",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,572.0,"uenio, hyperboreis, qui, gens, post, fatum, per-emo",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,per-emo,0.143
+priscian.perihegesis,573.0,"geryonae, domo, qui, uirtus, hercules, ingens",6,"NaN, NaN, NaN, 1.0, NaN, -0.5",0.083,-0.083,,0.0
+priscian.perihegesis,574.0,"sed, summa, contra, sacer, cognomen, dico",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+priscian.perihegesis,575.0,"quam, caput, europae, sum, stagnum, pondus, plenus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,stagnum,0.143
+priscian.perihegesis,576.0,"hesperides, populus, teneo, qui, fortis, hiberi",6,"NaN, 0.0, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+priscian.perihegesis,577.0,"at, alius, oceani, iuxta, boreotidas, ago",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,578.0,"sum, geminus, rhenique, britannides, ostium, cerno",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,579.0,"hic, etenim, lasso, perrumpo, tethya, cursus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+priscian.perihegesis,580.0,"hic, tamen, haud, ualeo, spatium, supero, per, orbis",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+priscian.perihegesis,581.0,"insula, per-fulgeo, niger, splendor, gagates",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+priscian.perihegesis,582.0,"hic, lapis, ardescens, haurio, perfundo, aqua",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.167
+priscian.perihegesis,583.0,"at, oleum, perdo, flamma, mirabilis, uideo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,584.0,"attero, rapio, hic, tener, ceu, sucinus, frondeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,585.0,"neque, spatium, disto, nesidum, litus, longus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,586.0,"in, qui, uxor, amnitum, bacchica, sacer",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,uxor,0.167
+priscian.perihegesis,587.0,"concelebro, hedera, folium, tego, corymbus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,corymbus,0.2
+priscian.perihegesis,588.0,"oceani, trano, hic, nauis, aequor, aperio",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,"trano, hic",0.333
+priscian.perihegesis,589.0,"ad, thulis, -ne, uenio, qui, nox, dius, reluceo",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,590.0,"titanis, radius, cum, currus, scando, ad, axis",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,591.0,"signifer, boreas, succendo, lampas, pars",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,592.0,"at, nauis, pelagus, flecto, aquilo, ab, ora",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,593.0,"ad, sol, calidus, refero, lumen, ab, ortus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,594.0,"aureus, specto, tu, pinguis, insula, glaeba",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,"tu, glaeba",0.333
+priscian.perihegesis,595.0,"hinc, tepidus, prora, conuerto, nauis, ad, auster",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,596.0,"taprobane, -ne, uenio, genero, qui, magnus, elephas",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,597.0,"per, finis, asia, iaceo, hic, sub, sidus, cancer",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,"iaceo, hic",0.25
+priscian.perihegesis,598.0,"litus, qui, salio, densus, cetus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,599.0,"qui, pasco, uastus, mare, rubrus, mons, aequus",7,"NaN, NaN, -1.0, 0.0, NaN, NaN, 0.5",-0.071,-0.143,uastus,0.143
+priscian.perihegesis,600.0,"tendo, horribilis, qui, per, tergum, per, armus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,horribilis,0.143
+priscian.perihegesis,601.0,"spina, fero, clades, for, sub, os, ferox",7,"NaN, NaN, -1.0, NaN, NaN, 0.0, -1.0",-0.286,-0.286,ferox,0.143
+priscian.perihegesis,602.0,"quippe, soleo, pariter, nauis, sorbeo, uir",6,"NaN, NaN, NaN, 0.0, NaN, 0.5",0.083,0.0,,0.0
+priscian.perihegesis,603.0,"nam, malus, tam, pelagus, quam, terra, mereo, offero",8,"NaN, -1.0, NaN, NaN, NaN, 0.0, NaN, NaN",-0.125,-0.125,,0.0
+priscian.perihegesis,604.0,"ulterius, pergo, si, post, carmanida, summa",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,605.0,"ogyris, occurro, qui, dico, sum, sepulcrum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,sepulcrum,0.167
+priscian.perihegesis,606.0,"rex, erythraeus, do, qui, nomen, pontus",6,"0.0, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,607.0,"persicus, inde, sinus, penetro, et, icaro, -ne, offero",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,608.0,"insula, qui, fero, nimium, placo, dianam",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,609.0,"tot, sum, ingens, qui, cingo, tethyos, unda",7,"NaN, NaN, -0.5, NaN, NaN, NaN, 0.0",-0.071,-0.071,,0.0
+priscian.perihegesis,610.0,"insula, at, alius, diuorto, pars, orbis",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,611.0,"dis-permulceo, multus, fama, lateo, paruus",5,"NaN, 0.0, 1.0, NaN, 0.0",0.2,0.0,,0.0
+priscian.perihegesis,612.0,"durus, difficilis, nauta, uel, portus, aptus",6,"-0.5, -0.5, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+priscian.perihegesis,613.0,"qui, non, facilis, sum, ego, promo, nomen, uersus",8,"NaN, NaN, 0.5, NaN, NaN, NaN, 0.0, NaN",0.062,0.0,,0.0
+priscian.perihegesis,614.0,"at, asia, finis, ambaris, lineus, monstro",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,615.0,"et, forma, contra, positaris, in, imago, coeo",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+priscian.perihegesis,616.0,"paulatim, traho, tamen, hic, orior, ad, ora",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,617.0,"oceanus, statua, bacchi, qui, tango, fero",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,618.0,"finis, indorum, posterus, gurges, torreo",5,"0.0, NaN, 0.0, NaN, NaN",0.0,0.0,gurges,0.2
+priscian.perihegesis,619.0,"qui, ganges, liquidus, nysaeos, irrigo, ager",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,ganges,0.167
+priscian.perihegesis,620.0,"non, tamen, sum, spatium, similis, tellus, aperio",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,621.0,"scilicet, ambabus, penetrabilis, unus, in, ille",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,622.0,"fundo, oceani, sinus, et, distermino, ambo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,623.0,"at, asia, gremium, triplex, mare, confluo, unda",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,624.0,"hyrcanum, pariter, parthum, simul, atque, sabaeum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,625.0,"hic, nosco, -ne, at, boreos, hyrcanum, uergo, ad, axis",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.111
+priscian.perihegesis,626.0,"gurges, euxini, uicinus, multus, uir",5,"NaN, NaN, 0.0, 0.0, 0.5",0.1,0.0,gurges,0.2
+priscian.perihegesis,627.0,"mille, qui, circum, dego, per, litus, pontus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,628.0,"ambo, medius, campus, distendo, isthmos",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,629.0,"at, asia, qui, mons, excello, diuido, omnis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,630.0,"incipio, ab, medius, terra, pamphylidis, ora",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,631.0,"et, longus, sui, spatium, produco, ad, indus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,632.0,"nunc, obliquus, meo, nunc, recingo, limes, curro",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,633.0,"uertex, qui, toruus, perhibeo, cognomen, taurus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,634.0,"cornu, nam, summus, scopulus, imito, acuo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,635.0,"multifidusque, suus, huc, collis, spargo, et, illic",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,636.0,"ex, hic, innumerus, descendo, fons, amnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+priscian.perihegesis,637.0,"in, pars, eurus, zephyrus, boreas, uel, auster",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,638.0,"quis, memoro, queo, fluuius, nomen, cunctus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,639.0,"non, tamen, sum, unus, mons, cognomen, ubique",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,640.0,"sed, uarius, flecto, uario, nomen, multus",6,"NaN, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,641.0,"singulus, sed, proprius, sum, nomen, nosco, colonia",7,"0.0, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,642.0,"nunc, igitur, gens, ille, populus, teneo",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,643.0,"qui, celeber, memoro, sed, felix, numen, adsum",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+priscian.perihegesis,644.0,"maeotae, primus, tango, maeotidis, unda",5,"NaN, 0.5, NaN, NaN, 0.0",0.1,0.0,,0.0
+priscian.perihegesis,645.0,"sauromataeque, trux, gens, asper, mars, in, arma",7,"NaN, NaN, 0.0, -0.5, NaN, NaN, 0.0",-0.071,-0.071,trux,0.143
+priscian.perihegesis,646.0,"sanguis, amazonidum, fortis, qui, profero, olim",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+priscian.perihegesis,647.0,"sauromatis, misceo, qui, thermodonte, relinquo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,648.0,"ingens, gigno, uir, bellus, potens",5,"-0.5, NaN, 0.5, 1.0, 1.0",0.4,-0.1,,0.0
+priscian.perihegesis,649.0,"innumerus, habito, qui, silua, gurges, uastus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,"gurges, uastus",0.333
+priscian.perihegesis,650.0,"inter, qui, tanais, maeotidis, intimo, pulso",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,651.0,"europe, -ne, fluuius, dirimo, asia, reflecto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,europe,0.167
+priscian.perihegesis,652.0,"europe, -ne, zephyris, asia, sub, pars, ortus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,europe,0.143
+priscian.perihegesis,653.0,"caucasiis, exeo, qui, fons, mons, altus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+priscian.perihegesis,654.0,"murmur, cum, uastus, scythiae, per, planum, refundo",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,"uastus, planum, refundo",0.429
+priscian.perihegesis,655.0,"hic, tamen, immensus, torreo, flumen, uerto",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.167
+priscian.perihegesis,656.0,"in, glacio, boreas, horreo, flamen, saeuus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,saeuus,0.167
+priscian.perihegesis,657.0,"heu, miser, homo, habito, qui, finis, ille",7,"NaN, -1.0, 0.0, NaN, NaN, 0.0, NaN",-0.143,-0.143,"heu, miser",0.286
+priscian.perihegesis,658.0,"aer, damno, tristis, nimius, rigor",5,"0.0, NaN, -1.0, NaN, NaN",-0.2,-0.2,"damno, nimius",0.4
+priscian.perihegesis,659.0,"quo, pereo, pecus, pariter, populus, uir",6,"NaN, NaN, NaN, NaN, 0.0, 0.5",0.083,0.0,,0.0
+priscian.perihegesis,660.0,"ni, properus, linquo, suus, rus, furo, eurus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,furo,0.143
+priscian.perihegesis,661.0,"hic, tanai, -ne, habito, fluuius, prope, sauromataris",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,662.0,"qui, sum, uicinus, sindi, quoque, cimmeriique",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,663.0,"post, hic, cercetii, iuxta, qui, euxinus, altus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,hic,0.143
+priscian.perihegesis,664.0,"fluctuo, aequor, neque, non, oretaeque, ferox",6,"NaN, 0.0, NaN, NaN, NaN, -1.0",-0.167,-0.167,ferox,0.167
+priscian.perihegesis,665.0,"et, qui, troianae, post, proelio, gens, achaei",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,666.0,"ascalaphi, rex, uictricia, signum, sequor",5,"NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,667.0,"dispulsi, uentus, iste, uenio, sub, ora",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,668.0,"post, hic, eniochi, gigno, qui, graecia, tellus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,669.0,"et, zygii, iuxta, uiuo, regio, sub, unus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,670.0,"intimo, sed, pontus, post, finis, tyndaridaris",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,671.0,"aegypto, mitto, colchi, teneo, colonus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,672.0,"caucasii, mons, prope, collis, et, caspia, pontus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,673.0,"litus, qui, celer, descendo, phasidis, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,674.0,"circaeosque, seco, campus, atque, aequor, pontus",6,"NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,675.0,"nascor, armenii, fluuius, qui, uertex, mons",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,676.0,"ad, qui, pars, boreas, et, sol, ad, ortus",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,677.0,"euxinum, dirimo, et, caspia, litus, latus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,678.0,"diffundo, spatium, per, longus, pando, isthmos",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,679.0,"qui, iuxta, terra, habito, orior, hiberes",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,680.0,"pyrene, quondam, celsus, qui, mons, relinquo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,681.0,"huc, aduenio, hyrcanis, bellum, fero",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,682.0,"hic, camaritaris, gens, sum, carus, baccho",6,"NaN, NaN, 0.0, NaN, 1.0, NaN",0.167,0.0,hic,0.167
+priscian.perihegesis,683.0,"fluctus, hic, propter, persaeuit, caspius, aestus",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.167
+priscian.perihegesis,684.0,"undique, qui, teres, concludo, margo, tellus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,685.0,"sed, mare, non, ualeo, tres, ille, mensis, ullus",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,686.0,"scilicet, immensus, nauis, transeo, profundo",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,687.0,"hic, tamen, exacuo, pars, unus, sub, axis, aequor",8,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,hic,0.125
+priscian.perihegesis,688.0,"qui, traho, refugus, misceo, tethyos, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,689.0,"multus, quidem, genero, uiuus, miraculum, res",6,"0.0, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,uiuus,0.167
+priscian.perihegesis,690.0,"sed, tamen, egregius, crystallion, pondus, gemma",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,691.0,"atque, malus, lemures, qui, pello, munus, iaspim",7,"NaN, -1.0, NaN, NaN, NaN, 0.5, NaN",-0.071,-0.143,,0.0
+priscian.perihegesis,692.0,"nocturnus, manes, fugito, quam, membrum, tueor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,693.0,"hic, igitur, pelagus, qui, gens, undique, cingo",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.143
+priscian.perihegesis,694.0,"incipio, numero, primus, aquilo, ab, ora",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+priscian.perihegesis,695.0,"qui, uergo, zephyro, qui, caspia, litus, claudo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,696.0,"primus, sum, scythiae, populus, saturnia, iuxta",6,"0.5, NaN, NaN, 0.0, NaN, NaN",0.083,0.0,,0.0
+priscian.perihegesis,697.0,"aequor, uiuo, hyrcanique, ostium, pontus",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,698.0,"qui, supra, grypes, diues, rus, smaragdinus",6,"NaN, NaN, NaN, 0.5, 0.0, NaN",0.083,0.0,,0.0
+priscian.perihegesis,699.0,"qual, non, alius, terra, possideo, orbis",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,700.0,"atque, aurum, sui, defendo, pondus, purus",6,"NaN, 0.5, NaN, NaN, NaN, 1.0",0.25,0.0,,0.0
+priscian.perihegesis,701.0,"omnis, sed, durus, supero, audacia, lucrum",6,"NaN, NaN, -0.5, NaN, 1.0, 0.5",0.167,-0.083,audacia,0.167
+priscian.perihegesis,702.0,"aduersus, uolucris, heu, commoueo, arma, uir",6,"NaN, NaN, NaN, NaN, 0.0, 0.5",0.083,0.0,heu,0.167
+priscian.perihegesis,703.0,"proelio, nam, facio, arimaspi, grypibus, hostis",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+priscian.perihegesis,704.0,"hic, et, crystallion, perluceo, maximus, moles",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+priscian.perihegesis,705.0,"hinc, thynus, sequor, post, fortis, caspia, proles",7,"NaN, NaN, NaN, NaN, 0.5, NaN, 0.0",0.071,0.0,,0.0
+priscian.perihegesis,706.0,"hinc, sum, albani, bellaces, martes, ferox",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,ferox,0.167
+priscian.perihegesis,707.0,"unde, canis, nascor, supero, genus, omnis, ferus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, -1.0",-0.143,-0.143,ferus,0.143
+priscian.perihegesis,708.0,"magnus, alexander, mitto, sui, uideo, inde",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,709.0,"uictor, barrique, canis, rabidus, leo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"rabidus, leo",0.4
+priscian.perihegesis,710.0,"post, hic, cadusi, durus, rus, colo",6,"NaN, NaN, NaN, -0.5, 0.0, NaN",-0.083,-0.083,hic,0.167
+priscian.perihegesis,711.0,"et, prope, sum, mardi, sequor, hyrcania, plebs",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,712.0,"hinc, apyri, post, qui, mardus, deuoluo, amnis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,deuoluo,0.143
+priscian.perihegesis,713.0,"dercibius, bibo, hic, praeter, bactrusque, fluo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+priscian.perihegesis,714.0,"per, qui, hyrcanum, curro, descendo, in, aequor",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,715.0,"sed, bactri, medius, habito, tellus, in, aruum",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,716.0,"parpessum, latus, prope, mons, rus, teneo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,717.0,"dercibii, uerus, sub, caspia, litus, uergo",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+priscian.perihegesis,718.0,"post, hic, massagetae, trans, flumen, araxis, ad, orior",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+priscian.perihegesis,719.0,"hospes, saeuus, cunctus, bellus, ferox",5,"0.0, -1.0, 0.0, 1.0, -1.0",-0.2,-0.4,"saeuus, ferox",0.4
+priscian.perihegesis,720.0,"non, bacchi, donum, cero, neque, munus, nosco",7,"NaN, NaN, 0.0, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+priscian.perihegesis,721.0,"sed, lac, commisceo, poto, cum, sanguis, equinus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,722.0,"hic, iuxta, uergo, boreas, chorasmia, proles",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.167
+priscian.perihegesis,723.0,"sugdias, hic, sequor, rapidus, quam, diuido, oxus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,724.0,"emodum, mons, qui, linquo, caspida, rumpo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,725.0,"inde, sacae, nimium, certus, gens, mirus, sagitta",7,"NaN, NaN, 0.0, 0.5, 0.0, 1.0, NaN",0.214,0.0,,0.0
+priscian.perihegesis,726.0,"flumen, iaxartem, iuxta, qui, aruum, colo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,727.0,"et, tocharis, phrurique, et, multus, mille, serus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,728.0,"ille, nullus, bos, pecus, neque, pascuus, cura",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+priscian.perihegesis,729.0,"uestis, uto, texunt, qui, flos, ipse",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,uestis,0.167
+priscian.perihegesis,730.0,"qui, tenuo, lectus, desero, finis, ager",6,"NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,731.0,"at, alius, scythiae, gens, sum, exter, per, aruum",8,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,732.0,"qui, prope, sum, tristis, uentus, et, frigor, terra",8,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, 0.0",-0.125,-0.125,,0.0
+priscian.perihegesis,733.0,"namque, nix, semper, pulso, hic, grando, misceo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,734.0,"caspius, hic, populus, lustro, pontus, et, ora",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.143
+priscian.perihegesis,735.0,"aspicio, post, colchos, nunc, et, post, phasidis, unda",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,736.0,"occasus, uersus, populus, in, litus, pontus",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,737.0,"euxini, densus, usque, ad, chalcedonis, os",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,738.0,"bosphorus, angusto, scopulus, qui, thracius, urgeo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,739.0,"byzeres, primus, qui, iuxta, terra, uechirum",6,"NaN, 0.5, NaN, NaN, 0.0, NaN",0.083,0.0,,0.0
+priscian.perihegesis,740.0,"macrones, post, hic, pariter, phyliresque, sequor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+priscian.perihegesis,741.0,"mossynique, domus, praebeo, quis, ligneus, tectum",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,ligneus,0.167
+priscian.perihegesis,742.0,"turris, arboreus, habito, unde, uoco",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,743.0,"hinc, pecus, diues, nimium, gens, sum, tibarenum",7,"NaN, NaN, 0.5, 0.0, 0.0, NaN, NaN",0.071,0.0,,0.0
+priscian.perihegesis,744.0,"hic, prope, sum, chalybes, durus, rus, colo",7,"NaN, NaN, NaN, NaN, -0.5, 0.0, NaN",-0.071,-0.071,hic,0.143
+priscian.perihegesis,745.0,"qui, labor, exerceo, saeuus, fero, metallum",6,"NaN, -0.5, NaN, -1.0, NaN, NaN",-0.25,-0.25,saeuus,0.167
+priscian.perihegesis,746.0,"uicinus, iste, campus, terra, pateo",5,"0.0, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,747.0,"assyrii, compleo, populus, qui, gurges, uastus",6,"NaN, NaN, 0.0, NaN, NaN, -1.0",-0.167,-0.167,"gurges, uastus",0.333
+priscian.perihegesis,748.0,"inter, amazonidas, thermodo, -ne, martius, amnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,749.0,"armenium, linquo, mons, descendo, in, aequor",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,750.0,"huc, asia, quondam, deuenio, alumnus, sinope",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,751.0,"ex, qui, cognomen, capio, moenia, clarus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+priscian.perihegesis,752.0,"ille, fluuius, rigida, prope, frigor, ripa",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,753.0,"inuenio, lapis, crystallion, pondus, purus",5,"NaN, 0.0, NaN, NaN, 1.0",0.2,0.0,,0.0
+priscian.perihegesis,754.0,"consimilemque, gelus, neque, non, splendor, niteo",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+priscian.perihegesis,755.0,"gemma, mico, illic, perluceo, iaspis, albus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,756.0,"iris, continuo, liquidus, decurro, in, aequor",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,757.0,"post, halys, sum, fluuius, boreas, qui, curro, in, ora",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,758.0,"atque, carambidis, irrumpo, prope, litus, pontus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,759.0,"armeniis, primus, qui, mons, accipio, unda",6,"NaN, 0.5, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+priscian.perihegesis,760.0,"paphlagones, post, hic, mariandynique, sequor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.2
+priscian.perihegesis,761.0,"bithynique, uir, pinguis, rus, colo",5,"NaN, 0.5, NaN, 0.0, NaN",0.1,0.0,,0.0
+priscian.perihegesis,762.0,"qui, rhebas, pulcher, gratus, flumen, uolo",6,"NaN, NaN, 1.0, 1.0, NaN, NaN",0.333,0.0,,0.0
+priscian.perihegesis,763.0,"rhebas, qui, rapidus, decurro, ad, ostium, pontus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,764.0,"tot, populus, terra, habito, per, litus, pontus",7,"NaN, 0.0, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,765.0,"nam, prior, expono, scythiae, sum, semen, gens",7,"NaN, 0.5, NaN, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+priscian.perihegesis,766.0,"nunc, asia, regius, contingo, litus, nos",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,767.0,"dico, pars, calida, qui, curro, ad, auster",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,768.0,"atque, hellespontum, transeo, syriaeque, recedo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,769.0,"posco, et, arrabiam, qui, floreo, uber, terra",7,"NaN, NaN, NaN, NaN, NaN, 1.0, 0.0",0.143,0.0,,0.0
+priscian.perihegesis,770.0,"sum, chalcedonii, primus, post, ostium, pontus",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,,0.0
+priscian.perihegesis,771.0,"moenia, byzantis, qui, cerno, bonus, contra",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+priscian.perihegesis,772.0,"romanisque, pius, regnum, dominor, mundus",5,"NaN, NaN, 0.0, NaN, 1.0",0.2,0.0,,0.0
+priscian.perihegesis,773.0,"bebrycii, post, hic, et, mysia, mons, altus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,hic,0.143
+priscian.perihegesis,774.0,"qui, cius, egregius, decurro, murmurat, unda",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,775.0,"qui, nympha, perhibeo, comes, rapio, possum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,776.0,"alcidae, puer, tristis, fatum, gemo",5,"NaN, 0.0, -1.0, 0.0, NaN",-0.2,-0.2,alcidae,0.2
+priscian.perihegesis,777.0,"hinc, hellespontum, protendo, angulus, ingens",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,,0.0
+priscian.perihegesis,778.0,"qui, breuis, phrygiae, pars, sum, nam, latus, intus",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,779.0,"sangarii, ripa, fluuius, uicinus, rapax",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,780.0,"tendo, hic, pono, titanis, pinguis, ad, ortus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,781.0,"alter, ad, occido, alo, sub, mons, idas",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,occido,0.143
+priscian.perihegesis,782.0,"ilia, qui, cado, praeclarus, nomen, terra",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,783.0,"ad, xanthos, liquidus, neque, non, simoentis, ad, unda",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,784.0,"post, hic, aeoliae, tellus, protendo, ora",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+priscian.perihegesis,785.0,"fluctus, aegaei, primus, qui, tundo, alo",6,"0.0, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+priscian.perihegesis,786.0,"inde, teneo, terra, pelagus, prope, sanguis, ionum",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,787.0,"per, qui, maeander, pinguis, descendo, in, aequor",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,788.0,"inter, miletum, curro, fero, priene, -ne",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,789.0,"ad, latus, iste, boreum, sum, moenia, clarus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+priscian.perihegesis,790.0,"urbs, ephesus, claudo, quam, gratus, litus, pontus",7,"0.5, NaN, NaN, NaN, 1.0, NaN, 0.0",0.214,0.0,,0.0
+priscian.perihegesis,791.0,"post, hic, maeoniae, tellus, qui, uergo, ad, ortus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+priscian.perihegesis,792.0,"et, tmoli, collis, fluuius, qui, aurifer, exeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,793.0,"pactolus, qui, prope, ripa, tempus, uernus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,794.0,"si, sedeo, dulcis, capiaris, pectus, cantus",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,,0.0
+priscian.perihegesis,795.0,"cygnorum, pascor, qui, herba, flumen, circum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,796.0,"nam, floreo, asia, per, campus, multus, pratum",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,797.0,"sed, magis, ad, fluuius, maeandri, gurges, mitis",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,gurges,0.143
+priscian.perihegesis,798.0,"qui, iuxta, uoluo, sui, murmurat, unda, caystri",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,799.0,"post, hic, sum, lycii, qui, xanthus, diuido, amnis",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+priscian.perihegesis,800.0,"ad, mare, uergo, qui, taurus, cornu, cerno",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,801.0,"usque, ad, pamphylos, perhibeo, qui, nomen, cragum",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,802.0,"illic, aspicio, aspendum, moenia, qui",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,803.0,"eurymedo, -ne, amnis, rado, uicinus, profundo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,804.0,"continuo, iaceo, alius, pamphylides, urbs",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,iaceo,0.2
+priscian.perihegesis,805.0,"corycium, pergeque, caleo, et, celsus, phaselis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,806.0,"hic, supra, medius, habito, tellus, in, aruum",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.143
+priscian.perihegesis,807.0,"ad, pars, ortus, gens, durus, lycaon, arma",7,"NaN, 0.0, NaN, 0.0, -0.5, NaN, 0.0",-0.071,-0.071,,0.0
+priscian.perihegesis,808.0,"post, hic, pisidum, pinguis, rus, colo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.167
+priscian.perihegesis,809.0,"telmessus, lyrbe, neque, non, clarus, selge",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+priscian.perihegesis,810.0,"gens, amyclaeae, pulcher, moenia, quondam",5,"0.0, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+priscian.perihegesis,811.0,"hinc, sinus, sum, longus, cilicum, qui, uergo, ad, ortus",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,812.0,"euxini, penetro, uicina, aequor, ora",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,813.0,"hic, asia, perhibeo, angustus, pars, sum",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.167
+priscian.perihegesis,814.0,"qui, tamen, immensus, fluuius, sui, gurges, misceo",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,gurges,0.143
+priscian.perihegesis,815.0,"per, longus, pyramus, spatium, pinarusque, uoluo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,816.0,"flexilis, et, cydnus, dirimo, qui, flumen, tarso, -ne",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,817.0,"hinc, alius, cilicum, sum, celsus, moenia, urbs",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+priscian.perihegesis,818.0,"lyrnesus, mallosque, simul, uicinus, profundo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,819.0,"atque, solus, medium, terra, finis, loco",6,"NaN, -0.5, NaN, 0.0, 0.0, NaN",-0.083,-0.083,,0.0
+priscian.perihegesis,820.0,"commagenum, dehinc, regius, syriaeque, sequor",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,821.0,"urbes, dispono, per, longus, litus, flecto",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,822.0,"nam, casii, mons, qui, promineo, os, per, aequor",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,823.0,"uergo, in, occido, diffundo, tractus, unda",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,occido,0.167
+priscian.perihegesis,824.0,"nunc, reliquus, asia, pars, tu, carmen, pando",7,"NaN, 0.0, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,tu,0.143
+priscian.perihegesis,825.0,"quadro, lateo, qui, claudo, undique, forma",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+priscian.perihegesis,826.0,"et, spatium, campus, longus, protendo, in, orior",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,827.0,"scio, etenim, memoro, tu, qui, collis, altus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,tu,0.143
+priscian.perihegesis,828.0,"per, totus, medius, mons, ingens, tendo, actus",7,"NaN, NaN, 0.0, NaN, -0.5, NaN, NaN",-0.071,-0.071,,0.0
+priscian.perihegesis,829.0,"qui, finis, asia, niger, produco, ad, indus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,830.0,"hic, sum, latus, boreum, tu, nilus, ad, ora",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.25
+priscian.perihegesis,831.0,"hesperies, finio, sed, tethys, sol, ab, ortus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,832.0,"indico, concludo, rubrus, mare, termino, auster",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,833.0,"aspicio, nunc, igitur, dum, finis, uersus, ortus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,834.0,"peruenio, retegens, tu, uerus, omnis, res",6,"NaN, NaN, NaN, 0.5, NaN, 0.0",0.083,0.0,tu,0.167
+priscian.perihegesis,835.0,"incipio, syriae, terra, qui, pars, reliquus",6,"NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,836.0,"qui, pelagus, supra, sub, sol, uergo, et, auster",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,837.0,"urbibus, et, multus, habito, nomen, priscus",6,"NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,838.0,"qui, cauus, uulgo, medius, quia, collis, altus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.5",0.071,0.0,,0.0
+priscian.perihegesis,839.0,"atque, humilis, libanus, claudo, protentus, in, orior",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,humilis,0.143
+priscian.perihegesis,840.0,"occido, peto, cado, multa, uir",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,occido,0.2
+priscian.perihegesis,841.0,"incolo, populus, locupletibus, almus, diremptis",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,842.0,"namque, alius, medius, habito, tellus, in, aruum",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,843.0,"hic, syrus, proprius, perhibeo, sed, litus, iuxta",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.143
+priscian.perihegesis,844.0,"phoenix, uiuo, uetus, cognomen, dictum",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,845.0,"qui, mitto, quondam, mare, rubrus, laus, augeo",7,"NaN, NaN, NaN, 0.0, NaN, 1.0, NaN",0.143,0.0,,0.0
+priscian.perihegesis,846.0,"chaldaeo, nimium, decoro, sanguis, gens",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,847.0,"arcanisque, deus, celebro, lex, unus",5,"NaN, 0.0, NaN, 0.5, NaN",0.1,0.0,,0.0
+priscian.perihegesis,848.0,"qui, pelagus, primus, tento, nauis, altus",6,"NaN, NaN, 0.5, NaN, 0.0, 0.5",0.167,0.0,,0.0
+priscian.perihegesis,849.0,"disiungo, gens, doceo, iungo, merx",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,850.0,"et, primus, stella, numerus, nomen, do",6,"NaN, 0.5, NaN, NaN, 0.0, NaN",0.083,0.0,,0.0
+priscian.perihegesis,851.0,"atque, oculus, mirus, uox, sentio, figura",6,"NaN, 0.0, 1.0, 0.0, NaN, NaN",0.167,0.0,,0.0
+priscian.perihegesis,852.0,"hic, murus, iopes, gaza, quoque, elaida, compleo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,853.0,"antiquus, tyrum, beryti, et, moenia, gratus",6,"0.0, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+priscian.perihegesis,854.0,"uicinamque, mare, byblum, sidonaque, pulcher",5,"NaN, 0.0, NaN, NaN, 1.0",0.2,0.0,,0.0
+priscian.perihegesis,855.0,"quam, iuxta, liquidus, bostrenus, gurges, curro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,gurges,0.167
+priscian.perihegesis,856.0,"et, pinguis, tripolim, neque, non, orthosida, sacer",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+priscian.perihegesis,857.0,"laodice, -ne, pariter, pono, prope, litus, amoenus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,858.0,"et, posidi, turris, et, daphne, bonus, tempe",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+priscian.perihegesis,859.0,"terra, medius, apameae, moenia, clarus",5,"0.0, 0.0, NaN, NaN, 0.5",0.1,0.0,,0.0
+priscian.perihegesis,860.0,"ad, qui, pars, eoas, curro, orontes",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,861.0,"antiochi, medius, dirimo, qui, gurges, regnum",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,gurges,0.167
+priscian.perihegesis,862.0,"hic, omnis, pinguis, tellus, sum, uber, laetus",7,"NaN, NaN, NaN, NaN, NaN, 1.0, 1.0",0.286,0.0,hic,0.143
+priscian.perihegesis,863.0,"arbor, pariter, pecus, et, commodus, uitium",6,"NaN, NaN, NaN, NaN, 0.5, -1.0",-0.083,-0.167,,0.0
+priscian.perihegesis,864.0,"ad, qui, finis, uenio, qui, termino, auster",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,865.0,"arrabii, cerno, extremus, litus, pontus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,866.0,"qui, syria, medius, distermino, arrabiamque",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,867.0,"et, tango, uergo, orior, uersus, elanos",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,868.0,"diues, arabs, post, qui, fero, possideo, aruum",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+priscian.perihegesis,869.0,"qui, protentus, diu, cingo, ab, aequor, partho",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,870.0,"arrabioque, ferio, zephyrus, qui, flamen, saeuus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,saeuus,0.167
+priscian.perihegesis,871.0,"persica, nam, flo, euroi, litus, turbo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,872.0,"os, sed, hic, auster, tendo, subiectum, per, ortus",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.125
+priscian.perihegesis,873.0,"fluctus, oceani, pulso, et, undique, rubrus",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,874.0,"hic, quoque, describo, tenuis, ratio, recenseo",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,hic,0.167
+priscian.perihegesis,875.0,"nam, populus, pasco, felix, diues, terra",6,"NaN, 0.0, NaN, 1.0, 0.5, 0.0",0.25,0.0,,0.0
+priscian.perihegesis,876.0,"flos, et, uarius, miraculum, praebeo, odor",6,"0.5, NaN, 0.0, NaN, NaN, 0.0",0.083,0.0,,0.0
+priscian.perihegesis,877.0,"namque, thyo, smyrnaque, uigeo, cum, tus, honor",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+priscian.perihegesis,878.0,"et, casia, neque, non, et, canna, dulcis, odor",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, 0.0",0.062,0.0,,0.0
+priscian.perihegesis,879.0,"cinnama, praeterea, iucundus, naris, aura",5,"NaN, NaN, 1.0, NaN, 1.0",0.4,0.0,cinnama,0.2
+priscian.perihegesis,880.0,"fertilis, hic, genero, tellus, aurum, metallum",6,"1.0, NaN, NaN, NaN, 0.5, NaN",0.25,0.0,hic,0.167
+priscian.perihegesis,881.0,"uestis, auro, quare, gens, uto, ille",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,uestis,0.167
+priscian.perihegesis,882.0,"hic, puer, seruo, molochites, splendeo, harena",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.167
+priscian.perihegesis,883.0,"androdamasque, lapis, compesco, pectus, ira",5,"NaN, 0.0, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+priscian.perihegesis,884.0,"sed, libani, mons, sum, post, decliue, primus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+priscian.perihegesis,885.0,"felix, ops, nabatei, nomen, dictum",5,"1.0, 0.0, NaN, 0.0, 0.0",0.2,0.0,,0.0
+priscian.perihegesis,886.0,"chaulasii, post, hic, atque, agrees, inde, propinquo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,887.0,"chatramis, atque, macae, contra, sum, persido, aequor",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,888.0,"minnaeique, mare, prope, rubrus, litus, uiuo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,889.0,"atque, sabae, post, hic, neque, non, habito, cletabani",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+priscian.perihegesis,890.0,"arrabiae, populus, celeber, hic, nomen, clarus",6,"NaN, 0.0, NaN, NaN, 0.0, 0.5",0.083,0.0,hic,0.167
+priscian.perihegesis,891.0,"sum, tamen, et, multus, alius, nam, maximus, tellus",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,892.0,"trans, iste, zephyrus, sub, pars, dego, erembum",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,893.0,"spelunca, genus, infelix, et, res, egenus",6,"0.0, 0.0, -1.0, NaN, 0.0, NaN",-0.167,-0.167,infelix,0.167
+priscian.perihegesis,894.0,"qui, sol, radius, nigresco, corpus, aduro",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,895.0,"dis-permulceo, doleo, lustro, mos, ferus",5,"NaN, NaN, NaN, 0.5, -1.0",-0.1,-0.2,ferus,0.2
+priscian.perihegesis,896.0,"non, aro, similis, opulentus, scilicet, aequus",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+priscian.perihegesis,897.0,"omnis, sum, possum, numquam, fortuna, bonus",6,"NaN, NaN, NaN, NaN, 0.0, 1.0",0.167,0.0,,0.0
+priscian.perihegesis,898.0,"post, libani, mons, populus, sum, sol, ad, ortus",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,899.0,"alter, syriae, qui, tendo, adusque, sinope, -ne",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,900.0,"cappadoces, medius, habito, in, finis, hic",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.167
+priscian.perihegesis,901.0,"terminus, assyrios, sed, claudo, ponticus, ille",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,902.0,"thermodo, -ne, pelagus, qui, pulso, gurges, fluctus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,gurges,0.143
+priscian.perihegesis,903.0,"qui, ab, eous, decurro, limes, uastus",6,"NaN, NaN, NaN, NaN, 0.0, -1.0",-0.167,-0.167,uastus,0.167
+priscian.perihegesis,904.0,"uis, euphrates, descendo, mons, aspris",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+priscian.perihegesis,905.0,"armeniae, longus, nosco, -ne, pertendo, et, inde",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,906.0,"ad, sol, flecto, babylonis, diuido, urbs",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+priscian.perihegesis,907.0,"litus, deinde, ruo, perrumpo, persido, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,908.0,"exter, fluuius, sub, pars, teredona, rado",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,909.0,"hic, ad, aurora, ripa, deuoluo, altus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,"hic, deuoluo",0.333
+priscian.perihegesis,910.0,"tigris, aqua, supero, qui, flumen, nullus, rapax",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,911.0,"sed, tantus, disto, quantus, uix, septimus, ortus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,912.0,"confacio, pes, spatium, propero, eo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,913.0,"atque, lacus, medius, thosiges, intro, et, exeo",7,"NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,914.0,"neque, uiolo, aqua, quamuis, penetrabilis, ille",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,uiolo,0.167
+priscian.perihegesis,915.0,"ocior, atque, uadum, emergo, cedo, amaris",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uadum,0.167
+priscian.perihegesis,916.0,"hic, tamen, omnis, solus, fluuius, qui, cingo, uterque",8,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.062,-0.062,hic,0.125
+priscian.perihegesis,917.0,"indigena, populus, pro, res, dico, medamnam",6,"0.0, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,918.0,"qui, medius, amnis, hic, terra, flumen, cingo",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.143
+priscian.perihegesis,919.0,"agricola, pariter, pastor, atque, ferax",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+priscian.perihegesis,920.0,"ubere, nam, laeto, floreo, ibi, semen, cunctus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,921.0,"herba, torus, et, gramen, laetus, uiresco",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+priscian.perihegesis,922.0,"et, uarius, ramus, compleo, fructus, alo",6,"NaN, 0.0, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+priscian.perihegesis,923.0,"gens, quoque, praefulgeo, claris, in, laus, ille",7,"0.0, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+priscian.perihegesis,924.0,"nam, pario, multus, celsus, uirtus, potens",6,"NaN, NaN, 0.0, NaN, 1.0, 1.0",0.333,0.0,,0.0
+priscian.perihegesis,925.0,"atque, deus, similis, licet, ut, mortalis, sum",7,"NaN, 0.0, 0.0, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+priscian.perihegesis,926.0,"armenii, iuxta, quam, sum, aquilo, ad, axis",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,927.0,"comminus, et, fortis, qui, sentio, mars, matieni",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+priscian.perihegesis,928.0,"qui, prope, concludo, euphrate, -ne, collis, altus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+priscian.perihegesis,929.0,"mons, diuitiae, pariter, bellus, potens",5,"NaN, 0.5, NaN, 1.0, 1.0",0.5,0.0,,0.0
+priscian.perihegesis,930.0,"ad, pars, auster, babylo, -ne, quam, moenia, olim",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,931.0,"mirandis, pono, firmus, semiramis, urbs",5,"NaN, NaN, 1.0, NaN, 0.5",0.3,0.0,,0.0
+priscian.perihegesis,932.0,"qui, in, arx, domus, splendeo, facio, aurum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.5",0.071,0.0,,0.0
+priscian.perihegesis,933.0,"quam, simul, argentum, uarius, decoro, ebur",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,934.0,"hic, quoque, pinguis, solus, palmaris, diues, silua",7,"NaN, NaN, NaN, -0.5, NaN, 0.5, NaN",0.0,-0.071,hic,0.143
+priscian.perihegesis,935.0,"qui, fero, beryllus, munus, pretiosus, aurum",6,"NaN, NaN, NaN, 0.5, NaN, 0.5",0.167,0.0,pretiosus,0.167
+priscian.perihegesis,936.0,"beryllus, lapis, liquidus, glaucus, color",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,glaucus,0.2
+priscian.perihegesis,937.0,"per, locum, qui, tendo, asianae, ad, moenia, petra",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,938.0,"at, supra, babylona, uideo, ad, flamen, uastus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,uastus,0.143
+priscian.perihegesis,939.0,"cissos, massabatasque, chalonitasque, ferox",4,"NaN, NaN, NaN, -1.0",-0.25,-0.25,ferox,0.25
+priscian.perihegesis,940.0,"armenios, mons, si, linquo, eo, ad, ortus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,941.0,"medico, nosco, tu, tellus, qui, ad, axis",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+priscian.perihegesis,942.0,"gelis, sum, mardique, uir, simul, atropateni",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+priscian.perihegesis,943.0,"ad, nosco, -ne, inclino, medus, rus, teneo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,944.0,"medea, hic, fugio, do, cognomino, terra",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"medea, hic",0.333
+priscian.perihegesis,945.0,"hinc, medus, uarius, utor, nosco, uenenum",6,"NaN, NaN, 0.0, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+priscian.perihegesis,946.0,"qui, per, multus, spatium, diffundo, ora",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,947.0,"hic, genero, narcissite, -ne, orior, sub, ipse",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+priscian.perihegesis,948.0,"qui, lapis, sum, fuscus, compleo, hic, undique, silua",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.125
+priscian.perihegesis,949.0,"inter, qui, homo, pecuaria, diues, pascor",6,"NaN, NaN, 0.0, NaN, 0.5, NaN",0.083,0.0,,0.0
+priscian.perihegesis,950.0,"caspiadas, tango, porta, qui, sol, ab, ortus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,951.0,"rupes, hic, celsus, asia, sum, claustra, possum",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.143
+priscian.perihegesis,952.0,"qui, uia, sub, boreas, duplex, sui, scindo, et, auster",9,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,953.0,"hic, rego, ad, permulceo, hyrcanos, duco, at, ille",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, permulceo",0.25
+priscian.perihegesis,954.0,"sub, collis, imi, habito, post, caspia, claustra",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,955.0,"martia, gens, parthi, telum, arcus, potens",6,"NaN, 0.0, NaN, NaN, NaN, 1.0",0.167,0.0,parthi,0.167
+priscian.perihegesis,956.0,"uiuo, qui, spolium, gaudeo, rapio, nefandus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,nefandus,0.167
+priscian.perihegesis,957.0,"qui, propter, bellum, homo, uexo, in, orbis",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,uexo,0.143
+priscian.perihegesis,958.0,"atque, opto, pereo, multus, pax, sanguis, mundus",7,"NaN, NaN, NaN, 0.0, 0.5, NaN, 1.0",0.214,0.0,,0.0
+priscian.perihegesis,959.0,"post, hic, sum, permulceo, circumdo, mons, altus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,"hic, permulceo",0.286
+priscian.perihegesis,960.0,"assiduus, floreo, regnum, et, diues, census",6,"0.5, NaN, 0.0, NaN, 0.5, 0.0",0.167,0.0,,0.0
+priscian.perihegesis,961.0,"ex, quo, perdomo, lydorum, moenia, sardis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,962.0,"cingo, excello, hic, undique, collis, omnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+priscian.perihegesis,963.0,"aduergens, auster, post, caspia, claustra, peto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,964.0,"qui, proprius, pelagus, celebro, cognomen, latus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,965.0,"atque, tripertitis, habito, finis, ille",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,966.0,"namque, colo, alius, rigida, sub, pars, arceo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,967.0,"terra, qui, medus, nemorosus, mons, umbrant",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,968.0,"at, alius, medius, uiuo, regio, in, aruum",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,969.0,"litus, posterus, tango, australia, permulceo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,permulceo,0.2
+priscian.perihegesis,970.0,"primus, pars, sabae, medius, pasargada, post, hic",7,"0.5, 0.0, NaN, 0.0, NaN, NaN, NaN",0.071,0.0,hic,0.143
+priscian.perihegesis,971.0,"tascorum, telum, habito, gens, fortis, et, arcus",7,"NaN, NaN, NaN, 0.0, 0.5, NaN, NaN",0.071,0.0,,0.0
+priscian.perihegesis,972.0,"quisque, teneo, populus, diuido, persido, ager",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,973.0,"amnis, hic, multus, recreo, et, uber, pinguis",7,"NaN, NaN, 0.0, NaN, NaN, 1.0, NaN",0.143,0.0,hic,0.143
+priscian.perihegesis,974.0,"hinc, coros, immensus, profundo, inde, choaspes",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,975.0,"fons, cado, indo, qui, stringo, gurges, susas",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,gurges,0.143
+priscian.perihegesis,976.0,"in, qui, ripa, praeclarus, fulgeo, achates",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,977.0,"pondus, consimilis, uolo, qui, unda, cylindris",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,978.0,"fertilis, hic, tellus, fecundus, pascor, auris",6,"1.0, NaN, NaN, 1.0, NaN, NaN",0.333,0.0,hic,0.167
+priscian.perihegesis,979.0,"nam, uentus, semper, floresco, rus, secundus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,980.0,"hic, idem, gemma, nimium, decoro, honestus",6,"NaN, NaN, NaN, 0.0, NaN, 1.0",0.167,0.0,"hic, honestus",0.333
+priscian.perihegesis,981.0,"qui, quis, uario, uis, quis, nomen, dico",7,"NaN, NaN, NaN, 1.0, NaN, 0.0, NaN",0.143,0.0,,0.0
+priscian.perihegesis,982.0,"tecolithum, memoro, iustus, cognomen, dico",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+priscian.perihegesis,983.0,"qui, lapis, renum, tero, potus, resoluo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,984.0,"myrrhitenue, bonus, nardus, cum, reddo, odor",6,"NaN, 1.0, NaN, NaN, NaN, 0.0",0.167,0.0,,0.0
+priscian.perihegesis,985.0,"hic, aetites, sum, sonitus, qui, spiritus, addo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.143
+priscian.perihegesis,986.0,"arcanus, crepito, praegno, utilis, ille",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,crepito,0.2
+priscian.perihegesis,987.0,"neque, non, pyrites, digitus, qui, stringo, aduro",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,988.0,"gemmo, qui, radius, emitto, candidus, sol",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,989.0,"atque, selenites, lunaris, imago, lucus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,990.0,"qui, decus, et, minuo, proprius, splendor, et, augeo",8,"NaN, NaN, NaN, NaN, 0.0, 1.0, NaN, NaN",0.125,0.0,,0.0
+priscian.perihegesis,991.0,"respicio, nunc, reliquus, asia, sub, finis, ora",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,992.0,"persido, ad, pontus, carmani, sol, ab, ortus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,993.0,"litus, pars, habito, medius, pars, limen, terra",7,"NaN, 0.0, NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,994.0,"gedrossi, post, hic, tendo, orior, ad, ignis",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+priscian.perihegesis,995.0,"oceanus, iuxta, radius, propioribus, inde",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,996.0,"sum, scythiae, tellus, austral, flumen, ad, indum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,997.0,"qui, pontus, rapidus, rubrus, contrarius, exeo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,998.0,"gurges, nam, celer, rectus, decurro, ad, auster",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,gurges,0.143
+priscian.perihegesis,999.0,"caucasiis, orior, primus, de, mons, altus",6,"NaN, NaN, 0.5, NaN, NaN, 0.5",0.167,0.0,,0.0
+priscian.perihegesis,1000.0,"diuidua, qui, patalene, cingo, unda",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,1001.0,"separo, innumerus, et, uastus, gurges, gens",6,"NaN, NaN, NaN, -1.0, NaN, 0.0",-0.167,-0.167,"uastus, gurges",0.333
+priscian.perihegesis,1002.0,"ad, pars, rapidus, quam, uergo, lumen, sol",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,1003.0,"orites, aribasque, simul, linum, arachotas",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,1004.0,"utentes, laena, et, satraidas, simul, omnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,1005.0,"parpanisi, mons, sub, celsus, rupes, arienos",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,1006.0,"nomen, communis, qui, terra, uber, nullus",6,"0.0, 0.0, NaN, 0.0, 1.0, NaN",0.167,0.0,,0.0
+priscian.perihegesis,1007.0,"floreo, habito, squaleo, nam, sentis, aspris",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,1008.0,"curalli, lapis, qui, rubrus, litus, carpo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,1009.0,"sapphirique, decus, niger, flauique, color",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,1010.0,"saxum, caedo, uena, hic, merce, beati",6,"0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.167
+priscian.perihegesis,1011.0,"indorum, terra, hinc, tethyos, aequor, claudo",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,1012.0,"qui, primus, titan, ascendo, lumen, cerno",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+priscian.perihegesis,1013.0,"unde, color, populus, niger, sum, flagro, ortus",7,"NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,1014.0,"atque, gero, similis, hyacinthus, frons, capillus",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,capillus,0.167
+priscian.perihegesis,1015.0,"effodio, alius, terra, aurum, metallum",5,"NaN, NaN, 0.0, 0.5, NaN",0.1,0.0,,0.0
+priscian.perihegesis,1016.0,"at, alius, texunt, tenuis, tegimen, linum",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,1017.0,"uel, dens, stringo, elephantus, ab, os, reuulsos",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,1018.0,"scrutor, ripa, alius, torreo, imber",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,1019.0,"beryllus, gemma, glaucus, nitidus, adamanta",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,glaucus,0.2
+priscian.perihegesis,1020.0,"atque, aura, uiridis, lego, qui, splendeo, iaspis",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+priscian.perihegesis,1021.0,"curallique, decus, liquidus, gratus, topazos",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+priscian.perihegesis,1022.0,"purpureus, amethystus, insum, suffundo, color",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,1023.0,"diuitiae, magnus, sic, tellus, ille, ministro",6,"0.5, 0.0, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+priscian.perihegesis,1024.0,"assiduisque, rigo, hic, totus, fons, amnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+priscian.perihegesis,1025.0,"arbor, uigeo, uarius, milioque, frequens",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,1026.0,"et, pretium, rubrae, perfloret, harundo, ille",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,pretium,0.167
+priscian.perihegesis,1027.0,"hic, alius, supero, procerus, corpus, tantus",6,"NaN, NaN, NaN, 0.5, 0.0, NaN",0.083,0.0,hic,0.167
+priscian.perihegesis,1028.0,"insiliant, eques, facilis, ut, mos, elephantus",6,"NaN, 0.0, 0.5, NaN, 0.5, NaN",0.167,0.0,,0.0
+priscian.perihegesis,1029.0,"at, alius, uiuo, sapio, pectus, nudus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,1030.0,"lumen, uideo, rectus, mirabilis, sol",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+priscian.perihegesis,1031.0,"et, radius, oculus, et, sacer, mens, retracto",7,"NaN, NaN, 0.0, NaN, 1.0, 0.5, NaN",0.214,0.0,,0.0
+priscian.perihegesis,1032.0,"signo, concipio, arcanus, lux, sum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,1033.0,"psittacus, hic, uiridis, decoro, torquis, rubeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+priscian.perihegesis,1034.0,"nascor, humanus, simulo, qui, uerbero, lingua",6,"NaN, 0.0, NaN, NaN, NaN, -0.5",-0.083,-0.083,uerbero,0.167
+priscian.perihegesis,1035.0,"nunc, ago, tu, fluuius, mons, forma, doceo",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,tu,0.143
+priscian.perihegesis,1036.0,"ipse, terra, populus, gens, beatus",5,"NaN, 0.0, 0.0, 0.0, 1.0",0.2,0.0,,0.0
+priscian.perihegesis,1037.0,"margo, terni, tellus, hic, claudo, omnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+priscian.perihegesis,1038.0,"obliquo, latus, per, cunctus, lineus, pars",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,1039.0,"hesperios, finis, immanis, termino, indus",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,immanis,0.2
+priscian.perihegesis,1040.0,"at, notius, pelagus, concludo, gurges, rubrus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,gurges,0.167
+priscian.perihegesis,1041.0,"sed, ganges, ortus, et, caucasus, excipio, arceo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,ganges,0.143
+priscian.perihegesis,1042.0,"hic, homo, habito, multus, diues, colo",6,"NaN, 0.0, NaN, 0.0, 0.5, NaN",0.083,0.0,hic,0.167
+priscian.perihegesis,1043.0,"nomen, uarius, discerno, et, finis, amplus",6,"0.0, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,1044.0,"dardanei, ripa, contingo, flumen, indo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,1045.0,"hic, ubi, praecipito, scopulus, fundo, acesinem",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.167
+priscian.perihegesis,1046.0,"huncque, capax, classis, uenio, uolo, hydaspes",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,classis,0.167
+priscian.perihegesis,1047.0,"tertius, hic, sequor, splendeo, gurges, cophes",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, gurges",0.333
+priscian.perihegesis,1048.0,"taxilus, inter, qui, habito, cum, gens, sibaris",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,1049.0,"hinc, scodri, post, hic, sum, peucaleique, ferox",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,"hic, ferox",0.286
+priscian.perihegesis,1050.0,"gargaridaeque, trux, aurum, qui, pondus, honestus",6,"NaN, NaN, 0.5, NaN, NaN, 1.0",0.25,0.0,"trux, honestus",0.333
+priscian.perihegesis,1051.0,"deuoluens, hypanisque, traho, rapidus, magarsus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,1052.0,"qui, capio, emodo, mitto, gangetica, mons",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,1053.0,"tellus, porrigo, qui, ad, terra, colidis, auster",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,1054.0,"oceani, tango, pelagus, sub, collis, altus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+priscian.perihegesis,1055.0,"qui, uolucris, metuo, celer, contingo, penna",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,1056.0,"unde, locus, graii, pono, nomen, aornis",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,1057.0,"hic, uia, quam, celebro, nomen, dionysia, bacchi",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.143
+priscian.perihegesis,1058.0,"qui, statua, do, uictoria, finis, ille",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,1059.0,"hic, tylos, sum, supero, uastus, miraculum, terra",7,"NaN, NaN, NaN, NaN, -1.0, NaN, 0.0",-0.143,-0.143,"hic, uastus",0.286
+priscian.perihegesis,1060.0,"insula, namque, uireo, cunctus, in, pars, annus",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,1061.0,"neque, folium, nudo, ramus, auctumnus, in, ille",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,1062.0,"assiduus, teneo, floreo, genus, arbor, omnis",6,"0.5, NaN, NaN, 0.0, NaN, NaN",0.083,0.0,,0.0
+priscian.perihegesis,1063.0,"hic, adamo, fulgeo, lymphantia, pectus, sano",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+priscian.perihegesis,1064.0,"et, prohibeo, miser, occulo, damno, uenenum",6,"NaN, NaN, -1.0, NaN, NaN, -0.5",-0.25,-0.25,"miser, damno",0.333
+priscian.perihegesis,1065.0,"qui, paruus, ualeo, ferrum, supero, neque, ignis",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,1066.0,"frango, hircinus, macero, sanguis, tantus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+priscian.perihegesis,1067.0,"sed, tepidus, frango, multus, incus, ante",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,1068.0,"hic, iuxta, pono, magnes, -ne, uis, arceo",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,hic,0.143
+priscian.perihegesis,1069.0,"occulo, fero, rapio, uel, tractus, ante",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,1070.0,"admoueo, retraho, defendo, robur, miro",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+priscian.perihegesis,1071.0,"hic, lychnus, lux, simulo, splendor, lucerna",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,hic,0.167
+priscian.perihegesis,1072.0,"hinc, mereo, nomen, praeclarus, lumen, dignus",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,,0.0
+priscian.perihegesis,1073.0,"tot, sum, per, terra, uulgo, nomen, gens",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,1074.0,"nam, reliquus, qui, mens, ualeo, mortalis, in, orbis",8,"NaN, 0.0, NaN, 0.5, NaN, -1.0, NaN, NaN",-0.062,-0.125,,0.0
+priscian.perihegesis,1075.0,"dis-permulceo, numeraris, tu, sine, numen, magnus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.167
+priscian.perihegesis,1076.0,"qui, bene, dispono, terra, pontus, profundum",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,profundum,0.167
+priscian.perihegesis,1077.0,"sidus, uarius, decoro, caelestis, templum",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,1078.0,"et, multus, recreo, gratisque, color, aruum",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+priscian.perihegesis,1079.0,"munus, per, populus, tribuo, diuerto, uir",6,"0.5, NaN, 0.0, NaN, NaN, 0.5",0.167,0.0,,0.0
+priscian.perihegesis,1080.0,"sed, tu, terra, traho, gaudeo, per, aeuum",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.143
+priscian.perihegesis,1081.0,"et, quicumque, mare, circumdo, insula, uastus",6,"NaN, NaN, 0.0, NaN, NaN, -1.0",-0.167,-0.167,uastus,0.167
+priscian.perihegesis,1082.0,"oceanusque, simul, neque, non, penetrabilis, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,1083.0,"quam, gremium, tellus, sinuosus, suscipio, almus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,1084.0,"et, fluuius, mons, lacus, qui, contineo, orbis",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+priscian.perihegesis,1085.0,"nam, pelagus, pars, percurro, carmen, uasto",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,uasto,0.167
+priscian.perihegesis,1086.0,"et, terra, pariter, regio, finis, amplus",6,"NaN, 0.0, NaN, 0.0, 0.0, 0.0",0.0,0.0,,0.0
+priscian.perihegesis,1087.0,"omnipotens, pro, quo, genitor, ego, praemium, dono",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0

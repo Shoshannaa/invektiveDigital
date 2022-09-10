@@ -1,0 +1,1071 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+italicus.ilias_latina,1.0,"ira, pando, ego, pelidae, diuus, superbus",6,"-1.0, NaN, NaN, NaN, 0.0, -1.0",-0.333,-0.333,,0.0
+italicus.ilias_latina,2.0,"tristis, qui, miser, in-iacio, funero, grais",6,"-1.0, NaN, -1.0, NaN, NaN, NaN",-0.333,-0.333,miser,0.167
+italicus.ilias_latina,3.0,"atque, anima, fortis, heros, trado, orco",6,"NaN, 0.5, 0.5, NaN, NaN, NaN",0.167,0.0,,0.0
+italicus.ilias_latina,4.0,"latrantumque, do, rostrum, uolucris, traho",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,5.0,"ille, exsanguis, inhumo, os, artus",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,exsanguis,0.2
+italicus.ilias_latina,6.0,"conficio, enim, superus, sententia, rex",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,7.0,"profero, ex, quo, discordia, pectus, pugna",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+italicus.ilias_latina,8.0,"sceptriger, atrides, et, bellum, clarus, achilles",6,"NaN, NaN, NaN, 0.0, 0.5, NaN",0.083,0.0,"atrides, achilles",0.333
+italicus.ilias_latina,9.0,"quis, deus, hic, ira, tristis, contendo, iubeo",7,"NaN, 0.0, NaN, -1.0, -1.0, NaN, NaN",-0.286,-0.286,hic,0.143
+italicus.ilias_latina,10.0,"latonae, et, magnus, proles, iuppiter, ille, pelasgum",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,pelasgum,0.143
+italicus.ilias_latina,11.0,"infestus, rex, pestis, in, praecordia, mitto",6,"-1.0, 0.0, -1.0, NaN, NaN, NaN",-0.333,-0.333,pestis,0.167
+italicus.ilias_latina,12.0,"implico, grauis, danaorum, corpus, morbus",5,"NaN, -0.5, NaN, 0.0, -1.0",-0.3,-0.3,,0.0
+italicus.ilias_latina,13.0,"nam, quondam, chryses, sollemnis, tempus, uitta",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,14.0,"implico, rapio, fleo, solacium, nascor",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+italicus.ilias_latina,15.0,"inuideo, dies, inuideo, tempus, nox",5,"NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,16.0,"ago, et, assiduus, impleo, questus, aura",6,"NaN, NaN, 0.5, NaN, -0.5, 1.0",0.167,-0.083,,0.0
+italicus.ilias_latina,17.0,"postquam, nullus, dies, animus, maeror, leuo",6,"NaN, NaN, 0.0, 0.5, -1.0, NaN",-0.083,-0.167,,0.0
+italicus.ilias_latina,18.0,"nullus, lenio, patrius, solacium, fletus",5,"NaN, NaN, 0.0, 1.0, NaN",0.2,0.0,,0.0
+italicus.ilias_latina,19.0,"castrum, peto, danaum, genu, affundo, atridae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,danaum,0.167
+italicus.ilias_latina,20.0,"per, superus, regnum, decus, miserabilis, oro",6,"NaN, NaN, 0.0, NaN, -1.0, NaN",-0.167,-0.167,miserabilis,0.167
+italicus.ilias_latina,21.0,"ut, sui, causa, suus, reddo, nata, salus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+italicus.ilias_latina,22.0,"donum, simul, praefero, uinco, fletus, is",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,23.0,"myrmidones, reddo, pater, chryseida, censeo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,24.0,"sed, nego, atrides, chrysos, excedo, castrum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,atrides,0.167
+italicus.ilias_latina,25.0,"despicio, pietas, iubeo, ferus, os, imus",6,"NaN, 1.0, NaN, -1.0, 0.0, NaN",0.0,-0.167,ferus,0.167
+italicus.ilias_latina,26.0,"haereo, amor, sperno, prex, damnosus, libido",6,"NaN, 1.0, NaN, 0.0, NaN, -0.5",0.083,-0.083,libido,0.167
+italicus.ilias_latina,27.0,"contemno, repeto, phoebeia, templum, sacerdos",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,28.0,"squalidus, infestus, maereo, seco, unguis, os",6,"-1.0, -1.0, NaN, NaN, NaN, 0.0",-0.333,-0.333,,0.0
+italicus.ilias_latina,29.0,"dilacero, como, annosus, tempus, plango",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,30.0,"mox, ubi, depono, gemitus, lacrima, quiesco",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+italicus.ilias_latina,31.0,"fatidicus, hic, sacer, compello, uox, auris",6,"NaN, NaN, 1.0, NaN, 0.0, NaN",0.167,0.0,hic,0.167
+italicus.ilias_latina,32.0,"quis, colo, ego, tuus, numen, delphice, prodo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,33.0,"aut, castus, uita, multus, duco, per, annus",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,34.0,"quis, iuuo, sacer, pono, altar, ignis",6,"NaN, NaN, 1.0, NaN, NaN, 0.0",0.167,0.0,,0.0
+italicus.ilias_latina,35.0,"si, tuus, externus, iam, sperno, ab, hostis, sacerdos",8,"NaN, 0.0, 0.0, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,,0.0
+italicus.ilias_latina,36.0,"en, hic, desero, reddo, donum, senecta",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.167
+italicus.ilias_latina,37.0,"si, gratus, tu, sum, sum, tu, sub, uindex, tueor",9,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,"tu, tu, uindex",0.333
+italicus.ilias_latina,38.0,"aut, si, qui, ut, luo, sub, acerbus, crimen, poena",9,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, -1.0, -1.0",-0.333,-0.333,"luo, acerbus, crimen, poena",0.444
+italicus.ilias_latina,39.0,"inscius, admitto, cur, o, tuus, dextera, cesso",7,"-1.0, NaN, NaN, NaN, 0.0, 0.0, NaN",-0.143,-0.143,,0.0
+italicus.ilias_latina,40.0,"posco, sacer, arcus, in, ego, tuus, derigeo, telum",8,"NaN, 1.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.125,0.0,,0.0
+italicus.ilias_latina,41.0,"auctor, mors, sum, certus, deus, ecce, mereo",7,"NaN, -1.0, NaN, 0.5, 0.0, NaN, NaN",-0.071,-0.143,,0.0
+italicus.ilias_latina,42.0,"figo, pater, cur, nata, luo, pecco, parens",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,luo,0.143
+italicus.ilias_latina,43.0,"atque, hostis, durus, patior, misero, cubile",6,"NaN, -1.0, -0.5, NaN, NaN, NaN",-0.25,-0.25,misero,0.167
+italicus.ilias_latina,44.0,"dico, ille, suus, uates, prex, moueo, acerbus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, -1.0",-0.143,-0.143,acerbus,0.143
+italicus.ilias_latina,45.0,"luctus, infesto, danaos, pestis, per, omnis",6,"-1.0, NaN, NaN, -1.0, NaN, NaN",-0.333,-0.333,pestis,0.167
+italicus.ilias_latina,46.0,"immitto, populus, uulgus, ruo, undique, graium",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,47.0,"uix, rogus, supersum, tellus, uix, ignis, aer",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,rogus,0.143
+italicus.ilias_latina,48.0,"desum, ager, tumulus, iam, nox, sidus, nona",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,49.0,"transeo, decimus, dies, patefacio, orbis",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,50.0,"cum, danaum, proceres, in, coitus, clarus, achilles",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,"danaum, achilles",0.286
+italicus.ilias_latina,51.0,"conuoco, et, causa, hortor, pestis, iniquus",6,"NaN, NaN, 0.0, NaN, -1.0, -1.0",-0.333,-0.333,"pestis, iniquus",0.333
+italicus.ilias_latina,52.0,"edo, thestoride, -ne, tunc, calchas, numen, diuus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,53.0,"consulo, et, causa, pariter, finis, malus",6,"NaN, NaN, 0.0, NaN, 0.0, -1.0",-0.167,-0.167,,0.0
+italicus.ilias_latina,54.0,"inuenio, effor, uereor, ops, tueor, achillis",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,55.0,"hic, aio, infestus, placeo, numen, phoebus",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,hic,0.167
+italicus.ilias_latina,56.0,"reddo, pius, castus, chryseida, pater",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,57.0,"si, uolo, danai, portus, intro, salus",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,danai,0.167
+italicus.ilias_latina,58.0,"dico, exardeo, subeo, uiolentia, rex",5,"NaN, NaN, NaN, -1.0, 0.0",-0.2,-0.2,,0.0
+italicus.ilias_latina,59.0,"thestoride, -ne, dictum, primus, compello, amaris",6,"NaN, NaN, 0.0, 0.5, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,60.0,"mendacemque, uoco, tum, magnus, incuso, achillem",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,61.0,"in, uicis, dux, inuictus, conuicium, suffero",6,"NaN, NaN, 0.5, 1.0, -1.0, NaN",0.083,-0.167,conuicium,0.167
+italicus.ilias_latina,62.0,"confremo, omnis, tandem, clamor, reprimo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,63.0,"cogo, inuitus, aeger, dimitto, amor",5,"NaN, -0.5, -1.0, NaN, 1.0",-0.1,-0.3,,0.0
+italicus.ilias_latina,64.0,"intactus, pius, reddo, chryseida, pater",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,65.0,"multo, donum, super, quam, cunctus, notus, ulixes",7,"NaN, 0.0, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,66.0,"impono, puppis, patria, deueho, ad, arx",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,67.0,"atque, iterum, ad, classis, danaum, suus, uelum, retorqueo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"classis, danaum",0.25
+italicus.ilias_latina,68.0,"protinus, infestus, placo, numen, phoebus",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,,0.0
+italicus.ilias_latina,69.0,"et, prope, consumo, uis, reddo, achiuis",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+italicus.ilias_latina,70.0,"non, tamen, atridae, chryseidis, excido, ardor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,71.0,"maereo, et, amitto, decipio, lugeo, amor",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,decipio,0.167
+italicus.ilias_latina,72.0,"mox, rapio, magnus, briseide, priuo, achillem",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,73.0,"solo, suus, alienus, ignis, ignis",5,"NaN, NaN, -0.5, 0.0, 0.0",-0.1,-0.1,,0.0
+italicus.ilias_latina,74.0,"at, ferus, aeacides, nudo, protinus, ensis",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,"ferus, aeacides",0.333
+italicus.ilias_latina,75.0,"tendo, in, atride, -ne, et, ni, sui, reddo, honestus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.111,0.0,"atride, honestus",0.222
+italicus.ilias_latina,76.0,"munus, militia, letum, crudelis, mino",5,"0.5, 0.0, -1.0, -1.0, NaN",-0.3,-0.4,crudelis,0.2
+italicus.ilias_latina,77.0,"neque, paruus, ille, paro, contra, defendo, sui, ensis",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,78.0,"qui, nisi, castus, manus, pallas, teneo, achillem",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,79.0,"turpis, caecus, amor, fama, linquo, in, aeuum",7,"-1.0, -1.0, 1.0, 1.0, NaN, NaN, NaN",0.0,-0.286,turpis,0.143
+italicus.ilias_latina,80.0,"gens, argolicis, contemno, uox, mina",5,"0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,81.0,"inuoco, aequoreus, pelides, numen, mater",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,82.0,"ne, sui, plisthenide, -ne, contra, patior, inultus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,inultus,0.143
+italicus.ilias_latina,83.0,"at, thetis, audio, nascor, prex, desero, unda",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,thetis,0.143
+italicus.ilias_latina,84.0,"castro, myrmidonum, iuxta, peto, et, moneo, arma",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,85.0,"abstineo, dexter, atque, congressus, inde, per, aura",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+italicus.ilias_latina,86.0,"emico, aetherius, et, in, aureus, sidus, fero",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,87.0,"tunc, genu, rex, spargo, affundo, capillus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,capillus,0.167
+italicus.ilias_latina,88.0,"pro, natus, uenio, genetrix, en, ad, tuus, supplex",8,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,89.0,"numen, summus, parens, ulciscor, ego, meus",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,ulciscor,0.167
+italicus.ilias_latina,90.0,"corpus, ab, atrida, quodsi, permitto, ille",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,91.0,"ut, flamma, impunis, meus, uiolo, achillis",6,"NaN, NaN, -0.5, 0.0, NaN, NaN",-0.083,-0.083,"impunis, uiolo",0.333
+italicus.ilias_latina,92.0,"turpis, occido, supero, libido, uirtus",5,"-1.0, NaN, NaN, -0.5, 1.0",-0.1,-0.3,"turpis, occido, libido",0.6
+italicus.ilias_latina,93.0,"iuppiter, hic, contra, tristis, depono, querela",6,"NaN, NaN, NaN, -1.0, NaN, -0.5",-0.25,-0.25,hic,0.167
+italicus.ilias_latina,94.0,"magnus, diuus, mare, cum, ego, labor, iste, maneo",8,"0.0, 0.0, 0.0, NaN, NaN, -0.5, NaN, NaN",-0.062,-0.062,,0.0
+italicus.ilias_latina,95.0,"tu, solaris, tuus, maereo, pectus, nascor",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.167
+italicus.ilias_latina,96.0,"dico, at, ille, leuis, caelum, delabor, per, aura",8,"NaN, NaN, NaN, 0.0, 0.5, NaN, NaN, 1.0",0.188,0.0,,0.0
+italicus.ilias_latina,97.0,"litus, adeo, patrius, gratus, soror, unda",6,"NaN, NaN, 0.0, 1.0, NaN, 0.0",0.167,0.0,,0.0
+italicus.ilias_latina,98.0,"offendo, sum, iuno, tantus, que, aio, optume, coniunx",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.062,-0.062,,0.0
+italicus.ilias_latina,99.0,"doris, nata, ualeo, tantus, debeo, achilles",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,achilles,0.167
+italicus.ilias_latina,100.0,"ut, ego, qui, coniunx, dico, tuus, quisque, soror",8,"NaN, NaN, NaN, -0.5, NaN, 0.0, NaN, NaN",-0.062,-0.062,,0.0
+italicus.ilias_latina,101.0,"dulcis, fero, nomen, diligo, fundo, achiuos",6,"0.5, NaN, 0.0, NaN, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,102.0,"et, troum, renouaris, uelum, in, proelio, uis",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+italicus.ilias_latina,103.0,"hic, ita, donum, refero, nos, sic, diligo, ab, tu",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, tu",0.222
+italicus.ilias_latina,104.0,"talis, incuso, dictum, irascor, tono",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,105.0,"in, uicis, superus, patior, conuicium, rex",6,"NaN, NaN, NaN, NaN, -1.0, 0.0",-0.167,-0.167,conuicium,0.167
+italicus.ilias_latina,106.0,"tandem, interpono, lis, ignipotente, re-sedeo",5,"NaN, NaN, -0.5, NaN, NaN",-0.1,-0.1,,0.0
+italicus.ilias_latina,107.0,"concilium, simul, genitor, dimitto, olympi",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,108.0,"interea, sol, emetior, decedo, olympus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,109.0,"et, daps, diuus, curo, suus, corpus, largior",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,110.0,"inde, peto, thalamus, iucundus, donum, quiesco",6,"NaN, NaN, NaN, 1.0, 0.0, NaN",0.167,0.0,,0.0
+italicus.ilias_latina,111.0,"nox, sum, et, totus, fulgeo, sidus, mundus",7,"0.0, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+italicus.ilias_latina,112.0,"humanus, genus, requies, diuus, teneo",5,"0.0, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,113.0,"cum, pater, omnipotens, somnus, uoco, atque, ita, for",8,"NaN, 0.0, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+italicus.ilias_latina,114.0,"uado, ago, per, tenuis, aura, lenis, diuus",7,"NaN, NaN, NaN, 0.0, 1.0, 1.0, 0.0",0.286,0.0,,0.0
+italicus.ilias_latina,115.0,"argolicique, dux, celer, peto, castrum, uolo",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,116.0,"dum, tuus, premo, sopio, pondus, dulcis",6,"NaN, 0.0, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+italicus.ilias_latina,117.0,"hic, ille, mandatum, refero, cum, crastinus, primus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,hic,0.143
+italicus.ilias_latina,118.0,"effero, titana, dies, nox, fugo",5,"NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,119.0,"cogo, in, arma, uir, incautus, occupo, hostis",7,"NaN, NaN, 0.0, 0.5, -1.0, NaN, -1.0",-0.214,-0.286,,0.0
+italicus.ilias_latina,120.0,"neque, mora, somnus, abeo, leuis, per, aes, penna",8,"NaN, NaN, 0.5, NaN, 0.0, NaN, NaN, NaN",0.062,0.0,,0.0
+italicus.ilias_latina,121.0,"deuolo, in, thalamus, agamemnon, ille, soporus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,122.0,"corpus, inundo, lenis, prosterno, habeo",5,"0.0, NaN, 1.0, NaN, NaN",0.2,0.0,inundo,0.2
+italicus.ilias_latina,123.0,"ad, qui, sic, loquor, cura, opus, leuator",7,"NaN, NaN, NaN, NaN, -1.0, 0.5, NaN",-0.071,-0.143,,0.0
+italicus.ilias_latina,124.0,"rex, danaum, atrida, uigilo, et, mandatum, tono",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,danaum,0.143
+italicus.ilias_latina,125.0,"qui, tu, iubeo, simul, defero, ab, aether, porto",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+italicus.ilias_latina,126.0,"accipio, cum, primus, titan, sui, emergo, unda",7,"NaN, NaN, 0.5, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+italicus.ilias_latina,127.0,"fortis, arma, iubeo, socius, aptaris, lacertus",6,"0.5, 0.0, NaN, 1.0, NaN, NaN",0.25,0.0,,0.0
+italicus.ilias_latina,128.0,"et, peto, iliaci, instruo, miles, campus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,iliaci,0.167
+italicus.ilias_latina,129.0,"dico, et, hic, repeto, per, qui, modo, uenio, aura",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.111,0.0,hic,0.111
+italicus.ilias_latina,130.0,"interea, lux, terra, do, igneus, lampas",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,131.0,"conuoco, attono, iussum, pelopeius, heros",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,132.0,"in, coitus, proceres, res, omnis, ordo, pando",7,"NaN, NaN, NaN, 0.0, NaN, 0.5, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,133.0,"cunctus, promitto, socio, in, proelio, uis",6,"0.0, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+italicus.ilias_latina,134.0,"horto, dux, qui, rex, fortis, dictum",6,"NaN, 0.5, NaN, 0.0, 0.5, 0.0",0.167,0.0,,0.0
+italicus.ilias_latina,135.0,"pectus, collaudans, grates, ago, omnis, aequo",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+italicus.ilias_latina,136.0,"hic, tunc, thersites, quo, non, deformis, alter",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,"hic, deformis",0.286
+italicus.ilias_latina,137.0,"uenio, ad, troiam, neque, lingua, proteruior, ullus",7,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN",-0.071,-0.071,,0.0
+italicus.ilias_latina,138.0,"bellum, gero, nego, patria, hortor, ad, ora",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,139.0,"uerto, iter, qui, consilium, illustris, ulixes",6,"NaN, 0.0, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,140.0,"corripio, dictum, sceptrum, percutio, eburnus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,141.0,"tum, uerus, ardescit, concipio, lis, ira",6,"NaN, 0.5, NaN, NaN, -0.5, -1.0",-0.167,-0.25,ardescit,0.167
+italicus.ilias_latina,142.0,"uix, telum, careo, manus, ad, sidus, clamor",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,143.0,"tollo, et, cunctus, pugno, corripio, ardor",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,144.0,"tandem, sollertis, prudentia, nestor, aeuum",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+italicus.ilias_latina,145.0,"comprimo, mitis, sedo, pectus, turba",5,"NaN, 1.0, NaN, NaN, 0.0",0.2,0.0,,0.0
+italicus.ilias_latina,146.0,"admoneo, dux, dictum, respondeo, recordor",5,"NaN, 0.5, 0.0, NaN, NaN",0.1,0.0,,0.0
+italicus.ilias_latina,147.0,"tempus, ille, quo, uideo, in, aulide, serpens",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,serpens,0.143
+italicus.ilias_latina,148.0,"consumo, uolucris, bis, quattuor, arbor, fetus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,149.0,"atque, ipse, inualidus, pugno, corpus, contra",6,"NaN, NaN, -1.0, NaN, 0.0, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,150.0,"addo, exter, nascor, funus, mater",5,"NaN, 0.0, NaN, -0.5, 0.0",-0.1,-0.1,,0.0
+italicus.ilias_latina,151.0,"tunc, sic, deinde, senex, moneo, remoneo, achiui",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,152.0,"in, decimus, labor, sum, calchas, qui, dico, annus",8,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN, 0.0",-0.062,-0.062,,0.0
+italicus.ilias_latina,153.0,"quo, cado, danaum, uictrix, ilium, -ne, arma",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,danaum,0.143
+italicus.ilias_latina,154.0,"ad-sentio, omnis, laudo, nestor, aetas",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,155.0,"concilium, simul, dimitto, arma, paro",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,156.0,"dux, iubeo, atque, animus, aptaris, et, pectus, pugna",8,"0.5, NaN, NaN, 0.5, NaN, NaN, NaN, -1.0",0.0,-0.125,,0.0
+italicus.ilias_latina,157.0,"posterus, lux, taceo, ut, primus, dispello, umbra",7,"0.0, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,158.0,"et, nitidus, titan, radius, caput, effero, unda",7,"NaN, 0.5, NaN, NaN, 0.0, NaN, 0.0",0.071,0.0,,0.0
+italicus.ilias_latina,159.0,"protinus, armaris, socius, iubeo, acer, atrides",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,atrides,0.167
+italicus.ilias_latina,160.0,"et, peto, iliaci, instruo, miles, campus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,iliaci,0.167
+italicus.ilias_latina,161.0,"tu, ego, nunc, musa, quis, enim, non, ordo, nosco",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.056,0.0,tu,0.111
+italicus.ilias_latina,162.0,"nomen, clarus, dux, clarus, refero, parens",6,"0.0, 0.5, 0.5, 0.5, NaN, 0.5",0.333,0.0,,0.0
+italicus.ilias_latina,163.0,"et, dulcis, patria, nam, sum, hic, munus, uester",8,"NaN, 0.5, NaN, NaN, NaN, NaN, 0.5, NaN",0.125,0.0,hic,0.125
+italicus.ilias_latina,164.0,"dico, quot, quisque, ratis, ad, pergama, duco",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,pergama,0.143
+italicus.ilias_latina,165.0,"et, coepio, perago, opus, sum, auctor, apollo",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,166.0,"aspiro, libet, operio, per, singulus, noster",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,167.0,"peneleos, princeps, et, bellum, leitus, acer",6,"NaN, 0.5, NaN, 0.0, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,168.0,"arcesilaus, atrox, prothoenorque, cloniusque",4,"NaN, -1.0, NaN, NaN",-0.25,-0.25,,0.0
+italicus.ilias_latina,169.0,"boeoti, decies, quini, ago, carino",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,170.0,"et, tumidus, ualidus, pulso, remex, fluctus",6,"NaN, -0.5, 1.0, NaN, NaN, 0.0",0.083,-0.083,,0.0
+italicus.ilias_latina,171.0,"inde, mycenaeis, agamemno, -ne, moenia, ortus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,agamemno,0.167
+italicus.ilias_latina,172.0,"qui, sui, bellatrix, deligo, graecia, rex",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,173.0,"centum, ago, plenus, armo, miles, puppis",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,174.0,"et, bis, triceni, menelai, nauis, ardor",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,175.0,"insequor, totidem, ferox, agapenoris, ira",5,"NaN, NaN, -1.0, NaN, -1.0",-0.4,-0.4,ferox,0.2
+italicus.ilias_latina,176.0,"qui, iuxta, fidus, sollerti, pectus, nestor",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+italicus.ilias_latina,177.0,"consilior, possum, gemino, cum, proles, suus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,178.0,"eo, ter, triceni, munio, in, arma, carina",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,179.0,"at, schedius, uirtus, possum, et, epistrophus, ingens",7,"NaN, NaN, 1.0, NaN, NaN, NaN, -0.5",0.071,-0.071,,0.0
+italicus.ilias_latina,180.0,"gloria, myrmidonum, saeuus, duo, robur, bellum",6,"0.0, NaN, -1.0, NaN, 0.5, 0.0",-0.083,-0.167,saeuus,0.167
+italicus.ilias_latina,181.0,"longus, quaterdenis, pulso, aequor, prora",5,"0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,182.0,"et, bis, uiceni, polypoetes, atque, leonteus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,183.0,"instruo, ratis, orno, miles, fortis",5,"NaN, NaN, NaN, 0.0, 0.5",0.1,0.0,,0.0
+italicus.ilias_latina,184.0,"euryalus, sthenelusque, dux, et, fortis, in, arma",7,"NaN, NaN, 0.5, NaN, 0.5, NaN, 0.0",0.143,0.0,,0.0
+italicus.ilias_latina,185.0,"tydides, ualidus, pulso, remex, pontus",5,"NaN, 1.0, NaN, NaN, 0.0",0.2,0.0,,0.0
+italicus.ilias_latina,186.0,"bis, quadrageni, onero, miles, puppis",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,187.0,"ascalaphusque, possum, et, ialmenus, acer, uterque",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,188.0,"ter, deni, ualidus, compleo, remex, nauis",6,"NaN, NaN, 1.0, NaN, NaN, 0.0",0.167,0.0,,0.0
+italicus.ilias_latina,189.0,"et, bis, uiceni, locrum, fortis, aiax",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,190.0,"instruo, puppis, totidem, euhaemone, nascor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,191.0,"qui, iuxta, graium, murus, comito, achilles",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,achilles,0.167
+italicus.ilias_latina,192.0,"cum, quinquaginta, maternus, per, aequor, ueho",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,193.0,"thessalici, iuuenis, phidippus, et, antiphus, eo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,194.0,"alo, ter, deni, pulso, aequor, prora",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,195.0,"et, tres, assumo, ratis, seco, aequor, teucer",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,teucer,0.143
+italicus.ilias_latina,196.0,"tlepolemusque, nouem, rhodius, qui, uis, acer",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+italicus.ilias_latina,197.0,"eumelus, sequor, paruus, unus, nauis, proficiscor",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,198.0,"quam, duco, telamo, sero, salaminius, aiax",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,199.0,"at, prothous, magnes, tenthredone, nascor, et, unus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,200.0,"euboeae, magnus, elephenor, finis, ortus",5,"NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,201.0,"dulichiusque, meges, animus, insignis, et, arma",6,"NaN, NaN, 0.5, 0.0, NaN, 0.0",0.083,0.0,,0.0
+italicus.ilias_latina,202.0,"aetola, de, gens, thoas, andraemone, nascor",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,203.0,"hic, quadrageni, omnis, duco, carino",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.2
+italicus.ilias_latina,204.0,"et, bis, sex, ithacus, nauis, sollertia, duco",7,"NaN, NaN, NaN, NaN, 0.0, 1.0, NaN",0.143,0.0,,0.0
+italicus.ilias_latina,205.0,"qui, sequor, totidem, ratis, telamonius, aiax",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,206.0,"egregius, uirtus, possum, simul, horridus, guneus",6,"0.0, 1.0, NaN, NaN, -1.0, NaN",0.0,-0.167,,0.0
+italicus.ilias_latina,207.0,"eo, bis, undenis, tento, in, arma, carina",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,208.0,"idomeneus, et, merio, cretaeus, uterque",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,209.0,"bis, quadrageni, munio, nauis, eo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,210.0,"et, totidem, puppis, clarus, de, gens, menestheus",7,"NaN, NaN, NaN, 0.5, NaN, 0.0, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,211.0,"duco, athenaeus, quot, uis, amb-eo, achilles",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,achilles,0.167
+italicus.ilias_latina,212.0,"amphimachusque, ferox, et, thalpius, elido, nascor",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,ferox,0.167
+italicus.ilias_latina,213.0,"et, clarus, uirtus, polyxenus, atque, diores",6,"NaN, 0.5, 1.0, NaN, NaN, NaN",0.25,0.0,,0.0
+italicus.ilias_latina,214.0,"hic, bis, uiceni, onero, miles, puppis",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.167
+italicus.ilias_latina,215.0,"protesilaus, ago, totidem, fortis, podarces",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+italicus.ilias_latina,216.0,"instruo, puppis, quot, duco, oileos, aiax",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,217.0,"et, septem, poeante, sero, fero, arma, carina",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,218.0,"qui, sequor, iuxta, podalirius, atque, machao, -ne",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,219.0,"alo, ter, deni, sulco, aequor, prora",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,220.0,"hic, dux, graiae, troianus, ad, litus, puppis",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,hic,0.143
+italicus.ilias_latina,221.0,"bis, septem, uenio, paruus, quam, mille, ducenti",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,222.0,"iam, cieo, appello, classis, campus, teneo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,classis,0.167
+italicus.ilias_latina,223.0,"cum, pater, ad, priamum, mitto, saturnius, irim",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,224.0,"qui, doceo, fortis, uenio, ad, bellum, pelasgos",7,"NaN, NaN, 0.5, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,225.0,"neque, mora, continuo, iussus, capio, arma, parens",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.5",0.071,0.0,,0.0
+italicus.ilias_latina,226.0,"priamides, hector, totus, in, proelio, pubes",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,227.0,"festino, iubeo, porta, ago, agmen, apertus",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,228.0,"qui, fulgeo, aurum, cassus, iuuenilis, tego",6,"NaN, NaN, 0.5, 0.0, NaN, NaN",0.083,0.0,iuuenilis,0.167
+italicus.ilias_latina,229.0,"omnis, pars, caput, munio, pectus, thorax",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,230.0,"et, clipeus, laeua, dexter, decorauerat, hasta",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,231.0,"orno, latus, mucro, simul, altus, niteo",6,"NaN, NaN, -1.0, NaN, 0.5, NaN",-0.083,-0.167,,0.0
+italicus.ilias_latina,232.0,"crus, tego, ocrea, qualis, decet, hector, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,233.0,"hic, sequor, forma, bonus, tunc, fortis, in, arma",8,"NaN, NaN, 1.0, 1.0, NaN, 0.5, NaN, 0.0",0.312,0.0,hic,0.125
+italicus.ilias_latina,234.0,"bellum, causa, paris, patria, funestus, ruina",6,"0.0, 0.0, 0.5, NaN, -1.0, NaN",-0.083,-0.167,funestus,0.167
+italicus.ilias_latina,235.0,"deiphobusque, helenusque, simul, fortis, polites",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+italicus.ilias_latina,236.0,"et, sacer, aeneas, uenio, certus, proles",6,"NaN, 1.0, NaN, NaN, 0.5, 0.0",0.25,0.0,,0.0
+italicus.ilias_latina,237.0,"archelochusque, acamasque, ferox, antenore, cerno",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,ferox,0.2
+italicus.ilias_latina,238.0,"neque, non, et, proles, generosus, lycaon, eo",7,"NaN, NaN, NaN, 0.0, 1.0, NaN, NaN",0.143,0.0,,0.0
+italicus.ilias_latina,239.0,"pandarus, et, magnus, glaucus, uirtus, in, arma",7,"NaN, NaN, 0.0, NaN, 1.0, NaN, 0.0",0.143,0.0,glaucus,0.143
+italicus.ilias_latina,240.0,"amphiusque, et, adrastus, et, asius, atque, pylaeus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,241.0,"eo, et, amphimachus, nastesque, insignis, uterque",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,242.0,"magnanimus, dux, odiusque, et, epistrophus, ingens",6,"NaN, 0.5, NaN, NaN, NaN, -0.5",0.0,-0.083,,0.0
+italicus.ilias_latina,243.0,"euphemusque, ferox, clarus, aetas, pyraechmes",5,"NaN, -1.0, 0.5, 0.0, NaN",-0.1,-0.2,ferox,0.2
+italicus.ilias_latina,244.0,"cum, qui, et, mesthles, atque, antiphus, et, bonus, arma",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, 0.0",0.111,0.0,,0.0
+italicus.ilias_latina,245.0,"hippothous, uenio, acamasque, et, pirous, unus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,246.0,"arsinooque, sero, chromiusque, atque, ennomus, ambo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,247.0,"floreo, aetas, uir, qui, phorcus, et, ingens",7,"NaN, 0.0, 0.5, NaN, NaN, NaN, -0.5",0.0,-0.071,,0.0
+italicus.ilias_latina,248.0,"ascanius, sequor, simul, et, iuppiter, inclutus, proles",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 0.0",0.071,0.0,,0.0
+italicus.ilias_latina,249.0,"sarpedo, -ne, clarus, sero, tellus, coroebus",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,250.0,"hic, sui, defendo, dux, neptunia, troia",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,hic,0.167
+italicus.ilias_latina,251.0,"uinco, dolus, danaum, ni, fatum, sum",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"dolus, danaum",0.333
+italicus.ilias_latina,252.0,"iam, duo, sto, acies, fulgeo, arma",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,253.0,"cum, paris, exitium, troia, funestus, flamma",6,"NaN, 0.5, -1.0, NaN, -1.0, NaN",-0.25,-0.333,funestus,0.167
+italicus.ilias_latina,254.0,"armo, aduerto, menelaum, ex, agmen, cerno",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,255.0,"sequor, uelut, uideo, perterreo, anguis, recipio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,256.0,"ad, socius, amens, qui, postquam, turpis, hector",7,"NaN, 1.0, -1.0, NaN, NaN, -1.0, NaN",-0.143,-0.286,"amens, turpis",0.286
+italicus.ilias_latina,257.0,"confundo, terror, uideo, o, dedecus, inquam",6,"NaN, -1.0, NaN, NaN, -1.0, NaN",-0.333,-0.333,dedecus,0.167
+italicus.ilias_latina,258.0,"aeternus, patria, gener, infamia, noster",5,"0.5, NaN, NaN, -1.0, NaN",-0.1,-0.2,infamia,0.2
+italicus.ilias_latina,259.0,"tergum, refero, at, non, dubito, hospes, olim",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,260.0,"expugnaris, torus, qui, nunc, defugio, arma",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,261.0,"uis, timeo, ubi, sum, uis, ubi, cognosco, nos",8,"1.0, NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.25,0.0,,0.0
+italicus.ilias_latina,262.0,"ludus, quondam, uarius, in, certamen, uolo, sum",7,"NaN, NaN, 0.0, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,263.0,"hic, animus, ostendo, tuus, nihil, adiuuo, arma",7,"NaN, 0.5, NaN, 0.0, NaN, NaN, 0.0",0.071,0.0,hic,0.143
+italicus.ilias_latina,264.0,"nobilitas, forma, durus, mars, miles, gaudeo",6,"1.0, 1.0, -0.5, NaN, 0.0, NaN",0.25,-0.083,,0.0
+italicus.ilias_latina,265.0,"dum, iaceo, in, amor, tuus, nos, bellum, gero",8,"NaN, NaN, NaN, 1.0, 0.0, NaN, 0.0, NaN",0.125,0.0,iaceo,0.125
+italicus.ilias_latina,266.0,"scilicet, et, nos, fundo, in, hostis, cruor",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,cruor,0.143
+italicus.ilias_latina,267.0,"aequus, aduerto, cum, tu, concurro, in, arma",7,"0.5, NaN, NaN, NaN, NaN, NaN, 0.0",0.071,0.0,tu,0.143
+italicus.ilias_latina,268.0,"impiger, atrides, specto, danaumque, phrygumque",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,atrides,0.2
+italicus.ilias_latina,269.0,"depono, populus, telum, tu, foedus, iungo",6,"NaN, 0.0, NaN, NaN, -1.0, NaN",-0.167,-0.167,tu,0.167
+italicus.ilias_latina,270.0,"aduerro, confero, manus, decerno, ferrum",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,271.0,"dico, qui, contra, paucus, priameius, heros",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,272.0,"quis, nimis, indignus, inquam, ego, uox, urgeo",7,"NaN, NaN, -1.0, NaN, NaN, 0.0, NaN",-0.143,-0.143,,0.0
+italicus.ilias_latina,273.0,"o, patria, germanus, decus, nam, neque, ego, coniunx",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.062,-0.062,,0.0
+italicus.ilias_latina,274.0,"prauus, luxuria, sum, potis, uirtus, honor",6,"-1.0, -0.5, NaN, 0.0, 1.0, 1.0",0.083,-0.25,"prauus, luxuria",0.333
+italicus.ilias_latina,275.0,"neque, uis, tento, uir, dexter, recuso",6,"NaN, 1.0, NaN, 0.5, NaN, NaN",0.25,0.0,,0.0
+italicus.ilias_latina,276.0,"dummodo, uictor, coniunx, cum, pax, sequor",6,"NaN, NaN, -0.5, NaN, 0.5, NaN",0.0,-0.083,,0.0
+italicus.ilias_latina,277.0,"dictum, refero, hector, placeo, sententia, grais",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,278.0,"protinus, accio, priamus, sacer, perago",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+italicus.ilias_latina,279.0,"foedero, iungo, post, hic, discedo, uterque",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"foedero, hic",0.333
+italicus.ilias_latina,280.0,"depono, populus, telum, campus, patesco",5,"NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,281.0,"interea, totus, procedo, ab, agmen, troum",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,282.0,"pulcher, alexander, clipeus, insignis, et, hasta",6,"1.0, NaN, NaN, 0.0, NaN, NaN",0.167,0.0,,0.0
+italicus.ilias_latina,283.0,"qui, contra, par, fulgeo, menelaus, in, arma",7,"NaN, NaN, 0.5, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+italicus.ilias_latina,284.0,"consto, et, cum, tu, ego, sum, certamen, dico",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,tu,0.125
+italicus.ilias_latina,285.0,"neque, longus, noster, laetor, coniunx, qui, tu",7,"NaN, 0.0, NaN, NaN, -0.5, NaN, NaN",-0.071,-0.071,tu,0.143
+italicus.ilias_latina,286.0,"mox, rapio, eo, gemo, tantummodo, iuppiter, adsum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,287.0,"dico, et, aduerro, sui, concito, acer, in, hostis",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,,0.0
+italicus.ilias_latina,288.0,"ille, uir, fortis, uenio, repello, ictus",6,"NaN, 0.5, 0.5, NaN, NaN, NaN",0.167,0.0,,0.0
+italicus.ilias_latina,289.0,"sequor, gradus, celer, recipio, longus, fremo",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,290.0,"hasta, deinde, iacio, quam, deuito, atrides",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,atrides,0.167
+italicus.ilias_latina,291.0,"in, uicis, mitto, figo, corpus, telum",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,292.0,"praedo, phrygii, ni, uastus, ferreus, pectus",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,"phrygii, uastus",0.333
+italicus.ilias_latina,293.0,"tego, lorica, uir, septemplice, tergum",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+italicus.ilias_latina,294.0,"insequor, iuxta, clamor, tum, aduersus, uterque",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,295.0,"consto, et, galea, galea, tero, et, pes, planta",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,296.0,"coniungo, strideo, mucro, mucro, corusco",5,"NaN, NaN, -1.0, -1.0, NaN",-0.4,-0.4,,0.0
+italicus.ilias_latina,297.0,"corpus, colligo, tego, fulgeo, arma",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,298.0,"non, aliter, fortis, nitidus, de, coniunx, taurus",7,"NaN, NaN, 0.5, 0.5, NaN, -0.5, NaN",0.071,-0.071,,0.0
+italicus.ilias_latina,299.0,"bellum, gero, uastus, repleo, mugitus, aura",6,"0.0, NaN, -1.0, NaN, NaN, 1.0",0.0,-0.167,uastus,0.167
+italicus.ilias_latina,300.0,"atque, diu, rigidus, capto, corpus, ferrum",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,301.0,"cum, memor, atrides, rapio, sui, coniunx, insto",7,"NaN, 1.0, NaN, NaN, NaN, -0.5, NaN",0.071,-0.071,atrides,0.143
+italicus.ilias_latina,302.0,"dardaniumque, premo, iuuenis, mox, ensis, rigeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,303.0,"cedo, retro, dum, desuper, appeto, hostis",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+italicus.ilias_latina,304.0,"splendidus, exter, galea, percutio, ad, ora",6,"1.0, 0.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+italicus.ilias_latina,305.0,"dis-sileo, mucro, gemo, agmen, graium",5,"NaN, -1.0, NaN, -1.0, NaN",-0.4,-0.4,,0.0
+italicus.ilias_latina,306.0,"tum, uerus, ardescit, quamuis, manus, ensis, careo",7,"NaN, 0.5, NaN, NaN, 0.0, NaN, NaN",0.071,0.0,ardescit,0.143
+italicus.ilias_latina,307.0,"et, iuuenis, arrepo, prosterno, cassis, uictor",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,308.0,"ad, socius, traho, et, ni, caligo, caecus",7,"NaN, 1.0, NaN, NaN, NaN, -0.5, -1.0",-0.071,-0.214,,0.0
+italicus.ilias_latina,309.0,"tego, cytherea, uir, subiecto, mentum",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+italicus.ilias_latina,310.0,"fortis, rumpo, laxo, uinculum, nodus",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+italicus.ilias_latina,311.0,"ulter, ille, dies, paridi, sum, abstraho, aurum",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+italicus.ilias_latina,312.0,"fulgeo, galea, cum, sui, menelaus, et, ardeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,313.0,"in, medius, mitto, proceres, rursum, recurro",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,314.0,"et, magnus, ualidus, contorqueo, uis, hasta",6,"NaN, 0.0, 1.0, NaN, 1.0, NaN",0.333,0.0,,0.0
+italicus.ilias_latina,315.0,"in, clades, phrygii, suus, qui, uenus, eripio, hostis",8,"NaN, -1.0, NaN, NaN, NaN, 1.0, NaN, -1.0",-0.125,-0.25,phrygii,0.125
+italicus.ilias_latina,316.0,"et, cum, sui, in, thalamus, defero, testudo, colo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,317.0,"ipse, dehinc, helenam, murus, arcesso, ab, altus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+italicus.ilias_latina,318.0,"dardanioque, suus, paridi, deduco, amor",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+italicus.ilias_latina,319.0,"qui, talis, postquam, conspicio, uox, loquor, sum",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,320.0,"uenio, meus, flamma, paris, supero, ab, arma",7,"NaN, 0.0, NaN, 0.5, NaN, NaN, 0.0",0.071,0.0,,0.0
+italicus.ilias_latina,321.0,"coniunx, antiquus, uideo, pudeo, uideo",5,"-0.5, 0.0, NaN, NaN, NaN",-0.1,-0.1,pudeo,0.2
+italicus.ilias_latina,322.0,"arrepo, cum, tu, traho, uiolentus, atrides",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,"tu, atrides",0.333
+italicus.ilias_latina,323.0,"iliacus, tuus, foedo, puluis, crinis",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,foedo,0.2
+italicus.ilias_latina,324.0,"noster, ego, miser, timeo, ne, doricus, ensis",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,miser,0.143
+italicus.ilias_latina,325.0,"osculum, discutio, totus, ego, mens, reuincio",6,"0.0, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,326.0,"fugio, os, color, sanguis, relinquo, artus",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,327.0,"quis, tu, cum, saeuus, contendo, suadeo, atrida",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,"tu, saeuus",0.286
+italicus.ilias_latina,328.0,"an, nondum, uagus, fama, tuus, peruenio, ad, auris",8,"NaN, NaN, NaN, 1.0, 0.0, NaN, NaN, NaN",0.125,0.0,,0.0
+italicus.ilias_latina,329.0,"de, uirtus, uir, moneo, ne, rursus, iniquus",7,"NaN, 1.0, 0.5, NaN, NaN, NaN, -1.0",0.071,-0.143,iniquus,0.143
+italicus.ilias_latina,330.0,"ille, tuus, fatum, uelum, committo, dexter",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,331.0,"dico, tum, largior, perfundo, fletus, os",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,332.0,"tristis, alexander, non, ego, supero, atrides",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,atrides,0.167
+italicus.ilias_latina,333.0,"o, meus, ardor, aio, sed, castus, palladis, ira",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,,0.0
+italicus.ilias_latina,334.0,"mox, ille, noster, succumbo, turpis, arma",6,"NaN, NaN, NaN, NaN, -1.0, 0.0",-0.167,-0.167,turpis,0.167
+italicus.ilias_latina,335.0,"aspicio, adsum, meus, cytherea, labor",5,"NaN, NaN, 0.0, NaN, -0.5",-0.1,-0.1,,0.0
+italicus.ilias_latina,336.0,"post, hic, amplector, per, mutuus, corpus, iungo",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,hic,0.143
+italicus.ilias_latina,337.0,"incumbo, membrum, cygneidos, ille, soluo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,338.0,"accipio, flamma, gremium, troiaeque, suo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,339.0,"interea, totus, menelaus, in, agmen, troum",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,340.0,"quaero, alexandrum, uictor, huc, fero, et, illic",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,341.0,"qui, frater, socio, acuo, in, bellum, caterua",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,342.0,"adiuuo, et, fortis, pello, phrygas, increpo, os",7,"NaN, NaN, 0.5, NaN, NaN, NaN, 0.0",0.071,0.0,increpo,0.143
+italicus.ilias_latina,343.0,"seruo, iubeo, lex, helenamque, reposco",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+italicus.ilias_latina,344.0,"dum, inter, sui, proceres, certamen, habeo",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,345.0,"concilium, omnipotens, habeo, regnator, olympi",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,346.0,"foedero, intendo, turbo, pandarus, arcus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,foedero,0.2
+italicus.ilias_latina,347.0,"tu, menelae, peto, lateo, uolatilis, telis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+italicus.ilias_latina,348.0,"incido, et, tunica, ferrum, squama, rigeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,349.0,"disseco, excedo, pugno, gemebundus, atrides",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,atrides,0.2
+italicus.ilias_latina,350.0,"castro, tueor, peto, qui, doceo, ab, ars, paternus",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,351.0,"paeonia, curo, iuuenis, podalirius, herba",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,352.0,"eo, iterum, in, caedes, horreo, proelio, uictor",7,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,caedes,0.143
+italicus.ilias_latina,353.0,"armo, fortis, agamemnon, ira, pelasgos",5,"NaN, 0.5, NaN, -1.0, NaN",-0.1,-0.2,,0.0
+italicus.ilias_latina,354.0,"et, dolor, in, pugna, cunctus, communis, ago",7,"NaN, -1.0, NaN, -1.0, 0.0, 0.0, NaN",-0.286,-0.286,,0.0
+italicus.ilias_latina,355.0,"bellum, ingens, orior, multus, utrimque, cruor",6,"0.0, -0.5, NaN, 0.0, NaN, NaN",-0.083,-0.083,cruor,0.167
+italicus.ilias_latina,356.0,"fundo, et, totus, sterno, corpus, campus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,357.0,"in, uicis, troumque, cado, danaumque, caterua",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,358.0,"neque, requies, do, ullus, uir, sono, undique, mauors",8,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.062,0.0,mauors,0.125
+italicus.ilias_latina,359.0,"telum, uolo, cunctus, e, pars, imber",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,360.0,"occido, antilochi, rigidus, demergo, in, umbra",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"occido, demergo",0.333
+italicus.ilias_latina,361.0,"ensis, thalysiades, opto, lumen, linquo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,362.0,"inde, manus, fortis, graiorum, tergum, premo",6,"NaN, 0.0, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,363.0,"occupo, anthemio, sero, telamonius, aiax",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,364.0,"et, praeduro, transfigo, pectus, telum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,365.0,"purpureus, uomo, ille, anima, cum, sanguis, misceo",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,366.0,"os, rigo, morior, tum, magnus, antiphus, hasta",7,"0.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,367.0,"uis, aduerro, conor, corpus, totus",5,"1.0, NaN, NaN, 0.0, NaN",0.2,0.0,,0.0
+italicus.ilias_latina,368.0,"torqueo, in, aeacide, -ne, telum, erro, ab, hostis",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, -1.0",-0.125,-0.125,,0.0
+italicus.ilias_latina,369.0,"in, hostis, cado, transfigo, et, inguina, leuco, -ne",8,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.125,-0.125,,0.0
+italicus.ilias_latina,370.0,"concido, infelix, prosterno, uulnus, fortis",5,"NaN, -1.0, NaN, -1.0, 0.5",-0.3,-0.4,infelix,0.2
+italicus.ilias_latina,371.0,"et, carpo, uiridis, moribundus, dens, herba",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,372.0,"impiger, atrides, casus, commoueo, amicus",5,"NaN, NaN, 0.0, NaN, 1.0",0.2,0.0,atrides,0.2
+italicus.ilias_latina,373.0,"democoonta, peto, telum, aduerso, trabal",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,374.0,"tempus, transadigo, uagina, horridus, ensis",5,"0.0, NaN, 0.0, -1.0, NaN",-0.2,-0.2,transadigo,0.2
+italicus.ilias_latina,375.0,"eripio, ille, suus, morior, resupinus, in, arma",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,376.0,"concido, et, terra, moribundus, uertex, pulso",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,377.0,"iam, amaryncide, -ne, saxum, deicio, ictus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,378.0,"pirous, imbrasides, do, sileo, umbra",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,379.0,"dum, auidus, praeda, iuuenis, spolio, paro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,380.0,"desuper, hasta, uenio, dextera, libro, thoantis",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,381.0,"per, uir, scapulae, animosus, pectus, transeo",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,382.0,"in, uultus, ruo, ille, suus, calidus, cruor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,cruor,0.143
+italicus.ilias_latina,383.0,"os, uomo, sterno, super, suus, palpito, arma",7,"0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,384.0,"sanguis, dardanii, mano, undique, campus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,385.0,"mano, amnis, passim, pugno, ubique",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,386.0,"immisceo, ardeo, ambo, exercitus, arma",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,387.0,"et, modo, troianis, uirtus, modo, cresco, achiuis",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+italicus.ilias_latina,388.0,"laeto, per, uarius, peto, uictoria, casus",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,389.0,"hic, postquam, danaum, longus, cedo, uideo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"hic, danaum",0.333
+italicus.ilias_latina,390.0,"agmen, tydides, tumidus, in-cresco, martes",5,"-1.0, NaN, -0.5, NaN, NaN",-0.3,-0.3,,0.0
+italicus.ilias_latina,391.0,"in, medius, acies, qui, multus, immineo, hostis",7,"NaN, 0.0, 0.0, NaN, 0.0, NaN, -1.0",-0.143,-0.143,,0.0
+italicus.ilias_latina,392.0,"irruo, et, uerso, prosterno, caedes, phalangae",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,caedes,0.167
+italicus.ilias_latina,393.0,"huc, illic, ensis, ferox, hasta, corusco",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,ferox,0.167
+italicus.ilias_latina,394.0,"bellicus, pallas, adsum, flagro, ignis, arma",6,"0.0, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,395.0,"adiuuo, atque, animus, iuuenis, uireo, ministro",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,396.0,"ille, bos, ueluti, uideo, grex, saeuus, leaena",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,"saeuus, leaena",0.286
+italicus.ilias_latina,397.0,"quam, stimulo, ieiuno, fames, ruo, agmen, contra",7,"NaN, NaN, NaN, -0.5, NaN, -1.0, NaN",-0.214,-0.214,stimulo,0.143
+italicus.ilias_latina,398.0,"et, prosterno, neco, uesanus, corpus, dens",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,uesanus,0.167
+italicus.ilias_latina,399.0,"sic, ruo, in, medius, hostis, calydonius, heros",7,"NaN, NaN, NaN, 0.0, -1.0, NaN, NaN",-0.143,-0.143,,0.0
+italicus.ilias_latina,400.0,"uirgo, armiger, moneo, et, numen, tueor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uirgo,0.167
+italicus.ilias_latina,401.0,"conuerro, do, tergum, phryges, fugio, ille",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,402.0,"insto, et, exstruo, morientum, calco, aceruus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,403.0,"dum, ferio, sterno, uir, uideo, ecce, do",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,404.0,"aduerto, sto, furibundus, in, agmen, nascor",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,furibundus,0.167
+italicus.ilias_latina,405.0,"phegeaque, idaeumque, simul, qui, cuspis, phegeus",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,406.0,"occupo, ante, grauis, sed, uulnus, depello, umbo",7,"NaN, NaN, -0.5, NaN, -1.0, NaN, NaN",-0.214,-0.214,,0.0
+italicus.ilias_latina,407.0,"uitatumque, solum, ferrum, sto, haud, mora, totus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,408.0,"ingens, torqueo, tydides, uis, hasta",5,"-0.5, NaN, NaN, 1.0, NaN",0.1,-0.1,,0.0
+italicus.ilias_latina,409.0,"transadigo, uir, pectus, pars, cuspis, ante",6,"NaN, 0.5, NaN, 0.0, -1.0, NaN",-0.083,-0.167,transadigo,0.167
+italicus.ilias_latina,410.0,"emineo, et, prodeo, scapulis, pars, alter, fodio",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,411.0,"hic, ubi, fundo, calidus, de, pectus, flumen",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+italicus.ilias_latina,412.0,"uersantemque, oculus, anima, per, os, uomo",6,"NaN, 0.0, 0.5, NaN, 0.0, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,413.0,"conspicio, frater, stringo, celer, aduolo, ensis",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,414.0,"germanus, cupio, fatum, exsisto, uindex",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,uindex,0.2
+italicus.ilias_latina,415.0,"sed, neque, uis, saeuus, neque, fortis, sustineo, arma",8,"NaN, NaN, 1.0, -1.0, NaN, 0.5, NaN, 0.0",0.062,-0.125,saeuus,0.125
+italicus.ilias_latina,416.0,"tydidae, contra, tamen, defendo, tento",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,417.0,"ut, uolucris, discerpo, suus, cum, corpus, nascor",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,418.0,"accipitro, laniaris, uideo, neque, tendo, contra",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,accipitro,0.167
+italicus.ilias_latina,419.0,"auxilium, neque, fero, suus, ualeo, anxius, natus",7,"0.0, NaN, NaN, NaN, NaN, -1.0, 0.0",-0.143,-0.143,,0.0
+italicus.ilias_latina,420.0,"quisque, possum, leuis, plaudo, suus, pectus, penna",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,421.0,"sic, hostis, idaeus, germanus, caedes, superbus",6,"NaN, -1.0, NaN, NaN, -0.5, -1.0",-0.417,-0.417,caedes,0.167
+italicus.ilias_latina,422.0,"specto, atrox, mitto, nequeo, succurro, frater",6,"NaN, -1.0, NaN, NaN, NaN, 0.0",-0.167,-0.167,,0.0
+italicus.ilias_latina,423.0,"et, nisi, cedo, dextera, cado, idem",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,424.0,"neque, paruus, in, teucer, arma, furio, alter, atrides",8,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"teucer, furio, atrides",0.375
+italicus.ilias_latina,425.0,"insequor, acies, et, ferrum, funero, misceo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,426.0,"obuius, hic, fatum, occurro, duco, iniquus",6,"-0.5, NaN, 0.0, NaN, NaN, -1.0",-0.25,-0.25,"hic, iniquus",0.333
+italicus.ilias_latina,427.0,"infelix, odius, qui, uastus, cuspis, ictus",6,"-1.0, NaN, NaN, -1.0, -1.0, NaN",-0.5,-0.5,"infelix, uastus",0.333
+italicus.ilias_latina,428.0,"sterno, et, ingens, scapulae, transuerbero, hasta",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+italicus.ilias_latina,429.0,"hinc, peto, idomeneus, aduerso, pars, ruo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,430.0,"maeonide, -ne, phaestum, qui, post, funero, laetus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+italicus.ilias_latina,431.0,"et, strophium, gigno, stygius, demitto, ad, umbra",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,432.0,"merio, phereclum, libro, percutio, hasta",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,433.0,"pedaeumque, meges, tum, uastus, horridus, arma",6,"NaN, NaN, NaN, -1.0, -1.0, 0.0",-0.333,-0.333,uastus,0.167
+italicus.ilias_latina,434.0,"eurypylus, gladius, uenio, hypsenora, fundo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,435.0,"et, pariter, uita, iuuenis, spolio, et, arma",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,436.0,"pars, alius, uolito, sinuosus, pandarus, arcus",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,437.0,"tydidenque, oculus, immensus, per, agmen, quaero",6,"NaN, 0.0, 0.0, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,438.0,"qui, postquam, troum, sterno, corpus, uideo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,439.0,"horridus, contendo, de_-rego, spiculum, cornu",5,"-1.0, NaN, NaN, 0.0, NaN",-0.2,-0.2,,0.0
+italicus.ilias_latina,440.0,"et, superus, umerus, destringo, acumen, pars",6,"NaN, NaN, NaN, NaN, -1.0, 0.0",-0.167,-0.167,,0.0
+italicus.ilias_latina,441.0,"tum, uerus, ardescit, iuuenis, calydonius, ira",6,"NaN, 0.5, NaN, NaN, NaN, -1.0",-0.083,-0.167,ardescit,0.167
+italicus.ilias_latina,442.0,"in, medius, acies, animosus, mos, leo",6,"NaN, 0.0, 0.0, NaN, 0.5, NaN",0.083,0.0,leo,0.167
+italicus.ilias_latina,443.0,"fero, et, astynoum, magnus, quoque, hypirona, fundo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,444.0,"comminus, hic, gladius, iaculus, ferio, eminus, ille",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+italicus.ilias_latina,445.0,"inde, premo, polyido, -ne, abantaque, cuspis, fortis",7,"NaN, NaN, NaN, NaN, NaN, -1.0, 0.5",-0.071,-0.143,,0.0
+italicus.ilias_latina,446.0,"et, notus, bellum, xanthos, uastus, thoonem",6,"NaN, 0.0, 0.0, NaN, -1.0, NaN",-0.167,-0.167,uastus,0.167
+italicus.ilias_latina,447.0,"post, hic, infestus, chromis, et, echemmona, telum",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,hic,0.143
+italicus.ilias_latina,448.0,"proturbo, celer, parito, ad, tartara, mitto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,449.0,"tu, quoque, tydidae, prosterno, pandaris, dextera",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.167
+italicus.ilias_latina,450.0,"occaedes, infelix, accipio, uulnus, tristis",5,"NaN, -1.0, NaN, -1.0, -1.0",-0.6,-0.6,infelix,0.2
+italicus.ilias_latina,451.0,"dextera, qui, naris, frons, coniungo, imus",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,452.0,"dissipat, et, cerebrum, galea, cum, pars, reuello",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,453.0,"ossum, confodio, spargo, tydideus, ensis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,454.0,"iam, manus, aeneas, simul, et, calydonius, heros",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,455.0,"confero, iacio, inter, sui, comminus, hasta",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,456.0,"undique, rimo, inimicus, corpus, ferrum",5,"NaN, NaN, -1.0, 0.0, NaN",-0.2,-0.2,,0.0
+italicus.ilias_latina,457.0,"et, modo, cedo, retro, modo, deinde, coeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,458.0,"postquam, uterque, diu, sto, neque, uulnus, magnus",7,"NaN, NaN, NaN, NaN, NaN, -1.0, 0.0",-0.143,-0.143,,0.0
+italicus.ilias_latina,459.0,"qui, do, infesto, tydides, ensis, uideo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,460.0,"saxum, ingens, medium, qui, fors, iaceo, in, ager",8,"0.0, -0.5, NaN, NaN, 0.0, NaN, NaN, 0.0",-0.062,-0.062,iaceo,0.125
+italicus.ilias_latina,461.0,"bis, senex, qui, uix, iuuenis, tellus, moueo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,462.0,"tollo, et, magnus, conamen, mitto, in, hostis",7,"NaN, NaN, 0.0, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+italicus.ilias_latina,463.0,"ille, ruo, prosterno, humus, cum, fortis, arma",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 0.0",0.071,0.0,humus,0.143
+italicus.ilias_latina,464.0,"qui, uenus, aetherius, genetrix, delabor, per, aura",7,"NaN, 1.0, NaN, NaN, NaN, NaN, 1.0",0.286,0.0,,0.0
+italicus.ilias_latina,465.0,"accipio, et, niger, corpus, caligo, condio",6,"NaN, NaN, NaN, 0.0, -0.5, NaN",-0.083,-0.083,,0.0
+italicus.ilias_latina,466.0,"non, fero, oenides, animus, nebula, per, ipse",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,467.0,"fero, et, in, uenerem, flagro, irruo, arma",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,468.0,"et, neque, qui, demens, ferrum, peto, inspicio, aruum",8,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.125,-0.125,demens,0.125
+italicus.ilias_latina,469.0,"caelestis, manus, mortal, uulnero, hasta",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,470.0,"iacio, peto, caelum, terra, cytherea, relinquo",6,"NaN, NaN, 0.5, 0.0, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,471.0,"atque, ibi, sidereus, queror, suus, uulnus, mater",7,"NaN, NaN, NaN, NaN, NaN, -1.0, 0.0",-0.143,-0.143,,0.0
+italicus.ilias_latina,472.0,"dardanium, aeneas, seruo, troianus, apollo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,473.0,"accendo, animus, iterum, ad, bellum, reduco",6,"NaN, 0.5, NaN, NaN, 0.0, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,474.0,"undique, consurgo, acies, et, puluis, caelum",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+italicus.ilias_latina,475.0,"condio, horreo, sono, clamor, aether",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,476.0,"hic, alius, rapidus, deicio, in, aequor, currus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.143
+italicus.ilias_latina,477.0,"protero, pes, simul, calceo, equus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,protero,0.2
+italicus.ilias_latina,478.0,"atque, alius, uolucris, traiectus, corpus, telum",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,479.0,"quadrupedus, tergum, pronus, ruo, ille, ensis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,quadrupedus,0.167
+italicus.ilias_latina,480.0,"deicio, longus, caput, ab, ceruix, curro",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,481.0,"hic, iaceo, exanimus, fundo, super, arma, cerebrum",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, iaceo, exanimus",0.429
+italicus.ilias_latina,482.0,"sanguis, mano, humus, campus, sudor, madesco",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"humus, madesco",0.333
+italicus.ilias_latina,483.0,"emico, interea, uenio, pulcher, proles",5,"NaN, NaN, NaN, 1.0, 0.0",0.2,0.0,,0.0
+italicus.ilias_latina,484.0,"densus, graiorum, premo, agmen, nudo, latus",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,485.0,"tergum, metior, gladius, funestus, proelio, misceo",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,funestus,0.167
+italicus.ilias_latina,486.0,"neque, cesso, spes, unus, phrygum, fortis, hector",7,"NaN, NaN, 0.5, NaN, NaN, 0.5, NaN",0.143,0.0,,0.0
+italicus.ilias_latina,487.0,"sterno, caedes, uir, atque, agmen, uerto, graium",7,"NaN, -0.5, 0.5, NaN, -1.0, NaN, NaN",-0.143,-0.214,caedes,0.143
+italicus.ilias_latina,488.0,"ut, lupus, in, campus, pecus, cum, uideo, apertus",8,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,489.0,"non, actor, grex, ipse, comes, non, horridus, terreo",8,"NaN, 0.0, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,,0.0
+italicus.ilias_latina,490.0,"turba, canis, fremo, esurio, et, neglego, omnis",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,491.0,"in, medius, grex, auidus, ruo, haud, secus, hector",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,492.0,"inuado, danaos, et, territo, ensis, cruento",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,cruento,0.167
+italicus.ilias_latina,493.0,"deficio, graiorum, acies, phryges, acer, insto",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,494.0,"attollo, animus, gemino, uictoria, uis",5,"NaN, 0.5, NaN, NaN, 1.0",0.3,0.0,,0.0
+italicus.ilias_latina,495.0,"ut, uideo, socius, infesto, cedo, martes",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+italicus.ilias_latina,496.0,"rex, danaum, sublimis, equus, uolo, agmen, circum",7,"0.0, NaN, 0.5, NaN, NaN, -1.0, NaN",-0.071,-0.143,danaum,0.143
+italicus.ilias_latina,497.0,"horto, dux, animus, in, proelio, firmo",6,"NaN, 0.5, 0.5, NaN, NaN, NaN",0.167,0.0,,0.0
+italicus.ilias_latina,498.0,"mox, ipse, in, medius, audax, sui, proripio, hostis",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, -1.0",-0.125,-0.125,audax,0.125
+italicus.ilias_latina,499.0,"oppono, acies, stringo, diuerbero, ensis",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,500.0,"ut, libycus, cum, fors, leo, procul, agmen, uideo",8,"NaN, NaN, NaN, 0.0, NaN, NaN, -1.0, NaN",-0.125,-0.125,leo,0.125
+italicus.ilias_latina,501.0,"laetus, bos, passim, uiridis, erro, per, herba",7,"1.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.143,0.0,,0.0
+italicus.ilias_latina,502.0,"attollo, ceruix, iuba, sitio, cruor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,cruor,0.2
+italicus.ilias_latina,503.0,"in, medius, erigo, contendo, pectus, turba",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,504.0,"sic, ferus, atrides, aduerto, fero, in, hostis",7,"NaN, -1.0, NaN, NaN, NaN, NaN, -1.0",-0.286,-0.286,"ferus, atrides",0.286
+italicus.ilias_latina,505.0,"infestasque, phrygum, proturbo, cuspis, turma",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+italicus.ilias_latina,506.0,"uirtus, clarus, dux, uis, accendo, achiuum",6,"1.0, 0.5, 0.5, 1.0, NaN, NaN",0.5,0.0,,0.0
+italicus.ilias_latina,507.0,"et, spes, exacuo, langueo, miles, arma",6,"NaN, 0.5, NaN, NaN, 0.0, 0.0",0.083,0.0,,0.0
+italicus.ilias_latina,508.0,"fundo, teucer, danai, laeto, ouo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"teucer, danai",0.4
+italicus.ilias_latina,509.0,"tandem, hic, aeneas, immitto, tendo, currus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+italicus.ilias_latina,510.0,"conspicio, atrides, stringo, concurro, ferrum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,atrides,0.2
+italicus.ilias_latina,511.0,"comparo, et, iaculis, quantus, furor, ipse, moueo",7,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,furor,0.143
+italicus.ilias_latina,512.0,"uis, intorqueo, qui, defero, error, ab, ille",7,"1.0, NaN, NaN, NaN, -1.0, NaN, NaN",0.0,-0.143,,0.0
+italicus.ilias_latina,513.0,"pectus, in, auriga, stomachus, infigo, altus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+italicus.ilias_latina,514.0,"ille, ruo, ictus, medius, inter, lorum, roto",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,515.0,"uoluo, et, uita, calidus, cum, sanguis, fundo",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,516.0,"ingemo, aeneas, currus, animosus, ab, altus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+italicus.ilias_latina,517.0,"desilo, et, ualidus, crethonaque, comminus, ictus",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+italicus.ilias_latina,518.0,"orsilochumque, ferio, qui, post, funero, uinco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,519.0,"paphlagonum, ducto, menelai, concido, arma",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,520.0,"antilochique, mydo, -ne, post, hic, iuppiter, inclutus, proles",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, 0.0",0.062,0.0,hic,0.125
+italicus.ilias_latina,521.0,"sarpedo, -ne, bellum, funestus, proelio, misceo",6,"NaN, NaN, 0.0, -1.0, NaN, NaN",-0.167,-0.167,funestus,0.167
+italicus.ilias_latina,522.0,"qui, contra, infelix, non, aequus, dimico, arma",7,"NaN, NaN, -1.0, NaN, 0.5, NaN, 0.0",-0.071,-0.143,infelix,0.143
+italicus.ilias_latina,523.0,"tlepolemus, magnus, sero, herculis, sed, neque, uis",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+italicus.ilias_latina,524.0,"hic, seruo, pater, neque, tot, possum, labor",7,"NaN, NaN, 0.0, NaN, NaN, NaN, -0.5",-0.071,-0.071,hic,0.143
+italicus.ilias_latina,525.0,"quin, cado, tenuis, do, de, corpus, uita",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,526.0,"saucius, egredior, medium, certamen, bellum",5,"NaN, NaN, NaN, 0.5, 0.0",0.1,0.0,,0.0
+italicus.ilias_latina,527.0,"sarpedo, -ne, fraus, subeo, commento, ulixes",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,fraus,0.167
+italicus.ilias_latina,528.0,"et, septem, iuuenis, fortis, corpus, fundo",6,"NaN, NaN, NaN, 0.5, 0.0, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,529.0,"hinc, pugno, patria, colume, -ne, mauortius, hector",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,530.0,"illinc, tydides, sterno, utrimque, uir",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+italicus.ilias_latina,531.0,"corpus, per, campus, et, sanguis, pratum, rigo",7,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,532.0,"pugno, bellipotens, castus, cum, pallade, mauors",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,mauors,0.167
+italicus.ilias_latina,533.0,"ingens, moueo, clipeus, qui, sancio, uirago",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+italicus.ilias_latina,534.0,"ago, et, exter, percutio, cuspis, caedo",6,"NaN, NaN, 0.0, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,535.0,"attono, simul, caelum, peto, ipse, cogo",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,536.0,"hic, ille, aetherius, queror, suus, uulnus, rex",7,"NaN, NaN, NaN, NaN, NaN, -1.0, 0.0",-0.143,-0.143,hic,0.143
+italicus.ilias_latina,537.0,"saucius, et, magnus, genitor, iurgium, suffero",6,"NaN, NaN, 0.0, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,538.0,"interea, magnus, acamantem, uis, aiax",5,"NaN, 0.0, NaN, 1.0, NaN",0.2,0.0,,0.0
+italicus.ilias_latina,539.0,"interimo, uastus, capio, menelaus, adrastum",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,uastus,0.2
+italicus.ilias_latina,540.0,"et, rapio, ad, classis, manus, post, tergum, reuincio",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,classis,0.125
+italicus.ilias_latina,541.0,"ut, uis, deduco, laetus, ex, hostis, triumphus",7,"NaN, 1.0, NaN, 1.0, NaN, -1.0, NaN",0.143,-0.143,,0.0
+italicus.ilias_latina,542.0,"incumbo, danai, cedo, troianus, iuuentus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,danai,0.2
+italicus.ilias_latina,543.0,"tergum, nudo, tego, sentio, mauortius, hector",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,544.0,"pro, danais, pugno, deus, ualidasque, suus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,545.0,"uirgo, armiger, subduco, numen, uis",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,uirgo,0.2
+italicus.ilias_latina,546.0,"continuo, peto, murus, hecubamque, uoco",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,547.0,"impero, et, diua, placaris, numen, suadeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,548.0,"protinus, armo, innubo, palladis, arx",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,549.0,"iliades, subeo, festus, altare, serta",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,550.0,"exorno, caedo, sacer, ex, mos, bidens",6,"NaN, NaN, 1.0, NaN, 0.5, NaN",0.25,0.0,,0.0
+italicus.ilias_latina,551.0,"dum, prex, hecube, supplex, ad, templum, minerua",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hecube,0.143
+italicus.ilias_latina,552.0,"pro, caris, genetrix, obstino, et, coniunx, fundo",7,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+italicus.ilias_latina,553.0,"interea, glaucus, stringo, decerno, ferrum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,glaucus,0.2
+italicus.ilias_latina,554.0,"cum, diomede, paro, nomen, genus, rogo",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,555.0,"qui, sum, et, unde, fero, magnus, cum, uis, hasta",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 1.0, NaN",0.111,0.0,,0.0
+italicus.ilias_latina,556.0,"mitto, tento, tento, aetolius, heros",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,557.0,"quo, ruo, exclamo, qui, tu, scelero, furo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, scelero, furo",0.429
+italicus.ilias_latina,558.0,"mens, ago, imparis, cum, ego, concurro, telum",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,559.0,"hospes, arma, uideo, uenio, qui, uulnus, dexter",7,"0.0, 0.0, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+italicus.ilias_latina,560.0,"percello, et, superus, pungo, certamen, martes",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,561.0,"pono, trux, animus, infesto, telum, coerceo",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,"trux, coerceo",0.333
+italicus.ilias_latina,562.0,"post, hic, inter, sui, pono, certamen, pugna",7,"NaN, NaN, NaN, NaN, NaN, 0.5, -1.0",-0.071,-0.143,hic,0.143
+italicus.ilias_latina,563.0,"commuto, clipeus, inimicus, proelio, linquo",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,,0.0
+italicus.ilias_latina,564.0,"colloquium, peto, interea, fidus, coniunx",5,"-0.5, NaN, NaN, 1.0, -0.5",0.0,-0.2,,0.0
+italicus.ilias_latina,565.0,"hector, andromache, paruus, ad, pectus, natus",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,566.0,"astyanacta, teneo, qui, dum, magnus, heros",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,567.0,"osculum, paruus, peto, subeo, perterreo, infer",6,"0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,568.0,"conuerto, timidus, maternus, ad, pectus, uultus",6,"NaN, -0.5, NaN, NaN, NaN, NaN",-0.083,-0.083,timidus,0.167
+italicus.ilias_latina,569.0,"terribilis, fugio, galea, crista, como",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+italicus.ilias_latina,570.0,"utque, caput, iuuenis, pono, detego, aer",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,571.0,"protinus, infer, geminus, amplector, ulna",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,572.0,"attollo, manus, precor, o, pater, optume, dico",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,573.0,"ut, meus, hic, pro, quo, tuus, numen, nascor, adoro",9,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.111
+italicus.ilias_latina,574.0,"uirtus, patria, primus, imitor, ab, annus",6,"1.0, NaN, 0.5, NaN, NaN, 0.0",0.25,0.0,,0.0
+italicus.ilias_latina,575.0,"hic, aio, et, porta, acies, peto, acer, apertus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.125
+italicus.ilias_latina,576.0,"unus, deinde, paris, postquam, in, certamen, uenio, sum",8,"NaN, NaN, 0.5, NaN, NaN, 0.5, NaN, NaN",0.125,0.0,,0.0
+italicus.ilias_latina,577.0,"protinus, in, medius, procedo, magnus, hector",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,578.0,"graiorumque, dux, inuictus, prouoco, arma",5,"NaN, 0.5, 1.0, NaN, 0.0",0.3,0.0,,0.0
+italicus.ilias_latina,579.0,"neque, mora, continuo, fraus, commento, ulixes",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,fraus,0.167
+italicus.ilias_latina,580.0,"et, ferus, idomeneus, et, notus, gens, paternus",7,"NaN, -1.0, NaN, NaN, 0.0, 0.0, NaN",-0.143,-0.143,ferus,0.143
+italicus.ilias_latina,581.0,"merio, graiumque, simul, dux, acer, atrides",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,atrides,0.167
+italicus.ilias_latina,582.0,"a-iaceo, duo, et, claris, speciosus, in, arma",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,583.0,"eurypylus, magnus, thoas, andraemone, nascor",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,584.0,"quisque, manus, uenio, uiolo, uulnus, tristis",6,"NaN, 0.0, NaN, NaN, -1.0, -1.0",-0.333,-0.333,uiolo,0.167
+italicus.ilias_latina,585.0,"procedo, absum, nam, troum, terror, achilles",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,achilles,0.167
+italicus.ilias_latina,586.0,"et, cithara, dulcis, durus, lenio, amor",6,"NaN, NaN, 0.5, -0.5, NaN, 1.0",0.167,-0.083,,0.0
+italicus.ilias_latina,587.0,"ergo, ubi, deicio, auro, rex, atridae",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,588.0,"sors, in, galea, magnus, procedo, aiax",6,"-1.0, NaN, NaN, 0.0, NaN, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,589.0,"principium, iacio, committo, proelio, telum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,590.0,"mox, rigidus, stringo, ensis, et, fortis, arma",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 0.0",0.071,0.0,,0.0
+italicus.ilias_latina,591.0,"decerno, pars, oculus, rimo, aperio",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,592.0,"et, modo, tergum, peto, durus, modo, fortis, iacio",8,"NaN, NaN, NaN, NaN, -0.5, NaN, 0.5, NaN",0.0,-0.062,,0.0
+italicus.ilias_latina,593.0,"depello, clipeus, ingens, ad, sidus, clamor",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+italicus.ilias_latina,594.0,"tollo, et, uastus, impleo, uox, aer",6,"NaN, NaN, -1.0, NaN, 0.0, 0.0",-0.167,-0.167,uastus,0.167
+italicus.ilias_latina,595.0,"non, sic, saetigeri, exacuo, feruor, ira",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+italicus.ilias_latina,596.0,"pectus, peto, uastus, modo, dens, uncus",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,"uastus, uncus",0.333
+italicus.ilias_latina,597.0,"alternus, libro, gladius, et, uulnus, misceo",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,598.0,"fortis, tergum, premo, spumo, per, os, uicissim",7,"0.5, NaN, NaN, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,599.0,"fumifer, nubes, concretum, fulgur, et, ignis",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,fulgur,0.167
+italicus.ilias_latina,600.0,"iacto, magnus, impleo, murmur, silua",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,601.0,"talis, priamides, ardor, a-iacio, in, arma",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,602.0,"tandem, animus, telum, furo, telamonius, aiax",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,furo,0.167
+italicus.ilias_latina,603.0,"insignis, bellum, peto, hector, quisque, pateo",6,"0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,604.0,"nudo, uir, ceruix, fulgeo, de_-rego, ensis",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,605.0,"ille, ictus, celer, praeuideo, callidus, astus",6,"NaN, NaN, NaN, NaN, 1.0, -0.5",0.083,-0.083,"callidus, astus",0.333
+italicus.ilias_latina,606.0,"tergum, summitto, ferrum, umbo, repello",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,607.0,"sed, leuis, exter, clipeus, perlabor, ora",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,608.0,"ensis, et, exiguus, ceruix, uulnus, libo",6,"NaN, NaN, 0.0, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,609.0,"acer, impugno, rursus, consurgo, in, hostis",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+italicus.ilias_latina,610.0,"priamides, neque, iam, ferrum, telamo, creo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,611.0,"sed, magnus, saxum, iactus, peto, at, ferus, aiax",8,"NaN, 0.0, 0.0, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,ferus,0.125
+italicus.ilias_latina,612.0,"ingens, clipeus, septemplice, repello, ictus",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+italicus.ilias_latina,613.0,"et, iuuenis, saxum, percutio, sterno, idem",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,614.0,"qui, leuo, excipio, grais, inimicus, apollo",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,615.0,"integro, animus, iam, rursus, ad, arma, coeo",7,"NaN, 0.5, NaN, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,616.0,"stringebantque, iterum, gladius, cum, fessus, in, unda",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,617.0,"coepio, ignifer, titan, immergo, currus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,immergo,0.2
+italicus.ilias_latina,618.0,"nox, subeo, polus, iuxta, mitto, uter",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,619.0,"qui, dirimo, ab, caedes, uir, neque, segnis, ille",8,"NaN, NaN, NaN, -0.5, 0.5, NaN, NaN, NaN",0.0,-0.062,caedes,0.125
+italicus.ilias_latina,620.0,"depono, animus, tunc, bellum, magnus, hector",6,"NaN, 0.5, NaN, 0.0, 0.0, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,621.0,"qui, tu, terra, uir, qui, tu, gigno, parens",8,"NaN, NaN, 0.0, 0.5, NaN, NaN, NaN, 0.5",0.125,0.0,"tu, tu",0.25
+italicus.ilias_latina,622.0,"uis, sum, proles, generosus, atque, inclutus, dico",7,"1.0, NaN, 0.0, 1.0, NaN, 0.5, NaN",0.357,0.0,,0.0
+italicus.ilias_latina,623.0,"at, contra, sui, fero, paro, telamonius, aiax",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,624.0,"hesiona, de, mater, uideo, telamo, creo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,625.0,"nobilis, sum, domus, et, fama, generosus, propago",7,"1.0, NaN, 0.0, NaN, 1.0, 1.0, 0.0",0.429,0.0,,0.0
+italicus.ilias_latina,626.0,"hector, ut, hesionae, nomen, cado, recordor",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,627.0,"absisto, aio, sanguis, communis, uterque, sum",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,628.0,"et, prior, aeacide, -ne, auro, munero, ensis",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,629.0,"in, uicis, quo, sui, bellator, cingo, aiax",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,630.0,"accipio, insignis, uarius, caelamen, balteus",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,631.0,"post, hic, extemplo, graium, troumque, caterua",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+italicus.ilias_latina,632.0,"discedo, caelum, tego, nox, ater, tenebrae",6,"NaN, 0.5, NaN, 0.0, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,633.0,"impleo, daps, largior, bacchique, liquor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,bacchique,0.2
+italicus.ilias_latina,634.0,"atque, auidus, placidus, trado, suus, corpus, somnus",7,"NaN, NaN, 1.0, NaN, NaN, 0.0, 0.5",0.214,0.0,,0.0
+italicus.ilias_latina,635.0,"posterus, cum, primus, stella, aurora, fugo",6,"0.0, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,636.0,"in, coitus, uenio, phryges, tunc, magnus, hector",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,637.0,"cum, socius, memoro, hesternus, funero, caedes",6,"NaN, 1.0, NaN, NaN, NaN, -0.5",0.083,-0.083,caedes,0.167
+italicus.ilias_latina,638.0,"suadeo, ut, inuictus, helene, reddo, achiuis",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+italicus.ilias_latina,639.0,"praeda, qui, durus, menelai, mulceo, ignis",6,"NaN, NaN, -0.5, NaN, NaN, 0.0",-0.083,-0.083,,0.0
+italicus.ilias_latina,640.0,"is, placeo, cunctus, tunc, saeuus, mitto, atridae",7,"NaN, NaN, 0.0, NaN, -1.0, NaN, NaN",-0.143,-0.143,saeuus,0.143
+italicus.ilias_latina,641.0,"perfero, idaeus, troum, mandatum, neque, ille",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,642.0,"aut, animus, praeda, aut, dictum, accommodo, auris",7,"NaN, 0.5, NaN, NaN, 0.0, NaN, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,643.0,"ultro, etiam, castrum, idaeum, excedo, iubeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,644.0,"pareo, is, moneo, iterum, ad, castrum, reuorto",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,645.0,"troia, contemno, durus, sui, reddo, ab, hostis",7,"NaN, NaN, -0.5, NaN, NaN, NaN, -1.0",-0.214,-0.214,,0.0
+italicus.ilias_latina,646.0,"interea, danai, confundo, caedes, suus",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,"danai, caedes",0.4
+italicus.ilias_latina,647.0,"ingens, struo, pyra, colligo, passim",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+italicus.ilias_latina,648.0,"fortis, trado, socius, corpus, flamma",5,"0.5, NaN, 1.0, 0.0, NaN",0.3,0.0,,0.0
+italicus.ilias_latina,649.0,"tum, renouo, fossa, et, ualles, robur, cingo",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,650.0,"ut, nitidus, titan, radius, patefacio, orbis",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,651.0,"conuoco, in, coitus, superus, iuppiter, et, moneo, arma",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,652.0,"ne, contra, suus, dictum, uolo, contendo, diuus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,653.0,"ipse, per, aetherius, caelum, delabor, aura",6,"NaN, NaN, NaN, 0.5, NaN, 1.0",0.25,0.0,,0.0
+italicus.ilias_latina,654.0,"umbrosus, simul, consido, mons, idas",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,655.0,"inde, acies, uideo, iliacus, dexter, potens",6,"NaN, 0.0, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+italicus.ilias_latina,656.0,"sustineo, auro, aequo, pondus, lanx",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,657.0,"for, durus, phrygum, cado, expendo, achiuum",6,"NaN, -0.5, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+italicus.ilias_latina,658.0,"et, graium, clades, grauis, praepondero, arma",6,"NaN, NaN, -1.0, -0.5, NaN, 0.0",-0.25,-0.25,,0.0
+italicus.ilias_latina,659.0,"interea, danaos, ingens, concieo, ira",5,"NaN, NaN, -0.5, NaN, -1.0",-0.3,-0.3,,0.0
+italicus.ilias_latina,660.0,"priamides, ago, et, totus, grauis, immineo, arma",7,"NaN, NaN, NaN, NaN, -0.5, NaN, 0.0",-0.071,-0.071,,0.0
+italicus.ilias_latina,661.0,"unus, quippe, decus, phrygiae, turbo, achiui",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,662.0,"doricaque, ingens, compleo, castrum, tumultus",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+italicus.ilias_latina,663.0,"hortor, socius, murus, includo, atrides",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,atrides,0.2
+italicus.ilias_latina,664.0,"languentesque, animus, iuuenis, in, certamen, firmo",6,"NaN, 0.5, NaN, NaN, 0.5, NaN",0.167,0.0,,0.0
+italicus.ilias_latina,665.0,"princeps, tydides, fulgeo, ardeo, arma",5,"0.5, NaN, NaN, NaN, 0.0",0.1,0.0,,0.0
+italicus.ilias_latina,666.0,"per, medius, hostis, immanis, pondus, fero",6,"NaN, 0.0, -1.0, 0.0, NaN, NaN",-0.167,-0.167,immanis,0.167
+italicus.ilias_latina,667.0,"hic, ille, occurro, fatum, agelaus, iniquus",6,"NaN, NaN, NaN, 0.0, NaN, -1.0",-0.167,-0.167,"hic, iniquus",0.333
+italicus.ilias_latina,668.0,"telis, immanis, manus, quatio, qui, magnus, heros",7,"NaN, 0.0, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,immanis,0.143
+italicus.ilias_latina,669.0,"occupo, et, durus, medius, transuerbero, ensis",6,"NaN, NaN, -0.5, 0.0, NaN, NaN",-0.083,-0.083,,0.0
+italicus.ilias_latina,670.0,"hinc, phrygas, a-iacio, uastus, protego, in, arma",7,"NaN, NaN, NaN, -1.0, NaN, NaN, 0.0",-0.143,-0.143,uastus,0.143
+italicus.ilias_latina,671.0,"teucer, ago, spargo, leuis, in, tergum, sagitto",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,teucer,0.143
+italicus.ilias_latina,672.0,"gorgythiona, ferus, letal, uulnus, fundo",5,"NaN, -1.0, NaN, -1.0, NaN",-0.4,-0.4,ferus,0.2
+italicus.ilias_latina,673.0,"mox, alius, acies, peto, auriga, superbus",6,"NaN, NaN, 0.0, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+italicus.ilias_latina,674.0,"hector, obtrunco, qui, saxum, troius, heros",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,troius,0.167
+italicus.ilias_latina,675.0,"occupo, excutio, incautus, protero, arcus",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,protero,0.2
+italicus.ilias_latina,676.0,"at, ille, fidus, rapio, de, caedes, sodal",7,"NaN, NaN, 1.0, NaN, NaN, -0.5, NaN",0.071,-0.071,caedes,0.143
+italicus.ilias_latina,677.0,"prosterno, leuo, ruo, undique, turbidus, hector",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,678.0,"aduerso, acies, infestus, cuspis, terreo",5,"NaN, 0.0, -1.0, -1.0, NaN",-0.4,-0.4,,0.0
+italicus.ilias_latina,679.0,"sui, rursus, danai, turbo, caedes, suus",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,"danai, caedes",0.333
+italicus.ilias_latina,680.0,"conuerto, iterum, leuis, in, castrum, caterua",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,681.0,"confugio, porto, obicio, robur, firmo",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+italicus.ilias_latina,682.0,"at, phryges, obsido, includo, aggero, graios",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,683.0,"excubo, premo, murus, flamma, corono",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,684.0,"ceterus, per, campus, sterno, suus, corpus, pubes",7,"0.0, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,685.0,"indulgeo, merus, curo, animus, resoluo",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,indulgeo,0.2
+italicus.ilias_latina,686.0,"attono, danaum, proceres, discrimen, tantus",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,danaum,0.2
+italicus.ilias_latina,687.0,"neque, daps, releuo, animus, neque, corpus, curo",7,"NaN, NaN, NaN, 0.5, NaN, 0.0, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,688.0,"sed, miser, suus, fatum, gemo, mox, nestor, pello",8,"NaN, -1.0, NaN, 0.0, NaN, NaN, NaN, NaN",-0.125,-0.125,miser,0.125
+italicus.ilias_latina,689.0,"legatus, mitto, dexter, hortor, achillis",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,690.0,"ut, fero, auxilium, miser, thetideius, heros",6,"NaN, NaN, 0.0, -1.0, NaN, NaN",-0.167,-0.167,miser,0.167
+italicus.ilias_latina,691.0,"neque, danaum, capio, auris, prex, neque, munus, rex",8,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.5, 0.0",0.062,0.0,danaum,0.125
+italicus.ilias_latina,692.0,"ullus, refero, cupio, non, ille, reddo, ignis",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,693.0,"aut, intactus, suus, briseis, corpus, moueo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,694.0,"irrito, legatus, refero, respondeo, pelasgis",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,695.0,"et, daps, curo, animus, lenio, soporus",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,696.0,"alter, tenebra, tardus, labor, astrum",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,,0.0
+italicus.ilias_latina,697.0,"resto, super, taceo, pars, tertius, nox",6,"NaN, NaN, NaN, 0.0, 0.0, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,698.0,"cum, danaum, iussus, castrum, aetolius, heros",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,danaum,0.167
+italicus.ilias_latina,699.0,"egredior, socius, sui, deligo, ulixem",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+italicus.ilias_latina,700.0,"qui, cum, sui, taceo, sublustris, nox, in, umbra",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,701.0,"scrutor, studium, qui, sum, fiducia, troum",6,"NaN, 0.5, NaN, NaN, 0.5, NaN",0.167,0.0,,0.0
+italicus.ilias_latina,702.0,"quis, agito, quantasue, pareo, in, proelio, uis",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+italicus.ilias_latina,703.0,"dum, iter, horreo, locum, pernocto, paueo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,704.0,"carpo, uenio, ecce, dolus, -ne, qui, troia, pubes",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,dolus,0.125
+italicus.ilias_latina,705.0,"mitto, ut, danaum, sollerti, pectus, uis",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,danaum,0.167
+italicus.ilias_latina,706.0,"perspicio, sentio, dux, pleo, refero",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+italicus.ilias_latina,707.0,"qui, procul, ut, uideo, socius, diomedis, ulixes",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+italicus.ilias_latina,708.0,"abdo, occulto, suus, corpus, furtim",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,709.0,"post, densus, frutico, dum, spes, percutio, inanis",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,710.0,"tros, eumediades, cursus, praecedo, ille",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,711.0,"ne, facilis, opprimo, gradior, in, suus, castrum, refero",8,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+italicus.ilias_latina,712.0,"post, ubi, transeo, fido, animo, manus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,713.0,"prosilio, uir, iuuenis, euado, cursus",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+italicus.ilias_latina,714.0,"conor, capio, ferrum, manus, mino",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,715.0,"ille, timor, paueo, uita, concedo, dico",6,"NaN, -0.5, NaN, 0.0, NaN, NaN",-0.083,-0.083,,0.0
+italicus.ilias_latina,716.0,"hic, unus, satis, sum, quodsi, perstas, in, ira",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, -1.0",-0.062,-0.125,hic,0.125
+italicus.ilias_latina,717.0,"quantus, ex, mors, meus, capio, praemium, laus",7,"NaN, NaN, -1.0, 0.0, NaN, 1.0, 1.0",0.143,-0.143,,0.0
+italicus.ilias_latina,718.0,"at, si, cur, uenia, taceo, exquiro, umbra",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+italicus.ilias_latina,719.0,"maximus, troia, ego, currus, promitto, achillis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,720.0,"si, uester, capio, ops, hic, donum, sequor",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,hic,0.143
+italicus.ilias_latina,721.0,"in, dubius, casus, coram, qui, cerno, ipse",7,"NaN, -0.5, 0.0, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+italicus.ilias_latina,722.0,"infelix, cado, nunc, tu, per, numen, diuus",7,"-1.0, NaN, NaN, NaN, NaN, NaN, 0.0",-0.143,-0.143,"infelix, tu",0.286
+italicus.ilias_latina,723.0,"per, mare, per, dis, fluctus, obtestor, opacus",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,724.0,"ne, rapio, hic, anima, crudelis, caedes, uolo",7,"NaN, NaN, NaN, 0.5, -1.0, -0.5, NaN",-0.143,-0.214,"hic, crudelis, caedes",0.429
+italicus.ilias_latina,725.0,"hic, pro, concedo, refero, donum, salus",6,"NaN, NaN, NaN, NaN, 0.0, 1.0",0.167,0.0,hic,0.167
+italicus.ilias_latina,726.0,"consilium, priami, rex, res, ordo, gens",6,"0.5, NaN, 0.0, 0.0, 0.5, 0.0",0.167,0.0,,0.0
+italicus.ilias_latina,727.0,"expedio, phrygiae, postquam, quis, troia, paro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,728.0,"cognosco, uir, fauces, mucro, recludo",5,"NaN, 0.5, NaN, -1.0, NaN",-0.1,-0.2,,0.0
+italicus.ilias_latina,729.0,"detrudo, iuuenis, post, hic, tentorius, rhesi",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+italicus.ilias_latina,730.0,"intro, atque, ipse, somnus, uinum, sepelio",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,sepelio,0.167
+italicus.ilias_latina,731.0,"obtrunco, spolio, uir, fundo, per, herba",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,732.0,"exanimo, socius, tum, tristis, caedes, perago",6,"NaN, 1.0, NaN, -1.0, -0.5, NaN",-0.083,-0.25,"exanimo, caedes",0.333
+italicus.ilias_latina,733.0,"praeda, umerus, onero, multus, et, candor, niteo",7,"NaN, NaN, NaN, 0.0, NaN, 0.5, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,734.0,"thracas, equus, rapio, qui, neque, praecedo, eurus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,735.0,"neque, possum, uolucris, cursus, supero, sagitta",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,736.0,"inde, iterum, argolicas, primus, sub, tempus, lucus",7,"NaN, NaN, NaN, 0.5, NaN, 0.0, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,737.0,"ad, classis, redeo, qui, nestor, accipio, aetas",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,classis,0.143
+italicus.ilias_latina,738.0,"atque, recipio, porta, postquam, suus, castrum, teneo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,739.0,"facio, duco, refero, laudo, pelopeius, heros",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,740.0,"fatisco, iucundus, trado, suus, membrum, quiesco",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+italicus.ilias_latina,741.0,"lux, exorior, uir, in, pristinus, bellum, remitto",7,"NaN, NaN, 0.5, NaN, 0.0, 0.0, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,742.0,"instauro, animus, recreo, miles, pugna",5,"NaN, 0.5, NaN, 0.0, -1.0",-0.1,-0.2,,0.0
+italicus.ilias_latina,743.0,"dardanidum, danaumque, dux, uolo, undique, nubes",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,744.0,"telum, et, ferrum, ferrum, sono, undique, misceo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,745.0,"inter, sui, strideo, mucro, insto, utrimque",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,746.0,"densus, acies, misceo, fluo, cum, sanguis, sudor",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,747.0,"tandem, ferueo, danaum, rex, concieo, ira",6,"NaN, NaN, NaN, 0.0, NaN, -1.0",-0.167,-0.167,danaum,0.167
+italicus.ilias_latina,748.0,"antipho, -ne, ingens, prosterno, uulnus, fundo",6,"NaN, NaN, -0.5, NaN, -1.0, NaN",-0.25,-0.25,,0.0
+italicus.ilias_latina,749.0,"pisandrumque, simul, frater, ad, bellum, ruo",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,750.0,"hippolochum, post, hic, gladius, peto, iphidamanta",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+italicus.ilias_latina,751.0,"hic, frater, dexter, iaculus, ferio, ille, dolor",7,"NaN, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,hic,0.143
+italicus.ilias_latina,752.0,"acer, accipio, fugio, antenore, natus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,753.0,"persequor, traho, ferox, cum, uulnus, poena",6,"NaN, NaN, -1.0, NaN, -1.0, -1.0",-0.5,-0.5,"ferox, poena",0.333
+italicus.ilias_latina,754.0,"hector, tunc, pugna, subeo, acer, concieo, ira",7,"NaN, NaN, -1.0, NaN, NaN, NaN, -1.0",-0.286,-0.286,,0.0
+italicus.ilias_latina,755.0,"priamides, et, percutio, ago, undique, graios",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,756.0,"neque, paris, hostilis, cesso, prosterno, turma",6,"NaN, 0.5, -1.0, NaN, NaN, NaN",-0.083,-0.167,hostilis,0.167
+italicus.ilias_latina,757.0,"eurypylique, femur, contendo, uulnero, arcus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,758.0,"incumbo, troes, fugio, in, castrum, pelasgi",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,759.0,"uis, exhaurio, et, uastus, undique, firmo",6,"1.0, NaN, NaN, -1.0, NaN, NaN",0.0,-0.167,uastus,0.167
+italicus.ilias_latina,760.0,"obicibus, murus, tum, saxum, martius, hector",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,761.0,"perfringo, porta, ferratus, robur, laxo",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+italicus.ilias_latina,762.0,"irrumpunt, aditus, phryges, atque, in, limen, primus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+italicus.ilias_latina,763.0,"resto, sterno, graios, uallo, caterua",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,764.0,"deturbo, alius, scala, in, moenia, posco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,765.0,"et, iacio, ignis, augeo, uictoria, uis",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,,0.0
+italicus.ilias_latina,766.0,"de, murus, pugno, danai, turris, per, alo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,danai,0.143
+italicus.ilias_latina,767.0,"saxum, uolo, subeo, ago, testudo, troes",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,768.0,"ascendo, aditus, et, porta, uis, insto",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+italicus.ilias_latina,769.0,"turbo, fugio, omnis, iam, castrum, pelasgi",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,770.0,"et, scando, puppis, urget, troianus, iuuentus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,771.0,"telum, creber, iacio, resono, clamor, aether",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,772.0,"neptunus, uis, danais, animus, ministro",5,"NaN, 1.0, NaN, 0.5, NaN",0.3,0.0,,0.0
+italicus.ilias_latina,773.0,"pugno, ingens, orior, furio, istinc, hostis, et, illinc",8,"NaN, -0.5, NaN, NaN, NaN, -1.0, NaN, NaN",-0.188,-0.188,furio,0.125
+italicus.ilias_latina,774.0,"idomenei, dextera, cado, asius, hector, atrox",6,"NaN, 0.0, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+italicus.ilias_latina,775.0,"amphimachum, obtrunco, neque, non, occumbo, in, arma",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,776.0,"anchisae, gener, alcathous, qui, fundo, ensis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,777.0,"magnanimus, ducto, rhytieus, tunc, feruidus, hasta",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+italicus.ilias_latina,778.0,"deiphobus, ferio, ascalaphum, mergo, sub, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,779.0,"hector, ubique, ferus, uiolentus, pectus, saeuio",6,"NaN, NaN, -1.0, -1.0, NaN, NaN",-0.333,-0.333,"ferus, saeuio",0.333
+italicus.ilias_latina,780.0,"qui, saxum, ingens, percutio, magnus, aiax",6,"NaN, 0.0, -0.5, NaN, 0.0, NaN",-0.083,-0.083,,0.0
+italicus.ilias_latina,781.0,"depello, et, totus, prosterno, corpus, fundo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,782.0,"concurro, troianus, manus, iuuenis, uomo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,783.0,"sanguineus, fluctus, xanthos, lauo, fluo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,784.0,"inde, iterum, ad, pugna, redeo, fio, maximus, caedes",8,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, -0.5",-0.188,-0.188,caedes,0.125
+italicus.ilias_latina,785.0,"ambo, et, mano, tellus, inficio, cruor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,cruor,0.167
+italicus.ilias_latina,786.0,"polydamas, ualidus, prothoenora, percutio, ictus",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+italicus.ilias_latina,787.0,"archelochumque, antenoride, -ne, telamonius, aiax",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,788.0,"boeotumque, acamas, promachum, qui, sterno, atrox",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+italicus.ilias_latina,789.0,"penelei, dextera, inde, cado, priameia, pubes",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,790.0,"acer, insurgo, troes, ad, achaica, bellum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,791.0,"no, -ne",2,"NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,792.0,"pello, metus, ualles, et, murus, aggero, saepio",7,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+italicus.ilias_latina,793.0,"transiliunt, alius, fossa, uoluo, in, ipse",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,794.0,"aduolo, interea, danaum, metus, impiger, hector",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,danaum,0.167
+italicus.ilias_latina,795.0,"confugio, iterum, ad, classis, agamemnon, ala",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,classis,0.167
+italicus.ilias_latina,796.0,"atque, inde, aduerto, propello, uis, hostis",6,"NaN, NaN, NaN, NaN, 1.0, -1.0",0.0,-0.167,,0.0
+italicus.ilias_latina,797.0,"fio, pugno, ante, ratis, saeuio, mauortius, hector",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,saeuio,0.143
+italicus.ilias_latina,798.0,"et, posco, flamma, totus, incendo, classis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,classis,0.167
+italicus.ilias_latina,799.0,"appario, hic, ualidus, obsisto, uis, aiax",6,"NaN, NaN, 1.0, NaN, 1.0, NaN",0.333,0.0,hic,0.167
+italicus.ilias_latina,800.0,"sto, primus, in, puppis, clipeus, incendium, saeuus",7,"NaN, 0.5, NaN, NaN, NaN, NaN, -1.0",-0.071,-0.143,saeuus,0.143
+italicus.ilias_latina,801.0,"sustineo, et, solus, defendo, mille, carino",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+italicus.ilias_latina,802.0,"hinc, iacio, danai, robustus, cuspis, hasta",6,"NaN, NaN, NaN, 1.0, -1.0, NaN",0.0,-0.167,danai,0.167
+italicus.ilias_latina,803.0,"illinc, ardeo, taeda, phryges, undique, iacto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,taeda,0.167
+italicus.ilias_latina,804.0,"per, uastus, sudor, pugnantum, defluo, artus",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,uastus,0.167
+italicus.ilias_latina,805.0,"non, ualeo, ultra, clades, specto, suus",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,806.0,"patroclus, subeo, arma, munio, achillis",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,807.0,"prouolo, et, fallo, conterreo, imago, troas",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fallo,0.167
+italicus.ilias_latina,808.0,"qui, modo, turbo, danaos, animo, fremo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,809.0,"nunc, trepidus, fugio, fugio, immineo, ille",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,810.0,"perturbo, ferox, acies, uastus, per, agmen",6,"NaN, -1.0, 0.0, -1.0, NaN, -1.0",-0.5,-0.5,"ferox, uastus",0.333
+italicus.ilias_latina,811.0,"sterno, et, ingens, sarpedona, uulnus, fundo",6,"NaN, NaN, -0.5, NaN, -1.0, NaN",-0.25,-0.25,,0.0
+italicus.ilias_latina,812.0,"et, nunc, hic, cursus, nunc, ille, praetereo, ardeo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+italicus.ilias_latina,813.0,"proelio, horreo, sub, imago, uerso, achillis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,814.0,"qui, postquam, socio, misceo, caedes, caterua",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,caedes,0.167
+italicus.ilias_latina,815.0,"turbo, acies, respicio, feruidus, hector",5,"NaN, 0.0, NaN, -0.5, NaN",-0.1,-0.1,,0.0
+italicus.ilias_latina,816.0,"tollo, atrox, animus, uastus, immanis, in, arma",7,"NaN, -1.0, 0.5, -1.0, 0.0, NaN, 0.0",-0.214,-0.286,"uastus, immanis",0.286
+italicus.ilias_latina,817.0,"occurro, contra, magnus, hic, increpo, os",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,"hic, increpo",0.333
+italicus.ilias_latina,818.0,"huc, ago, huc, conuerto, gradus, fortis, achilles",7,"NaN, NaN, NaN, NaN, 0.0, 0.5, NaN",0.071,0.0,achilles,0.143
+italicus.ilias_latina,819.0,"iam, nosco, ultrix, quis, troica, dextera, possum",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,ultrix,0.143
+italicus.ilias_latina,820.0,"et, quantus, bellum, ualeo, fortis, hector",6,"NaN, NaN, 0.0, NaN, 0.5, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,821.0,"nam, licet, ipse, suus, mauors, tu, protego, arma",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"mauors, tu",0.25
+italicus.ilias_latina,822.0,"inuitus, tamen, hic, perimo, tu, dextera, martes",7,"-0.5, NaN, NaN, NaN, NaN, 0.0, NaN",-0.071,-0.071,"hic, tu",0.286
+italicus.ilias_latina,823.0,"ille, sileo, sperno, minae, animosus, dictum",6,"NaN, NaN, NaN, -0.5, NaN, 0.0",-0.083,-0.083,,0.0
+italicus.ilias_latina,824.0,"ut, qui, mentior, uerus, credo, achilles",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,achilles,0.167
+italicus.ilias_latina,825.0,"tunc, prior, intorqueo, colligo, uis, hasta",6,"NaN, 0.5, NaN, NaN, 1.0, NaN",0.25,0.0,,0.0
+italicus.ilias_latina,826.0,"dardanides, quam, prolabor, celer, excipio, ictus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,827.0,"patroclus, reddo, uicis, et, mutuus, donum",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,828.0,"qui, clipeus, excutio, uiridis, tellus, re-sedeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,829.0,"tunc, rigidus, stringo, ensis, et, comminus, arma",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,830.0,"inter, sui, misceo, donec, troianus, apollo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,831.0,"mentior, uultus, simulo, pando, achillis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,832.0,"denudo, uir, qui, bellum, magnus, hector",6,"NaN, 0.5, NaN, 0.0, 0.0, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,833.0,"pugno, falsum, postquam, deprehendo, in, arma",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,834.0,"irruo, et, iuuenis, nudo, pectus, ferrum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,835.0,"traicio, et, uictor, uulcania, detraho, arma",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,836.0,"uindico, exstinguo, corpus, telamonius, aiax",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,exstinguo,0.2
+italicus.ilias_latina,837.0,"oppono, tego, clipeus, priameia, pubes",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,838.0,"laetitia, exsulto, danai, suus, uulnus, maereo",6,"1.0, NaN, NaN, NaN, -1.0, NaN",0.0,-0.167,danai,0.167
+italicus.ilias_latina,839.0,"interea, iuuenis, tristis, cum, pubes, suus",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,840.0,"nestorides, in, castrum, fero, miserabilis, corpus",6,"NaN, NaN, NaN, NaN, -1.0, 0.0",-0.167,-0.167,miserabilis,0.167
+italicus.ilias_latina,841.0,"tunc, ut, pelidae, auris, diuerbero, horror",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+italicus.ilias_latina,842.0,"palleo, infelix, iuuenis, calor, os, relinquo",6,"NaN, -1.0, NaN, 0.0, 0.0, NaN",-0.167,-0.167,infelix,0.167
+italicus.ilias_latina,843.0,"membrum, simul, lacrimo, maternus, innecto, amictus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+italicus.ilias_latina,844.0,"defleo, aeacides, tristis, de, caedes, sodalis",6,"NaN, NaN, -1.0, NaN, -0.5, 1.0",-0.083,-0.25,"aeacides, caedes",0.333
+italicus.ilias_latina,845.0,"unguis, os, seco, como, in, puluis, crinis",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,846.0,"deformo, scindo, firmus, de, pectus, uestis",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,"deformo, uestis",0.333
+italicus.ilias_latina,847.0,"et, super, exstinguo, prosterno, membrum, sodalis",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,exstinguo,0.167
+italicus.ilias_latina,848.0,"crudelis, fundo, queror, atque, osculum, figo",6,"-1.0, NaN, NaN, NaN, 0.0, NaN",-0.167,-0.167,crudelis,0.167
+italicus.ilias_latina,849.0,"mox, ubi, depono, gemitus, lacrima, quiesco",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+italicus.ilias_latina,850.0,"non, impunis, meus, laetor, caedes, sodalis",6,"NaN, -0.5, 0.0, NaN, -0.5, 1.0",0.0,-0.167,"impunis, caedes",0.333
+italicus.ilias_latina,851.0,"hector, aio, magnus, meus, uiolens, dolor",6,"NaN, NaN, 0.0, 0.0, NaN, -1.0",-0.167,-0.167,,0.0
+italicus.ilias_latina,852.0,"persoluo, poena, atque, iste, uictor, in, arma",7,"NaN, -1.0, NaN, NaN, NaN, NaN, 0.0",-0.143,-0.143,poena,0.143
+italicus.ilias_latina,853.0,"in, qui, exsulto, fundo, morior, cruor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,cruor,0.167
+italicus.ilias_latina,854.0,"post, hic, accendo, furia, decurro, ad, aequor",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, furia",0.286
+italicus.ilias_latina,855.0,"fortis, arma, theti, -ne, supplex, rogo, ille, relinquo",8,"0.5, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.062,0.0,theti,0.125
+italicus.ilias_latina,856.0,"fluctus, auxilium, uulcani, protinus, oro",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,857.0,"excito, aetnaeos, calidus, fornacibus, ignis",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,858.0,"mulciber, et, ualidus, fuluus, domo, ictus, aurum",7,"NaN, NaN, 1.0, NaN, NaN, NaN, 0.5",0.214,0.0,,0.0
+italicus.ilias_latina,859.0,"mox, efficio, refero, diuinus, ars, arma",6,"NaN, NaN, NaN, 0.5, 0.0, 0.0",0.083,0.0,,0.0
+italicus.ilias_latina,860.0,"euolo, inde, thetis, qui, postquam, magnus, achilles",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"thetis, achilles",0.286
+italicus.ilias_latina,861.0,"induo, in, clipeus, uultus, conuerto, atrox",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+italicus.ilias_latina,862.0,"illic, ignipotens, mundus, caelo, arx",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+italicus.ilias_latina,863.0,"sidus, et, liquidus, re-imito, undique, nympha",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,864.0,"oceani, terra, et, cingo, nerea, circum",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,865.0,"astrum, uicis, dimetior, tempus, nox",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,866.0,"quattuor, et, mundus, pars, quantus, arctos, ab, auster",8,"NaN, NaN, 1.0, 0.0, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+italicus.ilias_latina,867.0,"et, quantus, occido, roseus, disto, ab, ortus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,occido,0.143
+italicus.ilias_latina,868.0,"lucifer, unde, suus, unde, hesperus, unus, uterque",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,869.0,"exoreretur, equus, et, quantus, in, orbis, meo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,870.0,"luna, cauus, et, nitidus, lustro, lampas, caelum",7,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.5",0.143,0.0,,0.0
+italicus.ilias_latina,871.0,"addo, fretus, suus, numen, nerea, magnus",6,"NaN, 0.5, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+italicus.ilias_latina,872.0,"oceanumque, senex, neque, idem, protea, semper",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,873.0,"tritonasque, ferus, et, amo, dorida, fluctus",6,"NaN, -1.0, NaN, NaN, NaN, 0.0",-0.167,-0.167,ferus,0.167
+italicus.ilias_latina,874.0,"facio, et, liquidus, mirus, nereidas, ars",6,"NaN, NaN, NaN, 1.0, NaN, 0.0",0.167,0.0,,0.0
+italicus.ilias_latina,875.0,"terra, gero, silua, horreo, monstrum, ferus",6,"0.0, NaN, NaN, NaN, 0.5, -1.0",-0.083,-0.167,"monstrum, ferus",0.333
+italicus.ilias_latina,876.0,"flumen, et, mons, cum, altus, oppidum, murus",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,877.0,"in, qui, exerceo, lex, annosus, ius",6,"NaN, NaN, NaN, 0.5, NaN, 0.5",0.167,0.0,,0.0
+italicus.ilias_latina,878.0,"certo, populus, sedeo, illic, aequus, uterque",6,"NaN, 0.0, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,879.0,"iudex, et, lito, discerno, frons, serenus",6,"0.5, NaN, NaN, NaN, 0.0, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,880.0,"pars, alius, castus, resono, paeana, puella",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,881.0,"do, chorus, mollis, et, tympanum, dextera, pulso",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,882.0,"ille, lyra, gracilis, ex-tendo, polliceo, chorda",6,"NaN, 0.0, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+italicus.ilias_latina,883.0,"percurro, septem, modus, modulor, auena",5,"NaN, NaN, 0.5, NaN, 0.0",0.1,0.0,,0.0
+italicus.ilias_latina,884.0,"carmen, compono, mundus, resono, motus",5,"0.0, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+italicus.ilias_latina,885.0,"rus, colo, alius, sulco, grauis, aruum, iuuencus",7,"0.0, NaN, NaN, NaN, -0.5, NaN, NaN",-0.071,-0.071,,0.0
+italicus.ilias_latina,886.0,"maturo, metior, robustus, messor, arista",5,"NaN, NaN, 1.0, 0.0, NaN",0.2,0.0,,0.0
+italicus.ilias_latina,887.0,"et, gaudeo, premo, immundus, uinitor, uua",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+italicus.ilias_latina,888.0,"tondeo, pratum, grex, pendeo, in, rupes, capella",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,capella,0.143
+italicus.ilias_latina,889.0,"hic, inter, medius, sto, mars, aureus, arma",7,"NaN, NaN, 0.0, NaN, NaN, 0.5, 0.0",0.071,0.0,hic,0.143
+italicus.ilias_latina,890.0,"qui, diuus, poesis, reliquus, circo, sedeo",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,891.0,"anguineus, maestus, clotho, lachesisque, capillus",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,capillus,0.2
+italicus.ilias_latina,892.0,"talis, orno, donum, thetideius, heros",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,893.0,"in, medius, acies, immanis, turbo, fero",6,"NaN, 0.0, 0.0, 0.0, NaN, NaN",0.0,0.0,immanis,0.167
+italicus.ilias_latina,894.0,"qui, uis, praebeo, castus, cum, pallade, iuno",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+italicus.ilias_latina,895.0,"do, animus, iuuenis, uideo, cythereius, heros",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,896.0,"occurro, uir, sed, non, cum, uis, aequus",7,"NaN, 0.5, NaN, NaN, NaN, 1.0, 0.5",0.286,0.0,,0.0
+italicus.ilias_latina,897.0,"aeacides, neque, compar, sum, tamen, ira, cogo",7,"NaN, NaN, 0.0, NaN, NaN, -1.0, NaN",-0.143,-0.143,aeacides,0.143
+italicus.ilias_latina,898.0,"confero, inuictus, iuuenis, cum, uis, arma",6,"NaN, 1.0, NaN, NaN, 1.0, 0.0",0.333,0.0,,0.0
+italicus.ilias_latina,899.0,"qui, nisi, seruo, magnaris, rector, aqua",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,900.0,"ut, profugus, laetus, troiam, reparo, in, aruum",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+italicus.ilias_latina,901.0,"augustus, genus, claris, summitto, astrum",5,"1.0, 0.0, NaN, NaN, NaN",0.2,0.0,,0.0
+italicus.ilias_latina,902.0,"non, clarus, gens, nos, maneo, origo",6,"NaN, 0.5, 0.0, NaN, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,903.0,"inde, ago, aeacides, infestus, cuspis, teucer",6,"NaN, NaN, NaN, -1.0, -1.0, NaN",-0.333,-0.333,"aeacides, teucer",0.333
+italicus.ilias_latina,904.0,"ingens, modus, prosterno, caedes, uir",5,"-0.5, 0.5, NaN, -0.5, 0.5",0.0,-0.2,caedes,0.2
+italicus.ilias_latina,905.0,"sanguis, hectorei, sitio, at, dardanus, pubes",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,906.0,"confugio, ad, xanthos, rapidus, perterreo, fluctus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,907.0,"auxilium, peto, diuinus, flumen, ille",5,"0.0, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+italicus.ilias_latina,908.0,"insto, et, in, medius, pugno, gurges, unda",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,gurges,0.143
+italicus.ilias_latina,909.0,"ira, do, uis, stringo, sanguis, ripa",6,"-1.0, NaN, 1.0, NaN, NaN, NaN",0.0,-0.167,,0.0
+italicus.ilias_latina,910.0,"spargo, per, totus, uoluo, corpus, fluctus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,911.0,"at, uenus, et, phrygiae, gens, tutator, apollo",7,"NaN, 1.0, NaN, NaN, 0.0, NaN, NaN",0.143,0.0,,0.0
+italicus.ilias_latina,912.0,"cogo, in, danaos, xanthos, consurgo, fluctus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,913.0,"ut, ferus, terribilis, misceo, proelio, dextera",6,"NaN, -1.0, -0.5, NaN, NaN, 0.0",-0.25,-0.25,ferus,0.167
+italicus.ilias_latina,914.0,"obruo, aeacide, -ne, qui, protinus, undique, totus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,915.0,"exspatior, aqua, et, uastus, gurges, praeceps",6,"NaN, 0.0, NaN, -1.0, NaN, NaN",-0.167,-0.167,"uastus, gurges",0.333
+italicus.ilias_latina,916.0,"uoluo, atque, uir, torreo, impedio, unda",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,,0.0
+italicus.ilias_latina,917.0,"prae-tardo, gradus, ille, omnis, corpus, saeuus",6,"NaN, 0.0, NaN, NaN, 0.0, -1.0",-0.167,-0.167,saeuus,0.167
+italicus.ilias_latina,918.0,"contra, pugno, aqua, aduerso, flumen, rumpo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,919.0,"et, modo, dis-iacio, umerus, modo, pectus, uastus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,uastus,0.143
+italicus.ilias_latina,920.0,"propello, fluctus, qui, longus, prouidus, iuno",6,"NaN, 0.0, NaN, 0.0, 1.0, NaN",0.167,0.0,,0.0
+italicus.ilias_latina,921.0,"assero, rapidus, quia, cedo, ignis, unda",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,922.0,"sancio, pugno, inter, sui, numen, diuus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,923.0,"rursus, ago, phrygias, ingens, caedes, caterua",6,"NaN, NaN, NaN, -0.5, -0.5, NaN",-0.167,-0.167,caedes,0.167
+italicus.ilias_latina,924.0,"horridus, aeacides, bellus, ardor, resumo",5,"-1.0, NaN, 1.0, NaN, NaN",0.0,-0.2,aeacides,0.2
+italicus.ilias_latina,925.0,"funereus, acies, horreo, proelio, misceo",5,"-0.5, 0.0, NaN, NaN, NaN",-0.1,-0.1,,0.0
+italicus.ilias_latina,926.0,"non, ille, uolo, ullus, moueo, non, saeuus, fatigo",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,saeuus,0.125
+italicus.ilias_latina,927.0,"pectus, bellor, uis, successus, adaugeo",5,"NaN, NaN, 1.0, 0.5, NaN",0.3,0.0,,0.0
+italicus.ilias_latina,928.0,"percutio, dubito, trepido, formido, troes",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+italicus.ilias_latina,929.0,"atque, intra, murus, exhaurio, paene, salus",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+italicus.ilias_latina,930.0,"confugio, porto, obicio, robur, firmo",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+italicus.ilias_latina,931.0,"unus, totus, salus, in, quo, troianus, maneo",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+italicus.ilias_latina,932.0,"hector, adsum, qui, non, durus, timor, undique, mors",8,"NaN, NaN, NaN, NaN, -0.5, -0.5, NaN, -1.0",-0.25,-0.25,,0.0
+italicus.ilias_latina,933.0,"non, patria, teneo, prex, quin, obuius, eo",7,"NaN, NaN, NaN, 0.0, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+italicus.ilias_latina,934.0,"et, contra, magnus, contendo, uolo, achillem",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,935.0,"qui, procul, ut, uideo, tectum, caelestis, arma",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,936.0,"ante, oculus, subeo, uideo, sum, tritonia, pallas",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tritonia,0.143
+italicus.ilias_latina,937.0,"pertimesco, claudo, fugio, suus, moenia, circum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,938.0,"infelix, porta, sequor, nereius, heros",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,infelix,0.2
+italicus.ilias_latina,939.0,"in, somnus, ueluti, cum, pectus, terreo, ira",7,"NaN, 0.5, NaN, NaN, NaN, NaN, -1.0",-0.071,-0.143,,0.0
+italicus.ilias_latina,940.0,"hic, cursus, super, insequor, fugio, ille, uideo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+italicus.ilias_latina,941.0,"festino, ambo, gradior, labor, ipse, moror",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+italicus.ilias_latina,942.0,"alternus, possum, insisto, coepio, periculum",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+italicus.ilias_latina,943.0,"neque, requies, adsum, timor, undique, concito, ira",7,"NaN, NaN, NaN, -0.5, NaN, NaN, -1.0",-0.214,-0.214,,0.0
+italicus.ilias_latina,944.0,"specto, de, murus, miser, suus, fatum, parens",7,"NaN, NaN, NaN, -1.0, NaN, 0.0, 0.5",-0.071,-0.143,miser,0.143
+italicus.ilias_latina,945.0,"palleo, uideo, superus, tempus, natus",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,946.0,"qui, iam, summus, dies, superus, lux, premo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,947.0,"hic, subeo, ante, oculus, similis, tritonia, frater",7,"NaN, NaN, NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,"hic, tritonia",0.286
+italicus.ilias_latina,948.0,"occurro, iuuenis, simulo, decipio, os",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,decipio,0.2
+italicus.ilias_latina,949.0,"nam, cum, deiphobi, tueor, sui, credo, arma",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,950.0,"transfero, ad, danaos, iterum, suus, numen, pallas",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,951.0,"concurro, iacio, inter, sui, comminus, hasta",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,952.0,"inuictus, iuuenis, hic, uastus, intono, arma",6,"1.0, NaN, NaN, -1.0, NaN, 0.0",0.0,-0.167,"hic, uastus",0.333
+italicus.ilias_latina,953.0,"ille, hostis, ualidus, nequiquam, umbo, repello",6,"NaN, -1.0, 1.0, NaN, NaN, NaN",0.0,-0.167,,0.0
+italicus.ilias_latina,954.0,"alternus, ferox, muto, congressus, iacio",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,ferox,0.2
+italicus.ilias_latina,955.0,"sudor, ago, riuus, ensis, tero, horridus, ensis",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+italicus.ilias_latina,956.0,"confero, haereo, pes, pes, et, dextera, dexter",7,"NaN, NaN, 0.0, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,957.0,"hasta, iam, manus, saeuus, libro, achilles",6,"NaN, NaN, 0.0, -1.0, NaN, NaN",-0.167,-0.167,"saeuus, achilles",0.333
+italicus.ilias_latina,958.0,"in, uir, magnus, emitto, uis, ago",6,"NaN, 0.5, 0.0, NaN, 1.0, NaN",0.25,0.0,,0.0
+italicus.ilias_latina,959.0,"quam, praeterlabor, uito, callidus, hector",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,callidus,0.2
+italicus.ilias_latina,960.0,"exclamo, danai, contra, priameius, heros",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,danai,0.2
+italicus.ilias_latina,961.0,"uibratum, iaculis, uulcania, torqueo, in, arma",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,962.0,"neque, successus, adsum, nam, durus, inflecto, aurum",7,"NaN, 0.5, NaN, NaN, -0.5, NaN, 0.5",0.071,-0.071,,0.0
+italicus.ilias_latina,963.0,"dissiluitque, mucro, gemo, agmen, troum",5,"NaN, -1.0, NaN, -1.0, NaN",-0.4,-0.4,,0.0
+italicus.ilias_latina,964.0,"concurro, iterum, confero, fortis, arma",5,"NaN, NaN, NaN, 0.5, 0.0",0.1,0.0,,0.0
+italicus.ilias_latina,965.0,"in, uicis, durus, euito, comminus, ensis",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+italicus.ilias_latina,966.0,"neque, suffero, ualeo, ultra, sors, superus",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,967.0,"sto, aeacide, -ne, deficio, uis, hector",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+italicus.ilias_latina,968.0,"dum, retro, cedo, fraternus, res, in, ars",7,"NaN, NaN, NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,fraternus,0.143
+italicus.ilias_latina,969.0,"respicio, auxilium, et, nullus, uideo, sum, salus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+italicus.ilias_latina,970.0,"sentio, adsum, dolus, quis, ago, qui, numen, supplex",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,dolus,0.125
+italicus.ilias_latina,971.0,"inuocet, et, totus, languesco, corpus, uis",6,"NaN, NaN, NaN, NaN, 0.0, 1.0",0.167,0.0,,0.0
+italicus.ilias_latina,972.0,"auxilium, nego, retineo, uix, dextera, ferrum",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,973.0,"nox, oculus, inimicus, tego, neque, subuenio, ullus",7,"0.0, 0.0, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+italicus.ilias_latina,974.0,"defatiscor, auxilium, pugno, morior, et, altus",6,"NaN, 0.0, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+italicus.ilias_latina,975.0,"cor, premo, gemitus, insto, nereius, heros",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+italicus.ilias_latina,976.0,"turbo, premo, procul, undique, tunc, iacio, hasta",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,977.0,"et, medius, rigidus, transfigo, cuspis, fauces",6,"NaN, 0.0, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+italicus.ilias_latina,978.0,"exsulto, danai, troes, suus, uulnus, defleo",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,danai,0.167
+italicus.ilias_latina,979.0,"tunc, sic, amitto, infelix, uis, hector",6,"NaN, NaN, NaN, -1.0, 1.0, NaN",0.0,-0.167,infelix,0.167
+italicus.ilias_latina,980.0,"en, concedo, meus, miser, genitor, artus",6,"NaN, NaN, 0.0, -1.0, NaN, NaN",-0.167,-0.167,miser,0.167
+italicus.ilias_latina,981.0,"qui, pater, infelix, multus, mercor, aurum",6,"NaN, 0.0, -1.0, 0.0, NaN, 0.5",-0.083,-0.167,"infelix, mercor",0.333
+italicus.ilias_latina,982.0,"donum, fero, uictor, priami, nunc, filius, oro",7,"0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,983.0,"tu, priamus, dux, ille, dux, qui, graecia, solus",8,"NaN, NaN, 0.5, NaN, 0.5, NaN, NaN, -0.5",0.062,-0.062,tu,0.125
+italicus.ilias_latina,984.0,"pertimesco, si, neque, prex, neque, munus, uinco",7,"NaN, NaN, NaN, 0.0, NaN, 0.5, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,985.0,"neque, lacrima, miser, neque, clarus, gens, moueo",7,"NaN, NaN, -1.0, NaN, 0.5, 0.0, NaN",-0.071,-0.143,miser,0.143
+italicus.ilias_latina,986.0,"affligo, misereor, pater, moueo, tuus, peleus",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,987.0,"pectus, pro, priamo, pro, noster, corpus, pyrrhus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,priamo,0.143
+italicus.ilias_latina,988.0,"talis, priamides, qui, contra, durus, achilles",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,achilles,0.167
+italicus.ilias_latina,989.0,"quis, meus, supplex, tento, inflecto, dictum",6,"NaN, 0.0, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,990.0,"pectus, qui, possum, dis-repo, mos, ferus",6,"NaN, NaN, NaN, NaN, 0.5, -1.0",-0.083,-0.167,ferus,0.167
+italicus.ilias_latina,991.0,"si, sino, natura, meus, absumo, malus",6,"NaN, NaN, 0.0, 0.0, NaN, -1.0",-0.167,-0.167,,0.0
+italicus.ilias_latina,992.0,"tu, uerus, tristis, fera, cunctus, uolucris",6,"NaN, 0.5, -1.0, NaN, 0.0, NaN",-0.083,-0.167,"tu, fera",0.333
+italicus.ilias_latina,993.0,"diripio, auidus, canis, tuus, uiscera, pasco",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,994.0,"hic, ex, tu, capio, patrocli, gaudium, manes",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,"hic, tu",0.286
+italicus.ilias_latina,995.0,"si, sapio, umbra, dum, talis, magnus, achilles",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,achilles,0.143
+italicus.ilias_latina,996.0,"os, trux, iacto, uita, miserabilis, hector",6,"0.0, NaN, NaN, 0.0, -1.0, NaN",-0.167,-0.167,"trux, miserabilis",0.333
+italicus.ilias_latina,997.0,"reddo, hic, animus, nondum, satio, achilles",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,"hic, achilles",0.333
+italicus.ilias_latina,998.0,"deligo, ad, currus, pes, exsanguis, membrum",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,exsanguis,0.167
+italicus.ilias_latina,999.0,"ter, circum, murus, uictor, traho, altus, ipse",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,1000.0,"fero, dominus, successus, equus, tum, magnus, heros",7,"NaN, NaN, 0.5, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,1001.0,"defero, ad, danaos, foedo, puluis, corpus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,foedo,0.167
+italicus.ilias_latina,1002.0,"laeto, danai, plango, suus, uulnus, troes",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,danai,0.167
+italicus.ilias_latina,1003.0,"et, pariter, capio, defleo, cum, funus, murus",7,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+italicus.ilias_latina,1004.0,"interea, uictor, de_-fleo, corpus, amicus",5,"NaN, NaN, NaN, 0.0, 1.0",0.2,0.0,,0.0
+italicus.ilias_latina,1005.0,"funero, aeacides, pompa, ad, funero, duco",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,aeacides,0.167
+italicus.ilias_latina,1006.0,"tum, circa, tumulus, miser, rapio, hector, artus",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,miser,0.143
+italicus.ilias_latina,1007.0,"et, uapidus, cinis, ludus, indico, honor",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+italicus.ilias_latina,1008.0,"tydides, tyrsi, -ne, cursus, pes, ferox",6,"NaN, NaN, NaN, NaN, 0.0, -1.0",-0.167,-0.167,ferox,0.167
+italicus.ilias_latina,1009.0,"merio, supero, luctor, uinco, aiax",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,1010.0,"qui, decipio, uis, laertius, astus",5,"NaN, NaN, 1.0, NaN, -0.5",0.1,-0.1,"decipio, astus",0.4
+italicus.ilias_latina,1011.0,"caestus, aduerto, cunctus, supero, epeos",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,1012.0,"et, disco, fortis, polypoetes, depello, omnis",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+italicus.ilias_latina,1013.0,"merionesque, arcus, tandem, certamen, mitto",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+italicus.ilias_latina,1014.0,"in, suus, castrum, redeo, turba, comitor, achilles",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,achilles,0.143
+italicus.ilias_latina,1015.0,"fleo, miser, amitto, phryges, hector, totus, maestus",7,"NaN, -1.0, NaN, NaN, NaN, NaN, -1.0",-0.286,-0.286,miser,0.143
+italicus.ilias_latina,1016.0,"troia, sono, plango, fundo, misero, querela",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,misero,0.167
+italicus.ilias_latina,1017.0,"infelix, hecube, saeuus, aro, unguis, os",6,"-1.0, NaN, -1.0, NaN, NaN, 0.0",-0.333,-0.333,"infelix, hecube, saeuus",0.5
+italicus.ilias_latina,1018.0,"andromacheque, suus, scindo, de, pectus, uestis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uestis,0.167
+italicus.ilias_latina,1019.0,"heu, tantus, spolio, uir, ruo, omnis, in, unus",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,heu,0.125
+italicus.ilias_latina,1020.0,"hector, causa, phrygum, ruo, hic, defendo, senectus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+italicus.ilias_latina,1021.0,"affligo, misero, pater, qui, neque, suus, coniunx",7,"NaN, NaN, 0.0, NaN, NaN, NaN, -0.5",-0.071,-0.071,misero,0.143
+italicus.ilias_latina,1022.0,"turbo, nascor, neque, magnus, gloria, regnum",6,"NaN, NaN, NaN, 0.0, 0.0, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,1023.0,"obliuiscor, teneo, uita, quin, eo, inermis",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,1024.0,"et, solus, inuictus, castrum, sui, reddo, hostis",7,"NaN, -0.5, 1.0, NaN, NaN, NaN, -1.0",-0.071,-0.214,,0.0
+italicus.ilias_latina,1025.0,"miror, danaum, proceres, miro, et, ipse",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,danaum,0.167
+italicus.ilias_latina,1026.0,"aeacides, animus, miser, senex, ille, tremo",6,"NaN, 0.5, -1.0, 0.0, NaN, NaN",-0.083,-0.167,"aeacides, miser",0.333
+italicus.ilias_latina,1027.0,"affundo, genu, tendo, ad, sidus, palmo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,1028.0,"hic, aio, o, graiae, gens, fortis, achilles",7,"NaN, NaN, NaN, NaN, 0.0, 0.5, NaN",0.071,0.0,"hic, achilles",0.286
+italicus.ilias_latina,1029.0,"o, regnum, inimicus, meus, tu, dardanus, solus",7,"NaN, 0.0, -1.0, 0.0, NaN, NaN, -0.5",-0.214,-0.214,tu,0.143
+italicus.ilias_latina,1030.0,"uiuo, tremo, pubes, tu, sentio, noster, senectus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+italicus.ilias_latina,1031.0,"crudelis, nimium, nunc, sum, mitis, oro",6,"-1.0, 0.0, NaN, NaN, 1.0, NaN",0.0,-0.167,crudelis,0.167
+italicus.ilias_latina,1032.0,"et, pater, affligo, genu, misereor, preco",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,1033.0,"dono, qui, porto, miser, pro, corpus, nascor",7,"NaN, NaN, NaN, -1.0, NaN, 0.0, NaN",-0.143,-0.143,miser,0.143
+italicus.ilias_latina,1034.0,"accipio, si, neque, prex, neque, flecto, aurum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.5",0.071,0.0,,0.0
+italicus.ilias_latina,1035.0,"in, senex, exter, tuus, dextera, saeuio, annus",7,"NaN, 0.0, 0.0, 0.0, 0.0, NaN, 0.0",0.0,0.0,saeuio,0.143
+italicus.ilias_latina,1036.0,"saltem, saeuus, pater, comito, funero, nascor",6,"NaN, -1.0, 0.0, NaN, NaN, NaN",-0.167,-0.167,saeuus,0.167
+italicus.ilias_latina,1037.0,"neque, uita, ego, neque, magnus, concedo, honor",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, 1.0",0.143,0.0,,0.0
+italicus.ilias_latina,1038.0,"sed, funus, crudelis, meus, misereor, parens",6,"NaN, -0.5, -1.0, 0.0, NaN, 0.5",-0.167,-0.25,crudelis,0.167
+italicus.ilias_latina,1039.0,"et, pater, sum, meus, mitis, de, corpus, disco",8,"NaN, 0.0, NaN, 0.0, 1.0, NaN, 0.0, NaN",0.125,0.0,,0.0
+italicus.ilias_latina,1040.0,"hector, interitus, uinco, dardanus, regnum",5,"NaN, -1.0, NaN, NaN, 0.0",-0.2,-0.2,,0.0
+italicus.ilias_latina,1041.0,"uinco, priamum, sors, reminisco, uictor",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,,0.0
+italicus.ilias_latina,1042.0,"humanus, uarius, dux, tu, respicio, casus",6,"0.0, 0.0, 0.5, NaN, NaN, 0.0",0.083,0.0,tu,0.167
+italicus.ilias_latina,1043.0,"hic, tandem, prex, grandaeuus, moueo, achilles",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"hic, achilles",0.333
+italicus.ilias_latina,1044.0,"alleuat, ab, terra, corpus, exsanguis, parens",6,"NaN, NaN, 0.0, 0.0, NaN, 0.5",0.083,0.0,exsanguis,0.167
+italicus.ilias_latina,1045.0,"reddo, hectoreum, post, hic, suus, donum, reporto",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.143
+italicus.ilias_latina,1046.0,"in, patria, priamus, tristis, ex, mos, suus",7,"NaN, NaN, NaN, -1.0, NaN, 0.5, NaN",-0.071,-0.143,,0.0
+italicus.ilias_latina,1047.0,"appario, exsequiae, extremus, funero, duco",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+italicus.ilias_latina,1048.0,"tum, pyra, construo, qui, bis, sex, corpus, graium",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,1049.0,"quadrupedesque, addo, equus, currus, tuba",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,1050.0,"et, clipeus, galea, cauus, argutaque, telum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,1051.0,"hic, super, ingens, gemitus, compono, hector",6,"NaN, NaN, -0.5, -0.5, NaN, NaN",-0.167,-0.167,hic,0.167
+italicus.ilias_latina,1052.0,"sto, circum, iliades, mater, manus, decorus",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,1053.0,"abrumpo, crinis, lanio, pectus, plango",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,lanio,0.2
+italicus.ilias_latina,1054.0,"ille, namque, rogo, nascor, funero, cerno",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,1055.0,"tollo, et, iuuenis, magnus, cum, murmur, clamor",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,1056.0,"flebilis, ardeo, flamma, namque, ilium, -ne, ille",7,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+italicus.ilias_latina,1057.0,"inter, qui, gemitus, lanio, pectus, coniunx",6,"NaN, NaN, -0.5, NaN, NaN, -0.5",-0.167,-0.167,lanio,0.167
+italicus.ilias_latina,1058.0,"prouolo, andromache, medius, immitto, in, ignis",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,1059.0,"sui, cupio, astyanacta, teneo, quam, iubeo, suus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,1060.0,"turba, rapio, contra, tamen, omnis, usque, resisto",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,1061.0,"donec, collapsae, cado, robur, flamma",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+italicus.ilias_latina,1062.0,"in, leuis, abeo, tantus, dux, ille, fauilla",7,"NaN, 0.0, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,1063.0,"sed, iam, sisto, gradus, finis, impono, labor",7,"NaN, NaN, NaN, 0.0, 0.0, NaN, -0.5",-0.071,-0.071,,0.0
+italicus.ilias_latina,1064.0,"calliope, uates, tuus, moderaris, carina",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+italicus.ilias_latina,1065.0,"remi, qui, cerno, stringo, litus, paucus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+italicus.ilias_latina,1066.0,"iam, teneo, portus, meto, possum, homeri",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,1067.0,"pieridum, comito, cohors, summitto, rudo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+italicus.ilias_latina,1068.0,"sancio, uirgineus, laurus, re-imito, capillus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,capillus,0.2
+italicus.ilias_latina,1069.0,"ipse, tuus, depono, lyra, adsum, inclutus, pallas",7,"NaN, 0.0, NaN, 0.0, NaN, 0.5, NaN",0.071,0.0,,0.0
+italicus.ilias_latina,1070.0,"tu, for, cursus, uates, iam, phoebus, perago",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143

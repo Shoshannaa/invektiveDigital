@@ -1,0 +1,626 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+horace.epodes,1.1,"eo, liburnis, inter, altus, nauis",5,"NaN, NaN, NaN, 0.5, 0.0",0.1,0.0,,0.0
+horace.epodes,1.2,"amicus, propugnaculum",2,"1.0, NaN",0.5,0.0,,0.0
+horace.epodes,1.3,"paro, omnis, caesar, periculum",4,"NaN, NaN, 0.5, -1.0",-0.125,-0.25,,0.0
+horace.epodes,1.4,"subeo, maecenas, tuus",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,1.5,"quis, nos, qui, tu, uito, sum, super-sto",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+horace.epodes,1.6,"iucundus, si, contra, grauis",4,"1.0, NaN, NaN, -0.5",0.125,-0.125,,0.0
+horace.epodes,1.7,"utrum, -ne, iubeo, persequor, otium",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,otium,0.2
+horace.epodes,1.8,"non, dulcis, ni, cum, tu, simul",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,tu,0.167
+horace.epodes,1.9,"an, hic, labor, mens, fero, decet",6,"NaN, NaN, -0.5, 0.5, NaN, NaN",0.0,-0.083,hic,0.167
+horace.epodes,1.1,"qui, fero, non, mollio, uir",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+horace.epodes,1.11,"fero, et, tu, uel, per, alpium, iugum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+horace.epodes,1.12,"inhospital, et, caucasum",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,1.13,"uel, occaedes, usque, ad, ulter, sinum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,1.14,"fortis, sequor, pectus",3,"0.5, NaN, NaN",0.167,0.0,,0.0
+horace.epodes,1.15,"rogo, tuus, labor, quis, iuuo, meus",6,"NaN, 0.0, -0.5, NaN, NaN, 0.0",-0.083,-0.083,,0.0
+horace.epodes,1.16,"imbellis, atque, firmus, parum",4,"-1.0, NaN, 1.0, 0.0",0.0,-0.25,,0.0
+horace.epodes,1.17,"comes, paruus, sum, sum, in, metus",6,"NaN, 0.0, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+horace.epodes,1.18,"qui, magnus, absum, habeo",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,1.19,"ut, assideo, implumis, pullus, auus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,1.2,"serpo, allabor, timeo",3,"NaN, NaN, NaN",nan,nan,serpo,0.333
+horace.epodes,1.21,"magis, relinquo, non, ut, adsum, auxilium",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,1.22,"fero, multus, praesens",3,"NaN, 0.0, 0.0",0.0,0.0,,0.0
+horace.epodes,1.23,"libet, hic, et, omnis, milito",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.2
+horace.epodes,1.24,"bellum, in, tuus, spes, gratia",5,"0.0, NaN, 0.0, 0.5, 1.0",0.3,0.0,,0.0
+horace.epodes,1.25,"non, ut, iuuencus, in-ligo, multus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,1.26,"aratrum, nitor, meus",3,"NaN, 1.0, 0.0",0.333,0.0,,0.0
+horace.epodes,1.27,"pecus, calabris, ante, sidus, feruidus",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,calabris,0.2
+horace.epodes,1.28,"lucana, muto, pascuum",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,1.29,"neque, ut, supernus, uilla, candeo, tusculis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,1.3,"circaeum, tango, moenia",3,"NaN, NaN, NaN",nan,nan,circaeum,0.333
+horace.epodes,1.31,"satis, supo, ego, benignitas, tuus",5,"0.5, NaN, NaN, 1.0, 0.0",0.3,0.0,,0.0
+horace.epodes,1.32,"dito, haud, paro",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,1.33,"qui, aut, auarus, ut, chremes, terra, premo",7,"NaN, NaN, -1.0, NaN, NaN, 0.0, NaN",-0.143,-0.143,auarus,0.143
+horace.epodes,1.34,"discingo, aut, perdo, nepos",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,2.1,"beatus, ille, qui, procul, negotium",5,"1.0, NaN, NaN, NaN, -0.5",0.1,-0.1,,0.0
+horace.epodes,2.2,"ut, priscus, gens, mortalis",4,"NaN, 0.0, 0.0, -1.0",-0.25,-0.25,,0.0
+horace.epodes,2.3,"paternus, rus, bos, exerceo, suus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,2.4,"soluo, omnis, faenus",3,"NaN, NaN, NaN",nan,nan,faenus,0.333
+horace.epodes,2.5,"neque, excito, classicus, miles, trux",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,trux,0.2
+horace.epodes,2.6,"neque, horreo, irascor, mare",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,2.7,"forum, uito, et, superbus, ciuis",5,"NaN, NaN, NaN, -1.0, 0.5",-0.1,-0.2,,0.0
+horace.epodes,2.8,"potens, limen",2,"1.0, NaN",0.5,0.0,,0.0
+horace.epodes,2.9,"ergo, aut, adolesco, uitium, propago",5,"NaN, NaN, NaN, -1.0, 0.0",-0.2,-0.2,,0.0
+horace.epodes,2.1,"alo, marito, populus",3,"NaN, NaN, 0.0",0.0,0.0,marito,0.333
+horace.epodes,2.11,"aut, in, reduco, ualles, mugio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,2.12,"prospecto, erro, grex",3,"NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.epodes,2.13,"inutilis, falx, ramus, amputo",4,"-1.0, NaN, NaN, NaN",-0.25,-0.25,inutilis,0.25
+horace.epodes,2.14,"felix, insero",2,"1.0, NaN",0.5,0.0,,0.0
+horace.epodes,2.15,"aut, premo, purus, mel, condio, amphora",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+horace.epodes,2.16,"aut, tondeo, infirmo, ouum",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,2.17,"uel, cum, decorus, mitis, pomum, caput",6,"NaN, NaN, NaN, 1.0, 0.0, 0.0",0.167,0.0,,0.0
+horace.epodes,2.18,"auctumnus, ager, effero",3,"0.0, 0.0, NaN",0.0,0.0,,0.0
+horace.epodes,2.19,"ut, gaudeo, insitiuus, decerpo, pirum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,2.2,"certo, et, labrusca, purpura",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,2.21,"qui, munero, tu, priape, et, tu, pater",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, tu",0.286
+horace.epodes,2.22,"silua, -ne, tuto, finis",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,2.23,"libet, iacio, modo, sub, antiquus, ilex",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.epodes,2.24,"modo, in, tenax, gramen",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,2.25,"labor, altus, interim, ripa, aqua",5,"-0.5, 0.5, NaN, NaN, 0.0",0.0,-0.1,,0.0
+horace.epodes,2.26,"queror, in, silua, aueo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,2.27,"frondeo, lympha, obstrepo, mano",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,2.28,"somnus, qui, inuito, leuis",4,"0.5, NaN, NaN, 0.0",0.125,0.0,,0.0
+horace.epodes,2.29,"at, cum, tono, annus, hibernus, io",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,2.3,"imber, nix, con-paro",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,2.31,"aut, trudo, acer, hinc, et, hinc, multus, canis",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.epodes,2.32,"aper, in, obsto, plaga",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,2.33,"aut, ames, leuis, rarus, tendo, rete",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,2.34,"turdus, edax, dolus",3,"NaN, NaN, NaN",nan,nan,"edax, dolus",0.667
+horace.epodes,2.35,"pauidus, lepor, et, aduena, laqueus, gruem",6,"-1.0, 1.0, NaN, NaN, NaN, NaN",0.0,-0.167,,0.0
+horace.epodes,2.36,"iucundus, capto, praemium",3,"1.0, NaN, 1.0",0.667,0.0,,0.0
+horace.epodes,2.37,"quis, non, malus, qui, amor, cura, habeo",7,"NaN, NaN, -1.0, NaN, 1.0, -1.0, NaN",-0.143,-0.286,,0.0
+horace.epodes,2.38,"hic, inter, obliuiscor",3,"NaN, NaN, NaN",nan,nan,hic,0.333
+horace.epodes,2.39,"quodsi, pudicus, mulier, in, pars, iuuo",6,"NaN, 0.5, 0.0, NaN, 0.0, NaN",0.083,0.0,"pudicus, mulier",0.333
+horace.epodes,2.4,"domus, atque, dulcis, liber",4,"0.0, NaN, 0.5, 0.5",0.25,0.0,,0.0
+horace.epodes,2.41,"sabina, qualis, aut, peruro, sol",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,2.42,"pernix, uxor, apulis",3,"NaN, 0.0, NaN",0.0,0.0,uxor,0.333
+horace.epodes,2.43,"sacer, uetustus, exstruo, lignum, focus",5,"1.0, 0.0, NaN, NaN, 0.0",0.2,0.0,,0.0
+horace.epodes,2.44,"lassus, sub, aduenio, uir",4,"NaN, NaN, NaN, 0.5",0.125,0.0,,0.0
+horace.epodes,2.45,"claudeo, textum, cratis, laetus, pecus",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+horace.epodes,2.46,"distendo, sicco, uber",3,"NaN, NaN, 1.0",0.333,0.0,,0.0
+horace.epodes,2.47,"et, hornus, dulcis, uinum, promo, dolium",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,dolium,0.167
+horace.epodes,2.48,"daps, inemptus, appareo",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,2.49,"non, ego, lucrinus, iuuo, conchylium",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,2.5,"magus, rhombus, aut, scaris",4,"NaN, NaN, NaN, NaN",nan,nan,rhombus,0.25
+horace.epodes,2.51,"siquis, eous, intonata, fluctus",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,2.52,"hiems, ad, hic, uerto, mare",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.2
+horace.epodes,2.53,"non, afra, auus, descendo, in, uenter, meus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,2.54,"non, attage, -ne, ionicus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,2.55,"iucundus, quam, lego, de, pinguis",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+horace.epodes,2.56,"oliua, ramus, arbor",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,2.57,"aut, herba, lapathus, pratum, amo, et, grauis",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,,0.0
+horace.epodes,2.58,"malua, salubris, corpus",3,"NaN, 1.0, 0.0",0.333,0.0,,0.0
+horace.epodes,2.59,"uel, agna, festus, caedo, terminal",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,agna,0.2
+horace.epodes,2.6,"uel, haedus, eripio, lupus",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,2.61,"hic, inter, epulae, ut, iuuo, pasco, ouum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+horace.epodes,2.62,"uideo, propero, domus",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,2.63,"uideo, fatisco, uomo, inuerto, bos",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,inuerto,0.2
+horace.epodes,2.64,"collum, traho, languidus",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,2.65,"pono, uernus, dis, exame, -ne, domus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,2.66,"circum, renideo, laris",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,2.67,"hic, ubi, loquor, faenerator, alfius",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,hic,0.2
+horace.epodes,2.68,"iam, iam, sum, rusticus",4,"NaN, NaN, NaN, -0.5",-0.125,-0.125,,0.0
+horace.epodes,2.69,"omnis, redigo, idus, pecunia",4,"NaN, NaN, NaN, 0.0",0.0,0.0,pecunia,0.25
+horace.epodes,2.7,"quaero, kalendae, pono",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,3.1,"parens, olim, siquis, impius, manus",5,"0.5, NaN, NaN, -1.0, 0.0",-0.1,-0.2,impius,0.2
+horace.epodes,3.2,"senilis, guttur, frango",3,"-0.5, NaN, NaN",-0.167,-0.167,,0.0
+horace.epodes,3.3,"edo, cicuta, alius, noceo",4,"NaN, NaN, NaN, NaN",nan,nan,noceo,0.25
+horace.epodes,3.4,"o, durus, messor, ilia",4,"NaN, -0.5, 0.0, NaN",-0.125,-0.125,,0.0
+horace.epodes,3.5,"quis, hic, uenenum, saeuio, in, praecordia",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,"hic, saeuio",0.333
+horace.epodes,3.6,"num, uiperinus, hic, cruor",4,"NaN, NaN, NaN, NaN",nan,nan,"hic, cruor",0.5
+horace.epodes,3.7,"incoquo, herba, ego, fallo, an, mala",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fallo,0.167
+horace.epodes,3.8,"canidia, tracto, daps",3,"NaN, NaN, NaN",nan,nan,canidia,0.333
+horace.epodes,3.9,"ut, argonautas, praeter, omnis, candidus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,3.1,"medea, miror, sum, dux",4,"NaN, NaN, NaN, 0.5",0.125,0.0,medea,0.25
+horace.epodes,3.11,"ignotus, taurus, in-ligo, iugum",4,"-0.5, NaN, NaN, NaN",-0.125,-0.125,,0.0
+horace.epodes,3.12,"perungo, hic, iasonem",3,"NaN, NaN, NaN",nan,nan,hic,0.333
+horace.epodes,3.13,"hic, delibuo, ulciscor, donum, paelicem",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, ulciscor",0.4
+horace.epodes,3.14,"serpo, fugio, alo",3,"NaN, NaN, NaN",nan,nan,serpo,0.333
+horace.epodes,3.15,"neque, tantus, umquam, sidus, in-sedeo, uapor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,3.16,"siticulosus, appulia",2,"NaN, NaN",nan,nan,,0.0
+horace.epodes,3.17,"neque, munus, umerus, efficax, hercules",5,"NaN, 0.5, NaN, 1.0, NaN",0.3,0.0,,0.0
+horace.epodes,3.18,"in-ardeo, aestuosus",2,"NaN, NaN",nan,nan,,0.0
+horace.epodes,3.19,"at, siquis, umquam, talis, con-cupio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,3.2,"iocosus, maecenas, precor",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,3.21,"manus, puella, sauio, op-pono, tuus",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,3.22,"exter, et, in, sponda, cubo",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,4.1,"lupus, et, agnus, quantus, sortior, obtingo",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,4.2,"cum, tu, ego, discordia, sum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+horace.epodes,4.3,"hibericis, peruro, funis, latus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,4.4,"et, crus, durus, compedes",4,"NaN, NaN, -0.5, NaN",-0.125,-0.125,,0.0
+horace.epodes,4.5,"licet, superbus, ambulis, pecunia",4,"NaN, -1.0, NaN, 0.0",-0.25,-0.25,pecunia,0.25
+horace.epodes,4.6,"fortuna, non, muto, genus",4,"0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,4.7,"uideo, -ne, sacer, metior, tu, uia",6,"NaN, NaN, 1.0, NaN, NaN, 0.0",0.167,0.0,tu,0.167
+horace.epodes,4.8,"cum, bis, tres, ulnaris, toga",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,4.9,"ut, os, uerto, huc, et, huc, eo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,4.1,"liber, indignatio",2,"0.5, -1.0",-0.25,-0.5,,0.0
+horace.epodes,4.11,"seco, flagellum, hic, triumuiral",4,"NaN, NaN, NaN, NaN",nan,nan,hic,0.25
+horace.epodes,4.12,"praeco, ad, fastidium",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,4.13,"aro, falerni, mille, fundo, iugerum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,4.14,"et, appiam, mannus, tero",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,4.15,"sedile, magnus, in, primus, eques",5,"0.0, 0.0, NaN, 0.5, 0.0",0.1,0.0,,0.0
+horace.epodes,4.16,"otho, -ne, contemno, sedeo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,4.17,"quis, attineo, tot, os, nauis, grauis",6,"NaN, NaN, NaN, 0.0, 0.0, -0.5",-0.083,-0.083,,0.0
+horace.epodes,4.18,"rostratus, duco, pondus",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,4.19,"contra, latro, atque, seruilis, manus",5,"NaN, NaN, NaN, -0.5, 0.0",-0.1,-0.1,latro,0.2
+horace.epodes,4.2,"hic, hic, tribunus, miles",4,"NaN, NaN, -0.5, 0.0",-0.125,-0.125,"hic, hic",0.5
+horace.epodes,5.1,"at, o, deus, quisquis, in, caelum, rego",7,"NaN, NaN, 0.0, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+horace.epodes,5.2,"terra, et, humanus, genus",4,"0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+horace.epodes,5.3,"quis, iste, fero, tumultus, aut, quis, omnis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,5.4,"uultus, in, unus, ego, trux",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,trux,0.2
+horace.epodes,5.5,"per, liber, tu, si, uoco, partus",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,tu,0.167
+horace.epodes,5.6,"lucinus, uerus, adsum",3,"NaN, 0.5, NaN",0.167,0.0,,0.0
+horace.epodes,5.7,"per, hic, inanis, purpura, decus, precor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+horace.epodes,5.8,"per, in-probo, hic, iouem",4,"NaN, NaN, NaN, NaN",nan,nan,hic,0.25
+horace.epodes,5.9,"quis, ut, nouerca, ego, intueor, aut, uti",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,nouerca,0.143
+horace.epodes,5.1,"peto, ferrum, belua",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,5.11,"ut, hic, tremo, queror, os, consto",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.167
+horace.epodes,5.12,"insignis, rapio, puer",3,"0.0, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,5.13,"inpube, corpus, qualis, possum, impius",5,"NaN, 0.0, NaN, NaN, -1.0",-0.2,-0.2,impius,0.2
+horace.epodes,5.14,"mollio, thracum, pectus",3,"NaN, NaN, NaN",nan,nan,thracum,0.333
+horace.epodes,5.15,"canidia, breuis, illigo, uipera",4,"NaN, NaN, NaN, 0.0",0.0,0.0,canidia,0.25
+horace.epodes,5.16,"crinis, et, incomis, caput",4,"NaN, NaN, -1.0, 0.0",-0.25,-0.25,,0.0
+horace.epodes,5.17,"iubeo, sepulcrum, caprificus, eruo",4,"NaN, NaN, NaN, NaN",nan,nan,sepulcrum,0.25
+horace.epodes,5.18,"iubeo, cupressus, funebris",3,"NaN, NaN, -0.5",-0.167,-0.167,,0.0
+horace.epodes,5.19,"et, unctus, turpis, ouo, rana, sanguis",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,turpis,0.167
+horace.epodes,5.2,"pluma, nocturnus, striga",3,"NaN, NaN, NaN",nan,nan,striga,0.333
+horace.epodes,5.21,"herba, qui, iolcos, atque, hiberia",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,5.22,"mitto, uenenum, ferax",3,"NaN, -0.5, 1.0",0.167,-0.167,,0.0
+horace.epodes,5.23,"et, os, ab, os, rapio, ieiunus, canis",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,5.24,"flamma, aduro, colchicum",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,5.25,"at, expedio, sagana, per, totus, domus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,5.26,"spargo, auernal, aqua",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,5.27,"horreo, capillus, ut, marinus, asper",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,capillus,0.2
+horace.epodes,5.28,"echinus, aut, laurens, aper",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,5.29,"abigo, nullus, ueia, conscientia",4,"NaN, NaN, NaN, 0.0",0.0,0.0,conscientia,0.25
+horace.epodes,5.3,"ligo, durus, humus",3,"NaN, -0.5, NaN",-0.167,-0.167,humus,0.333
+horace.epodes,5.31,"exhaurio, ingemo, labor",3,"NaN, NaN, -0.5",-0.167,-0.167,,0.0
+horace.epodes,5.32,"quo, possum, infodio, puer",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,5.33,"longus, dies, bis, ter, muto, daps",6,"0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,5.34,"inemorior, spectaculum",2,"NaN, 0.0",0.0,0.0,spectaculum,0.5
+horace.epodes,5.35,"cum, promineo, os, quantus, exsto, aqua",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,5.36,"suspendo, mentum, corpus",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,5.37,"exsugo, uti, medulla, et, aridus, iecur",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,5.38,"amor, sum, poculum",3,"1.0, NaN, NaN",0.333,0.0,,0.0
+horace.epodes,5.39,"intermino, cum, semel, figo, cibus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,5.4,"intabesco, pupula",2,"NaN, NaN",nan,nan,,0.0
+horace.epodes,5.41,"non, desum, masculus, libido",4,"NaN, NaN, NaN, -0.5",-0.125,-0.125,libido,0.25
+horace.epodes,5.42,"ariminensem, foliam",2,"NaN, NaN",nan,nan,,0.0
+horace.epodes,5.43,"et, otiosus, credo, neapolis",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,5.44,"et, omnis, uicinus, oppidum",4,"NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.epodes,5.45,"qui, sidus, excanto, uox, thessala",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.epodes,5.46,"luna, caelum, deripio",3,"NaN, 0.5, NaN",0.167,0.0,,0.0
+horace.epodes,5.47,"hic, irresectus, saeuus, dens, liuidus",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,"hic, saeuus",0.4
+horace.epodes,5.48,"canidia, rodo, pollex",3,"NaN, NaN, 0.0",0.0,0.0,canidia,0.333
+horace.epodes,5.49,"quis, dico, aut, quis, taceo, o, res, meus",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+horace.epodes,5.5,"non, infidelis, arbitra",3,"NaN, -1.0, NaN",-0.333,-0.333,,0.0
+horace.epodes,5.51,"nox, et, diana, qui, silentium, rex",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,5.52,"arcanus, cum, fio, sacer",4,"NaN, NaN, NaN, 1.0",0.25,0.0,,0.0
+horace.epodes,5.53,"nunc, nunc, adsum, nunc, in, hostilis, domus",7,"NaN, NaN, NaN, NaN, NaN, -1.0, 0.0",-0.143,-0.143,hostilis,0.143
+horace.epodes,5.54,"ira, atque, numen, uerto",4,"-1.0, NaN, NaN, NaN",-0.25,-0.25,,0.0
+horace.epodes,5.55,"formidulosus, cum, lateo, silua, fera",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,fera,0.2
+horace.epodes,5.56,"dulcis, soporus, languidus",3,"0.5, NaN, NaN",0.167,0.0,,0.0
+horace.epodes,5.57,"senex, qui, omnis, rideo, adulter",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,adulter,0.2
+horace.epodes,5.58,"latro, suburanae, canis",3,"NaN, NaN, NaN",nan,nan,latro,0.333
+horace.epodes,5.59,"nardus, perungo, qualis, non, perficio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,5.6,"meus, laboro, manus",3,"0.0, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,5.61,"quis, accido, cur, dirus, barbara, paruus",6,"NaN, NaN, NaN, -1.0, NaN, 0.0",-0.167,-0.167,"dirus, barbara",0.333
+horace.epodes,5.62,"ueneno, medeae, ualeo",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,5.63,"qui, superbus, fugio, ulciscor, paelicem",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,ulciscor,0.2
+horace.epodes,5.64,"magnus, creontis, filia",3,"0.0, NaN, NaN",0.0,0.0,creontis,0.333
+horace.epodes,5.65,"cum, palla, to, munus, imbuo, nouus",6,"NaN, NaN, NaN, 0.5, NaN, 1.0",0.25,0.0,,0.0
+horace.epodes,5.66,"incendium, nupta, aufero",3,"NaN, NaN, NaN",nan,nan,nupta,0.333
+horace.epodes,5.67,"atqui, neque, herba, neque, lateo, in, asper",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,,0.0
+horace.epodes,5.68,"radix, fallo, ego, locus",4,"0.0, NaN, NaN, 0.0",0.0,0.0,fallo,0.25
+horace.epodes,5.69,"indormio, ungo, omnis, cubilis",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,5.7,"obliuio, -ne, paelicum",3,"-0.5, NaN, NaN",-0.167,-0.167,,0.0
+horace.epodes,5.71,"ab, ab, soluo, ambulo, uenefica",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,5.72,"scio, carmen",2,"NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,5.73,"non, usitas, uaris, potio",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,5.74,"o, multus, fleo, caput",4,"NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,5.75,"ad, ego, recurro, neque, uoco, mens, tuus",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 0.0",0.071,0.0,,0.0
+horace.epodes,5.76,"marsis, redeo, uox",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,5.77,"magnus, paro, magnus, infundo, tu",5,"0.0, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.2
+horace.epodes,5.78,"fastidio, poculum",2,"NaN, NaN",nan,nan,,0.0
+horace.epodes,5.79,"prior, caelum, sido, inferus, mare",5,"0.5, 0.5, NaN, NaN, 0.0",0.2,0.0,,0.0
+horace.epodes,5.8,"tellus, porrigo, super",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,5.81,"quam, non, amor, sic, meus, flagro, uti",7,"NaN, NaN, 1.0, NaN, 0.0, NaN, NaN",0.143,0.0,,0.0
+horace.epodes,5.82,"bitume, -ne, ater, ignis",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,5.83,"sub, hic, puer, iam, non, ut, ante, mollis",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.125
+horace.epodes,5.84,"lenio, uerbum, impius",3,"NaN, 0.0, -1.0",-0.333,-0.333,impius,0.333
+horace.epodes,5.85,"sed, dubius, unde, rumpo, silentium",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+horace.epodes,5.86,"mitto, thyesteas, prex",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,5.87,"ueneno, magus, non, fas, nefas, non, ualeo",7,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,nefas,0.143
+horace.epodes,5.88,"conuerto, humanus, uicis",3,"NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.epodes,5.89,"dirus, ago, tu, dirus, detestatio",5,"-1.0, NaN, NaN, -1.0, NaN",-0.4,-0.4,"dirus, tu, dirus",0.6
+horace.epodes,5.9,"nullus, expio, uictima",3,"NaN, NaN, NaN",nan,nan,expio,0.333
+horace.epodes,5.91,"quin, ubi, pereo, iubeo, exspiro",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,5.92,"nocturnus, occurro, furor",3,"NaN, NaN, -1.0",-0.333,-0.333,furor,0.333
+horace.epodes,5.93,"peto, uultus, umbra, curuus, unguis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,5.94,"qui, uolo, deus, sum, manium",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,5.95,"et, inquietus, assideo, praecordia",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,5.96,"pauor, somnus, aufero",3,"-1.0, 0.5, NaN",-0.167,-0.333,,0.0
+horace.epodes,5.97,"tu, turba, uicatim, hinc, et, hinc, saxum, peto",8,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.125
+horace.epodes,5.98,"contundo, obscaenas, anus",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,5.99,"post, insepultus, membrum, differo, lupus",5,"NaN, -0.5, NaN, NaN, 0.0",-0.1,-0.1,insepultus,0.2
+horace.epodes,5.1,"et, esquilinae, aliter",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,5.101,"neque, hic, parens, heu, ego, superstito",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,"hic, heu",0.333
+horace.epodes,5.102,"effugio, spectaculum",2,"NaN, 0.0",0.0,0.0,spectaculum,0.5
+horace.epodes,6.1,"quis, immerens, hospes, uexo, canis",5,"NaN, 1.0, 0.0, NaN, NaN",0.2,0.0,uexo,0.2
+horace.epodes,6.2,"ignauus, aduerro, lupus",3,"-1.0, NaN, 0.0",-0.333,-0.333,ignauus,0.333
+horace.epodes,6.3,"quin, huc, inanis, si, possum, uerto, minae",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,,0.0
+horace.epodes,6.4,"et, ego, remordeo, peto",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,6.5,"nam, qualis, aut, molossus, aut, fuluus, laco, -ne",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,6.6,"amicus, uolo, pastor",3,"1.0, NaN, NaN",0.333,0.0,,0.0
+horace.epodes,6.7,"ago, per, alo, auris, tollo, nix",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,6.8,"quicumque, praecedo, ferus",3,"NaN, NaN, -1.0",-0.333,-0.333,ferus,0.333
+horace.epodes,6.9,"tu, cum, timeo, uox, compleo, nemus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.167
+horace.epodes,6.1,"proiectum, odoraris, cibus",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,6.11,"caueo, caueo, namque, in, malus, asper",6,"NaN, NaN, NaN, NaN, -1.0, -0.5",-0.25,-0.25,,0.0
+horace.epodes,6.12,"paro, tollo, cornu",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,6.13,"qualis, lycambae, sperno, infidus, gener",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+horace.epodes,6.14,"aut, acer, hostis, bupalo",4,"NaN, NaN, -1.0, NaN",-0.25,-0.25,,0.0
+horace.epodes,6.15,"an, si, quis, ater, dens, ego, peto",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,6.16,"inultus, ut, fleo, puer",4,"-0.5, NaN, NaN, 0.0",-0.125,-0.125,inultus,0.25
+horace.epodes,7.1,"quo, quo, scelestus, ruo, aut, cur, dexter",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,scelestus,0.143
+horace.epodes,7.2,"apto, ensis, condio",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,7.3,"parum, -ne, campus, atque, neptunus, super",6,"0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,7.4,"fundo, sum, latinus, sanguis",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,7.5,"non, ut, superbus, inuidus, karthago",5,"NaN, NaN, -1.0, -1.0, NaN",-0.4,-0.4,inuidus,0.2
+horace.epodes,7.6,"romanus, arx, uro",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,7.7,"intactus, aut, britannus, ut, descendo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,7.8,"sacer, cateno, uia",3,"1.0, NaN, 0.0",0.333,0.0,cateno,0.333
+horace.epodes,7.9,"sed, ut, secundus, ueto, parthi, suus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,parthi,0.167
+horace.epodes,7.1,"urbs, hic, pereo, dextera",4,"0.5, NaN, NaN, 0.0",0.125,0.0,hic,0.25
+horace.epodes,7.11,"neque, hic, lupus, mos, neque, sum, leo",7,"NaN, NaN, 0.0, 0.5, NaN, NaN, NaN",0.071,0.0,"hic, leo",0.286
+horace.epodes,7.12,"umquam, nisi, in, dispar, fera",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,fera,0.2
+horace.epodes,7.13,"furor, -ne, caecus, an, rapio, uolo, acer",7,"-1.0, NaN, -1.0, NaN, NaN, NaN, NaN",-0.286,-0.286,furor,0.143
+horace.epodes,7.14,"an, culpa, responsum, do",4,"NaN, -1.0, NaN, NaN",-0.25,-0.25,culpa,0.25
+horace.epodes,7.15,"taceo, et, albus, os, pallor, inficio",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,pallor,0.167
+horace.epodes,7.16,"mens, percello, stupeo",3,"0.5, NaN, NaN",0.167,0.0,,0.0
+horace.epodes,7.17,"sic, sum, acerbus, fatum, romanus, ago",6,"NaN, NaN, -1.0, 0.0, NaN, NaN",-0.167,-0.167,acerbus,0.167
+horace.epodes,7.18,"scelus, fraternus, nex",3,"-1.0, 0.0, -1.0",-0.667,-0.667,"scelus, fraternus, nex",1.0
+horace.epodes,7.19,"ut, immerens, fluo, in, terra, remi",6,"NaN, 1.0, NaN, NaN, 0.0, NaN",0.167,0.0,,0.0
+horace.epodes,7.2,"sacer, nepos, cruor",3,"1.0, 0.0, NaN",0.333,0.0,cruor,0.333
+horace.epodes,8.1,"rogo, longus, putidus, tu, saeculum",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.2
+horace.epodes,8.2,"uis, quis, eneruo, meus",4,"1.0, NaN, NaN, 0.0",0.25,0.0,,0.0
+horace.epodes,8.3,"cum, sum, tu, dens, ater, et, rugio, uetus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.125
+horace.epodes,8.4,"frons, senectus, exaro",3,"0.0, 0.0, NaN",0.0,0.0,,0.0
+horace.epodes,8.5,"hio, turpis, inter, aridus, obstino",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,"hio, turpis",0.4
+horace.epodes,8.6,"podex, uelut, crudus, bos",4,"NaN, NaN, -1.0, NaN",-0.25,-0.25,,0.0
+horace.epodes,8.7,"sed, incito, ego, pectus, et, mamma, putreo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,8.8,"equinus, qualis, uber",3,"NaN, NaN, 1.0",0.333,0.0,,0.0
+horace.epodes,8.9,"uenter, mollio, et, femur, tumeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,8.1,"exilis, surus, addo",3,"0.0, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,8.11,"sum, beatus, funus, atque, imago",5,"NaN, 1.0, -0.5, NaN, NaN",0.1,-0.1,,0.0
+horace.epodes,8.12,"duco, triumphalis, tuus",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,8.13,"neque, sum, marito, qui, rotundus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,marito,0.2
+horace.epodes,8.14,"onustus, baca, ambulo",3,"-0.5, NaN, NaN",-0.167,-0.167,,0.0
+horace.epodes,8.15,"quis, qui, libellus, stoici, inter, sericos",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,8.16,"iacio, puluillus, amo",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,8.17,"illitteratus, num, paruus, neruus, rigo",5,"-0.5, NaN, 0.0, NaN, NaN",-0.1,-0.1,,0.0
+horace.epodes,8.18,"paruus, langueo, fascinum",3,"0.0, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,8.19,"qui, ut, superbus, pouoces, ab, inguine",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+horace.epodes,8.2,"os, ad-laboro, sum, tu",4,"0.0, NaN, NaN, NaN",0.0,0.0,tu,0.25
+horace.epodes,9.1,"quando, repono, caecubum, ad, festus, daps",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,9.2,"uictor, laetus, caesar",3,"NaN, 1.0, 0.5",0.5,0.0,,0.0
+horace.epodes,9.3,"cum, tu, sub, altasic, ioui, gratumdomo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+horace.epodes,9.4,"beatus, maecenas, bibo",3,"1.0, NaN, NaN",0.333,0.0,,0.0
+horace.epodes,9.5,"sono, misceo, tibia, carmen, lyra",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+horace.epodes,9.6,"hic, dorium, ille, barbaris",4,"NaN, NaN, NaN, NaN",nan,nan,"hic, barbaris",0.5
+horace.epodes,9.7,"ut, nuper, ago, cum, fretus, neptunius",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+horace.epodes,9.8,"dux, fugio, uro, nauis",4,"0.5, NaN, NaN, 0.0",0.125,0.0,,0.0
+horace.epodes,9.9,"mino, urbi, uinclum, qui, detraho",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,uinclum,0.2
+horace.epodes,9.1,"seruio, amicus, perfidus",3,"NaN, 1.0, -1.0",0.0,-0.333,perfidus,0.333
+horace.epodes,9.11,"romanus, eheuposteri, nego",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,9.12,"emancipo, femina",2,"NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,9.13,"fero, ualles, et, arma, miles, et, spado",7,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,spado,0.143
+horace.epodes,9.14,"seruio, rugosus, possum",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,9.15,"inter, signum, turpis, militaris",4,"NaN, 0.0, -1.0, 0.0",-0.25,-0.25,turpis,0.25
+horace.epodes,9.16,"sol, ad-specio, conopium",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,9.17,"ad, hic, fremo, uerto, bis, mille, equus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+horace.epodes,9.18,"gallus, caneo, caesar",3,"NaN, NaN, 0.5",0.167,0.0,gallus,0.333
+horace.epodes,9.19,"hostilis, nauis, portus, lateo",4,"-1.0, 0.0, NaN, NaN",-0.25,-0.25,hostilis,0.25
+horace.epodes,9.2,"puppis, sinistrorsum, cieo",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,9.21,"io, triumphus, tu, moraris, aureus",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,tu,0.2
+horace.epodes,9.22,"currus, et, intactus, bos",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,9.23,"io, triumphus, neque, iugurthino, par",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+horace.epodes,9.24,"bellum, reporto, dux",3,"0.0, NaN, 0.5",0.167,0.0,,0.0
+horace.epodes,9.25,"neque, africanum, qui, super, karthago",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,9.26,"uirtus, sepulcrum, condo",3,"1.0, NaN, NaN",0.333,0.0,sepulcrum,0.333
+horace.epodes,9.27,"terra, mare, uinco, hostis, punicus",5,"0.0, 0.0, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+horace.epodes,9.28,"lugubris, muto, sagum",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,9.29,"aut, ille, centum, nobilis, cerno, urbs",6,"NaN, NaN, NaN, 1.0, NaN, 0.5",0.25,0.0,,0.0
+horace.epodes,9.3,"uenio, eo, non, suus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,9.31,"exercito, aut, peto, syrtis, nosco",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,9.32,"aut, fero, incertum, mare",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,9.33,"capax, affero, huc, puer, scyphus",5,"0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.epodes,9.34,"et, chia, uinum, aut, lesbius",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,lesbius,0.2
+horace.epodes,9.35,"uel, qui, fluo, nausea, coerceo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,coerceo,0.2
+horace.epodes,9.36,"metior, nos, caecubum",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,9.37,"cura, metus, caesar, res, iuuo",5,"-1.0, -1.0, 0.5, 0.0, NaN",-0.3,-0.4,,0.0
+horace.epodes,9.38,"dulcis, lyaeo, soluo",3,"0.5, NaN, NaN",0.167,0.0,,0.0
+horace.epodes,10.1,"malus, soluo, nauus, exeo, alo",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,,0.0
+horace.epodes,10.2,"fero, oleo, meuium",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,10.3,"ut, horridus, uterque, uerbero, latus",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,uerbero,0.2
+horace.epodes,10.4,"auster, memento, fluctus",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,10.5,"niger, rudo, eurus, inuerto, mare",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,inuerto,0.2
+horace.epodes,10.6,"frango, remus, differo",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,10.7,"insurgo, aquilus, quantus, altus, mons",5,"NaN, 0.0, NaN, 0.5, NaN",0.1,0.0,,0.0
+horace.epodes,10.8,"frango, tremo, ilics",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,10.9,"neque, sidus, ater, nox, amicus, appareo",6,"NaN, NaN, NaN, 0.0, 1.0, NaN",0.167,0.0,,0.0
+horace.epodes,10.1,"qui, tristis, oreon, cado",4,"NaN, -1.0, NaN, NaN",-0.25,-0.25,,0.0
+horace.epodes,10.11,"quiesco, neque, fero, aequor",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,10.12,"quam, graius, uictor, manus",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,10.13,"cum, pallas, uro, uerto, ira, ab, ilium",7,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,,0.0
+horace.epodes,10.14,"in, impius, a-iacio, ratis",4,"NaN, -1.0, NaN, NaN",-0.25,-0.25,impius,0.25
+horace.epodes,10.15,"o, quantus, insto, nauta, sudor, tuus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,10.16,"tu, pallor, luteus",3,"NaN, NaN, NaN",nan,nan,"tu, pallor",0.667
+horace.epodes,10.17,"et, ille, non, uirilis, heiulatio",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+horace.epodes,10.18,"prex, et, auerto, ad, iouem",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,10.19,"ionius, udus, cum, remugio, sinus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,udus,0.2
+horace.epodes,10.2,"nosco, carina, rumpo",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,10.21,"opimus, quodsi, praeda, curuo, litus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,10.22,"porrigo, mergus, iuuo",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,10.23,"libidinosus, immolo, caper",3,"-1.0, NaN, NaN",-0.333,-0.333,libidinosus,0.333
+horace.epodes,10.24,"et, agna, tempestas",3,"NaN, 0.0, 0.0",0.0,0.0,agna,0.333
+horace.epodes,11.1,"petti, nihil, ego, sicut, antea, iuuo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,11.2,"scribo, uersiculus, amor, percutio, grauis",5,"NaN, NaN, 1.0, NaN, -0.5",0.1,-0.1,,0.0
+horace.epodes,11.3,"amor, qui, ego, praeter, omnis, expeto",6,"1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+horace.epodes,11.4,"mollis, in, puer, aut, in, puella, uro",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,11.5,"hic, tertius, december, ex, quo, desisto, ",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.143
+horace.epodes,11.6,"inachia, furo, silua, honor, decutio",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,furo,0.2
+horace.epodes,11.7,"heu, ego, per, urbem, nam, pudeo, tantus, malus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,"heu, pudeo",0.25
+horace.epodes,11.8,"fabula, quantus, sum, conuiuium, et, paeniteo",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,conuiuium,0.167
+horace.epodes,11.9,"in, quis, amo, languor, et, silentium",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+horace.epodes,11.1,"arguo, et, lateo, peto, imus, spiritus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,11.11,"contra, -ne, lucrum, nihil, ualeo, candidus",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+horace.epodes,11.12,"pauper, ingenium, queror, ad-ploro, tu",5,"-1.0, 0.5, NaN, NaN, NaN",-0.1,-0.2,tu,0.2
+horace.epodes,11.13,"simul, caleo, inuerecundus, deus",4,"NaN, NaN, -1.0, 0.0",-0.25,-0.25,,0.0
+horace.epodes,11.14,"feruidus, merus, arcanus, promorat, locus",5,"-0.5, NaN, NaN, NaN, 0.0",-0.1,-0.1,,0.0
+horace.epodes,11.15,"quodsi, meus, inaestuo, praecordia",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,11.16,"liber, bilis, ut, hic, ingratus, uenio, diuido",7,"0.5, NaN, NaN, NaN, -1.0, NaN, NaN",-0.071,-0.143,"hic, ingratus",0.286
+horace.epodes,11.17,"fomentum, uulnus, nihil, malus, leuo",5,"NaN, -1.0, NaN, -1.0, NaN",-0.4,-0.4,,0.0
+horace.epodes,11.18,"desino, inparis, certo, sub-moueo, pudor",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,pudor,0.2
+horace.epodes,11.19,"ubi, hic, seuerus, tu, palam, laudo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.333
+horace.epodes,11.2,"iubeo, abeo, domus, fero, incertum, pes",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,11.21,"ad, non, amicus, heu, ego, postis, et, heu",8,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.125,0.0,"heu, heu",0.25
+horace.epodes,11.22,"limen, durus, qui, lumbus, et, infringo, latus",7,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+horace.epodes,11.23,"nunc, glorior, quamlibet, muliercula",4,"NaN, NaN, NaN, -0.5",-0.125,-0.125,muliercula,0.25
+horace.epodes,11.24,"uinco, mollitia, amor, lyciscus, ego, teneo",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+horace.epodes,11.25,"unde, expedio, non, amicus, queo",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+horace.epodes,11.26,"liber, consilium, neque, contumelia, grauis",5,"0.5, 0.5, NaN, -1.0, -0.5",-0.1,-0.3,contumelia,0.2
+horace.epodes,11.27,"sed, alius, ardor, aut, puella, candida",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,11.28,"aut, teres, puer, longus, renodo, como",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,12.1,"quis, tu, uolo, mulier, niger, dignus, barritus",7,"NaN, NaN, NaN, 0.0, NaN, 1.0, NaN",0.143,0.0,"tu, mulier",0.286
+horace.epodes,12.2,"munus, quis, ego, quis, tabella",5,"0.5, NaN, NaN, NaN, 0.0",0.1,0.0,,0.0
+horace.epodes,12.3,"mitto, neque, firmus, iuuenis, neque, naris, obesus",7,"NaN, NaN, 1.0, NaN, NaN, NaN, -0.5",0.071,-0.071,,0.0
+horace.epodes,12.4,"namque, sagax, unus, odoro",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,12.5,"polypus, an, grauis, hirsutus, cubo, hircus, in, ala",8,"NaN, NaN, -0.5, -0.5, NaN, NaN, NaN, NaN",-0.125,-0.125,,0.0
+horace.epodes,12.6,"quam, canis, acer, ubi, lateo, sus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,12.7,"qui, sudor, uio, et, quam, malus, undique, membrum",8,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.125,-0.125,,0.0
+horace.epodes,12.8,"cresco, odor, cum, penis, soluo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,12.9,"indomitus, propero, rabies, sedaris, neque, ille",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,"indomitus, rabies",0.333
+horace.epodes,12.1,"iam, maneo, umidus, cerno, colo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,12.11,"stercus, fuco, crocodilis, iam, subo",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,"stercus, fuco",0.4
+horace.epodes,12.12,"tento, cubile, tego, rumpo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,12.13,"uel, meus, cum, saeuus, agito, fastidium, uerbum",7,"NaN, 0.0, NaN, -1.0, NaN, NaN, 0.0",-0.143,-0.143,saeuus,0.143
+horace.epodes,12.14,"inachia, langueo, paruus, atque, ego",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,12.15,"inachiam, ter, nox, possum, ego, semper, ad, unus",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,12.16,"mollio, opus, pereo, malus, qui, tu",6,"NaN, 0.5, NaN, -1.0, NaN, NaN",-0.083,-0.167,tu,0.167
+horace.epodes,12.17,"lesbius, quaero, taurus, monstro, iners",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"lesbius, iners",0.4
+horace.epodes,12.18,"cum, ego, cous, adsum, amyntas",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,12.19,"qui, in, indomitus, consto, inguine, neruus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,indomitus,0.167
+horace.epodes,12.2,"quam, nouo, collis, arbor, inhaereo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,12.21,"murex, tyriis, itero, uellus, lana",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,lana,0.2
+horace.epodes,12.22,"qui, propero, tu, nempe",4,"NaN, NaN, NaN, NaN",nan,nan,tu,0.25
+horace.epodes,12.23,"ne, sum, aequalis, inter, conuiua, magis, qui",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+horace.epodes,12.24,"diligo, mulier, suus, quam, tu",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"mulier, tu",0.4
+horace.epodes,12.25,"o, ego, non, felix, quam, tu, fugio, ut, paueo, acer",10,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.1,0.0,tu,0.1
+horace.epodes,12.26,"agna, lupus, caprea, leo",4,"0.0, 0.0, NaN, NaN",0.0,0.0,"agna, leo",0.5
+horace.epodes,13.1,"horridus, tempestas, caelum, contraho, et, imber",6,"-1.0, 0.0, 0.5, NaN, NaN, NaN",-0.083,-0.167,,0.0
+horace.epodes,13.2,"nix, deduco, iouem, nunc, mare, nunc, silua",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,13.3,"threicio, aquilo, sono, rapio, amicus",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+horace.epodes,13.4,"occasio, de, dies, dum, uireo, genu",6,"0.5, NaN, 0.0, NaN, NaN, NaN",0.083,0.0,,0.0
+horace.epodes,13.5,"et, decet, obduco, soluo, frons, senectus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+horace.epodes,13.6,"tu, uinum, torquatus, moueo, consul, premo, meus",7,"NaN, NaN, NaN, NaN, 0.5, NaN, 0.0",0.071,0.0,tu,0.143
+horace.epodes,13.7,"ceterus, mitto, loquor, deus, hic, fortasse, benignus",7,"0.0, NaN, NaN, 0.0, NaN, NaN, 1.0",0.143,0.0,hic,0.143
+horace.epodes,13.8,"reduco, in, sedes, uicus, nunc, et, achaemenio",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,13.9,"perfundo, nardus, iuuo, et, fides, cyllenea",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+horace.epodes,13.1,"leuaris, dirus, pectus, sollicitudo",4,"NaN, -1.0, NaN, -0.5",-0.375,-0.375,dirus,0.25
+horace.epodes,13.11,"nobilis, ut, grandis, cano, centaurus, alumnus",6,"1.0, NaN, 0.0, NaN, NaN, NaN",0.167,0.0,,0.0
+horace.epodes,13.12,"inuictus, mortalis, dea, natus, puer, thetide",6,"1.0, -1.0, NaN, 0.0, 0.0, NaN",0.0,-0.167,,0.0
+horace.epodes,13.13,"tu, maneo, assaraci, tellus, quam, frigidus, paruus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+horace.epodes,13.14,"findo, scamandri, flumen, lubricus, et, simois",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,scamandri,0.167
+horace.epodes,13.15,"unde, tu, redeo, certus, subtemen, parca",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,tu,0.167
+horace.epodes,13.16,"rumpo, neque, mater, domus, caerulus, tu, reueho",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,"caerulus, tu",0.286
+horace.epodes,13.17,"illic, omnis, malus, uinum, cano, leuo",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+horace.epodes,13.18,"deformis, aegrimonia, dulcis, alloquium",4,"-1.0, NaN, 0.5, NaN",-0.125,-0.25,deformis,0.25
+horace.epodes,14.1,"mollio, inertia, cur, tantus, diffundo, imus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,inertia,0.167
+horace.epodes,14.2,"obliuio, sensus",2,"-0.5, 0.5",0.0,-0.25,,0.0
+horace.epodes,14.3,"poculum, lethaeos, ut, si, duco, somnus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+horace.epodes,14.4,"areo, fauces, traho",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,14.5,"candidus, maecenas, occaedes, saepe, rogo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,14.6,"deus, deus, nam, ego, ueto",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,14.7,"incipio, olim, promitto, carmen, iambus",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.epodes,14.8,"ad, umbilicus, duco",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,14.9,"non, aliter, samio, dico, ardeo, bathyllo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,14.1,"anacreonta, teium",2,"NaN, NaN",nan,nan,,0.0
+horace.epodes,14.11,"qui, persaepe, cauo, testudo, fleo, amor",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+horace.epodes,14.12,"non, elaboro, ad, pedis",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,14.13,"uro, ipse, miser, quodsi, non, pulcher, ignis",7,"NaN, NaN, -1.0, NaN, NaN, 1.0, 0.0",0.0,-0.143,miser,0.143
+horace.epodes,14.14,"accendo, ob-sedeo, ilium, -ne",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,14.15,"gaudeo, sors, tuus, ego, libertina, neque, unus",7,"NaN, -1.0, 0.0, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+horace.epodes,14.16,"contineo, phrynos, macero",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,15.1,"nox, sum, et, caelum, fulgeo, luna, serenus",7,"0.0, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+horace.epodes,15.2,"inter, paruus, sidus",3,"NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.epodes,15.3,"cum, tu, magnus, numen, laesura, deus",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,tu,0.167
+horace.epodes,15.4,"in, uerbum, iuro, meus",4,"NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,15.5,"artus, atque, hedera, procerus, ad-stringo, ilex",6,"NaN, NaN, 0.0, 0.5, NaN, NaN",0.083,0.0,,0.0
+horace.epodes,15.6,"lentus, adhaereo, bracchium",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,15.7,"dum, pecus, lupus, et, nauta, infestus, oreon",7,"NaN, NaN, 0.0, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+horace.epodes,15.8,"turbo, hibernus, mare",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,15.9,"intondeo, agito, apollo, aura, capillus",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,capillus,0.2
+horace.epodes,15.1,"sum, hic, amor, mutuus",4,"NaN, NaN, 1.0, 0.0",0.25,0.0,hic,0.25
+horace.epodes,15.11,"o, doleo, meus, multus, uirtus, neaera",6,"NaN, NaN, 0.0, 0.0, 1.0, NaN",0.167,0.0,neaera,0.167
+horace.epodes,15.12,"nam, siquis, in, flaccus, uir, sum",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+horace.epodes,15.13,"non, fero, assiduus, potis, tu, do, nox",7,"NaN, NaN, 0.5, 0.0, NaN, NaN, 0.0",0.071,0.0,tu,0.143
+horace.epodes,15.14,"et, quaero, irascor, par",4,"NaN, NaN, NaN, 0.5",0.125,0.0,,0.0
+horace.epodes,15.15,"neque, semel, offendo, cedo, constantia, forma",6,"NaN, NaN, NaN, NaN, 0.5, 1.0",0.25,0.0,,0.0
+horace.epodes,15.16,"si, certus, intro, dolor",4,"NaN, 0.5, NaN, -1.0",-0.125,-0.25,,0.0
+horace.epodes,15.17,"et, tu, quicumque, sum, felix, atque, meus, nunc",8,"NaN, NaN, NaN, NaN, 1.0, NaN, 0.0, NaN",0.125,0.0,tu,0.125
+horace.epodes,15.18,"superbus, incedo, malus",3,"-1.0, NaN, -1.0",-0.667,-0.667,,0.0
+horace.epodes,15.19,"sum, pecus, et, multus, diues, tellus, liceo",7,"NaN, NaN, NaN, 0.0, 0.5, NaN, NaN",0.071,0.0,,0.0
+horace.epodes,15.2,"tu, pactolus, fluo",3,"NaN, NaN, NaN",nan,nan,tu,0.333
+horace.epodes,15.21,"neque, tu, pythagorae, fallo, arcanus, reno",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, fallo",0.333
+horace.epodes,15.22,"formo, uinco, nirea",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,15.23,"heu, heu, transfero, alius, maereo, amor",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,"heu, heu",0.333
+horace.epodes,15.24,"at, ego, uicissim, rideo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,16.1,"alter, iam, tero, bellum, ciuilis, aetas",6,"NaN, NaN, NaN, 0.0, 0.5, 0.0",0.083,0.0,,0.0
+horace.epodes,16.2,"suus, et, ipse, roma, uis, ruo",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+horace.epodes,16.3,"quam, neque, finitimus, ualeo, perdo, marsi",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,finitimus,0.167
+horace.epodes,16.4,"minax, aut, etrusca, porsenae, manus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,16.5,"aemulo, neque, uirtus, capua, neque, spartacus, acer",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+horace.epodes,16.6,"nouus, res, infidelis, allobrox",4,"1.0, 0.0, -1.0, NaN",0.0,-0.25,,0.0
+horace.epodes,16.7,"neque, ferus, caeruleus, domo, germania, pubes",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,ferus,0.167
+horace.epodes,16.8,"pareo, abominor, hannibal",3,"NaN, NaN, NaN",nan,nan,abominor,0.333
+horace.epodes,16.9,"impius, perdo, de_-uoueo, sanguis, aetas",5,"-1.0, NaN, NaN, NaN, 0.0",-0.2,-0.2,impius,0.2
+horace.epodes,16.1,"ferio, rursus, occupo, solus",4,"NaN, NaN, NaN, -0.5",-0.125,-0.125,,0.0
+horace.epodes,16.11,"barbarus, heu, cinis, insisto, uictor, et, urbem",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,heu,0.143
+horace.epodes,16.12,"eques, sono, uerbero, ungula",4,"0.0, NaN, NaN, NaN",0.0,0.0,uerbero,0.25
+horace.epodes,16.13,"quisque, careo, uenio, et, sol, os, quirinus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.epodes,16.14,"nefas, uideo, dissipo, insoleo",4,"-1.0, NaN, NaN, NaN",-0.25,-0.25,nefas,0.25
+horace.epodes,16.15,"fors, quis, expedio, communis, aut, bonus, pars",7,"0.0, NaN, NaN, 0.0, NaN, 1.0, 0.0",0.143,0.0,,0.0
+horace.epodes,16.16,"malus, careo, quaero, labor",4,"-1.0, NaN, NaN, -0.5",-0.375,-0.375,,0.0
+horace.epodes,16.17,"nullus, sum, hic, potis, sententia, phocaeorum",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,hic,0.167
+horace.epodes,16.18,"uelut, profugio, exsecror, ciuitas",4,"NaN, NaN, NaN, 0.5",0.125,0.0,profugio,0.25
+horace.epodes,16.19,"ager, atque, lar, patrius, habito, fanum",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,16.2,"aper, relinquo, et, rapax, lupus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,16.21,"eo, pes, quicumque, fero, quicumque, per, unda",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,16.22,"notus, uoco, aut, proteruus, africus",5,"0.0, NaN, NaN, -0.5, NaN",-0.1,-0.1,proteruus,0.2
+horace.epodes,16.23,"sic, placeo, an, bonus, quis, habeo, suadeo, secundus",8,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, 0.0",0.125,0.0,,0.0
+horace.epodes,16.24,"ratis, occuparis, quis, moror, alo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,16.25,"sed, iuro, in, hic, simul, imus, saxum, reno",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.125
+horace.epodes,16.26,"uado, leuo, ne, redeo, sum, nefas",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,nefas,0.167
+horace.epodes,16.27,"neu, conuerro, domus, pigeo, do, linteus, quando",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,16.28,"padus, matina, lauo, cacumen",4,"NaN, NaN, NaN, -1.0",-0.25,-0.25,,0.0
+horace.epodes,16.29,"in, mare, seu, celsus, pro-curro, appenninus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,16.3,"nouo, monstrum, iungo, libido",4,"NaN, 0.5, NaN, -0.5",0.0,-0.125,"monstrum, libido",0.5
+horace.epodes,16.31,"mirus, amor, iuuo, ut, tigris, subsido, ceruus",7,"1.0, 1.0, NaN, NaN, NaN, NaN, NaN",0.286,0.0,,0.0
+horace.epodes,16.32,"adultero, et, columba, miluus",4,"NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.epodes,16.33,"credulus, neque, rauus, timeo, armentum, leo",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,"credulus, leo",0.333
+horace.epodes,16.34,"amo, salio, leuis, hircus, aequor",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,16.35,"hic, et, qui, possum, redeo, abscindo, dulcis",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,hic,0.143
+horace.epodes,16.36,"eo, omnis, exsecror, ciuitas",4,"NaN, NaN, NaN, 0.5",0.125,0.0,,0.0
+horace.epodes,16.37,"aut, pars, indocilis, bonus, grex, mollio, et, exspes",8,"NaN, 0.0, NaN, 1.0, NaN, NaN, NaN, -1.0",0.0,-0.125,exspes,0.125
+horace.epodes,16.38,"inominatus, per-premo, cubile",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,16.39,"tu, qui, sum, uirtus, muliebris, tollo, luctus",7,"NaN, NaN, NaN, 1.0, NaN, NaN, -1.0",0.0,-0.143,"tu, muliebris",0.286
+horace.epodes,16.4,"etrusca, praeter, et, uolo, litus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,16.41,"nos, maneo, oceanus, circum, uagus, aruum, beatus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+horace.epodes,16.42,"peto, aruum, diues, et, insula",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+horace.epodes,16.43,"reddo, ubi, cererem, tellus, inaro, quot",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,16.44,"et, imputatus, floreo, usque, uinea",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,16.45,"germino, et, numquam, fallo, termes, oliua",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fallo,0.167
+horace.epodes,16.46,"suo, pullo, ficus, orno, arbor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,16.47,"mel, cauo, mano, ex, ilex, mons, altus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+horace.epodes,16.48,"leuis, crepo, lympha, desilo, pes",5,"0.0, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,16.49,"illic, iniussus, uenio, ad, mulctra, capella",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,capella,0.167
+horace.epodes,16.5,"refero, tento, grex, amicus, uber",5,"NaN, NaN, NaN, 1.0, 1.0",0.4,0.0,,0.0
+horace.epodes,16.51,"neque, uespertinus, circumgemo, ursus, ouilis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,ursus,0.2
+horace.epodes,16.52,"neque, intumesco, altus, uipera, humus",5,"NaN, NaN, 0.5, 0.0, NaN",0.1,0.0,humus,0.2
+horace.epodes,16.53,"multus, felix, miro, ut, neque, largior",6,"0.0, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+horace.epodes,16.54,"aquosus, eurus, aruum, rado, imber",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,16.55,"pinguis, neque, siccus, uro, semen, glaeba",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,glaeba,0.167
+horace.epodes,16.56,"uterque, rex, tempero, caelitum",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,16.57,"non, huc, argoo, contendo, remex, pinus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,16.58,"neque, impudicus, colchis, infero, pedis",5,"NaN, -1.0, NaN, NaN, 0.0",-0.2,-0.2,impudicus,0.2
+horace.epodes,16.59,"non, huc, sidonii, torqueo, cornu, nauta",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,16.6,"laboriosus, neque, cohors, ulixei",4,"NaN, NaN, NaN, NaN",nan,nan,laboriosus,0.25
+horace.epodes,16.61,"nullus, noceo, pecus, contagium, nullus, astrion",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,noceo,0.167
+horace.epodes,16.62,"grex, aestuosus, torreo, impotens",4,"NaN, NaN, NaN, -1.0",-0.25,-0.25,impotens,0.25
+horace.epodes,16.63,"iuppiter, ille, pius, secerno, litus, gens",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,16.64,"ut, inquino, aer, tempus, aureus",5,"NaN, NaN, 0.0, 0.0, 0.5",0.1,0.0,inquino,0.2
+horace.epodes,16.65,"aer, dehinc, ferrum, duro, saeculum, qui",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,16.66,"pius, secundus, uates, ego, do, fuga",6,"NaN, 0.0, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+horace.epodes,17.1,"iam, iam, efficax, do, manus, scientia",6,"NaN, NaN, 1.0, NaN, 0.0, 0.0",0.167,0.0,,0.0
+horace.epodes,17.2,"supplex, et, oro, regnum, per, proserpinae",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,17.3,"per, et, diana, non, moueo, numen",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,17.4,"per, atque, liber, carmen, ualeo",5,"NaN, NaN, 0.5, 0.0, NaN",0.1,0.0,,0.0
+horace.epodes,17.5,"refigo, caelum, deuocaris, sidus",4,"NaN, 0.5, NaN, NaN",0.125,0.0,,0.0
+horace.epodes,17.6,"canidia, parco, uox, tandem, sacrum",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,canidia,0.2
+horace.epodes,17.7,"cieo, retro, soluo, soluo, turbo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,17.8,"moueo, nepos, telephus, nereium",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,17.9,"in, qui, superbus, ordino, agmen",5,"NaN, NaN, -1.0, NaN, -1.0",-0.4,-0.4,,0.0
+horace.epodes,17.1,"mysus, et, in, qui, telum, acutus, torqueo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,17.11,"ungo, mater, iliae, addo, fera",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,fera,0.2
+horace.epodes,17.12,"alitibus, atque, canis, homicida, hector",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,"alitibus, homicida",0.4
+horace.epodes,17.13,"postquam, relinquo, moenia, rex, pro-caedo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.epodes,17.14,"heu, peruicax, ad, pes, achilleos",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"heu, peruicax",0.4
+horace.epodes,17.15,"saetosus, durus, exuo, pellis",4,"NaN, -0.5, NaN, 0.0",-0.125,-0.125,pellis,0.25
+horace.epodes,17.16,"laboriosus, remex, ulixei",3,"NaN, NaN, NaN",nan,nan,laboriosus,0.333
+horace.epodes,17.17,"uolo, circa, membrum, tunc, mens, et, sonus",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+horace.epodes,17.18,"relabor, atque, notus, in, uultus, honor",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,,0.0
+horace.epodes,17.19,"do, satis, supo, poena, tu",5,"NaN, 0.5, NaN, -1.0, NaN",-0.1,-0.2,"poena, tu",0.4
+horace.epodes,17.2,"amo, nauta, multus, et, institor",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,17.21,"fugio, iuuenta, et, uerecundus, color",5,"NaN, NaN, NaN, 1.0, 0.0",0.2,0.0,,0.0
+horace.epodes,17.22,"relinquo, os, pello, amicio, luridus",5,"NaN, 0.0, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+horace.epodes,17.23,"tuus, capillus, albus, sum, odor",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,capillus,0.2
+horace.epodes,17.24,"nullus, ab, labor, ego, reclino, otium",6,"NaN, NaN, -0.5, NaN, NaN, 0.5",0.0,-0.083,otium,0.167
+horace.epodes,17.25,"urgeo, dies, nox, et, dies, nox, neque, sum",8,"NaN, 0.0, 0.0, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,17.26,"leuaris, tento, spiritus, praecordia",4,"NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.epodes,17.27,"ergo, nego, uinco, ut, credo, miser",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,miser,0.167
+horace.epodes,17.28,"sabella, pectus, increparis, carmen",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,17.29,"caput, marsa, dissilire, nenia",4,"0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,17.3,"quis, amplus, uolo, o, mare, et, terra, ardeo",8,"NaN, 0.0, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.epodes,17.31,"quantus, neque, ater, delibuo, herculis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,17.32,"nession, cruor, neque, sicana, feruidus",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,"nession, cruor, sicana",0.6
+horace.epodes,17.33,"uireo, in, aetna, flamma, tu, donec, cinis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+horace.epodes,17.34,"iniuriosus, aridus, uenio, fero",4,"-1.0, NaN, NaN, NaN",-0.25,-0.25,,0.0
+horace.epodes,17.35,"cal, uenenum, officina, colchicum",4,"NaN, -0.5, NaN, NaN",-0.125,-0.125,,0.0
+horace.epodes,17.36,"qui, finis, aut, qui, ego, maneo, stipendium",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,17.37,"effaris, iubeo, cum, fides, poena, luo",6,"NaN, NaN, NaN, 1.0, -1.0, NaN",0.0,-0.167,"poena, luo",0.333
+horace.epodes,17.38,"paro, expiaris, seu, posco",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,17.39,"centum, iuuencus, siue, mendacium, lyra",5,"NaN, NaN, NaN, -1.0, 0.0",-0.2,-0.2,mendacium,0.2
+horace.epodes,17.4,"uolo, sono, tu, pudicus, tu, probus",6,"NaN, NaN, NaN, 0.5, NaN, 1.0",0.25,0.0,"tu, pudicus, tu, probus",0.667
+horace.epodes,17.41,"perambulo, astrum, sidus, aureus",4,"NaN, NaN, NaN, 0.5",0.125,0.0,,0.0
+horace.epodes,17.42,"infamis, helenae, castor, offendo, uicus",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,infamis,0.2
+horace.epodes,17.43,"frater, magnus, castor, uinco, prex",5,"0.0, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,17.44,"adimo, uates, reddo, lumen",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,17.45,"et, tu, possum, nam, soluo, ego, dementia",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,tu,0.143
+horace.epodes,17.46,"o, neque, paternus, obsolesco, sordes",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,"obsolesco, sordes",0.4
+horace.epodes,17.47,"neque, in, sepulcrum, pauper, prudens, anus",6,"NaN, NaN, NaN, -1.0, 1.0, 0.0",0.0,-0.167,sepulcrum,0.167
+horace.epodes,17.48,"nouendial, dissiparis, puluis",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,17.49,"tu, hospital, pectus, et, purus, manus",6,"NaN, NaN, NaN, NaN, 1.0, 0.0",0.167,0.0,tu,0.167
+horace.epodes,17.5,"tuus, uenter, pactumeius, et, tuus",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,17.51,"cruor, rubrus, obstetrix, pannus, lauo",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,cruor,0.2
+horace.epodes,17.52,"utcumque, fortis, exsilis, puerpera",4,"NaN, 0.5, NaN, NaN",0.125,0.0,,0.0
+horace.epodes,17.53,"quis, obsero, auris, fundo, prex",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,17.54,"non, saxum, nudus, surdus, nauta",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.epodes,17.55,"neptunus, altus, tundo, hibernus, salum",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+horace.epodes,17.56,"inultus, ut, tu, rideo, cotytia",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,"inultus, tu",0.4
+horace.epodes,17.57,"uulgo, sacer, liber, cupido",4,"NaN, 1.0, 0.5, -0.5",0.25,-0.125,,0.0
+horace.epodes,17.58,"et, esquilini, pontifex, ueneficus",4,"NaN, NaN, NaN, -0.5",-0.125,-0.125,ueneficus,0.25
+horace.epodes,17.59,"impunis, ut, urbem, nomen, in-pleo, meus",6,"-0.5, NaN, NaN, 0.0, NaN, 0.0",-0.083,-0.083,impunis,0.167
+horace.epodes,17.6,"quis, prosum, dito, paelignas, anus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,17.61,"uelox, misceo, toxicum",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,17.62,"sed, tardus, fatum, tu, uoueo, maneo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.167
+horace.epodes,17.63,"ingratus, mitto, uito, duco, sum, in, hic",7,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,"ingratus, hic",0.286
+horace.epodes,17.64,"nouus, ut, usque, suppeto, labor",5,"1.0, NaN, NaN, NaN, -0.5",0.1,-0.1,,0.0
+horace.epodes,17.65,"opto, quies, pelopis, infidus, pater",5,"NaN, NaN, NaN, -1.0, 0.0",-0.2,-0.2,,0.0
+horace.epodes,17.66,"egeo, benignus, tantalus, semper, daps",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+horace.epodes,17.67,"opto, prometheus, obligo, alo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,17.68,"opto, superus, collocaris, sisyphus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,17.69,"in, mons, saxum, sed, ueto, lex, io",7,"NaN, NaN, 0.0, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+horace.epodes,17.7,"uolo, modo, altus, desilire, turris",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+horace.epodes,17.71,"frustro, uinclum, guttur, innectes, tuus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,uinclum,0.2
+horace.epodes,17.72,"modo, ensis, pectus, noricum, recludo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,17.73,"fastidiosus, tristis, aegrimonia",3,"-1.0, -1.0, NaN",-0.667,-0.667,,0.0
+horace.epodes,17.74,"uecto, umerus, tunc, ego, inimicus, eques",6,"NaN, NaN, NaN, NaN, -1.0, 0.0",-0.167,-0.167,,0.0
+horace.epodes,17.75,"meus, terra, cedo, insolentia",4,"0.0, 0.0, NaN, -1.0",-0.25,-0.25,,0.0
+horace.epodes,17.76,"an, qui, moueo, cereus, imago",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,17.77,"ut, ipse, nosco, curiosus, et, polus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,17.78,"deripio, luna, uox, possum, meus",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+horace.epodes,17.79,"possum, cremo, excitaris, mortuus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,17.8,"desideo, temperaris, poculum",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.epodes,17.81,"ploro, ars, in, tu, nihil, ago, exitus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.143

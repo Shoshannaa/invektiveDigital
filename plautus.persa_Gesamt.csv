@@ -1,0 +1,854 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+plautus.persa,1.0,"qui, amo, egeo, ingredior, sum, princeps, in, amor, uia",9,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 1.0, 0.0",0.167,0.0,,0.0
+plautus.persa,2.0,"supero, aerumna, suus, aerumna, hercules",5,"NaN, -0.5, NaN, -0.5, NaN",-0.2,-0.2,,0.0
+plautus.persa,3.0,"nam, cum, leo, cum, excetra, cum, ceruus, cum, aper, aetolico",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,leo,0.1
+plautus.persa,4.0,"cum, auis, stymphalicis, cum, antaeo, deluctaris, malo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,5.0,"quam, cum, amor, ita, fio, miser, quaero, argentum, mutuus",9,"NaN, NaN, 1.0, NaN, NaN, -1.0, NaN, NaN, 0.0",0.0,-0.111,miser,0.111
+plautus.persa,6.0,"neque, quisquam, nisi, non, sum, scio, ego, respondeo, qui, rogo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,7.0,"qui, sum, suus, seruio, uolo, bene, seruus, seruitus",8,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, -0.5",-0.125,-0.125,seruitus,0.125
+plautus.persa,8.0,"ne, ille, edepol, multus, in, pectus, suus, conlocaris, oportet",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,edepol,0.111
+plautus.persa,9.0,"qui, sum, placeo, censeo, praesens, atque, absum, suus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,10.0,"ego, neque, libet, seruio, neque, satis, sum, sum, ex, sententia",10,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, 0.0",0.05,0.0,,0.0
+plautus.persa,11.0,"sed, quasi, lippus, oculus, ego, erus, meus, manus, apstinere, hau, queo, tamen",12,"NaN, NaN, NaN, 0.0, NaN, 0.0, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,erus,0.083
+plautus.persa,12.0,"quin, ego, impero, quin, ego, suus, negotium, praefulcio",8,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.062,-0.062,,0.0
+plautus.persa,13.0,"quis, illic, sum, qui, contra, ego, asto, quis, hic, sum, qui, sic, contra, ego, asto",15,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.067
+plautus.persa,14.0,"similis, sum, sagaristio, toxilus, hic, quidem, meus, amicus, sum",9,"0.0, NaN, NaN, NaN, NaN, NaN, 0.0, 1.0, NaN",0.111,0.0,hic,0.111
+plautus.persa,15.0,"is, sum, profecto, is, sum, opinor, congredior, contra, adgredibor",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,16.0,"o, sagaristio, deus, amo, tu, o, toxilis, do, deus, qui, exopto",11,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.091
+plautus.persa,17.0,"ut, ual, ut, queo, quis, ago, uiuo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,18.0,"satis, ne, ergo, ex, sententia, si, euenio, qui, exopto, satis",10,"0.5, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+plautus.persa,19.0,"nimis, stultus, amicus, utor, quis, iam, impero, oportet",8,"NaN, -1.0, 1.0, NaN, NaN, NaN, NaN, NaN",0.0,-0.125,stultus,0.125
+plautus.persa,20.0,"ego, quidem, tu, iam, sum, mortuus, quia, non, tu, uisito",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.2
+plautus.persa,21.0,"negotium, edepol, ferreus, fortasse, plusculis, annus",6,"-0.5, NaN, NaN, NaN, NaN, 0.0",-0.083,-0.083,edepol,0.167
+plautus.persa,22.0,"sum, praeferratus, apud, molo, tribunus, uapularis",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+plautus.persa,23.0,"uetus, iam, iste, militia, sum, tuus, satis, ne, tu, usque, ualeo, hau, probus",13,"0.0, NaN, NaN, 0.0, NaN, 0.0, 0.5, NaN, NaN, NaN, NaN, NaN, 1.0",0.115,0.0,"tu, probus",0.154
+plautus.persa,24.0,"ergo, edepol, palleo, saucius, facio, sum, in, uenio, proelium",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.111,-0.111,"edepol, proelium",0.222
+plautus.persa,25.0,"sagitta, cupido, cor, meus, transfigo, iam, seruio, hic, amo",9,"NaN, -0.5, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",-0.056,-0.056,hic,0.111
+plautus.persa,26.0,"quis, ego, facio, deus, -ne, ad-uerso, quasi, titani, cum, is, belligero",11,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,ad-uerso,0.091
+plautus.persa,27.0,"qui, satis, sum, non, queo",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+plautus.persa,28.0,"uideo, modo, ulmeus, catapulta, tuus, ne, transfigo, latus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,29.0,"basilicon, ago, eleutheria, quis, iam, quia, erus, peregri, sum, ai, -ne, tu",12,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"basilicon, erus, ai, tu",0.333
+plautus.persa,30.0,"peregri, sum, si, tu, tu, bene, sum, potis, patior, uenio, uiuo, cum, ego",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"tu, tu",0.154
+plautus.persa,31.0,"basilicon, accipio, uinco",3,"NaN, NaN, NaN",nan,nan,basilicon,0.333
+plautus.persa,32.0,"uah, iam, scapula, prurio, quia, tu, iste, audio, loquor",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.persa,33.0,"sed, hic, ego, unus, excrucio, quisnam, is, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, excrucio",0.25
+plautus.persa,34.0,"hic, dies, summus, hodie, sum, meus, amicus, sum, liber, an, sempiternus, seruitus, seruio, quis, nunc, uolo, ergo",17,"NaN, 0.0, NaN, NaN, NaN, 0.0, 1.0, NaN, 0.5, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN",0.059,-0.029,"hic, seruitus",0.118
+plautus.persa,35.0,"facio, amicus, tu, ego, potio, sum, sempiternus, qui, ad, modus",10,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.15,0.0,tu,0.1
+plautus.persa,36.0,"ut, ego, do, nummus, sescenti, qui, pro, caput, ille, pendo",10,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,nummus,0.1
+plautus.persa,37.0,"qui, continuo, tu, repono, in, hic, triduum, aut, quadriduum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, hic",0.222
+plautus.persa,38.0,"ago, fio, benignus, subuenio",4,"NaN, NaN, 1.0, NaN",0.25,0.0,,0.0
+plautus.persa,39.0,"qui, confido, rogo, tu, ab, ego, argentum, tantus, audeo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.persa,40.0,"impudens, quin, si, nos, totus, ueneam, uix, recipio, potio, sum",10,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.1,-0.1,impudens,0.1
+plautus.persa,41.0,"qui, tu, ego, rogo, nam, tu, aqua, ab, pumex, nunc, postulo",11,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"tu, tu, pumex",0.273
+plautus.persa,42.0,"qui, ipse, sitio, sicine, hic, tu, ego, facio, quis, facio, rogo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.182
+plautus.persa,43.0,"alicunde, exoro, mutuus, tu, facio, idem, qui, rogo, ego",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.111
+plautus.persa,44.0,"quaero, nusquam, reperio, quaero, equidem, si, quis, credo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,45.0,"nempe, habeo, in, mundus, si, is, domus, sum, ego, iam, polliceo",11,"NaN, NaN, NaN, 1.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.091,0.0,,0.0
+plautus.persa,46.0,"hic, meus, sum, ut, facio, sedulus, quisquis, sum, recipio, tu, ad, ego",12,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, tu",0.167
+plautus.persa,47.0,"quaero, tamen, ego, item, sedulus, si, quis, sum, tu, facio, ut, scio",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.083
+plautus.persa,48.0,"obsecro, tu, resecro, opera, do, hic, ego, fidelis, ah, odium, ego, eneco",12,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, 1.0, NaN, -1.0, NaN, NaN",-0.042,-0.125,"tu, hic",0.167
+plautus.persa,49.0,"amor, uitio, non, meus, nunc, tu, morologus, fio",8,"1.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.125,0.0,tu,0.125
+plautus.persa,50.0,"at, pol, ego, ab, tu, concedo, iam, -ne, abeo, bene, ambulo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.091
+plautus.persa,51.0,"sed, recipio, quam, primus, possum, caueo, sum, ego, in, quaestio",10,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.persa,52.0,"usque, sum, domus, dum, excoquo, leno, malus, res, magnus",9,"NaN, NaN, 0.0, NaN, NaN, NaN, -1.0, 0.0, 0.0",-0.111,-0.111,"excoquo, leno",0.222
+plautus.persa,53.0,"uetus, atque, antiquus, quaestus, magnus, meus",6,"0.0, NaN, 0.0, 0.5, 0.0, 0.0",0.083,0.0,quaestus,0.167
+plautus.persa,54.0,"seruo, atque, obtineo, et, magnus, cum, cura, colo",8,"NaN, NaN, NaN, NaN, 0.0, NaN, -1.0, NaN",-0.125,-0.125,,0.0
+plautus.persa,55.0,"nam, numquam, quisquam, meus, magnus, sum",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+plautus.persa,56.0,"quin, parasitor, pasco, uenter, suus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,57.0,"pater, auus, proauus, abauus, atauus, tritauus",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,58.0,"quasi, mus, semper, edo, alienus, cibus",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+plautus.persa,59.0,"neque, edacitas, is, quisquam, possum, uinco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,60.0,"atque, is, cognomentum, sum, durus, capito",6,"NaN, NaN, NaN, NaN, -0.5, 0.0",-0.083,-0.083,,0.0
+plautus.persa,61.0,"unde, ego, hic, quaestus, obtineo, et, magnus, locus",8,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0, 0.0",0.062,0.0,"hic, quaestus",0.25
+plautus.persa,62.0,"neque, quadrupularis, ego, uolo, neque, enim, decet",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,63.0,"sine, meus, periculum, eo, alienus, eripio, bonus",7,"NaN, 0.0, -1.0, NaN, -0.5, NaN, 1.0",-0.071,-0.214,,0.0
+plautus.persa,64.0,"neque, ille, qui, facio, ego, placeo, planus, -ne, loquor",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,65.0,"nam, publicus, res, causa, quicumque, is, facio",7,"NaN, 0.0, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,66.0,"magis, quam, suus, quaesti, animus, induco, possum",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+plautus.persa,67.0,"is, sum, ciuis, et, fidelis, et, bonus",7,"NaN, NaN, 0.5, NaN, 1.0, NaN, 1.0",0.357,0.0,,0.0
+plautus.persa,68.0,"sedsi, legirupa, qui, damno, do, in, publicus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,damno,0.143
+plautus.persa,69.0,"dimidium, atque, etiam, in, is, lex, ad-scribo",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+plautus.persa,70.0,"ubi, quadruplator, qui, iniexit, manus",5,"NaN, -0.5, NaN, NaN, 0.0",-0.1,-0.1,,0.0
+plautus.persa,71.0,"tantus, ille, ille, rursus, inicio, manus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.persa,72.0,"ut, aequus, pario, pro-eo, ad, tres, uir",7,"NaN, 0.5, NaN, NaN, NaN, NaN, 0.5",0.143,0.0,,0.0
+plautus.persa,73.0,"si, is, fio, ne, iste, facio, nusquam, appareo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,74.0,"qui, hic, album, reor, alienus, oppugno, bonus",7,"NaN, NaN, NaN, NaN, -0.5, NaN, 1.0",0.071,-0.071,hic,0.143
+plautus.persa,75.0,"sed, sum, ego, stultus, qui, res, curo, publicus",8,"NaN, NaN, NaN, -1.0, NaN, 0.0, NaN, 0.0",-0.125,-0.125,stultus,0.125
+plautus.persa,76.0,"ubi, sum, magistratus, qui, curo, oportet",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+plautus.persa,77.0,"nunc, huc, intro, eo, uideo, hesternus, reliquiae",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,78.0,"queo, -ne, rectus, necne, num, a-sum, febris",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+plautus.persa,79.0,"operio, -ne, sum, ne, quis, obrepto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,80.0,"sed, aperio, aedes, remorandus, sum, gradus",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.persa,81.0,"omnis, res, inuenio, ut, suus, sui, pecunia",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,pecunia,0.143
+plautus.persa,82.0,"hodie, ille, facio, leno, liberta, suus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,leno,0.167
+plautus.persa,83.0,"sed, ecce, parasitus, qui, ego, auxilium, sum, opus",8,"NaN, NaN, -0.5, NaN, NaN, 0.0, NaN, 0.5",0.0,-0.062,parasitus,0.125
+plautus.persa,84.0,"simulo, quasi, non, uideo, ita, allicio, uir",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+plautus.persa,85.0,"curo, istic, tu, atque, appropero, ocior",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.persa,86.0,"ne, ego, mora, sum, quisquam, ubi, ego, intro, aduenio",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,87.0,"commisceo, mulsum, strutheus, coluthequam, appario",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,88.0,"bene, ut, in, scutra, concaleo, et, calamus, inicio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,89.0,"iam, pol, ille, hic, adsum, credo, congerro, meus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.125
+plautus.persa,90.0,"ego, dico, euge, lautus, credo, e, balineis",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+plautus.persa,91.0,"iam, hic, adsum, ut, ordo, omnis, res, teneo",8,"NaN, NaN, NaN, NaN, 0.5, NaN, 0.0, NaN",0.062,0.0,hic,0.125
+plautus.persa,92.0,"collyra, facio, ut, madeo, et, colyphia",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,93.0,"ne, ego, incoquo, do, res, loquor, merus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,94.0,"nihilis, sum, crudus, nisi, qui, madidus, gluttias",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+plautus.persa,95.0,"tum, nisi, cremor, crassus, sum, ius, collyricus",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+plautus.persa,96.0,"nihilis, sum, macer, ille, epicrocum, pellucidus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,97.0,"quasi, iuream, sum, ius, decet, collyricus",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+plautus.persa,98.0,"nolo, in, uesica, qui, eo, in, uenter, uolo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,99.0,"prope, ego, hic, nescio, quis, loquor, o, ego, iuppiter",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.persa,100.0,"terrestris, tu, coepulonus, compello, tuus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.2
+plautus.persa,101.0,"o, saturio, opportunus, aduenio, ego",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,102.0,"mendacium, edepol, dico, atque, haud, tu, decet",7,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,"mendacium, edepol, tu",0.429
+plautus.persa,103.0,"nam, esurio, uenio, non, aduenio, saturio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,104.0,"at, edo, nam, iam, intus, uenter, fumo, foculo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,105.0,"calefieri, iubeo, reliquiae, perna, quidem",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,106.0,"ius, sum, appono, frigida, postridie",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+plautus.persa,107.0,"ita, fio, iubeo, ecquis, hallecis, uah, rogo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,108.0,"sapio, multus, ad, genius, sed, tu, ecquis, memini, erus",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, erus",0.222
+plautus.persa,109.0,"qui, de, res, ego, cum, tu, mentio, facio",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.125
+plautus.persa,110.0,"memini, ut, murena, et, conger, ne, calefierent",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,111.0,"nam, nimius, bonus, oppecto, frigidus",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,nimius,0.2
+plautus.persa,112.0,"sed, quis, cesso, proelium, committo",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,proelium,0.2
+plautus.persa,113.0,"dum, mane, sum, omnis, sum, mortalis, decet",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+plautus.persa,114.0,"nimis, paene, mane, sum, mane, qui, tu, occipio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.persa,115.0,"negotium, ago, is, totus, procedo, dies",6,"-0.5, NaN, NaN, NaN, NaN, 0.0",-0.083,-0.083,,0.0
+plautus.persa,116.0,"quaeso, animus, ad-uerto, hic, iam, heri, narro, tu",8,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,"hic, tu",0.25
+plautus.persa,117.0,"tu, oro, ut, nummus, sescenti, ego",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"tu, nummus",0.333
+plautus.persa,118.0,"do, uto, mutuus, memini, et, scio",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,119.0,"et, tu, ego, oro, et, ego, non, sum, qui, do",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.persa,120.0,"nihilis, parasitus, sum, qui, argentum, domus, sum",7,"NaN, -0.5, NaN, NaN, NaN, 0.0, NaN",-0.071,-0.071,parasitus,0.143
+plautus.persa,121.0,"libido, extemplo, coepio, sum, conuiuium",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,"libido, conuiuium",0.4
+plautus.persa,122.0,"tuburcinaris, de, suus, si, quis, domus, sum",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.persa,123.0,"cynicum, sum, egeo, oportet, parasitus, probus",6,"NaN, NaN, NaN, NaN, -0.5, 1.0",0.083,-0.083,"parasitus, probus",0.333
+plautus.persa,124.0,"ampulla, strigilis, scaphium, soccus, pallium",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,125.0,"marsuppium, habeo, inibi, paulus, praesidium",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,marsuppium,0.2
+plautus.persa,126.0,"qui, familiaris, suus, uita, oblecto, modo",6,"NaN, 1.0, NaN, 0.0, NaN, NaN",0.167,0.0,,0.0
+plautus.persa,127.0,"iam, nolo, argentum, filia, uto, tuus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.persa,128.0,"ego, do, numquam, edepol, quisquam, etiam, uto, do",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,edepol,0.125
+plautus.persa,129.0,"non, ad, iste, qui, tu, insimulo, quis, is, uolo, scio",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, insimulo",0.2
+plautus.persa,130.0,"quia, forma, lepidus, et, liberal, sum, res, ita, sum",9,"NaN, 1.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.111,0.0,,0.0
+plautus.persa,131.0,"hic, leno, neque, tu, nosco, neque, gnatam, tuus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, leno, tu",0.375
+plautus.persa,132.0,"ego, ut, quisquam, nosco, nisi, ille, qui, praebeo, cibus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,133.0,"ita, sum, hic, tu, ego, reperio, argentum, possum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.25
+plautus.persa,134.0,"cupio, hercules, tum, tu, ego, sine, ille, uendo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, uendo",0.25
+plautus.persa,135.0,"tu, -ne, ille, uendo, immo, alius, ad-lego",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, uendo",0.286
+plautus.persa,136.0,"qui, uendo, qui, sum, sui, peregrinus, praedico",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uendo,0.143
+plautus.persa,137.0,"sicut, istic, leno, non, sex, mensis, megaris",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,leno,0.143
+plautus.persa,138.0,"huc, sum, cum, commigro, pereo, reliquiae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,139.0,"posterus, iste, tamen, possum, scio, ne, quam, possum",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,140.0,"numquam, hercules, hodie, hic, prior, edo, ne, frustra, sum",9,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.056,0.0,hic,0.111
+plautus.persa,141.0,"quam, tu, hic, facio, qui, rogo, ad-firmo, ego",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, hic",0.25
+plautus.persa,142.0,"atque, nisi, gnatam, cum, tu, huc, iam, quantus, possum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.persa,143.0,"adduco, exigo, hercules, ego, tu, ex, hic, decuria",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, hic",0.25
+plautus.persa,144.0,"quis, nunc, quis, sum, quin, dico, quis, facio, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,145.0,"quaeso, hercules, ego, quoque, etiam, uendo, si, lubet",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uendo,0.125
+plautus.persa,146.0,"dum, sero, uendo, hic, si, fax",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"uendo, hic, fax",0.5
+plautus.persa,147.0,"facio, equidem, qui, uolo, bene, facio, propero, abeo, domus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.persa,148.0,"praemonstro, doceo, praecipio, astus, filia",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,astus,0.2
+plautus.persa,149.0,"quis, fabulor, ubi, sui, nata, praedico",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,150.0,"qui, sui, parens, sum, unde, surpta, sum",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.persa,151.0,"sed, longus, ab, athenae, sum, sui, gnatam, autumo",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,152.0,"et, ut, affleo, cum, is, memoro, etiam, tu, taceo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.persa,153.0,"ter, tantus, malus, ipse, sum, quam, ille, tu, sum, uolo",10,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.1,-0.1,tu,0.1
+plautus.persa,154.0,"lepidus, hercules, dico, sed, scio, ne, quis, facio, capio",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,155.0,"tunica, atque, zona, et, chlamys, affero, et, causeam",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,156.0,"quam, ille, habeo, qui, hic, leno, hic, uendo, eu, probus",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.1,0.0,"hic, leno, hic, uendo, probus",0.5
+plautus.persa,157.0,"quasi, sum, peregrinus, laudo, et, tu, gnatam, tuus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.125
+plautus.persa,158.0,"orno, adduco, lepidus, in, peregrinus, modus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+plautus.persa,159.0,"πόθεν, ornamentum, abs, choragus, sumo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,160.0,"do, debeo, praebeo, aedilis, loco",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,161.0,"iam, facio, hic, adeo, sed, ego, nihil, hic, scio",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.222
+plautus.persa,162.0,"nihil, hercules, uerus, nam, ubi, ego, argentum, accipio",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.persa,163.0,"continuo, tu, ille, ab, leno, assero, manus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, leno",0.286
+plautus.persa,164.0,"sui, habeo, si, non, extemplo, ab, is, abduco",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,165.0,"abeo, et, iste, cura, interibi, ego, puer, uolo",8,"NaN, NaN, NaN, -1.0, NaN, NaN, 0.0, NaN",-0.125,-0.125,,0.0
+plautus.persa,166.0,"mitto, ad, amica, meus, ut, habeo, animus, bonus",8,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.5, 1.0",0.188,0.0,,0.0
+plautus.persa,167.0,"ego, sum, efficio, hic, hodie, nimis, longus, loquor",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.125
+plautus.persa,168.0,"satis, sum, indoctus, immemor, insipiens, dico, totiens",7,"0.5, NaN, NaN, -1.0, -1.0, NaN, NaN",-0.214,-0.286,insipiens,0.143
+plautus.persa,169.0,"nimis, tandem, ego, quidem, pro, bardus, et, pro, rusticus, reor, habeo, sum, ab, tu",14,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.107,-0.107,tu,0.071
+plautus.persa,170.0,"quamquam, ego, uinum, bibo, at, mandatum, non, con-suesco, simul, bibo, unus",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,171.0,"ego, quidem, iam, satis, tu, specto, censeo, sum, et, meus, mos",11,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, 0.0, 0.5",0.091,0.0,tu,0.091
+plautus.persa,172.0,"nam, equidem, tu, iam, sector, quintus, hic, annus, cum, interea, credo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"tu, hic",0.182
+plautus.persa,173.0,"ouum, si, in, ludus, eo, possum, iam, fio, ut, probus, littera, scio",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, 0.0, NaN",0.083,0.0,probus,0.083
+plautus.persa,174.0,"cum, interim, tu, meus, ingenium, for, atque, infer, nondum, etiam, edisco",11,"NaN, NaN, NaN, 0.0, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.045,0.0,tu,0.091
+plautus.persa,175.0,"potio, -ne, ut, taceo, potio, -ne, ne, moneo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,176.0,"memini, et, scio, et, calleo, et, commeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,177.0,"amo, pol, misero, is, tuus, scatit, animus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.5",0.071,0.0,misero,0.143
+plautus.persa,178.0,"ego, iste, placidus, tu, ut, sum, facio",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,tu,0.143
+plautus.persa,179.0,"miser, sum, qui, amo, certus, is, quidem, nihilis, sum",9,"-1.0, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",-0.056,-0.111,miser,0.111
+plautus.persa,180.0,"qui, nihil, amo, quis, is, homo, opus, uito, sum",9,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.5, NaN, NaN",0.056,0.0,,0.0
+plautus.persa,181.0,"eo, decet, ego, ut, era, opsequens, fio, liber, is, opus, ocior, ut, sum",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 0.5, NaN, NaN, NaN",0.077,0.0,,0.0
+plautus.persa,182.0,"conuenio, hic, toxilis, is, auris, qui, mandatum, sum, onero",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.persa,183.0,"satis, ne, hic, tu, sum, planum, et, certus, satis, ne, hic, memini, et, teneo",14,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, 0.5, NaN, NaN, NaN, NaN, NaN",0.107,0.0,"hic, tu, planum, hic",0.286
+plautus.persa,184.0,"bonus, quam, tu, qui, doceo, ai, -ne, uerus, uerbereus, caput",10,"1.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 0.0",0.15,0.0,"tu, ai",0.2
+plautus.persa,185.0,"aio, enim, uerus, quis, ergo, dico, ego, rectus, apud, ille, dico",11,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.136,0.0,,0.0
+plautus.persa,186.0,"non, edepol, scio, do, hercules, pignus, ni, omnis, memini, et, scio",11,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,edepol,0.091
+plautus.persa,187.0,"et, quidem, si, scio, tueor, quot, hodie, habeo, digitus, in, manus",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.persa,188.0,"ego, -ne, do, pignus, cum, tu, audacter, si, libido, sum, perdo",11,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, -0.5, NaN, NaN",-0.045,-0.045,"tu, audacter, libido",0.273
+plautus.persa,189.0,"bonus, pax, sum, potis, tum, tu, igitur, sine, ego, eo, et, iubeo, et, sino",14,"1.0, 0.5, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.107,0.0,tu,0.071
+plautus.persa,190.0,"sed, ita, uolo, tu, eo, ut, domus, sum, cum, ego, tu, sum, ille, censeo",14,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"tu, tu",0.143
+plautus.persa,191.0,"facio, quo, ergo, is, nunc, domus, uti, domus, sum, cum, ille, censeo",12,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,192.0,"scelus, tu, puer, sum, atque, ob, iste, res, ego, aliqui, tu, peculio",12,"-1.0, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",-0.083,-0.083,"scelus, tu, tu",0.25
+plautus.persa,193.0,"scio, fides, hercules, erilis, ut, soleo, impudicitia, opprobraris",8,"NaN, 1.0, NaN, NaN, NaN, NaN, -1.0, NaN",0.0,-0.125,impudicitia,0.125
+plautus.persa,194.0,"neque, subigo, queantur, umquam, ut, pro, is, fides, habeo, iudico",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.1,0.0,,0.0
+plautus.persa,195.0,"abeo, modo, ego, laudo, facio, sed, hic, tabella, paegnium",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.111
+plautus.persa,196.0,"ipse, lemniseleni, facio, do, et, qui, iubeo, nuntio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,197.0,"cedo, eo, ego, quo, mitto, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,198.0,"is, ego, eo, sanus, ego, domus, eo, fax, res, hic, cum, cura, gero",13,"NaN, NaN, NaN, 1.0, NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, -1.0, NaN",0.0,-0.077,"fax, hic",0.154
+plautus.persa,199.0,"uolo, curriculum, iste, marinus, passer, per, circum, soleo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,200.0,"illic, hinc, abeo, intro, huc, sed, quis, hic, sum, qui, ego, ad-uerto, incedo",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.077
+plautus.persa,201.0,"paegnium, hic, quidem, sum, sophoclidisca, hic, peculiaris, sum, is",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"hic, hic",0.222
+plautus.persa,202.0,"quo, ego, sum, mitto, nullus, sum, hodie, hic, puer, malus, perhibeo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, -1.0, NaN",-0.091,-0.091,hic,0.091
+plautus.persa,203.0,"compello, commorandus, sum, apud, hic, ob-iacio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+plautus.persa,204.0,"paegnium, deliciae, puer, saluus, quis, ago, ut, ual",8,"NaN, NaN, 0.0, 1.0, NaN, NaN, NaN, NaN",0.125,0.0,deliciae,0.125
+plautus.persa,205.0,"sophoclidisca, deus, ego, amo, quis, ego, utrum, hercules, deus, uolo",10,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.persa,206.0,"sed, si, ut, dignus, sum, facio, odium, hercules, habeo, et, facio, malus",12,"NaN, NaN, NaN, 1.0, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, -1.0",-0.083,-0.167,,0.0
+plautus.persa,207.0,"mitto, malus, loquor, cum, ut, dignus, sum, dico, bene, non, malus, loquor",12,"NaN, -1.0, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, -1.0, NaN",-0.083,-0.167,,0.0
+plautus.persa,208.0,"quis, ago, femina, scelestus, tu, asto, contra, contuor",8,"NaN, NaN, 0.0, -1.0, NaN, NaN, NaN, NaN",-0.125,-0.125,"scelestus, tu",0.25
+plautus.persa,209.0,"certus, equidem, puer, malus, quam, tu, nosco, nemo",8,"0.5, NaN, 0.0, -1.0, NaN, NaN, NaN, -0.5",-0.125,-0.188,tu,0.125
+plautus.persa,210.0,"quis, malus, facio, aut, qui, malus, dico, qui, pol, cum, occasio, sum",12,"NaN, -1.0, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, 0.5, NaN",-0.125,-0.167,,0.0
+plautus.persa,211.0,"nemo, homo, umquam, ita, arbitror, sum, at, pol, multus, sum, ita, scio",12,"-0.5, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",-0.042,-0.042,,0.0
+plautus.persa,212.0,"heia, beia, tuus, ex, ingenium, mos, alienus, probo",8,"NaN, NaN, 0.0, NaN, 0.5, 0.5, -0.5, NaN",0.062,-0.062,,0.0
+plautus.persa,213.0,"fateor, ego, profecto, ego, sum, ut, decet, leno, familia",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.056,0.0,leno,0.111
+plautus.persa,214.0,"satis, iam, dico, habeo, sed, quis, tu, confiteor, ut, tu, autumo",11,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.045,0.0,"tu, tu",0.182
+plautus.persa,215.0,"fateor, si, ita, sum, iam, abeo, uinco, abeo, nuncia, ergo, hic, ego, expedio",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.077
+plautus.persa,216.0,"quo, ago, quo, tu, dico, tu, dico, tu, prior, rogo, at, post, scio",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.038,0.0,"tu, tu, tu",0.231
+plautus.persa,217.0,"is, ego, hinc, haud, longus, et, quidem, ego, haud, longus, hinc, is, quo, ergo, is, scelus",16,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, -1.0",-0.062,-0.062,scelus,0.062
+plautus.persa,218.0,"nisi, scio, prior, ex, tu, tu, ex, ego, numquam, hic, qui, rogito, scio",13,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.038,0.0,"tu, tu, hic",0.231
+plautus.persa,219.0,"numquam, ecastor, hodie, scibis, prior, quam, ex, tu, audio",9,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.056,0.0,"ecastor, tu",0.222
+plautus.persa,220.0,"ita, -ne, sum, ita, -ne, sum, malus, es., decet, ego, ego, quidem, addecet",13,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.077,-0.077,addecet,0.077
+plautus.persa,221.0,"quis, aio, certus, sum, celaris, quo, iter, facio, malus",9,"NaN, NaN, 0.5, NaN, NaN, NaN, 0.0, NaN, -1.0",-0.056,-0.111,,0.0
+plautus.persa,222.0,"offirmasti, -ne, occulto, quo, tu, immitto, malus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,tu,0.143
+plautus.persa,223.0,"par, par, respondeo, dico, abeo, iam, quando, ita, certus, res",10,"0.5, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, 0.0",0.15,0.0,,0.0
+plautus.persa,224.0,"nihilis, facio, scio, ualeo, asto, at, propero, et, pol, ego, item",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,225.0,"ecquis, habeo, ecquis, tu, nihil, equidem, cedo, manus, ergo, sum, -ne, hic, manus",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, hic",0.154
+plautus.persa,226.0,"ubi, ille, alter, sum, furtificus, laeua, domus, ecce, huc, nullus, affero",11,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,227.0,"habeo, nescio, quis, ne, ego, attrecto, subigitatrix, sin, tu, amo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.persa,228.0,"malus, opera, loco, qui, quia, enim, nihil, amo, cum, ingratus, amo",11,"-1.0, -0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.227,-0.227,ingratus,0.091
+plautus.persa,229.0,"temperi, hic, uigilaris, oportet, formula, atque, aetatula",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.143
+plautus.persa,230.0,"ne, ubi, uersicapillus, fio, foedus, semper, seruio",7,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,,0.0
+plautus.persa,231.0,"tu, quidem, haud, etiam, sum, octoginta, pondo, at, confido",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.persa,232.0,"ille, militia, milito, multus, magis, quam, pondus",7,"NaN, 0.0, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,233.0,"atque, ego, hic, nunc, opera, perdo, quis, iam, quia, pereo, praedico",11,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN, NaN",-0.045,-0.045,hic,0.091
+plautus.persa,234.0,"sed, ego, cedo, mane, molestus, sum, ergo, sum, quoque, nisi, scio",11,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.091,-0.091,,0.0
+plautus.persa,235.0,"quo, ago, tu, ad, tu, et, pol, ego, ad, tu, quis, is, quis, is, ad, tu, attineo",17,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu, tu, tu",0.235
+plautus.persa,236.0,"enim, non, eo, nunc, uicissim, nisi, scio., lubet",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,237.0,"numquam, hercules, iste, exterebro, tu, ut, sum, malus, quam, ego, sum",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.091,-0.091,tu,0.091
+plautus.persa,238.0,"malitia, certo, cum, tu, miseria, sum, mers, tu, malus, sum",10,"-1.0, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, -1.0, NaN",-0.3,-0.3,"tu, tu",0.2
+plautus.persa,239.0,"quis, sum, qui, metuo, idem, iste, qui, tu, dico, ergo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.persa,240.0,"ne, hic, quisquam, homo, edico, omnis, mutus, ut, loquor, prior",10,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.5",0.05,0.0,hic,0.1
+plautus.persa,241.0,"edictum, sum, magnus, opus, ego, ne, quisquam, hic, homo, credo",10,"NaN, NaN, 0.0, 0.5, NaN, NaN, NaN, NaN, 0.0, NaN",0.05,0.0,hic,0.1
+plautus.persa,242.0,"omnis, mutus, ut, eloquor, prior, hic, quam, ego, at, tu, hic, fax",12,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.042,0.0,"hic, tu, hic, fax",0.333
+plautus.persa,243.0,"fides, do, credo, nosco, omnis, sum, lena, leuifidus",8,"1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.125,0.0,lena,0.125
+plautus.persa,244.0,"neque, tippula, leuis, pondus, sum, quam, fides, lenonius",8,"NaN, NaN, 0.0, NaN, NaN, NaN, 1.0, NaN",0.125,0.0,,0.0
+plautus.persa,245.0,"dico, amo, dico, amo, nolo, amo, facilis, impetro",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,,0.0
+plautus.persa,246.0,"cum, tu, habeo, et, tu, hic, taceo, taceo, sum, celo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu, hic",0.3
+plautus.persa,247.0,"toxilo, hic, fero, tabella, tuus, sum, abeo, ecce, domus",9,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.111
+plautus.persa,248.0,"at, ego, hic, ad, lemniselenem, tuus, sum, opsignatam, abies",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.111
+plautus.persa,249.0,"quis, istic, scribo, iuxta, cum, tu, si, tu, nescio, nescio",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.2
+plautus.persa,250.0,"nisi, fortasse, blandus, uerbum, abeo, et, ego, abeo, ambulo",9,"NaN, NaN, 0.5, 0.0, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.persa,251.0,"ioui, opulentus, inclutus",3,"NaN, NaN, 0.5",0.167,0.0,,0.0
+plautus.persa,252.0,"ops, nascor, superus, ualidus, uiripotens",5,"0.0, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+plautus.persa,253.0,"ops, spes, bonus, copia, commodo",5,"0.0, 0.5, 1.0, 0.5, NaN",0.4,0.0,,0.0
+plautus.persa,254.0,"libet, uitulor, mereo",3,"NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,255.0,"quia, meus, amicus, amiciter, hic, commoditas, copia",7,"NaN, 0.0, 1.0, NaN, NaN, 0.5, 0.5",0.286,0.0,hic,0.143
+plautus.persa,256.0,"danunt, argentum, mutuus, ut, is, egeo, ops, affero",8,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.persa,257.0,"qui, ego, non, magis, somnio, neque, opinor, neque, censeo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,258.0,"is, sum, ego, occasio, is, nunc, quasi, decido, de, caelum",10,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+plautus.persa,259.0,"nam, erus, meus, ego, eretriam, mitto, domo, bos, ut, sui, mercor",11,"NaN, 0.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"erus, mercor",0.182
+plautus.persa,260.0,"do, argentum, nam, ibi, mercor, dico, sum, dies, septimus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,mercor,0.111
+plautus.persa,261.0,"stultus, qui, hic, ego, do, argentum, qui, ingenium, nosco",9,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",-0.056,-0.111,"stultus, hic",0.222
+plautus.persa,262.0,"nam, hic, argentum, alibi, abutor, bos, qui, emo, non, sum",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, emo",0.2
+plautus.persa,263.0,"nunc, et, amicus, prospero, et, genius, meus, multus, bonus, facio",10,"NaN, NaN, 1.0, NaN, NaN, NaN, 0.0, 0.0, 1.0, NaN",0.2,0.0,,0.0
+plautus.persa,264.0,"diu, quo, bene, sum, dies, unus, absoluo, tux, tax, tergum, sum, meus, non, curo",14,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,265.0,"nunc, amicus, homo, bos, domo, meus, ex, crumino, largior",9,"NaN, 1.0, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.persa,266.0,"nam, is, demum, lepidus, sum, triparcus, homo, uetulus, auidus, aridus",10,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,267.0,"bene, admordeo, qui, salinum, seruo, obsigno, cum, sal",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,268.0,"uirtus, ubi, occasio, admoneo, dispicio, quis, facio, ego",8,"1.0, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.188,0.0,,0.0
+plautus.persa,269.0,"uerber, caedo, iubeo, compes, impingo, uapulo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uerber,0.167
+plautus.persa,270.0,"ne, sui, ego, credo, supplex, sum, uae, ille, nihil, iam, ego, nosco",12,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,271.0,"offero, possum, quin, sum, pereo, sed, toxilis, puer, paegnium, ecce",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,272.0,"pendo, meus, qui, do, sum, confacio, nunc, domus, propero, mane, etsi, propero",12,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,273.0,"paegnium, ausculto, emo, oportet, qui, tu, oboedio, uelis, asto",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"emo, tu",0.222
+plautus.persa,274.0,"exhibeo, molestia, ut, opinor, si, quis, debeo",7,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+plautus.persa,275.0,"qui, nunc, sic, tamen, sum, molestus, scelero, etiam, respicio",9,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.111,-0.111,scelero,0.111
+plautus.persa,276.0,"scio, ego, quis, sum, aetas, is, iste, maledico, impunis, aufero",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, -0.5, NaN",-0.05,-0.05,"maledico, impunis",0.2
+plautus.persa,277.0,"ubi, toxilus, sum, tuus, erus, ubi, ille, libet, neque, tu, consulo, etiam",12,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"erus, tu",0.167
+plautus.persa,278.0,"dico, ubi, sum, ueneficus",4,"NaN, NaN, NaN, -0.5",-0.125,-0.125,ueneficus,0.25
+plautus.persa,279.0,"nescio, inquam, ulmitriba, tu",4,"NaN, NaN, NaN, NaN",nan,nan,tu,0.25
+plautus.persa,280.0,"malus, dico, magnus, prior, promereo, perpetiaris, serua, opera, lingua, liber, erus, iubeo, ego, habeo",14,"-1.0, NaN, 0.0, 0.5, NaN, NaN, NaN, -0.5, -0.5, 0.5, 0.0, NaN, NaN, NaN",-0.071,-0.143,erus,0.071
+plautus.persa,281.0,"dico, -ne, ego, ubi, sum, toxilus, dico, ut, perpetuus, pereo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.persa,282.0,"caedo, hodie, tu, restis, tuus, quidem, cuculis, causa",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,tu,0.125
+plautus.persa,283.0,"non, hercules, si, os, percido, tu, metuo, morticinus",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.125
+plautus.persa,284.0,"uideo, ego, tu, iam, incubito, sum, ita, sum, quis, is, ad, tu, attineo",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.154
+plautus.persa,285.0,"at, non, sum, ita, ut, tu, gratia, confido, sum, hercules, uerus",11,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, 0.5",0.136,0.0,tu,0.091
+plautus.persa,286.0,"nam, ego, ego, confido, liber, sum, tu, tu, numquam, spero",10,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.05,0.0,"tu, tu",0.2
+plautus.persa,287.0,"potio, -ne, ut, molestus, ne, sum, qui, dico, facio, non, quis",11,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.091,-0.091,,0.0
+plautus.persa,288.0,"abeo, in, malus, res, at, tu, domus, nam, ibi, tu, paro, praesto, sum",13,"NaN, NaN, -1.0, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.077,-0.077,"tu, tu",0.154
+plautus.persa,289.0,"uado, hic, ego, utinam, uado, desum, in, carcer, ut, sum",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, carcer",0.2
+plautus.persa,290.0,"quis, hic, quis, sum, etiam, scelus, malus, loquor, tandem, ut, licet",11,"NaN, NaN, NaN, NaN, NaN, -1.0, -1.0, NaN, NaN, NaN, NaN",-0.182,-0.182,"hic, scelus",0.182
+plautus.persa,291.0,"cum, seruus, sum, seruus, tu, malus, dico, ito, specto",9,"NaN, -0.5, NaN, -0.5, NaN, -1.0, NaN, NaN, NaN",-0.222,-0.222,tu,0.111
+plautus.persa,292.0,"quis, do, nihil, nam, nihil, habeo, deus, deferuesco, ego, omnis, perdo",11,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,293.0,"amicus, sum, euenio, uolo, tu, qui, opto, atque, is, fio",10,"1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.1,0.0,tu,0.1
+plautus.persa,294.0,"nisi, tu, hodie, si, prehendo, defigo, in, terra, colaphus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,"tu, colaphus",0.222
+plautus.persa,295.0,"tu, -ne, ego, defigo, tu, crux, ipse, affigo, propediem, alius",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu, crux",0.3
+plautus.persa,296.0,"qui, tu, deus, deaequescis, quis, hinc, porro, dico, sum",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.111
+plautus.persa,297.0,"ni, lingua, moderaris, queo, potio, -ne, abeo, abigo, facilis",9,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.0,-0.056,,0.0
+plautus.persa,298.0,"nam, umbra, meus, iam, intus, uapulo, ut, iste, deus, deferuesco, perdo",11,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,299.0,"tamquam, proserpo, bestia, sum, bilinguis, et, scelestus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,"bestia, bilinguis, scelestus",0.429
+plautus.persa,300.0,"hercules, ille, abeo, gaudeo, foris, aperio, eccere, autem",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,301.0,"qui, conuenio, magnus, cupio, egredior, intus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,302.0,"paro, iam, sum, dico, unde, argentum, sum, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,303.0,"iubeo, habeo, animus, bonus, dico, ego, ille, amo, multus",9,"NaN, NaN, 0.5, 1.0, NaN, NaN, NaN, NaN, 0.0",0.167,0.0,,0.0
+plautus.persa,304.0,"ubi, sui, adiuuo, ibi, ego, adiuuo, qui, dico, ut, nuntiaris",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,305.0,"satis, ne, is, teneo, magis, calleo, quam, aprugnus, callus, calleo",10,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.persa,306.0,"propero, abeo, domus, nunc, ego, hic, graphicus, facetus, fio",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, facetus",0.222
+plautus.persa,307.0,"subnixus, ala, ego, infero, atque, amicibor, gloriosus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,308.0,"sed, quis, hic, ansatus, ambulo, magnificus, conscreabor",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.143
+plautus.persa,309.0,"sagaristio, hic, quidem, sum, quis, ago, sagaristio, ut, ualeo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.persa,310.0,"ecquis, qui, mando, tu, edo, in, tu, specula, adeo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.222
+plautus.persa,311.0,"uideo, facio, uolo, uenio, promoneo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,312.0,"quis, hic, hic, in, collum, tu, tumeo, uomica, sum, pressaris, parco",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic, tu",0.273
+plautus.persa,313.0,"nam, ubi, qui, malus, tango, manus, dolor, coorior",8,"NaN, NaN, NaN, -1.0, NaN, 0.0, -1.0, NaN",-0.25,-0.25,,0.0
+plautus.persa,314.0,"quando, iste, innato, sum, tu, hodie, secaris, iubeo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.persa,315.0,"metuo, ne, immaturus, seco, ne, exhibeo, multus, negotium",8,"NaN, NaN, -1.0, NaN, NaN, NaN, 0.0, -0.5",-0.188,-0.188,,0.0
+plautus.persa,316.0,"inspicio, morbus, tuus, lubet, ah, ah, abeo, atque, caueo, sum",10,"NaN, -1.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+plautus.persa,317.0,"ab, cornu, quis, iam, quia, bos, bini, hic, sum, in, crumino",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.091
+plautus.persa,318.0,"emitto, si, audeo, ne, eneco, fames, sine, eo, pasco",9,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.056,-0.056,,0.0
+plautus.persa,319.0,"enim, metuo, ut, possum, reicio, in, bubilis, ne, uago",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,320.0,"ego, reicio, habeo, animus, bonus, credo, commodo",7,"NaN, NaN, NaN, 0.5, 1.0, NaN, NaN",0.214,0.0,,0.0
+plautus.persa,321.0,"sequor, hic, sum, argentum, hic, insum, qui, cum, ego, dudum, oro",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.182
+plautus.persa,322.0,"quis, tu, aio, dominus, ego, bos, mercor, eretriam, mitto",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, mercor",0.222
+plautus.persa,323.0,"nunc, ego, eretria, sum, hic, tuus, domus, nimis, tu, facetus, loquor",11,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, tu, facetus",0.273
+plautus.persa,324.0,"atque, ego, omnis, argentum, tu, hic, actus, incolumis, redigo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.056,-0.056,"tu, hic",0.222
+plautus.persa,325.0,"nam, iam, omnis, sycophantia, instruo, et, comparo",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,,0.0
+plautus.persa,326.0,"quo, pacisco, ab, leno, aufero, hic, argentum, tantus, bonus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.111,0.0,"leno, hic",0.222
+plautus.persa,327.0,"et, mulier, ut, sum, liber, atque, ipse, ultro, do, argentum",10,"NaN, 0.0, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.05,0.0,mulier,0.1
+plautus.persa,328.0,"sed, sequor, ego, ad, is, res, utor, sum, tuus, ego, opus, utere, ut, uolo",14,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, 0.5, NaN, NaN, NaN",0.036,0.0,,0.0
+plautus.persa,329.0,"qui, res, bene, uerto, ego, et, tu, et, uenter, meus",10,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.1
+plautus.persa,330.0,"perennitas, adeo, hic, perpetuus, cibus",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.2
+plautus.persa,331.0,"ut, ego, supersum, suppeto, superstito",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,332.0,"sequor, hic, meus, gnata, ego, cum, deus, uolo",8,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.125
+plautus.persa,333.0,"qui, res, opus, do, scio, teneo, intellego",7,"NaN, 0.0, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.persa,334.0,"communico, cum, tu, consilium, omnis",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,tu,0.2
+plautus.persa,335.0,"is, causa, ad, hic, exemplum, tu, exorno, ego",8,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"hic, tu",0.25
+plautus.persa,336.0,"uenibis, tu, hodie, uirgo, amo, ego, pater",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, uirgo",0.286
+plautus.persa,337.0,"quamquam, libet, esca, alienus, studeo",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,,0.0
+plautus.persa,338.0,"tuus, -ne, uenter, causa, filia, uendo, tuus",7,"0.0, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,uendo,0.143
+plautus.persa,339.0,"mirus, quin, rex, philippi, causa, aut, attal",7,"1.0, NaN, 0.0, NaN, 0.0, NaN, NaN",0.143,0.0,,0.0
+plautus.persa,340.0,"tu, potis, uendo, quam, meus, qui, sum, meus",8,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,"tu, uendo",0.25
+plautus.persa,341.0,"utrum, tu, pro, ancilla, ego, habeo, an, pro, filia",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"tu, ancilla",0.222
+plautus.persa,342.0,"utrum, hercules, magis, in, uenter, res, uideo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.persa,343.0,"meus, opino, imperium, sum, in, tu, non, in, ego, tu",10,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"opino, tu, tu",0.3
+plautus.persa,344.0,"tuus, iste, potestas, sum, pater, uerus, tamen",7,"0.0, NaN, 0.5, NaN, 0.0, 0.5, NaN",0.143,0.0,,0.0
+plautus.persa,345.0,"quamquam, res, noster, sum, pater, pauperculus",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.persa,346.0,"modicus, et, modestus, bonus, sum, uita, uiuo",7,"0.0, NaN, 1.0, 1.0, NaN, 0.0, NaN",0.286,0.0,modestus,0.143
+plautus.persa,347.0,"nam, ad, paupertas, si, admigro, infamia",6,"NaN, NaN, -1.0, NaN, NaN, -1.0",-0.333,-0.333,infamia,0.167
+plautus.persa,348.0,"grauis, paupertas, fio, fides, sublestus",5,"-0.5, -1.0, NaN, 1.0, NaN",-0.1,-0.3,,0.0
+plautus.persa,349.0,"enim, uerus, odiosus, sum, non, sum, neque, ego, sum, arbitror",10,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.persa,350.0,"cum, paruus, natus, rectus, praecipio, pater",6,"NaN, 0.0, 0.0, 1.0, NaN, 0.0",0.167,0.0,,0.0
+plautus.persa,351.0,"nam, inimicus, fama, non, ita, ut, nata, sum, fero",9,"NaN, -1.0, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,-0.111,,0.0
+plautus.persa,352.0,"fero, eo, maximus, malus, crux",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,crux,0.2
+plautus.persa,353.0,"neque, ego, inimicitia, omnis, multus, existimo",6,"NaN, NaN, -1.0, NaN, 0.0, NaN",-0.167,-0.167,,0.0
+plautus.persa,354.0,"quam, mensa, inanis, nunc, si, appono, ego",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,355.0,"pater, homo, immortal, sum, infamia",5,"0.0, 0.0, NaN, NaN, -1.0",-0.2,-0.2,infamia,0.2
+plautus.persa,356.0,"etiam, tum, uiuo, cum, sum, credo, morior",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,357.0,"quis, metuo, ne, tu, uendo, non, metuo, pater",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, uendo",0.25
+plautus.persa,358.0,"uerus, insimularis, nolo, at, nequiquam, neo",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+plautus.persa,359.0,"meus, modo, iste, potis, fio, quam, tuus",7,"0.0, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.persa,360.0,"fio, qui, hic, res, sum, cogito, hic, uerbum, pater",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,"hic, hic",0.222
+plautus.persa,361.0,"erus, si, mino, sum, malus, seruo, suus",7,"0.0, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,erus,0.143
+plautus.persa,362.0,"tametsi, is, sum, non, sum, ubi, capio, sum, flagrum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,363.0,"dum, tunica, pono, quantus, afficio, miseria",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+plautus.persa,364.0,"ego, nunc, qui, non, sum, sum, formido, tamen",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,,0.0
+plautus.persa,365.0,"uirgo, atque, mulier, nullus, sum, quin, sum, malus",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,"uirgo, mulier",0.25
+plautus.persa,366.0,"qui, praeter, sapio, quam, placeo, parens",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+plautus.persa,367.0,"uirgo, atque, mulier, nullus, sum, quin, sum, malus",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,"uirgo, mulier",0.25
+plautus.persa,368.0,"qui, reticeo, si, quis, fio, per-uerto, uideo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,369.0,"malus, caueo, bonus, sum, tu, at, si, non, licet",9,"-1.0, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,-0.111,tu,0.111
+plautus.persa,370.0,"caueo, quis, ago, nam, ego, tu, caueo, uolo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.persa,371.0,"malus, -ne, ego, sum, non, sum, neque, ego, dignus, sum, dico",11,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.0,-0.091,,0.0
+plautus.persa,372.0,"uerus, is, res, opera, do, ne, alius, dico, qui, licet",10,"0.5, NaN, 0.0, -0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.0,-0.05,,0.0
+plautus.persa,373.0,"dico, qui, quisque, uolo, ego, de, hic, sententia",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.125
+plautus.persa,374.0,"non, demoueo, at, meus, si, licet, modo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,375.0,"sapienter, potis, facio, quam, stultus, lubet",6,"NaN, 0.0, NaN, NaN, -1.0, NaN",-0.167,-0.167,stultus,0.167
+plautus.persa,376.0,"lubet, per, ego, tu, licet, intellego",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.persa,377.0,"uerus, lubet, hau, lubet, si, licet, ego",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.persa,378.0,"sum, sum, dico, oboedio, an, non, pater",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.persa,379.0,"sum, scio, iam, tu, qui, praecipio, omnis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.persa,380.0,"et, ut, sub-rumpo, sum, doceo, calleo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,381.0,"et, qui, parens, sum, habeo, in, memoria",7,"NaN, NaN, 0.5, NaN, NaN, NaN, 1.0",0.214,0.0,,0.0
+plautus.persa,382.0,"necessitas, ego, malus, ut, fio, facio",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+plautus.persa,383.0,"uerus, uideo, ego, ubi, uolo, nubo, do",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,nubo,0.143
+plautus.persa,384.0,"ne, hic, fama, facio, repudiosus, nuptiae",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,"hic, nuptiae",0.333
+plautus.persa,385.0,"taceo, stultus, non, tu, nunc, homo, mos, uideo",8,"NaN, -1.0, NaN, NaN, NaN, 0.0, 0.5, NaN",-0.062,-0.125,"stultus, tu",0.25
+plautus.persa,386.0,"qui, modus, hic, cum, malus, fama, facilis, nubo",8,"NaN, 0.5, NaN, NaN, -1.0, 1.0, 0.5, NaN",0.125,-0.125,"hic, nubo",0.25
+plautus.persa,387.0,"dum, dos, sum, nullus, uitium, uitio, uerto",7,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,,0.0
+plautus.persa,388.0,"ergo, iste, facio, ut, uenio, in, mens, tu",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,tu,0.125
+plautus.persa,389.0,"ego, sum, indotatus, caueo, sum, tu, iste, dico",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"indotatus, tu",0.25
+plautus.persa,390.0,"pol, deus, uirtus, dico, et, magnus, meus",7,"NaN, 0.0, 1.0, NaN, NaN, 0.0, 0.0",0.143,0.0,,0.0
+plautus.persa,391.0,"ne, tu, indotatus, dico, qui, dos, sum, domus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, indotatus",0.25
+plautus.persa,392.0,"liber, ecce, habeo, plenus, soracum",5,"0.5, NaN, NaN, 0.0, NaN",0.1,0.0,,0.0
+plautus.persa,393.0,"si, hic, adcurassis, lepidus, qui, res, opera, do",8,"NaN, NaN, NaN, NaN, NaN, 0.0, -0.5, NaN",-0.062,-0.062,hic,0.125
+plautus.persa,394.0,"do, dos, tu, inde, sescenti, logos",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.persa,395.0,"atque, atticus, omnis, nullus, siculus, accipio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,396.0,"cum, hic, dos, possum, uel, mendico, nubo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, nubo",0.286
+plautus.persa,397.0,"quin, tu, ego, dux, si, quo, pater",7,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0",0.071,0.0,tu,0.143
+plautus.persa,398.0,"uel, tu, ego, uendo, uel, fax, quis, tu, lubet",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, uendo, fax, tu",0.444
+plautus.persa,399.0,"bonus, aequus, ora, sequor, hic, dico, sum, audio",8,"1.0, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.188,0.0,hic,0.125
+plautus.persa,400.0,"quisnam, sum, ago, hic, dico, uicinus, meus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,hic,0.143
+plautus.persa,401.0,"qui, ego, iuro, sum, sui, hodie, argentum, do",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,402.0,"qui, si, non, do, atque, hic, dies, praetereo",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.125
+plautus.persa,403.0,"ego, argentum, ille, iusiurandum, amitto",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,404.0,"sed, ibi, concrepo, foris, quisnam, egredior, foras",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,405.0,"curo, iste, intus, iam, ego, domus, ego, recipio, oh",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,oh,0.111
+plautus.persa,406.0,"toxilis, quis, ago, oh, lutum, lenonius",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,oh,0.167
+plautus.persa,407.0,"commisceo, caenum, sterculinum, publicus",4,"NaN, -0.5, NaN, 0.0",-0.125,-0.125,caenum,0.25
+plautus.persa,408.0,"impurus, inhonestus, iniurus, illex, labo, populus",6,"-1.0, -1.0, NaN, -0.5, NaN, 0.0",-0.417,-0.417,"impurus, inhonestus",0.333
+plautus.persa,409.0,"pecunia, accipiter, auidus, atque, inuideo",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,pecunia,0.2
+plautus.persa,410.0,"procax, rapax, trahaxtrecentis, uersus",4,"-1.0, NaN, NaN, NaN",-0.25,-0.25,procax,0.25
+plautus.persa,411.0,"tuus, impuritia, traloquor, nemo, possum",5,"0.0, -1.0, NaN, -0.5, NaN",-0.3,-0.3,,0.0
+plautus.persa,412.0,"accipio, -ne, argentum, accipio, sum, argentum, impudens",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,impudens,0.143
+plautus.persa,413.0,"teneo, sum, argentum, etiam, tu, argentum, teneo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.persa,414.0,"possum, tu, facio, ut, argentum, accipio, lutum",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,tu,0.143
+plautus.persa,415.0,"non, ego, censeo, copia, argentum, sum",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+plautus.persa,416.0,"qui, nisi, iuro, ego, nihil, credo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,417.0,"sine, respiraris, ego, ut, tu, respondeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.persa,418.0,"uir, summus, populus, stabulis, seruitus",5,"0.5, NaN, 0.0, NaN, -0.5",0.0,-0.1,seruitus,0.2
+plautus.persa,419.0,"scortum, liberator, suduculis, flagrum",4,"NaN, NaN, NaN, NaN",nan,nan,scortum,0.25
+plautus.persa,420.0,"compedium, tritor, pistrinum, ciuitas",4,"NaN, NaN, NaN, 0.5",0.125,0.0,,0.0
+plautus.persa,421.0,"perenniseruus, lurco, edax, furax, fugax",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"edax, furax, fugax",0.6
+plautus.persa,422.0,"cedo, sum, ego, argentum, do, ego, argentum, impudens",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,impudens,0.125
+plautus.persa,423.0,"possum, ab, tu, exigo, argentum, argentum, inquam, cedo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.persa,424.0,"quin, tu, ego, argentum, reddo, nihil, -ne, tu, pudeo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu, pudeo",0.333
+plautus.persa,425.0,"leno, tu, argentum, posco, solidus, seruio",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"leno, tu",0.333
+plautus.persa,426.0,"pro, libero, amicus, ut, omnis, audio",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+plautus.persa,427.0,"taceo, obsecro, hercules, ne, tuus, uox, ualidus, ualeo",8,"NaN, NaN, NaN, NaN, 0.0, 0.0, 1.0, NaN",0.125,0.0,,0.0
+plautus.persa,428.0,"refero, ego, habeo, lingua, nata, gratia",6,"NaN, NaN, NaN, -0.5, NaN, 1.0",0.083,-0.083,,0.0
+plautus.persa,429.0,"idem, ego, pretium, sal, praehibeo, quo, tu",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,"pretium, tu",0.286
+plautus.persa,430.0,"nisi, ego, hic, defendo, numquam, delingo, sal",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.persa,431.0,"iam, omitto, irascor, sum, is, tu, suscenseo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.persa,432.0,"quia, tu, nego, credo, argentum, ego",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.persa,433.0,"mirus, quin, tu, ego, credo, ut, idem, ego",8,"1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.125,0.0,tu,0.125
+plautus.persa,434.0,"facio, qui, pars, facio, argentarius",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+plautus.persa,435.0,"ubi, quis, credo, cieo, extemplo, ab, forum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,436.0,"fugio, quam, ex, porto, ludus, cum, emitto, sum, lepus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,lepus,0.111
+plautus.persa,437.0,"capio, hic, sum, quin, do, nummus, sescenti, hic, sum",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"hic, nummus, hic",0.333
+plautus.persa,438.0,"probus, numero, facio, sum, mulier, liber",6,"1.0, NaN, NaN, NaN, 0.0, 0.5",0.25,0.0,"probus, mulier",0.333
+plautus.persa,439.0,"atque, huc, continuo, adduco, iam, facio, hic, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.persa,440.0,"non, hercules, qui, nunc, hic, do, specto, scio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.persa,441.0,"fortasse, metuo, in, manus, concredo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.persa,442.0,"mirus, quincitius, iam, ab, forum, argentarius",6,"1.0, NaN, NaN, NaN, NaN, 0.0",0.167,0.0,,0.0
+plautus.persa,443.0,"abeo, quam, in, cursus, rotula, circum-uerto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,444.0,"abeo, istac, trauorsis, angiportum, ad, forum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,445.0,"idem, iste, facio, mulier, ad, ego, transeo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,mulier,0.143
+plautus.persa,446.0,"per, hortus, iam, hic, facio, adsum, at, ne, propalam",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.persa,447.0,"sapienter, sanus, supplico, creo, eo",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+plautus.persa,448.0,"ita, hercules, uerus, dum, sto, redeo, oportet",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.persa,449.0,"si, quam, res, accuro, sobrius, aut, frugalis",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.5",0.071,0.0,"sobrius, frugalis",0.286
+plautus.persa,450.0,"soleo, ille, rectus, sub, manus, succedo",6,"NaN, NaN, 1.0, NaN, 0.0, NaN",0.167,0.0,,0.0
+plautus.persa,451.0,"atque, edepol, ferme, ut, quisque, res, accuro, suus",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,edepol,0.125
+plautus.persa,452.0,"sic, is, procedo, postprincipio, denique",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,453.0,"si, malus, aut, nequam, sum, malus, res, uerto, qui, ago",10,"NaN, -1.0, NaN, -1.0, NaN, -1.0, 0.0, NaN, NaN, NaN",-0.3,-0.3,nequam,0.1
+plautus.persa,454.0,"sin, autem, frugi, sum, euenio, frugalis",6,"NaN, NaN, 1.0, NaN, NaN, 0.5",0.25,0.0,"frugi, frugalis",0.333
+plautus.persa,455.0,"hic, ego, res, exordior, sum, facetus, et, callidus",8,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, 1.0",0.125,0.0,"hic, facetus, callidus",0.375
+plautus.persa,456.0,"igitur, prouenio, bene, confido, ego",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,457.0,"nunc, ego, leno, ita, hodie, intrico, do",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,leno,0.143
+plautus.persa,458.0,"ut, ipse, sui, qui, sui, expedio, nescio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,459.0,"sagaristio, heus, exeo, atque, educo, uirgo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uirgo,0.167
+plautus.persa,460.0,"et, iste, tabella, qui, consigno, tu",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.167
+plautus.persa,461.0,"qui, tu, affero, ego, ab, sum, meus, usque, e, persia",10,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.1
+plautus.persa,462.0,"numquid, moror, euge, euge, basilicon",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,basilicon,0.2
+plautus.persa,463.0,"tiaras, orno, lepidus, condecoro, schema",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,464.0,"tum, hic, hospita, autem, crepidula, ut, graphicus, decet",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,"hic, hospita",0.25
+plautus.persa,465.0,"sed, satis, ne, sum, meditor, tragicus, et, comicus",8,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.persa,466.0,"numquam, aequus, sum, meditor, lepidus, hercules, adiuuo",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.persa,467.0,"ago, illic, abscedo, procul, e, conspectus, et, taceo",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,468.0,"ubi, cum, leno, ego, uideo, colloquium",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,leno,0.167
+plautus.persa,469.0,"is, sum, adeo, tempus, nunc, ago, eo, tu",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.125
+plautus.persa,470.0,"qui, homo, deus, propitius, sum, aliquis, obicio, lucrum",8,"NaN, 0.0, 0.0, 1.0, NaN, NaN, NaN, 0.5",0.188,0.0,,0.0
+plautus.persa,471.0,"nam, ego, hodie, compendium, facio, bini, panis, in, dies",9,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, 0.0",0.056,0.0,,0.0
+plautus.persa,472.0,"ita, ancilla, meus, qui, sum, hodie, suus, nunc, sum, argentum, uinco",11,"NaN, 0.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,ancilla,0.091
+plautus.persa,473.0,"iam, hodie, alienus, ceno, nihil, gusto, de, meus",8,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN, 0.0",-0.062,-0.062,,0.0
+plautus.persa,474.0,"sum, -ne, probus, sum, lepidus, ciuis, qui, atticam, hodie, ciuitas",10,"NaN, NaN, 1.0, NaN, NaN, 0.5, NaN, NaN, NaN, 0.5",0.2,0.0,probus,0.1
+plautus.persa,475.0,"maximus, magnus, facio, atque, augeo, cieo, femina",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.persa,476.0,"sed, ut, ego, hodie, sum, benignus, ut, ego, multus, credo",10,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, 0.0, NaN",0.1,0.0,,0.0
+plautus.persa,477.0,"neque, satis, ab, quisquam, homo, accipio, ita, prosum, credo, omnis",10,"NaN, 0.5, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.persa,478.0,"neque, metuo, qui, credo, hodie, ne, quis, ego, in, ius, abiurassit",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.045,0.0,,0.0
+plautus.persa,479.0,"bonus, uolo, iam, ex, hic, dies, essequod, neque, fio, neque, sum",11,"1.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.091,0.0,hic,0.091
+plautus.persa,480.0,"hic, homo, ego, hodie, in, trasennam, doceo, deduco, dolus",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, dolus",0.222
+plautus.persa,481.0,"itaque, hic, insidiae, paro, sum, probus, aggredior, uir",8,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN, 0.5",0.188,0.0,"hic, insidiae, probus",0.375
+plautus.persa,482.0,"quis, ago, credo, unde, ago, tu, dordal, credo, tu",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.222
+plautus.persa,483.0,"deus, do, qui, uelis, eho, an, iam, manus, emitto, mulier",10,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,mulier,0.1
+plautus.persa,484.0,"credo, edepol, credo, inquam, tu, iam, libertus, eneco",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,"edepol, tu",0.25
+plautus.persa,485.0,"quin, tu, ego, dico, credo, dico, bonus, fides, iam, liber, sum, olim",12,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, 1.0, NaN, 0.5, NaN, NaN",0.208,0.0,tu,0.083
+plautus.persa,487.0,"eo, eo, ad, forum, ad, praetor, exquiro, siquidem, ego, credo, non, uolo",12,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.042,0.0,,0.0
+plautus.persa,488.0,"liber, inquam, sum, ecquis, audio, at, tu, deus, bene, facio, omnis",11,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.045,0.0,tu,0.091
+plautus.persa,489.0,"numquam, enim, posthac, tu, neque, tuus, quisquam, qui, nolo, uolo",10,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.1
+plautus.persa,490.0,"abeo, ne, ius, satis, credo",5,"NaN, NaN, 0.5, 0.5, NaN",0.2,0.0,,0.0
+plautus.persa,491.0,"ubi, nunc, tuus, libertus, sum, apud, tu, ai, -ne, apud, ego, sum, aio, inquam, apud, tu, sum, inquam",18,"NaN, NaN, 0.0, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.028,0.0,"tu, ai, tu",0.167
+plautus.persa,492.0,"ita, ego, deus, amo, ut, ob, iste, res, tu, multus, bonus, insto, ab, ego",14,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, 1.0, NaN, NaN, NaN",0.071,0.0,tu,0.071
+plautus.persa,493.0,"nam, sum, res, quidam, quam, occulto, tu, dico, nunc, is, narro",11,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.091
+plautus.persa,494.0,"unde, tu, pergrandis, lucrum, facio, facio, ut, meus, memini, dum, uita",11,"NaN, NaN, 0.0, 0.5, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.045,0.0,tu,0.091
+plautus.persa,495.0,"uiuo, bene, dictum, tuus, bene, facio, auris, meus, auxilium, exposco",10,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+plautus.persa,496.0,"tuus, promereo, sum, mereo, ut, facio, et, ut, ego, scio, sum, ita, facio",13,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,497.0,"tabella, teneo, hic, pellege, iste, quis, ad, ego, immo, ad, tu, attineo, et, tuus, refero",15,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, tu",0.133
+plautus.persa,498.0,"nam, ex, persia, sum, hic, affero, ego, ab, meus, sum, quando, haud, dudum",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.077
+plautus.persa,499.0,"quis, iste, narro, percontaris, ex, ipse, ipse, tu, narro",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.persa,500.0,"cedo, sanus, ego, at, claris, recito, taceo, dum, pellego, hau, uerbum, facio",12,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.083,0.0,,0.0
+plautus.persa,501.0,"salus, dico, toxilo, timarchides",4,"1.0, NaN, NaN, NaN",0.25,0.0,,0.0
+plautus.persa,502.0,"et, familia, omnis, si, ualeo, gaudeo",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+plautus.persa,503.0,"ego, ualeo, rectus, et, res, gero, et, facio, lucrum",9,"NaN, NaN, 1.0, NaN, 0.0, NaN, NaN, NaN, 0.5",0.167,0.0,,0.0
+plautus.persa,504.0,"neque, istoc, redeo, hic, octo, possum, mensis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.persa,505.0,"itaque, hic, sum, qui, ego, detineo, negotium",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,hic,0.143
+plautus.persa,506.0,"chrysopolim, permulceo, capio, urbs, in, arabia",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,permulceo,0.167
+plautus.persa,507.0,"plenus, bonus, res, atque, antiquus, oppidum",6,"0.0, 1.0, 0.0, NaN, 0.0, NaN",0.167,0.0,,0.0
+plautus.persa,508.0,"is, comporto, praeda, ut, fio, auctio",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.persa,509.0,"publicitus, is, res, ego, domus, expers, facio",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,510.0,"opera, atque, hospitium, ego, iste, praehibeo, uolo",7,"-0.5, NaN, 0.0, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+plautus.persa,511.0,"qui, tu, tabella, affero, cura, qui, is, uolo",8,"NaN, NaN, 0.0, NaN, -1.0, NaN, NaN, NaN",-0.125,-0.125,tu,0.125
+plautus.persa,512.0,"nam, is, ego, honor, suus, domus, habeo, magnus",8,"NaN, NaN, NaN, 1.0, NaN, 0.0, NaN, 0.0",0.125,0.0,,0.0
+plautus.persa,513.0,"quis, is, ad, ego, aut, ad, meus, res, refero, permulceo, quis, res, gero",13,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,permulceo,0.077
+plautus.persa,514.0,"aut, quis, erus, tuus, taceo, stultiloquus, nescio, quis, tu, insto, bonus",11,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.091,0.0,"erus, tu",0.182
+plautus.persa,515.0,"neque, quam, tu, fortuna, facula, lucrifera, ad-luceo, uolo",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.125
+plautus.persa,516.0,"qui, iste, lucrifera, sum, fortuna, iste, qui, nosco, rogo",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,517.0,"ego, tantus, scio, quantus, tu, nisi, qui, pellegi, prior",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.056,0.0,tu,0.111
+plautus.persa,518.0,"sed, ut, occipio, ex, tabella, nosco, res, bene, ego, moneo",10,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,519.0,"facio, silentium, nunc, ad, ille, uenio, qui, refero, tuus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.persa,520.0,"iste, qui, tabella, affero, adduco, simul",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,521.0,"forma, expeto, liberal, uirgo",4,"1.0, NaN, NaN, NaN",0.25,0.0,uirgo,0.25
+plautus.persa,522.0,"furtiuus, abduco, ex, arabia, penitus",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,,0.0
+plautus.persa,523.0,"is, tu, uolo, accuraris, ut, istic, ueneat",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.persa,524.0,"atque, suus, periculum, is, emo, qui, is, mercor",8,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.125,-0.125,"emo, mercor",0.25
+plautus.persa,525.0,"mancipium, neque, promitto, neque, quisquam, do",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,mancipium,0.167
+plautus.persa,526.0,"probus, et, numero, argentum, ut, accipio, fax",7,"1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.143,0.0,"probus, fax",0.286
+plautus.persa,527.0,"hic, cura, et, hospes, cura, ut, curo, ual",8,"NaN, -1.0, NaN, 0.0, -1.0, NaN, NaN, NaN",-0.25,-0.25,hic,0.125
+plautus.persa,528.0,"quis, igitur, postquam, recito, qui, sum, cera, credo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,529.0,"iam, ego, credo, ubi, nunc, ille, sum, hospes, qui, hic, huc, affero",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.083
+plautus.persa,530.0,"iam, hic, credo, adsum, arcesso, ille, ab, no, nihil, ego, opus, sum",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.042,0.0,hic,0.083
+plautus.persa,531.0,"lis, neque, tricae, quam, ob, res, ego, argentum, enumero, foras",10,"-0.5, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",-0.05,-0.05,,0.0
+plautus.persa,532.0,"nisi, mancipium, accipio, quis, is, ego, opus, sum, mercimonium",9,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.056,0.0,mancipium,0.111
+plautus.persa,533.0,"taceo, -ne, an, non, taceo, numquam, ego, tu, tam, sum, matula, credo",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.083
+plautus.persa,534.0,"quis, metuo, metuo, hercules, uerus, sentio, ego, iam, compluriens",9,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.persa,535.0,"neque, ego, haud, imperitus, euenio, talis, ut, in, lutum, haereo",10,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,imperitus,0.1
+plautus.persa,536.0,"nihil, periculum, ego, uideo, scio, iste, sed, metuo, ego",9,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.111,-0.111,,0.0
+plautus.persa,537.0,"meus, quidem, iste, nihil, refero, tuus, ego, hic, facio, gratia",10,"0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 1.0",0.1,0.0,hic,0.1
+plautus.persa,538.0,"ut, tu, rectus, concilio, primus, facio, copia",7,"NaN, NaN, 1.0, NaN, 0.5, NaN, 0.5",0.286,0.0,tu,0.143
+plautus.persa,539.0,"gratia, habeo, sed, tu, de, alius, quam, alius, de, tu, suauis, sum",12,"1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.125,0.0,"tu, tu",0.167
+plautus.persa,541.0,"fio, doceo, ne, quis, uerus, ex, arabia, penitus",8,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.persa,542.0,"persequor, etiam, tu, ille, destino, uideo, modo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.persa,543.0,"mercimonium, aequus, dico, sed, bonus, ecce, ipse, aduenio",8,"NaN, 0.5, NaN, NaN, 1.0, NaN, NaN, NaN",0.188,0.0,,0.0
+plautus.persa,544.0,"hospes, ille, qui, hic, tabella, affero, hic, sum, hic, sum",10,"0.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, hic, hic",0.3
+plautus.persa,545.0,"hic, ille, sum, furtiuus, uirgo, iuxta, cum, tu, aequus, scio",10,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, 0.5, NaN",-0.05,-0.1,"hic, uirgo, tu",0.3
+plautus.persa,546.0,"nisi, quia, species, quidem, edepol, liberal, sum, quisquis, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,edepol,0.111
+plautus.persa,547.0,"satis, edepol, concinno, sum, facies, ut, contemptim, carnufex",8,"0.5, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.062,0.0,"edepol, carnufex",0.25
+plautus.persa,548.0,"taceo, contemplo, forma, laudo, consilium, tuus",6,"NaN, NaN, 1.0, NaN, 0.5, 0.0",0.25,0.0,,0.0
+plautus.persa,549.0,"satis, ne, athenae, tu, sum, uideo, fortunata, atque, opiparus",9,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.056,0.0,tu,0.111
+plautus.persa,550.0,"urbis, species, uideo, homo, mos, perspicio, parum",7,"NaN, NaN, NaN, 0.0, 0.5, NaN, 0.0",0.071,0.0,,0.0
+plautus.persa,551.0,"numquid, in, principium, cesso, uerbum, doceo, dico",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,552.0,"hau, possum, etiam, in, primus, uerbum, perspicio, sapientia",8,"NaN, NaN, NaN, NaN, 0.5, 0.0, NaN, 1.0",0.188,0.0,,0.0
+plautus.persa,553.0,"quis, is, qui, uideo, ut, munio, murus, tu, uideo, oppidum, sum",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.091
+plautus.persa,554.0,"si, incola, bene, sum, moror, pulcher, munio, arbitror",8,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.125,0.0,,0.0
+plautus.persa,555.0,"perfidia, et, peculor, ex, urbs, et, auaritia, si, exulant",9,"-1.0, NaN, NaN, NaN, 0.5, NaN, -1.0, NaN, NaN",-0.167,-0.222,"perfidia, auaritia",0.222
+plautus.persa,556.0,"quartus, inuidia, quintus, ambitio, sextus, obtrectatio",6,"0.0, -1.0, NaN, NaN, NaN, -1.0",-0.333,-0.333,"inuidia, ambitio",0.333
+plautus.persa,557.0,"septimus, periurium, euge, octauus, indiligentia",5,"NaN, -1.0, NaN, NaN, -1.0",-0.4,-0.4,periurium,0.2
+plautus.persa,558.0,"nonus, iniuria, decimus, qui, malus, aggredior, sum, scelus",8,"NaN, -1.0, NaN, NaN, -1.0, NaN, NaN, -1.0",-0.375,-0.375,scelus,0.125
+plautus.persa,559.0,"hic, unde, abeo, is, urbs, moenita, murus, satis, sum, simplex",10,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, 0.5, NaN, 0.5",0.15,0.0,hic,0.1
+plautus.persa,560.0,"ubi, is, adeo, centumplex, murus, res, seruo, parum, sum",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.persa,561.0,"quis, aio, tu, quis, uolo, tu, in, ille, sum, decem, sodal",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.182
+plautus.persa,562.0,"tu, in, exsilium, eo, hinc, oportet, quis, iam, quia, periurus, sum",11,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.182,-0.182,"tu, periurus",0.182
+plautus.persa,563.0,"uerbum, quidem, haud, indoctus, facio, ex, tuus, inquam, utor, sum, emo, hic",12,"0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"emo, hic",0.167
+plautus.persa,564.0,"edepol, qui, cum, hic, magis, contemplo, magis, placeo, si, hic, emo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"edepol, hic, hic, emo",0.364
+plautus.persa,565.0,"deus, immortalis, nullus, leno, tu, alter, sum, opulens",8,"0.0, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,"leno, tu",0.25
+plautus.persa,566.0,"ex-uerto, tuus, arbitratus, homo, fundo, familia",6,"NaN, 0.0, NaN, 0.0, NaN, 0.5",0.083,0.0,,0.0
+plautus.persa,567.0,"cum, bonus, uis, res, habeo, gratia, cupio, tuus",8,"NaN, 1.0, 1.0, 0.0, NaN, 1.0, NaN, 0.0",0.375,0.0,,0.0
+plautus.persa,568.0,"uenio, ad, tu, comissor, at, ego, intro, mitto, ueto",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.persa,569.0,"at, enim, ille, nox, occento, ostium, exuro, foris",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,570.0,"pro-eo, -ne, tu, tu, iubeo, concludo, aedes, foris, ferreus",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"tu, tu",0.222
+plautus.persa,571.0,"ferreus, aedes, commuto, limen, indo, ferreus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,572.0,"ferreus, sero, atque, anellus, ne, sum, ferrum, parseris",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,573.0,"ferreus, tueor, tu, impingo, iubeo, crassus, compedes",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.persa,574.0,"eo, sum, in, malus, cruciatus, eo, sanus, tu, hic, emo, atque, ausculto, ego",13,"NaN, NaN, NaN, -1.0, -1.0, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.077,-0.154,"tu, hic, emo",0.231
+plautus.persa,575.0,"modo, uti, scio, quantus, indico, uis, -ne, huc, uoco, ego, ille, accedo",12,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+plautus.persa,576.0,"quis, ago, hospes, uenio, adduco, hic, ad, tu, ut, dudum, dico",11,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, tu",0.182
+plautus.persa,577.0,"nam, heri, in, portus, nox, nauus, uenio, uenio, hic, uolo",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.1
+plautus.persa,578.0,"si, possum, si, non, possum, eo, hinc, uolo, quantus, possum",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,579.0,"saluus, sum, adulescens, siquidem, hic, uendo, pretium, suus",8,"1.0, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.25,0.0,"adulescens, hic, uendo, pretium",0.5
+plautus.persa,580.0,"at, qui, aut, hic, emptor, uendo, pulcher, aut, alius, non, potio",11,"NaN, NaN, NaN, NaN, 0.0, NaN, 1.0, NaN, NaN, NaN, NaN",0.091,0.0,"hic, emptor, uendo",0.273
+plautus.persa,581.0,"sum, -ne, tu, hic, amicus, tam, quam, deus, omnis, qui, caelum, colo",12,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN, 0.0, NaN, NaN, 0.5, NaN",0.125,0.0,"tu, hic",0.167
+plautus.persa,582.0,"tum, tu, ego, sum, inimicus, certus, nam, gener, lenonius",9,"NaN, NaN, NaN, NaN, -1.0, 0.5, NaN, NaN, NaN",-0.056,-0.111,tu,0.111
+plautus.persa,583.0,"numquam, ullus, deus, tam, benignus, sum, qui, sum, propitius",9,"NaN, NaN, 0.0, NaN, 1.0, NaN, NaN, NaN, 1.0",0.222,0.0,,0.0
+plautus.persa,584.0,"hic, ago, opus, sum, hic, tu, emo, si, tu, uenio, sum, opus",12,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,"hic, hic, tu, emo, tu",0.417
+plautus.persa,585.0,"ego, quoque, emo, sum, si, tu, subeo, nihil, sum, tantus, sum, ego",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"emo, tu",0.167
+plautus.persa,586.0,"indico, facio, pretium, tuus, mers, sum, tuus, indicatio, sum",9,"NaN, NaN, 1.0, 0.0, NaN, NaN, 0.0, NaN, NaN",0.111,0.0,pretium,0.111
+plautus.persa,587.0,"aequus, hic, oro, uis, -ne, bene, emo, uis, -ne, tu, pulcher, uendo",12,"0.5, NaN, NaN, 1.0, NaN, NaN, NaN, 1.0, NaN, NaN, 1.0, NaN",0.292,0.0,"hic, emo, tu, uendo",0.333
+plautus.persa,588.0,"ego, scio, hercules, uterque, uolo, ago, indico, prognariter",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,589.0,"prior, dico, hic, mancupio, nemo, tu, do, iam, scio, scio",10,"0.5, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN",0.0,-0.05,"hic, tu",0.2
+plautus.persa,590.0,"indico, paruus, do, qui, sum, qui, duco, queo",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,591.0,"taceo, taceo, nimis, tu, quidem, hercules, homo, stultus, sum, puerilis",10,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, -1.0, NaN, 0.0",-0.1,-0.1,"tu, stultus",0.2
+plautus.persa,592.0,"quis, ita, quia, enim, tu, ex, puella, prior, percontaris, uolo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.05,0.0,tu,0.1
+plautus.persa,593.0,"qui, ad, res, refero, atque, hercules, tu, ego, moneo, hau, malus",11,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.091,-0.091,tu,0.091
+plautus.persa,594.0,"uideo, sum, ego, ille, doceo, leno, paene, in, foueo, decido",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,leno,0.1
+plautus.persa,595.0,"ni, hic, adsum, quantus, sum, adhibeo, homo, amicus, ubi, quis, gero",11,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 1.0, NaN, NaN, NaN",0.091,0.0,hic,0.091
+plautus.persa,596.0,"quo, genus, aut, qui, in, patria, nata, sum, aut, qui, parens",11,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.045,0.0,,0.0
+plautus.persa,597.0,"ne, temere, hic, tu, emo, dico, suadeo, atque, impulsus, meus",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,"hic, tu, emo",0.3
+plautus.persa,598.0,"uolo, tu, percontaris, quin, laudo, inquam, consilium, tuus",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, 0.0",0.062,0.0,tu,0.125
+plautus.persa,599.0,"nisi, molestus, sum, percontaris, hic, paucus, hic, uolo, magnus",9,"NaN, -1.0, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",-0.111,-0.111,"hic, hic",0.222
+plautus.persa,600.0,"suus, arbitratus, quis, sto, adeo, sum, tueor, atque, ipse, itidem, rogo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,601.0,"ut, tu, percontaris, licet, qui, uelis, etsi, ego",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.persa,602.0,"dico, do, potestas, is, sed, ego, tu, malus, tamen",9,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, -1.0, NaN",-0.056,-0.111,tu,0.111
+plautus.persa,603.0,"eumpse, adeo, ut, ne, contemno, tu, ille, satis, rectus, moneo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, 1.0, NaN",0.15,0.0,tu,0.1
+plautus.persa,604.0,"hospes, uolo, ego, hic, percontaris, ab, terra, ad, caelum, quis, lubet",11,"0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.5, NaN, NaN",0.045,0.0,hic,0.091
+plautus.persa,605.0,"iubeo, dum, is, hic, accedo, ad, ego, eo, sanus, atque, mos, ille, gero",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, 0.5, NaN, NaN",0.115,0.0,hic,0.077
+plautus.persa,606.0,"percontaris, exquiro, quis, uolo, ago, ago, nunc, tu, in, proelium",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.1,-0.1,"tu, proelium",0.2
+plautus.persa,607.0,"uideo, ut, ingrediaris, auspico, liquidus, sum, auspicium, taceo",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.persa,608.0,"curo, ut, praedor, pulcher, ad, castrum, conuerto",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+plautus.persa,609.0,"concedo, iste, ego, ille, adduco, ago, ut, res, sum, in, noster, puto",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,610.0,"ehodum, huc, uirgo, uideo, sum, quis, ago, taceo, curo, ut, uolo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uirgo,0.091
+plautus.persa,611.0,"sequor, ego, adduco, hic, si, quis, uolo, ex, hic, perconto",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.2
+plautus.persa,612.0,"enim, uolo, tu, adsum, hau, possum, quin, hic, opera, do, hospes",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, 0.0",-0.045,-0.045,"tu, hic",0.182
+plautus.persa,613.0,"qui, erus, iubeo, quis, si, hic, non, uolo, ego, adsum, unus, immo, eo, modo",14,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"erus, hic",0.143
+plautus.persa,614.0,"do, tu, ego, opera, tu, ibidem, do, ubi, tu, tuus, amicus, adiuuo",12,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN, 0.0, 1.0, NaN",0.042,-0.042,"tu, tu, tu",0.25
+plautus.persa,615.0,"exquiro, heus, tu, aduigilo, satis, sum, dico, quamquam, ego, seruo, sum",11,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.045,0.0,tu,0.091
+plautus.persa,616.0,"scio, ego, officium, meus, ut, qui, rogito, uerus, ut, accipio, eloquor",11,"NaN, NaN, 0.5, 0.0, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.091,0.0,,0.0
+plautus.persa,617.0,"uirgo, hic, homo, probus, sum, credo, non, diu, apud, hic, seruio",11,"NaN, NaN, 0.0, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.091,0.0,"uirgo, hic, probus, hic",0.364
+plautus.persa,618.0,"ita, pol, spero, si, parens, facio, officium, suus",8,"NaN, NaN, NaN, NaN, 0.5, NaN, 0.5, NaN",0.125,0.0,,0.0
+plautus.persa,619.0,"nolo, ego, tu, miror, si, nos, ex, tu, perconto",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.222
+plautus.persa,620.0,"aut, patria, tuus, aut, parens, cur, ego, is, miror, ego, homo",11,"NaN, NaN, 0.0, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, 0.0",0.045,0.0,,0.0
+plautus.persa,621.0,"seruio, meus, ego, interdico, ne, quis, miror, meus, malus",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0, -1.0",-0.111,-0.111,,0.0
+plautus.persa,622.0,"nolo, fleo, ah, deus, iste, perdo, ita, catus, sum, et, callidus",11,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 1.0, NaN, NaN, 1.0",0.182,0.0,callidus,0.091
+plautus.persa,623.0,"ut, sapio, habeo, cor, quam, dico, qui, opus, sum, quis, nomen, tu, sum",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, 0.0, NaN, NaN",0.038,0.0,tu,0.077
+plautus.persa,624.0,"nunc, metuo, ne, pecco, lucridi, nomen, in, patria, sum",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,625.0,"nomen, atque, omen, quantus, iam, sum, pretium, quin, tu, hic, emo",11,"0.0, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.091,0.0,"pretium, tu, hic, emo",0.364
+plautus.persa,626.0,"nimis, paueo, ne, pecco, expedio, si, tu, emo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, emo",0.25
+plautus.persa,627.0,"ego, quoque, lucrum, confido, sum, tu, tu, si, hic, emo",10,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.05,0.0,"tu, tu, hic, emo",0.4
+plautus.persa,628.0,"numquam, hercules, hic, mensis, uerto, credo, seruibit, tu",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.25
+plautus.persa,629.0,"ita, uolo, quidem, hercules, opto, ut, euenant, opera, addo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.056,-0.056,,0.0
+plautus.persa,630.0,"nihil, adhuc, pecco, etiam, ubi, tu, nata, sum, ut, ego",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.persa,631.0,"mater, dico, in, culina, in, angulus, ad, laeua, manus",9,"0.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.persa,632.0,"hic, sum, tu, faustus, meretrix, nata, sum, in, calidus, locus",10,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.1,0.0,"hic, tu, meretrix",0.3
+plautus.persa,633.0,"ubi, res, omnis, bonus, copia, sum, saepis",7,"NaN, 0.0, NaN, 1.0, 0.5, NaN, NaN",0.214,0.0,,0.0
+plautus.persa,634.0,"tango, sum, leno, qui, rogo, ubi, nata, sum, dico",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,leno,0.111
+plautus.persa,635.0,"lepidus, ludo, at, ego, patria, tu, rogo, qui, sum, tuus",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.1
+plautus.persa,636.0,"qui, ego, sum, nisi, hic, ubi, nunc, sum, at, ego, ille, quaero, qui, sum",14,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.071
+plautus.persa,637.0,"omnis, ego, pro, nihilum, sum, duco, qui, sum, quando, sum",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,638.0,"tamquam, homo, quando, anima, ecflauit, quis, is, quaero, qui, sum",10,"NaN, 0.0, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.persa,639.0,"ita, ego, deus, bene, amo, sapienter, atque, equidem, misero, tamen",10,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,misero,0.1
+plautus.persa,640.0,"sed, tamen, uirgo, qui, patria, sum, tuus, ago, ego, actus, expedio",11,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,uirgo,0.091
+plautus.persa,641.0,"quis, taceo, dico, equidem, quando, hic, seruio, hic, patria, sum, meus",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, hic",0.182
+plautus.persa,642.0,"iam, de, istoc, rogo, omitto, non, uideo, nolo, eloquor",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,643.0,"ne, suus, sui, miseriaris, in, memoria, induco, quis, sum",9,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.persa,644.0,"capio, -ne, sum, pater, non, capio, sed, qui, habeo, perdo",10,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,645.0,"hic, sum, bonus, genus, nata, nihil, scio, nisi, uerus, loquor",10,"NaN, NaN, 1.0, 0.0, NaN, NaN, NaN, NaN, 0.5, NaN",0.15,0.0,hic,0.1
+plautus.persa,646.0,"quis, sum, dico, nomen, quis, ille, miser, memoro, qui, sum",10,"NaN, NaN, NaN, 0.0, NaN, NaN, -1.0, NaN, NaN, NaN",-0.1,-0.1,miser,0.1
+plautus.persa,647.0,"nunc, et, ille, miser, et, ego, miser, aequus, sum, nomino",10,"NaN, NaN, NaN, -1.0, NaN, NaN, -1.0, 0.5, NaN, NaN",-0.15,-0.2,"miser, miser",0.2
+plautus.persa,648.0,"qui, modus, is, suus, in, populus, habitus, sum, nemo, quisquam, accipio",11,"NaN, 0.5, NaN, NaN, NaN, 0.0, NaN, NaN, -0.5, NaN, NaN",0.0,-0.045,,0.0
+plautus.persa,649.0,"seruio, libet, amo, homo, miser, praedico",6,"NaN, NaN, NaN, 0.0, -1.0, NaN",-0.167,-0.167,miser,0.167
+plautus.persa,650.0,"cum, et, ipse, prorsus, perdo, sum, et, beneuolens, perdo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.111,0.0,,0.0
+plautus.persa,651.0,"emo, opinor, etiam, opinor, superus, genus, sum, arbitror",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,emo,0.125
+plautus.persa,652.0,"diuitiae, tu, ex, istac, facies, ita, deus, facio, emo, modo",10,"0.5, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.05,0.0,"tu, emo",0.2
+plautus.persa,653.0,"iam, hic, tu, dico, iam, actus, ecastor, meus, pater, ubi, ego, scio",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,"hic, tu, ecastor",0.25
+plautus.persa,654.0,"ueniisse, ipse, adsum, et, ego, abs, tu, redimo, quis, nunc, quis, sum",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.083
+plautus.persa,655.0,"audio, -ne, quis, aio, nam, etsi, res, sum, frango, amicus, sum, tamen",12,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 1.0, NaN, NaN",0.083,0.0,,0.0
+plautus.persa,656.0,"ne, sum, ploro, liber, sum, actus, si, creber, cado",9,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.persa,657.0,"uis, -ne, meus, sum, dum, quidem, ne, nimis, diu, tuus, sum, uolo",12,"1.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.083,0.0,,0.0
+plautus.persa,658.0,"satis, ne, ut, memini, libertas, do, hic, tu, grandis, bolus",10,"0.5, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, 0.0, NaN",0.1,0.0,"hic, tu",0.2
+plautus.persa,659.0,"ago, si, quis, ago, ego, ad, hic, redeo, sequor, re-duco, hic, tu",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic, tu",0.25
+plautus.persa,660.0,"adulescens, uis, -ne, uendo, iste, magis, libet, quam, perdo",9,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,"adulescens, uendo",0.222
+plautus.persa,661.0,"tum, tu, paucus, in, uerbum, confero, qui, do, tantus, indico",10,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.1
+plautus.persa,662.0,"facio, ita, ut, tu, uolo, uideo, ut, emo, habeo, centum, minae",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.045,-0.045,"tu, emo",0.182
+plautus.persa,663.0,"nimium, sum, octoginta, nimium, sum, nummus, absum, hinc, non, possum",10,"0.0, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,nummus,0.1
+plautus.persa,664.0,"qui, nunc, dico, quis, is, sum, ergo, eloquor, actus, atque, indico",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,665.0,"tuus, periculum, sexa_ginta, hic, do, argentum, minae",7,"0.0, -1.0, NaN, NaN, NaN, NaN, -0.5",-0.214,-0.214,hic,0.143
+plautus.persa,666.0,"toxilis, quis, ago, deus, deferuesco, tu, agito, irascor, scelus",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.111,-0.111,"tu, scelus",0.222
+plautus.persa,667.0,"qui, hic, non, propero, destinaris, habeo, eu, probus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,"hic, probus",0.25
+plautus.persa,668.0,"non, edepol, minae, trecenti, carus, sum, facio, lucrum",8,"NaN, NaN, -0.5, NaN, 1.0, NaN, NaN, 0.5",0.125,-0.062,edepol,0.125
+plautus.persa,669.0,"heus, tu, etiam, pro, uestimentum, huc, decem, accedo, minae",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.056,-0.056,tu,0.111
+plautus.persa,670.0,"abscedo, enim, non, accedo, taceo, sum, non, tu, ille, uideo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.persa,671.0,"quaero, ansa, inficio, ut, facio, abeo, -ne, atque, argentum, peto, atque, ut, dignus, sum, pereo",15,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.067,0.0,,0.0
+plautus.persa,672.0,"heus, tu, seruo, iste, quin, tu, is, intro, abeo, atque, argentum, affero",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.167
+plautus.persa,673.0,"edepol, do, uirgo, opera, adlaudabilis",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,"edepol, uirgo",0.4
+plautus.persa,674.0,"proba, et, sapio, et, sobrius, si, quis, bonus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,sobrius,0.125
+plautus.persa,675.0,"bonus, fio, sum, is, et, grauis, et, gratus, soleo",9,"1.0, NaN, NaN, NaN, NaN, -0.5, NaN, 1.0, NaN",0.167,-0.056,,0.0
+plautus.persa,676.0,"audio, -ne, tu, permulceo, ubi, argentum, ab, hic, accipio",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, permulceo, hic",0.333
+plautus.persa,677.0,"simulo, quasi, is, prorsus, in, nauo, ne, doceo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,678.0,"per, angiportum, rursum, tu, ad, ego, recipio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.persa,679.0,"illac, per, hortus, qui, sum, sum, praedico",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,680.0,"at, ne, cum, argentum, protinam, permitto, domus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.persa,681.0,"moneo, tu, qui, tu, dignus, sum, ego, dignus, sum, uolo",10,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN, 1.0, NaN, NaN",0.2,0.0,"tu, tu",0.2
+plautus.persa,682.0,"taceo, parco, uox, praeda, progredio, foras",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,683.0,"proba, hic, argentum, sum, sexa_ginta, minae",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,hic,0.167
+plautus.persa,684.0,"duo, nummus, paruus, sum, quis, is, nummus, scio",8,"NaN, 0.0, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"nummus, nummus",0.25
+plautus.persa,685.0,"cruminam, hic, emo, aut, facio, uti, remigro, domus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, emo",0.25
+plautus.persa,686.0,"ne, non, satis, sum, leno, is, metuo, miser",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, -1.0",-0.062,-0.125,"leno, miser",0.25
+plautus.persa,687.0,"impurus, auaris, ne, crumilla, amitto",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,"impurus, auaris",0.4
+plautus.persa,688.0,"sine, quaeso, quando, leno, sum, nihil, mirus, facio",8,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.125,0.0,leno,0.125
+plautus.persa,689.0,"lucrum, facio, ego, auspico, in, hic, dies",7,"0.5, NaN, NaN, NaN, NaN, NaN, 0.0",0.071,0.0,hic,0.143
+plautus.persa,690.0,"nihil, ego, tam, paruus, sum, quin, ego, is, pigeo, perdo",10,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,691.0,"ago, accipio, hic, sum, hic, in, collum, nisi, pigeo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.222
+plautus.persa,692.0,"impono, uerus, fio, numquid, ceterum",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+plautus.persa,693.0,"ego, uolo, quis, tam, propero, ita, negotium, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.062,-0.062,,0.0
+plautus.persa,694.0,"mando, qui, sum, uolo, defero, epistula",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+plautus.persa,695.0,"geminus, autem, frater, seruio, audio, hic, meus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+plautus.persa,696.0,"is, ego, ut, requiro, atque, uti, redimo, uolo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,697.0,"atque, edepol, tu, ego, commoneo, hau, malus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,"edepol, tu",0.286
+plautus.persa,698.0,"uideo, uideo, hic, forma, persimilis, tuus",6,"NaN, NaN, NaN, 1.0, NaN, 0.0",0.167,0.0,hic,0.167
+plautus.persa,699.0,"idem, sto, quippe, qui, frater, sum",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.persa,700.0,"quis, sum, tu, nomen, qui, ad, tu, attineo",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"tu, tu",0.25
+plautus.persa,701.0,"quis, attineo, non, scio, ausculto, ergo, ut, scio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,702.0,"uaniloquidorus, uirginesuendonides",2,"NaN, NaN",nan,nan,,0.0
+plautus.persa,703.0,"nugiepiloquides, argentumexterebronides",2,"NaN, NaN",nan,nan,,0.0
+plautus.persa,704.0,"tedigniloquides, nugides, palponides",3,"NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,705.0,"quodsemelarripides, numquameripides, em, tu",4,"NaN, NaN, NaN, NaN",nan,nan,tu,0.25
+plautus.persa,706.0,"eu, hercules, nomen, multimodus, scribo, sum, tuus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.persa,707.0,"ita, sum, persaris, mos, longus, nomen",6,"NaN, NaN, NaN, 0.5, 0.0, 0.0",0.083,0.0,persaris,0.167
+plautus.persa,708.0,"contortiplicata, habeo, numquid, ceterum",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,709.0,"uolo, ual, et, tu, nam, animus, iam, in, no, sum, meus",11,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, 0.0",0.045,0.0,tu,0.091
+plautus.persa,710.0,"creo, eo, potis, hodie, hic, cenaris, ual",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.143
+plautus.persa,711.0,"postquam, illic, hinc, abeo, dico, hic, quiuis, licet",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.persa,712.0,"ne, hic, tu, dies, in-luceo, lucrificabilis",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"hic, tu",0.333
+plautus.persa,713.0,"nam, non, emo, hic, uerus, facio, lucrum",7,"NaN, NaN, NaN, NaN, 0.5, NaN, 0.5",0.143,0.0,"emo, hic",0.286
+plautus.persa,714.0,"ille, quidem, iam, scio, quis, negotium, gero",7,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+plautus.persa,715.0,"qui, ego, furtiuus, meus, periculum, uendo",6,"NaN, NaN, -1.0, 0.0, -1.0, NaN",-0.333,-0.333,uendo,0.167
+plautus.persa,716.0,"argentum, accipio, abeo, qui, ego, nunc, scio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,717.0,"an, iam, assero, hic, manus, quo, ille, sequor",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.125
+plautus.persa,718.0,"in, permulceo, nugae, credo, gratus, sum",6,"NaN, NaN, -1.0, NaN, 1.0, NaN",0.0,-0.167,permulceo,0.167
+plautus.persa,719.0,"beneficium, meus, apud, tu, immo, equidem, gratia",7,"1.0, 0.0, NaN, NaN, NaN, NaN, 1.0",0.286,0.0,tu,0.143
+plautus.persa,720.0,"tu, toxilis, habeo, nam, tu, sentio, sedulus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.286
+plautus.persa,721.0,"ego, do, bonus, opera, tu, -ne, ego, immo, sedulus",9,"NaN, NaN, 1.0, -0.5, NaN, NaN, NaN, NaN, NaN",0.056,-0.056,tu,0.111
+plautus.persa,722.0,"attat, obliuiscor, sum, intus, dudum, edico",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,723.0,"qui, uolo, edico, ad-seruo, hic, saluo, sum, hic, quidem",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.222
+plautus.persa,724.0,"pater, nunc, cesso, quis, si, admoneo, tempus, sum",8,"0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.persa,725.0,"heus, saturio, exeo, nunc, sum, ille, occasio",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+plautus.persa,726.0,"inimicus, ulciscor, ecce, ego, numquid, moror",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,ulciscor,0.167
+plautus.persa,727.0,"ago, illic, abscedo, procul, e, conspectus, taceo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.persa,728.0,"ubi, cum, leno, ego, uideo, colloquium",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,leno,0.167
+plautus.persa,729.0,"tum, turba, facio, dico, sapio, satis, sum",7,"NaN, 0.0, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+plautus.persa,730.0,"tunc, quando, abeo, quin, taceo, scio, quis, uelis",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,731.0,"transcido, lorus, omnis, aduenio, domus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.persa,732.0,"ita, ego, supellex, squaleo, atque, aedes, meus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+plautus.persa,733.0,"redeo, tu, tandem, redeo, ne, ego, hodie, tu",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.25
+plautus.persa,734.0,"bonus, multus, facio, fateor, habeo, gratia",6,"1.0, 0.0, NaN, NaN, NaN, 1.0",0.333,0.0,,0.0
+plautus.persa,735.0,"num, quispiam, alius, ego, uolo, ut, bene, sum, tu",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.persa,736.0,"pol, iste, quidem, omen, iam, ego, usurpo, domus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.persa,737.0,"nam, iam, inclino, ego, cum, libertus, tuus",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 0.0",0.071,0.0,,0.0
+plautus.persa,738.0,"nisi, ego, ille, homo, perdo, pereo, atque, bonus",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 1.0",0.125,0.0,,0.0
+plautus.persa,739.0,"ecce, ipse, ante, aedes, saluus, multus, ego, pater",8,"NaN, NaN, NaN, 0.0, 1.0, 0.0, NaN, 0.0",0.125,0.0,,0.0
+plautus.persa,740.0,"saluus, meus, gnata, is, permulceo, ego, pessum, do",8,"1.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.125,0.0,permulceo,0.125
+plautus.persa,741.0,"pater, hic, meus, sum, hem, quis, pater, pereo, oppidum",9,"0.0, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.111
+plautus.persa,742.0,"quis, ego, igitur, cedo, infelix, lamento",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,infelix,0.167
+plautus.persa,743.0,"minae, sexa_ginta, ego, pol, tu, facio, scelus",7,"-0.5, NaN, NaN, NaN, NaN, NaN, -1.0",-0.214,-0.214,"tu, scelus",0.286
+plautus.persa,744.0,"tu, quoque, etiam, ipse, ut, lamento, occido",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, occido",0.286
+plautus.persa,745.0,"ago, ambulo, in, ius, leno, quis, ego, in, ius, uoco",10,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, 0.5, NaN",0.1,0.0,leno,0.1
+plautus.persa,746.0,"ille, apud, praetor, dico, sed, ego, in, ius, uoco",9,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, 0.5, NaN",0.111,0.0,,0.0
+plautus.persa,747.0,"nonne, antestaris, tuus, -ne, ego, causa, carnufex",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,carnufex,0.143
+plautus.persa,748.0,"quisquam, mortal, liber, auris, attero",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+plautus.persa,749.0,"qui, hic, commercaris, ciuis, homo, liber",6,"NaN, NaN, NaN, 0.5, 0.0, 0.5",0.167,0.0,hic,0.167
+plautus.persa,750.0,"sine, dico, nolo, audio, surdus, sum, ambulo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,751.0,"sequor, hic, scelestus, feles, uirginarius",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,"hic, scelestus",0.4
+plautus.persa,752.0,"sequor, hic, meus, gnata, ego, usque, ad, praetor, sequor",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.5, NaN",0.056,0.0,hic,0.111
+plautus.persa,753.0,"hostis, uinco, ciuis, saluus, res, placidus, pax, perficio",8,"-1.0, NaN, 0.5, 1.0, 0.0, 1.0, 0.5, NaN",0.25,-0.125,,0.0
+plautus.persa,754.0,"bellum, exstinguo, res, bene, gero, integer, exercitus, et, praesidium",9,"0.0, NaN, 0.0, NaN, NaN, 0.5, 0.0, NaN, NaN",0.056,0.0,exstinguo,0.111
+plautus.persa,755.0,"cum, bene, nos, iuppiter, iuuo, deus, alius, omnis, caelipotentes",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,756.0,"is, tu, habeo, grates, atque, ago, quia, probus, sum, ulciscor, meus, inimicus",12,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, 1.0, NaN, NaN, 0.0, -1.0",0.083,-0.083,"tu, probus, ulciscor",0.25
+plautus.persa,757.0,"nunc, ob, is, res, inter, particeps, didam, praeda, et, participo",10,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,758.0,"eo, foras, hic, uolo, ante, ostium, et, ianua, meus, particeps, bene, accipio",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,hic,0.083
+plautus.persa,759.0,"statuo, hic, lectulus, pono, hic, qui, assoleo, hic, statuo, uolo, primus, aliqui, ego",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.038,0.0,"hic, lectulus, hic, hic",0.308
+plautus.persa,760.0,"unde, ego, omnis, hilarus, ludo, laetifico, facio, ut, fio",9,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.persa,761.0,"qui, opus, ego, facilis, factus, facio, hic, sum, qui, uolo, effio",11,"NaN, 0.5, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.091,0.0,hic,0.091
+plautus.persa,762.0,"nam, improbus, sum, homo, qui, beneficium, scio, accipio, et, reddo, nescio",11,"NaN, -1.0, NaN, 0.0, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.0,-0.091,improbus,0.091
+plautus.persa,763.0,"toxilis, ego, cur, ego, sine, tu, sum, cur, tu, autem, sine, ego, sum, agedum, ergo",15,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.133
+plautus.persa,764.0,"accedo, ad, ego, atque, amplector, sum, ego, uerus, oh, nihil, hic, magis, dulcis, sum",14,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,"oh, hic",0.143
+plautus.persa,765.0,"sed, amo, oculus, meus, quin, lectus, nos, actus, commendo",9,"NaN, NaN, 0.0, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,766.0,"omnis, qui, tu, uolo, is, cupio, mutuus, fio, ab, ego, ago, ago, ergo",13,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.077
+plautus.persa,767.0,"tu, sagaristio, accumbo, in, superus, ego, nihil, moror, cedo, par, qui, pepigi",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.042,0.0,tu,0.083
+plautus.persa,768.0,"temperi, ego, iste, temperi, serus, sum, hic, ago, accumbo, hic, dies, suauis",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.5",0.042,0.0,"hic, hic",0.167
+plautus.persa,769.0,"meus, natal, agito, amoenus, do, aqua, manus, appono, mensa",9,"0.0, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+plautus.persa,770.0,"do, hic, tu, floreo, floreo, tu, hic, sum, dictatrix, nos",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu, tu, hic",0.4
+plautus.persa,771.0,"ago, puer, ab, superus, septeni, cyathus, committo, hic, ludus",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.111
+plautus.persa,772.0,"moueo, manus, propero, paegnium, tardus, cyathus, ego, do, cedo, sanus",10,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.1,0.0,,0.0
+plautus.persa,773.0,"bene, ego, bene, tu, bene, meus, amica, opto, hic, ego, dies, do, hodie, sum",14,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"tu, hic",0.143
+plautus.persa,774.0,"ab, deus, quia, tu, licet, liber, ego, amplector, tuus, facio, opus",11,"NaN, 0.0, NaN, NaN, NaN, 0.5, NaN, NaN, 0.0, NaN, 0.5",0.091,0.0,tu,0.091
+plautus.persa,775.0,"bene, omnis, nos, hic, meus, manus, tuus, poculum, dono, ut, amo",11,"NaN, NaN, NaN, NaN, 0.0, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.091
+plautus.persa,776.0,"amo, decet, cedo, accipio, bene, is, qui, inuideo, ego, et, is, qui, hic, gaudeo",14,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.071
+plautus.persa,777.0,"qui, sum, qui, sum, quisque, sum, quisque, sum, sum, posthac",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,778.0,"solus, ego, omnis, antideo, facilis, miser, homo, ut, uiuo",9,"-0.5, NaN, NaN, NaN, 0.5, -1.0, 0.0, NaN, NaN",-0.111,-0.167,miser,0.111
+plautus.persa,779.0,"pereo, intereo, malus, hic, ego, dies, hodie, in-luceo, corruptor",9,"NaN, NaN, -1.0, NaN, NaN, 0.0, NaN, NaN, -1.0",-0.222,-0.222,"hic, corruptor",0.222
+plautus.persa,781.0,"ita, ego, toxilus, perfabrico, itaque, meus, res, diuexo",8,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,diuexo,0.125
+plautus.persa,782.0,"uehiclum, argentum, miser, eicio, amitto, neque, quam, ob, res, eicio, habeo",11,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",-0.091,-0.091,miser,0.091
+plautus.persa,783.0,"qui, ille, permulceo, atque, omnis, permulceo, atque, etiam, omnis, persono",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"permulceo, permulceo",0.2
+plautus.persa,784.0,"malus, deus, omnis, perdo, ita, mitto, toxilus, hic, ego, concieo",10,"-1.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.1,-0.1,hic,0.1
+plautus.persa,785.0,"quia, is, fides, non, habeo, argentum, is, ego, is, machina, molio, sum",12,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+plautus.persa,786.0,"qui, pol, ego, ut, non, in, cruciatus, atque, in, compedes, cogo, si, uiuo",13,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.077,-0.077,,0.0
+plautus.persa,787.0,"siquidem, huc, umquam, erus, redeo, is, qui, sperosed, quis, ego, aspicio",11,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,erus,0.091
+plautus.persa,788.0,"hic, uideo, qui, hic, fabula, sum, hic, quidem, pol, poto, aggredior, o, bonus, uir",14,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, 0.5",0.107,0.0,"hic, hic, hic",0.214
+plautus.persa,789.0,"salueo, et, tu, bonus, libertus, dordalus, hic, quidem, sum, quin, iubeo, adeo",12,"NaN, NaN, NaN, 1.0, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.125,0.0,"tu, hic",0.167
+plautus.persa,791.0,"adeo, si, libet, ago, applaudo, dordal, homo, lepidus, saluus",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 1.0",0.111,0.0,,0.0
+plautus.persa,792.0,"locus, hic, tuus, sum, hic, accumbo, fero, aqua, pes, praebeo, -ne, tu, puer",13,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, hic, tu",0.231
+plautus.persa,793.0,"ne, sum, ego, unus, digitus, attingo, ne, tu, ad, terra, scelus, affligo",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, -1.0, NaN",-0.083,-0.083,"tu, scelus",0.167
+plautus.persa,794.0,"at, tu, ego, hic, continuo, cyathus, oculus, excutio, tuus",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,"tu, hic",0.222
+plautus.persa,795.0,"quis, aio, crux, stimulus, tritor, quo, modo, ego, hodie, uerso",10,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"crux, stimulus",0.2
+plautus.persa,796.0,"ut, ego, in, tricae, conicio, quo, modo, de, permulceo, manus, ego, adeo, sum",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,permulceo,0.077
+plautus.persa,797.0,"iurgium, hinc, aufero, si, sapio",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,,0.0
+plautus.persa,798.0,"at, bonus, libertus, hic, scio, et, ego, celo, stultitia, sum",10,"NaN, 1.0, 0.5, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",0.05,-0.1,"hic, stultitia",0.2
+plautus.persa,799.0,"qui, bene, sum, licet, is, prae-uerto, lis, posterus, iste, tu",10,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, 0.0, NaN, NaN",-0.05,-0.05,tu,0.1
+plautus.persa,801.0,"magis, par, ago, sum, uritur, cor, ego, do, ille, cantharis, extingue, ignis, si",13,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.038,0.0,,0.0
+plautus.persa,802.0,"cor, uro, caput, ne, ardescat",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.persa,803.0,"ludus, ego, facio, intellego",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,804.0,"uis, -ne, cinaedus, nouus, tu, do, paegnium",7,"1.0, NaN, NaN, 1.0, NaN, NaN, NaN",0.286,0.0,tu,0.143
+plautus.persa,805.0,"quin, eludo, ut, soleo, quando, liber, locus, sum, hic",9,"NaN, NaN, NaN, NaN, NaN, 0.5, 0.0, NaN, NaN",0.056,0.0,hic,0.111
+plautus.persa,806.0,"hui, babae, basilicon, tu, infero, et, facetus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"basilicon, tu, facetus",0.429
+plautus.persa,807.0,"decet, ego, facetus, sum, et, hic, irrideo",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"facetus, hic",0.286
+plautus.persa,808.0,"leno, libido, sum, quando, dignus, sum",6,"NaN, -0.5, NaN, NaN, 1.0, NaN",0.083,-0.083,"leno, libido",0.333
+plautus.persa,809.0,"pergo, ut, coepio, hic, leno, tu",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, leno, tu",0.5
+plautus.persa,810.0,"pereo, percello, ego, prope, em, seruo, rusum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,811.0,"deludo, ut, lubet, erus, dum, hinc, absum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,erus,0.143
+plautus.persa,812.0,"uideo, -ne, ut, tuus, dictum, pareo",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+plautus.persa,813.0,"sed, quin, tu, meus, contra, item, dictum, seruio",8,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.125
+plautus.persa,814.0,"atque, hic, qui, tu, suadeo, facio, quis, sum, id.",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.222
+plautus.persa,815.0,"restis, tu, tu, capio, crassus, atque, suspendo, tu",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu, tu",0.375
+plautus.persa,816.0,"caueo, sum, ego, attigo, ne, tu, hic, scipio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, hic",0.25
+plautus.persa,817.0,"malus, magnus, do, utere, tu, condono",6,"-1.0, 0.0, NaN, NaN, NaN, NaN",-0.167,-0.167,tu,0.167
+plautus.persa,818.0,"iam, iam, paegnium, do, pausa",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,819.0,"ego, pol, tu, eradico, at, tu, ille, qui, supra, nos, habito",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.182
+plautus.persa,820.0,"qui, tu, malus, uolo, malus, facio, non, hic, dico, uerus, ego",11,"NaN, NaN, -1.0, NaN, -1.0, NaN, NaN, NaN, NaN, 0.5, NaN",-0.136,-0.182,"tu, hic",0.182
+plautus.persa,821.0,"ago, circumfero, mulsum, bibo, do, usque, plenus, cantharis",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.persa,822.0,"iam, diu, facio, sum, postquam, bibo, nimis, diu, siccus, sum",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,823.0,"deus, facio, ut, is, bibo, qui, tu, numquam, transeo",9,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.111
+plautus.persa,824.0,"nequeo, leno, quin, tu, saltem, staticulis, olim, qui, hegea",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"leno, tu",0.222
+plautus.persa,825.0,"facio, uideo, uerus, si, tu, satis, placeo, ego, quoque, uolo",10,"NaN, NaN, 0.5, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.1,0.0,tu,0.1
+plautus.persa,826.0,"reddo, diodorus, qui, olim, facio, in, ionia",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,827.0,"malus, ego, tu, do, ni, abeo, etiam, mutio, impudens",9,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.222,-0.222,"tu, impudens",0.222
+plautus.persa,828.0,"iam, ego, tu, si, ego, irrito, permulceo, adduco, denuo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, permulceo",0.222
+plautus.persa,829.0,"iam, taceo, hercules, atque, tu, permulceo, sum, qui, ego, usque, admutilo, ad, cutis",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, permulceo, cutis",0.231
+plautus.persa,830.0,"taceo, stultus, hic, is, geminus, sum, frater, hic, sum, atque, geminus",11,"NaN, -1.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",-0.091,-0.091,"stultus, hic, hic",0.273
+plautus.persa,831.0,"deus, deferuesco, et, tu, et, geminus, frater, excrucio, qui, tu, perdo",11,"0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"tu, excrucio, tu",0.273
+plautus.persa,832.0,"nam, ego, nihil, mereo, at, enim, qui, ille, mereo, tu, is, obsum, uolo",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.077
+plautus.persa,833.0,"ago, si, uolo, hic, ludifico, nisi, si, dignus, sum, non, opus, sum",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, 0.5, NaN",0.125,0.0,hic,0.083
+plautus.persa,834.0,"et, ego, haud, par, sum, credo, is, quia, non, inconcilio, cum, tu, emo",13,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.038,0.0,"tu, emo",0.154
+plautus.persa,835.0,"at, tamen, nontame, -ne, caueo, ergo, sum, malus, et, sequor, ego",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.091,-0.091,,0.0
+plautus.persa,836.0,"tu, ego, dico, audio, sum, addecet, nam, hercules, absque, ego",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, addecet",0.2
+plautus.persa,837.0,"sum, et, meus, praesidium, hic, facio, tu, prostibilis, propediem",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, tu",0.222
+plautus.persa,838.0,"sed, ita, pars, libertinus, sum, nisi, patronus, qui, aduerso, sum",10,"NaN, NaN, 0.0, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.persa,839.0,"neque, satis, liber, sui, uideo, neque, satis, frugi, neque, satis, honestus",11,"NaN, 0.5, 0.5, NaN, NaN, NaN, 0.5, 1.0, NaN, 0.5, 1.0",0.364,0.0,"frugi, honestus",0.182
+plautus.persa,840.0,"ni, is, efficio, ni, is, malus, dico, ni, gratus, ingratus, reperio, sum",12,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, 1.0, -1.0, NaN, NaN",-0.083,-0.167,ingratus,0.083
+plautus.persa,841.0,"pol, bene, facio, tuus, ego, hortor, tuus, ut, imperium, pareo",10,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.persa,842.0,"ego, sum, tu, patronus, planus, qui, hic, pro, tu, argentum, do",11,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"tu, hic, tu",0.273
+plautus.persa,843.0,"graphicus, hic, uolo, ludificaris, meus, ego, in, locus, sedulus, curo",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.1
+plautus.persa,844.0,"certus, ille, homo, ego, nescio, quis, malus, consulo, qui, facio, heus, tu",12,"0.5, NaN, 0.0, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.042,-0.083,tu,0.083
+plautus.persa,845.0,"quis, aio, hici, -ne, dordalus, sum, leno, qui, hic, libero, uirgo, mercor",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"leno, hic, uirgo, mercor",0.333
+plautus.persa,846.0,"hic, sum, qui, sum, quondam, fortis, qui, hic, res, sum, is, colaphus, ego, icit",14,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.036,0.0,"hic, hic, colaphus",0.214
+plautus.persa,847.0,"malus, tu, do, at, tu, nos, do, do, etiam, is, obstino, peruello",12,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,"tu, tu",0.167
+plautus.persa,848.0,"licet, iam, diu, saepe, sum, expungo, loquor, tu, etiam, frustum, puer",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, frustum",0.182
+plautus.persa,849.0,"patro, -ne, ego, eo, intro, amo, ad, cena",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,850.0,"meus, ignauia, tu, nunc, ego, irrideo",6,"0.0, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,"ignauia, tu",0.333
+plautus.persa,851.0,"quia, -ne, tu, uoco, bene, ut, tu, sum, nolo, ego, bene, sum, ne, sum",14,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.143
+plautus.persa,852.0,"quis, igitur, sescenti, nummus, quis, ago, qui, turbo, danunt",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,nummus,0.111
+plautus.persa,853.0,"malus, dispereo, scio, refero, probus, inimicus, gratia",7,"-1.0, NaN, NaN, NaN, 1.0, -1.0, 1.0",0.0,-0.286,probus,0.143
+plautus.persa,854.0,"satis, sumo, supplicium, iam, fateor, manus, tu, do",8,"0.5, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.062,0.0,"supplicium, tu",0.25
+plautus.persa,855.0,"et, post, do, sub, furca",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.persa,856.0,"abeo, introi, -ne, crux, an, ego, hic, parum, exercitus, hic",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,"crux, hic, hic",0.3
+plautus.persa,857.0,"habeo, conuenio, tu, toxilis, ego",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+plautus.persa,858.0,"spectator, bene, ualeo, leno, pereo, plaudo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,leno,0.167

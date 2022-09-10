@@ -1,0 +1,1016 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+plautus.mercator,1.0,"duo, res, simul, nunc, ago, decretum, sum, ego",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,2.0,"et, argumentum, et, meus, amor, eloquor",6,"NaN, 0.0, NaN, 0.0, 1.0, NaN",0.167,0.0,,0.0
+plautus.mercator,3.0,"non, ego, item, facio, ut, alius, in, comoedia",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,4.0,"uis, uideo, amor, facio, qui, aut, nox, aut, dies",9,"1.0, NaN, 1.0, NaN, NaN, NaN, 0.0, NaN, 0.0",0.222,0.0,,0.0
+plautus.mercator,5.0,"aut, solus, aut, luna, miseria, narro, suus",7,"NaN, -0.5, NaN, NaN, -1.0, NaN, NaN",-0.214,-0.214,,0.0
+plautus.mercator,6.0,"qui, pol, ego, credo, humanus, querimonia",6,"NaN, NaN, NaN, NaN, 0.0, -0.5",-0.083,-0.083,,0.0
+plautus.mercator,7.0,"non, tantus, facio, quis, uolo, quis, non, uolo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,8.0,"tu, narro, potis, meus, nunc, miseria",6,"NaN, NaN, 0.0, 0.0, NaN, -1.0",-0.167,-0.167,tu,0.167
+plautus.mercator,9.0,"graeca, hic, uoco, emporus, philemonis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.2
+plautus.mercator,10.0,"idem, latina, mercator, maccus, titus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,11.0,"pater, ad, mercor, hinc, ego, meus, mitto, rhodum",8,"0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,mercor,0.125
+plautus.mercator,12.0,"biennium, iam, facio, sum, postquam, abeo, domus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,13.0,"ibi, amo, occipio, forma, eximius, mulier",6,"NaN, NaN, NaN, 1.0, 1.0, 0.0",0.333,0.0,mulier,0.167
+plautus.mercator,14.0,"sed, is, ut, sum, implico, dico, si, opera, sum, auris",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN",-0.05,-0.05,,0.0
+plautus.mercator,15.0,"atque, ad-uerto, ad, animus, adsum, benignitas",6,"NaN, NaN, NaN, 0.5, NaN, 1.0",0.25,0.0,,0.0
+plautus.mercator,16.0,"et, hic, parum, hercules, mos, amator, insto",7,"NaN, NaN, 0.0, NaN, 0.5, NaN, NaN",0.071,0.0,"hic, amator",0.286
+plautus.mercator,17.0,"per, meus, per, conor, sum, tu, sum, inde, exilico",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.111
+plautus.mercator,18.0,"nam, amor, hic, cunctus, uitio, sectaris, soleo",7,"NaN, 1.0, NaN, 0.0, NaN, NaN, NaN",0.143,0.0,hic,0.143
+plautus.mercator,19.0,"cura, aegritudo, nimius, elegantia",4,"-1.0, -1.0, NaN, 1.0",-0.25,-0.5,nimius,0.25
+plautus.mercator,20.0,"hic, non, modo, ille, qui, amo, sed, quisque, attigo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.mercator,21.0,"magnus, atque, solidus, multo, infortunium",5,"0.0, NaN, 0.0, NaN, -1.0",-0.2,-0.2,,0.0
+plautus.mercator,22.0,"neque, pol, profecto, quisquam, sine, grandis, malus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, -1.0",-0.143,-0.143,,0.0
+plautus.mercator,23.0,"praequam, res, patior, studeo, elegantia",5,"NaN, 0.0, NaN, NaN, 1.0",0.2,0.0,,0.0
+plautus.mercator,24.0,"sed, amor, accedo, etiam, hic, qui, dico, paruus",8,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.125,0.0,hic,0.125
+plautus.mercator,25.0,"insomnis, aerumna, error, terror, et, fuga",6,"-0.5, -0.5, -1.0, -1.0, NaN, -0.5",-0.583,-0.583,,0.0
+plautus.mercator,26.0,"ineptia, stultitia, adeo, et, temeritas",5,"-1.0, -1.0, NaN, NaN, -0.5",-0.5,-0.5,"stultitia, temeritas",0.4
+plautus.mercator,27.0,"incogito, excors, immodestia",3,"NaN, -1.0, -1.0",-0.667,-0.667,,0.0
+plautus.mercator,28.0,"petulantia, et, cupiditas, maleuolentia",4,"-0.5, NaN, -0.5, -1.0",-0.5,-0.5,petulantia,0.25
+plautus.mercator,29.0,"inertia, auiditas, desidia, iniuria",4,"0.0, NaN, NaN, -1.0",-0.25,-0.25,inertia,0.25
+plautus.mercator,30.0,"inopia, contumelia, et, dispendium",4,"-1.0, -1.0, NaN, NaN",-0.5,-0.5,contumelia,0.25
+plautus.mercator,31.0,"multiloquium, parumloquium, hic, ideo, fio, quia",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+plautus.mercator,32.0,"qui, nihil, attingo, ad, res, neque, sum, usus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,33.0,"tam, amator, profero, saepe, ad-uerto, tempus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,amator,0.167
+plautus.mercator,34.0,"hic, pauciloquium, rursum, idcirco, praedico",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.2
+plautus.mercator,35.0,"quia, nullus, umquam, amator, adeo, sum, callidus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,"amator, callidus",0.286
+plautus.mercator,36.0,"facundus, qui, in, res, sum, suus, ut, possum, loquor",9,"1.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.mercator,37.0,"nunc, tu, ego, irascor, ob, multiloquium, non, decet",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.mercator,38.0,"idem, quo, amor, uenus, ego, hic, lego, dies",8,"NaN, NaN, 1.0, 1.0, NaN, NaN, NaN, 0.0",0.25,0.0,hic,0.125
+plautus.mercator,39.0,"illic, reuorto, certus, sum, conor, eloquor",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+plautus.mercator,40.0,"principium, ut, ex, ephebus, aetas, exeo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,ephebus,0.167
+plautus.mercator,41.0,"atque, animus, studium, amoueo, puerilis, sum, meus",7,"NaN, 0.5, 0.5, NaN, 0.0, NaN, 0.0",0.143,0.0,,0.0
+plautus.mercator,42.0,"amo, ualidus, coepio, hinc, meretrix, ilico",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,meretrix,0.167
+plautus.mercator,43.0,"res, exsulatus, ad, ille, clam, abeo, pater",7,"0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,44.0,"leno, importunus, dominus, is, mulier",5,"NaN, -1.0, NaN, NaN, 0.0",-0.2,-0.2,"leno, importunus, mulier",0.6
+plautus.mercator,45.0,"uis, summus, ut, quisque, possum, rapio, domus",7,"1.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.143,0.0,,0.0
+plautus.mercator,46.0,"obiurigaris, pater, hic, nox, et, dies",6,"NaN, 0.0, NaN, 0.0, NaN, 0.0",0.0,0.0,hic,0.167
+plautus.mercator,47.0,"perfidia, iniustitia, leno, expromo",4,"-1.0, -1.0, NaN, NaN",-0.5,-0.5,"perfidia, leno",0.5
+plautus.mercator,48.0,"lacero, ualidus, suus, res, ille, augeo",6,"NaN, 1.0, NaN, 0.0, NaN, NaN",0.167,0.0,lacero,0.167
+plautus.mercator,49.0,"superus, hic, clamor, interdum, musso, colloquium",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,hic,0.167
+plautus.mercator,50.0,"abnuo, negitaris, adeo, ego, natus, suus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.mercator,51.0,"conclamitaris, totus, urbs, et, praedico",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+plautus.mercator,52.0,"omnis, teneo, mutuito, credo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,53.0,"amor, multus, inlexe, in, dispendium",5,"1.0, 0.0, NaN, NaN, NaN",0.2,0.0,,0.0
+plautus.mercator,54.0,"in-tempero, non, modestus, iniurius",4,"NaN, NaN, 1.0, -0.5",0.125,-0.125,"in-tempero, modestus",0.5
+plautus.mercator,55.0,"traho, exhaurio, ego, qui, quirem, ab, sui, domus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,56.0,"ratio, malus, ab, ego, is, qui, ipse, bonus",8,"0.0, -1.0, NaN, NaN, NaN, NaN, NaN, 1.0",0.0,-0.125,,0.0
+plautus.mercator,57.0,"omnis, labor, inuenio, perfero",4,"NaN, -0.5, NaN, NaN",-0.125,-0.125,,0.0
+plautus.mercator,58.0,"in, amor, diffunditaris, atque, didier",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+plautus.mercator,59.0,"conuicium, tot, ego, annus, iam, sui, pasco",7,"-1.0, NaN, NaN, 0.0, NaN, NaN, NaN",-0.143,-0.143,conuicium,0.143
+plautus.mercator,60.0,"qui, nisi, pudeo, ne, lubet, uiuo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,pudeo,0.167
+plautus.mercator,61.0,"sui, extemplo, ex, ephebus, postquam, excedo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,ephebus,0.167
+plautus.mercator,62.0,"non, ut, ego, amor, neque, desidia, in, otium",8,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, 0.5",0.188,0.0,otium,0.125
+plautus.mercator,63.0,"opera, do, neque, potestas, sui",5,"-0.5, NaN, NaN, 0.5, NaN",0.0,-0.1,,0.0
+plautus.mercator,64.0,"sum, adeo, ars, cohibeo, sum, sui, ab, pater",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,65.0,"multus, opus, immundus, rusticus, sui, exercitus",6,"0.0, 0.5, -0.5, -0.5, NaN, 0.0",-0.083,-0.167,,0.0
+plautus.mercator,66.0,"neque, nisi, quintus, annus, quoque, pono, uiso",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,67.0,"urbs, atque, extemplo, inde, ut, specto, peplus",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.mercator,68.0,"rus, rusum, confestim, exigo, soleo, ab, pater",7,"0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,69.0,"ibi, multus, primus, sui, familiaris",5,"NaN, 0.0, 0.5, NaN, 1.0",0.3,0.0,,0.0
+plautus.mercator,70.0,"laboro, cum, hic, pater, sui, dico",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.167
+plautus.mercator,71.0,"tu, ara, tu, occo, tu, sero, tu, idem, metior",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu, tu, tu",0.444
+plautus.mercator,72.0,"tu, denique, iste, pario, laetitia, labos",6,"NaN, NaN, NaN, NaN, 1.0, -0.5",0.083,-0.083,tu,0.167
+plautus.mercator,73.0,"postquam, re-cesso, uito, patrius, corpus",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+plautus.mercator,74.0,"ager, sui, uendo, atque, is, pecunia",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"uendo, pecunia",0.333
+plautus.mercator,75.0,"nauo, metreta, qui, trecenti, tollo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,76.0,"paro, atque, is, sui, mercis, mercor, undique",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,"mercis, mercor",0.286
+plautus.mercator,77.0,"adeo, dum, qui, tum, habeo, pario, bonus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+plautus.mercator,78.0,"ego, idem, decet, si, ut, decet, ego, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,79.0,"ego, ego, ubi, inuideo, meus, pater, sum, intellego",8,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,81.0,"atque, odium, ego, sum, qui, placeo, aequus, sum",8,"NaN, -1.0, NaN, NaN, NaN, NaN, 0.5, NaN",-0.062,-0.125,,0.0
+plautus.mercator,82.0,"amens, amo, ut, animus, offirmo, meus",6,"-1.0, NaN, NaN, 0.5, NaN, 0.0",-0.083,-0.167,amens,0.167
+plautus.mercator,83.0,"dico, sum, eo, ego, mercor, si, uolo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,mercor,0.143
+plautus.mercator,84.0,"amor, mitto, facio, ego, dum, ille, obsequor",7,"1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+plautus.mercator,85.0,"ago, gratia, ego, atque, ingenium, ad-laudo, meus",7,"NaN, 1.0, NaN, NaN, 0.5, NaN, 0.0",0.214,0.0,,0.0
+plautus.mercator,86.0,"sed, meus, promitto, non, neglego, persequor",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,87.0,"aedifico, nauo, cercurus, et, mercis, emo",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,"mercis, emo",0.333
+plautus.mercator,88.0,"paro, no, impono, praeterea, ego",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,89.0,"talentum, argentum, ipse, suus, ad-numero, manus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,90.0,"seruus, unus, mitto, qui, olim, puer, paruulus",7,"-0.5, NaN, NaN, NaN, NaN, 0.0, NaN",-0.071,-0.071,,0.0
+plautus.mercator,91.0,"ego, paedagogus, sum, quasi, uti, ego, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,92.0,"custos, hic, sic, conficio, nauo, soluo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+plautus.mercator,93.0,"rhodum, uenio, ubi, qui, merces, ueho",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+plautus.mercator,94.0,"omnis, ut, uolo, uendo, ex, sententia",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,uendo,0.167
+plautus.mercator,95.0,"lucrum, ingens, facio, praeterquam, ego, meus, pater",7,"0.5, -0.5, NaN, NaN, NaN, 0.0, 0.0",0.0,-0.071,,0.0
+plautus.mercator,96.0,"do, aestimo, merces, ita, peculium",5,"NaN, NaN, 1.0, NaN, 0.0",0.2,0.0,,0.0
+plautus.mercator,97.0,"confacio, grandis, sed, dum, in, portus, ille, ambulo",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,98.0,"hospes, ego, quidam, agnosco, ad, cena, uoco",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,99.0,"uenio, decumbo, accipio, hilaris, atque, ampliter",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,hilaris,0.167
+plautus.mercator,100.0,"discumbo, nox, ut, imus, ecce, ad, ego, aduenio",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,101.0,"mulier, qui, mulier, alius, nullus, sum, pulcher",7,"0.0, NaN, 0.0, NaN, NaN, NaN, 1.0",0.143,0.0,"mulier, mulier",0.286
+plautus.mercator,102.0,"is, nox, cum, ego, ille, hospes, iussus, sum",8,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,103.0,"tu, uideo, quam, ego, ualidus, placeo",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,tu,0.167
+plautus.mercator,104.0,"postridie, hospes, adeo, oro, ut, uendo, ego",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,uendo,0.143
+plautus.mercator,105.0,"dico, is, pro, meritum, gratus, ego, et, munis, sum",9,"NaN, NaN, NaN, 1.0, 1.0, NaN, NaN, NaN, NaN",0.222,0.0,,0.0
+plautus.mercator,106.0,"quis, uerbum, opus, sum, emo, atque, adueho, heri",8,"NaN, 0.0, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,emo,0.125
+plautus.mercator,107.0,"is, ego, adueho, nolo, rescisco, pater",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,108.0,"modo, is, reliquus, ad, portus, in, no, et, seruulus",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,109.0,"sed, quis, curro, seruus, ab, portus, conspicor",7,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,,0.0
+plautus.mercator,110.0,"qui, no, abeo, ueto, timeo, quis, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,111.0,"ex, summus, ops, uis, usque, experior, niteo",7,"NaN, NaN, 0.0, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+plautus.mercator,112.0,"erus, ut, paruus, opus, tuus, seruo, agedum, acanthion",8,"0.0, NaN, 0.0, 0.5, 0.0, NaN, NaN, NaN",0.062,0.0,"erus, acanthion",0.25
+plautus.mercator,113.0,"abigo, abs, tu, lassitudo, caueo, pigritia, praeuerto",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,"tu, pigritia",0.286
+plautus.mercator,114.0,"simul, eneco, suspiritus, uix, suffero, hercules, anhelitus",7,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+plautus.mercator,115.0,"simul, autem, plenus, semita, qui, aduerro, eo, aspello",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,116.0,"detrudo, deturbo, in, uia, hic, disciplina, hic, malus, sum",9,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, -1.0, NaN",-0.111,-0.111,"hic, hic",0.222
+plautus.mercator,117.0,"curro, propero, haud, quisquam, dignus, habeo, decedo",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+plautus.mercator,118.0,"ita, tres, simitu, res, ago, sum, quando, unus, occipio",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,119.0,"et, curro, et, pugno, et, autem, iurigandum, sum, in, uia",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,120.0,"quis, illic, sum, qui, ille, tam, expedio, exquiro, curro, sui",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,121.0,"cura, sum, negotium, quis, sum, aut, quis, nuntio, nugae, ago",10,"-1.0, NaN, -0.5, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.25,-0.25,,0.0
+plautus.mercator,122.0,"quam, restito, tam, magnus, res, in, periculum, uerto",8,"NaN, NaN, NaN, 0.0, 0.0, NaN, -1.0, NaN",-0.125,-0.125,,0.0
+plautus.mercator,123.0,"malus, nescio, quis, nuntio, genu, hic, cursor, desero",8,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.125,-0.125,hic,0.125
+plautus.mercator,124.0,"pereo, seditio, facio, lie, -ne, occupo, praecordia",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,seditio,0.143
+plautus.mercator,125.0,"pereo, anima, nequeo, uerto, nimis, nihilis, tibice, -ne, sum",9,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.mercator,126.0,"at, tu, edepol, sumo, lacinia, atque, abstergeo, sudor, tu",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, edepol, tu",0.333
+plautus.mercator,127.0,"numquam, edepol, omnis, balineae, ego, hic, lassitudo, eximo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"edepol, hic",0.25
+plautus.mercator,128.0,"domus, -ne, an, foris, dico, sum, erus, charinum, ego, animus, pendeo",11,"0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.5, NaN",0.045,0.0,erus,0.091
+plautus.mercator,129.0,"quis, ille, sum, negotium, lubet, scio, ex, hic, metus, ut, eximo",11,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.136,-0.136,hic,0.091
+plautus.mercator,130.0,"at, etiam, asto, at, etiam, cedo, foris, facio, hic, assula",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.1
+plautus.mercator,131.0,"aperio, aliquis, ubi, charinus, sum, erus, domus, -ne, sum, an, foris",11,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,erus,0.091
+plautus.mercator,132.0,"num, quisquam, adeo, ad, ostium, dignus, arbitror, ecce, ego",9,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.mercator,133.0,"acanthion, qui, quaero, nusquam, sum, disciplina, ignauus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, -1.0",-0.143,-0.143,"acanthion, ignauus",0.286
+plautus.mercator,134.0,"qui, tu, malus, res, agito, multus, eremus, tu, atque, ego",10,"NaN, NaN, -1.0, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN",-0.1,-0.1,"tu, tu",0.2
+plautus.mercator,135.0,"quis, sum, negotium, pereo",4,"NaN, NaN, -0.5, NaN",-0.125,-0.125,,0.0
+plautus.mercator,136.0,"principium, is, inimicus, do, at, tu, sortior, is, obtingo",9,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.111,-0.111,tu,0.111
+plautus.mercator,137.0,"loquor, is, negotium, quisquis, sum, placidus, uolo, adquiesco",8,"NaN, NaN, -0.5, NaN, NaN, 1.0, NaN, NaN",0.062,-0.062,,0.0
+plautus.mercator,138.0,"tuus, causa, rumpo, ramites, iam, dudum, spuo, sanguis",8,"0.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,139.0,"resina, ex, mel, aegyptiam, uoro, saluus, facio",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+plautus.mercator,140.0,"at, edepol, tu, calida, pico, bibo, aegritudo, abscedo",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,"edepol, tu",0.25
+plautus.mercator,141.0,"homo, ego, iracundus, quam, tu, nosco, nemo",7,"0.0, NaN, -1.0, NaN, NaN, NaN, -0.5",-0.214,-0.214,"iracundus, tu",0.286
+plautus.mercator,142.0,"at, ego, maledico, quam, tu, nosco, nemo",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,"maledico, tu",0.286
+plautus.mercator,143.0,"sin, salus, qui, tu, sum, censeo, is, consuadeo",8,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.125,0.0,tu,0.125
+plautus.mercator,144.0,"apage, istiusmodi, salus, cum, crucio, qui, aduenio",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+plautus.mercator,145.0,"dico, ego, an, bonus, quis, usquam, sum, qui, quisquam, uti, possiet",11,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.091,0.0,,0.0
+plautus.mercator,146.0,"sine, malus, omnis, aut, ne, labor, capio, cum, ille, uti, uolo",11,"NaN, -1.0, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.136,-0.136,,0.0
+plautus.mercator,147.0,"nescio, ego, iste, philosopharis, numquam, disco, neque, scio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,148.0,"ego, bonus, malus, quo, accedo, ego, do, haud, desidero",9,"NaN, 1.0, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,-0.111,,0.0
+plautus.mercator,149.0,"cedo, tuus, ego, dexter, agedum, acanthion, em, do, teneo",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,acanthion,0.111
+plautus.mercator,150.0,"uis, -ne, tu, tu, ego, obsequor, sum, an, neo, opus, licet",11,"1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.136,0.0,"tu, tu",0.182
+plautus.mercator,151.0,"experior, qui, ego, rumpo, causa, curro, tuus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,152.0,"ut, qui, scio, scio, actus, tu, licet, liber",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,tu,0.125
+plautus.mercator,153.0,"caput, tu, facio, cis, paucus, mensis, palpo, percutio",8,"0.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.125
+plautus.mercator,154.0,"ego, -ne, audeo, tu, usquam, quisquam, facinus, falsus, proloquor",9,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, -1.0, NaN",-0.222,-0.222,"tu, facinus",0.222
+plautus.mercator,156.0,"quin, iam, prior, quam, sum, ex-loquor, scio, si, mentior, uolo, ah",11,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.045,0.0,,0.0
+plautus.mercator,157.0,"lassitudo, hercules, uerbum, tuus, ego, addo, eneco",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,158.0,"sicine, ego, obsequor, sum, quis, uolo, facio, tu, -ne, is, qui, uolo",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.083
+plautus.mercator,159.0,"quis, is, sum, igitur, qui, uolo, dico, dico, at, enim, placidus, uolo",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.083,0.0,,0.0
+plautus.mercator,160.0,"dormio, spectator, metuo, ne, ex, somnus, excito",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+plautus.mercator,161.0,"uae, tu, tu, equidem, ab, portus, apporto, hic, quis, fero, dico, ego",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu, hic",0.25
+plautus.mercator,162.0,"uis, metus, cruciatus, cura, iurgium, atque, inopia",7,"1.0, -1.0, -1.0, -1.0, -1.0, NaN, -1.0",-0.571,-0.714,,0.0
+plautus.mercator,163.0,"pereo, tu, quidem, thesaurus, huc, ego, apporto, malus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,tu,0.125
+plautus.mercator,164.0,"nullus, sum, immo, sum, scio, iam, miser, dico, tu, dico, ego, taceo",12,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,"miser, tu",0.167
+plautus.mercator,165.0,"quis, iste, sum, malus, ne, rogito, magnus, infortunium, sum",9,"NaN, NaN, NaN, -1.0, NaN, NaN, 0.0, -1.0, NaN",-0.222,-0.222,,0.0
+plautus.mercator,166.0,"obsecro, dissoluo, iam, ego, nimis, diu, animus, pendeo",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,,0.0
+plautus.mercator,167.0,"placidus, multus, exquiro, etiam, prior, uolo, quam, uapulis",8,"1.0, 0.0, NaN, NaN, 0.5, NaN, NaN, NaN",0.188,0.0,,0.0
+plautus.mercator,168.0,"hercules, uerus, uapulo, nisi, iam, loquor, aut, hinc, abeo",9,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.mercator,169.0,"hic, sum, uideo, ut, palpo, nullus, sum, quando, occipio, blandus",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.05,0.0,hic,0.1
+plautus.mercator,170.0,"obsecro, hercules, oro, ut, iste, quis, sum, actus, indico",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,171.0,"quandoquidem, ego, supplico, seruulus, uideo, meus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,172.0,"tandem, indignus, uideo, immo, dignus, equidem, credo",7,"NaN, -1.0, NaN, NaN, 1.0, NaN, NaN",0.0,-0.143,,0.0
+plautus.mercator,173.0,"obsecro, num, nauus, pereo, saluo, sum, nauus, ne, timeo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,174.0,"quis, alius, armamenta, saluo, et, sano, sum, quin, tu, expedio",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.mercator,175.0,"quis, sum, qui, ego, per, urbs, curro, quaero, modo",9,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.mercator,176.0,"tu, quidem, ex, os, oratio, ego, eripio, taceo, taceo",9,"NaN, NaN, NaN, 0.0, -0.5, NaN, NaN, NaN, NaN",-0.056,-0.056,tu,0.111
+plautus.mercator,177.0,"credo, si, bonus, quis, ad, tu, nuntio, insto, acer",9,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,tu,0.111
+plautus.mercator,178.0,"qui, nunc, cum, malus, audio, sum, flagito, ego, ut, eloquor",10,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+plautus.mercator,179.0,"obsecro, hercules, tu, iste, ut, tu, ego, malus, facio, palam",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.1,-0.1,"tu, tu",0.2
+plautus.mercator,180.0,"eloquor, quandoquidem, ego, ora, tuus, pater, quis, meus, pater",9,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+plautus.mercator,181.0,"tuus, amica, quis, is, uideo, uideo, uae, mitto, ego",9,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,182.0,"hic, qui, tu, rogo, respondeo, quin, tu, si, quis, uolo, rogo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu, tu",0.273
+plautus.mercator,183.0,"qui, possum, uideo, oculus, quo, pacisco, hio",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hio,0.143
+plautus.mercator,184.0,"in, hinc, dierectus, nugaris, in, res, capitalis, meus",8,"NaN, NaN, NaN, NaN, NaN, 0.0, -1.0, 0.0",-0.125,-0.125,capitalis,0.125
+plautus.mercator,185.0,"qui, malus, ego, nugor, si, tu, qui, ego, rogo, respondeo",10,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.1,-0.1,tu,0.1
+plautus.mercator,186.0,"certus, -ne, uideo, tam, hercules, certus, quam, ego, tu, aut, tu, ego, uideo",13,"0.5, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.077,0.0,"tu, tu",0.154
+plautus.mercator,187.0,"ubi, is, uideo, intus, intra, nauo, ut, prope, asto",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,188.0,"et, cum, is, confabulatus, sum, perdo, ego, pater",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,189.0,"eho, tu, eho, tu, quin, caueo, ne, is, uideo, uerbero",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu, uerbero",0.3
+plautus.mercator,190.0,"quin, scelestus, abstrudo, ne, is, conspicio, pater",7,"NaN, -1.0, NaN, NaN, NaN, NaN, 0.0",-0.143,-0.143,scelestus,0.143
+plautus.mercator,191.0,"quia, negotiosus, sum, nos, noster, negotium",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+plautus.mercator,192.0,"armamenta, complico, et, compono, studeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,193.0,"dum, hic, ago, lembus, adueho, tuus, pater, pauxillulus",8,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,hic,0.125
+plautus.mercator,194.0,"neque, quisquam, homo, conspicor, sum, donec, in, nauo, subeo",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,195.0,"nequiquam, mare, subterfugio, ab, tuus, tempestas",6,"NaN, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+plautus.mercator,196.0,"equidem, ego, iam, censeo, sum, in, terra, atque, in, tueor, locus",11,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,197.0,"uerus, uideo, ego, ad, saxum, fero, saeuus, fluctus",8,"0.5, NaN, NaN, NaN, 0.0, NaN, -1.0, 0.0",-0.062,-0.125,saeuus,0.125
+plautus.mercator,198.0,"loquor, porro, quis, sum, ago, postquam, aspicio, mulier",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,mulier,0.125
+plautus.mercator,199.0,"rogito, occipio, cuia, sum, quis, respondeo, ilico",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,201.0,"occurro, atque, interpello, mater, tu, ancilla, tuus",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,"tu, ancilla",0.286
+plautus.mercator,202.0,"emo, ille, uideo, -ne, sum, tu, credo, id., etiam, rogo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"emo, tu",0.2
+plautus.mercator,203.0,"sed, scelestus, subigitaris, occipio, ille, -ne, obsecro",7,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,scelestus,0.143
+plautus.mercator,204.0,"mirus, quin, ego, subigito, edepol, cor, miser, meus",8,"1.0, NaN, NaN, NaN, NaN, NaN, -1.0, 0.0",0.0,-0.125,"edepol, miser",0.25
+plautus.mercator,205.0,"qui, guttatim, contabesco, quasi, in, aqua, indo, sal",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,206.0,"pereo, em, iste, unus, uerbum, dico, uerus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.5",0.071,0.0,,0.0
+plautus.mercator,207.0,"stultitia, iste, sum, quis, facio, credo, non, credo, pater",9,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",-0.111,-0.111,stultitia,0.111
+plautus.mercator,208.0,"si, ille, mater, meus, ego, emo, dico, post, autem, ego",10,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,emo,0.1
+plautus.mercator,209.0,"scelus, uideo, ego, parens, proloquor, mendacium",6,"-1.0, NaN, NaN, 0.5, NaN, -1.0",-0.25,-0.333,"scelus, mendacium",0.333
+plautus.mercator,210.0,"neque, ille, credo, neque, credibilis, sum, forma, eximius, mulier",9,"NaN, NaN, NaN, NaN, 0.5, NaN, 1.0, 1.0, 0.0",0.278,0.0,mulier,0.111
+plautus.mercator,211.0,"is, ego, emo, ancilla, mater, non, taceo, stultus",8,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, -1.0",-0.125,-0.125,"emo, ancilla, stultus",0.375
+plautus.mercator,212.0,"credo, hercules, nam, credo, iam, ego, metuo, miser",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,miser,0.125
+plautus.mercator,213.0,"ne, pater, prehendo, ut, sum, gero, res, suspicio",8,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, -0.5",-0.062,-0.062,,0.0
+plautus.mercator,214.0,"hic, qui, tu, rogo, respondeo, quaeso, quaeso, quis, rogo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.222
+plautus.mercator,215.0,"num, sum, amica, suspicaris, uideo, sum, non, uideo, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,216.0,"quin, quisque, ut, dico, ego, credo, uerus, ut, tu, quidem",10,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.05,0.0,tu,0.1
+plautus.mercator,217.0,"uideo, sum, non, sed, credo, uae, ego, mitto, nullus, sum",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,218.0,"sed, quis, ego, hic, in, lamento, pereo, ad, nauo, non, is",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.091
+plautus.mercator,219.0,"sequor, si, istac, eo, commodus, obuius, uenio, pater",8,"NaN, NaN, NaN, NaN, 0.5, -0.5, NaN, 0.0",0.0,-0.062,,0.0
+plautus.mercator,220.0,"postea, aspicio, tu, timidus, sum, atque, exanimo, ilico",8,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.062,-0.062,"tu, timidus, exanimo",0.375
+plautus.mercator,221.0,"retineo, rogito, unde, ille, emo, quantus, emo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"emo, emo",0.286
+plautus.mercator,222.0,"timidus, tempto, tu, hic, eo, potis, iam, censeo, pater",9,"-0.5, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",-0.056,-0.056,"timidus, tu, hic",0.333
+plautus.mercator,223.0,"abeo, ab, portus, quin, is, ego, huc, praecurro, gratia",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.111,0.0,,0.0
+plautus.mercator,224.0,"ne, tu, opprimo, imprudens, atque, electo, optume",7,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,tu,0.143
+plautus.mercator,225.0,"mirus, modus, deus, ludus, facio, homo",6,"1.0, 0.5, 0.0, NaN, NaN, 0.0",0.25,0.0,,0.0
+plautus.mercator,226.0,"mirus, exemplum, somnio, in, somnus, danunt",6,"1.0, 0.0, NaN, NaN, 0.5, NaN",0.25,0.0,,0.0
+plautus.mercator,227.0,"uelut, ego, nox, hic, qui, praetereo, proximus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.143
+plautus.mercator,228.0,"in, somnus, ago, satis, et, sum, homo, exercitus",8,"NaN, 0.5, NaN, 0.5, NaN, NaN, 0.0, 0.0",0.125,0.0,,0.0
+plautus.mercator,229.0,"mercor, uideo, ego, sum, formosus, capra",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,mercor,0.167
+plautus.mercator,230.0,"is, ne, noceo, quam, domus, ante, habeo, capra",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,noceo,0.125
+plautus.mercator,231.0,"neu, discordo, si, ambo, in, unus, sum, locus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,232.0,"posterus, quam, mercor, sum, uideo, sum",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,mercor,0.167
+plautus.mercator,233.0,"in, custodela, simia, concredo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,234.0,"is, simia, adeo, post, haud, multus, ad, ego, uenio",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,235.0,"malus, ego, precor, et, facio, conuicium",6,"-1.0, NaN, NaN, NaN, NaN, -1.0",-0.333,-0.333,conuicium,0.167
+plautus.mercator,236.0,"aio, sui, ille, opus, atque, aduenio, capra",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.mercator,237.0,"flagitium, et, damnum, facio, haud, mediocris",6,"-1.0, NaN, -1.0, NaN, NaN, 0.0",-0.333,-0.333,flagitium,0.167
+plautus.mercator,238.0,"dico, capra, quam, do, seruo, sui",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,239.0,"suus, uxor, doto, amb-edo, oppidum",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,uxor,0.2
+plautus.mercator,240.0,"ego, ille, uideo, mirus, ut, unus, illic, capra",8,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+plautus.mercator,241.0,"uxor, simia, doto, amb-edo",4,"0.0, NaN, NaN, NaN",0.0,0.0,uxor,0.25
+plautus.mercator,242.0,"insto, facio, simia, atque, hic, denique",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+plautus.mercator,243.0,"respondeo, ni, propero, ille, ab, sui, abduco",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,244.0,"ad, ego, domus, intro, ad, uxor, duco, meus",8,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,uxor,0.125
+plautus.mercator,245.0,"atque, oppidum, hercules, bene, uolo, ille, uideo, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,246.0,"at, non, habeo, qui, commendaris, capra",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,247.0,"quo, magis, quis, facio, cura, crucio, miser",7,"NaN, NaN, NaN, NaN, -1.0, NaN, -1.0",-0.286,-0.286,miser,0.143
+plautus.mercator,248.0,"interea, ad, ego, haedus, uideo, sum, adgredirier",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,249.0,"in-fio, ego, praedico, sui, ab, simia",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,250.0,"capra, abduco, et, coepio, irrideo, ego",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,251.0,"ego, enim, lugeo, atque, abduco, ille, aeger, patior",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,,0.0
+plautus.mercator,252.0,"hic, quam, ad, res, credo, pertineo, somnium",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.5",0.071,0.0,hic,0.143
+plautus.mercator,253.0,"nequeo, inuenio, nisi, capra, ille, suspicor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,254.0,"iam, ego, inuenio, qui, sum, aut, quis, uolo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,255.0,"ad, portus, hinc, abeo, mane, cum, lucius, simul",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,256.0,"postquam, is, qui, uolo, transigo, atque, ego, conspicor",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,257.0,"nauo, ex, rhodo, qui, sum, heri, adueho, filius",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,258.0,"collibet, sum, illic, ego, nescio, qui, uiso",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,259.0,"inscendo, in, lembus, atque, ad, nauo, deueho",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,260.0,"atque, ego, ille, aspicio, forma, eximius, mulier",7,"NaN, NaN, NaN, NaN, 1.0, 1.0, 0.0",0.286,0.0,mulier,0.143
+plautus.mercator,261.0,"filius, quam, adueho, meus, mater, ancilla, suus",7,"0.0, NaN, NaN, 0.0, 0.0, 0.0, NaN",0.0,0.0,ancilla,0.143
+plautus.mercator,262.0,"quam, ego, postquam, aspicio, non, ita, amo, ut, sanus, soleo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.1,0.0,,0.0
+plautus.mercator,263.0,"homo, sed, idem, pacisco, ut, insanio, soleo",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,insanio,0.143
+plautus.mercator,264.0,"amo, hercules, equidem, ego, olim, in, adulescentia",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,265.0,"uerus, ad, hic, exemplum, numquam, ut, nunc, insanio",8,"0.5, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.062,0.0,"hic, insanio",0.25
+plautus.mercator,266.0,"unus, quidem, hercules, iam, scio, pereo, ego",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,267.0,"tu, uideo, ceterum, quantus, sum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+plautus.mercator,268.0,"nunc, hic, profecto, sic, sum, hic, ille, sum, capra",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.222
+plautus.mercator,269.0,"uerus, hercules, simia, ille, atque, haedus, ego, malus",8,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.062,-0.125,,0.0
+plautus.mercator,270.0,"apporto, atque, is, sum, qui, dico, hau, scio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,271.0,"sed, conticiscam, nam, ecce, eo, uicinus, foras",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.mercator,272.0,"profecto, ego, illic, hircum, castraris, uolo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,273.0,"rus, qui, tu, exhibeo, negotium",5,"0.0, NaN, NaN, NaN, -0.5",-0.1,-0.1,tu,0.2
+plautus.mercator,274.0,"neque, omen, ille, ego, neque, auspicium, placeo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.mercator,275.0,"quasi, hircum, metuo, ne, uxor, ego, castro, meus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,uxor,0.125
+plautus.mercator,276.0,"atque, ille, hic, nunc, simia, pars, fero",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.143
+plautus.mercator,277.0,"eo, tu, hinc, ad, uilla, atque, iste, rastri, uilicus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, uilicus",0.222
+plautus.mercator,278.0,"pisto, ipse, facio, coram, ut, trado, in, manus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,279.0,"uxor, facio, ut, nuntio, negotium",5,"0.0, NaN, NaN, NaN, -0.5",-0.1,-0.1,uxor,0.2
+plautus.mercator,280.0,"ego, sum, in, urbs, ne, ego, exspecto, nam, ego",9,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.mercator,281.0,"tres, hodie, lis, iudico, dico",5,"NaN, NaN, -0.5, NaN, NaN",-0.1,-0.1,,0.0
+plautus.mercator,282.0,"is, et, hic, memento, dico, numquid, amplus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+plautus.mercator,283.0,"tantus, sum, lysimachos, saluus, euge, demipho",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+plautus.mercator,284.0,"salueo, quis, ago, quis, fio, qui, miserrumus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,285.0,"deus, bonus, facio, deus, hic, quidem, facio, quis, sum",9,"0.0, 1.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.111,0.0,hic,0.111
+plautus.mercator,286.0,"dico, si, uideo, tu, sum, opera, aut, otium",8,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN, 0.5",0.0,-0.062,"tu, otium",0.25
+plautus.mercator,287.0,"quamquam, negotium, sum, si, quis, uolo, demipho",7,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+plautus.mercator,288.0,"non, sum, occupo, umquam, amicus, opera, do",7,"NaN, NaN, NaN, NaN, 1.0, -0.5, NaN",0.071,-0.071,,0.0
+plautus.mercator,289.0,"benignitas, tuus, ego, experior, praedico",5,"1.0, 0.0, NaN, NaN, NaN",0.2,0.0,,0.0
+plautus.mercator,290.0,"quis, tu, ego, aetas, uideo, acherunticus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.167
+plautus.mercator,291.0,"senex, uetus, decrepitus, per-uerto, uideo",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,292.0,"puer, sum, lysimachos, septuennis, sanu, -ne, sum",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,sanu,0.143
+plautus.mercator,293.0,"qui, puer, tu, sum, dico, uerus, praedico",7,"NaN, 0.0, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,tu,0.143
+plautus.mercator,294.0,"modo, hercules, in, mens, uenio, quis, tu, dico",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,tu,0.125
+plautus.mercator,295.0,"senex, cum, extemplo, sum, iam, neque, sentio, neque, sapio",9,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,296.0,"aio, soleo, is, rusum, repuerasco",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,297.0,"immo, bis, tantus, ualeo, quam, ualeo, prior",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+plautus.mercator,298.0,"bene, hercules, facio, et, gaudeo, immo, si, scio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,299.0,"oculus, quoque, etiam, multus, iam, uideo, quam, prior",8,"0.0, NaN, NaN, 0.0, NaN, NaN, NaN, 0.5",0.062,0.0,,0.0
+plautus.mercator,300.0,"bene, sum, malus, res, dico, iam, iste, non, bene, sum",10,"NaN, NaN, -1.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+plautus.mercator,301.0,"sed, audeo, ego, tu, eloquor, fidelis",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,tu,0.167
+plautus.mercator,302.0,"audacter, animus, ad-uerto, fio, sedulus",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,audacter,0.2
+plautus.mercator,303.0,"hodie, eo, in, ludus, occipio, litterarius",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+plautus.mercator,304.0,"lysimachos, terni, scio, iam, quis, terni, amo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,305.0,"tu, -ne, caput, cano, amo, senex, nequissime",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.143
+plautus.mercator,306.0,"si, canis, seu, iste, rutilis, siue, ater, sum, amo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,307.0,"ludifico, nunc, tu, ego, hic, opinor, demipho",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, hic",0.286
+plautus.mercator,308.0,"decido, collum, sto, si, falsus, loquor",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+plautus.mercator,309.0,"uel, ut, scio, ego, amo, capio, culter, atque, seco",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,310.0,"digitus, uel, auris, uel, tu, nasus, uel, labrum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.mercator,311.0,"si, moueo, ego, seu, secaris, sentio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,312.0,"lysimachos, auctor, sum, ut, ego, amo, eneco",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,313.0,"si, umquam, uideo, pingo, amator, em, illic, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,amator,0.125
+plautus.mercator,314.0,"nam, meus, quidem, animus, uetulus, decrepitus, senex",7,"NaN, 0.0, NaN, 0.5, NaN, NaN, 0.0",0.071,0.0,,0.0
+plautus.mercator,315.0,"tantus, sum, quasi, sum, signum, pingo, in, paries",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,316.0,"nunc, tu, ego, credo, castigaris, cogito",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.mercator,317.0,"ego, -ne, tu, nihil, sum, iam, qui, tu, ego, suscenseo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.2
+plautus.mercator,318.0,"facio, talis, ante, alius, spectas, uir",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+plautus.mercator,319.0,"humanus, amo, sum, humanus, autem, ignosco, sum",7,"0.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,321.0,"ne, sum, ego, obiurgo, hic, non, uoluntas, ego, impello",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"obiurgo, hic",0.222
+plautus.mercator,322.0,"quin, non, obiurgo, at, ne, deterior, tamen",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,obiurgo,0.143
+plautus.mercator,323.0,"hic, facio, duco, ego, -ne, tu, ah, ne, deus, sino",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, tu",0.2
+plautus.mercator,324.0,"uideo, sum, modo, etiam, uideo, sum, certus, -ne, perdo, ego",10,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.mercator,325.0,"hic, homo, ex, amor, insanio, numquid, uolo, ual",8,"NaN, 0.0, NaN, 1.0, NaN, NaN, NaN, NaN",0.125,0.0,"hic, insanio",0.25
+plautus.mercator,326.0,"ad, portus, propero, nam, ibi, ego, negotium, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.062,-0.062,,0.0
+plautus.mercator,327.0,"bene, ambulo, bene, ual, bene, sum, tu",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.mercator,328.0,"quin, ego, quoque, etiam, sum, ad, portus, negotium",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.062,-0.062,,0.0
+plautus.mercator,329.0,"nunc, adeo, eo, illic, sed, bonus, nascor, meus",8,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN, 0.0",0.125,0.0,,0.0
+plautus.mercator,330.0,"uideo, ecce, opperior, homo, hic, nunc, ego, uideo, opus, sum",10,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.5, NaN",0.05,0.0,hic,0.1
+plautus.mercator,331.0,"hic, persuadeo, quo, modo, potio, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+plautus.mercator,332.0,"ut, ille, uendo, neue, do, mater, suus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,uendo,0.143
+plautus.mercator,333.0,"nam, is, donum, aduexe, audio, sed, praecaueo, opus, sum",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.5, NaN",0.056,0.0,,0.0
+plautus.mercator,334.0,"ne, hic, ille, ego, animus, adiicio, aliqui, sentio",8,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.062,0.0,hic,0.125
+plautus.mercator,335.0,"homo, ego, miser, nullus, sum, aequus, opinor",7,"0.0, NaN, -1.0, NaN, NaN, 0.5, NaN",-0.071,-0.143,miser,0.143
+plautus.mercator,336.0,"neque, ad-uerto, qui, multus, sum, sempiternus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,337.0,"satis, ne, quisquis, sum, quam, res, ago, occipio",8,"0.5, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.062,0.0,,0.0
+plautus.mercator,338.0,"proprius, nequeo, ego, euenio, qui, cupio",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,339.0,"ita, ego, malus, res, aliqui, obicio",6,"NaN, NaN, -1.0, 0.0, NaN, NaN",-0.167,-0.167,,0.0
+plautus.mercator,340.0,"bonus, qui, meus, comprimo, consilium",5,"1.0, NaN, 0.0, NaN, 0.5",0.3,0.0,,0.0
+plautus.mercator,341.0,"miser, amica, ego, paro, animus, causa, pretium, eripio",8,"-1.0, NaN, NaN, NaN, 0.5, 0.0, 1.0, NaN",0.062,-0.125,"miser, pretium",0.25
+plautus.mercator,342.0,"reor, clam, pater, ego, meus, possum, habeo",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,343.0,"is, re-scio, et, uideo, et, perdo, ego",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,344.0,"neque, is, cum, rogo, quis, loquor, cogitas, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,345.0,"ita, animus, decem, in, pectus, incertus, certo",7,"NaN, 0.5, NaN, NaN, NaN, -0.5, NaN",0.0,-0.071,,0.0
+plautus.mercator,346.0,"neque, quis, cor, nunc, consilium, capio, possum",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+plautus.mercator,347.0,"scio, tantus, cum, cura, meus, sum, error, animus",8,"NaN, NaN, NaN, -1.0, 0.0, NaN, -1.0, 0.5",-0.188,-0.25,,0.0
+plautus.mercator,348.0,"dum, seruio, meus, perplaceo, ego, consilium",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+plautus.mercator,349.0,"dum, rursum, haud, placeo, neque, pater, potio, uideo",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,350.0,"induco, ut, puto, mater, ancilla, emo, sum, ille",8,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,"ancilla, emo",0.25
+plautus.mercator,351.0,"nunc, si, dico, ut, res, sum, atque, ille, ego, ego",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,352.0,"emo, indico, qui, ad, modus, existimo, ego",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,emo,0.143
+plautus.mercator,353.0,"atque, ille, abstraho, trans, mare, hinc, uenum, asporto",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,uenum,0.125
+plautus.mercator,354.0,"scio, saeuus, quam, sum, domus, doceo, igitur",7,"NaN, -1.0, NaN, NaN, 0.0, NaN, NaN",-0.143,-0.143,saeuus,0.143
+plautus.mercator,356.0,"hoci, -ne, sum, amo, araris, malo, quam, sic, amo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hoci,0.111
+plautus.mercator,357.0,"iam, hinc, olim, inuitus, domus, extrudo, ab, sui",8,"NaN, NaN, NaN, -0.5, 0.0, NaN, NaN, NaN",-0.062,-0.062,,0.0
+plautus.mercator,358.0,"mercor, eo, iubeo, ibi, hic, malus, ego, inuenio",8,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.125,-0.125,"mercor, hic",0.25
+plautus.mercator,359.0,"ubi, uoluptas, aegritudo, uinco, quis, ibi, insum, amoenus",8,"NaN, 1.0, -1.0, NaN, NaN, NaN, NaN, NaN",0.0,-0.125,,0.0
+plautus.mercator,360.0,"nequiquam, abdo, abs-condo, abstrudo, habeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,361.0,"musca, sum, meus, pater, nihil, possum, clam, ille, habeo",9,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,362.0,"neque, sacer, neque, tam, profanus, quisquam, sum, quin, ibi, ilico, adsum",11,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.091,0.0,profanus,0.091
+plautus.mercator,363.0,"neque, qui, res, meus, confido, ego, ullus, spes, in, cor, certus, sum",12,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, 0.5, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+plautus.mercator,364.0,"quis, illic, sum, qui, solus, cum, sui, fabulor, filius",9,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, 0.0",-0.056,-0.056,,0.0
+plautus.mercator,365.0,"sollicitus, ego, nescio, qui, res, uideo, attatae",7,"-1.0, NaN, NaN, NaN, 0.0, NaN, NaN",-0.143,-0.143,,0.0
+plautus.mercator,366.0,"meus, pater, hic, quidem, sum, qui, uideo, eo, alloquor, quis, fio, pater",12,"0.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.083
+plautus.mercator,367.0,"unde, incedo, quis, festino, nascor, ego, rectus, pater",8,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, 0.0",0.125,0.0,,0.0
+plautus.mercator,368.0,"ita, uolo, sed, iste, quis, sum, tu, qui, commuto, sum, color",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.091
+plautus.mercator,369.0,"numquid, tu, doleo, nescio, quis, meus, animus, sum, aeger, pater",10,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.5, NaN, -1.0, 0.0",-0.05,-0.1,tu,0.1
+plautus.mercator,370.0,"postis, hic, nox, non, quiesco, satis, meus, ex, sententia",9,"NaN, NaN, 0.0, NaN, NaN, 0.5, 0.0, NaN, 0.0",0.056,0.0,hic,0.111
+plautus.mercator,371.0,"per, mare, ut, nunc, oculus, terra, miror, tuus",8,"NaN, 0.0, NaN, NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,372.0,"magis, opinor, is, sum, profecto, uerus, actus, abscedo",8,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.062,0.0,,0.0
+plautus.mercator,373.0,"ergo, edepol, palleo, si, sapio, is, atque, decumbo, domus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,edepol,0.111
+plautus.mercator,374.0,"otium, non, sum, mandatum, res, prae-uerto, uolo",7,"0.5, NaN, NaN, NaN, 0.0, NaN, NaN",0.071,0.0,otium,0.143
+plautus.mercator,375.0,"creo, ago, perendie, ago, saepe, ex, tu, audio, pater",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.111
+plautus.mercator,376.0,"res, mando, omnis, sapio, primus, prae-uerto, decet",7,"0.0, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+plautus.mercator,377.0,"ago, igitur, nolo, aduorsaris, tuus, ad-uerto, sententia",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,378.0,"saluus, sum, siquidem, iste, dico, solidus, et, perpetuus, sum, fides",10,"1.0, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, 1.0",0.2,0.0,,0.0
+plautus.mercator,379.0,"quis, illic, sum, qui, ille, ab, ego, solus, sui, in, consilium, seuoco",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, 0.5, NaN",0.0,-0.042,,0.0
+plautus.mercator,380.0,"iam, non, uereor, ne, ille, ego, amo, hic, possum, rescisco",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.1
+plautus.mercator,381.0,"quippe, haud, etiam, quisquam, ineptus, facio, amo, ut, soleo",9,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.111,-0.111,ineptus,0.111
+plautus.mercator,382.0,"res, adhuc, quidem, hercules, in, tueor, sum, nam, hic, nescio, satis, scio",12,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.042,0.0,hic,0.083
+plautus.mercator,383.0,"de, ille, amicus, qui, si, scio, sum, alius, oratio",9,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, -0.5",0.056,-0.056,,0.0
+plautus.mercator,384.0,"quin, ego, hic, aggredior, de, ille, quin, ego, hinc, ego, amolior",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.091
+plautus.mercator,385.0,"is, ego, ut, qui, mandatum, amicus, amicus, trado, immo, mane",10,"NaN, NaN, NaN, NaN, NaN, 1.0, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+plautus.mercator,386.0,"pauculus, etiam, sciscitaris, prior, uolo, dico, quis, uelis",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.mercator,387.0,"usque, -ne, ualeo, perpetuus, rectus, dum, quidem, illic, sum",9,"NaN, NaN, NaN, 0.0, 1.0, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.mercator,388.0,"uerus, in, portus, huc, ut, sum, adueho, nescio, qui, animus, ego, doleo",12,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+plautus.mercator,389.0,"nausea, edepol, facio, credo, uerus, actus, abscedo",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,edepol,0.143
+plautus.mercator,390.0,"sed, quis, aio, ecqui, tu, aduexti, tuus, mater, ancilla, e, rhodo",11,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, 0.0, NaN, NaN",0.0,0.0,"tu, ancilla",0.182
+plautus.mercator,391.0,"adueho, quis, is, ut, uideo, mulier, non, edepol, malus",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, -1.0",-0.111,-0.111,"mulier, edepol",0.222
+plautus.mercator,392.0,"ut, moror, sum, nullus, uideo, bonus, meus, sententia",8,"NaN, NaN, NaN, NaN, NaN, 1.0, 0.0, 0.0",0.125,0.0,,0.0
+plautus.mercator,393.0,"ego, quidem, edepol, uideo, sum, cum, ille, uideo, eho, an, uideo, pater",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,edepol,0.083
+plautus.mercator,394.0,"uideo, uerus, non, ex, usus, noster, sum, neque, adeo, placeo",10,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.mercator,395.0,"qui, uerus, quia, non, noster, forma, habeo, dignus, domus",9,"NaN, 0.5, NaN, NaN, NaN, 1.0, NaN, 1.0, 0.0",0.278,0.0,,0.0
+plautus.mercator,396.0,"nihil, opus, sum, nos, ancilla, nisi, qui, texat, qui, molo",10,"NaN, 0.5, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.05,0.0,ancilla,0.1
+plautus.mercator,397.0,"lignum, caedo, pendo, facio, aedes, uerro, uapulo",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,398.0,"qui, habeo, cottidianus, familia, coquo, cibus",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+plautus.mercator,399.0,"hic, ille, nihilis, quisquam, facio, possum, admodum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.mercator,400.0,"is, causa, equidem, ille, emo, donum, quam, do, mater, meus",10,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,emo,0.1
+plautus.mercator,401.0,"ne, duo, neue, tu, adueho, dico, deus, ego, adiuuo",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.111
+plautus.mercator,403.0,"labefacto, paulatim, uerus, qui, praetereo, dico",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+plautus.mercator,404.0,"neque, ille, mater, satis, honestus, tuus, sequor, possum, comes",9,"NaN, NaN, 0.0, 0.5, 1.0, 0.0, NaN, NaN, NaN",0.167,0.0,honestus,0.111
+plautus.mercator,405.0,"neque, sino, qui, uerus, quia, ille, forma, mater, familia",9,"NaN, NaN, NaN, 0.5, NaN, NaN, 1.0, 0.0, 0.5",0.222,0.0,,0.0
+plautus.mercator,406.0,"flagitium, sum, si, sequor, quando, incedo, per, uia",8,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",-0.125,-0.125,flagitium,0.125
+plautus.mercator,407.0,"contemplo, conspicio, omnis, nuto, nictent, sibilo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,408.0,"uellico, uoco, molestus, sum, occento, ostium",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+plautus.mercator,409.0,"impleo, elegeorum, meus, foris, carbo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,410.0,"atque, ut, nunc, sum, maledico, homo, uxor, meus",8,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, 0.0",0.0,0.0,"maledico, uxor",0.25
+plautus.mercator,411.0,"ego, obiecto, lenocinium, facio, nam, quis, is, sum, opus",9,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, 0.5",-0.056,-0.111,,0.0
+plautus.mercator,412.0,"hercules, qui, tu, rectus, dico, et, tu, ad-sentio",8,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.125,0.0,"tu, tu",0.25
+plautus.mercator,413.0,"sed, quis, ille, nunc, fio, rectus, ego, emo, mater, tuus",10,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, 0.0, 0.0",0.1,0.0,emo,0.1
+plautus.mercator,414.0,"ancilla, uirago, aliqui, non, malus, forma, malus",7,"0.0, NaN, NaN, NaN, -1.0, 1.0, -1.0",-0.143,-0.286,ancilla,0.143
+plautus.mercator,415.0,"ut, mater, addecet, familia, aut, syram, aut, aegyptiam",8,"NaN, 0.0, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,addecet,0.125
+plautus.mercator,416.0,"is, molo, coquo, confacio, pendo, pinsetur, flagro",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,417.0,"neque, propter, is, quisquam, euenio, noster, foris, flagitium",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,flagitium,0.125
+plautus.mercator,418.0,"quis, si, igitur, reddo, ille, unde, emo, sum, paruus, gens",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,emo,0.1
+plautus.mercator,419.0,"dico, sui, redhibere, si, non, placeo, nihil, istoc, opus, sum",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.05,0.0,,0.0
+plautus.mercator,420.0,"litigaris, nolo, ego, usquam, tuus, autem, accusaris, fides",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 1.0",0.125,0.0,,0.0
+plautus.mercator,421.0,"multus, edepol, si, quis, facio, sum, facio, damnum, malo",9,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.111,-0.111,edepol,0.111
+plautus.mercator,422.0,"quam, opprobramentum, aut, flagitium, muliebris, exferri, domus",7,"NaN, NaN, NaN, -1.0, NaN, NaN, 0.0",-0.143,-0.143,"flagitium, muliebris",0.286
+plautus.mercator,423.0,"ego, tu, ille, possum, opinor, luculentus, uendo",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,"tu, uendo",0.286
+plautus.mercator,424.0,"dum, quidem, hercules, ne, paruus, uendo, quam, ego, emo, pater",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"uendo, emo",0.2
+plautus.mercator,426.0,"taceo, modo, senex, sum, quidam, qui, ille, mando, ego",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,427.0,"ut, emo, aut, ad, iste, facies, at, ego, quidam, adulescens, pater",11,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"emo, adulescens",0.182
+plautus.mercator,428.0,"mando, ad, ille, facies, ita, ut, illic, sum, emo, sui",10,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,emo,0.1
+plautus.mercator,429.0,"uiginti, minae, opinor, possum, ego, ille, uendo",7,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.071,-0.071,uendo,0.143
+plautus.mercator,430.0,"at, ego, si, uolo, iam, do, septem, et, uiginti, minae",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.05,-0.05,,0.0
+plautus.mercator,431.0,"at, ego, quin, ego, inquam, ah, nescio, quis, dico, sum, taceo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,432.0,"tres, minae, accudo, etiam, possum, ut, triginta, sum",8,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN, NaN",-0.062,-0.062,,0.0
+plautus.mercator,433.0,"quo, uerto, ad, ille, qui, emo, ubinam, sum, is, homo, gens",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,emo,0.091
+plautus.mercator,434.0,"ecce, uideo, iubeo, quinque, ego, addo, etiam, nunc, minae",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.056,-0.056,,0.0
+plautus.mercator,436.0,"hercules, illic, diuus, infelicent, quisquis, sum, ibidem, ego",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,437.0,"etiam, nunc, ad-nuto, addo, sex, minae, septem, ego",8,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN",-0.062,-0.062,,0.0
+plautus.mercator,438.0,"numquam, edepol, ego, uinco, hodie, commodus, posco, pater",8,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 0.0",0.062,0.0,edepol,0.125
+plautus.mercator,439.0,"nequiquam, posco, ego, habeo, at, illic, polliceor, sum, prior",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.056,0.0,,0.0
+plautus.mercator,440.0,"nihilis, facio, quinquaginta, posco, non, centum, do",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,441.0,"potio, -ne, ut, ne, licitor, ad-uerto, meus, animus, sententia",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.5, 0.0",0.056,0.0,,0.0
+plautus.mercator,442.0,"maximus, hercules, habeo, praeda, ita, ille, sum, qui, emo, senex",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,emo,0.1
+plautus.mercator,443.0,"sanus, non, sum, ex, amor, ille, qui, posco, fero",9,"1.0, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.222,0.0,,0.0
+plautus.mercator,444.0,"certus, edepol, adulescens, ille, qui, ego, emo, efflictim, pereo",9,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.056,0.0,"edepol, adulescens, emo",0.333
+plautus.mercator,445.0,"is, amor, multus, hercules, ille, magis, senex, si, tu, scio",10,"NaN, 1.0, 0.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.1,0.0,tu,0.1
+plautus.mercator,446.0,"numquam, edepol, sum, neque, fio, ille, senex, insanio",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"edepol, insanio",0.25
+plautus.mercator,447.0,"ex, amor, quam, ille, adulescens, qui, ego, do, hic, opera, pater",11,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, 0.0",0.045,-0.045,"adulescens, hic",0.182
+plautus.mercator,448.0,"quiesco, inquam, iste, res, ego, rectus, uideo, quis, aio, quis, sum",11,"NaN, NaN, NaN, 0.0, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.091,0.0,,0.0
+plautus.mercator,449.0,"non, ego, ille, mancupio, accipio, sed, ille, ille, accipio, sine",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,450.0,"non, possum, tu, lex, uendo, ille, ego, aliquis, uideo",9,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.056,0.0,"tu, uendo",0.222
+plautus.mercator,451.0,"post, autem, communis, sum, ille, ego, cum, alius, qui, scio",10,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,452.0,"quis, sum, is, animus, uenio, is, uolo, an, non, uolo",10,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.mercator,453.0,"ego, scio, uolo, at, pol, ego, sum, credo, aliquis, qui, non, uolo",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,454.0,"quis, is, meus, refero, quia, ille, suus, res, sum, aequus, sum, in, manus",13,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, 0.5, NaN, NaN, 0.0",0.038,0.0,,0.0
+plautus.mercator,455.0,"quis, aio, communis, ego, ille, sum, cum, ille, is, hic, nunc, non, adsum",13,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.077
+plautus.mercator,456.0,"prior, respondeo, quam, rogo, prior, tu, emo, quam, uendo, pater",10,"0.5, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, 0.0",0.1,0.0,"tu, emo, uendo",0.3
+plautus.mercator,457.0,"nescio, inquam, uolo, ille, ille, necne, abalieno",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,458.0,"quis, ille, quoidam, qui, mando, tu, si, emo, tum, uolo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, emo",0.2
+plautus.mercator,459.0,"si, ego, emo, ille, qui, mando, tum, ille, nolo, nihil, ago",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,emo,0.091
+plautus.mercator,460.0,"numquam, edepol, quisquam, ille, habeo, potis, quam, ille, qui, ego, uolo",11,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,edepol,0.091
+plautus.mercator,461.0,"certus, sum, censeo, -ne, certus, sum, quin, ad, nauo, iam, hinc, is",12,"0.5, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+plautus.mercator,462.0,"ibi, uenibit, uis, -ne, ego, cum, tu, ille, eo, nolo, non, placo",12,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.083,0.0,tu,0.083
+plautus.mercator,463.0,"bonus, sum, tu, qui, sum, mando, res, tu, prae-uerto",9,"1.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.111,0.0,"tu, tu",0.222
+plautus.mercator,464.0,"tu, prohibeo, at, ego, incuso, tu, facio, sedulus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.25
+plautus.mercator,465.0,"ad, portus, ne, bitas, dico, iam, tu, ausculto",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.mercator,466.0,"eo, ad, portus, ne, hic, rescisco, caueo, opus, sum, non, ipse, emo",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.042,0.0,"hic, emo",0.167
+plautus.mercator,467.0,"sed, lysimachos, amicus, mando, is, sui, ad, portus, dico",9,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.mercator,468.0,"eo, dudum, ego, moror, cum, hic, asto, nullus, sum, occido",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, occido",0.2
+plautus.mercator,469.0,"pentheum, diripio, aio, bacchas, nugae, magnus",6,"NaN, NaN, NaN, NaN, -1.0, 0.0",-0.167,-0.167,,0.0
+plautus.mercator,470.0,"sum, credo, praeut, quo, pacisco, ego, diuorto, distraho",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,471.0,"cur, ego, uiuo, cur, non, morior, quis, ego, sum, in, uito, bonus",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.083,0.0,,0.0
+plautus.mercator,472.0,"certus, sum, eo, ad, medicus, atque, ibi, ego, toxicon, mors, do",11,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.045,-0.091,,0.0
+plautus.mercator,473.0,"quando, is, ego, adimo, qui, causa, uita, cupio, uiuo",9,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,474.0,"mane, mane, obsecro, charine, quis, ego, reuoco, eutychus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,charine,0.125
+plautus.mercator,475.0,"tuus, amicus, et, sodalis, simul, uicinus, proximus",7,"0.0, 1.0, NaN, 1.0, NaN, 0.0, NaN",0.286,0.0,,0.0
+plautus.mercator,476.0,"non, tu, scio, quantus, malus, res, sustineo, scio",8,"NaN, NaN, NaN, NaN, -1.0, 0.0, NaN, NaN",-0.125,-0.125,tu,0.125
+plautus.mercator,477.0,"omnis, ego, iste, ausculto, ab, ostium, omnis, res, scio",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.mercator,478.0,"quis, is, sum, qui, scio, tuus, pater, uolo, uendo, omnis, res, teneo",12,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,uendo,0.083
+plautus.mercator,479.0,"tuus, amica, nimium, multus, scio, tuus, ingratia",7,"0.0, NaN, 0.0, 0.0, NaN, 0.0, -1.0",-0.143,-0.143,,0.0
+plautus.mercator,480.0,"multus, tu, scio, sed, qui, scio, sum, amica, ille, meus",10,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.1
+plautus.mercator,481.0,"tueor, heri, ipse, ego, narro, satis, ne, ut, obliuiscor, sum",10,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.mercator,482.0,"tu, ego, narro, hau, mirus, sum, facio, tu, nunc, consulo",10,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.1,0.0,"tu, tu",0.2
+plautus.mercator,483.0,"respondeo, quo, letum, censeo, ego, ut, pereo, potis",8,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, 0.0",-0.125,-0.125,,0.0
+plautus.mercator,484.0,"non, taceo, caueo, tu, iste, dixis, quis, uolo, ego, igitur, dico",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.091
+plautus.mercator,485.0,"uis, -ne, pater, sublino, pulcher, ego, os, tuus, sanus, uolo",10,"1.0, NaN, 0.0, NaN, 1.0, NaN, 0.0, 0.0, 1.0, NaN",0.3,0.0,,0.0
+plautus.mercator,486.0,"uolo, -ne, is, ad, portus, qui, potis, quam, uolo, atque, eximo",11,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,487.0,"mulier, pretium, qui, potis, quam, aurum, expendo, unde, sum",9,"0.0, 1.0, NaN, 0.0, NaN, 0.5, NaN, NaN, NaN",0.167,0.0,"mulier, pretium",0.222
+plautus.mercator,488.0,"achillem, oro, aurum, ut, ego, do, hector, qui, expendo, sum",10,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.mercator,489.0,"sanu, -ne, sum, pol, sanus, si, sum, non, tu, medicus, ego, expeto",12,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.083,0.0,"sanu, tu",0.167
+plautus.mercator,490.0,"tantus, quantus, posco, uis, -ne, tantus, ille, emo, auctarium",9,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.111,0.0,emo,0.111
+plautus.mercator,491.0,"adicio, uel, mille, nummus, multus, quam, posco, iam, taceo",9,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,nummus,0.111
+plautus.mercator,492.0,"sed, quis, aio, unde, sum, argentum, qui, do, cum, posco, pater",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,493.0,"inuenio, exquiro, aliquis, fio, eneco",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,494.0,"iam, iste, aliquis, fio, metuo, quin, taceo, muto, impero",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,495.0,"satis, ne, iste, mando, sum, potio, -ne, ut, alius, curo, non, possum",12,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.042,0.0,,0.0
+plautus.mercator,496.0,"bene, ual, non, edepol, possum, prior, quam, tu, ad, ego, redeo",11,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.045,0.0,"edepol, tu",0.182
+plautus.mercator,497.0,"bonus, sanus, sum, ual, uinco, et, ego, seruo, ego, facio",10,"1.0, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+plautus.mercator,498.0,"domus, maneo, ego, ergo, actus, fax, cum, praeda, recipio",9,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,fax,0.111
+plautus.mercator,499.0,"amicus, amicus, opera, do, uicinus, qui, rogo",7,"1.0, 1.0, -0.5, NaN, 0.0, NaN, NaN",0.214,-0.071,,0.0
+plautus.mercator,500.0,"hic, emo, mercimonium, meus, sum, tu, sequor, sanus",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 1.0",0.125,0.0,"hic, emo, tu",0.375
+plautus.mercator,501.0,"ne, ploro, nimis, stultus, facio, oculus, corrumpo, talis",8,"NaN, NaN, NaN, -1.0, NaN, 0.0, NaN, NaN",-0.125,-0.125,stultus,0.125
+plautus.mercator,502.0,"quin, tu, quidem, qui, rideo, magis, sum, quam, ut, lamento",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.mercator,503.0,"amo, ecastor, ego, senex, eloquor, exquiro, quiuis",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,ecastor,0.143
+plautus.mercator,504.0,"cur, emo, ego, teneo, ego, ut, qui, impero, facio",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,emo,0.111
+plautus.mercator,505.0,"item, qui, tu, ego, si, impero, ego, facio, facio, certus, sum",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.045,0.0,tu,0.091
+plautus.mercator,506.0,"pro, copia, et, sapientia, qui, tu, uolo, arbitror",8,"NaN, 0.5, NaN, 1.0, NaN, NaN, NaN, NaN",0.188,0.0,tu,0.125
+plautus.mercator,507.0,"laboriosus, nihil, tu, quisquam, opus, impero",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,"laboriosus, tu",0.333
+plautus.mercator,508.0,"namque, edepol, equidem, ego, senex, non, disco, baiolaris",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,edepol,0.125
+plautus.mercator,509.0,"neque, pecua, rus, pasco, neque, puer, nutricaris",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.mercator,510.0,"bonus, si, sum, uolo, bene, sum, tu, tum, pol, ego, pereo, misero",12,"1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.083,0.0,"tu, misero",0.167
+plautus.mercator,511.0,"qui, quia, illim, unde, huc, adueho, sum, malus, bene, sum, soleo, sum",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+plautus.mercator,512.0,"quasi, dico, nullus, mulier, bonus, sum, haud, equidem, dico",9,"NaN, NaN, NaN, 0.0, 1.0, NaN, NaN, NaN, NaN",0.111,0.0,mulier,0.111
+plautus.mercator,513.0,"neque, mos, meus, sum, ut, praedico, qui, ego, omnis, scio, credo",11,"NaN, 0.5, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.045,0.0,,0.0
+plautus.mercator,514.0,"oratio, edepol, multus, sum, hic, quam, quantus, hic, emo, sum",10,"-0.5, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.05,-0.05,"edepol, hic, hic, emo",0.4
+plautus.mercator,515.0,"rogo, hic, unus, tu, uolo, rogo, respondeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.286
+plautus.mercator,516.0,"quis, aio, tu, quis, nomen, tu, dico, sum, pasicompsae",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"tu, tu",0.222
+plautus.mercator,517.0,"ex, forma, nomen, indo, sum, sed, quis, aio, pasicompsa",9,"NaN, 1.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.mercator,518.0,"possi, -ne, tu, si, utor, uenio, subteme, -ne, tenue, no",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.mercator,519.0,"possum, si, tenue, scio, scio, tu, uber, possum, no",9,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.111,0.0,tu,0.111
+plautus.mercator,520.0,"de, lanificium, nemo, metuo, unus, aetas, qui, sum",8,"NaN, NaN, -0.5, NaN, NaN, 0.0, NaN, NaN",-0.062,-0.062,,0.0
+plautus.mercator,521.0,"bonus, hercules, tu, et, frugi, arbitror, maturo, iam, inde, aetas",10,"1.0, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, 0.0",0.2,0.0,"tu, frugi",0.2
+plautus.mercator,522.0,"cum, scio, facio, officium, tuus, mulier, pol, doceo, disco",9,"NaN, NaN, NaN, 0.5, 0.0, 0.0, NaN, NaN, NaN",0.056,0.0,mulier,0.111
+plautus.mercator,523.0,"opera, accusaris, non, sino, meus, em, iste, hercules, res, sum",10,"-0.5, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",-0.05,-0.05,,0.0
+plautus.mercator,524.0,"ouo, tu, ecce, do, nata, annus, sexa_ginta",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.143
+plautus.mercator,525.0,"peculiaris, ego, senex, tam, uetula, genus, graecus, sum",8,"0.0, NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,526.0,"is, si, curo, perbonus, sum, tondeo, nimium, scio",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.mercator,527.0,"honor, causa, quisquis, sum, qui, do, gratus, habeo",8,"1.0, 0.0, NaN, NaN, NaN, NaN, 1.0, NaN",0.25,0.0,,0.0
+plautus.mercator,528.0,"nunc, mulier, ne, tu, frustra, sum, meus, non, sum, ne, arbitror",11,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"mulier, tu",0.182
+plautus.mercator,529.0,"dico, igitur, quaeso, quoia, sum, tuus, sum, redempto, sum, rursum",10,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,530.0,"ego, tu, redemo, ille, cum, ego, oro, animus, redeo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.056,0.0,tu,0.111
+plautus.mercator,531.0,"si, cum, ego, seruo, fides, bonus, animus, sum, libero",9,"NaN, NaN, NaN, NaN, 1.0, 1.0, 0.5, NaN, NaN",0.278,0.0,,0.0
+plautus.mercator,532.0,"ille, tu, homo, ita, edepol, depereo, atque, hodie, primus, uideo",10,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.05,0.0,"tu, edepol",0.2
+plautus.mercator,533.0,"ecastor, iam, biennium, sum, cum, cum, ego, res, coe+pit",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,ecastor,0.111
+plautus.mercator,534.0,"nunc, quando, amicus, tu, scio, sum, ille, indico",8,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.125,0.0,tu,0.125
+plautus.mercator,535.0,"quis, aio, tu, iam, biennium, sum, cum, cum, tu, res, habeo, certus",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.5",0.042,0.0,"tu, tu",0.167
+plautus.mercator,536.0,"et, inter, nos, coniuro, ego, cum, ille, et, ille, cum, ego, ego, cum, uir, et, ille, cum, mulier, nisi, cum, ille, aut, ille, cum, ego",25,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.02,0.0,"coniuro, mulier",0.08
+plautus.mercator,537.0,"neuter, stuprum, causa, caput, limo, deus, immortalis",7,"NaN, -1.0, 0.0, 0.0, NaN, 0.0, 0.5",-0.071,-0.143,stuprum,0.143
+plautus.mercator,538.0,"etiam, cum, uxor, non, cubo, amo, an, maritus, sum",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"uxor, maritus",0.222
+plautus.mercator,539.0,"neque, sum, neque, sum, nolo, quidem, homo, hercules, periuro",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,540.0,"nullus, adulescens, multus, amo, puer, sum, ille, quidem, stultus",9,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, -1.0",-0.111,-0.111,"adulescens, stultus",0.222
+plautus.mercator,541.0,"nam, ille, quidem, hau, sanus, dius, sum, cum, dens, excido",10,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+plautus.mercator,542.0,"quis, dens, nihil, sum, sequor, sum, hic, ego, dies, unus, oro",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.091
+plautus.mercator,543.0,"ut, apud, ego, praehibeo, locus, ideo, quia, uxor, rus, sum",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,uxor,0.1
+plautus.mercator,544.0,"tandem, impetro, ut, nos, ego, corrumpo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,545.0,"emo, sum, amicus, clam, uxor, et, clam, filius",8,"NaN, NaN, 1.0, NaN, 0.0, NaN, NaN, 0.0",0.125,0.0,"emo, uxor",0.25
+plautus.mercator,546.0,"certus, sum, antiquus, recolo, et, seruibo, ego",7,"0.5, NaN, 0.0, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.mercator,547.0,"decurro, spatium, breuis, qui, uita, relicuom, sum",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,548.0,"uoluptas, uinum, et, amor, delecto",5,"1.0, NaN, NaN, 1.0, NaN",0.4,0.0,,0.0
+plautus.mercator,549.0,"nam, hic, sui, bene, habeo, aetas, nimius, sum, aequus",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.5",0.056,0.0,"hic, nimius",0.222
+plautus.mercator,550.0,"adulescens, cum, sum, tum, cum, sum, sanguis, integer",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,adulescens,0.125
+plautus.mercator,551.0,"res, tuus, quaero, conuenio, opera, do",6,"0.0, 0.0, NaN, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+plautus.mercator,552.0,"demum, igitur, cum, sum, iam, senex, tum, in, otium",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.5",0.056,0.0,otium,0.111
+plautus.mercator,553.0,"tu, con-loco, dum, possum, amo, is, iam, lucrum, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.056,0.0,tu,0.111
+plautus.mercator,554.0,"qui, uiuo, hic, ut, dico, facio, persequor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.mercator,555.0,"interea, tamen, huc, intro, ad, ego, inuideo, domus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,556.0,"uxor, ego, exspecto, iam, dudum, esurio, domus",7,"0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,uxor,0.143
+plautus.mercator,557.0,"iam, iurgium, enico, si, intro, redeo",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+plautus.mercator,558.0,"uerus, hercules, postremo, utut, sum, non, eo, tamen",8,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.mercator,559.0,"sed, hic, uicinus, prior, conuenio, quam, domus",7,"NaN, NaN, 0.0, 0.5, NaN, NaN, 0.0",0.071,0.0,hic,0.143
+plautus.mercator,560.0,"redeo, ut, ego, aedes, aliqui, conduco, uolo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,561.0,"ubi, habito, iste, mulier, atque, ecce, eo, foras",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,mulier,0.125
+plautus.mercator,562.0,"adduco, ego, ille, iam, ad, tu, si, conuenio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.mercator,563.0,"ego, dico, quis, aio, demipho, sum, mulier, domus",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,mulier,0.125
+plautus.mercator,564.0,"quis, censeo, quis, si, uideo, quis, propero, mane",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,565.0,"quis, facio, qui, opus, sum, facio, facio, ut, cogito",9,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.mercator,566.0,"quis, cogito, equidem, hercules, opus, hic, facio, existimo",8,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.062,0.0,hic,0.125
+plautus.mercator,567.0,"ut, ille, intro, is, ita, -ne, uerus, ueruex, intro, is",10,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.mercator,568.0,"quis, alius, facio, prior, hic, ausculto, atque, adsum",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,hic,0.125
+plautus.mercator,569.0,"prior, etiam, sum, qui, tu, facio, ego, aequus, censeo",9,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.111,0.0,tu,0.111
+plautus.mercator,570.0,"nam, nunc, si, illic, intro, eo, amplector, uolo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,571.0,"confabularis, atque, osculor, tu, quidem",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+plautus.mercator,572.0,"meus, animus, gero, scio, quis, ago, sum",7,"0.0, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.mercator,573.0,"per-uerto, facies, qui, -ne, amo, tantus, paruus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,574.0,"ieiunitas, plenus, anima, foetida",4,"NaN, 0.0, 0.5, NaN",0.125,0.0,,0.0
+plautus.mercator,575.0,"senex, hircosus, tu, osculo, mulier",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, mulier",0.4
+plautus.mercator,576.0,"uti, -ne, aduenio, uomo, excutio, mulier",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,mulier,0.167
+plautus.mercator,577.0,"scio, pol, tu, amo, cum, iste, praemonstro, ego",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.mercator,578.0,"quis, si, igitur, unus, facio, hic, si, censeo, coquus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.111
+plautus.mercator,579.0,"aliquis, arripio, prandium, qui, percoquo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,580.0,"apud, tu, hic, usque, ad, uesperus, em, iste, censeo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, hic",0.222
+plautus.mercator,581.0,"nunc, tu, sapienter, loquor, atque, amatorius",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.mercator,582.0,"quis, sto, quin, ergo, imus, atque, obsonium",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,583.0,"curo, pulcher, ut, sum, equidem, tu, sequor",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,tu,0.143
+plautus.mercator,584.0,"atque, hercules, inuenio, tu, locus, ille, si, sapio",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.125
+plautus.mercator,585.0,"nullus, hercules, praeter, hic, dies, ille, apud, ego, sum",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.111
+plautus.mercator,586.0,"metuo, ego, uxor, creo, si, rus, redeo",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,uxor,0.143
+plautus.mercator,587.0,"ne, ille, hic, offendo, res, paro, sum, sequor, ego",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.111
+plautus.mercator,588.0,"sum, -ne, ego, homo, miser, qui, nusquam, bene, queo, quiesco",10,"NaN, NaN, NaN, 0.0, -1.0, NaN, NaN, NaN, NaN, NaN",-0.1,-0.1,miser,0.1
+plautus.mercator,589.0,"si, domus, sum, foris, sum, animus, sin, foris, sum, animus, domus, sum",12,"NaN, 0.0, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, 0.5, 0.0, NaN",0.083,0.0,,0.0
+plautus.mercator,590.0,"ita, ego, in, pectus, atque, in, cor, facio, amor, incendium",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.1,0.0,,0.0
+plautus.mercator,591.0,"ni, ex, oculus, lacrima, defendo, iam, ardeo, credo, caput",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,592.0,"spes, teneo, salus, amitto, redeo, an, non, nescio",8,"0.5, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.188,0.0,,0.0
+plautus.mercator,593.0,"si, opprimo, pater, qui, dico, exsulo, abeo, salus",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,,0.0
+plautus.mercator,594.0,"sin, sodalis, qui, promitto, facio, non, abeo, salus",8,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, 1.0",0.25,0.0,,0.0
+plautus.mercator,595.0,"sed, tamen, do, si, podagrosus, pes, sum, eutychus",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,596.0,"iam, ab, portus, redeo, possum, is, ille, uitium, magnus, sum",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, 0.0, NaN",-0.1,-0.1,,0.0
+plautus.mercator,597.0,"qui, nimis, tardus, sum, ad-uerto, meus, animus, sententia",8,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.5, 0.0",0.062,0.0,,0.0
+plautus.mercator,598.0,"sed, in, sum, qui, curro, uideo, ipse, sum, eo, obuius",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.05,-0.05,,0.0
+plautus.mercator,599.0,"nunc, qui, resto, is, dispereo, uultus, neutiquam, hic, placeo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.mercator,600.0,"tristis, incedo, pectus, ardeo, haereo, quasso, caput",7,"-1.0, NaN, NaN, NaN, NaN, NaN, 0.0",-0.143,-0.143,,0.0
+plautus.mercator,601.0,"eutychus, eu, charine, prior, quam, recipio, anhelitus",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,charine,0.143
+plautus.mercator,602.0,"unus, uerbum, eloquor, ubi, ego, sum, hic, an, apud, mortuus",10,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.1
+plautus.mercator,603.0,"neque, apud, mortuus, neque, hic, sum, saluus, sum, immortalitas",9,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, 0.5",0.167,0.0,hic,0.111
+plautus.mercator,604.0,"ego, do, sum, hic, emo, ille, pulcher, os, sublino, pater",10,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, 0.0, NaN, 0.0",0.1,0.0,"hic, emo",0.2
+plautus.mercator,605.0,"impetrabilis, qui, uiuo, nullus, sum, dico, obsecro",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,606.0,"si, neque, hic, neque, acherunti, sum, ubi, sum, nusquam, gens",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.1
+plautus.mercator,607.0,"dispereo, illic, interimo, ego, modo, oratio",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+plautus.mercator,608.0,"odiosus, sum, oratio, cum, res, ago, longinquus, loquor",8,"NaN, NaN, -0.5, NaN, 0.0, NaN, NaN, NaN",-0.062,-0.062,,0.0
+plautus.mercator,609.0,"quisquis, sum, ad, caput, res, peruenio, primus, omnis",8,"NaN, NaN, NaN, 0.0, 0.0, NaN, 0.5, NaN",0.062,0.0,,0.0
+plautus.mercator,610.0,"pereo, quin, tu, ille, potis, nuntio, qui, nescio",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.125
+plautus.mercator,611.0,"mulier, alieno, sum, abs, tu, eutychus, capital, facio",8,"0.0, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,"mulier, tu",0.25
+plautus.mercator,612.0,"qui, quia, aequalis, et, sodalis, liber, ciuis, eneco",8,"NaN, NaN, 0.5, NaN, 1.0, 0.5, 0.5, NaN",0.312,0.0,,0.0
+plautus.mercator,613.0,"ne, deus, sierint, demitto, gladius, in, iugulum, iam, cado",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,614.0,"quaeso, hercules, animus, ne, despondeo, nullus, sum, qui, despondeo",9,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.mercator,615.0,"loquor, porro, alius, malus, res, qui, sum, emo, nescio",9,"NaN, NaN, NaN, -1.0, 0.0, NaN, NaN, NaN, NaN",-0.111,-0.111,emo,0.111
+plautus.mercator,616.0,"iam, addico, atque, abduco, sum, cum, ad, portus, uenio, uae, ego",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,addico,0.091
+plautus.mercator,617.0,"mons, tu, quidem, malus, in, ego, ardeo, iam, dudum, iacio",10,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.1,-0.1,tu,0.1
+plautus.mercator,618.0,"pergo, excrucio, carnufex, quandoquidem, occipio, semel",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"excrucio, carnufex",0.333
+plautus.mercator,619.0,"non, tu, iste, magis, diuidia, sum, quam, ego, hodie, sum",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.mercator,620.0,"dico, quis, emo, nescio, hercules, em, istucine, sum, opera, do",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.05,-0.05,emo,0.1
+plautus.mercator,621.0,"bonus, sodalis, quis, ego, facio, uolo, idem, qui, ego, uideo",10,"1.0, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+plautus.mercator,622.0,"ut, pereo, quin, homo, qui, facies, sum",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.mercator,623.0,"qui, ille, emo, is, si, pacisco, possum, indago",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,emo,0.125
+plautus.mercator,624.0,"mulier, heu, ego, miser, fleo, omitto, iste, qui, nunc, ago",10,"0.0, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.1,-0.1,"mulier, heu, miser",0.3
+plautus.mercator,625.0,"quis, ego, facio, perdo, ego, et, fides, cum, ego, tuus",10,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, 0.0",0.1,0.0,,0.0
+plautus.mercator,626.0,"deus, scio, culpa, meus, iste, non, sum, ullus, eugepae",9,"0.0, NaN, -1.0, 0.0, NaN, NaN, NaN, NaN, NaN",-0.111,-0.111,culpa,0.111
+plautus.mercator,627.0,"deus, absum, testis, memoro, qui, ego, iste, credo, tu",9,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.111
+plautus.mercator,628.0,"quia, tu, in, manus, sum, qui, credo, ego, qui, dico, is, ego, in, manus, sum",15,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.067
+plautus.mercator,629.0,"de, istac, res, arguo, sum, ut, par, par, respondeo",9,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.5, 0.5, NaN",0.111,0.0,,0.0
+plautus.mercator,630.0,"ad, mandatum, claudus, caecus, mutus, mancus, debilis",7,"NaN, NaN, -0.5, -1.0, NaN, NaN, -1.0",-0.357,-0.357,,0.0
+plautus.mercator,631.0,"promitto, tu, os, sublino, meus, pater, nos, credo",8,"NaN, NaN, 0.0, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,tu,0.125
+plautus.mercator,632.0,"homo, doceo, res, mando, is, lapis, mando, maximus",8,"0.0, NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,633.0,"quis, ego, facio, quis, tu, facio, ego, -ne, rogo, requiro",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.mercator,634.0,"rogitaris, quis, sum, aut, unde, sum, qui, prosapia",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,635.0,"ciuis, -ne, sum, an, peregrinus, ciuis, sum, aio, atticus",9,"0.5, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.mercator,636.0,"ubi, habito, inuenio, saltem, si, nomen, nequeo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.mercator,637.0,"nemo, aio, scio, at, saltem, homo, facies, exquiro",8,"-0.5, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",-0.062,-0.062,,0.0
+plautus.mercator,638.0,"facio, qui, forma, sum, aio, igitur, ego, dico, tu",9,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,tu,0.111
+plautus.mercator,639.0,"canis, uaris, uentriosus, bucculentus, breuiculis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,640.0,"subniger, oculus, oblongus, malus, pansam, aliquantulis",6,"NaN, 0.0, NaN, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+plautus.mercator,641.0,"non, homo, ego, sed, thesaurus, nescio, qui, memoro, malus",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.111,-0.111,,0.0
+plautus.mercator,642.0,"numquid, sum, qui, dico, alius, de, ille, tantus, qui, scio",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,643.0,"edepol, ne, ille, oblongus, malus, ego, do, magnus, malus",9,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, 0.0, -1.0",-0.222,-0.222,edepol,0.111
+plautus.mercator,644.0,"non, possum, duraris, certus, sum, exsulatus, hinc, eo, ego",9,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.mercator,645.0,"sed, quam, capio, ciuitas, cogo, potis",6,"NaN, NaN, NaN, 0.5, NaN, 0.0",0.083,0.0,,0.0
+plautus.mercator,646.0,"megaris, eretriam, corinthus, chalcis, cerno, cyprus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,647.0,"sicyonem, cnidum, zacynthum, lesbiam, boeotiam",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,648.0,"cur, iste, coepio, consilium, quia, enim, ego, afflicto, amor",9,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+plautus.mercator,649.0,"quis, tu, aio, quis, cum, illic, quo, nunc, eo, pareo, uenio",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.091
+plautus.mercator,650.0,"si, ibi, amo, fors, occipio, atque, item, is, sum, inopia",10,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, -1.0",-0.1,-0.1,,0.0
+plautus.mercator,651.0,"iam, inde, porro, aufugio, deinde, item, illinc, si, item, euenio",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,652.0,"quis, modus, tu, exsilium, tandem, euenio, qui, finis, fuga",9,"NaN, 0.5, NaN, -1.0, NaN, NaN, NaN, 0.0, -0.5",-0.111,-0.167,tu,0.111
+plautus.mercator,653.0,"qui, patria, aut, domus, tu, stabilis, sum, possum, dico, ego",10,"NaN, NaN, NaN, 0.0, NaN, 0.5, NaN, NaN, NaN, NaN",0.05,0.0,tu,0.1
+plautus.mercator,654.0,"cedo, si, hic, urbs, abeo, amor, tu, hic, relinquo, puto",10,"NaN, NaN, NaN, 0.5, NaN, 1.0, NaN, NaN, NaN, NaN",0.15,0.0,"hic, tu, hic",0.3
+plautus.mercator,655.0,"si, is, sum, ita, satis, animus, accipio, sum, certus, is, pro, certus, si, habeo",14,"NaN, NaN, NaN, NaN, 0.5, 0.5, NaN, NaN, 0.5, NaN, NaN, 0.5, NaN, NaN",0.143,0.0,,0.0
+plautus.mercator,656.0,"quantus, tu, sero, sum, rus, aliquis, abeo, ibi, sum, ibi, uiuo",11,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.091
+plautus.mercator,657.0,"adeo, dum, ille, tu, cupiditas, atque, amor, mitto, facio",9,"NaN, NaN, NaN, NaN, -0.5, NaN, 1.0, NaN, NaN",0.056,-0.056,tu,0.111
+plautus.mercator,658.0,"iam, dico, dico, frustra, dixti, hic, ego, certissumum, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.mercator,659.0,"is, domus, pater, atque, mater, ut, meus, salus, postea",9,"NaN, 0.0, 0.0, NaN, 0.0, NaN, 0.0, 1.0, NaN",0.111,0.0,,0.0
+plautus.mercator,660.0,"clam, pater, patria, hic, effugio, aut, aliquis, capio, consilium",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.056,0.0,hic,0.111
+plautus.mercator,661.0,"ut, corripio, sui, repens, atque, abeo, heu, mitto, ego",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,heu,0.111
+plautus.mercator,662.0,"si, ille, abeo, meus, facio, omnis, dico, sum, ignauia",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.111,-0.111,ignauia,0.111
+plautus.mercator,663.0,"certus, sum, praeco, iubeo, iam, quantus, sum, conduco",8,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.mercator,664.0,"qui, ille, inuestigo, qui, inuenio, post, ad, praetor, ilico",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.056,0.0,,0.0
+plautus.mercator,665.0,"eo, oro, ut, conquaestor, do, ego, in, uicus, omnis",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,666.0,"nam, ego, nihil, relinquo, quisquam, alius, iam, sum, intellego",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,667.0,"quoniam, ab, uir, ad, ego, rus, aduenio, nuntius",8,"NaN, NaN, 0.5, NaN, NaN, 0.0, NaN, NaN",0.062,0.0,,0.0
+plautus.mercator,668.0,"rus, non, eo, facio, ego, ingenium, meus",7,"0.0, NaN, NaN, NaN, NaN, 0.5, 0.0",0.071,0.0,,0.0
+plautus.mercator,669.0,"reuenio, ut, ille, persequor, qui, ego, fugio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,670.0,"sed, anus, non, uideo, consequor, noster, syram",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,671.0,"atque, ecce, incedo, tandem, quin, is, ocior",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,672.0,"nequeo, mecastor, tantus, hic, onus, sum, qui, fero",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.mercator,673.0,"quis, onus, annus, octoginta, et, quattuor",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,674.0,"et, idem, accedo, seruio, sudor, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,675.0,"simul, hic, qui, porto, deprimo, aliquis, cedo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.mercator,676.0,"qui, hic, uicinus, noster, ara, augeo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.167
+plautus.mercator,677.0,"do, sanus, hic, uirga, laurus, abeo, tu, intro, is",9,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,"hic, tu",0.222
+plautus.mercator,678.0,"apollo, quaeso, tu, ut, do, pax, propitius",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 1.0",0.214,0.0,tu,0.143
+plautus.mercator,679.0,"salus, et, sanitas, noster, familia",5,"1.0, NaN, 1.0, NaN, 0.5",0.5,0.0,,0.0
+plautus.mercator,680.0,"meo, ut, parco, nascor, pax, propitius",6,"NaN, NaN, NaN, NaN, 0.5, 1.0",0.25,0.0,,0.0
+plautus.mercator,681.0,"dispereo, pereo, misero, uae, miser, ego",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,"misero, miser",0.333
+plautus.mercator,682.0,"satis, ne, tu, sano, sum, obsecro, quis, eiulo",8,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,tu,0.125
+plautus.mercator,683.0,"dorippa, meus, dorippa, quis, clamo, obsecro",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,684.0,"nescio, qui, sum, mulier, intus, hic, in, aedes",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,"mulier, hic",0.25
+plautus.mercator,685.0,"quis, mulier, mulier, meretrix, uerus, -ne, serius",7,"NaN, 0.0, 0.0, NaN, 0.5, NaN, 0.0",0.071,0.0,"mulier, mulier, meretrix",0.429
+plautus.mercator,686.0,"nimium, scio, sapio, rus, qui, non, maneo",7,"0.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,687.0,"quiuis, insipiens, possum, persentisco",4,"NaN, -1.0, NaN, NaN",-0.25,-0.25,insipiens,0.25
+plautus.mercator,688.0,"ille, sum, amica, tuus, uir, bellus",6,"NaN, NaN, NaN, 0.0, 0.5, 1.0",0.25,0.0,,0.0
+plautus.mercator,689.0,"credo, mecastor, is, hic, cum, ego, ut, uideo, semul",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.mercator,690.0,"tuus, alcumenam, paelicem, iuno, meus",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,alcumenam,0.2
+plautus.mercator,691.0,"ecastor, uerus, iste, is, quantus, possum",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,ecastor,0.167
+plautus.mercator,692.0,"parum, -ne, sum, mala, res, qui, amo, demipho",8,"0.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,693.0,"ni, sumptuosus, insuper, etiam, sum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,sumptuosus,0.2
+plautus.mercator,694.0,"decem, si, uoco, summus, ad, cena, uir",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+plautus.mercator,695.0,"nimium, obsono, sed, coquus, quasi, in, mare",7,"0.0, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,696.0,"soleo, hortator, remex, horto",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,697.0,"ita, hortor, nos, conduco, coquus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,698.0,"sed, is, demiror, non, uenio, ut, iubeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,699.0,"sed, quisnam, hinc, ab, nos, exeo, aperio, foris",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,700.0,"miser, mulier, ego, neque, fio, neque, sum",7,"-1.0, 0.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,"miser, mulier",0.286
+plautus.mercator,701.0,"talis, uir, qui, nubo, heu, miser, ego",7,"NaN, 0.5, NaN, NaN, NaN, -1.0, NaN",-0.071,-0.143,"nubo, heu, miser",0.429
+plautus.mercator,702.0,"em, qui, tu, et, tuus, qui, tu, habeo, commendo, uir",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.5",0.05,0.0,"tu, tu",0.2
+plautus.mercator,703.0,"em, qui, decem, talentum, dos, defero",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,704.0,"hic, ut, uideo, ut, fero, hic, contumelia",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,"hic, hic, contumelia",0.429
+plautus.mercator,705.0,"pereo, hercules, rus, iam, redeo, uxor, meus",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,uxor,0.143
+plautus.mercator,706.0,"uideo, credo, mulier, in, aedes",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,mulier,0.2
+plautus.mercator,707.0,"sed, qui, loquor, exaudio, hinc, non, queo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,708.0,"accedo, propius, uae, miser, ego, immo, ego",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,miser,0.143
+plautus.mercator,709.0,"dispereo, equidem, hercules, oppidum, pereo, miser",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,miser,0.167
+plautus.mercator,710.0,"uideo, ut, tu, omnis, demipho, deus, per-do",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.143
+plautus.mercator,711.0,"pol, hic, sum, eo, qui, rus, meus, uir, nolo",9,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, 0.5, NaN",0.056,0.0,hic,0.111
+plautus.mercator,712.0,"quis, nunc, ego, facio, nisi, uti, adeo, atque, alloquor",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,713.0,"iubeo, saluo, suus, uir, uxor, suus",6,"NaN, NaN, NaN, 0.5, 0.0, NaN",0.083,0.0,uxor,0.167
+plautus.mercator,714.0,"urbanus, fio, rusticus, pudicus",4,"0.5, NaN, -0.5, 0.5",0.125,-0.125,pudicus,0.25
+plautus.mercator,715.0,"facio, quam, ille, qui, non, fio, rusticus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,,0.0
+plautus.mercator,716.0,"num, quis, delinquo, rusticus, ecastor, paruus",6,"NaN, NaN, NaN, -0.5, NaN, 0.0",-0.083,-0.083,ecastor,0.167
+plautus.mercator,717.0,"quam, urbanus, et, multus, paruus, malus, quaero, sui",8,"NaN, 0.5, NaN, 0.0, 0.0, -1.0, NaN, NaN",-0.062,-0.125,,0.0
+plautus.mercator,718.0,"quis, autem, urbanus, delinquo, dico, ego",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+plautus.mercator,719.0,"cupio, hercules, scio, sed, tu, ego, tento, scio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.mercator,720.0,"quoia, ille, mulier, intus, sum, uideo, -ne, is",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,mulier,0.125
+plautus.mercator,721.0,"uideo, quoia, is, sum, rogito, rescisco, tamen",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,722.0,"uis, -ne, dico, quoia, sum, illailla, edepoluae, ego",8,"1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+plautus.mercator,723.0,"nescio, quis, dico, haereo, haud, uideo, magis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,724.0,"quin, dico, quin, si, licet, dico, oportet",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,725.0,"non, possum, ita, insto, urgeo, quasi, pro, noxius",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,noxius,0.125
+plautus.mercator,726.0,"scio, audacter, quam, uolo, dico",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,audacter,0.2
+plautus.mercator,727.0,"dico, igitur, dico, at, qui, dico, sum, tamen",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,728.0,"illastetiam, uolo, nomen, dico, nihil, ago",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,729.0,"manifestus, teneo, in, noxius, qui, noxius",6,"-0.5, NaN, NaN, 0.5, NaN, 0.5",0.083,-0.083,"noxius, noxius",0.333
+plautus.mercator,730.0,"iste, quidem, ille, sum, qui, ille, sum, ille, iohia",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,731.0,"iamsi, nihil, utor, sum, iam, non, dico",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,732.0,"non, tu, scio, qui, sum, ille, immo, iam, scio",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.mercator,736.0,"de, istac, sum, iudex, capio, iudex, iam, scio",8,"NaN, NaN, NaN, 0.5, NaN, 0.5, NaN, NaN",0.125,0.0,,0.0
+plautus.mercator,737.0,"nunc, tu, in, consilium, iste, aduoco, tu",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,"tu, tu",0.286
+plautus.mercator,738.0,"immo, sic, sequestro, ego, do, sum, intellego",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,739.0,"nihil, hercules, iste, quisquam, sum, numerus, purigas",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,740.0,"nimium, negotium, reperio, enim, uerus, haereo",6,"0.0, -0.5, NaN, NaN, 0.5, NaN",0.0,-0.083,,0.0
+plautus.mercator,741.0,"ago, eo, actus, nam, ego, amator, senex",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,amator,0.143
+plautus.mercator,742.0,"coquo, sum, cena, atque, cum, recogito",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,743.0,"nos, coquo, sum, non, qui, conduco, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,744.0,"nam, qui, amo, qui, amo, si, habeo, is, habeo, pro, cibus",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,745.0,"uideo, amplector, osculor, alloquor",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,746.0,"sed, nos, confido, onustus, redeo, domus",6,"NaN, NaN, NaN, -0.5, NaN, 0.0",-0.083,-0.083,,0.0
+plautus.mercator,747.0,"eo, hic, sed, ecce, qui, nos, conduco, senex",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.125
+plautus.mercator,748.0,"ecce, autem, pereo, coquus, adsum, aduenio",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,749.0,"abeo, quis, abeo, st, abeo, abeo, abeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,750.0,"non, sum, ceno, iam, satur, sum",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+plautus.mercator,751.0,"sed, intereo, quis, aio, tu, etiam, -ne, hic, ille, tu",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, hic, tu",0.3
+plautus.mercator,752.0,"iubeo, fero, qui, inter, iudex",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+plautus.mercator,753.0,"haeci, -ne, tuus, sum, amicus, quam, dudum, ego",8,"NaN, NaN, 0.0, NaN, 1.0, NaN, NaN, NaN",0.125,0.0,,0.0
+plautus.mercator,754.0,"tu, amo, dixti, cum, obsono, non, taceo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.mercator,755.0,"satis, scio, filis, mulier, uerus, hercules, a-no",7,"0.5, NaN, NaN, 0.0, 0.5, NaN, NaN",0.143,0.0,mulier,0.143
+plautus.mercator,756.0,"abeo, -ne, dierectus, haud, malus, sum, at, tu",8,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.125,-0.125,tu,0.125
+plautus.mercator,757.0,"scio, hercules, opinor, concubina, hic, non, abeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"concubina, hic",0.286
+plautus.mercator,758.0,"non, ego, sum, qui, tu, dudum, conduco, quis, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.mercator,759.0,"immo, hercules, tu, istic, ipse, uae, mitto, ego",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.mercator,760.0,"nempe, uxor, rus, sum, tuus, quam, dudum, dico",8,"NaN, 0.0, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,uxor,0.125
+plautus.mercator,761.0,"tu, odi, aequus, atque, anguis, ego, -ne, iste, dico, tu",10,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.05,0.0,"tu, tu",0.2
+plautus.mercator,762.0,"ego, quidem, hercules, ita, ego, amo, iuppiter",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,763.0,"uxor, ut, ego, ille, numquam, dico, etiam, nego",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,uxor,0.125
+plautus.mercator,764.0,"palam, iste, fio, tu, ego, odi, quin, nego",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.mercator,765.0,"non, non, tu, odi, aio, sed, uxor, suus",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"tu, uxor",0.25
+plautus.mercator,766.0,"et, uxor, suus, rus, sum, aio, hic, is, sum",9,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"uxor, hic",0.222
+plautus.mercator,767.0,"quis, ego, quia, nosco, ego, nego",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,768.0,"nisi, metuo, tu, iste, sapio, nam, ego, unicus, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.mercator,769.0,"uis, -ne, ego, experior, nolo, merces, cedo",7,"1.0, NaN, NaN, NaN, NaN, 1.0, NaN",0.286,0.0,,0.0
+plautus.mercator,770.0,"creo, peto, do, nunc, abeo, heu, miser, ego",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,"heu, miser",0.25
+plautus.mercator,771.0,"nunc, ego, uerus, ille, uerbum, sum, experior, uetus",8,"NaN, NaN, 0.5, NaN, 0.0, NaN, NaN, 0.0",0.062,0.0,,0.0
+plautus.mercator,772.0,"aliquis, malus, sum, propter, uicinus, malus",6,"NaN, -1.0, NaN, NaN, 0.0, -1.0",-0.333,-0.333,,0.0
+plautus.mercator,773.0,"cur, hic, asto, quin, abeo, incommodus",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,hic,0.167
+plautus.mercator,774.0,"si, quis, tu, euenio, is, non, sum, culpa, meus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, 0.0",-0.111,-0.111,"tu, culpa",0.222
+plautus.mercator,775.0,"quin, ego, eradico, miser, scio, iam, quis, uelis",8,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.125,-0.125,miser,0.125
+plautus.mercator,776.0,"nempe, ego, hinc, abeo, uolo, uolo, inquam, abeo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,777.0,"drachmam, do, do, do, ergo, sum, iubeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,778.0,"do, possum, interea, dum, ille, pono, quin, abeo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,779.0,"potio, -ne, ut, molestus, ne, sum, ago, appono",8,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.125,-0.125,,0.0
+plautus.mercator,780.0,"obsonium, iste, ante, pes, ille, senex",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,781.0,"hic, uasum, aut, mox, aut, creo, iubeo, abs, tu, peto",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.2
+plautus.mercator,782.0,"sequor, fortasse, tu, ille, miror, coquus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.167
+plautus.mercator,783.0,"qui, uenio, atque, hic, affero, dico, quis, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.mercator,784.0,"non, miro, si, quis, damnum, facio, aut, flagitium",8,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, -1.0",-0.25,-0.25,flagitium,0.125
+plautus.mercator,785.0,"neque, pol, ego, patior, sic, ego, nupta, tam, malus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.111,-0.111,nupta,0.111
+plautus.mercator,786.0,"meo, in, aedes, sic, scortum, obducto",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,scortum,0.167
+plautus.mercator,787.0,"syron, eo, rogo, meus, pater, uerbum, meus",7,"NaN, NaN, NaN, 0.0, 0.0, 0.0, 0.0",0.0,0.0,,0.0
+plautus.mercator,788.0,"ut, uenio, ad, ego, iam, simul, cum, tu, is",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.mercator,789.0,"nescio, negotium, quis, sum, uxor, obsecro",6,"NaN, -0.5, NaN, NaN, 0.0, NaN",-0.083,-0.083,uxor,0.167
+plautus.mercator,790.0,"concipio, uerbum, iam, iusiurandum, do",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,791.0,"ego, numquam, quisquam, cum, illaiamne, abeo, syron",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,792.0,"pereo, hercules, ecce, autem, hic, abeo, uae, mitto, ego",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.mercator,793.0,"at, tu, uicinus, deus, deferuesco, per-do",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,tu,0.167
+plautus.mercator,794.0,"cum, tuus, amicus, cum, amatio",5,"NaN, 0.0, 1.0, NaN, NaN",0.2,0.0,amatio,0.2
+plautus.mercator,795.0,"suspicio, -ne, impleo, ego, indignus",5,"-0.5, NaN, NaN, NaN, -1.0",-0.3,-0.3,,0.0
+plautus.mercator,796.0,"concieo, hostis, domus, uxor, acerruma, sum",6,"NaN, -1.0, 0.0, 0.0, NaN, NaN",-0.167,-0.167,uxor,0.167
+plautus.mercator,797.0,"eo, ad, forum, atque, hic, demiphoni, eloquor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.mercator,798.0,"ego, iste, capillus, protraho, sum, in, uia",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,capillus,0.143
+plautus.mercator,799.0,"nisi, hinc, abduco, quo, uolo, ex, hic, aedes",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.125
+plautus.mercator,800.0,"uxor, heus, uxor, quamquam, tu, irascor, sum, ego",8,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"uxor, uxor, tu",0.375
+plautus.mercator,801.0,"iubeo, si, sapio, hic, intro, auferrier",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+plautus.mercator,802.0,"idem, liceo, mox, ceno, rectus",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+plautus.mercator,803.0,"era, quo, ego, mitto, ad, pater, non, sum, domus",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,804.0,"rus, abeo, aio, nunc, domus, renuntio",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.mercator,805.0,"defatiscor, sum, urbs, totus, peruenor",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+plautus.mercator,806.0,"nihil, inuestigo, quisquam, de, ille, mulier",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,mulier,0.167
+plautus.mercator,807.0,"sed, mater, rus, redeo, nam, uideo, syram",7,"NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,808.0,"astaris, ante, aedes, syron, quis, sum, qui, ego, uoco",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,809.0,"erus, atque, alumnus, tuus, sum, saluus, alumnus, ego",8,"0.0, NaN, NaN, 0.0, NaN, 1.0, NaN, NaN",0.125,0.0,erus,0.125
+plautus.mercator,810.0,"iam, mater, rus, redeo, respondeo, ego",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,811.0,"suus, quidem, salus, atque, familia, magnus",6,"NaN, NaN, 1.0, NaN, 0.5, 0.0",0.25,0.0,,0.0
+plautus.mercator,812.0,"quis, iste, negotium, sum, tuus, pater, bellus",7,"NaN, NaN, -0.5, NaN, 0.0, 0.0, 1.0",0.071,-0.071,,0.0
+plautus.mercator,813.0,"amica, adduco, intro, in, aedes, quo, modo",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,814.0,"aduenio, mater, rus, is, offendo, domus",6,"NaN, 0.0, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,815.0,"pol, haud, censeo, istaris, sum, operaris, pater",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,816.0,"etiam, nunc, mulier, intus, sum, etiam, sequor, ego",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,mulier,0.125
+plautus.mercator,817.0,"ecastor, lex, durus, uiuo, mulier",5,"NaN, 0.5, -0.5, NaN, 0.0",0.0,-0.1,"ecastor, mulier",0.4
+plautus.mercator,818.0,"multus, iniquus, miser, quam, uir",5,"0.0, -1.0, -1.0, NaN, 0.5",-0.3,-0.4,"iniquus, miser",0.4
+plautus.mercator,819.0,"nam, si, uir, scortum, duco, clam, uxor, suus",8,"NaN, NaN, 0.5, NaN, NaN, NaN, 0.0, NaN",0.062,0.0,"scortum, uxor",0.25
+plautus.mercator,820.0,"is, si, re-scio, uxor, impunis, sum, uir",7,"NaN, NaN, NaN, 0.0, -0.5, NaN, 0.5",0.0,-0.071,"uxor, impunis",0.286
+plautus.mercator,821.0,"uxor, uir, si, clam, domus, egredior, sum, foras",8,"0.0, 0.5, NaN, NaN, 0.0, NaN, NaN, NaN",0.062,0.0,uxor,0.125
+plautus.mercator,822.0,"uir, fio, causa, exigo, matrimonium",5,"0.5, NaN, 0.0, NaN, NaN",0.1,0.0,matrimonium,0.2
+plautus.mercator,823.0,"utinam, lex, sum, idem, qui, uxor, sum, uir",8,"NaN, 0.5, NaN, NaN, NaN, 0.0, NaN, 0.5",0.125,0.0,uxor,0.125
+plautus.mercator,824.0,"nam, uxor, contineo, sum, qui, bonus, sum, unus, uir",9,"NaN, 0.0, NaN, NaN, NaN, 1.0, NaN, NaN, 0.5",0.167,0.0,uxor,0.111
+plautus.mercator,825.0,"qui, paruus, uir, unus, uxor, contineo, sum",7,"NaN, 0.0, 0.5, NaN, 0.0, NaN, NaN",0.071,0.0,uxor,0.143
+plautus.mercator,826.0,"ecastor, facio, si, itidem, plecto, uir",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,ecastor,0.167
+plautus.mercator,827.0,"si, quis, clam, uxor, duco, scortum, suus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"uxor, scortum",0.286
+plautus.mercator,828.0,"ut, ille, exigo, qui, in, sui, culpa, commereo",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,culpa,0.125
+plautus.mercator,829.0,"multus, uir, sum, uiduus, quam, nunc, mulier",7,"0.0, 0.5, NaN, NaN, NaN, NaN, 0.0",0.071,0.0,mulier,0.143
+plautus.mercator,830.0,"limen, superi, inferus, saluus, simul, autem, ual",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+plautus.mercator,831.0,"hic, hodie, posterus, extollo, meus, domus, patria, pedis",8,"NaN, NaN, 0.0, NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,hic,0.125
+plautus.mercator,832.0,"utor, fructus, uinco, cultus, iam, ego, harunc, aedes",8,"NaN, 0.5, NaN, -0.5, NaN, NaN, NaN, 0.0",0.0,-0.062,,0.0
+plautus.mercator,833.0,"interimo, sum, interficio, sum, alieno, sum, occido",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"interficio, occido",0.286
+plautus.mercator,834.0,"deus, penates, meus, parens, familia, lar, pater",7,"0.0, NaN, 0.0, 0.5, 0.5, NaN, 0.0",0.143,0.0,,0.0
+plautus.mercator,835.0,"tu, mando, meus, parens, res, bene, ut, tuto",8,"NaN, NaN, 0.0, 0.5, 0.0, NaN, NaN, NaN",0.062,0.0,tu,0.125
+plautus.mercator,836.0,"ego, ego, alius, deus, penates, persequor, alius, lar",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,837.0,"alius, urbs, alius, ciuitas, ab, atticis, abhorreo",7,"NaN, 0.5, NaN, 0.5, NaN, NaN, NaN",0.143,0.0,,0.0
+plautus.mercator,838.0,"nam, ubi, mos, deterior, increbrescunt, in, dies",7,"NaN, NaN, 0.5, -1.0, NaN, NaN, 0.0",-0.071,-0.143,,0.0
+plautus.mercator,839.0,"ubi, qui, amicus, qui, infidelis, sum, nequeo, pernosco",8,"NaN, NaN, 1.0, NaN, -1.0, NaN, NaN, NaN",0.0,-0.125,,0.0
+plautus.mercator,840.0,"ubique, is, eripio, animus, tuus, qui, placeo, magnus",8,"NaN, NaN, NaN, 0.5, 0.0, NaN, NaN, 0.0",0.062,0.0,,0.0
+plautus.mercator,841.0,"ibi, quidem, si, regnum, do, non, cupio, sum, ciuitas",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.5",0.056,0.0,,0.0
+plautus.mercator,842.0,"diuus, atque, homo, qui, spectatrix, atque, era, idem, sum, homo",10,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,843.0,"spes, spero, cum, offertor, hic, ego, tu, grates, ago",9,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,"hic, tu",0.222
+plautus.mercator,844.0,"ecquisnam, deus, sum, qui, meus, nunc, laetus, laetitia, sum",9,"NaN, 0.0, NaN, NaN, 0.0, NaN, 1.0, 1.0, NaN",0.222,0.0,,0.0
+plautus.mercator,845.0,"domus, sum, qui, quaerito, sex, sodal, reperio",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,846.0,"uita, amicitia, ciuitas, laetitia, ludus, iocus",6,"0.0, 1.0, 0.5, 1.0, NaN, -0.5",0.333,-0.083,,0.0
+plautus.mercator,847.0,"is, inuenio, res, simitu, malus, pessum, do",7,"NaN, NaN, 0.0, NaN, -1.0, NaN, NaN",-0.143,-0.143,,0.0
+plautus.mercator,848.0,"ira, inimicitia, maeror, lacrima, exsilium, inopia",6,"-1.0, -1.0, -1.0, NaN, -1.0, -1.0",-0.833,-0.833,,0.0
+plautus.mercator,849.0,"solitudo, stultitia, exitium, pertinacia",4,"-0.5, -1.0, -1.0, -1.0",-0.875,-0.875,"stultitia, pertinacia",0.5
+plautus.mercator,850.0,"do, deus, quaeso, conuenio, ego, is, celer, copia",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,,0.0
+plautus.mercator,851.0,"apparatus, sum, ut, uideo, abicio, superbia",6,"1.0, NaN, NaN, NaN, NaN, -1.0",0.0,-0.167,superbia,0.167
+plautus.mercator,852.0,"nos, ego, comes, calator, equus, agaso, armiger",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,853.0,"nos, sum, ego, imperator, idem, nos, ego, oboedio",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.mercator,854.0,"nos, ego, fero, qui, utor, sum, o, cupido, quantus, sum",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN",-0.05,-0.05,,0.0
+plautus.mercator,855.0,"nam, tu, quiuis, confido, facilis, tuus, facio, facio",8,"NaN, NaN, NaN, NaN, 0.5, 0.0, NaN, NaN",0.062,0.0,tu,0.125
+plautus.mercator,856.0,"idem, ex, confido, actus, diffido, denuo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,857.0,"cogo, quonam, ego, ille, curro, quaeritas, certus, res",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, 0.0",0.062,0.0,,0.0
+plautus.mercator,858.0,"ego, usque, quaero, ille, quisquis, hinc, abduco, sum, gens",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,859.0,"neque, ego, ullus, obsisto, amnis, neque, mons, neque, adeo, mare",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,860.0,"neque, calor, neque, frigus, metuo, neque, uenio, neque, grando",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,861.0,"imber, perpetior, labor, suffero, sol, sitis",6,"NaN, NaN, -0.5, NaN, NaN, -0.5",-0.167,-0.167,,0.0
+plautus.mercator,862.0,"non, concedo, neque, quiesco, usquam, nox, neque, dius",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,863.0,"prior, profecto, quam, aut, amica, aut, mors, inuestigo",8,"0.5, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.062,-0.125,,0.0
+plautus.mercator,864.0,"nescio, quoia, uox, ad, auris, ego, aduolo, inuoco",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,865.0,"tu, lar, uial, ut, ego, bene, tuto, iuppiter",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.mercator,866.0,"sum, -ne, illic, charinus, ciuis, bene, ualeo, ilico",8,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.mercator,867.0,"sto, charine, qui, ego, reuoco, spes, salus, uictoria",8,"NaN, NaN, NaN, NaN, NaN, 0.5, 1.0, NaN",0.188,0.0,charine,0.125
+plautus.mercator,868.0,"quis, ego, uolo, eo, cum, tu, alius, comes, quaero",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.mercator,869.0,"non, amitto, hic, ego, comes, qui, teneo, qui, sum, is",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.1
+plautus.mercator,870.0,"cura, miseria, aegritudo, lacrima, lamentatio",5,"-1.0, -1.0, -1.0, NaN, NaN",-0.6,-0.6,,0.0
+plautus.mercator,871.0,"repudio, iste, comes, atque, hic, respicio, et, reuorto",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.mercator,872.0,"siquidem, cum, ego, fabularis, uolo, subsequor, sto, ilico",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,873.0,"malus, facio, propero, qui, ego, commoraris, sol, abeo",8,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.125,-0.125,,0.0
+plautus.mercator,874.0,"si, huc, item, propero, ut, iste, propero, facio, rectus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.111,0.0,,0.0
+plautus.mercator,875.0,"huc, secundus, uenio, nunc, sum, capio, modo, uersoria",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,876.0,"hic, fauonius, serenus, sum, istic, auster, imbricus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.mercator,877.0,"hic, facio, tranquillitas, iste, omnis, fluctus, concieo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.143
+plautus.mercator,878.0,"recipio, tu, ad, terra, charine, huc, nonne, ex, ad-uerto, uideo",10,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"tu, charine",0.2
+plautus.mercator,879.0,"nubo, ater, imber, ut, insto, aspicio, ad, sinisteram",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,nubo,0.125
+plautus.mercator,880.0,"caelum, ut, sum, splendor, plenus, atque, ut, deus, iste, uerto, iubeo",11,"0.5, NaN, NaN, 1.0, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.136,0.0,,0.0
+plautus.mercator,881.0,"religio, illic, ego, obiacio, recipio, ego, illic, sapio",8,"1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+plautus.mercator,882.0,"o, charine, contra, pariter, fero, gradus, et, confero, pedis",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,charine,0.111
+plautus.mercator,883.0,"porge, bracchium, prehendo, iam, teneo, teneo, teneo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,884.0,"quo, nunc, eo, exsulatus, quis, ibi, facio, qui, miser",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.111,-0.111,miser,0.111
+plautus.mercator,885.0,"ne, paueo, restituo, iam, ego, tu, in, gaudium, antiquus, ut, sum",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, 0.0, NaN, NaN",0.091,0.0,tu,0.091
+plautus.mercator,886.0,"magnus, qui, uolo, audio, is, audio, qui, gaudeo",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,887.0,"sto, ilico, amicus, aduenio, multus, beneuolens",6,"NaN, NaN, 1.0, NaN, 0.0, 1.0",0.333,0.0,,0.0
+plautus.mercator,888.0,"tuus, amica, quis, is, ubi, sum, ego, scio, tu, -ne, obsecro",11,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.091
+plautus.mercator,889.0,"sanus, et, saluus, ubi, is, saluus, ego, scio, ego, ego, malo",11,"1.0, NaN, 1.0, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.273,0.0,,0.0
+plautus.mercator,890.0,"potio, -ne, ut, animus, sum, tranquillus, quis, si, ego, animus, fluctuo",11,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.091,0.0,,0.0
+plautus.mercator,891.0,"ego, iste, in, tranquillus, quiesco, tueor, sisto, ne, timeo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,892.0,"obsecro, tu, loquor, properus, ubi, sum, ubi, is, uideo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.mercator,893.0,"quis, taceo, dico, eneco, ego, miser, tuus, reticeo",8,"NaN, NaN, NaN, NaN, NaN, -1.0, 0.0, NaN",-0.125,-0.125,miser,0.125
+plautus.mercator,894.0,"non, longus, hinc, absum, ab, nos, quin, ergo, commostras, si, uideo",11,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,895.0,"non, uideo, hercules, nunc, sed, uideo, modo, quin, ego, uideo, facio",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,896.0,"facio, longus, iste, amo, sum, etiam, metuo, omnis",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,897.0,"commonstro, amicus, ego, nullus, uiuo, atque, is, sum",8,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+plautus.mercator,898.0,"qui, ille, habeo, neque, sum, qui, magis, ego, uolo, bonus, aequus, sum",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, 0.5, NaN",0.125,0.0,,0.0
+plautus.mercator,899.0,"non, curo, iste, de, ille, quaero, de, ille, ergo, ego, dico, tu",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.083
+plautus.mercator,900.0,"sanus, hic, non, in, mens, uenio, dudum, ut, ubi, sum, dico",11,"1.0, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.136,0.0,hic,0.091
+plautus.mercator,901.0,"dico, igitur, ubi, ille, sum, in, noster, aedes, aedes, probo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+plautus.mercator,902.0,"si, tu, uerus, dico, pulcher, aedifico, arbiter",7,"NaN, NaN, 0.5, NaN, 1.0, NaN, NaN",0.214,0.0,tu,0.143
+plautus.mercator,903.0,"sed, qui, ego, iste, credo, uideo, -ne, an, de, audio, nuntio",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,904.0,"nos, uideo, quis, is, adduco, ad, tu, ut, iniquus, rogo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.1,-0.1,"tu, iniquus",0.2
+plautus.mercator,905.0,"quis, tuus, refero, qui, cum, istac, uenio, dum, istic, sum",10,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,906.0,"uerus, dico, nihil, charine, tu, quidem, quisquam, pudeo",8,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,"charine, tu, pudeo",0.375
+plautus.mercator,907.0,"sum, profecto, opto, ergo, ob, iste, nuntius, quis, uolo, tu",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.mercator,908.0,"quis, si, opto, deus, oro, ut, is, facio, copia",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.5",0.056,0.0,,0.0
+plautus.mercator,909.0,"derideo, seruo, res, sum, demum, si, ille, uideo",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,derideo,0.125
+plautus.mercator,910.0,"sed, quin, orno, hic, reicio, heus, aliquis, actus, huc, foras",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.1
+plautus.mercator,911.0,"exeo, illinc, pallium, ego, ecferte, em, nunc, tu, ego, placo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.mercator,912.0,"bonus, aduenio, puer, capio, chlamys, atque, istic, sto, ilico",9,"1.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.mercator,913.0,"ut, si, hic, non, sum, uerus, incipio, hic, itiner, perficio, exsequor",11,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, 0.0, NaN, NaN",0.045,0.0,"hic, hic",0.182
+plautus.mercator,914.0,"non, ego, credo, omnis, equidem, credo, qui, dico, ego",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,915.0,"sed, quin, intro, dux, ego, ad, is, ut, uideo, paulisper, mane",11,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.045,0.0,,0.0
+plautus.mercator,916.0,"quis, maneo, tempus, non, sum, intro, eo, eneco",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,917.0,"non, opus, sum, inquam, nunc, intro, tu, eo, respondeo, ego",10,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.05,0.0,tu,0.1
+plautus.mercator,918.0,"qui, causa, opera, non, sum, cur, quia, non, sum, ille, commodus",11,"NaN, 0.0, -0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.0,-0.045,,0.0
+plautus.mercator,919.0,"ito, commodus, ille, non, sum, qui, ego, amo, quam, ego, contra, amo",12,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.042,0.0,,0.0
+plautus.mercator,920.0,"omnis, hic, ludifico, ego, modus, ego, stultus",7,"NaN, NaN, NaN, NaN, 0.5, NaN, -1.0",-0.071,-0.143,"hic, stultus",0.286
+plautus.mercator,921.0,"qui, iste, credo, commoro, chlamys, sumo, denuo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,922.0,"mane, parumper, atque, hic, audio, capio, sum, puer, hic, pallium",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"hic, hic",0.2
+plautus.mercator,923.0,"mater, irascor, sum, pater, uehemens, quia, scortum, sui",8,"0.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,scortum,0.125
+plautus.mercator,924.0,"ob, oculus, adduco, in, aedes, dum, rus, ipse, absum",9,"NaN, 0.0, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,925.0,"suspicor, ille, amica, sum, ille, sonus, tollo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,926.0,"is, res, nunc, exquiro, intus, iam, machaera, sum, in, manus",10,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,927.0,"nam, si, is, tu, intro, duco, tollo, ampulla, atque, hinc, is",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.091
+plautus.mercator,928.0,"mane, mane, charine, erro, ego, decipio, haud, possum",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"charine, decipio",0.25
+plautus.mercator,929.0,"neque, edepol, uolo, quin, tu, ergo, itiner, exsequor, meus, ego, sino",11,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,"edepol, tu",0.182
+plautus.mercator,930.0,"non, sino, nos, ego, moror, tu, puer, abeo, hinc, intro, ocior",11,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.091
+plautus.mercator,931.0,"iam, in, currus, escendo, iam, lorum, in, manus, capio, meus",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,932.0,"sanus, non, sum, quin, pes, tu, in, curriculis, conicio",9,"1.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.111,0.0,tu,0.111
+plautus.mercator,933.0,"in, cyprus, recta, quandoquidem, pater, ego, exsilium, paro",8,"NaN, NaN, NaN, NaN, 0.0, NaN, -1.0, NaN",-0.125,-0.125,,0.0
+plautus.mercator,934.0,"stultus, sum, nolo, iste, quaeso, dico, certus, exsequor, sum",9,"-1.0, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",-0.056,-0.111,stultus,0.111
+plautus.mercator,935.0,"opera, ut, sumo, ad, peruestigo, ubi, sum, illic, quin, domus, sum",11,"-0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",-0.045,-0.045,,0.0
+plautus.mercator,936.0,"nam, hic, qui, dico, is, mentior, sum, uerus, dico, equidem, tu",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.045,0.0,"hic, tu",0.182
+plautus.mercator,937.0,"iam, cyprus, uenio, quin, sequor, ut, ille, uideo, quam, expeto",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,938.0,"percontor, non, inuenio, mater, iam, ira, neglego",7,"NaN, NaN, NaN, 0.0, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+plautus.mercator,939.0,"porro, proficisco, quaero, nunc, peruenio, chalcis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,940.0,"uideo, ibi, hospes, zacyntho, dico, quis, is, aduenio",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,941.0,"rogito, quis, is, ueho, quis, habeo, si, ibi, indaudiuerit",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,942.0,"quin, tu, iste, omitto, nugae, atque, cum, ego, huc, intro, ambulo",11,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.091,-0.091,tu,0.091
+plautus.mercator,943.0,"hospes, respondeo, zacynthi, ficos, fio, non, mala",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,944.0,"nihil, mentior, sum, sed, de, amicus, sui, indaudiuisse, autumo",9,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.mercator,945.0,"hic, athenae, sum, calchas, iste, quidem, zacynthius, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.mercator,946.0,"nauo, conscendo, proficisco, ilico, iam, sum, domus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,947.0,"iam, redeo, ex, exsilium, saluus, ego, sodalis, eutychus",8,"NaN, NaN, NaN, -1.0, 1.0, NaN, 1.0, NaN",0.125,-0.125,,0.0
+plautus.mercator,948.0,"ut, ualeo, quis, parens, meus, ualeo, mater, pater",8,"NaN, NaN, NaN, 0.5, 0.0, NaN, 0.0, 0.0",0.062,0.0,,0.0
+plautus.mercator,949.0,"bene, uoco, benignus, dico, creo, apud, tu, nunc, domus",9,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.111,0.0,tu,0.111
+plautus.mercator,950.0,"sic, decet, sic, fio, oportet, eloquor, ni, somnio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,951.0,"hic, homo, non, sanus, sum, medicaris, amicus, quin, propero, ego",10,"NaN, 0.0, NaN, 1.0, NaN, NaN, 1.0, NaN, NaN, NaN",0.2,0.0,hic,0.1
+plautus.mercator,952.0,"sequor, sum, sequor, clemens, quaeso, calceo, detero",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+plautus.mercator,953.0,"audio, -ne, tu, iam, dudum, audio, pax, compono, uolo",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.056,0.0,tu,0.111
+plautus.mercator,954.0,"meus, pater, cum, mater, nam, nunc, sum, irascor, eo, modo",10,"0.0, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,955.0,"propter, iste, eo, modo, ergo, cura, quin, tu, ergo, eo, modo",11,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.091,-0.091,tu,0.091
+plautus.mercator,956.0,"tam, propitius, reddo, quam, cum, propitio, sum, iuno, ioui",9,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.mercator,957.0,"quasi, tu, numquam, quisquam, adsimilis, hic, facio, facio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, hic",0.25
+plautus.mercator,958.0,"edepol, numquam, caueo, ne, quis, facio, uix, uiuo, miser",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.111,-0.111,"edepol, miser",0.222
+plautus.mercator,959.0,"nam, meus, uxor, propter, ille, totus, in, fermento, iaceo",9,"NaN, 0.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"uxor, iaceo",0.222
+plautus.mercator,960.0,"at, ego, expurigatio, habeo, ut, ne, suscenseo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,961.0,"sequor, ego, sed, exeo, filius, uideo, meus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,962.0,"ad, pater, eo, ut, mater, ira, sui, sum, sedo, scio",10,"NaN, 0.0, NaN, NaN, 0.0, -1.0, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+plautus.mercator,963.0,"iam, redeo, placeo, principium, quis, ago, quis, fio, eutychus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,964.0,"bonus, opportunitas, ambo, aduenio, quis, res, sum",7,"1.0, 0.5, NaN, NaN, NaN, 0.0, NaN",0.214,0.0,,0.0
+plautus.mercator,965.0,"uxor, tu, placidus, et, placo, sum, cedo, dexter, nuncia",9,"0.0, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,"uxor, tu",0.222
+plautus.mercator,966.0,"deus, ego, seruo, tu, amica, sum, nullus, nuntio",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.125
+plautus.mercator,967.0,"deus, tu, perdo, quis, negotium, sum, nam, quaeso, iste, eloquor",10,"0.0, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.05,-0.05,tu,0.1
+plautus.mercator,968.0,"animus, ad-uerto, igitur, ambo, quin, tu, ambo, opera, do",9,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",0.0,-0.056,tu,0.111
+plautus.mercator,969.0,"qui, bonus, sum, genus, nascor, si, sum, ingenium, malus",9,"NaN, 1.0, NaN, 0.0, NaN, NaN, NaN, 0.5, -1.0",0.056,-0.111,,0.0
+plautus.mercator,970.0,"suapte, culpa, genus, sapio, genus, ingenium, improbo",7,"NaN, -1.0, 0.0, NaN, 0.0, 0.5, NaN",-0.071,-0.143,culpa,0.143
+plautus.mercator,971.0,"uerus, hic, dico, tu, ergo, dico, is, ille, sum, uerus, magis",11,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.091,0.0,"hic, tu",0.182
+plautus.mercator,972.0,"nam, tu, istac, aetas, haud, aequus, filius, sum, tuus",9,"NaN, NaN, NaN, 0.0, NaN, 0.5, 0.0, NaN, 0.0",0.056,0.0,tu,0.111
+plautus.mercator,973.0,"adulescens, amo, amica, eripio, emo, argentum, suus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"adulescens, emo",0.286
+plautus.mercator,974.0,"quis, tu, aio, charini, amicus, sum, ille, ut, dissimulo, malus",10,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, -1.0",0.0,-0.1,tu,0.1
+plautus.mercator,975.0,"ille, quidem, ille, sui, ancilla, mater, emo, dico",8,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,"ancilla, emo",0.25
+plautus.mercator,976.0,"propterea, igitur, tu, noui, amator, uetus, puer",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,"tu, amator",0.286
+plautus.mercator,977.0,"bonus, hercules, pergo, tu, ego, assisto, hinc, altrinsecus",8,"1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.125,0.0,tu,0.125
+plautus.mercator,978.0,"qui, sum, dictum, dignus, usque, onero, ambo, nullus, sum",9,"NaN, NaN, 0.0, 1.0, NaN, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.mercator,979.0,"filius, suus, qui, innocens, facio, tantus, iniuria",7,"0.0, NaN, NaN, 0.5, NaN, NaN, -1.0",-0.071,-0.143,innocens,0.143
+plautus.mercator,980.0,"qui, quidem, hercules, ego, in, exsilium, cum, eo, re-duco, domus",10,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, 0.0",-0.1,-0.1,,0.0
+plautus.mercator,981.0,"nam, eo, exsulatus, an, abeo, etiam, loquor, larua",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,982.0,"temperaris, istac, aetas, iste, decet, ars",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,983.0,"fateor, delinquo, profecto, etiam, loquor, larua, uacuus, sum, istac, tu, aetas, hic, decet, noxius",14,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.5",0.036,0.0,"tu, hic, noxius",0.214
+plautus.mercator,984.0,"itidem, ut, tempus, annus, aetas, alius, alius, facio, condecet",9,"NaN, NaN, 0.0, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,985.0,"nam, si, iste, ius, sum, senecta, aetas, scortaris, senex",9,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0, NaN, 0.0",0.056,0.0,,0.0
+plautus.mercator,986.0,"ubi, locus, sum, res, summus, noster, publicus, is, pereo, miser",10,"NaN, 0.0, NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, -1.0",-0.1,-0.1,miser,0.1
+plautus.mercator,987.0,"adulescens, res, ago, iste, magis, soleo, opera, do",8,"NaN, 0.0, NaN, NaN, NaN, NaN, -0.5, NaN",-0.062,-0.062,adulescens,0.125
+plautus.mercator,988.0,"iam, obsecro, hercules, tu, habeo, cum, porcus, cum, fiscina",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.mercator,989.0,"reddo, ille, sui, habeo, iam, ut, uolo, per, ego, sui, habeo, licet",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,990.0,"temperi, edepol, quoniam, ut, aliter, facio, non, sum, copia",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.056,0.0,edepol,0.111
+plautus.mercator,991.0,"supplicium, sui, sumo, quis, uolo, ipse, ob, hic, iniuria",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.111,-0.111,"supplicium, hic",0.222
+plautus.mercator,992.0,"modo, pax, facio, oro, ut, ne, ego, irascor, sum",9,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.mercator,993.0,"si, hercules, scio, siue, adeo, ioculus, dico, ego",8,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.062,0.0,,0.0
+plautus.mercator,994.0,"sui, ille, amo, numquam, facio, ut, ille, amo, abduco",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,995.0,"eutychus, tu, oro, sodalis, is, sum, seruo, et, subuenio",9,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.111,0.0,tu,0.111
+plautus.mercator,996.0,"hic, senex, paro, ego, cliens, memoro, dico, beneficus",8,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, 1.0",0.125,0.0,hic,0.125
+plautus.mercator,997.0,"os, ut, ignosco, delinquo, tuus, atque, adulescentia",7,"0.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,998.0,"pergi, -ne, tu, autem, heia, superbus, inueho, spero, ego, ego, quoque",11,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.091,-0.091,"pergi, tu",0.182
+plautus.mercator,999.0,"tempus, talis, euenio, ut, tu, gratia, refero, par",8,"0.0, NaN, NaN, NaN, NaN, 1.0, NaN, 0.5",0.188,0.0,tu,0.125
+plautus.mercator,1000.0,"mitto, iam, ego, iste, ars, facio, et, quidem, ego, dehinc, iam, nihil, ago",13,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,1001.0,"consuetudi, -ne, animus, rursus, tu, huc, induco, obsecro",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,tu,0.125
+plautus.mercator,1002.0,"satis, iam, ut, habeo, quin, lorus, caedo, etiam, si, lubet",10,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.mercator,1003.0,"rectus, dico, sed, iste, uxor, facio, cum, hic, re-scio",9,"1.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.111,0.0,"uxor, hic",0.222
+plautus.mercator,1004.0,"nihil, opus, sum, rescisco, quis, istic, non, rescisco, ne, timeo",10,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.mercator,1005.0,"eo, intro, non, utibilis, sum, hic, locus, facio, tuus",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,hic,0.111
+plautus.mercator,1006.0,"dum, memoro, arbiter, ut, sum, qui, praetereo, per, uia",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.mercator,1007.0,"hercules, qui, tu, rectus, dico, idem, breuis, fabula",8,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, 0.0",0.125,0.0,tu,0.125
+plautus.mercator,1008.0,"sum, eo, hic, sum, intus, filius, apud, nos, tuus",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,hic,0.111
+plautus.mercator,1009.0,"bonus, sum, illac, per, hortus, nos, domus, transeo",8,"1.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.125,0.0,,0.0
+plautus.mercator,1010.0,"eutychus, hic, uolo, prior, res, ago, quam, meus, intro, refero, pedis",11,"NaN, NaN, NaN, 0.5, 0.0, NaN, NaN, 0.0, NaN, NaN, 0.0",0.045,0.0,hic,0.091
+plautus.mercator,1011.0,"quis, iste, sum, suus, quisque, homo, res, memini, respondeo, ego",10,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,1012.0,"certus, -ne, scio, non, suscenseo, ego, tuus, mater, scio",9,"0.5, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.056,0.0,,0.0
+plautus.mercator,1013.0,"uideo, meus, fides, satis, habeo, sed, quaeso, hercules, etiam, uideo",10,"NaN, 0.0, 1.0, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.15,0.0,,0.0
+plautus.mercator,1014.0,"non, ego, credo, immo, credo, sed, tamen, metuo, miser",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.111,-0.111,miser,0.111
+plautus.mercator,1015.0,"eo, intro, immo, dico, senex, lex, censeo",7,"NaN, NaN, NaN, NaN, 0.0, 0.5, NaN",0.071,0.0,,0.0
+plautus.mercator,1016.0,"prior, quam, abeo, qui, sui, lex, teneo, contendo, sum",9,"0.5, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.mercator,1017.0,"annus, nascor, sexa_ginta, qui, sum, si, qui, scibimus",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,1018.0,"si, maritus, siue, hercules, adeo, caelibem, scortor",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"maritus, caelibem",0.286
+plautus.mercator,1019.0,"cum, is, nos, hic, lex, ago, inscitus, arbitror",8,"NaN, NaN, NaN, NaN, 0.5, NaN, 0.0, NaN",0.062,0.0,"hic, inscitus",0.25
+plautus.mercator,1020.0,"et, per, nos, quidem, hercules, egeo, qui, suus, prodigo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.mercator,1021.0,"neu, quisquam, posthac, prohibeo, adulescens, filius",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,adulescens,0.167
+plautus.mercator,1022.0,"quin, amo, et, scortum, duco, qui, bonus, fio, modo",9,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.111,0.0,scortum,0.111
+plautus.mercator,1023.0,"siquis, prohibeo, multus, perdo, clam, quasi, praehibuerit, palam",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.mercator,1024.0,"hic, adeo, ut, ex, hic, nox, primus, lex, teneo, senex",10,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.5, 0.5, NaN, 0.0",0.1,0.0,"hic, hic",0.2
+plautus.mercator,1025.0,"bene, ualeo, atque, adulescens, hic, si, tu, lex, placeo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.056,0.0,"adulescens, hic, tu",0.333
+plautus.mercator,1026.0,"ob, seni, hercules, industria, tu, aequus, sum, claris, plaudo",9,"NaN, NaN, NaN, 0.5, NaN, 0.5, NaN, NaN, NaN",0.111,0.0,tu,0.111

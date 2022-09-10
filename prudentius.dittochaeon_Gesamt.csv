@@ -1,0 +1,197 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+prudentius.dittochaeon,1.0,"eua, columba, sum, tunc, candidus, niger, deinde",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,2.0,"facio, per, anguinus, malesuadus, fraus, uenenum",6,"NaN, NaN, NaN, NaN, -1.0, -0.5",-0.25,-0.25,"anguinus, fraus",0.333
+prudentius.dittochaeon,3.0,"tingo, et, innocuus, maculis, sordeo, adam",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,sordeo,0.167
+prudentius.dittochaeon,4.0,"do, nudus, ficulnus, draco, mox, tegimen, uictor",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,5.0,"frater, sacer, deus, nutus, disto, duo",6,"0.0, 1.0, 0.0, NaN, NaN, NaN",0.167,0.0,,0.0
+prudentius.dittochaeon,6.0,"aestimo, accipio, uiuus, et, terrenus, refuto",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,uiuus,0.167
+prudentius.dittochaeon,7.0,"rusticus, inuidia, pastor, sterno, in, abel",6,"-0.5, -1.0, NaN, NaN, NaN, NaN",-0.25,-0.25,inuidia,0.167
+prudentius.dittochaeon,8.0,"forma, anima, exprimo, carus, noster, in, munus, cai, -ne",9,"1.0, 0.5, NaN, 1.0, NaN, NaN, 0.5, NaN, NaN",0.333,0.0,,0.0
+prudentius.dittochaeon,9.0,"nuntia, diluuium, iam, decrescentis, ad, arca",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,10.0,"os, columba, refero, ramus, uirido, oliua",6,"0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,11.0,"coruus, enim, ingluuies, per, foedus, cadauer, capio",7,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,,0.0
+prudentius.dittochaeon,12.0,"haereo, ille, do, reueho, nouo, gaudium, pax",7,"NaN, NaN, NaN, NaN, NaN, 1.0, 0.5",0.214,0.0,,0.0
+prudentius.dittochaeon,13.0,"hospitium, hic, dominus, sum, ilex, ubi, frondeus, mambrae",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.125
+prudentius.dittochaeon,14.0,"armental, senex, protego, culmen, in, iste",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,15.0,"rideo, sarra, cado, suboles, sui, gaudium, serus",7,"NaN, NaN, NaN, 0.5, NaN, 1.0, NaN",0.214,0.0,sarra,0.143
+prudentius.dittochaeon,16.0,"fero, et, decrepitus, sic, credo, possum, maritus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,maritus,0.143
+prudentius.dittochaeon,17.0,"abraham, mercor, ager, qui, condo, os",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,mercor,0.167
+prudentius.dittochaeon,18.0,"coniunx, in, terra, quoniam, peregrinus, moror",6,"-0.5, NaN, 0.0, NaN, NaN, NaN",-0.083,-0.083,,0.0
+prudentius.dittochaeon,19.0,"iustitia, atque, fides, hic, ille, mille, emo",7,"1.0, NaN, 1.0, NaN, NaN, NaN, NaN",0.286,0.0,"hic, emo",0.286
+prudentius.dittochaeon,20.0,"spelaeum, sancio, requies, ubi, pario, fauilla, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,21.0,"bis, septem, spica, uacca, totidem, pharaoni",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,22.0,"per, somnus, uideo, portendo, dispar, forma",6,"NaN, 0.5, NaN, NaN, 0.5, 1.0",0.333,0.0,portendo,0.167
+prudentius.dittochaeon,23.0,"uber, atque, fames, duo, per, septennia, tempus",7,"1.0, NaN, -0.5, NaN, NaN, NaN, 0.0",0.071,-0.071,,0.0
+prudentius.dittochaeon,24.0,"insto, hic, soluo, patriarcha, interpres, christus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+prudentius.dittochaeon,25.0,"uendo, insidiae, frater, puer, ipse, uicissim",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,"uendo, insidiae",0.333
+prudentius.dittochaeon,26.0,"cratera, in, far, saccus, clam, praecipio, abdi",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,27.0,"ut, reus, furtum, ioseph, teneo, auctio, fallax",7,"NaN, NaN, -1.0, NaN, NaN, 0.0, -1.0",-0.286,-0.286,"reus, furtum",0.286
+prudentius.dittochaeon,28.0,"prodeo, agnosco, frater, ueniaque, pudescunt",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,29.0,"sentis, inuolitans, deus, igneus, os, corusco",6,"NaN, NaN, 0.0, 0.0, 0.0, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,30.0,"con-pello, iuuenis, pecus, tunc, fors, magister",6,"NaN, NaN, NaN, NaN, 0.0, 0.5",0.083,0.0,,0.0
+prudentius.dittochaeon,31.0,"ille, capio, iubeo, uirga, fio, uipera, uirga",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,32.0,"soluo, uinclum, pes, propero, pharaonis, ad, arx",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,uinclum,0.143
+prudentius.dittochaeon,33.0,"tueor, ago, uir, iustus, iter, uel, per, mare, magnus",9,"NaN, NaN, 0.5, 1.0, 0.0, NaN, NaN, 0.0, 0.0",0.167,0.0,,0.0
+prudentius.dittochaeon,34.0,"ecce, deus, famulis, scissim, fretus, rubra, dehisco",7,"NaN, 0.0, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,dehisco,0.143
+prudentius.dittochaeon,35.0,"cum, peccator, rabidus, idem, fretus, mergant",6,"NaN, -1.0, NaN, NaN, 0.5, NaN",-0.083,-0.167,"peccator, rabidus",0.333
+prudentius.dittochaeon,36.0,"obruo, pharao, pateo, uia, liber, moysi",6,"NaN, NaN, NaN, 0.0, 0.5, NaN",0.083,0.0,,0.0
+prudentius.dittochaeon,37.0,"fumo, mons, apex, diuinus, ignis, in, quo",7,"NaN, NaN, NaN, 0.5, 0.0, NaN, NaN",0.071,0.0,,0.0
+prudentius.dittochaeon,38.0,"scribo, decem, uerbum, saxum, pagina, moysi",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,39.0,"trado, ille, suus, suscipio, lex, reuiso",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+prudentius.dittochaeon,40.0,"forma, sed, hic, uitulis, solus, deus, et, deus, aurum",9,"1.0, NaN, NaN, NaN, -0.5, 0.0, NaN, 0.0, 0.5",0.111,-0.056,hic,0.111
+prudentius.dittochaeon,41.0,"panis, angelicis, albeo, tentorius, pater",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.dittochaeon,42.0,"certus, fides, facio, teneo, urceus, aureus, exinde",7,"0.5, 1.0, NaN, NaN, NaN, 0.5, NaN",0.286,0.0,,0.0
+prudentius.dittochaeon,43.0,"seruo, manna, ingratus, uenio, alter, nubes",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,ingratus,0.167
+prudentius.dittochaeon,44.0,"atque, auidus, caro, saturo, congero, coturnix",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,45.0,"ferueo, uia, sicco, heremi, serpens, ater",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,serpens,0.167
+prudentius.dittochaeon,46.0,"iam, ueneno, per, uulnero, liuidus, mordeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,47.0,"carpo, populus, sed, prudens, aer, polio",6,"NaN, 0.0, NaN, 1.0, 0.0, NaN",0.167,0.0,,0.0
+prudentius.dittochaeon,48.0,"dux, crux, suspendo, qui, uirus, tempero, anguis",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,crux,0.143
+prudentius.dittochaeon,49.0,"asper, gusto, populus, sitio, lacuna",5,"-0.5, NaN, 0.0, NaN, 0.0",-0.1,-0.1,,0.0
+prudentius.dittochaeon,50.0,"tristificos, latex, stagno, felle, teneo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,stagno,0.2
+prudentius.dittochaeon,51.0,"moyses, sancio, aio, lignum, do, gurges, in, iste",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,gurges,0.125
+prudentius.dittochaeon,52.0,"conicio, in, dulcis, uerto, amarus, sapor",6,"NaN, NaN, 0.5, NaN, -0.5, NaN",0.0,-0.083,,0.0
+prudentius.dittochaeon,53.0,"deuenio, uir, moysi, dux, sex, ubi, fons",7,"NaN, 0.5, NaN, 0.5, NaN, NaN, NaN",0.143,0.0,,0.0
+prudentius.dittochaeon,54.0,"et, sex, fors, alius, uitreus, de, ros, rigo",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,55.0,"septeni, decies, palmo, qui, mysticus, aelim",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,56.0,"lucus, apostolicus, numerus, liber, quoque, pingo",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+prudentius.dittochaeon,57.0,"in, fons, rcfluo, iordanis, gurges, fero",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"iordanis, gurges",0.333
+prudentius.dittochaeon,58.0,"dum, calceo, deus, populus, uado, sicco, relinquo",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,59.0,"testis, bis, senex, lapis, qui, flumen, in, ipse",8,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,60.0,"constituo, pater, in, forma, discipulus",5,"NaN, 0.0, NaN, 1.0, NaN",0.2,0.0,,0.0
+prudentius.dittochaeon,61.0,"procumbo, iericho, solus, sto, atrium, raab",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+prudentius.dittochaeon,62.0,"hospita, sancio, meretrix, tantus, sum, fides, uolo",7,"0.5, NaN, NaN, NaN, NaN, 1.0, NaN",0.214,0.0,"hospita, meretrix",0.286
+prudentius.dittochaeon,63.0,"incolumis, securus, domus, spectabilis, coccum",5,"-0.5, 1.0, 0.0, NaN, NaN",0.1,-0.1,,0.0
+prudentius.dittochaeon,64.0,"ignis, aduerro, in, signum, sanguis, offero",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,65.0,"inuictus, uirtus, coma, leo, frango, samso, -ne",7,"1.0, 1.0, NaN, NaN, NaN, NaN, NaN",0.286,0.0,leo,0.143
+prudentius.dittochaeon,66.0,"aggredior, neco, ille, fero, sed, ab, os, leo",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,leo,0.125
+prudentius.dittochaeon,67.0,"mel, fluo, maxilla, asinus, fons, uomo, ultro",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,68.0,"stultitia, exundo, lympha, dulcedo, uirtus",5,"-1.0, NaN, 0.0, 0.5, 1.0",0.1,-0.2,"stultitia, exundo, dulcedo",0.6
+prudentius.dittochaeon,69.0,"ter, centum, uulpis, samso, -ne, capio, ignis, armo",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,uulpis,0.125
+prudentius.dittochaeon,70.0,"pono, fax, cauda, circumligo, in, sero, mitto",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fax,0.143
+prudentius.dittochaeon,71.0,"allophylum, seges, cremo, sic, callidus, uulpis",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,"callidus, uulpis",0.333
+prudentius.dittochaeon,72.0,"nunc, haeresis, flamma, uitium, spargo, in, ager",7,"NaN, NaN, NaN, -1.0, NaN, NaN, 0.0",-0.143,-0.143,,0.0
+prudentius.dittochaeon,73.0,"dauid, paruus, sum, frater, ulter, et, modo, iesse",8,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,74.0,"cura, grex, cithara, formo, ad, ouilis, paternus",7,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+prudentius.dittochaeon,75.0,"inde, ad, deliquia, rex, mox, horridus, bellum",7,"NaN, NaN, 0.5, 0.0, NaN, -1.0, 0.0",-0.071,-0.143,,0.0
+prudentius.dittochaeon,76.0,"consero, et, fundo, sterno, strideo, golia, -ne",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,77.0,"regius, mirificus, fulgeo, insigne, dauid",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,78.0,"sceptrum, oleum, cornu, diadema, et, purpura, et, ara",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,79.0,"omnis, conuenio, christus, chlamys, atque, corona",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,80.0,"uirga, potestas, cornu, crux, altar, oliuum",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,crux,0.167
+prudentius.dittochaeon,81.0,"aedifico, templum, sapientia, per, solomonis",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+prudentius.dittochaeon,82.0,"obsequium, regina, auster, grauis, congero, aurum",6,"NaN, NaN, NaN, -0.5, NaN, 0.5",0.0,-0.083,,0.0
+prudentius.dittochaeon,83.0,"tempus, adsum, quo, templum, homo, sub, pectus, christus",8,"0.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,84.0,"aedifico, qui, graius, colo, qui, barbarum, ditent",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,barbarum,0.143
+prudentius.dittochaeon,85.0,"fors, propheta, nascor, dum, lignum, reddo",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,86.0,"flumen, in, ripa, cado, discutio, bipennis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,87.0,"gurges, summersus, sum, ferrum, sed, mox, leuis, lignum",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,gurges,0.125
+prudentius.dittochaeon,88.0,"iniectus, stagnum, ferrum, reuocabilis, facio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,stagnum,0.2
+prudentius.dittochaeon,89.0,"gens, hebraeorum, peccamine, capio, frequens",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,90.0,"fleo, exsilium, dirus, babylonis, ad, amnis",6,"NaN, -1.0, -1.0, NaN, NaN, NaN",-0.333,-0.333,dirus,0.167
+prudentius.dittochaeon,91.0,"tum, patrius, canto, modus, praecipio, recuso",6,"NaN, 0.0, 0.0, 0.5, NaN, NaN",0.083,0.0,,0.0
+prudentius.dittochaeon,92.0,"organaque, in, ramus, salix, suspendo, amarus",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+prudentius.dittochaeon,93.0,"hic, bonus, ezechias, mereo, ter, quinque, per, annus",8,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.125,0.0,hic,0.125
+prudentius.dittochaeon,94.0,"praescribo, profero, dies, lego, obeo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,95.0,"tendo, qui, gradus, qui, uesperus, tego, umbra",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,96.0,"lumen, perfundo, doceo, sol, uerro, in, orior",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,97.0,"aduento, deus, descendo, nuntius, altus",5,"NaN, 0.0, NaN, NaN, 0.5",0.1,0.0,,0.0
+prudentius.dittochaeon,98.0,"gabriel, pater, ex, solium, sedo, repens",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.dittochaeon,99.0,"intro, uirgineus, sancio, tu, spiritus, inquam",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.167
+prudentius.dittochaeon,100.0,"in-pleo, mare, christum, pario, sacer, uirgo",6,"NaN, 0.0, NaN, NaN, 1.0, NaN",0.167,0.0,uirgo,0.167
+prudentius.dittochaeon,101.0,"sancio, bethlem, caput, sum, orbis, qui, profero, iesum",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,102.0,"orbis, principium, caput, ipse, principia",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,103.0,"urbs, homo, christum, gigno, qui, christus, ago",7,"0.5, 0.0, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+prudentius.dittochaeon,104.0,"ante, deus, quam, sol, fio, quam, lucifer, sum",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,105.0,"hic, pretiosus, magus, sub, uirgo, uber, christus",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,"hic, pretiosus, uirgo",0.429
+prudentius.dittochaeon,106.0,"donum, fero, puer, myrrhaeque, et, tus, et, aurum",8,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,,0.0
+prudentius.dittochaeon,107.0,"miro, genetrix, tot, caueo, uenter, honor",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+prudentius.dittochaeon,108.0,"sequor, deus, gigno, homo, rex, quoque, superus",7,"NaN, 0.0, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,109.0,"peruigilis, pastor, oculus, uolo, lumen, inpleo",6,"0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,110.0,"angelici, natus, celebro, de, uirgo, christum",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,uirgo,0.167
+prudentius.dittochaeon,111.0,"inuenio, tectum, pannus, praesaepe, iaceo",5,"NaN, NaN, -0.5, NaN, NaN",-0.1,-0.1,iaceo,0.2
+prudentius.dittochaeon,112.0,"cuna, sum, exultant, alacer, et, numen, adoro",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+prudentius.dittochaeon,113.0,"impius, innumerus, infantum, caedes, hostis",5,"-1.0, NaN, NaN, -0.5, -1.0",-0.5,-0.5,"impius, caedes",0.4
+prudentius.dittochaeon,114.0,"perfuro, herodes, dum, christum, quaero, in, ille",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,115.0,"fumo, lacteolo, paruus, sanguis, cuna",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,116.0,"uulnus, madeo, calidus, pius, pectus, mater",6,"-1.0, NaN, NaN, NaN, NaN, 0.0",-0.167,-0.167,,0.0
+prudentius.dittochaeon,117.0,"perfundo, fluuius, pasco, baptista, locusta",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,118.0,"silua, fauus, et, amicio, uestis, camelis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uestis,0.167
+prudentius.dittochaeon,119.0,"tingo, et, christum, sed, spiritus, aether, mitto",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,120.0,"testor, tingo, qui, tingo, crimen, dono",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,crimen,0.167
+prudentius.dittochaeon,121.0,"excidium, templum, ueto, sto, pinna, supersto",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+prudentius.dittochaeon,122.0,"struo, enim, lapis, ex, ille, maneo, angulus, usque",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,123.0,"in, saeculum, saeculum, qui, sprerunt, aedifico",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,124.0,"nunc, caput, sum, templum, et, lapis, conpago, nouum",8,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,125.0,"foedero, coniugium, celebro, auspex, coitus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,foedero,0.2
+prudentius.dittochaeon,126.0,"fors, galilei, iam, defleo, uinum, minister",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.dittochaeon,127.0,"christus, uasum, iubeo, properanter, aquarius, lympha",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+prudentius.dittochaeon,128.0,"in-pleo, inde, merus, ueto, defendo, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.dittochaeon,129.0,"morbus, medicina, latex, qui, spiritus, hora",6,"-1.0, 0.0, NaN, NaN, 0.0, NaN",-0.167,-0.167,,0.0
+prudentius.dittochaeon,130.0,"eructo, uarius, fundo, ratio, lateo",5,"NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,eructo,0.2
+prudentius.dittochaeon,131.0,"siloam, uocito, spuo, ubi, con-lito, caecus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+prudentius.dittochaeon,132.0,"lumen, saluator, iubeo, de, fons, lauaris",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,133.0,"praemium, saltatrix, posco, funebria, uirgo",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,uirgo,0.2
+prudentius.dittochaeon,134.0,"iohannis, caput, abscido, qui, lanx, reporto",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,135.0,"incesta, ad, gremium, mater, fero, regius, donum",7,"NaN, NaN, 0.0, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+prudentius.dittochaeon,136.0,"psaltria, respergo, manus, de, sanguis, iustus",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,psaltria,0.167
+prudentius.dittochaeon,137.0,"eo, mare, per, medius, dominus, fluctus, liquentes",7,"NaN, 0.0, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,138.0,"calx, tero, iubeo, instabilis, descendo, cumba",6,"0.0, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+prudentius.dittochaeon,139.0,"discipulis, sed, mortalis, trepidatio, planto",5,"NaN, NaN, -1.0, -1.0, NaN",-0.4,-0.4,,0.0
+prudentius.dittochaeon,140.0,"mergo, at, ille, manus, rego, et, uestigium, firmo",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,141.0,"uinclum, sepulcral, sub, carcer, ferreus, daemo, -ne",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"uinclum, carcer",0.286
+prudentius.dittochaeon,142.0,"frango, erumpo, pes, aduoluo, iesus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,143.0,"at, homo, dominus, sui, uindico, et, iubeo, hostis",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,,0.0
+prudentius.dittochaeon,144.0,"porcus, furiaris, grex, atque, per, fretus, mergo",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,furiaris,0.143
+prudentius.dittochaeon,145.0,"quinque, deus, panis, frango, piscis, gemellus",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.dittochaeon,146.0,"hic, homo, largus, saturo, mille, quinque",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.167
+prudentius.dittochaeon,147.0,"in-pleo, nimius, micaris, fragmen, corbis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,nimius,0.2
+prudentius.dittochaeon,148.0,"bis, senex, aeternus, tantus, sum, opulentia, metior",7,"NaN, 0.0, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+prudentius.dittochaeon,149.0,"conscius, insignis, facio, locus, in, bethania",6,"-0.5, 0.0, NaN, 0.0, NaN, NaN",-0.083,-0.083,conscius,0.167
+prudentius.dittochaeon,150.0,"uideo, ab, infernus, tu, lazaris, sedes, reuorto",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.143
+prudentius.dittochaeon,151.0,"appareo, scissus, frango, foris, monumentum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,152.0,"unde, putrescentis, redeo, membrum, sepelio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,sepelio,0.2
+prudentius.dittochaeon,153.0,"campus, acheldemach, scelus, merces, nefandus",5,"0.0, NaN, -1.0, 1.0, -1.0",-0.2,-0.4,"scelus, nefandus",0.4
+prudentius.dittochaeon,154.0,"uendo, exsequiae, recipio, tumulosus, humandas",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,uendo,0.2
+prudentius.dittochaeon,155.0,"sanguis, hic, pretium, sum, christus, iuda, eminus, arto",8,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.125,0.0,"hic, pretium",0.25
+prudentius.dittochaeon,156.0,"infelix, collum, laqueus, pro, crimen, tantus",6,"-1.0, NaN, NaN, NaN, -1.0, NaN",-0.333,-0.333,"infelix, crimen",0.333
+prudentius.dittochaeon,157.0,"impius, blasphemus, cado, domus, ecce, caiphae",6,"-1.0, NaN, NaN, 0.0, NaN, NaN",-0.167,-0.167,impius,0.167
+prudentius.dittochaeon,158.0,"in, qui, pulso, sum, alapa, facies, sacer, christus",8,"NaN, NaN, NaN, NaN, -0.5, 0.0, 1.0, NaN",0.062,-0.062,,0.0
+prudentius.dittochaeon,159.0,"hic, peccator, maneo, exitus, obruo, qui",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,"hic, peccator",0.333
+prudentius.dittochaeon,160.0,"uito, ruinosus, tumulus, sine, finis, iaceo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,iaceo,0.167
+prudentius.dittochaeon,161.0,"uincio, in, hic, dominus, sto, aedes, atque, columna",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.125
+prudentius.dittochaeon,162.0,"adnecto, tergum, do, ut, seruilis, flagellum",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+prudentius.dittochaeon,163.0,"persto, adhuc, templum, gero, ueneror, columna",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,164.0,"nos, doceo, cunctus, inmunes, uiuo, flagrum",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,165.0,"traiectus, per, uterque, latus, latex, atque, cruor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,cruor,0.143
+prudentius.dittochaeon,166.0,"christus, ago, sanguis, uictoria, lympha, lauacrum, sum",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,167.0,"tunc, duo, discordo, crux, hinc, inde, latro",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"crux, latro",0.286
+prudentius.dittochaeon,168.0,"contiguis, nego, ille, deus, fero, iste, corona",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,169.0,"christum, non, teneo, saxum, non, claustra, sepulcrum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,sepulcrum,0.143
+prudentius.dittochaeon,170.0,"mors, ille, deuinco, iaceo, calceo, abyssus",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,iaceo,0.167
+prudentius.dittochaeon,171.0,"sancio, populus, superus, simul, eo, ad, ora",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,172.0,"sequor, do, multus, tango, oculus, probo",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,173.0,"mons, oliuiferi, christus, de, uertex, sursum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,174.0,"ad, pater, redeo, signo, uestigium, pax",6,"NaN, 0.0, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+prudentius.dittochaeon,175.0,"frons, aeternus, praepinguis, liquitur, umor",5,"0.0, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+prudentius.dittochaeon,176.0,"qui, probo, infundo, terra, de, chrismate, donum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.dittochaeon,177.0,"primus, ineo, stephanus, merces, sanguis, imber",6,"0.5, NaN, NaN, 1.0, NaN, NaN",0.25,0.0,,0.0
+prudentius.dittochaeon,178.0,"affligo, lapis, christum, tamen, ille, cruentus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,cruentus,0.167
+prudentius.dittochaeon,179.0,"inter, saxum, rogo, ne, sum, lapidatio, fraus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,fraus,0.143
+prudentius.dittochaeon,180.0,"hostis, o, primus, pietas, miro, corona",6,"-1.0, NaN, 0.5, 1.0, NaN, NaN",0.083,-0.167,,0.0
+prudentius.dittochaeon,181.0,"porto, maneo, templum, speciosus, quam, uocito",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,182.0,"egregius, solomonis, opus, sed, magnus, in, ille",7,"0.0, NaN, 0.5, NaN, 0.0, NaN, NaN",0.071,0.0,,0.0
+prudentius.dittochaeon,183.0,"christus, opus, emico, nam, claudus, surgo, iubeo",7,"NaN, 0.5, NaN, NaN, -0.5, NaN, NaN",0.0,-0.071,,0.0
+prudentius.dittochaeon,184.0,"os, petri, stupeo, laxo, curro, gressus",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.dittochaeon,185.0,"somnio, illapsus, petrus, altus, ex, aether, discus",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+prudentius.dittochaeon,186.0,"confercio, omnigenus, animal, ille, recuso",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,animal,0.2
+prudentius.dittochaeon,187.0,"mando, sed, dominus, iubeo, omnis, mundo, puto",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,188.0,"surgo, et, immundus, uoco, ad, mysterium, gens",7,"NaN, NaN, -0.5, NaN, NaN, NaN, 0.0",-0.071,-0.071,,0.0
+prudentius.dittochaeon,189.0,"hic, lupus, ante, rapax, uestio, uello, mollis",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, uestio",0.286
+prudentius.dittochaeon,190.0,"saulus, qui, sum, fio, adimo, lumen, paulus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.dittochaeon,191.0,"mox, recipio, uideo, fio, apostolus, atque, populus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.dittochaeon,192.0,"doctor, et, os, possum, coruus, muto, columba",7,"0.5, NaN, 0.0, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+prudentius.dittochaeon,193.0,"bis, duodena, seni, sedes, patera, citharisque",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,194.0,"tot, coronaris, fulgeo, insignis, agnos",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.dittochaeon,195.0,"caedes, cruentas, laudo, qui, euoluo, liber",6,"-0.5, NaN, NaN, NaN, NaN, 0.5",0.0,-0.083,caedes,0.167
+prudentius.dittochaeon,196.0,"et, septem, possum, signaculum, pando, solus",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0

@@ -1,0 +1,657 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+claudian.panegyricus_de_quarto_consulatu,1.0,"auspicium, iterum, sui, regal, annus",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,2.0,"induo, et, nosco, fruor, iacto, aula",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,3.0,"limen, neque, patior, circum, priuo, moraris",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,4.0,"exultant, reduco, augustus, consul, fascis",5,"NaN, NaN, 1.0, 0.5, NaN",0.3,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,5.0,"cerno, ut, armus, proceres, lex, potens",6,"NaN, NaN, NaN, NaN, 0.5, 1.0",0.25,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,6.0,"patricius, sumo, habitus, et, mos, gabino",6,"0.0, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,7.0,"discolor, incedo, legio, pono, parumper",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,8.0,"bellum, signum, sequor, uexillum, quirinus",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,9.0,"lictor, cedo, aquila, rideo, togatus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,10.0,"miles, et, in, medius, effulgeo, curia, castrum",7,"0.0, NaN, NaN, 0.0, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+claudian.panegyricus_de_quarto_consulatu,11.0,"ipse, palatino, circumuallata, senatus",4,"NaN, NaN, NaN, 0.5",0.125,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,12.0,"iam, trabea, bellona, gero, parma, remoueo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,bellona,0.167
+claudian.panegyricus_de_quarto_consulatu,13.0,"et, galea, sacer, umerus, ueho, curulis",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,14.0,"neque, tu, laurigeras, pudeo, gradior, securis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, pudeo",0.333
+claudian.panegyricus_de_quarto_consulatu,15.0,"paco, gestaris, manus, latiaque, mico",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,16.0,"lorica, muto, toga, dum, ferreus, haereo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,17.0,"currus, et, eridani, ludo, per, pratum, iugalis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,iugalis,0.143
+claudian.panegyricus_de_quarto_consulatu,18.0,"haud, indignus, colo, neque, nuper, cognosco, mars",7,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+claudian.panegyricus_de_quarto_consulatu,19.0,"ulpia, progenies, et, qui, diadema, mundus",6,"NaN, 0.0, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,20.0,"spargo, hibera, domus, neque, tantus, uilis, unda",7,"NaN, NaN, 0.0, NaN, NaN, -0.5, 0.0",-0.071,-0.071,uilis,0.143
+claudian.panegyricus_de_quarto_consulatu,21.0,"promereo, gens, series, cunabula, foueo",5,"NaN, 0.0, 0.5, NaN, NaN",0.1,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,22.0,"oceanus, terra, dominus, pelagius, sum",5,"NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,23.0,"immensus, decet, res, de, princeps, nascor",6,"0.0, NaN, 0.0, NaN, 0.5, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,24.0,"hinc, procedo, auus, qui, post, arctous, fremo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,25.0,"classicus, massylas, adnecto, africa, laurus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,26.0,"ille, caledoniis, pono, qui, castrum, pruina",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,27.0,"qui, medius, libyae, sub, cassis, perfero, aestus",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,28.0,"terribilis, mauro, debellator, britanni",4,"-0.5, NaN, NaN, NaN",-0.125,-0.125,,0.0
+claudian.panegyricus_de_quarto_consulatu,29.0,"litor, atque, pariter, boreas, uastator, et, auster",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,30.0,"quis, rigor, aeternus, caelum, quis, frigus, prosum",7,"NaN, NaN, 0.5, 0.5, NaN, NaN, NaN",0.143,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,31.0,"ignosco, fretus, madeo, saxone, fundo",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,32.0,"orcades, in-caleo, pictor, sanguis, thyle",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,33.0,"scottor, cumulus, fleo, glacial, hiuerne",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,34.0,"quis, calor, obsisto, fortis, per, uasto, curro",7,"NaN, 0.0, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,uasto,0.143
+claudian.panegyricus_de_quarto_consulatu,35.0,"aethiopum, cingo, nouus, atlanta, manipulus",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,36.0,"uirgineus, triton, bibo, spargo, uenenum",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,,0.0
+claudian.panegyricus_de_quarto_consulatu,37.0,"gorgoneos, uideo, thalamus, et, uilis, uireo",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,uilis,0.167
+claudian.panegyricus_de_quarto_consulatu,38.0,"hesperidum, rideo, qui, dito, fabula, ramus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,39.0,"arx, incensum, iuba, rabio, maurusia, ferrum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,rabio,0.167
+claudian.panegyricus_de_quarto_consulatu,40.0,"cedo, et, antiquus, penetralis, diruo, bocchi",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,41.0,"sed, laus, genitor, longus, transgredior, auitus",6,"NaN, 1.0, NaN, 0.0, NaN, NaN",0.167,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,42.0,"subdo, oceanus, sceptrum, et, margo, caelum",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,43.0,"claudo, ops, quantus, disto, ab, tigris, gades",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,44.0,"inter, sui, tanais, quantus, nilusque, relinquo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,45.0,"hic, tamen, innumerus, per, sui, quaero, tropaeum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+claudian.panegyricus_de_quarto_consulatu,46.0,"non, genus, donum, non, ambitio, potior",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,ambitio,0.167
+claudian.panegyricus_de_quarto_consulatu,47.0,"dignus, lego, uirtus, ultro, sui, purpura, supplex",7,"1.0, NaN, 1.0, NaN, NaN, NaN, 0.0",0.286,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,48.0,"offero, et, solus, mereo, regno, rogo",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+claudian.panegyricus_de_quarto_consulatu,49.0,"nam, cum, barbaries, penitus, commoueo, gemo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,50.0,"inrueret, rhodope, -ne, et, misceo, turbo, gens",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,51.0,"iam, desero, suus, in, nos, transfundo, arctos",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,52.0,"danuuii, totus, uomo, cum, proelio, ripa",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,53.0,"cum, geticis, ingens, premo, mysia, plaustrum",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+claudian.panegyricus_de_quarto_consulatu,54.0,"flauus, bistonios, operio, agmen, campus",5,"NaN, NaN, NaN, -1.0, 0.0",-0.2,-0.2,,0.0
+claudian.panegyricus_de_quarto_consulatu,55.0,"omnis, affligo, et, uel, labor, ictus",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+claudian.panegyricus_de_quarto_consulatu,56.0,"uel, prope, cado, unus, tot, funero, contra",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,57.0,"resto, extinxitque, fax, ager, colonus",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,fax,0.2
+claudian.panegyricus_de_quarto_consulatu,58.0,"reddo, et, letum, rapio, de, fauces, urbs",7,"NaN, NaN, -1.0, NaN, NaN, NaN, 0.5",-0.071,-0.143,,0.0
+claudian.panegyricus_de_quarto_consulatu,59.0,"nullus, relinquo, sum, romanus, nomen, umbra",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,60.0,"ni, pater, ille, tuus, iamiam, ruitura, subeo",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,61.0,"pondero, turbatamque, ratis, certo, leuo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,62.0,"naufragium, communis, manus, uelut, ordo, rumpo",6,"NaN, 0.0, 0.0, NaN, 0.5, NaN",0.083,0.0,naufragium,0.167
+claudian.panegyricus_de_quarto_consulatu,63.0,"cum, procul, insanus, traho, phaethonta, quadrigae",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,insanus,0.167
+claudian.panegyricus_de_quarto_consulatu,64.0,"saeuiretque, dies, terra, et, stagnum, propinquus",6,"NaN, 0.0, 0.0, NaN, NaN, 0.0",0.0,0.0,stagnum,0.167
+claudian.panegyricus_de_quarto_consulatu,65.0,"haurio, radius, soleo, cum, murmur, toruus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,66.0,"sol, occurro, equus, qui, postquam, rursus, erilis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,67.0,"a-nosco, sonus, redeo, bonus, magister",5,"NaN, NaN, NaN, 1.0, 0.5",0.3,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,68.0,"machina, concentus, polio, currus, recipio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,69.0,"imperium, flamma, modus, sic, trado, ille",6,"0.0, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,70.0,"seruo, orior, at, non, pars, alter, res",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,71.0,"trado, bis, possessus, manus, bis, pario, periculum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+claudian.panegyricus_de_quarto_consulatu,72.0,"per, uarius, geminus, scelus, erumpo, tyrannus",6,"NaN, 0.0, NaN, -1.0, NaN, NaN",-0.167,-0.167,"scelus, tyrannus",0.333
+claudian.panegyricus_de_quarto_consulatu,73.0,"tractus, occiduus, hic, saeuus, britannia, fundo",6,"0.0, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,"hic, saeuus",0.333
+claudian.panegyricus_de_quarto_consulatu,74.0,"hic, sui, germanus, famulis, deligo, exul",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,hic,0.167
+claudian.panegyricus_de_quarto_consulatu,75.0,"audeo, uterque, nefas, dominus, respergo, uterque",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,nefas,0.167
+claudian.panegyricus_de_quarto_consulatu,76.0,"insons, iugulo, nouitas, audeo, prior",5,"1.0, NaN, 0.0, NaN, 0.5",0.3,0.0,"insons, iugulo",0.4
+claudian.panegyricus_de_quarto_consulatu,77.0,"suadeo, caueo, do, exemplum, sequor",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,78.0,"hic, nouo, molior, praeceps, hic, quaero, tueor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.286
+claudian.panegyricus_de_quarto_consulatu,79.0,"prouidus, hic, fundo, colligo, uis, ille",6,"1.0, NaN, NaN, NaN, 1.0, NaN",0.333,0.0,hic,0.167
+claudian.panegyricus_de_quarto_consulatu,80.0,"hic, uagus, excurro, hic, intra, claustra, reduco",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.286
+claudian.panegyricus_de_quarto_consulatu,81.0,"dissimilis, sed, mors, par, euado, neuter",6,"NaN, NaN, -1.0, 0.5, NaN, NaN",-0.083,-0.167,,0.0
+claudian.panegyricus_de_quarto_consulatu,82.0,"dedecus, aut, misceo, licet, procumbo, talis",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,dedecus,0.167
+claudian.panegyricus_de_quarto_consulatu,83.0,"amitto, species, rapio, insignis, ambo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,84.0,"in, uultus, redeo, suus, manus, reuincio",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,85.0,"offertor, gladius, summitto, collum, paro",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,86.0,"et, uita, uenio, rogo, pro, damno, pudor",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,"damno, pudor",0.286
+claudian.panegyricus_de_quarto_consulatu,87.0,"qui, modo, tam, densus, nutus, moueo, cohors",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,88.0,"in, qui, iam, dubius, sui, libro, orbis",7,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,,0.0
+claudian.panegyricus_de_quarto_consulatu,89.0,"non, hostis, uictor, cado, sed, iudex, sons",7,"NaN, -1.0, NaN, NaN, NaN, 0.5, -1.0",-0.214,-0.286,sons,0.143
+claudian.panegyricus_de_quarto_consulatu,90.0,"damno, uox, reus, peto, qui, martes, tyrannus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"damno, reus, tyrannus",0.429
+claudian.panegyricus_de_quarto_consulatu,91.0,"ambo, pereo, dux, hic, sponte, carina",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,hic,0.167
+claudian.panegyricus_de_quarto_consulatu,92.0,"decido, in, fluctus, ille, suus, aufero, ensis",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,93.0,"hic, alpes, hic, pontus, habeo, solacium, caedo",7,"NaN, NaN, NaN, 0.0, NaN, 1.0, NaN",0.143,0.0,"hic, hic",0.286
+claudian.panegyricus_de_quarto_consulatu,94.0,"frater, hic, ultor, tribuo, nex, auctor, uterque",7,"0.0, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,"hic, ultor, nex",0.429
+claudian.panegyricus_de_quarto_consulatu,95.0,"labor, augustus, par, uictima, mitigo, umbra",6,"-0.5, 1.0, 0.5, NaN, NaN, NaN",0.167,-0.083,,0.0
+claudian.panegyricus_de_quarto_consulatu,96.0,"hic, do, inferiae, tumulus, iuuenis, duo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+claudian.panegyricus_de_quarto_consulatu,97.0,"purpureus, mereo, placo, sanguis, manes",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,98.0,"ille, iustitia, confirmo, triumphus",4,"NaN, 1.0, NaN, NaN",0.25,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,99.0,"praesens, doceo, deus, hinc, saeculum, disco",6,"0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,100.0,"indomitus, nihil, sum, pius, tutumue, noceo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"indomitus, noceo",0.333
+claudian.panegyricus_de_quarto_consulatu,101.0,"nuntius, ipse, suus, longus, incognitus, ago",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,102.0,"praeuento, rumor, uia, inopinus, uterque",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,103.0,"percello, et, claudo, mons, ut, planum, relinquo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,planum,0.143
+claudian.panegyricus_de_quarto_consulatu,104.0,"extruite, immanis, scopulus, attollo, turris",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,immanis,0.2
+claudian.panegyricus_de_quarto_consulatu,105.0,"cingo, tu, fluuius, uasto, oppono, silua",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, uasto",0.333
+claudian.panegyricus_de_quarto_consulatu,106.0,"garganum, alpinis, appenninumque, niual",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,107.0,"per-misceo, sociate, iugum, et, rupes, haemum",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,108.0,"addo, caucasiis, inuoluo, pelion, ossae",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,109.0,"non, do, murus, scelus, qui, uindico, eo",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,scelus,0.143
+claudian.panegyricus_de_quarto_consulatu,110.0,"omnis, subsido, bonus, peruius, causa",5,"NaN, NaN, 1.0, NaN, 0.0",0.2,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,111.0,"neque, tamen, obliuiscor, ciuis, cedo, atrox",6,"NaN, NaN, NaN, 0.5, NaN, -1.0",-0.083,-0.167,,0.0
+claudian.panegyricus_de_quarto_consulatu,112.0,"pars, infremo, non, insulto, iaceo",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,"infremo, iaceo",0.4
+claudian.panegyricus_de_quarto_consulatu,113.0,"malo, mitis, prex, pietas, abundo",5,"NaN, 1.0, 0.0, 1.0, NaN",0.4,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,114.0,"poena, parens, sum, pax, non, infero, ira",7,"-1.0, 0.5, NaN, 0.5, NaN, NaN, -1.0",-0.143,-0.286,poena,0.143
+claudian.panegyricus_de_quarto_consulatu,115.0,"post, acies, odium, idem, qui, terminus, arma",7,"NaN, 0.0, -1.0, NaN, NaN, 0.0, 0.0",-0.143,-0.143,,0.0
+claudian.panegyricus_de_quarto_consulatu,116.0,"prosum, hic, uinco, capio, multi, subigo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+claudian.panegyricus_de_quarto_consulatu,117.0,"prosper, laturae, commendo, catena",4,"1.0, NaN, NaN, 0.0",0.25,0.0,catena,0.25
+claudian.panegyricus_de_quarto_consulatu,118.0,"magnaris, largitor, opos, largitor, honor",5,"NaN, NaN, 0.5, NaN, 1.0",0.3,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,119.0,"pronus, et, in, bonus, gaudeo, conuerto, fatum",7,"NaN, NaN, NaN, 1.0, NaN, NaN, 0.0",0.143,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,120.0,"hinc, amor, hinc, ualidus, deuoto, miles, robur",7,"NaN, 1.0, NaN, 1.0, NaN, 0.0, 0.5",0.357,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,121.0,"hinc, obstino, maneo, fides, hic, nobilis, ortus",7,"NaN, NaN, NaN, 1.0, NaN, 1.0, NaN",0.286,0.0,hic,0.143
+claudian.panegyricus_de_quarto_consulatu,122.0,"nasco, aequaeuus, cum, maiestas, creo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,123.0,"nullus, priuo, patior, contagium, sors",5,"NaN, NaN, NaN, -1.0, -1.0",-0.4,-0.4,,0.0
+claudian.panegyricus_de_quarto_consulatu,124.0,"omnis, accipio, ultro, tu, regius, solus",6,"NaN, NaN, NaN, NaN, 0.0, -0.5",-0.083,-0.083,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,125.0,"profero, et, patrius, felix, adolescis, in, ostrum",7,"NaN, NaN, 0.0, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,126.0,"membrum, uestio, numquam, uiolo, profano",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"uestio, uiolo",0.4
+claudian.panegyricus_de_quarto_consulatu,127.0,"in, sacer, cado, sinus, hispania, pater",6,"NaN, 1.0, NaN, NaN, NaN, 0.0",0.167,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,128.0,"aurifer, educo, aqua, tu, gaudeo, alumnus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,129.0,"bosphorus, hesperio, de, limen, surgo, origo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,130.0,"sed, nutrix, aurora, tu, pro, pignus, tantus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.143
+claudian.panegyricus_de_quarto_consulatu,131.0,"certo, geminus, ciuis, tu, uindico, axis",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,132.0,"hercules, et, bromii, sustento, gloria, thebas",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,133.0,"haereo, apollineo, delos, latonia, partus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,134.0,"cerno, sui, iacto, tener, reptata, tono",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,135.0,"sed, bonus, delis, dictaeis, clarus, ora",6,"NaN, 1.0, NaN, NaN, 0.5, NaN",0.25,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,136.0,"qui, do, hic, numen, regius, non, litus, noster",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.125
+claudian.panegyricus_de_quarto_consulatu,137.0,"sufficio, angustus, deus, neque, inhospitus, cynthi",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,138.0,"saxum, tuus, artus, durus, laedo, cubile",6,"0.0, 0.0, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+claudian.panegyricus_de_quarto_consulatu,139.0,"adclinis, genetrix, aurum, circumfluus, gemma",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,140.0,"in, tyrios, enitor, torus, ululo, uereor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,141.0,"aula, puerperium, qui, tunc, documentum, sum",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,142.0,"qui, uoco, auis, quantus, per, inanis, uolo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,143.0,"qui, uates, discursus, sum, tu, corniger, hammo, -ne",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+claudian.panegyricus_de_quarto_consulatu,144.0,"et, dudum, taceo, rumpo, silentium, delphi",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,145.0,"tu, permulceo, cano, magus, tu, sentio, etruscus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, permulceo, tu",0.429
+claudian.panegyricus_de_quarto_consulatu,146.0,"augur, et, inspicio, babylonius, horreo, astrum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,147.0,"chaldaei, stupeo, senex, cumanaque, rursus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,148.0,"intono, rupes, rabidus, delubrum, sibylla",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,rabidus,0.2
+claudian.panegyricus_de_quarto_consulatu,149.0,"neque, tu, progigno, cybeleius, acer, sonorus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,150.0,"lustro, uit, corybas, exercitus, undique, fulgeo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,151.0,"asto, amb-eo, signum, augustus, infer",5,"NaN, NaN, 0.0, 1.0, NaN",0.2,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,152.0,"sentio, adoro, galea, reddo, ferox",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,ferox,0.2
+claudian.panegyricus_de_quarto_consulatu,153.0,"uagitus, lituus, uita, tu, confero, idem",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,154.0,"imperium, dies, inter, cunabula, consul",5,"0.0, 0.0, NaN, NaN, 0.5",0.1,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,155.0,"proueheris, signas, pono, modo, nomen, fasti",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,156.0,"donaturque, tu, qui, tu, produco, annus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, tu",0.333
+claudian.panegyricus_de_quarto_consulatu,157.0,"ipse, quirinal, paruus, tu, cingo, amictus",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,158.0,"mater, et, ad, primus, doceo, reptaris, curulis",7,"0.0, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,159.0,"uber, sanctus, immortalis, dearis",4,"1.0, 1.0, 0.5, NaN",0.625,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,160.0,"cresco, adoro, gremium, tu, saepe, diana",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,161.0,"maenalios, arcus, uenatricesque, pharetra",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,162.0,"suspendo, puerilis, decus, tu, saepe, mineruae",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,163.0,"ludo, clipeus, fuluamque, impunis, pererro",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,impunis,0.2
+claudian.panegyricus_de_quarto_consulatu,164.0,"aegida, tracto, blandus, interritus, anguis",5,"NaN, NaN, 0.5, 0.5, NaN",0.2,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,165.0,"saepe, tuus, etiam, iam, tum, gaudeo, marito",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,marito,0.143
+claudian.panegyricus_de_quarto_consulatu,166.0,"uelo, regina, como, festino, uoueo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,167.0,"prae-sumo, diadema, do, tum, lenis, ulna",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,168.0,"tollo, et, magnus, porrigo, ad, osculum, pater",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,169.0,"neque, differo, honor, muto, princeps, caesar",6,"NaN, NaN, 1.0, NaN, 0.5, 0.5",0.333,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,170.0,"protinus, aequaris, frater, non, certus, umquam",6,"NaN, NaN, 0.0, NaN, 0.5, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,171.0,"hortas, superi, nullus, praesens, aether",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,172.0,"adsum, omen, tenebrae, inuoluo, ater",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,173.0,"lumen, hiems, densus, notus, colligo, imber",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,174.0,"sed, mox, cum, soleo, miles, tu, uox, leuo",8,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,tu,0.125
+claudian.panegyricus_de_quarto_consulatu,175.0,"nubila, dissoluo, phoebus, parito, do",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,176.0,"sceptrum, tu, mundo, dies, caligo, liber",6,"NaN, NaN, NaN, 0.0, -0.5, 0.5",0.0,-0.083,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,177.0,"bosphorus, aduerro, patior, calchedona, cerno",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,178.0,"neque, tantus, uicinum, niteo, sed, totus, repello",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,179.0,"nubis, exuo, thrace, pangaea, renideo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,180.0,"insuetosque, palus, radius, maeotia, uibro",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,181.0,"neque, boreas, nimbus, aut, sol, ardeo, ago",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,182.0,"imperium, lux, ilia, sum, praesagus, obeo",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,183.0,"cunctus, nitor, rideo, tuus, natura, serenus",6,"0.0, 1.0, NaN, 0.0, 0.0, NaN",0.167,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,184.0,"uideo, etiam, medium, populus, miror, audax",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,audax,0.167
+claudian.panegyricus_de_quarto_consulatu,185.0,"stella, dies, dubito, nihil, neque, crinis, re-tundo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,186.0,"languidus, sed, quantus, numero, nox, bootes",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,187.0,"emicuitque, plaga, alienus, tempus, hospes",5,"NaN, 0.0, -0.5, 0.0, 0.0",-0.1,-0.1,,0.0
+claudian.panegyricus_de_quarto_consulatu,188.0,"ignis, et, agnosco, possum, cum, luna, lateo",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,189.0,"siue, parens, augustus, sum, seu, fors, reluceo",7,"NaN, 0.5, 1.0, NaN, NaN, 0.0, NaN",0.214,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,190.0,"diuus, sidus, auus, seu, tu, propero, astrum",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.143
+claudian.panegyricus_de_quarto_consulatu,191.0,"cerno, sol, patior, caelum, communis, remitto",6,"NaN, NaN, NaN, 0.5, 0.0, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,192.0,"appareo, quis, signum, fero, uenio, potestas",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,193.0,"claruit, ascanius, subeo, cum, lux, comaris",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,194.0,"innocuus, flagro, apex, phrygio, uoluo",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,195.0,"uertex, fatal, redimiret, tempus, candor",5,"NaN, NaN, NaN, 0.0, 0.5",0.1,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,196.0,"at, tuus, caelestis, in-lustro, omen, flamma",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,197.0,"talis, ab, idaeis, primaeuus, iuppiter, antrum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,198.0,"possessus, sto, arx, polio, famulus, recipio",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,199.0,"natura, trado, deus, lanugo, nondum",5,"0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,200.0,"uernabant, uultus, neque, adhuc, per, collum, fluo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,201.0,"moueo, conuexus, coma, tum, scindo, nubes",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,202.0,"disco, fulmen, rudo, torqueo, lacertus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,203.0,"laetus, augurium, genitor, nascor, superbus",5,"1.0, 0.5, NaN, NaN, -1.0",0.1,-0.2,,0.0
+claudian.panegyricus_de_quarto_consulatu,204.0,"iam, par, duplex, fulcio, noun, redeo",6,"NaN, 0.5, 0.0, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,205.0,"splendebatque, pius, complexus, pignus, currus",5,"NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,206.0,"haud, aliter, superus, geminus, cum, pater, lacones",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,207.0,"progenies, ledaea, sedeo, in, uterque, reluceo",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,208.0,"frater, uterque, soror, similis, chlamys, effluo, aurum",7,"0.0, NaN, NaN, 0.0, NaN, NaN, 0.5",0.071,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,209.0,"stello, pariter, crinis, iuuo, ipse, tono",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,210.0,"error, et, ambiguus, placeo, ignoro, mater",6,"-1.0, NaN, -0.5, NaN, NaN, 0.0",-0.25,-0.25,,0.0
+claudian.panegyricus_de_quarto_consulatu,211.0,"eurotas, proprius, discerno, nescio, alumnus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,212.0,"ut, domus, excipio, reduco, ibi, talis, cum, tu",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.125
+claudian.panegyricus_de_quarto_consulatu,213.0,"pro, res, stabilis, fero, dicio, loquor",6,"NaN, 0.0, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,214.0,"si, tu, parthi, solium, fortuna, do",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"tu, parthi",0.333
+claudian.panegyricus_de_quarto_consulatu,215.0,"caris, puer, terra, procul, ueneror, eous",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,216.0,"barbarus, arsacio, consurgo, os, tiaras",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,217.0,"sufficio, sublimis, genus, luxus, fluo",5,"NaN, 0.5, 0.0, -0.5, NaN",0.0,-0.1,luxus,0.2
+claudian.panegyricus_de_quarto_consulatu,218.0,"desideo, nobilitas, possum, tu, solus, tueor",6,"NaN, 1.0, NaN, NaN, -0.5, NaN",0.083,-0.083,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,219.0,"alter, romanus, longus, rector, aula",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,220.0,"condicio, uirtus, decet, non, sanguis, nitor",6,"0.0, 1.0, NaN, NaN, NaN, 1.0",0.333,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,221.0,"magnus, et, utilis, fatum, coniungo, potens",6,"0.0, NaN, 1.0, 0.0, NaN, 1.0",0.333,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,222.0,"uilis, lateo, uirtus, quis, enim, sub-mergo, tenebrae",7,"-0.5, NaN, 1.0, NaN, NaN, NaN, NaN",0.071,-0.071,"uilis, sub-mergo",0.286
+claudian.panegyricus_de_quarto_consulatu,223.0,"pro-sum, obscurum, uelut, sine, remex, puppis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,224.0,"uel, lyra, qui, reticeo, uel, qui, non, tendo, arcus",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,225.0,"hic, tamen, haud, quisquam, qui, non, a-nosco, ante",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+claudian.panegyricus_de_quarto_consulatu,226.0,"sui, et, incertus, animus, placo, aestus",6,"NaN, NaN, -0.5, 0.5, NaN, NaN",0.0,-0.083,,0.0
+claudian.panegyricus_de_quarto_consulatu,227.0,"inuenio, longus, illic, ambages, eo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,228.0,"disco, orbus, qui, quisque, sui, cum, condo, artus",8,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN, NaN",-0.062,-0.062,,0.0
+claudian.panegyricus_de_quarto_consulatu,229.0,"noster, aetherius, misceo, terrenus, prometheus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,230.0,"sincerus, pater, mens, furor, olympus",5,"0.5, 0.0, 0.5, -1.0, NaN",0.0,-0.2,furor,0.2
+claudian.panegyricus_de_quarto_consulatu,231.0,"contineo, claustra, indignor, reuincio",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,232.0,"et, cum, non, aliter, possum, mortalia, fingo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,fingo,0.143
+claudian.panegyricus_de_quarto_consulatu,233.0,"adiungo, gemino, ille, cum, corpus, labor",6,"NaN, NaN, NaN, NaN, 0.0, -0.5",-0.083,-0.083,,0.0
+claudian.panegyricus_de_quarto_consulatu,234.0,"intereo, hic, solus, maneo, bustoque, supersto",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,hic,0.167
+claudian.panegyricus_de_quarto_consulatu,235.0,"euolo, hic, altus, capio, fundo, in, arx",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,hic,0.143
+claudian.panegyricus_de_quarto_consulatu,236.0,"mandatrix, opus, prospecturamque, labor",4,"NaN, 0.5, NaN, -0.5",0.0,-0.125,,0.0
+claudian.panegyricus_de_quarto_consulatu,237.0,"ille, inferus, collum, praecipio, summa",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,238.0,"passuras, domina, dignus, statio, loco",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,239.0,"quippe, opifex, uereor, confundo, sacer, profanus",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,profanus,0.167
+claudian.panegyricus_de_quarto_consulatu,240.0,"distribuo, pars, anima, sedeo, remoueo",5,"NaN, 0.0, 0.5, NaN, NaN",0.1,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,241.0,"ira, sanguis, regius, sub, pectus, chordus",6,"-1.0, NaN, 0.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+claudian.panegyricus_de_quarto_consulatu,242.0,"protego, imbuo, flamma, auidus, noceo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,noceo,0.2
+claudian.panegyricus_de_quarto_consulatu,243.0,"praecipito, suus, rabies, succendo, tumesco",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,rabies,0.2
+claudian.panegyricus_de_quarto_consulatu,244.0,"contraho, tepefacio, metus, cum, omnis, cum, sui",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+claudian.panegyricus_de_quarto_consulatu,245.0,"duco, et, requies, membrum, uesanus, nego",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uesanus,0.167
+claudian.panegyricus_de_quarto_consulatu,246.0,"inuenio, pulmo, ops, madidus, furo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,furo,0.2
+claudian.panegyricus_de_quarto_consulatu,247.0,"praebeo, ut, tumidus, ruo, in, mollis, fibra",7,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+claudian.panegyricus_de_quarto_consulatu,248.0,"at, sui, cunctus, peto, nihil, confero, cupido",7,"NaN, NaN, 0.0, NaN, NaN, NaN, -0.5",-0.071,-0.071,,0.0
+claudian.panegyricus_de_quarto_consulatu,249.0,"in, iecur, et, traho, imi, compello, recedo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,250.0,"qui, uelut, immanis, resero, dum, belua, rictus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,immanis,0.143
+claudian.panegyricus_de_quarto_consulatu,251.0,"expleo, pasco, nequeo, nunc, uerber, cura",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,uerber,0.167
+claudian.panegyricus_de_quarto_consulatu,252.0,"torqueo, auaritia, stimulus, nunc, flagro, amor",6,"NaN, -1.0, 0.0, NaN, NaN, 1.0",0.0,-0.167,"auaritia, stimulus",0.333
+claudian.panegyricus_de_quarto_consulatu,253.0,"nunc, gaudeo, nunc, maestus, doleo, satiataque, rursus",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,,0.0
+claudian.panegyricus_de_quarto_consulatu,254.0,"exorior, caedo, redeo, pollentius, hydra",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,255.0,"hic, igitur, possum, si, quis, sedaris, tumultus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+claudian.panegyricus_de_quarto_consulatu,256.0,"inconcussus, do, purus, sacrarium, mens",5,"0.5, NaN, 1.0, NaN, 0.5",0.4,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,257.0,"tu, licet, extremus, latus, dominere, per, indus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+claudian.panegyricus_de_quarto_consulatu,258.0,"tu, medus, tu, mollio, arabs, tu, sero, adoro",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu, tu",0.375
+claudian.panegyricus_de_quarto_consulatu,259.0,"si, metuo, si, prauus, cupio, si, duco, ira",8,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, -1.0",-0.25,-0.25,prauus,0.125
+claudian.panegyricus_de_quarto_consulatu,260.0,"seruitium, patior, iugum, tolero, iniquus",5,"-1.0, NaN, NaN, NaN, -1.0",-0.4,-0.4,iniquus,0.2
+claudian.panegyricus_de_quarto_consulatu,261.0,"interior, lex, tunc, omnis, ius, teneo",6,"NaN, 0.5, NaN, NaN, 0.5, NaN",0.167,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,262.0,"cum, possum, rex, sum, tuus, procliuis, utor",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,263.0,"in, malus, do, suadeo, licentia, luxus",6,"NaN, -1.0, NaN, NaN, -0.5, -0.5",-0.333,-0.333,"licentia, luxus",0.333
+claudian.panegyricus_de_quarto_consulatu,264.0,"illecebra, effreno, faueo, tum, uiuo, castus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"illecebra, effreno",0.333
+claudian.panegyricus_de_quarto_consulatu,265.0,"asper, cum, promptus, uenus, tum, durus, ira",7,"-0.5, NaN, NaN, 1.0, NaN, -0.5, -1.0",-0.143,-0.286,,0.0
+claudian.panegyricus_de_quarto_consulatu,266.0,"consulo, cum, poena, pateo, sed, comprimo, moueo",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,poena,0.143
+claudian.panegyricus_de_quarto_consulatu,267.0,"neque, tu, quis, licet, sed, quis, facio, decet",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+claudian.panegyricus_de_quarto_consulatu,268.0,"occurro, mens, domo, respicio, honestus",5,"NaN, 0.5, NaN, NaN, 1.0",0.3,0.0,honestus,0.2
+claudian.panegyricus_de_quarto_consulatu,269.0,"hic, tu, praeterea, creber, sermo, moneo",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,"hic, tu",0.333
+claudian.panegyricus_de_quarto_consulatu,270.0,"ut, tu, totus, medium, tellus, in, os",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+claudian.panegyricus_de_quarto_consulatu,271.0,"uiuo, cognosco, cunctus, tuus, gens, sum",6,"NaN, NaN, 0.0, 0.0, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,272.0,"facio, palam, neque, possum, do, regal, usquam",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,273.0,"secerno, uitium, nam, lux, alo, fatum",6,"NaN, -1.0, NaN, NaN, NaN, 0.0",-0.167,-0.167,,0.0
+claudian.panegyricus_de_quarto_consulatu,274.0,"occulo, nihil, sum, sino, latebra, per, omnis",7,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN",-0.071,-0.071,,0.0
+claudian.panegyricus_de_quarto_consulatu,275.0,"intro, et, abstrudo, exploro, fama, recedo",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,276.0,"sum, pius, in, primus, nam, cum, uinco, in, omnis",9,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,277.0,"munus, solus, deus, aequo, dementia, nos",6,"0.5, -0.5, 0.0, NaN, -1.0, NaN",-0.167,-0.25,,0.0
+claudian.panegyricus_de_quarto_consulatu,278.0,"neu, dubius, suspicio, ago, neu, falsus, amicus",7,"NaN, -0.5, -0.5, NaN, NaN, -1.0, 1.0",-0.143,-0.286,,0.0
+claudian.panegyricus_de_quarto_consulatu,279.0,"rumorumue, auidus, qui, talis, curo, inanis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,280.0,"horreo, strepitus, nullus, non, anxius, hora",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+claudian.panegyricus_de_quarto_consulatu,281.0,"non, sic, excubiae, non, circumsto, pilum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,282.0,"quam, tuto, amor, non, extorqueo, amo",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,283.0,"hic, alternus, fides, hic, simplex, gratia, dono",7,"NaN, NaN, 1.0, NaN, 0.5, 1.0, NaN",0.357,0.0,"hic, hic",0.286
+claudian.panegyricus_de_quarto_consulatu,284.0,"nonne, uideo, opus, qui, sui, pulcher, ipse",7,"NaN, NaN, 0.5, NaN, NaN, 1.0, NaN",0.214,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,285.0,"mundus, amor, ligo, neque, uis, conecto, per, aeuum",8,"1.0, 1.0, NaN, NaN, 1.0, NaN, NaN, NaN",0.375,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,286.0,"conspiro, elementum, sui, qui, limes, phoebus",6,"NaN, 0.5, NaN, NaN, 0.0, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,287.0,"contineo, medium, contineo, litus, pontus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,288.0,"et, qui, perpetuus, terra, amb-eo, uehitque",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,289.0,"neque, premo, incumbo, onus, neque, cedo, aer",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,290.0,"qui, terreo, multus, ipse, timeo, sors, iste, tyrannus",8,"NaN, NaN, 0.0, NaN, NaN, -1.0, NaN, NaN",-0.125,-0.125,tyrannus,0.125
+claudian.panegyricus_de_quarto_consulatu,291.0,"conuenio, inuideo, claris, fortis, trucido",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,292.0,"munio, gladius, uiuo, saeptique, uenenum",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,,0.0
+claudian.panegyricus_de_quarto_consulatu,293.0,"anceps, habeo, arx, trepidus, mino",5,"-0.5, NaN, NaN, -1.0, NaN",-0.3,-0.3,,0.0
+claudian.panegyricus_de_quarto_consulatu,294.0,"tu, ciuis, patro, gero, tu, consul, cunctus",7,"NaN, 0.5, NaN, NaN, NaN, 0.5, 0.0",0.143,0.0,"tu, tu",0.286
+claudian.panegyricus_de_quarto_consulatu,295.0,"non, tu, neque, tuus, tu, moueo, sed, publicus, ueto",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"tu, tu",0.222
+claudian.panegyricus_de_quarto_consulatu,296.0,"in, communis, iubeo, si, quis, censesque, teneo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,297.0,"primus, iubeo, subeo, tunc, obseruantior, aequum",6,"0.5, NaN, NaN, NaN, NaN, 0.5",0.167,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,298.0,"fio, populus, neque, fero, nego, cum, uideo, ipse",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,299.0,"auctor, pareo, sui, compono, orbis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,300.0,"rex, ad, exemplum, neque, sic, inflecto, sensus",7,"0.0, NaN, 0.0, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,301.0,"humani, edico, ualeo, quam, uito, regens",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,302.0,"mobilis, muto, semper, cum, princeps, uulgus",6,"NaN, NaN, NaN, NaN, 0.5, 0.0",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,303.0,"hic, tamen, efficio, neu, fastidio, paruus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.167
+claudian.panegyricus_de_quarto_consulatu,304.0,"neu, peto, praescribo, homo, transcendo, finis",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,305.0,"inquino, egregius, adiungo, superbia, mos",5,"NaN, 0.0, NaN, -1.0, 0.5",-0.1,-0.2,"inquino, superbia",0.4
+claudian.panegyricus_de_quarto_consulatu,306.0,"non, tu, trado, docilis, seruio, sabaeos",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, sabaeos",0.333
+claudian.panegyricus_de_quarto_consulatu,307.0,"armeniae, dominus, non, tu, praeficio, ora",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,308.0,"neque, do, assyriam, teneo, quam, femina, gens",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,309.0,"romanus, qui, cunctus, diu, rego, rego",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,310.0,"qui, neque, tarquinii, fastus, neque, ius, fero",7,"NaN, NaN, NaN, -1.0, NaN, 0.5, NaN",-0.071,-0.143,,0.0
+claudian.panegyricus_de_quarto_consulatu,311.0,"caesar, annal, uetus, delictum, loquor",5,"0.5, NaN, 0.0, -1.0, NaN",-0.1,-0.2,delictum,0.2
+claudian.panegyricus_de_quarto_consulatu,312.0,"haereo, macula, quis, non, per, saeculum, damno",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"macula, damno",0.286
+claudian.panegyricus_de_quarto_consulatu,313.0,"caesareae, portentum, domus, qui, dirus, nero",6,"NaN, 0.0, 0.0, NaN, -1.0, NaN",-0.167,-0.167,"portentum, dirus",0.333
+claudian.panegyricus_de_quarto_consulatu,314.0,"funero, qui, rupes, caprearis, taeter, lateo",6,"NaN, NaN, 0.0, NaN, -1.0, NaN",-0.167,-0.167,taeter,0.167
+claudian.panegyricus_de_quarto_consulatu,315.0,"incesto, possessus, senex, uinco, fero",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,incesto,0.2
+claudian.panegyricus_de_quarto_consulatu,316.0,"gloria, traiani, non, tam, qui, tigris, uinco",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,317.0,"noster, triumpho, sum, prouincia, parthi",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,parthi,0.2
+claudian.panegyricus_de_quarto_consulatu,318.0,"altus, qui, inueho, frango, capitolium, dacis",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,319.0,"quam, patria, qui, mitis, sum, ne, desino, talis",8,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,320.0,"natus, sequor, si, bellum, cano, prior, agmen, durus",8,"0.0, NaN, NaN, 0.0, NaN, 0.5, -1.0, -0.5",-0.125,-0.188,,0.0
+claudian.panegyricus_de_quarto_consulatu,321.0,"exerceo, studium, et, saeuus, praestrue, mars",6,"NaN, 0.5, NaN, -1.0, NaN, NaN",-0.083,-0.167,saeuus,0.167
+claudian.panegyricus_de_quarto_consulatu,322.0,"non, bruma, requies, non, hibernacula, segnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,323.0,"eneruent, torpor, manus, pono, salubris",5,"NaN, -1.0, 0.0, NaN, 1.0",0.0,-0.2,,0.0
+claudian.panegyricus_de_quarto_consulatu,324.0,"castrum, locus, praebeo, uigil, custodia, uallo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,325.0,"disco, ubi, denseri, cuneus, ubi, cornu, tendo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,326.0,"aequus, aut, iterum, flecto, qui, mons, aptus",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,327.0,"qui, campus, acies, qui, fraus, commodus, ualles",7,"NaN, 0.0, 0.0, NaN, -1.0, 0.5, NaN",-0.071,-0.143,fraus,0.143
+claudian.panegyricus_de_quarto_consulatu,328.0,"qui, uia, difficilis, findo, si, moenia, hostis",7,"NaN, 0.0, -0.5, NaN, NaN, NaN, -1.0",-0.214,-0.214,,0.0
+claudian.panegyricus_de_quarto_consulatu,329.0,"tum, tu, mural, libro, machina, pello",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,330.0,"saxum, rota, praeceps, aries, protectaque, porta",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,331.0,"testudo, ferio, ruo, emersura, iuuentus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,332.0,"effodio, per, operio, solus, si, longus, moror",7,"NaN, NaN, NaN, -0.5, NaN, 0.0, NaN",-0.071,-0.071,,0.0
+claudian.panegyricus_de_quarto_consulatu,333.0,"obsidio, tum, ueto, caueo, securus, remitto",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,334.0,"inclusumue, puto, multus, damnosus, sum",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,335.0,"gaudium, dis-permulceo, pereo, somnoue, soluo",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,336.0,"saepis, incautae, noceo, uictoria, turba",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,noceo,0.2
+claudian.panegyricus_de_quarto_consulatu,337.0,"neu, tu, regificis, tentorius, largus, redundo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,338.0,"deliciae, neue, imbellis, ad, signum, minister",6,"NaN, NaN, -1.0, NaN, 0.0, 0.0",-0.167,-0.167,deliciae,0.167
+claudian.panegyricus_de_quarto_consulatu,339.0,"luxurio, armo, traho, neu, flo, auster",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,luxurio,0.167
+claudian.panegyricus_de_quarto_consulatu,340.0,"neu, pluuia, cedo, neu, defendo, calor",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,341.0,"aureus, summoueo, rapidus, umbraculum, soleo",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,342.0,"inuenio, utor, cibus, solo, pars",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,343.0,"aequal, sudor, tuus, si, collis, iniquus",6,"NaN, NaN, 0.0, NaN, NaN, -1.0",-0.167,-0.167,iniquus,0.167
+claudian.panegyricus_de_quarto_consulatu,344.0,"primus, ineo, silua, si, caedo, prouoco, utor",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,345.0,"sumo, ne, pudeo, quercus, sterno, bipennis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,pudeo,0.167
+claudian.panegyricus_de_quarto_consulatu,346.0,"calceo, si, piger, palus, tuus, ante, profundum",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,profundum,0.143
+claudian.panegyricus_de_quarto_consulatu,347.0,"per-tento, sonipes, fluuius, tu, protere, cursus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,348.0,"haereo, glacies, liquidus, tu, scindo, nato",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"glacies, tu",0.333
+claudian.panegyricus_de_quarto_consulatu,349.0,"nunc, eques, in, medius, eques, tu, consero, turma",8,"NaN, 0.0, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.125
+claudian.panegyricus_de_quarto_consulatu,350.0,"nunc, pes, assisto, pedes, tum, promptus, eo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,351.0,"tu, socius, tum, conspicuus, gratus, gero",6,"NaN, 1.0, NaN, 1.0, 1.0, NaN",0.5,0.0,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,352.0,"sub, tu, testis, labor, dico, multus, parens",7,"NaN, NaN, NaN, -0.5, NaN, 0.0, 0.5",0.0,-0.071,tu,0.143
+claudian.panegyricus_de_quarto_consulatu,353.0,"uox, subeo, equidem, faueo, modo, numen, coepio",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,354.0,"hic, efficio, do, neque, ego, frater, tu",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, tu",0.286
+claudian.panegyricus_de_quarto_consulatu,355.0,"dissimilis, populus, committo, regnum, uideo",5,"NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,356.0,"sed, cur, non, potis, uerbum, qui, disseris, usus",8,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,357.0,"experior, gelidus, certus, nunc, tendo, in, alpes",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,358.0,"duco, cum, tu, comes, figo, sine, noster, tyrannus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tyrannus",0.25
+claudian.panegyricus_de_quarto_consulatu,359.0,"spiculum, pallescat, noster, sine, barbarus, arcus",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,360.0,"italia, -ne, fero, furia, praedo, acerbus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,"furia, acerbus",0.333
+claudian.panegyricus_de_quarto_consulatu,361.0,"subicio, patior, roma, seruio, cliens",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,362.0,"usque, adeo, puer, neque, ego, polluo, potestas",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.5",0.071,0.0,polluo,0.143
+claudian.panegyricus_de_quarto_consulatu,363.0,"neque, pius, cognatus, tango, uindicta, cruor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"uindicta, cruor",0.333
+claudian.panegyricus_de_quarto_consulatu,364.0,"per, strages, equitaris, libet, do, protinus, arma",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,strages,0.143
+claudian.panegyricus_de_quarto_consulatu,365.0,"cur, annus, obicio, pugna, cur, arguo, impar",7,"NaN, 0.0, NaN, -1.0, NaN, NaN, -0.5",-0.214,-0.214,,0.0
+claudian.panegyricus_de_quarto_consulatu,366.0,"aequalis, ego, pyrrhus, sum, cum, pergama, solus",7,"0.5, NaN, NaN, NaN, NaN, NaN, -0.5",0.0,-0.071,pergama,0.143
+claudian.panegyricus_de_quarto_consulatu,367.0,"uerto, et, pater, non, degenero, achilles",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,achilles,0.167
+claudian.panegyricus_de_quarto_consulatu,368.0,"denique, si, princeps, castrum, haereo, nequibo",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,369.0,"uel, miles, uenio, delibo, dulcis, nascor",6,"NaN, 0.0, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,370.0,"osculum, miro, refero, laudo, peto",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,371.0,"sed, festinus, amor, uenio, robustus, aetas",6,"NaN, NaN, 1.0, NaN, 1.0, 0.0",0.333,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,372.0,"ne, propero, necdum, decimo, emetior, arista",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,373.0,"adgrederis, metuo, uis, uestigium, magnus",5,"NaN, NaN, 1.0, NaN, 0.0",0.2,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,374.0,"indoles, agnosco, fero, pellaeus, eoum",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,375.0,"qui, domo, porus, cum, prosper, saepe, philippi",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,376.0,"audio, laetus, inter, fleo, sodal",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,377.0,"nihil, sui, uinco, pater, uirtus, relinquo",6,"NaN, NaN, NaN, 0.0, 1.0, NaN",0.167,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,378.0,"hic, uideo, moueo, fas, sum, promitto, pater",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+claudian.panegyricus_de_quarto_consulatu,379.0,"tantus, sum, noster, neque, debeo, regnum, fauor",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 1.0",0.143,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,380.0,"qui, tu, iam, natura, do, sic, mollis, olim",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.125
+claudian.panegyricus_de_quarto_consulatu,381.0,"stridulus, duco, pratum, examino, rex",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,382.0,"nascor, ueneror, apis, et, publicus, mel",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,383.0,"ius, peto, trado, fauus, sic, pascuus, paruus",7,"0.5, NaN, NaN, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,384.0,"uindico, et, necdum, firmo, cornu, audax",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,audax,0.167
+claudian.panegyricus_de_quarto_consulatu,385.0,"iam, rego, armentum, uitulus, sed, proelio, differo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,386.0,"in, iuuenis, patior, meus, cum, frater, tueor",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,387.0,"ego, bellor, locus, tu, impacatus, araxes",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,388.0,"tu, celer, euphrates, timeo, sum, nilus, ubique",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+claudian.panegyricus_de_quarto_consulatu,389.0,"uester, et, emitto, quisquis, sol, imbuo, ortus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,390.0,"si, pateo, alpes, habeo, si, causa, secundus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,391.0,"iustus, euenio, adsum, pars, recipio",5,"1.0, NaN, NaN, 0.0, NaN",0.2,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,392.0,"suscipio, animosus, tuus, ut, gallia, lex",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,393.0,"audio, et, noster, aequus, modereris, hiberos",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,394.0,"tunc, ego, securus, fatum, laetus, labor",6,"NaN, NaN, 1.0, 0.0, 1.0, -0.5",0.25,-0.083,,0.0
+claudian.panegyricus_de_quarto_consulatu,395.0,"discedo, tu, uterque, rego, axis",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.2
+claudian.panegyricus_de_quarto_consulatu,396.0,"interea, musis, animus, dum, mollio, insto",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,397.0,"et, qui, mox, imito, lego, neque, desino, umquam",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,398.0,"cum, tu, graius, loquor, cum, tu, romana, uetustus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, tu",0.25
+claudian.panegyricus_de_quarto_consulatu,399.0,"antiqui, euoluo, dux, assuesco, sum",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,400.0,"militia, latium, retro, tu, confero, in, aeuum",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.143
+claudian.panegyricus_de_quarto_consulatu,401.0,"libértas, quaero, placeo, miror, brutus",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+claudian.panegyricus_de_quarto_consulatu,402.0,"perfidia, damno, metti, satio, poenio",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,"perfidia, damno",0.4
+claudian.panegyricus_de_quarto_consulatu,403.0,"tristis, rigor, nimius, torquatus, despicio, mos",6,"-1.0, NaN, NaN, NaN, NaN, 0.5",-0.083,-0.167,nimius,0.167
+claudian.panegyricus_de_quarto_consulatu,404.0,"mors, impensa, bonus, decios, ueneraris, ruo",6,"-1.0, NaN, 1.0, NaN, NaN, NaN",0.0,-0.167,,0.0
+claudian.panegyricus_de_quarto_consulatu,405.0,"uel, solus, quis, fortis, ago, tu, pons, soluo",8,"NaN, -0.5, NaN, 0.5, NaN, NaN, NaN, NaN",0.0,-0.062,tu,0.125
+claudian.panegyricus_de_quarto_consulatu,406.0,"oppono, cocles, mucus, tu, flamma, doceo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,407.0,"quis, mora, perfringat, fabius, quis, res, in, ars",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,408.0,"dux, gero, ostendo, gallus, strages, camillus",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,"gallus, strages",0.333
+claudian.panegyricus_de_quarto_consulatu,409.0,"disco, hinc, nullus, meritum, obsisto, casus",6,"NaN, NaN, NaN, 1.0, NaN, 0.0",0.167,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,410.0,"prorogo, aeternus, ferio, tu, punica, fama",6,"NaN, 0.5, NaN, NaN, NaN, 1.0",0.25,0.0,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,411.0,"regulis, successus, supero, aduerso, cato",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,412.0,"disco, hinc, quantus, paupertas, sobrius, possum",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,sobrius,0.167
+claudian.panegyricus_de_quarto_consulatu,413.0,"pauper, sum, curius, rex, cum, uinco, arma",7,"-1.0, NaN, NaN, 0.0, NaN, NaN, 0.0",-0.143,-0.143,,0.0
+claudian.panegyricus_de_quarto_consulatu,414.0,"pauper, fabricius, pyrrhi, cum, sperno, aurum",6,"-1.0, NaN, NaN, NaN, NaN, 0.5",-0.083,-0.167,,0.0
+claudian.panegyricus_de_quarto_consulatu,415.0,"sordidus, dictator, flecto, serranus, aratrum",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,sordidus,0.2
+claudian.panegyricus_de_quarto_consulatu,416.0,"lustro, lictor, cado, fascis, salignus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,417.0,"postis, affigo, colligo, consul, messis",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,418.0,"et, sulco, diu, trabeato, rus, colonus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,419.0,"hic, genitor, praecipio, do, uelut, ille, carina",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+claudian.panegyricus_de_quarto_consulatu,420.0,"longaeuus, rector, uarius, qui, saepe, procella",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,421.0,"exploro, hiems, pontus, iam, fessus, et, annus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,422.0,"aequoreus, alnus, natus, commendo, habena",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,423.0,"et, casus, arto, doceo, quo, dextera, rego",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,424.0,"sidus, quo, fluctus, possum, moderamen, fallo",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,fallo,0.167
+claudian.panegyricus_de_quarto_consulatu,425.0,"qui, nosco, nimbus, qui, fraus, infidus, serenus",7,"NaN, NaN, NaN, NaN, -1.0, -1.0, NaN",-0.286,-0.286,fraus,0.143
+claudian.panegyricus_de_quarto_consulatu,426.0,"quis, sol, occiduus, prodo, quo, saucius, uenio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,427.0,"decolo, irascor, attollo, cynthia, uultus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,428.0,"ad-specio, nunc, quicumque, mico, seu, circulus, auster",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,429.0,"magnus, parens, gelidus, seu, tu, mereo, trio",7,"0.0, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,tu,0.143
+claudian.panegyricus_de_quarto_consulatu,430.0,"ad-specio, compleo, uoueo, iam, nascor, adaequo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,431.0,"tu, meritum, et, qui, magis, sum, optabilis, uincio",8,"NaN, 1.0, NaN, NaN, NaN, NaN, 1.0, NaN",0.25,0.0,tu,0.125
+claudian.panegyricus_de_quarto_consulatu,432.0,"subnixus, stilichone, tuus, qui, frater, ipse",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,433.0,"discedo, clipeus, defensor, do",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,434.0,"pro, nos, nihil, ille, patior, nullus, recuso",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,435.0,"discrimen, tento, suus, non, durus, uiaris",6,"-1.0, NaN, NaN, NaN, -0.5, NaN",-0.25,-0.25,,0.0
+claudian.panegyricus_de_quarto_consulatu,436.0,"non, incertus, mare, libyae, squaleo, harena",6,"NaN, -0.5, 0.0, NaN, NaN, NaN",-0.083,-0.083,,0.0
+claudian.panegyricus_de_quarto_consulatu,437.0,"audeo, supero, pes, madidus, cado",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,438.0,"pleiade, gaetulas, intro, nauta, syrtes",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,439.0,"hic, tamen, in, primus, populus, lenio, ferox",7,"NaN, NaN, NaN, 0.5, 0.0, NaN, -1.0",-0.071,-0.143,"hic, ferox",0.286
+claudian.panegyricus_de_quarto_consulatu,440.0,"et, rhenus, pacaris, iubeo, uolo, ille, citas",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,441.0,"ueho, equus, nullus, latus, stipo, caterua",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,442.0,"asper, nubiferas, qui, raetia, porrigo, alpes",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+claudian.panegyricus_de_quarto_consulatu,443.0,"pergo, et, hostilis, tantus, sum, fiducia, ripa",7,"NaN, NaN, -1.0, NaN, NaN, 0.5, NaN",-0.071,-0.143,hostilis,0.143
+claudian.panegyricus_de_quarto_consulatu,444.0,"incomiter, adeo, totus, properaris, per, amnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,445.0,"attono, rex, humilis, ceruix, uideo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,humilis,0.2
+claudian.panegyricus_de_quarto_consulatu,446.0,"ante, dux, nos, flauus, spargo, sygambri",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,447.0,"caesaries, pauidoque, oro, murmur, franci",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,448.0,"procumbo, solum, iuro, honorius, absum",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,449.0,"imploratque, tuus, supplex, alamannia, nomen",5,"NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,450.0,"bastarnae, uenio, trux, uenio, accola, silua",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,trux,0.167
+claudian.panegyricus_de_quarto_consulatu,451.0,"bructerus, hercyniae, fero, palus, exeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,452.0,"cimber, et, ingens, albis, linquo, cherusci",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,albis,0.167
+claudian.panegyricus_de_quarto_consulatu,453.0,"accipio, ille, prex, uario, tardus, rogo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,454.0,"annuo, et, magnus, pax, pro, munus, dono",7,"NaN, NaN, 0.0, 0.5, NaN, 0.5, NaN",0.143,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,455.0,"nobilito, uetus, germanica, foedero, drusos",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,foedero,0.2
+claudian.panegyricus_de_quarto_consulatu,456.0,"martes, sed, anceps, sed, multus, clades, emo",7,"NaN, NaN, -0.5, NaN, 0.0, -1.0, NaN",-0.214,-0.214,emo,0.143
+claudian.panegyricus_de_quarto_consulatu,457.0,"quis, uinco, memini, solus, formido, rhenus",6,"NaN, NaN, NaN, -0.5, -1.0, NaN",-0.25,-0.25,,0.0
+claudian.panegyricus_de_quarto_consulatu,458.0,"qui, longus, alius, bellum, possum, mereo",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,459.0,"hic, tu, do, stilichonis, iter, post, otium, gallus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.5, NaN",0.062,0.0,"hic, tu, otium, gallus",0.5
+claudian.panegyricus_de_quarto_consulatu,460.0,"limes, hortaris, graias, fulcio, ruina",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,461.0,"ionium, tego, uelis, uenio, laboro",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,462.0,"tot, curuaris, sinus, seruaturasque, corinthus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,463.0,"prosequor, facilis, neptunus, gurges, classis",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,"gurges, classis",0.4
+claudian.panegyricus_de_quarto_consulatu,464.0,"et, puer, isthmiaci, iam, pridem, litor, exul",7,"NaN, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+claudian.panegyricus_de_quarto_consulatu,465.0,"securus, repeto, portus, cum, mater, palaemo, -ne",7,"1.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.143,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,466.0,"plaustrum, cruor, nato, metior, pellita, iuuentus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,cruor,0.167
+claudian.panegyricus_de_quarto_consulatu,467.0,"pars, morbus, pars, ensis, pereo, non, lustro, lycaeus",8,"0.0, -1.0, 0.0, NaN, NaN, NaN, NaN, NaN",-0.125,-0.125,,0.0
+claudian.panegyricus_de_quarto_consulatu,468.0,"non, erymantheae, iam, copia, sufficio, umbra",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,469.0,"innumerus, exuro, rogus, nudo, ferrum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,rogus,0.2
+claudian.panegyricus_de_quarto_consulatu,470.0,"sic, flagro, suus, laeto, maenala, silua",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,471.0,"excutio, cinis, ephyre, spartanus, et, areo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,472.0,"tueor, exsanguis, pes, proculco, aceruus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,exsanguis,0.2
+claudian.panegyricus_de_quarto_consulatu,473.0,"fatisco, penso, respiro, graecia, poenio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,474.0,"gens, qui, non, scythicos, diffundo, ullus, trio",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,475.0,"incolo, qui, paruus, athos, angustus, thrace",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,athos,0.167
+claudian.panegyricus_de_quarto_consulatu,476.0,"cum, transeo, sum, per, tu, uireo, tuus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+claudian.panegyricus_de_quarto_consulatu,477.0,"frango, dux, lugetque, sui, iam, rarus, supersto",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,478.0,"et, qui, turba, spatium, uix, praebeo, orbis",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,479.0,"unus, collis, lateo, sitio, includo, uallo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,480.0,"eripio, quaero, aqua, qui, hostis, ante",6,"NaN, NaN, 0.0, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+claudian.panegyricus_de_quarto_consulatu,481.0,"contiguus, alius, stilicho, deflecto, actus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,482.0,"mirantemque, nouo, ignotus, per, auia, uallo",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+claudian.panegyricus_de_quarto_consulatu,483.0,"iubeo, auerto, fluuius, migraris, meo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,484.0,"obuius, quis, mirus, uinco, cum, barbarus, ultro",7,"-0.5, NaN, 1.0, NaN, NaN, NaN, NaN",0.071,-0.071,,0.0
+claudian.panegyricus_de_quarto_consulatu,485.0,"iam, cupio, seruio, tu, tuus, sarmata, discors",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"tu, sarmata",0.286
+claudian.panegyricus_de_quarto_consulatu,486.0,"sacramentum, peto, proiectum, pello, gelonus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,487.0,"milito, in, latios, ritus, transistis, alani",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,488.0,"ut, fortis, in, martes, uir, animus, paro",7,"NaN, 0.5, NaN, NaN, 0.5, 0.5, NaN",0.214,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,489.0,"sic, iustus, in, pax, lex, longus, tueor",7,"NaN, 1.0, NaN, 0.5, 0.5, 0.0, NaN",0.286,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,490.0,"eligo, creber, neque, succedo, urgeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,491.0,"iudex, nosco, rego, fruimurque, quiesco",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,492.0,"militia, bonus, ceu, bellator, quirino",5,"0.0, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,493.0,"ceu, placidus, modero, numa, non, inmino, ensis",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,494.0,"nullus, nobilis, caedes, non, crimen, uulgo",6,"NaN, 1.0, -0.5, NaN, -1.0, NaN",-0.083,-0.25,"caedes, crimen",0.333
+claudian.panegyricus_de_quarto_consulatu,495.0,"texuntur, patria, maestus, non, trudo, exul",6,"NaN, NaN, -1.0, NaN, NaN, -1.0",-0.333,-0.333,,0.0
+claudian.panegyricus_de_quarto_consulatu,496.0,"impius, contineo, cesso, augmentum, tribuo",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,impius,0.2
+claudian.panegyricus_de_quarto_consulatu,497.0,"non, infelix, tabula, non, hasta, refixas",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,infelix,0.167
+claudian.panegyricus_de_quarto_consulatu,498.0,"uendo, ops, auidus, sector, non, uox, cito",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,uendo,0.143
+claudian.panegyricus_de_quarto_consulatu,499.0,"neque, tuus, priuo, cresco, aerarium, damnum",6,"NaN, 0.0, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+claudian.panegyricus_de_quarto_consulatu,500.0,"munificus, largior, sed, non, et, prodigus, aurum",7,"1.0, NaN, NaN, NaN, NaN, NaN, 0.5",0.214,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,501.0,"perduro, non, emo, fides, neque, pectus, merces",7,"NaN, NaN, NaN, 1.0, NaN, NaN, 1.0",0.286,0.0,emo,0.143
+claudian.panegyricus_de_quarto_consulatu,502.0,"ad-ligo, ipse, suus, pro, pignus, castrum, laboro",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,503.0,"tu, miles, nutritor, amo, qui, denique, roma",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.143
+claudian.panegyricus_de_quarto_consulatu,504.0,"cura, tu, quam, figo, maneo, reuerendus, pater",7,"-1.0, NaN, NaN, NaN, NaN, 1.0, 0.0",0.0,-0.143,tu,0.143
+claudian.panegyricus_de_quarto_consulatu,505.0,"firmo, senium, ius, priscamque, resumo",5,"NaN, -0.5, 0.5, NaN, NaN",0.0,-0.1,,0.0
+claudian.panegyricus_de_quarto_consulatu,506.0,"canities, lex, emendanturque, uetustus",4,"NaN, 0.5, NaN, 0.0",0.125,0.0,canities,0.25
+claudian.panegyricus_de_quarto_consulatu,507.0,"accedo, nouus, talis, sentio, solonem",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,508.0,"res, pandioniae, sic, armipotens, lacedaemo, -ne",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,509.0,"despicio, murus, rigidus, munio, lycurgo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,510.0,"qui, sub, tu, uel, causa, breuis, uel, iudex, error",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.5, -1.0",-0.056,-0.111,tu,0.111
+claudian.panegyricus_de_quarto_consulatu,511.0,"neglego, dubius, quis, lis, addo, finis",6,"NaN, -0.5, NaN, -0.5, NaN, 0.0",-0.167,-0.167,,0.0
+claudian.panegyricus_de_quarto_consulatu,512.0,"iustus, et, mergo, latebra, educo, uerus",6,"1.0, NaN, NaN, -0.5, NaN, 0.5",0.167,-0.083,,0.0
+claudian.panegyricus_de_quarto_consulatu,513.0,"qui, pietas, quantus, rigor, tranquillus, magnus",6,"NaN, 1.0, NaN, NaN, NaN, 0.0",0.167,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,514.0,"uolo, animus, nullus, leuis, terror, moueo",6,"NaN, 0.5, NaN, 0.0, -1.0, NaN",-0.083,-0.167,,0.0
+claudian.panegyricus_de_quarto_consulatu,515.0,"neque, nouo, miror, facilis, quam, doceo, facultas",7,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.5",0.143,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,516.0,"ingenium, lingua, modus, respondeo, uereor",5,"0.5, -0.5, 0.5, NaN, NaN",0.1,-0.1,,0.0
+claudian.panegyricus_de_quarto_consulatu,517.0,"legatus, grauis, lateo, sub, mos, aetas",6,"0.0, -0.5, NaN, NaN, 0.5, 0.0",0.0,-0.083,,0.0
+claudian.panegyricus_de_quarto_consulatu,518.0,"quantus, in, os, pater, radio, quam, toruus, uoluptas",8,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, 1.0",0.125,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,519.0,"frons, et, augustus, maiestas, gratus, pudor",6,"0.0, NaN, 1.0, NaN, 1.0, 0.5",0.417,0.0,pudor,0.167
+claudian.panegyricus_de_quarto_consulatu,520.0,"iam, patria, impleo, galea, iam, cornus, auitus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,521.0,"tento, uibranda, tu, promitto, ingens",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,tu,0.2
+claudian.panegyricus_de_quarto_consulatu,522.0,"dextera, rudimentum, romanaque, ueto, moror",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,523.0,"quis, decor, incedo, quotiens, clipeatus, et, aurum",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,524.0,"squameus, et, rutilus, crista, et, cassis, magnus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,525.0,"sic, cum, threïcia, primus, sudo, in, hasta",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,526.0,"flumen, lauo, puer, rhodopeia, martes",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,527.0,"qui, uireo, iaculis, uel, cum, gortynia, tendo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,gortynia,0.143
+claudian.panegyricus_de_quarto_consulatu,528.0,"spiculum, quam, felix, arcus, certus, petitor",6,"0.0, NaN, 1.0, NaN, 0.5, NaN",0.25,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,529.0,"uulnus, et, iubeo, mentior, nescius, ictus",6,"-1.0, NaN, NaN, NaN, -0.5, NaN",-0.25,-0.25,nescius,0.167
+claudian.panegyricus_de_quarto_consulatu,530.0,"scio, quo, mos, cydo, -ne, qui, dirigo, ars, sagitto",9,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, 0.0, NaN",0.056,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,531.0,"armenius, refugus, qui, sum, fiducia, partho",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,532.0,"sic, amphioniae, pulcher, sudor, palaestra",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,533.0,"alcides, pharetra, dircaeaque, telum, soleo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,alcides,0.2
+claudian.panegyricus_de_quarto_consulatu,534.0,"praetemptaris, fera, olim, domo, gigantes",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"fera, gigantes",0.4
+claudian.panegyricus_de_quarto_consulatu,535.0,"et, pax, fero, polus, semper, cruentus",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,cruentus,0.167
+claudian.panegyricus_de_quarto_consulatu,536.0,"eo, et, alcmenae, praeda, refero, ouo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,537.0,"caeruleus, talis, prosterno, apolline, python",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,538.0,"implico, frango, morior, uolumen, silua",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,539.0,"cum, uectaris, equus, simulacrum, martia, ludus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,540.0,"quis, mollio, sinuaris, fugo, quis, tendo, contus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,541.0,"acer, aut, subeo, bonus, flecto, recursus",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,542.0,"non, tu, massagetae, non, gens, exerceo, campus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,tu,0.143
+claudian.panegyricus_de_quarto_consulatu,543.0,"thessala, non, ipse, possum, aequaris, bimembres",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,544.0,"uix, comes, ala, uix, tu, suspendo, sequor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+claudian.panegyricus_de_quarto_consulatu,545.0,"agmen, ferueo, tumeo, post, tergum, draco",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+claudian.panegyricus_de_quarto_consulatu,546.0,"ut, tuus, primus, sonipes, calcaris, ardeo",6,"NaN, 0.0, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,547.0,"ignesco, patulus, naris, non, sentio, harena",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,548.0,"ungula, discutio, iuba, spargo, in, armus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,549.0,"turbo, phalerae, spumosus, morsus, aurum",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,"spumosus, morsus",0.4
+claudian.panegyricus_de_quarto_consulatu,550.0,"fumo, anhelo, exundo, sanguis, gemma",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,exundo,0.2
+claudian.panegyricus_de_quarto_consulatu,551.0,"ipse, labor, puluis, decet, confundo, motus",6,"NaN, -0.5, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+claudian.panegyricus_de_quarto_consulatu,552.0,"caesaries, uestio, radio, murex, sol",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,uestio,0.2
+claudian.panegyricus_de_quarto_consulatu,553.0,"combibo, ingero, crispatur, purpura, uenio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,554.0,"si, dominus, lego, equus, tuus, posco, ultro",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,555.0,"uerbero, nereidum, stabulis, nutrio, ario, -ne",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uerbero,0.167
+claudian.panegyricus_de_quarto_consulatu,556.0,"seruiretque, tuus, contemno, castor, frenum",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,557.0,"cyllarus, et, flauus, xanthus, sperno, achillem",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,558.0,"ipse, tu, famulo, praebeo, pegasus, ala",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,559.0,"portaretque, libet, bonus, pondero, patior",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,560.0,"bellerophonteas, indignor, habena",3,"NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,561.0,"quin, etiam, uelox, aurora, nuntius, aetho, -ne",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,562.0,"qui, fugo, hinnio, stella, roseus, domo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,563.0,"lucifer, quotiens, eques, tu, cerno, ab, astrum",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.143
+claudian.panegyricus_de_quarto_consulatu,564.0,"inuideo, in, tuus, malo, spumaris, lupor",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,565.0,"nunc, quoque, qui, habitus, quantus, miraculum, pompa",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,566.0,"uideo, ausonio, cum, iam, succingo, amictus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,567.0,"per, ligurum, populus, soleo, conspicio, eo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,568.0,"atque, inter, niueus, altus, ueho, cohors",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,niueus,0.167
+claudian.panegyricus_de_quarto_consulatu,569.0,"obnixisque, simul, pubes, eligo, lacertus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,570.0,"sidereus, gesto, onus, sic, numen, memphis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,571.0,"in, uulgus, profero, soleo, penetral, exeo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,572.0,"effigio, breuis, ilia, quidem, sed, multus, infra",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,573.0,"liniger, impono, suspiro, ueho, sacerdos",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,574.0,"testor, sudor, deus, nilotica, sistrum",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,575.0,"ripa, sono, phariosque, modus, aegyptia, duco",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,576.0,"tibia, summitto, admugio, cornu, apis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,577.0,"omnis, nobilitas, omnis, tuus, sacer, frequento",6,"NaN, 1.0, NaN, 0.0, 1.0, NaN",0.333,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,578.0,"thybridis, et, latii, suboles, conuenio, in, unus",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,579.0,"quisquis, in, orbis, sum, procerus, qui, auctor, honor",8,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, 1.0",0.188,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,580.0,"uel, tu, uel, genitor, numerosus, consul, consul",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 0.5",0.143,0.0,tu,0.143
+claudian.panegyricus_de_quarto_consulatu,581.0,"cingeris, et, socius, gaudeo, admitto, pater",6,"NaN, NaN, 1.0, NaN, NaN, 0.0",0.167,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,582.0,"illustris, tu, proles, tagus, tu, gallia, doceo",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"tu, tu",0.286
+claudian.panegyricus_de_quarto_consulatu,583.0,"ciuis, et, totus, stipauit, roma, senatus",6,"0.5, NaN, NaN, NaN, NaN, 0.5",0.167,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,584.0,"porto, iuuenis, ceruix, aureus, sedes",5,"NaN, NaN, NaN, 0.5, 0.0",0.1,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,585.0,"orno, nouo, grauis, deus, aspero, indus",6,"NaN, NaN, -0.5, 0.0, NaN, NaN",-0.083,-0.083,,0.0
+claudian.panegyricus_de_quarto_consulatu,586.0,"uelamentum, lapis, pretiosus, filum, smaragdus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,pretiosus,0.2
+claudian.panegyricus_de_quarto_consulatu,587.0,"duco, uireo, amethystus, insum, et, fulgor, hiberus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,588.0,"tempero, arcanus, hyacinthus, caerulus, flamma",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,caerulus,0.2
+claudian.panegyricus_de_quarto_consulatu,589.0,"neque, rudis, in, talis, sutfecit, gratia, textus",7,"NaN, -0.5, NaN, NaN, NaN, 1.0, NaN",0.071,-0.071,,0.0
+claudian.panegyricus_de_quarto_consulatu,590.0,"augeo, acus, mereo, picturatumque, metallum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,591.0,"uiuo, opus, multus, remoror, iaspis, cultus",6,"NaN, 0.5, 0.0, NaN, NaN, -0.5",0.0,-0.083,,0.0
+claudian.panegyricus_de_quarto_consulatu,592.0,"et, uarius, spiro, nereia, baca, figura",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,nereia,0.167
+claudian.panegyricus_de_quarto_consulatu,593.0,"qui, tantus, possum, digitus, mollio, rigor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,594.0,"ambitiosus, colus, uel, qui, pectinis, ars",6,"-0.5, NaN, NaN, NaN, NaN, 0.0",-0.083,-0.083,ambitiosus,0.167
+claudian.panegyricus_de_quarto_consulatu,595.0,"traho, solidus, gemmaris, stamen, tela",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,596.0,"inuius, quis, calidus, scrutor, stagnum, profundo",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,stagnum,0.167
+claudian.panegyricus_de_quarto_consulatu,597.0,"tethyos, inuado, gremium, quis, diues, alga",6,"NaN, NaN, 0.0, NaN, 0.5, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,598.0,"germino, flagro, inter, quaero, harena",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,599.0,"quis, iungo, lapis, ostrum, quis, misceo, ignis",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,600.0,"sidonii, rubrus, mare, tribuo, color",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,601.0,"phoenix, sero, subtemen, pondus, hydaspes",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,602.0,"hic, si, maeonias, cingo, gradior, per, urbs",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,hic,0.143
+claudian.panegyricus_de_quarto_consulatu,603.0,"in, tu, pampineus, transfero, lydia, thyrsus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,604.0,"in, tu, nysa, chorus, dubito, Orgia, bacchi",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+claudian.panegyricus_de_quarto_consulatu,605.0,"qui, furo, eo, blandus, sub, uinculum, tigris",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,furo,0.143
+claudian.panegyricus_de_quarto_consulatu,606.0,"talis, erythraeus, intexo, nebrida, gemma",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,607.0,"liber, ago, currus, et, caspia, flecto, eburnus",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,608.0,"collum, iugum, satyrus, circum, crinis, soluo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,609.0,"maenades, ad-stringo, hedera, uictrix, indus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,610.0,"ebrius, hostilis, uelo, palmes, ganges",5,"-0.5, -1.0, NaN, NaN, NaN",-0.3,-0.3,"ebrius, hostilis, ganges",0.6
+claudian.panegyricus_de_quarto_consulatu,611.0,"auspex, mox, laetus, sono, clamor, tribunal",6,"NaN, NaN, 1.0, NaN, NaN, 0.0",0.167,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,612.0,"tu, fasti, ineo, quater, sollemne, ludo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,613.0,"omen, libertas, deduco, uindex, mos",5,"NaN, 0.5, NaN, NaN, 0.5",0.2,0.0,uindex,0.2
+claudian.panegyricus_de_quarto_consulatu,614.0,"lex, celebro, famulus, iugum, laxo, erilis",6,"0.5, NaN, 0.0, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,615.0,"duco, et, gratus, re-meo, securus, ictus",6,"NaN, NaN, 1.0, NaN, 1.0, NaN",0.333,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,616.0,"tristis, condicio, pulso, frons, recedo",5,"-1.0, 0.0, NaN, 0.0, NaN",-0.2,-0.2,,0.0
+claudian.panegyricus_de_quarto_consulatu,617.0,"in, ciuis, rubesco, gena, tergeo, remoueo",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,gena,0.167
+claudian.panegyricus_de_quarto_consulatu,618.0,"uerbero, permitto, felix, iniuria, uoueo",5,"NaN, NaN, 1.0, -1.0, NaN",0.0,-0.2,uerbero,0.2
+claudian.panegyricus_de_quarto_consulatu,619.0,"prosper, romuleis, spero, tempus, res",5,"1.0, NaN, NaN, 0.0, 0.0",0.2,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,620.0,"in, nomen, uenio, tuus, praemitto, sum",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,621.0,"do, exemplum, fides, quotiens, tu, cursus, aeuum",7,"NaN, 0.0, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,tu,0.143
+claudian.panegyricus_de_quarto_consulatu,622.0,"praeficio, totiens, accedo, laureus, pater",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,623.0,"audeo, danuuium, quondam, transnaris, gruthungi",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,624.0,"in, linter, frango, nemus, ter, mille, ruo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,625.0,"per, fluuius, plenus, cuneus, immanis, alnus",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,immanis,0.167
+claudian.panegyricus_de_quarto_consulatu,626.0,"dux, odothaeus, sum, tantus, conamen, classis",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,classis,0.167
+claudian.panegyricus_de_quarto_consulatu,627.0,"incipio, aetas, et, primus, contundo, annus",6,"NaN, 0.0, NaN, 0.5, NaN, 0.0",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,628.0,"summergo, sedeo, ratis, fluito, numquam",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,fluito,0.2
+claudian.panegyricus_de_quarto_consulatu,629.0,"largus, arctous, pasco, cadauer, piscis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,630.0,"corpus, premo, peuce, per, quinque, recurro",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,631.0,"ostium, barbaricus, uix, ago, unda, cruor",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,cruor,0.167
+claudian.panegyricus_de_quarto_consulatu,632.0,"confessusque, parens, odothaei, rex, opimus",5,"NaN, 0.5, NaN, 0.0, NaN",0.1,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,633.0,"refero, exuuiae, tu, ciuilis, secundus",5,"NaN, NaN, NaN, 0.5, 0.0",0.1,0.0,tu,0.2
+claudian.panegyricus_de_quarto_consulatu,634.0,"confacio, auspicium, bellum, tu, debeo, orbis",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,635.0,"fatum, gruthungorum, debello, tyrannus",4,"0.0, NaN, NaN, NaN",0.0,0.0,tyrannus,0.25
+claudian.panegyricus_de_quarto_consulatu,636.0,"hister, sanguineus, ago, tu, consul, fluctus",6,"NaN, NaN, NaN, NaN, 0.5, 0.0",0.083,0.0,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,637.0,"alpinos, genitor, rumpo, tu, consul, mons",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,tu,0.167
+claudian.panegyricus_de_quarto_consulatu,638.0,"sed, patrius, olim, sum, successus, auctor",6,"NaN, 0.0, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,639.0,"nunc, sum, ipse, tuus, semper, uenio, triumphus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,640.0,"cum, trabea, sequor, tuus, uictoria, fascis",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,641.0,"sum, precor, assiduus, consul, mariique, relinquo",6,"NaN, NaN, 0.5, 0.5, NaN, NaN",0.167,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,642.0,"et, senex, augustus, numerus, qui, gaudium, mundus",7,"NaN, 0.0, 1.0, NaN, NaN, 1.0, 1.0",0.429,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,643.0,"per, tuus, lanugo, cum, serpo, coepio, os",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,serpo,0.143
+claudian.panegyricus_de_quarto_consulatu,644.0,"cum, tu, profero, festus, nox, pronuba, taeda",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"tu, taeda",0.286
+claudian.panegyricus_de_quarto_consulatu,645.0,"qui, talis, deuoto, torus, qui, murex, fulgeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,646.0,"eo, in, amplector, tantus, regina, maritus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,maritus,0.167
+claudian.panegyricus_de_quarto_consulatu,647.0,"quisnam, tot, diuus, uenio, nurus, omnis, aruum",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,nurus,0.143
+claudian.panegyricus_de_quarto_consulatu,648.0,"et, totus, dono, mare, quantusue, fero",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,649.0,"idem, per, zephyrus, meto, Hymenaeus, et, eurus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_de_quarto_consulatu,650.0,"o, ego, si, licet, thalamus, intendo, carmen",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,651.0,"conubial, tuus, si, tu, iam, dico, pater",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+claudian.panegyricus_de_quarto_consulatu,652.0,"tempus, sum, cum, tu, trans, rhenus, cornu, uictor",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.125
+claudian.panegyricus_de_quarto_consulatu,653.0,"arcadius, capio, spolium, babylonis, onustus",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,,0.0
+claudian.panegyricus_de_quarto_consulatu,654.0,"communis, magnus, toga, signo, annus",5,"0.0, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,655.0,"crinitusque, tuus, sudo, fascis, suebus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_de_quarto_consulatu,656.0,"ulter, fraternus, horreo, bactra, securis",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,fraternus,0.2

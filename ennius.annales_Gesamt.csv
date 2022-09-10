@@ -1,0 +1,679 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+ennius.annales,1.1,"musa, qui, pes, magnus, pulso, olympum",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,1.2,"somnus, lenis, placidus, reuincio",4,"0.5, 1.0, 1.0, NaN",0.625,0.0,,0.0
+ennius.annales,1.3,"uideo, homerus, adsum, poeta",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,1.4,"o, pietas, animus",3,"NaN, 1.0, 0.5",0.5,0.0,,0.0
+ennius.annales,1.5,"desum, riuus, campus, remano",4,"NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,1.6,"terra, corpus",2,"0.0, 0.0",0.0,0.0,,0.0
+ennius.annales,1.7,"qui, do, ipse, capio, neque, dispendium, facio, hilis",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,1.8,"ouum, pario, soleo, genus, penna, condecoro",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,1.9,"non, anima, et, post, inde, uenio, diuinitus, pullus",8,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+ennius.annales,1.1,"ipse, anima",2,"NaN, 0.5",0.25,0.0,,0.0
+ennius.annales,1.11,"memini, ego, fiere, pauus",4,"NaN, NaN, NaN, NaN",nan,nan,pauus,0.25
+ennius.annales,1.12,"fero, per, populus, res, atque, poema, noster",7,"NaN, NaN, 0.0, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,1.13,"clarus, clueo",2,"0.5, NaN",0.25,0.0,,0.0
+ennius.annales,1.14,"cum, ueto, occumbo, priamus, sub, martes, pelasgo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,1.15,"doceo, anchisesque, uenus, qui, pulcher, dearis",6,"NaN, NaN, 1.0, NaN, 1.0, NaN",0.333,0.0,,0.0
+ennius.annales,1.16,"faris, dono, diuinus, pectus, habeo",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+ennius.annales,1.17,"fax, uerus, qui, cum, tu, prex, pater, oro",8,"NaN, 0.5, NaN, NaN, NaN, 0.0, 0.0, NaN",0.062,0.0,"fax, tu",0.25
+ennius.annales,1.18,"trans-no, cieo, per, tener, caligo, aura",6,"NaN, NaN, NaN, NaN, -0.5, 1.0",0.083,-0.083,,0.0
+ennius.annales,1.19,"consto, inde, locus, propter, sos, dius, dearis",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,1.2,"sum, locus, hesperiam, quam, mortalis, perhibeo",6,"NaN, 0.0, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+ennius.annales,1.21,"saturnia, terra",2,"NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,1.22,"quam, priscus, cascus, populus, teneo, latinus",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,1.23,saturno,1,NaN,nan,nan,,0.0
+ennius.annales,1.24,"qui, caelus, gigno",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,1.25,"cum, suus, obsidio, magnus, titanus, premo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,1.26,"tu, pater, tiberine, tuus, cum, flumen, sancio",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.143
+ennius.annales,1.27,"qui, caelum, uerso, stella, fulgeo, aptus",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+ennius.annales,1.28,"assaraco, nascor, capys, bonus, eo, pius, ex, sui",8,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+ennius.annales,1.29,"anchise, -ne, genero",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,1.3,"qui, homo, quondam, laurentis, terra, recipio",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,1.31,"ille, respondeo, rex, alba, longus",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,1.32,"accipio, do, fides, foedus, ferio, bene, firmum",7,"NaN, NaN, 1.0, -1.0, NaN, NaN, NaN",0.0,-0.143,,0.0
+ennius.annales,1.33,"cum, superi, lumen, nox, intempestus, teneo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,1.34,"et, cieo, cum, tremulis, anus, affero, artus, lumen",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,1.35,"talis, tum, memoro, lacrimo, exterreo, somnus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ennius.annales,1.36,"eurydica, prognatus, pater, quam, noster, amo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,1.37,"uireo, uito, corpus, meus, nunc, desero, omnis",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,1.38,"nam, ego, uideo, homo, pulcher, per, amoenus, salictum",8,"NaN, NaN, NaN, 0.0, 1.0, NaN, NaN, NaN",0.125,0.0,,0.0
+ennius.annales,1.39,"et, ripa, raptaris, locus, nouus, ita, solus",7,"NaN, NaN, NaN, 0.0, 1.0, NaN, -0.5",0.071,-0.071,,0.0
+ennius.annales,1.4,"postilla, germanus, soror, erro, uideo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,1.41,"tardo, uestigaris, et, quaero, tu, neque, possum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+ennius.annales,1.42,"cor, capesso, semita, nullus, pedis, stabilio",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,1.43,"exinde, compellaris, pater, ego, uox, uideo",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,1.44,"hic, uerbum, o, gnata, tu, sum, ante, gero",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, tu",0.25
+ennius.annales,1.45,"aerumna, post, ex, fluuius, fortuna, resisto",6,"-0.5, NaN, NaN, NaN, 0.0, NaN",-0.083,-0.083,,0.0
+ennius.annales,1.46,"hic, ecfatus, pater, germanus, repens, recedo",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,hic,0.167
+ennius.annales,1.47,"neque, sui, do, in, conspectus, cor, cupio",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,1.48,"quamquam, multus, manus, ad, caelum, caerulus, templum",7,"NaN, 0.0, 0.0, NaN, 0.5, NaN, NaN",0.071,0.0,caerulus,0.143
+ennius.annales,1.49,"tendo, lacrumans, et, blandus, uox, uoco",6,"NaN, NaN, NaN, 0.5, 0.0, NaN",0.083,0.0,,0.0
+ennius.annales,1.5,"uix, aeger, cum, cor, meus, ego, somnus, relinquo",8,"NaN, -1.0, NaN, NaN, 0.0, NaN, 0.5, NaN",-0.062,-0.125,,0.0
+ennius.annales,1.51,"cenaculum, magnus, caelum",3,"NaN, 0.0, 0.5",0.167,0.0,,0.0
+ennius.annales,1.52,bipatens,1,NaN,nan,nan,,0.0
+ennius.annales,1.53,"respondeo, iuno, saturnia, sancio, dearis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,1.54,"unus, sum, qui, tu, tollo, in, caerulus, caelum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,"tu, caerulus",0.25
+ennius.annales,1.55,templum,1,NaN,nan,nan,,0.0
+ennius.annales,1.56,"at, ilia, reddo, nubo",4,"NaN, NaN, NaN, NaN",nan,nan,nubo,0.25
+ennius.annales,1.57,"hic, ecfatus, ibi, latro, dictum, facesso",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, latro",0.333
+ennius.annales,1.58,"tu, saneneta, precor, uenus, tu, genetrix, pater, noster",8,"NaN, NaN, NaN, 1.0, NaN, NaN, 0.0, NaN",0.125,0.0,"tu, tu",0.25
+ennius.annales,1.59,"ut, ego, de, caelum, uideo, cognatus, parumper",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+ennius.annales,1.6,"ilia, dius, nepos, qui, aerumna, fero",6,"NaN, NaN, 0.0, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+ennius.annales,1.61,"ceterus, qui, pario",3,"0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,1.62,"ne, curo",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,1.63,"postquam, consto, iste, fluuius, qui, sum, omnis, princeps",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,,0.0
+ennius.annales,1.64,"qui, sub, ouile",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,1.65,"lupus, femina, fetus, repens",4,"0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,1.66,"indotuetur, ibi, lupus, femina, conspicio, omnis",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,1.67,"hinc, campus, celer, passus, permetior, parumper",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,1.68,"conicio, in, silua, sui",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,1.69,"pars, ludicrum, saxum",3,"0.0, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,1.7,"iacto, inter, sui, licitor",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,1.71,"occaedes, ubi, potio, reor, romulus, praeda",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,1.72,"curo, magnus, cum, cura, tum, cupio",6,"NaN, 0.0, NaN, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+ennius.annales,1.73,"regnum, do, opera, simul, auspicium, augurium",6,"0.0, NaN, -0.5, NaN, 0.0, 0.5",0.0,-0.083,,0.0
+ennius.annales,1.74,"in, mons, reor, auspicium, sedeo, atque, secundus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,1.75,"solus, auis, seruo, at, romulus, pulcher, in, altus",8,"-0.5, NaN, NaN, NaN, NaN, 1.0, NaN, 0.5",0.125,-0.062,,0.0
+ennius.annales,1.76,"quaero, auentinum, seruo, genus, altiuolantum",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,1.77,"certo, urbs, roma, remora, uoco",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+ennius.annales,1.78,"omnis, cura, uir, uter, sum, induperator",6,"NaN, -1.0, 0.5, NaN, NaN, NaN",-0.083,-0.167,,0.0
+ennius.annales,1.79,"ex-pecto, ueluti, consul, cum, mitto, signum",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,,0.0
+ennius.annales,1.8,"uolo, omnis, auidus, specto, ad, carcer, ora",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,carcer,0.143
+ennius.annales,1.81,"quam, mox, emitto, pingo, e, fauces, currus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,1.82,"sic, expectabat, populus, atque, os, timeo",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,1.83,"res, uter, magnus, uictoria, sum, do, regnum",7,"0.0, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,1.84,"interea, sol, albus, recedo, in, inferus, nox",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,1.85,"exinde, candidus, sui, radius, do, iacio, foras, lux",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,1.86,"et, simul, ex, altus, longus, pulcher, praepes",7,"NaN, NaN, NaN, 0.5, 0.0, 1.0, NaN",0.214,0.0,,0.0
+ennius.annales,1.87,"laeuus, uolo, auis, simul, aureus, exorior, sol",7,"-1.0, NaN, NaN, NaN, 0.5, NaN, NaN",-0.071,-0.143,,0.0
+ennius.annales,1.88,"cedo, de, caelum, ter, quattuor, corpus, sancio",7,"NaN, NaN, 0.5, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+ennius.annales,1.89,"auis, praepes, sui, pulcher, locus, do",6,"NaN, NaN, NaN, 1.0, 0.0, NaN",0.167,0.0,,0.0
+ennius.annales,1.9,"conspicio, inde, sui, do, romulus, sum, propritim",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,1.91,"auspicium, regnum, stabilio, scamnum, solus",5,"0.0, 0.0, NaN, NaN, -0.5",-0.1,-0.1,,0.0
+ennius.annales,1.92,"iuppiter, ut, murus, fretus, magis, quamde, manus, sum",8,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0, NaN",0.062,0.0,,0.0
+ennius.annales,1.93,"at, hic, qui, nunc, tu, tam, toruiter, increpo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu, increpo",0.375
+ennius.annales,1.94,"neque, pol, homo, quisquam, facio, impunis, animo",7,"NaN, NaN, 0.0, NaN, NaN, -0.5, NaN",-0.071,-0.071,impunis,0.143
+ennius.annales,1.95,"hic, neque, tu, nam, ego, calidus, do, sanguis, poena",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.111,-0.111,"hic, tu, poena",0.333
+ennius.annales,1.96,"nam, uis, depugnaris, sus, stolidus, soleo, sum",7,"NaN, 1.0, NaN, NaN, -1.0, NaN, NaN",0.0,-0.143,stolidus,0.143
+ennius.annales,1.97,"astus, non, uis, sum, summa, seruo, decet, res",8,"-0.5, NaN, 1.0, NaN, NaN, NaN, NaN, 0.0",0.062,-0.062,astus,0.125
+ennius.annales,1.98,"uirgo, nam, sui, quisque, domus, romanus, habeo, sas",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,uirgo,0.125
+ennius.annales,1.99,"tu, mauors, tu, nerienem, mauortis, et, heriem",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, mauors, tu",0.429
+ennius.annales,1.1,"tu, quirine, pater, ueneror, hora, quirinus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.167
+ennius.annales,1.101,"aeternus, sero, dies, concorditer, ambo",5,"0.5, NaN, 0.0, NaN, NaN",0.1,0.0,,0.0
+ennius.annales,1.102,"qui, ego, redeo, fides, regnum, tu, quiris",7,"NaN, NaN, NaN, 1.0, 0.0, NaN, NaN",0.143,0.0,tu,0.143
+ennius.annales,1.103,"sui, fortunatim, feliciter, atque, bene, uerto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,1.104,"o, tite, tueor, tati, tu, tantus, tyrannus, fero",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tyrannus",0.25
+ennius.annales,1.105,"pectus, teneo, desiderium, simul, inter",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,1.106,"sui, sic, memoro, o, romulis, romulis, dies",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,1.107,"qual, tu, patria, custos, deus, gigno",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.167
+ennius.annales,1.108,"o, pater, o, genitor, o, sangue, -ne, deus, orior",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,1.109,"tu, produco, nos, intra, lumen, ora",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+ennius.annales,1.11,"romulus, in, caelum, cum, deus, genital, aeuum",7,"NaN, NaN, 0.5, NaN, 0.0, NaN, NaN",0.071,0.0,,0.0
+ennius.annales,1.111,dego,1,NaN,nan,nan,,0.0
+ennius.annales,1.112,"de, ruo, c̣, mu",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,2.113,"ille, respondeo, suauis, sonus, egeriai",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+ennius.annales,2.114,"mensa, constituo, idem, ancile",4,"0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,2.115,"libo, fictor, argeos, et, tutulatus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,2.116,uolturnal,1,NaN,nan,nan,,0.0
+ennius.annales,2.117,"palatual, furinal, floralemque",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,2.118,"falacremque, et, pomonal, facio, hic, idem",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+ennius.annales,2.119,"si, quis, ego, sum, humanitus, ut, teneo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,2.12,"mettoeoque, fufetioeo",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,2.121,"quianam, legio, caedo, ferrum",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,2.122,"quamde, tuus, omnis, legio, atque, popularis",6,"NaN, 0.0, NaN, 0.0, NaN, 0.0",0.0,0.0,popularis,0.167
+ennius.annales,2.123,"hic, occido, do, sum, at, horatius, inclutus, saltus",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,"hic, occido",0.25
+ennius.annales,2.124,"tracto, per, aequor, campus",4,"NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ennius.annales,2.125,"uulturus, in, spinetum, miser, mando, homonem",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,miser,0.167
+ennius.annales,2.126,"heu, quam, crudelis, condo, membrum, sepulcrum",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,"heu, crudelis, sepulcrum",0.5
+ennius.annales,2.127,"caelum, caerulus, pratum",3,"0.5, NaN, NaN",0.167,0.0,caerulus,0.333
+ennius.annales,2.128,"ostium, munio, sum, idem, locum, nauis, pulcher",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 1.0",0.143,0.0,,0.0
+ennius.annales,2.129,"mundo, facio, nauta, mare, quaeso, uita",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,2.13,"ferrum, sui, caedo, quam, dictum, hic, tolero",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.143
+ennius.annales,2.131,"qui, ferrum, minito, atque, in, tu, ningulus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+ennius.annales,2.132,"annuo, sui, cum, ego, decerno, ferrum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,2.133,"ingens, cura, mis, cum, concordibus, aequiperaris",6,"-0.5, -1.0, NaN, NaN, NaN, NaN",-0.25,-0.25,,0.0
+ennius.annales,2.134,"et, simul, effugio, spero, ita, fundus, noster",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,2.135,"at, sui, sum, qui, do, in, lumen, ora",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,2.136,"hic, inter, sui, totus, tuditantes",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.2
+ennius.annales,3.137,"postquam, lumen, sum, oculus, bonus, ancus, relinquo",7,"NaN, NaN, NaN, 0.0, 1.0, NaN, NaN",0.143,0.0,,0.0
+ennius.annales,3.138,"tarquinius, do, imperium, simul, et, solus, regnum",7,"NaN, NaN, 0.0, NaN, NaN, -0.5, 0.0",-0.071,-0.071,,0.0
+ennius.annales,3.139,"et, densus, aquila, penna, obnitor, uolo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,3.14,"uenio, qui, perhibeo, graium, genus, aes, lingua",7,"NaN, NaN, NaN, NaN, 0.0, NaN, -0.5",-0.071,-0.071,,0.0
+ennius.annales,3.141,"circum, sos, qui, sum, magnus, gens, opulentus",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,3.142,"hic, nox, filum, pendeo, etruria, totus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.167
+ennius.annales,3.143,"postquam, defatiscor, sum, sto, et, spargo, sui",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,3.144,"hasta, ansatus, concurro, undique, telum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,3.145,"caelum, prospicio, stella, fulgeo, aptus",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+ennius.annales,3.146,"ille, de, caelum, laeuus, do, inclutus, signum",7,"NaN, NaN, 0.5, -1.0, NaN, 0.5, 0.0",0.0,-0.143,,0.0
+ennius.annales,3.147,"exinde, tarquinius, bonus, femina, lauo, et, ungo",7,"NaN, NaN, 1.0, 0.0, NaN, NaN, NaN",0.143,0.0,,0.0
+ennius.annales,3.148,"prodinunt, famulis, tum, candidus, lumen, luceo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,3.149,"inde, sui, memoro, unus, super, sum, labor",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,,0.0
+ennius.annales,4.15,"et, qui, sui, spero, roma, regno, quadro",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,4.151,"romanus, scalae, summus, nitor, opos, uis",6,"NaN, NaN, NaN, 1.0, 0.5, 1.0",0.417,0.0,,0.0
+ennius.annales,4.152,"uolsculus, perdo, anxur",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,4.153,"nonus, iunis, solus, luna, obsto, et, nox",7,"NaN, NaN, -0.5, NaN, NaN, NaN, 0.0",-0.071,-0.071,,0.0
+ennius.annales,4.154,"septingenti, sum, paulus, multus, aut, paruus, annus",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ennius.annales,4.155,"augustus, augurium, postquam, inclutus, condio, roma, sum",7,"1.0, 0.5, NaN, 0.5, NaN, NaN, NaN",0.286,0.0,,0.0
+ennius.annales,5.156,"mos, antiquus, res, sto, romana, uis",6,"0.5, 0.0, 0.0, NaN, NaN, 1.0",0.25,0.0,,0.0
+ennius.annales,5.157,"ciuis, romanus, tunc, facio, sum, campani",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+ennius.annales,5.158,"cum, nihil, horridus, umquam, lex, ullus, iubeo",7,"NaN, NaN, -1.0, NaN, 0.5, NaN, NaN",-0.071,-0.143,,0.0
+ennius.annales,5.159,"inicio, irrito, teneo, occido, iuuo, res",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,occido,0.167
+ennius.annales,5.16,"bellum, aequus, de, manus, nox, intempestus, disredimo",7,"0.0, 0.5, NaN, 0.0, 0.0, NaN, NaN",0.071,0.0,,0.0
+ennius.annales,5.161,"ansatus, mitto, de, turris",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,5.162,"cogo, hostis, lacrumantes, ut, misereo",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,,0.0
+ennius.annales,5.163,"qui, per, amoenus, urbs, lenis, fluo, agmen, flumen",8,"NaN, NaN, NaN, 0.5, 1.0, NaN, -1.0, NaN",0.062,-0.125,,0.0
+ennius.annales,6.164,"quis, potio, ingens, ora, euoluo, bellum",6,"NaN, NaN, -0.5, NaN, NaN, 0.0",-0.083,-0.083,,0.0
+ennius.annales,6.165,"nauus, reperio, homo, graio, pater, graius, homo, rex",8,"NaN, NaN, 0.0, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ennius.annales,6.166,"nomen, burrus, uti, memoro, ab, stirps, superus",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,6.167,"aio, tu, aeacida, romanus, uinco, possum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+ennius.annales,6.168,"ntus, in, occulo, musso",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,6.169,"balantum, pecus, quatio, omnis, arma, requiro",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,6.17,"proletarius, publicitus, scutum, fero",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,6.171,"orno, ferrum, murus, urbs, forum",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+ennius.annales,6.172,"excubiae, curo",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,6.173,"decimus, tamen, induuolans, cum, sui, aufero, hasta",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,6.174,insignis,1,0.0,0.0,0.0,,0.0
+ennius.annales,6.175,"incedo, arbustus, per, altus, securis, caedo",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+ennius.annales,6.176,"percello, magnus, quercus, excido, ilex",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,6.177,"fraxinus, frango, atque, abies, consterno, altus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ennius.annales,6.178,"pinus, procerus, per-uerto, omnis, sono",5,"0.0, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+ennius.annales,6.179,"arbustus, fremo, silua, frondosus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,6.18,"qui, antehac",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,6.181,"inuictus, sum, uir, pater, bonus, olympi",6,"1.0, NaN, 0.5, 0.0, 1.0, NaN",0.417,0.0,,0.0
+ennius.annales,6.182,"hic, ego, uis, pugno, uinco, uinco, sum, ab, idem",9,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,hic,0.111
+ennius.annales,6.183,"neque, ego, aurum, posco, neque, ego, pretium, do",8,"NaN, NaN, 0.5, NaN, NaN, NaN, 1.0, NaN",0.188,0.0,pretium,0.125
+ennius.annales,6.184,"non, cauponor, bellum, sed, belligero",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,6.185,"ferrum, non, aurum, uita, cerno, uterque",6,"NaN, NaN, 0.5, 0.0, NaN, NaN",0.083,0.0,,0.0
+ennius.annales,6.186,"tu, -ne, uolo, an, ego, regno, era, quis, fero, fors",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.1
+ennius.annales,6.187,"uirtus, experior, et, hic, simul, accipio, dico",7,"1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.143,0.0,hic,0.143
+ennius.annales,6.188,"qui, uirtus, bellum, fortuna, parco",5,"NaN, 1.0, 0.0, 0.0, NaN",0.2,0.0,,0.0
+ennius.annales,6.189,"idem, ego, libertas, parco, certus, sum",6,"NaN, NaN, 0.5, NaN, 0.5, NaN",0.167,0.0,,0.0
+ennius.annales,6.19,"donum, duco, do, uolo, cum, magnus, deus",7,"0.0, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ennius.annales,6.191,"diuus, hic, audio, parumper",4,"0.0, NaN, NaN, NaN",0.0,0.0,hic,0.25
+ennius.annales,6.192,"ut, pro, romanus, populus, prognariter, arma",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,6.193,"certo, prudens, anima, de, corpus, mitto",6,"NaN, 1.0, 0.5, NaN, 0.0, NaN",0.25,0.0,,0.0
+ennius.annales,6.194,sic,1,NaN,nan,nan,,0.0
+ennius.annales,6.195,"aut, animus, supero, atque, asp, rima",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+ennius.annales,6.196,"ferus, bellum, sperno",3,"-1.0, 0.0, NaN",-0.333,-0.333,ferus,0.333
+ennius.annales,6.197,"stolidus, genus, aeacidaris",3,"-1.0, 0.0, NaN",-0.333,-0.333,stolidus,0.333
+ennius.annales,6.198,"bellipotens, sum, magis, quam, sapientipotens",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,6.199,"quo, tu, mens, recingo, qui, sto, soleo",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,tu,0.143
+ennius.annales,6.2,"antehac, demo, sui, flecto, uia",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,6.201,"sed, ego, hic, animus, lamento",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,hic,0.2
+ennius.annales,6.202,"orator, sine, pax, redeo, rego, refero, res",7,"NaN, NaN, 0.5, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+ennius.annales,6.203,"tum, cum, cor, suus, deus, pater, atque, homo, rex",9,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ennius.annales,6.204,effor,1,NaN,nan,nan,,0.0
+ennius.annales,6.205,"uerto, interea, caelum, cum, ingens, signum",6,"NaN, NaN, 0.5, NaN, -0.5, 0.0",0.0,-0.083,,0.0
+ennius.annales,7.206,"scribo, alius, res",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,7.207,"uorsus, qui, olim, faunei, uates, caneo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,7.208,"cum, neque, musa, scopulus",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,7.209,"neque, dictum, studiosus, quisquam, sum, ante, hic",7,"NaN, 0.0, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,hic,0.143
+ennius.annales,7.21,"nos, audeo, reseraris",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,7.211,"neque, quisquam, sophia, sapientia, qui, perhibeo",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+ennius.annales,7.212,"in, somnus, uideo, prior, quam, sam, disco, coepio",8,"NaN, 0.5, NaN, 0.5, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+ennius.annales,7.213,"quantus, consilium, quantus, potesset, in, arma",6,"NaN, 0.5, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+ennius.annales,7.214,"poenio, soleo, suus, sacrificaris, puellus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,7.215,"poenio, stipendium, pendo",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,7.216,"appius, indico, carthaginiensibus, bellum",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,7.217,"urserat, huc, nauis, con-pello, fluctus, pontus",6,"NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ennius.annales,7.218,"postis, recumbo, uester, pectus, pello, tondeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,7.219,"pono, peto, exinde, refero, ad, pectus, tondeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,7.22,"corpus, tartarino, prognatus, paluda, uirago",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,7.221,"qui, par, imber, et, ignis, spiritus, et, grauis, terra",9,"NaN, 0.5, NaN, NaN, 0.0, 0.0, NaN, -0.5, 0.0",0.0,-0.056,,0.0
+ennius.annales,7.222,"sulpureas, pono, spiramen, naris, ad, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,7.223,"longus, cupressi",2,"0.0, NaN",0.0,0.0,,0.0
+ennius.annales,7.224,"sto, rectus, folium, et, amarus, corpus, buxus",7,"NaN, 1.0, NaN, NaN, -0.5, 0.0, NaN",0.071,-0.071,,0.0
+ennius.annales,7.225,"postquam, discordia, taeter",3,"NaN, NaN, -1.0",-0.333,-0.333,taeter,0.333
+ennius.annales,7.226,"bellum, ferrati, postis, porto, refringo",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,7.227,"qui, gallus, furtim, nox, summus, arx, adorior",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,gallus,0.143
+ennius.annales,7.228,"moenia, concubius, uigilo, repens, cruento",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,cruento,0.2
+ennius.annales,7.229,"marsa, manus, paeligna, cohors, uestina, uir, uolo",7,"NaN, 0.0, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+ennius.annales,7.23,"dum, censeo, terreo, minae, hortor, ibe, sos",7,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,,0.0
+ennius.annales,7.231,"inde, parum, simulo",3,"NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,7.232,"non, semper, uester, ex-uerto, nunc, iuppiter, hic, sto",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+ennius.annales,7.233,"fortis, sum, fortuna, uir, do",5,"0.5, NaN, 0.0, 0.5, NaN",0.2,0.0,,0.0
+ennius.annales,7.234,"hostis, qui, ferio, sum, inquam, ego, carthaginiensis",7,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+ennius.annales,7.235,"quisquis, sum, cuiatis, sum",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,7.236,"denique, uis, magnus, quadrupes, eques, atque, elephantus",7,"NaN, 1.0, 0.0, NaN, 0.0, NaN, NaN",0.143,0.0,,0.0
+ennius.annales,7.237,"proicio, sui",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,7.238,"alter, naris, cupio, alter, pugno, paro, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,7.239,"deduco, habilis, gladius, filum, gracilentus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,7.24,"iuno, uesta, minerua, cero, diana, uenus, mars",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+ennius.annales,7.241,"mercurius, iuppiter, neptunus, uolcanus, apollo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,7.242,"exploro, numidae, totus, quatio, ungula, terra",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,7.243,"legio, reddo, rumor, ruina",4,"0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,7.244,"mox, aufero, domus, populus, rumor, secundus",6,"NaN, NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,7.245,"russesco, frundes",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,7.246,"quianam, dictum, noster, sententia, flecto, sum",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,8.247,"proelio, promulgo",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,8.248,"pello, e, medium, sapientia, uis, gero, res",7,"NaN, NaN, NaN, 1.0, 1.0, NaN, 0.0",0.286,0.0,,0.0
+ennius.annales,8.249,"sperno, orator, bonus, horridus, miles, amo",6,"NaN, NaN, 1.0, -1.0, 0.0, NaN",0.0,-0.167,,0.0
+ennius.annales,8.25,"haud, doceo, dictum, certo, neque, maledictum",6,"NaN, NaN, 0.0, NaN, NaN, -1.0",-0.167,-0.167,maledictum,0.167
+ennius.annales,8.251,"misceo, inter, sui, inimicitia, agito",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+ennius.annales,8.252,"non, ex, ius, manus, consero, sed, magis, ferrum",8,"NaN, NaN, 0.5, 0.0, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+ennius.annales,8.253,"res, repeto, regnum, peto, uado, solidus, uis",7,"0.0, NaN, 0.0, NaN, NaN, 0.0, 1.0",0.143,0.0,,0.0
+ennius.annales,8.254,"moneo, res",2,"NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,8.255,"aut, occido, ubi, tempus, audeo, reprimo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,occido,0.167
+ennius.annales,8.256,"uel, tu, dictator, uel, equus, equio, magister",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,tu,0.143
+ennius.annales,8.257,"sum, uel, consul",3,"NaN, NaN, 0.5",0.167,0.0,,0.0
+ennius.annales,8.258,"multus, dies, in, bellum, confacio, unus",6,"0.0, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,8.259,"et, rursus, multus, fortuna, fors, recumbo",6,"NaN, NaN, 0.0, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,8.26,"haud, quisquam, quisquam, semper, fortuna, sequor, sum",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,8.261,"praecox, pugno, sum",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,8.262,"certo, abnueo, metuo, legio, labo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,8.263,"consequor, superus, sonitus, quatio, ungula, terra",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,8.264,"iam, fere, puluis, ad, caelum, uastus, uideo",7,"NaN, NaN, NaN, NaN, 0.5, -1.0, NaN",-0.071,-0.143,uastus,0.143
+ennius.annales,8.265,"amplus, exaugeo, obstipus, lumen, sol",5,"0.0, NaN, -0.5, NaN, NaN",-0.1,-0.1,,0.0
+ennius.annales,8.266,"hastas, spargo, hasta, fio, ferreus, imber",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,8.267,"densantur, campus, horreo, telum, uir",5,"NaN, 0.0, NaN, NaN, 0.5",0.1,0.0,,0.0
+ennius.annales,8.268,"haece, loquor, uoco, cum, quo, bene, saepe, libet",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,8.269,"mensa, sermo, suus, res, suus",5,"0.0, -0.5, NaN, 0.0, NaN",-0.1,-0.1,,0.0
+ennius.annales,8.27,"consilium, partio, magnus, cum, lassus, dies",6,"0.5, NaN, 0.0, NaN, NaN, 0.0",0.083,0.0,,0.0
+ennius.annales,8.271,"pars, sum, de, summus, res, rego",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,8.272,"consilium, indu, forum, fero, sancio, senatus",6,"0.5, NaN, NaN, NaN, NaN, 0.5",0.167,0.0,,0.0
+ennius.annales,8.273,"qui, res, audacter, magnus, paruus, iocus",6,"NaN, 0.0, NaN, 0.0, 0.0, -0.5",-0.083,-0.083,audacter,0.167
+ennius.annales,8.274,"eloquor, et, cunctus, malum, et, bonus, dico",7,"NaN, NaN, 0.0, -1.0, NaN, 1.0, NaN",0.0,-0.143,,0.0
+ennius.annales,8.275,"euomo, si, qui, uolo, tueor, loco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,8.276,"cum, quo, multus, uolup",4,"NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,8.277,"gaudium, clam, pala",3,"1.0, NaN, NaN",0.333,0.0,,0.0
+ennius.annales,8.278,"ingenium, qui, nullus, malus, sententia, suadeo",6,"0.5, NaN, NaN, -1.0, 0.0, NaN",-0.083,-0.167,,0.0
+ennius.annales,8.279,"ut, facio, facinus, leuis, aut, malus, doceo, fidelis",8,"NaN, NaN, -1.0, 0.0, NaN, -1.0, NaN, 1.0",-0.125,-0.25,facinus,0.125
+ennius.annales,8.28,"suauis, homo, iucundus, suus, contineo, beatus",6,"0.5, 0.0, 1.0, NaN, NaN, 1.0",0.417,0.0,,0.0
+ennius.annales,8.281,"scio, secundus, loquor, in, tempus, commodus, uerbum",7,"NaN, 0.0, NaN, NaN, 0.0, 0.5, 0.0",0.071,0.0,,0.0
+ennius.annales,8.282,"paucus, multus, teneo, antiquus, sepelio, uetustas",6,"0.0, 0.0, NaN, 0.0, NaN, -0.5",-0.083,-0.083,sepelio,0.167
+ennius.annales,8.283,"qui, facio, et, mos, uetus, noui, teneo",7,"NaN, NaN, NaN, 0.5, 0.0, NaN, NaN",0.071,0.0,,0.0
+ennius.annales,8.284,"multus, uetus, lex, diuus, homo",5,"0.0, 0.0, 0.5, 0.0, 0.0",0.1,0.0,,0.0
+ennius.annales,8.285,"prudens, qui, dictum, loquor, taceo, possum",6,"1.0, NaN, 0.0, NaN, NaN, NaN",0.167,0.0,,0.0
+ennius.annales,8.286,"hic, inter, pugna, con-pello, seruilius, sic",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,hic,0.167
+ennius.annales,8.287,"hic, perna, succido, iniquus, superbia, poenio",6,"NaN, NaN, NaN, -1.0, -1.0, NaN",-0.333,-0.333,"hic, iniquus, superbia",0.5
+ennius.annales,8.288,"nunc, hostis, uinum, domo, somnus, sepelio",6,"NaN, -1.0, NaN, NaN, 0.5, NaN",-0.083,-0.167,sepelio,0.167
+ennius.annales,8.289,"summus, ibi, capio, meddix, occaedes, alter",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,8.29,"quintus, pater, quartus, fio, consul",5,"NaN, 0.0, 0.0, NaN, 0.5",0.1,0.0,,0.0
+ennius.annales,8.291,"de, murus, res, gero, opscus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,8.292,"ob, roma, nox, legio, duco, coepio",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,8.293,"tibia, musa, pango, melos",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,8.294,"tondeo, teneo",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,8.295,"pario, obseruo, portisculus, signum",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,8.296,"cum, do, coepio",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,8.297,"poenos, dis-do, orior",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,9.298,"uir, uarius, ualidus, uis, luctant",5,"0.5, 0.0, 1.0, 1.0, NaN",0.5,0.0,,0.0
+ennius.annales,9.299,"liuius, inde, redeo, magnus, macto, triumphus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,9.3,"rastri, dens, fabres, capsit, causa, polio",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,9.301,ager,1,0.0,0.0,0.0,,0.0
+ennius.annales,9.302,"europam, libyamque, rapax, ubi, diuido, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,9.303,"tunico, iuuentus",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,9.304,"addo, orator, cornelius, suauiloquenti",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,9.305,"os, cethegus, marcus, tuditano, collega",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,9.306,"marcus, filius, is, dico, popularis, ille",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,popularis,0.167
+ennius.annales,9.307,"qui, tum, uiuo, homo, atque, aeuum, agito",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,9.308,"flos, delibo, populus, suadus, medulla",5,"0.5, NaN, 0.0, NaN, NaN",0.1,0.0,,0.0
+ennius.annales,9.309,"africa, terribilis, tremo, horridus, terra, tumultus",6,"NaN, -0.5, NaN, -1.0, 0.0, NaN",-0.25,-0.25,,0.0
+ennius.annales,9.31,"percello, pectus, poenio",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,9.311,"lychnus, lumen, bis, sex",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,9.312,"mortal, superus, fortuna, repens",4,"NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ennius.annales,9.313,"reddo, superus, regnum, famul, ut, bonus, sum",7,"NaN, NaN, 0.0, 0.0, NaN, 1.0, NaN",0.143,0.0,,0.0
+ennius.annales,9.314,"sed, quis, ego, hic, memoro, dico, facio, facio, frux",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.056,0.0,hic,0.111
+ennius.annales,9.315,"puluis, fuluus, uolo",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,9.316,"praeda, exercitus, undo",3,"NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,9.317,"libertas, ut, perpetuassint",3,"0.5, NaN, NaN",0.167,0.0,,0.0
+ennius.annales,9.318,"que, magnus",2,"NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,9.319,"cyclopis, uenter, uelut, olim, turserat, altus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ennius.annales,9.32,"caro, humanus, distendo",3,"0.0, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,9.321,"debilo, homo",2,"NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,10.322,"insece, musa, manus, romanus, induperator",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,10.323,"qui, quisque, in, bellum, gero, cum, rex, philippus",8,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,philippus,0.125
+ennius.annales,10.324,"graecia, sulpicius, sortio, do, gallia, cottae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,10.325,acanthus,1,NaN,nan,nan,,0.0
+ennius.annales,10.326,"aspecto, uirtus, legio, sua",4,"NaN, 1.0, 0.0, NaN",0.25,0.0,,0.0
+ennius.annales,10.327,"expectans, si, musso, dubito, qui, denique, pauso",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,10.328,"pugno, fio, aut, durus, finis, labor",6,"NaN, NaN, NaN, -0.5, 0.0, -0.5",-0.167,-0.167,,0.0
+ennius.annales,10.329,"egregius, cordatus, homo, catus, aelius, sextus",6,"0.0, 1.0, 0.0, 1.0, NaN, NaN",0.333,0.0,,0.0
+ennius.annales,10.33,"insignio, fere, tum, mille, miles, octo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,10.331,"duco, deligo, bellum, tolero, potens",5,"NaN, NaN, 0.0, NaN, 1.0",0.2,0.0,,0.0
+ennius.annales,10.332,"ueluti, si, quando, uinclum, uenaticus, uelox",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uinclum,0.167
+ennius.annales,10.333,"apto, doleo, si, fors, ferus, ex, naris, sagax",8,"NaN, NaN, NaN, 0.0, -1.0, NaN, NaN, NaN",-0.125,-0.125,ferus,0.125
+ennius.annales,10.334,"sentio, uox, suus, nictit, ululo, ibi, acuo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,10.335,"ille, uir, haud, magnus, cum, res, sed, plenus, fides",9,"NaN, 0.5, NaN, 0.0, NaN, 0.0, NaN, 0.0, 1.0",0.167,0.0,,0.0
+ennius.annales,10.336,"sollicito, tu, tite, sic, nox, dies",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,tu,0.167
+ennius.annales,10.337,"o, tite, si, quis, ego, adeo, cura, leuasso",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,,0.0
+ennius.annales,10.338,"qui, nunc, tu, coquo, et, uerso, in, pectus, figo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+ennius.annales,10.339,"ecquis, sum, praemium",3,"NaN, NaN, 1.0",0.333,0.0,,0.0
+ennius.annales,10.34,"rursus, tu, reddo, nos",4,"NaN, NaN, NaN, NaN",nan,nan,tu,0.25
+ennius.annales,10.341,"o, epirotae",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,10.342,"pastor, ab, pergamide, maledoue, potio, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,10.343,"regnum, uerso, summa, uenio, columna",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,10.344,"qui, neque, dardaniis, campus, possum, pereo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,10.345,"neque, cum, capio, capio, neque, cum, comburo, cremaris",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,10.346,"leucata, -ne, campso",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,10.347,"horitor, induperator",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,10.348,"hinc, nox, procedo, stella, ardeo, apto",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,10.349,"aeger, cor, como, patior",4,"-1.0, NaN, NaN, NaN",-0.25,-0.25,,0.0
+ennius.annales,10.35,"pinsunt, terra, genu",3,"NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,10.351,uerut,1,NaN,nan,nan,,0.0
+ennius.annales,10.352,fiere,1,NaN,nan,nan,,0.0
+ennius.annales,11.353,"quippe, soleo, rex, omnis, in, res, secundus",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ennius.annales,11.354,"rimo, uterque",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,11.355,"tum, clipeus, resonunt, et, fero, strideo, acume, -ne",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,11.356,"mitto, per, pectus, dum, transeo, strideo, hasta",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,11.357,"contendo, graecus, graios, memoro, soleo, sos",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,11.358,"altus, defero, petra, ingens, tectum",5,"0.5, NaN, NaN, -0.5, NaN",0.0,-0.1,,0.0
+ennius.annales,11.359,"malus, crux, for, uti, do",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,crux,0.2
+ennius.annales,11.36,iuppiter,1,NaN,nan,nan,,0.0
+ennius.annales,11.361,"et, simul, erubesco, ceu, lac, et, purpura, misceo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,erubesco,0.125
+ennius.annales,11.362,"pendeo, peniculamentum, unus, ad, quisque, pes",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,12.363,"unus, homo, nos, cuncto, restituo, res",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,12.364,"noenum, rumor, pono, ante, salus",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+ennius.annales,12.365,"ergo, post, magus, uir, nunc, gloria, claro",7,"NaN, NaN, NaN, 0.5, NaN, 0.0, NaN",0.071,0.0,,0.0
+ennius.annales,12.366,"omnis, mortalis, uictor, cor, uiuus",5,"NaN, -1.0, NaN, NaN, 0.0",-0.2,-0.2,uiuus,0.2
+ennius.annales,12.367,"laeto, uinum, curo, somnus, repens",5,"NaN, NaN, NaN, 0.5, 0.0",0.1,0.0,,0.0
+ennius.annales,12.368,"in, campus, passim, mollis, percello, acer",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,13.369,"eo, hellesponto, pons, contendo, in, altus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ennius.annales,13.37,"salio, lama",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,13.371,"hannibal, audax, cum, pectus, de, ego, hortor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,audax,0.143
+ennius.annales,13.372,"ne, bellum, facio, qui, credo, sum, meus, cor",8,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,13.373,"suasor, superus, et, studiosus, robur, bellum",6,"NaN, NaN, NaN, 0.5, 0.5, 0.0",0.167,0.0,,0.0
+ennius.annales,13.374,"satis, ne, uates, uero, aetas, in, ago",7,"0.5, NaN, NaN, NaN, 0.0, NaN, NaN",0.071,0.0,,0.0
+ennius.annales,14.375,"litus, fero, sonunt",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,14.376,"labor, unctus, carina, uolo, super, impetus, unda",7,"-0.5, NaN, NaN, NaN, NaN, NaN, 0.0",-0.071,-0.071,,0.0
+ennius.annales,14.377,"uerro, extemplo, placidus, mare, marmor, flauus",6,"NaN, NaN, 1.0, 0.0, NaN, NaN",0.167,0.0,,0.0
+ennius.annales,14.378,"caeruleus, spumo, sal, confercio, ratis, pello",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,14.379,"cum, procul, aspicio, hostis, accedo, uentus",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+ennius.annales,14.38,"nauis, ueliuolus",2,"0.0, NaN",0.0,0.0,,0.0
+ennius.annales,14.381,rumpia,1,NaN,nan,nan,,0.0
+ennius.annales,14.382,"nunc, sum, ille, dies, cum, gloria, maximus, sui",8,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,14.383,"nos, ostento, si, uiuo, siue, morior",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,14.384,"horresco, telum, exercitus, asper, utrimque",5,"NaN, NaN, 0.0, -0.5, NaN",-0.1,-0.1,,0.0
+ennius.annales,14.385,"in-fio, o, ciuis, qui, ego, fortuna, fero, sic",8,"NaN, NaN, 0.5, NaN, NaN, 0.0, NaN, NaN",0.062,0.0,,0.0
+ennius.annales,14.386,"contundo, indignus, bellum, confacio, acerbus",5,"NaN, -1.0, 0.0, NaN, -1.0",-0.4,-0.4,acerbus,0.2
+ennius.annales,14.387,"omnis, occido, occensus, in, nox, serenus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,occido,0.167
+ennius.annales,15.388,"malus, de_-findo, fio, tabulatum, fala",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,,0.0
+ennius.annales,15.389,"occumbo, multus, letum, ferrum, lapio",5,"NaN, 0.0, -1.0, NaN, NaN",-0.2,-0.2,,0.0
+ennius.annales,15.39,"aut, intra, murus, aut, extra, praecipio, casus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,15.391,"undique, conuenio, uelut, imber, telum, tribunus",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+ennius.annales,15.392,"configo, parma, tinnio, hastilis, umbo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,15.393,"aeratus, sonitus, galea, sed, neque, potis, quisquam",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,15.394,"undique, niteo, corpus, discerpo, ferrum",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,15.395,"semper, abundo, hasta, frango, quatio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,15.396,"totus, sudor, habeo, corpus, multus, laboro",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,15.397,"neque, respiro, fio, copia, praepeto, ferrum",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+ennius.annales,15.398,"histri, telum, manus, iacio, sollicito",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,15.399,"arcus, ubi, aspicio, mortalis, qui, perhibeo",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+ennius.annales,15.4,iris,1,NaN,nan,nan,,0.0
+ennius.annales,16.401,"post, aetas, pigro, suffero, labor",5,"NaN, 0.0, NaN, NaN, -0.5",-0.1,-0.1,,0.0
+ennius.annales,16.402,hebem,1,NaN,nan,nan,,0.0
+ennius.annales,16.403,"quippe, uetustus, uir, non, sum, satis, bellum, moueo",8,"NaN, 0.0, 0.5, NaN, NaN, 0.5, 0.0, NaN",0.125,0.0,,0.0
+ennius.annales,16.404,"rex, per, regnum, statuo, sepulcrum, quaero",6,"0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,sepulcrum,0.167
+ennius.annales,16.405,"aedifico, nomen, summus, nitor, opos, uis",6,"NaN, 0.0, NaN, 1.0, 0.5, 1.0",0.417,0.0,,0.0
+ennius.annales,16.406,"postremo, longinquus, dies, confacio, aetas",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,16.407,"primus, senex, bradylis, regime, -ne, bellus, pereo",7,"0.5, 0.0, NaN, NaN, NaN, 1.0, NaN",0.214,0.0,,0.0
+ennius.annales,16.408,"qui, ubi, rex, epulum, specio, de, cotes, celsus",8,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,16.409,"qui, clamos, oppugno, uagor, uolo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,16.41,"ingenium, fortis, dextera, latus, pertundo, hasta",6,"0.5, 0.5, 0.0, NaN, NaN, NaN",0.167,0.0,,0.0
+ennius.annales,16.411,"concido, et, sonitus, simul, insuper, arma, do",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,16.412,"nauus, imperium, seruo, sum, induperantum",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,16.413,"non, in, spero, cupidus, res, prodo, summa",7,"NaN, NaN, NaN, -0.5, 0.0, NaN, NaN",-0.071,-0.071,,0.0
+ennius.annales,16.414,"nox, quando, medius, signum, praecingo, uolo",6,"0.0, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,16.415,"interea, fax",2,"NaN, NaN",nan,nan,fax,0.5
+ennius.annales,16.416,"occido, oceanumque, rubra, tractim, obruo, aethra",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,occido,0.167
+ennius.annales,16.417,"tunc, timidus, mano, ex, omnis, corpus, sudor",7,"NaN, -0.5, NaN, NaN, NaN, 0.0, NaN",-0.071,-0.071,timidus,0.143
+ennius.annales,16.418,"matrona, moeros, compleo, specto, faueo",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,matrona,0.2
+ennius.annales,16.419,"mons, obstipus, obsto, unde, orior, nox",6,"NaN, -0.5, NaN, NaN, NaN, 0.0",-0.083,-0.083,,0.0
+ennius.annales,16.42,"aestas, auctumnus, sequor, post, acer, hiems, eo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,16.421,"spero, si, spero, quisquam, prosum, potio, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,16.422,"quo, res, sapsa, locus, sui, ostento, iubeo",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,16.423,"si, lucius, si, nox, si, mox, si, iam, do, sum, frux",11,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.045,0.0,,0.0
+ennius.annales,16.424,"prandeo, iubeo, horiturque",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,16.425,"hic, insidior, uigilo, pars, requiesco",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.2
+ennius.annales,16.426,"succingo, gladius, sub, scutum, os, faueo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,16.427,"lumen, scio, agaso",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,17.428,"tollo, in, caelum, clamor, exorior, utrimque",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+ennius.annales,17.429,"tum, cauus, sub, mons, latus, specus, intus, pateo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,specus,0.125
+ennius.annales,17.43,"dux, ipse, uia",3,"0.5, NaN, 0.0",0.167,0.0,,0.0
+ennius.annales,17.431,"eo, eques, et, plaudo, cauus, concutio, ungula, terra",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,17.432,"concurro, ueluti, uentus, cum, spiritus, auster",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,17.433,"imbricitor, aquilus, suus, cum, flamen, contra",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,17.434,"indu, mare, magnus, fluctus, extollo, certo",6,"NaN, 0.0, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,17.435,"noenu, decet, mussaris, bonus, qui, facio, labor",7,"NaN, NaN, NaN, 1.0, NaN, NaN, -0.5",0.071,-0.071,,0.0
+ennius.annales,17.436,"enitor, militia, pario",3,"NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,17.437,"neque, corpus, firmo",3,"NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,17.438,"longisco, quisquam",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,17.439,"cum, soleo, idem, facio, longisco, longus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,18.44,"aer, fuluus",2,"0.0, NaN",0.0,0.0,,0.0
+ennius.annales,18.441,"degrumaris, forum",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,19.442,"is, ego, qualis, sum",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.443,"nos, unde, sum, fructus, uita, propagme, -ne",7,"NaN, NaN, NaN, 0.5, 0.0, NaN, NaN",0.071,0.0,,0.0
+ennius.annales,19.444,"o, genitor, noster, saturnie, magnus, deus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ennius.annales,19.445,"bonus, caelicolum, saturnia, magnus, dearis",5,"1.0, NaN, NaN, 0.0, NaN",0.2,0.0,,0.0
+ennius.annales,19.446,"iuppiter, hic, rideo, tempestas, serenus",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.2
+ennius.annales,19.447,"rideo, omnis, rideo, iuppiter, omnipotens",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.448,"fici, dulciferae, lacto, uber, totus",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+ennius.annales,19.449,"qui, murus, fio, uolo, urgeo, in, unus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.45,"iam, catus, signum, fere, sonitus, do, uox, paro",8,"NaN, 1.0, 0.0, NaN, NaN, NaN, 0.0, NaN",0.125,0.0,,0.0
+ennius.annales,19.451,"at, tuba, terribilis, sonitus, taratantara, dico",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+ennius.annales,19.452,"eo, dies, post, aut, marcus, quam, regnum, recipio",8,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,19.453,"et, tiberis, flumen, flauus, uomo, in, mare, salio",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,19.454,"erip, ⏑, ⏑, pater, puer, ploro, offa",7,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,offa,0.143
+ennius.annales,19.455,"aqua, sum, aspersa, latinae",4,"0.0, NaN, NaN, NaN",0.0,0.0,aspersa,0.25
+ennius.annales,19.456,"qui, nemo, ferrum, possum, supero, neque, aurum",7,"NaN, -0.5, NaN, NaN, NaN, NaN, 0.5",0.0,-0.071,,0.0
+ennius.annales,19.457,"brundisium, pulcher, praecingo, praepeto, portus",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+ennius.annales,19.458,"neque, ego, decet, hic, carino, edo, cartis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+ennius.annales,19.459,"c̣os, graii, memo",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.46,"lingua, longus, per",3,"-0.5, 0.0, NaN",-0.167,-0.167,,0.0
+ennius.annales,19.461,"sed, solus, terra, postquam, permetior, parumper",6,"NaN, -0.5, 0.0, NaN, NaN, NaN",-0.083,-0.083,,0.0
+ennius.annales,19.462,"et, bonus, nauis, quam, qui, stlatarius, porto",7,"NaN, 1.0, 0.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+ennius.annales,19.463,"cum, ab, carcer, fundo",4,"NaN, NaN, NaN, NaN",nan,nan,carcer,0.25
+ennius.annales,19.464,"currus, cum, sonitus, magnus, permitto, certo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,19.465,"cum, gubernator, magnus, contorqueo, equus, uis",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,,0.0
+ennius.annales,19.466,"ingens, uado, cursus, qui, reddo, termo, sum",7,"-0.5, NaN, NaN, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+ennius.annales,19.467,"hortator, bonus, prior, quam, sam, finis, termo",7,"NaN, 1.0, 0.5, NaN, NaN, 0.0, NaN",0.214,0.0,,0.0
+ennius.annales,19.468,"et, detondit, ager, laetus, atque, oppidum, capio",7,"NaN, NaN, 0.0, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+ennius.annales,19.469,"non, si, lingua, loquor, sapio, qui, os, decem, sum",9,"NaN, NaN, -0.5, NaN, NaN, NaN, 0.0, NaN, NaN",-0.056,-0.056,,0.0
+ennius.annales,19.47,"in, ego, tum, ferrum, cor, sum, pectus, reuincio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.471,"hispane, non, romane, memoro, loquor, ego",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.472,"poenos, sarra, orior",3,"NaN, NaN, NaN",nan,nan,sarra,0.333
+ennius.annales,19.473,con-sileo,1,NaN,nan,nan,,0.0
+ennius.annales,19.474,"at, non, sic, dubius, sum, hostis",6,"NaN, NaN, NaN, -0.5, NaN, -1.0",-0.25,-0.25,,0.0
+ennius.annales,19.475,"aeacida, burrus",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,19.476,"cum, ille, quo, iam, semel, sum, imbuo, uenenum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.062,-0.062,,0.0
+ennius.annales,19.477,"bruttace, bilinguis",2,"NaN, NaN",nan,nan,bilinguis,0.5
+ennius.annales,19.478,"rigidus, calor",2,"NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,19.479,"incedo, uelis, uulgo, sicilis, fero",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.48,"noster, cedo, parumper",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.481,"animus, in, pectus, latro",4,"0.5, NaN, NaN, NaN",0.125,0.0,latro,0.25
+ennius.annales,19.482,"contemno, fons, qui, ex, ex-rugio, aqua, uolo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,19.483,"oscito, in, campus, caput, ab, ceruix, reuello",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,19.484,"semianimis, mico, oculus, lux, requiro",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,semianimis,0.2
+ennius.annales,19.485,"cum, caput, cado, carmen, tuba, solus, perago",7,"NaN, 0.0, NaN, 0.0, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+ennius.annales,19.486,"et, pereo, uir, raucus, sonus, aer, curro",7,"NaN, NaN, 0.5, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+ennius.annales,19.487,"musas, qui, memoro, nosco, nos, sum, camenas",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.488,"rex, deinde, cito",3,"0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,19.489,"conuello, sui",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,19.49,"patior, latus, palma, pater",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,19.491,"exinde, per, terra, postquam, celerissimus, rumor",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,19.492,"quis, pater, aut, cognatus, uolo, nos, contra, tueor",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,19.493,"a-uerso, semper, tu, uester, uolta",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+ennius.annales,19.494,"audio, sum, opera, pretium, procedo, rectus",6,"NaN, NaN, -0.5, 1.0, NaN, 1.0",0.25,-0.083,pretium,0.167
+ennius.annales,19.495,"qui, res, romanus, latiumque, augesco, uolo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,19.496,"tu, uita",2,"NaN, 0.0",0.0,0.0,tu,0.5
+ennius.annales,19.497,"seu, mors, in, mundus, sum",5,"NaN, -1.0, NaN, 1.0, NaN",0.0,-0.2,,0.0
+ennius.annales,19.498,"fleo, ploro, lacrumantes, obtestor",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.499,"cum, sui, exsicco, somnus, romana, iuuentus",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+ennius.annales,19.5,"omnis, cor, pater, debeo, animo, benignus",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,,0.0
+ennius.annales,19.501,"circum, sum",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,19.502,"eo, ater, campus, agmen",4,"NaN, NaN, 0.0, -1.0",-0.25,-0.25,,0.0
+ennius.annales,19.503,redinunt,1,NaN,nan,nan,,0.0
+ennius.annales,19.504,"idem, campus, habeo, textrinum, nauis, longus",6,"NaN, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ennius.annales,19.505,"labor, unctus, carina, per, aequor, canus, celocis",7,"-0.5, NaN, NaN, NaN, 0.0, NaN, NaN",-0.071,-0.071,,0.0
+ennius.annales,19.506,"impetus, haud, longus, medius, regio, resto",6,"NaN, NaN, 0.0, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,19.507,"haud, temere, sum, qui, tu, tristis, cum, cor, guberno",9,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.111,-0.111,tu,0.111
+ennius.annales,19.508,"dum, clauus, recingo, teneo, nauo, guberno",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.509,"cum, magnus, strepitus, uolcanum, uentus, uegeo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,19.51,"terra, frugifer",2,"0.0, 1.0",0.5,0.0,,0.0
+ennius.annales,19.511,"caput, nuto, pinus, recingo, cupressus",5,"0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,19.512,"multus, forum, pono, et, agea, longus, repleo",7,"0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,19.513,"qui, uinco, non, sum, uictor, nisi, uinco, fateor",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.514,"dum, quidem, unus, homo, romanus, toga, superescit",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,19.515,"ratis, fremo",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,19.516,"imber, neptuni",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,19.517,"tonsilla, apiunt, configo, litus, aduncus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.518,"nauis, expleo, sui, terra, repleo",5,"0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,19.519,"succingo, cor, machaera",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.52,"uireo, ualeo",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,19.521,"contundo, crudelis, hiems",3,"NaN, -1.0, NaN",-0.333,-0.333,crudelis,0.333
+ennius.annales,19.522,"sicut, fortis, equus, spatium, qui, saepe, superus",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+ennius.annales,19.523,"uinco, olympia, nunc, senium, conficio, quiesco",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+ennius.annales,19.524,messapus,1,NaN,nan,nan,,0.0
+ennius.annales,19.525,"nos, sum, romanus, qui, sum, ante, rudo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.526,"illyrii, resto, sica, sybinisque, fodentes",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,sica,0.2
+ennius.annales,19.527,"succingo, gladius, medius, regio, cracentes",5,"NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,19.528,"leuo, sequor, in, hasta",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.529,"tergus, igitur, sagus, pinguis, operto",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.53,"sagus, caerulus",2,"NaN, NaN",nan,nan,caerulus,0.5
+ennius.annales,19.531,"spiro, legio, necto",3,"NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,19.532,"uerto, cratera, aenus",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,19.533,"dictum, romanus, incutio, ira",4,"0.0, NaN, NaN, -1.0",-0.25,-0.25,,0.0
+ennius.annales,19.534,"ira, effundo, quadrigae",3,"-1.0, NaN, NaN",-0.333,-0.333,,0.0
+ennius.annales,19.535,"et, tum, sicut, equus, qui, de, praesaepe, farcio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.536,"uinclum, suus, magnus, animus, abrumpo, et, inde",7,"NaN, NaN, 0.0, 0.5, NaN, NaN, NaN",0.071,0.0,uinclum,0.143
+ennius.annales,19.537,"fero, sui, campus, per, caerulus, laeto, pratum",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,caerulus,0.143
+ennius.annales,19.538,"celsus, pectus, saepe, iuba, quasso, simul, alo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.539,"spiritus, ex, anima, calidum, spumo, ago, alba",7,"0.0, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+ennius.annales,19.54,"unus, surus, surus, fero, tamen, defendo, possum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.541,"tum, tono, laeuus, bene, tempestas, serenus",6,"NaN, NaN, -1.0, NaN, 0.0, NaN",-0.167,-0.167,,0.0
+ennius.annales,19.542,"tantus, quasi, fetus, canis, sine, dens, latro",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,latro,0.143
+ennius.annales,19.543,"tunc, coepio, memoro, simul, catus, dictum",6,"NaN, NaN, NaN, NaN, 1.0, 0.0",0.167,0.0,,0.0
+ennius.annales,19.544,"inde, locus, lituus, sono, effundo, acuo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,19.545,"clamor, ad, caelum, uoluo, per, aether, uagio",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+ennius.annales,19.546,"pando, sulti, gena, et, cor, relinquo, somnus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,gena,0.143
+ennius.annales,19.547,"inuictus, canis, naris, sagax, et, uis, fretus",7,"1.0, NaN, NaN, NaN, NaN, 1.0, 0.5",0.357,0.0,,0.0
+ennius.annales,19.548,"aut, per-marceo, pario, percutio, trifaci",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.549,"sicut, siquis, fero, uas, uinum, dimidio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uas,0.167
+ennius.annales,19.55,"atque, atque, accedo, murus, romana, iuuentus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.551,"fortuno, suus, coepio, latro",4,"NaN, NaN, NaN, NaN",nan,nan,latro,0.25
+ennius.annales,19.552,"inter, sui, memoro",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.553,"effundo, uox, proprius, cum, pectus, sancio",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,19.554,"contremisco, templum, magnus, iuppiter, altitonantis",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,19.555,"qui, fulmen, clarus",3,"NaN, NaN, 0.5",0.167,0.0,,0.0
+ennius.annales,19.556,"omnis, per, sono, arceo, terra, mare, caelum",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, 0.5",0.071,0.0,,0.0
+ennius.annales,19.557,"qui, ualidus, uenio, falarica, mitto",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+ennius.annales,19.558,"uix, solus, compleo, cohum, torror, caelum",6,"NaN, -0.5, NaN, NaN, NaN, 0.5",0.0,-0.083,,0.0
+ennius.annales,19.559,"fortis, romanus, sum, quamquam, caelus, profundus",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,profundus,0.167
+ennius.annales,19.56,"at, romanus, homo, tamenetsi, res, bene, gero, sum",8,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,19.561,"cor, suus, trepido",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.562,"neque, metus, ullus, teneo, fretus, uirtus, quiesco",7,"NaN, -1.0, NaN, NaN, 0.5, 1.0, NaN",0.071,-0.143,,0.0
+ennius.annales,19.563,"bonus, cum, pulcher, animus, romana, iuuentus",6,"1.0, NaN, 1.0, 0.5, NaN, NaN",0.417,0.0,,0.0
+ennius.annales,19.564,"nam, ego, grauis, impetus, orcus",5,"NaN, NaN, -0.5, NaN, NaN",-0.1,-0.1,,0.0
+ennius.annales,19.565,"percutio, in, latus",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.566,"tantus, suffero, sum",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.567,"augmi, -ne, tunc, lapis",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,19.568,"quo, tam, temere, eo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.569,"ille, cerno, magnus, de, res, ago",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,19.57,"per, faba, repo, et, mollis, crus, repono",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.571,"interea, fugio, albus, iubar, hyperio, cursus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.572,"inde, patefacio, radius, rota, candidus, caelum",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ennius.annales,19.573,"hic, pestis, neco, pars, occido, ille, bellum",7,"NaN, -1.0, NaN, 0.0, NaN, NaN, 0.0",-0.143,-0.143,"hic, pestis, occido",0.429
+ennius.annales,19.574,"omnis, mortalis, sui, laudo, opto",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,,0.0
+ennius.annales,19.575,"laus, alo, ars",3,"1.0, NaN, 0.0",0.333,0.0,,0.0
+ennius.annales,19.576,"contra, carino, uerbum, atque, obscenus, profor",6,"NaN, NaN, 0.0, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+ennius.annales,19.577,"cum, legio, cum, proficisco, induperator",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,19.578,"sch.bemb.ter.heaut, m",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,19.579,"flamma, locus, postquam, concutio, sum, turbo, saeuus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,saeuus,0.143
+ennius.annales,19.58,"hic, statua, statuo, magnus, orbo, athenae",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.167
+ennius.annales,19.581,"silua, saltus, latebra, lama, lutosus",5,"NaN, NaN, -0.5, NaN, NaN",-0.1,-0.1,,0.0
+ennius.annales,19.582,"atque, manus, magnus, romanus, impello, amnis",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,19.583,"pilum, retundo, uenio, obuius, pila",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,,0.0
+ennius.annales,19.584,"decretum, sum, sto, et, fossaris, corpus, telum",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,19.585,"premo, pes, pes, atque, arma, arma, tero",7,"NaN, 0.0, 0.0, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,19.586,"laetificus, gau",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,19.587,"deus, domus, altisonus, cael",4,"0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,19.588,"endo, suus, do",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.589,"fru, -ne",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,19.59,"audeo, sum, hic, ex, os, tuus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,hic,0.167
+ennius.annales,19.591,"urbs, magnus, atque, imperiosus",4,"0.5, 0.0, NaN, NaN",0.125,0.0,,0.0
+ennius.annales,19.592,"diuus, homo, pater, rex",4,"0.0, 0.0, 0.0, 0.0",0.0,0.0,,0.0
+ennius.annales,19.593,"pater, diuus, homo",3,"0.0, 0.0, 0.0",0.0,0.0,,0.0
+ennius.annales,19.594,"orator, doctiloquus",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,19.595,"clamor, bouantes",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,19.596,"pausa, facio, fremo",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.597,"adgretus, faris",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,19.598,"runatus, recedo",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,19.599,"sospes, liber",2,"1.0, 0.5",0.75,0.0,,0.0
+ennius.annales,19.6,"equito, eo, celerissimus",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.601,"iam, fere, quattuor, pario",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.602,"furo, uentus",2,"NaN, NaN",nan,nan,furo,0.5
+ennius.annales,19.603,"fluctus, nato",2,"0.0, NaN",0.0,0.0,,0.0
+ennius.annales,19.604,"heia, machaera",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,19.605,"ipse, ad, armenta, idem",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.606,"qui, non, uirtus, egeo",4,"NaN, NaN, 1.0, NaN",0.25,0.0,,0.0
+ennius.annales,19.607,"fundo, effero, naris, lux",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.608,"telum, trabal",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,19.609,aplustra,1,NaN,nan,nan,,0.0
+ennius.annales,19.61,anio,1,NaN,nan,nan,,0.0
+ennius.annales,19.611,ambago,1,NaN,nan,nan,,0.0
+ennius.annales,19.612,"taeter, elephantus",2,"-1.0, NaN",-0.5,-0.5,taeter,0.5
+ennius.annales,19.613,"sto, puluis, campus",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,19.614,"neque, retraho, ⏑, ⏑, ⏑, potestur",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.615,imperium,1,0.0,0.0,0.0,,0.0
+ennius.annales,19.616,"ab, laeuus, rite, probo",4,"NaN, -1.0, NaN, NaN",-0.25,-0.25,,0.0
+ennius.annales,19.617,"hic, abnuo",2,"NaN, NaN",nan,nan,hic,0.5
+ennius.annales,19.618,"rex, ambo, ultra, fodio, protendo, coepio",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,19.619,"despolio, is, et, corpus, nudo, relinquo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,19.62,"tu, lar, tectum, nos, qui, fundus, curo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.143
+ennius.annales,19.621,"machina, multus, minax, minito, maximus, murus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,19.622,"ille, cratera, ex, auro, haurio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.623,"uideo, -ne, ut",3,"NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,19.624,crebrisuro,1,NaN,nan,nan,,0.0
+ennius.annales,20.1,"tres, cor, graeca, osce, latina, pers., cum, schol",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,20.2,"luna, portus, sum, opera, cognosco, ciuis",6,"NaN, NaN, NaN, -0.5, NaN, 0.5",0.0,-0.083,,0.0
+ennius.annales,20.3,"an, aliquis, qui, donum, ille, moraris, sed, accipio",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,20.4,"quantus, statua, statuo, populus, romanus",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,20.5,"quantus, columna, qui, res, tuus, gero, loquor",7,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,20.6,"scipio, inuictus",2,"NaN, 1.0",0.5,0.0,,0.0
+ennius.annales,20.7,"desino, roma, tuus, hostis",4,"NaN, NaN, 0.0, -1.0",-0.25,-0.25,,0.0
+ennius.annales,20.8,"nam, tu, munimentum, meus, pario, labor",6,"NaN, NaN, NaN, 0.0, NaN, -0.5",-0.083,-0.083,tu,0.167
+ennius.annales,20.9,"testis, sum, campus, magnus",4,"NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ennius.annales,20.1,"aqua, terra, anima, et, sol",5,"0.0, 0.0, 0.5, NaN, NaN",0.1,0.0,,0.0
+ennius.annales,20.11,"inter, pono",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,20.12,"uerso, mucro",2,"NaN, -1.0",-0.5,-0.5,,0.0
+ennius.annales,20.13,"quis, tu, persuadeo",3,"NaN, NaN, NaN",nan,nan,tu,0.333
+ennius.annales,20.14,"indignus, turris",2,"-1.0, NaN",-0.5,-0.5,,0.0
+ennius.annales,20.15,"hic, nix",2,"NaN, NaN",nan,nan,hic,0.5
+ennius.annales,20.16,"auis, uulgus",2,"NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,20.17,"hastaris, uulgus",2,"NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,20.18,"caelum, palo",2,"0.5, NaN",0.25,0.0,,0.0
+ennius.annales,20.19,"uita, uital",2,"0.0, NaN",0.0,0.0,,0.0
+ennius.annales,20.2,"sanctus, poeta",2,"1.0, 0.0",0.5,0.0,,0.0
+ennius.annales,20.21,"uersus, longus",2,"NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,20.22,"bonus, pars",2,"1.0, 0.0",0.5,0.0,,0.0
+ennius.annales,20.23,re-pono,1,NaN,nan,nan,,0.0
+ennius.annales,20.24,porgite,1,NaN,nan,nan,,0.0
+ennius.annales,20.25,florus,1,NaN,nan,nan,,0.0
+ennius.annales,20.26,insomnis,1,-0.5,-0.5,-0.5,,0.0
+ennius.annales,20.27,soluo,1,NaN,nan,nan,,0.0
+ennius.annales,20.28,"torrus, torres",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,20.29,festra,1,NaN,nan,nan,,0.0
+ennius.annales,20.3,uesper,1,NaN,nan,nan,,0.0
+ennius.annales,20.31,consiptum,1,NaN,nan,nan,,0.0
+ennius.annales,20.32,insexit,1,NaN,nan,nan,,0.0
+ennius.annales,20.33,remorbesco,1,NaN,nan,nan,,0.0
+ennius.annales,20.34,tapetae,1,NaN,nan,nan,,0.0
+ennius.annales,20.35,cicuro,1,NaN,nan,nan,,0.0
+ennius.annales,20.36,"daedalus, minerua",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,20.37,locus,1,0.0,0.0,0.0,,0.0
+ennius.annales,20.38,"regredior, gradior",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,21.1,"aduena, quam, lenis, celer, ueho, unda, uegeiia",7,"NaN, NaN, 1.0, NaN, NaN, 0.0, NaN",0.143,0.0,,0.0
+ennius.annales,21.2,"hinc, legio, stlattis, iam, transporto, amnis",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,21.3,"sisyphus, uerso",2,"NaN, NaN",nan,nan,,0.0
+ennius.annales,21.4,"saxum, sudo, niteo, neque, proficio, hilis",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,21.5,"in, mons, patrius, et, ad, incunabula, noster",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ennius.annales,21.6,"caelicola, meus, membrum, deus, qui, noster, potestas",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, 0.5",0.071,0.0,,0.0
+ennius.annales,21.7,"officium, diuido, facio",3,"0.5, NaN, NaN",0.167,0.0,,0.0
+ennius.annales,21.8,"con-frico, oleum, lentas, et, ad, arma, paro",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,21.9,"introduco, legatus, minturnenses",3,"NaN, 0.0, NaN",0.0,0.0,,0.0
+ennius.annales,21.1,"tum, lateral, dolor, certus, nuntius, mors",6,"NaN, NaN, -1.0, 0.5, NaN, -1.0",-0.25,-0.333,,0.0
+ennius.annales,21.11,"quam, malo, uincio, ego, trado",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ennius.annales,21.12,"mare, saxifragus, unda",3,"0.0, NaN, 0.0",0.0,0.0,,0.0
+ennius.annales,21.13,bellicrepam,1,NaN,nan,nan,,0.0
+ennius.annales,21.14,lepareses,1,NaN,nan,nan,,0.0
+ennius.annales,21.15,"o, praesto, animus, iuuenis",4,"NaN, NaN, 0.5, NaN",0.125,0.0,,0.0
+ennius.annales,21.16,"e, portus, post, italico",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0

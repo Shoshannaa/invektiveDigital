@@ -1,0 +1,35 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+prudentius.epilogus,1.0,"in-molo, deus, pater",3,"NaN, 0.0, 0.0",0.0,0.0,,0.0
+prudentius.epilogus,2.0,"pius, fidelis, innocens, pudicus",4,"NaN, 1.0, 0.5, 0.5",0.5,0.0,"innocens, pudicus",0.5
+prudentius.epilogus,3.0,"donum, conscientia",2,"0.0, 0.0",0.0,0.0,conscientia,0.5
+prudentius.epilogus,4.0,"qui, beatus, mens, abundo, intus",5,"NaN, 1.0, 0.5, NaN, NaN",0.3,0.0,,0.0
+prudentius.epilogus,5.0,"alter, et, pecunia",3,"NaN, NaN, 0.0",0.0,0.0,pecunia,0.333
+prudentius.epilogus,6.0,"recido, unde, uictitent, egenus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.epilogus,7.0,"nos, cieo, iambicos",3,"NaN, NaN, NaN",nan,nan,,0.0
+prudentius.epilogus,8.0,"sacramus, et, rotatilis, trochaeus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.epilogus,9.0,"sanctitas, indigi",2,"NaN, NaN",nan,nan,,0.0
+prudentius.epilogus,10.0,"neque, ad, leuame, -ne, pauper, potens",6,"NaN, NaN, NaN, NaN, -1.0, 1.0",0.0,-0.167,,0.0
+prudentius.epilogus,11.0,"approbo, tamen, deus",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.epilogus,12.0,"pedestre, carmen, et, benignus, audio",5,"NaN, 0.0, NaN, 1.0, NaN",0.2,0.0,,0.0
+prudentius.epilogus,13.0,"multus, diues, domus",3,"0.0, 0.5, 0.0",0.167,0.0,,0.0
+prudentius.epilogus,14.0,"sino, sum, per, omnis, angulus, supellex",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.epilogus,15.0,"fulgeo, aureus, scyphus",3,"NaN, 0.5, NaN",0.167,0.0,,0.0
+prudentius.epilogus,16.0,"neque, aer, deficio, expolio, peluis",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.epilogus,17.0,"sum, et, olla, fictilis",4,"NaN, NaN, NaN, NaN",nan,nan,fictilis,0.25
+prudentius.epilogus,18.0,"grauis, et, amplus, argenteus, sum, parapsis",6,"-0.5, NaN, 0.0, NaN, NaN, NaN",-0.083,-0.083,,0.0
+prudentius.epilogus,19.0,"sum, eburnus, qui",3,"NaN, NaN, NaN",nan,nan,,0.0
+prudentius.epilogus,20.0,"nonnullus, quercus, sum, cauo, et, ulmus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.epilogus,21.0,"omnis, uas, fio, utilis",4,"NaN, NaN, NaN, 1.0",0.25,0.0,uas,0.25
+prudentius.epilogus,22.0,"qui, sum, ad, usus, congruo, erilis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.epilogus,23.0,"instruo, enim, domus",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.epilogus,24.0,"ut, emo, magnus, sic, paro, lignum",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,emo,0.167
+prudentius.epilogus,25.0,"ego, paternus, in, atrium",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.epilogus,26.0,"ut, obsolesco, uasculis, caducus",4,"NaN, NaN, NaN, NaN",nan,nan,obsolesco,0.25
+prudentius.epilogus,27.0,"christus, apto, usus",3,"NaN, NaN, NaN",nan,nan,,0.0
+prudentius.epilogus,28.0,"sino, pars, in, angulis, maneo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.epilogus,29.0,"munus, ecce, fictilis",3,"0.5, NaN, NaN",0.167,0.0,fictilis,0.333
+prudentius.epilogus,30.0,"ineo, intra, regia, salus",4,"NaN, NaN, NaN, 1.0",0.25,0.0,,0.0
+prudentius.epilogus,31.0,"attamen, uel, infimam",3,"NaN, NaN, NaN",nan,nan,,0.0
+prudentius.epilogus,32.0,"deus, obsequela, praesto, prodo",4,"0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.epilogus,33.0,"quisquis, ille, accido",3,"NaN, NaN, NaN",nan,nan,,0.0
+prudentius.epilogus,34.0,"iuuo, os, personasse, christum",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0

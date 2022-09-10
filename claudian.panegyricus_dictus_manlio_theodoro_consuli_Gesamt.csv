@@ -1,0 +1,342 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+claudian.panegyricus_dictus_manlio_theodoro_consuli,1.0,"audeo, -ne, precor, tantus, subiectum, caterua, inter, tot, proceres, noster, thalia, loquor, neque, tu, fama, ueto, uerus, quam, celsus, augeo, uel, seruo, labor, uel, minuo, pudor, an, tu, continuus, cerno, fiducia, castrum, totus, iam, uates, pectus, miles, habeo, culmen, romanus, maiestas, senatus, et, qui, exultat, gallia, cerno, uir, omnis, audio, terra, mundus, per, auris, eo, ah, nimius, consul, urgeo, amor, iuppiter, ut, perhibeo, spatium, cum, disco, uolo, natura, regnum, nescius, ipse, suus, armiger, utrimque, duo, aequal, ala, mitto, ab, eous, occiduisque, plaga, parnasus, geminus, fero, iungo, uolo, confero, alterno, pythius, axis, aueo, princeps, non, aquilis, terra, cognosco, curo, certus, in, tu, aestimo, imperium, hic, ego, concilio, colligo, metior, orbis, hic, uideo, coitus, quisquis, ubique, mico",115,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, 0.5, NaN, NaN, 0.0, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, 0.0, 1.0, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, -0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.5, NaN, NaN, 0.0, NaN, NaN, 0.5, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.052,-0.009,"tu, pudor, tu, nimius, nescius, tu, hic, hic",0.07
+claudian.panegyricus_dictus_manlio_theodoro_consuli,1.1,"ipse, quidem, uirtus, pretium, sui, solo, latus",7,"NaN, NaN, 1.0, 1.0, NaN, NaN, NaN",0.286,0.0,pretium,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,2.0,"fortuna, securus, niteo, neque, fascis, ullus",6,"0.0, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,3.0,"erigo, plausuue, peto, claresco, uulgus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,4.0,"nihil, ops, externus, cupio, nihil, indigus, laus",7,"NaN, 0.0, 0.0, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,5.0,"diuitiae, animosus, suus, immotus, cunctus",5,"0.5, NaN, NaN, NaN, 0.0",0.1,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,6.0,"casus, ex, altus, mortalia, despicio, arx",6,"0.0, NaN, 0.5, 0.0, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,7.0,"attamen, inuitus, blandus, uestigo, et, ultro",6,"NaN, -0.5, 0.5, NaN, NaN, NaN",0.0,-0.083,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,8.0,"amb-eo, honor, doceo, totiens, ab, rus, proficiscor",7,"NaN, 1.0, NaN, NaN, NaN, 0.0, NaN",0.143,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,9.0,"lictor, et, in, medius, consul, quaero, arater",7,"NaN, NaN, NaN, 0.0, 0.5, NaN, NaN",0.071,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,10.0,"tu, quoque, natura, sacrum, mundus, uaco",6,"NaN, NaN, 0.0, NaN, 1.0, NaN",0.167,0.0,tu,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,11.0,"emereo, pridem, desudatisque, remoueo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,12.0,"iudicium, idem, rursum, complector, potestas",5,"0.5, NaN, NaN, NaN, 0.5",0.2,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,13.0,"eueho, et, reducem, nosco, impono, habena",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,14.0,"accedo, trabea, nihil, iam, theodore, relinquo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,15.0,"quo, uirtus, animus, cresco, uel, splendor, honori.",7,"NaN, 1.0, 0.5, NaN, NaN, 1.0, NaN",0.357,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,16.0,"culmen, uterque, teneo, talis, tu, protinus, annus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,17.0,"formauere, rudo, et, dignus, uito, curulis",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,18.0,"traho, iter, primus, senex, cedo, iuuenta",6,"NaN, 0.0, 0.5, 0.0, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,19.0,"iam, tum, canities, animus, iam, dulcis, loquor",7,"NaN, NaN, NaN, 0.5, NaN, 0.5, NaN",0.143,0.0,canities,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,20.0,"pondus, et, attono, sermo, qui, duco, auris",7,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,21.0,"mox, undaris, forum, uictrix, opulentia, lingua",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,undaris,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,22.0,"tutarique, reus, ipse, hic, amplus, sedes",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,"reus, hic",0.333
+claudian.panegyricus_dictus_manlio_theodoro_consuli,23.0,"oro, stupeo, bis, laudo, rego",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,24.0,"hinc, tu, pars, libyae, modero, ius, probo",7,"NaN, NaN, 0.0, NaN, NaN, 0.5, NaN",0.071,0.0,tu,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,25.0,"qui, nunc, totus, probo, longus, sed, pignus, amor",8,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, 1.0",0.125,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,26.0,"exiguus, pario, mora, populus, cliens",5,"0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,27.0,"publicus, mando, testo, uox, aes",5,"0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,28.0,"inde, tu, macetum, tellus, et, credo, pellae",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,29.0,"moenia, qui, famulus, quondam, dito, hydaspes",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,30.0,"tantus, committo, reuoco, gaudium, gens",5,"NaN, NaN, NaN, 1.0, 0.0",0.2,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,31.0,"mitis, arbitrium, quantus, bellor, philippus",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,philippus,0.2
+claudian.panegyricus_dictus_manlio_theodoro_consuli,32.0,"floreo, aut, niger, cado, cum, regius, porus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,33.0,"sed, non, ultra, tu, praebeo, urbs, aula",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,tu,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,34.0,"malo, sum, suus, terra, edico, do",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,35.0,"supplex, respondeo, uenio, oraculum, rex",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,36.0,"eloquium, cerno, tuus, neque, dignus, umquam",6,"NaN, NaN, 0.0, NaN, 1.0, NaN",0.167,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,37.0,"maiestas, memini, sui, romana, loquor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,38.0,"hinc, sacer, mando, ops, orbus, tribuo",6,"NaN, 1.0, NaN, 0.0, -0.5, NaN",0.083,-0.083,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,39.0,"possessus, quisquis, fluuius, euoluo, aurum",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,40.0,"quisquis, lux, procul, uena, rimo, sequax",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,41.0,"abdo, palleo, fodio, sollertia, bessi",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,42.0,"atque, uelut, experior, lentandis, nauta, tondeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,43.0,"praeficio, lateo, custos, hinc, arduus, prora",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,44.0,"tempero, et, fluctus, tempestas, sum",5,"NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,45.0,"edoceo, assiduus, cum, dorida, uinco, usus",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,46.0,"iam, clauus, totus, subeo, torqueo, carina",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,47.0,"sic, cum, clarus, diu, mens, documentum, do",7,"NaN, NaN, 0.5, NaN, 0.5, 0.0, NaN",0.143,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,48.0,"non, tu, pars, suus, sed, in, omnis, corpus, sumo",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.111
+claudian.panegyricus_dictus_manlio_theodoro_consuli,49.0,"imperium, cuncto, do, tellus, rego",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,50.0,"rector, hispanus, tu, germanus, tethys",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+claudian.panegyricus_dictus_manlio_theodoro_consuli,51.0,"pareo, et, noster, diduco, britannia, mundus",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,52.0,"diuerto, tuus, colo, gurges, uoco",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,gurges,0.2
+claudian.panegyricus_dictus_manlio_theodoro_consuli,53.0,"lentus, arar, rhodanusque, ferox, et, diues, hiberus",7,"NaN, NaN, NaN, -1.0, NaN, 0.5, NaN",-0.071,-0.143,ferox,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,54.0,"o, quotiens, doleo, rhenus, qui, barbarus, eo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,55.0,"qui, tu, non, geminus, fruor, iudex, ripa",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,tu,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,56.0,"unus, fio, cura, uir, quicumque, rubesco",6,"NaN, NaN, -1.0, 0.5, NaN, NaN",-0.083,-0.167,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,57.0,"occasus, quicumque, dies, deuexior, amb-eo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,58.0,"tam, celer, assiduus, ex-pleo, curro, honor",6,"NaN, NaN, 0.5, NaN, NaN, 1.0",0.25,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,59.0,"unus, potestas, spatium, intersum, aetas",5,"NaN, 0.5, NaN, NaN, 0.0",0.1,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,60.0,"tot, gradus, fatum, iuuenilis, infero, annus",6,"NaN, 0.0, 0.0, NaN, NaN, 0.0",0.0,0.0,iuuenilis,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,61.0,"postquam, pario, quies, et, superus, nanciscor, cacumen",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,62.0,"iam, securus, peto, priuo, gloria, portus",6,"NaN, 1.0, NaN, NaN, 0.0, NaN",0.167,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,63.0,"ingenium, redeo, fructus, alius, labor",5,"0.5, NaN, 0.5, NaN, -0.5",0.1,-0.1,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,64.0,"et, uita, pars, nullus, pereo, quicumque, recedo",7,"NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,65.0,"lis, incumbo, studium, animus, uicissim",5,"-0.5, NaN, 0.5, 0.5, NaN",0.1,-0.1,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,66.0,"aut, cura, impono, populus, aut, otium, musis",7,"NaN, -1.0, NaN, 0.0, NaN, 0.5, NaN",-0.071,-0.143,otium,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,67.0,"omnis, cecropiae, relegis, secerno, senecta",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,68.0,"discutio, quis, quisque, nouus, mando, aeuum",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,69.0,"quantus, diuerto, produco, agmen, secta",5,"NaN, NaN, NaN, -1.0, 0.0",-0.2,-0.2,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,70.0,"namque, alius, princeps, res, dispono, aer",6,"NaN, NaN, 0.5, 0.0, NaN, 0.0",0.083,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,71.0,"hic, confido, aqua, hic, procreo, omnis, flamma",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"hic, hic",0.286
+claudian.panegyricus_dictus_manlio_theodoro_consuli,72.0,"alter, in, aetnaeas, cado, sponte, fauilla",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,73.0,"dispergo, reuoco, deus, rursus, recipio",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,74.0,"necto, amicitia, quisquis, discordia, soluo",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,75.0,"corpus, hic, damno, sensus, uerus, uideo",6,"0.0, NaN, NaN, 0.5, 0.5, NaN",0.167,0.0,"hic, damno",0.333
+claudian.panegyricus_dictus_manlio_theodoro_consuli,76.0,"pernego, hic, semper, lapsurae, pondero, terra",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,77.0,"conor, rapidus, caelum, fulcio, roto",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,78.0,"accendo, dies, praerumpo, turbo, saxum",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,praerumpo,0.2
+claudian.panegyricus_dictus_manlio_theodoro_consuli,79.0,"ille, ferox, unus, tego, non, patior, olympus",7,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,ferox,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,80.0,"immensus, per, inanis, uolo, finis, perosus",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,81.0,"parturio, innumerus, angustus, pectus, mundus",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,82.0,"hic, uago, collidunt, caecus, primordius, plaga",6,"NaN, NaN, NaN, -1.0, NaN, 0.0",-0.167,-0.167,hic,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,83.0,"numen, constituo, alius, cado, relego",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,84.0,"graiorum, obscuro, romanus, flos, ars",5,"NaN, NaN, NaN, 0.5, 0.0",0.1,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,85.0,"inradias, uicis, gratus, formo, loquor",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,86.0,"suesco, et, alterno, uerus, contego, nodus",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,87.0,"quisquis, socratico, mano, ab, ordo, quisquis",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,88.0,"doceo, cleantheae, sono, atrium, turba",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,89.0,"inuenio, quicumque, tuus, chrysippe, recessus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,90.0,"quisquis, democritus, rideo, dico, taceo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,91.0,"pythagoras, unus, sui, pectus, cunctus, uetustus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,92.0,"condo, et, magnus, colligo, uis, exeo",6,"NaN, NaN, 0.0, NaN, 1.0, NaN",0.167,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,93.0,"orno, uetus, et, nobilis, magister",5,"NaN, 0.0, NaN, 1.0, 0.5",0.3,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,94.0,"in, latium, sperno, academia, migro, athenae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,95.0,"ut, tandem, propius, disco, quo, finis, beatus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 1.0",0.143,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,96.0,"dirigo, qui, norma, bonus, qui, limo, honestus",7,"NaN, NaN, 0.5, 1.0, NaN, NaN, 1.0",0.357,0.0,honestus,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,97.0,"quisnam, membrum, suus, uirtus, diuido, domo",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,98.0,"obiecto, uitium, qui, pars, iniustus, recido",6,"NaN, -1.0, NaN, 0.0, -1.0, NaN",-0.333,-0.333,iniustus,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,99.0,"qui, uinco, ratio, metus, qui, freno, amor",7,"NaN, NaN, 0.0, -1.0, NaN, NaN, 1.0",0.0,-0.143,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,100.0,"aut, quotiens, elementum, doceo, semper, fluo",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,101.0,"materia, causa, qui, uolo, animauerit, astrum",6,"0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,102.0,"impuleritque, chorus, quo, uiuo, machina, motus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,103.0,"sidus, cur, septem, retro, nitor, in, ortus",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,104.0,"obluctor, polus, uarius, -ne, meatus, idem",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,105.0,"arbiter, an, geminus, conuerto, aether, mens",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,106.0,"sum, -ne, color, proprius, res, lucus, repello",7,"NaN, NaN, 0.0, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,107.0,"eludo, acies, tumidus, qui, luna, recursus",6,"NaN, 0.0, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,108.0,"nutrio, oceani, quo, frango, tonitruum, uenio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tonitruum,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,109.0,"quis, traho, imbrifer, nubes, quo, saxum, creo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,110.0,"grando, unde, rigor, nix, qui, flamma, per, aura",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,111.0,"excutio, rutilus, traho, aut, fulmen, uelox",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,112.0,"torqueo, aut, tristis, figo, crinio, co-meto",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,co-meto,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,113.0,"iam, tu, compono, fundo, ancora, puppis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,114.0,"tellus, iam, certus, sum, fecundus, placeo",6,"NaN, NaN, 0.5, NaN, 1.0, NaN",0.25,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,115.0,"otium, nasco, eo, in, saeculum, liber",6,"0.5, NaN, NaN, NaN, NaN, 0.5",0.167,0.0,otium,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,116.0,"cum, subeo, liquidus, cesso, uideo, ab, aethra",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,117.0,"iustitia, et, tantus, uiduatas, iudex, lex",6,"1.0, NaN, NaN, NaN, 0.5, 0.5",0.333,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,118.0,"continuo, frons, limbus, uelo, pudicus",5,"NaN, 0.0, NaN, NaN, 0.5",0.1,0.0,pudicus,0.2
+claudian.panegyricus_dictus_manlio_theodoro_consuli,119.0,"desero, auctumnus, porta, qui, uergo, in, auster",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,120.0,"signifer, et, nox, reparo, dispendium, chelae",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,121.0,"pax, auis, quicumque, uolo, rabies, fremo",6,"0.5, NaN, NaN, NaN, -1.0, NaN",-0.083,-0.167,rabies,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,122.0,"depono, fera, laeto, terra, reuorto",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,fera,0.2
+claudian.panegyricus_dictus_manlio_theodoro_consuli,123.0,"numen, qui, priscus, post, tempus, perdo, aurum",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, 0.5",0.071,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,124.0,"ilia, per, occulo, ligurum, sui, moenia, infero",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,125.0,"et, castus, leuis, planta, ingredior, penates",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,126.0,"inuenio, aetherius, signo, puluis, curro",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,127.0,"qui, pius, sollicito, deprehendo, polliceo, memphis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,128.0,"qui, moueo, momentum, polus, quam, certus, in, astrum",8,"NaN, NaN, 0.0, NaN, NaN, 0.5, NaN, NaN",0.062,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,129.0,"error, quis, tenebrae, sol, causa, meo",6,"-1.0, NaN, NaN, NaN, 0.0, NaN",-0.167,-0.167,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,130.0,"deficio, indico, numerus, qui, lineus, phoebus, -ne",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,131.0,"damno, et, excludo, palleo, frater, relinquo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,damno,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,132.0,"ut, procul, ad-specio, fulgeo, uirgo, os",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,uirgo,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,133.0,"cognosco, dea, uultus, ueneror, amicus",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,134.0,"occurro, scribo, nosco, confundo, harena",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,135.0,"tum, sic, diuus, prior, manlius, sincerus, bonus",7,"NaN, NaN, 0.0, 0.5, NaN, 0.5, 1.0",0.286,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,136.0,"congeries, in, quo, ueto, uestigium, recingo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,137.0,"et, duco, uideo, mos, bonus, metallum",6,"NaN, NaN, NaN, 0.5, 1.0, NaN",0.25,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,138.0,"iam, satis, indultum, studium, musaeque, tot, annus",7,"NaN, 0.5, NaN, 0.5, NaN, NaN, 0.0",0.143,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,139.0,"eripio, ego, pridem, tu, ius, reposco",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,tu,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,140.0,"aggredior, et, noster, rursum, tu, reddo, labor",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,tu,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,141.0,"neque, tu, sufficio, transmitto, gloria, uita",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,tu,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,142.0,"humanus, curo, genus, quis, terminus, umquam",6,"0.0, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,143.0,"praescribo, nullus, recipio, prudentia, meto",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,144.0,"addo, qui, hic, multus, possum, contingo, sedes",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,145.0,"sed, mereo, tantus, redeo, ago, prior",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,146.0,"commendo, repeto, honor, uirtus, reduco",5,"NaN, NaN, 1.0, 1.0, NaN",0.4,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,147.0,"qui, fortuna, legit., bonus, magnus, peto",6,"NaN, 0.0, NaN, 1.0, 0.0, NaN",0.167,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,148.0,"credo, in, abstrudo, res, ratio, moraris",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,149.0,"scilicet, ilia, tuus, patria, praecipio, platonis",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,150.0,"erigo, magis, quam, qui, respondeo, sequor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,151.0,"obruo, eoas, classis, urbs, carina",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,classis,0.2
+claudian.panegyricus_dictus_manlio_theodoro_consuli,152.0,"ueho, et, ardeo, medo, subduco, athenae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,153.0,"spartanis, possum, robur, praesto, lycurgus",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,154.0,"mater, et, sexus, lex, uinco, seuerus",6,"0.0, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,155.0,"ciuis, et, ueto, ignauus, credo, murus",6,"0.5, NaN, NaN, -1.0, NaN, NaN",-0.083,-0.167,ignauus,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,156.0,"tueor, obiacio, nudus, lacedaemona, bellum",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,157.0,"at, non, pythagorae, moneo, annus, sileo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,158.0,"famosus, oebalii, luxus, premo, tarenti",5,"NaN, NaN, -0.5, NaN, NaN",-0.1,-0.1,"famosus, luxus",0.4
+claudian.panegyricus_dictus_manlio_theodoro_consuli,159.0,"quis, uerus, insignis, tantus, sub, princeps, cura",7,"NaN, 0.5, 0.0, NaN, NaN, 0.5, -1.0",0.0,-0.143,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,160.0,"respuo, aut, quando, meritum, magnus, pateo",6,"NaN, NaN, NaN, 1.0, 0.0, NaN",0.167,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,161.0,"praemium, quis, demens, adeo, qui, iungo, sensus",7,"1.0, NaN, -1.0, NaN, NaN, NaN, 0.5",0.071,-0.143,demens,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,162.0,"cum, stilichone, nego, similis, qui, profero, aetas",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,163.0,"consilium, uel, martes, uir, nunc, brutus, amo",7,"0.5, NaN, NaN, 0.5, NaN, -1.0, NaN",0.0,-0.143,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,164.0,"uiuo, sub, regnum, talis, succumbo, aula",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,165.0,"fabricius, cupio, ipse, seruio, catones",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,166.0,"nonne, uideo, ut, noster, soror, clemens, tristis",7,"NaN, NaN, NaN, NaN, NaN, 1.0, -1.0",0.0,-0.143,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,167.0,"obtundo, gladius, frater, amplector, serenus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,168.0,"assurgo, pietas, frango, ut, lugeo, arma",6,"NaN, 1.0, NaN, NaN, NaN, 0.0",0.167,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,169.0,"perfidia, et, lacer, morior, crinis, hydrus",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,"perfidia, hydrus",0.333
+claudian.panegyricus_dictus_manlio_theodoro_consuli,170.0,"lambant, inualidus, furiaris, uinclum, ueneno",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,"furiaris, uinclum",0.4
+claudian.panegyricus_dictus_manlio_theodoro_consuli,171.0,"exultat, cum, pax, fides, iam, sidus, cunctus",7,"NaN, NaN, 0.5, 1.0, NaN, NaN, 0.0",0.214,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,172.0,"linquo, et, placidus, inter, discurro, urbs",6,"NaN, NaN, 1.0, NaN, NaN, 0.5",0.25,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,173.0,"cum, nos, theodore, redeo, subeo, ille, loquor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,174.0,"talis, agrestis, dudum, ego, diuus, reuorto",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,175.0,"cogo, et, inficio, longus, rubigo, rus",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,176.0,"ad, tuus, signum, uoco, nam, qui, ego, cura, tot, annus",10,"NaN, 0.0, 0.0, NaN, NaN, NaN, NaN, -1.0, NaN, 0.0",-0.1,-0.1,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,177.0,"alter, quam, duro, sulcus, mollio, noual",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,178.0,"nosco, solus, uireo, nemus, qui, commodus, rupes",7,"NaN, -0.5, NaN, NaN, NaN, 0.5, 0.0",0.0,-0.071,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,179.0,"quis, felix, olea, traho, qui, glaeba, faueo",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,glaeba,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,180.0,"frugis, et, qualis, tego, uindemio, collis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,181.0,"terribilis, rursum, lituus, ueteranus, adeo",5,"-0.5, NaN, NaN, 0.5, NaN",0.0,-0.1,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,182.0,"et, de_-suesco, uetus, tempto, caerulus, uecto",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,caerulus,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,183.0,"collectamque, diu, et, certus, utcumque, loco",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,184.0,"sedes, in, dubius, patior, depono, fama",6,"0.0, NaN, -0.5, NaN, NaN, 1.0",0.083,-0.083,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,185.0,"neque, ego, quis, ualeo, natura, fortis, utor",7,"NaN, NaN, NaN, NaN, 0.0, 0.5, NaN",0.071,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,186.0,"praetereo, aut, quantus, neglego, defluo, artus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,187.0,"desido, auriga, non, audio, uerbero, currus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uerbero,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,188.0,"neque, manus, agnosco, qui, non, exerceo, arcus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,189.0,"sum, sed, iniustus, fateor, quicumque, nego",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,iniustus,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,190.0,"iustitia, tu, primus, homo, siluestris, antrum",6,"1.0, NaN, 0.5, 0.0, NaN, 0.0",0.25,0.0,tu,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,191.0,"elicio, et, foedo, detergeo, saeculum, uinco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,foedo,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,192.0,"tu, propter, colo, lex, animus, ferus",6,"NaN, NaN, NaN, 0.5, 0.5, -1.0",0.0,-0.167,"tu, ferus",0.333
+claudian.panegyricus_dictus_manlio_theodoro_consuli,193.0,"exuo, nitidus, quisquis, tu, sensus, haurio",6,"NaN, 0.5, NaN, NaN, 0.5, NaN",0.167,0.0,tu,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,194.0,"in-ruo, intrepidus, flamma, hibernus, seco",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,195.0,"aequor, confercio, hostis, supero, inermis",5,"0.0, NaN, -1.0, NaN, 0.0",-0.2,-0.2,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,196.0,"ille, uel, aethiopum, pluuia, solo, aestus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,197.0,"ille, trans, scythiam, uernus, comito, aer",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,198.0,"sic, fatus, trado, dea, suscipio, habena",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,199.0,"quattuor, ingens, ius, temo, refundo",5,"NaN, -0.5, 0.5, NaN, NaN",0.0,-0.1,refundo,0.2
+claudian.panegyricus_dictus_manlio_theodoro_consuli,200.0,"primus, padi, thybrimque, ligo, creber, mico",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,201.0,"urbs, italia, numida, poenosque, secundus",5,"0.5, NaN, NaN, NaN, 0.0",0.1,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,202.0,"tempero, illyricum, sui, tertius, porrigo, orbus",6,"NaN, NaN, NaN, 0.0, NaN, -0.5",-0.083,-0.083,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,203.0,"ulter, sardinia, cyrnum, trifidus, retento",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,204.0,"sicaniam, et, quisquis, tyrrhena, tundo, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,205.0,"uel, gemo, ionia, neque, tu, tot, lumen, res",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.125
+claudian.panegyricus_dictus_manlio_theodoro_consuli,206.0,"aut, tantus, turbo, onus, sed, ut, altus, olympi",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,207.0,"uertex, qui, spatium, uenio, hiemo, relinquo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,208.0,"perpetuus, nullus, temero, nubes, serenus",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,temero,0.2
+claudian.panegyricus_dictus_manlio_theodoro_consuli,209.0,"celsus, exurgit, pluuia, audio, ruo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,210.0,"sub, pes, nimbus, et, raucus, tonitruum, calco",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tonitruum,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,211.0,"sic, patior, animus, per, tantus, negotium, liber",7,"NaN, NaN, 0.5, NaN, NaN, -0.5, 0.5",0.071,-0.071,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,212.0,"emergo, similis, suus, iustus, tenor",5,"NaN, 0.0, NaN, 1.0, NaN",0.2,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,213.0,"flecto, non, odium, cogo, non, gratia, suadeo",7,"NaN, NaN, -1.0, NaN, NaN, 1.0, NaN",0.0,-0.143,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,214.0,"nam, spretas, quis, ops, intactus, pectus, lucrum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.5",0.071,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,215.0,"commemoro, sum, alius, hic, fors, decus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,216.0,"nullus, possum, laus, sum, tu, qui, crimen, purgo",8,"NaN, NaN, 1.0, NaN, NaN, NaN, -1.0, NaN",0.0,-0.125,"tu, crimen",0.25
+claudian.panegyricus_dictus_manlio_theodoro_consuli,217.0,"seruo, inoffensus, diuino, modestia, uoco",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,modestia,0.2
+claudian.panegyricus_dictus_manlio_theodoro_consuli,218.0,"temperies, seruo, oculus, neque, lumen, feruo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,219.0,"aspero, aut, rabidus, suffundo, sanguis, uena",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,rabidus,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,220.0,"nullus, muto, tempestas, prodeo, ora",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,221.0,"quin, etiam, sons, expello, corrigo, ira",6,"NaN, NaN, -1.0, NaN, NaN, -1.0",-0.333,-0.333,sons,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,222.0,"et, placidus, delictum, domo, neque, dens, umquam",7,"NaN, 1.0, -1.0, NaN, NaN, NaN, NaN",0.0,-0.143,delictum,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,223.0,"instrepis, horreo, fremo, neque, uerbero, posco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uerbero,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,224.0,"qui, fruor, poena, ferus, sum, lex, uideo",7,"NaN, NaN, -1.0, -1.0, NaN, 0.5, NaN",-0.214,-0.286,"poena, ferus",0.286
+claudian.panegyricus_dictus_manlio_theodoro_consuli,225.0,"uindicta, praesto, sui, cum, uiscera, felle",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uindicta,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,226.0,"canduerint, ardeo, stimulus, fero, noceo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"stimulus, noceo",0.4
+claudian.panegyricus_dictus_manlio_theodoro_consuli,227.0,"prodigus, ignarus, causa, deus, proximus, ille",6,"NaN, -1.0, 0.0, 0.0, NaN, NaN",-0.167,-0.167,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,228.0,"qui, ratio, non, ira, moueo, qui, facio, rependo",8,"NaN, 0.0, NaN, -1.0, NaN, NaN, NaN, NaN",-0.125,-0.125,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,229.0,"consilium, punio, possum, mucro, cruento",5,"0.5, NaN, NaN, -1.0, NaN",-0.1,-0.2,"punio, cruento",0.4
+claudian.panegyricus_dictus_manlio_theodoro_consuli,230.0,"sui, iacto, alius, studeo, feritas, timeo",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,feritas,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,231.0,"addictoque, homo, cumulo, aerarium, census",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,232.0,"lenis, fluo, nilus, sed, cunctus, amnis, extat",7,"1.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.143,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,233.0,"utilis, nullus, confiteor, murmur, uireo",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,234.0,"acer, atque, rapidus, taceo, praetermeat, ingens",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,235.0,"danuuius, ripa, idem, dementia, sanus",5,"NaN, NaN, NaN, -1.0, 1.0",0.0,-0.2,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,236.0,"gurges, immensus, deduco, in, ostium, gange, -ne",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,gurges,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,237.0,"torreo, immanis, fremo, lassisque, mino",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,immanis,0.2
+claudian.panegyricus_dictus_manlio_theodoro_consuli,238.0,"pons, et, uoluo, spumosus, uertex, silua",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,spumosus,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,239.0,"pax, magnus, decet, perago, tranquillus, potestas",6,"0.5, 0.0, NaN, NaN, NaN, 0.5",0.167,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,240.0,"qui, uiolentus, nequeo, mando, fortis, urgeo",6,"NaN, -1.0, NaN, NaN, 0.5, NaN",-0.083,-0.167,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,241.0,"imperiosus, quies, idem, praedurus, iniquus",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,iniquus,0.2
+claudian.panegyricus_dictus_manlio_theodoro_consuli,242.0,"accipio, prex, rursus, qui, dignus, peto",6,"NaN, 0.0, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,243.0,"largior, et, facilis, neque, qui, comito, honor",7,"NaN, NaN, 0.5, NaN, NaN, NaN, 1.0",0.214,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,244.0,"audeo, tuus, leuis, tento, superbia, mens",6,"NaN, 0.0, 0.0, NaN, -1.0, 0.5",-0.083,-0.167,superbia,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,245.0,"frons, priuo, maneo, neque, sui, mereo, fateor",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,246.0,"qui, cerno, puto, rigidus, sed, plenus, pudor",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.5",0.071,0.0,pudor,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,247.0,"eluceo, grauitas, fastus, iucundus, remote",5,"NaN, -0.5, -1.0, 1.0, NaN",-0.1,-0.3,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,248.0,"qui, non, seditio, qui, non, insania, uulgus",7,"NaN, NaN, NaN, NaN, NaN, -1.0, 0.0",-0.143,-0.143,seditio,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,249.0,"tu, uideo, lenio, cado, qui, dissonus, ritus",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,tu,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,250.0,"barbaries, medius, quam, non, reuerendus, frango",6,"NaN, 0.0, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,251.0,"uel, quis, non, sitio, sermo, mel, polio",7,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN",-0.071,-0.071,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,252.0,"desero, orpheos, blandus, testudo, cantus",5,"NaN, NaN, 0.5, NaN, 0.0",0.1,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,253.0,"qual, tu, lego, teneo, primordius, mundus",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,tu,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,254.0,"scribo, aut, pars, anima, per, singulus, talis",7,"NaN, NaN, 0.0, 0.5, NaN, 0.0, NaN",0.071,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,255.0,"cerno, et, similis, agnosco, pagina, mos",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,256.0,"neque, differo, tuus, augustus, iudex, merces",6,"NaN, NaN, 0.0, 1.0, 0.5, 1.0",0.417,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,257.0,"officium, ille, habitus, quo, iungo, aula",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,258.0,"curia, qui, socius, proceres, cum, princeps, necto",7,"-1.0, NaN, 1.0, NaN, NaN, 0.5, NaN",0.071,-0.143,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,259.0,"qui, quater, ipse, gero, perficio, defero, annus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,260.0,"depono, suus, tu, succedo, curulis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+claudian.panegyricus_dictus_manlio_theodoro_consuli,261.0,"cresco, uirtus, fecundus, floreo, aetas",5,"NaN, 1.0, 1.0, NaN, 0.0",0.4,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,262.0,"ingenium, pateo, campus, certus, mereo",5,"0.5, NaN, 0.0, 0.5, NaN",0.2,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,263.0,"sto, fauor, orno, proprius, industria, donum",6,"NaN, 1.0, NaN, 0.0, 0.5, 0.0",0.25,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,264.0,"surgo, sopio, qui, obruo, ambitus, ars",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,265.0,"nihil, licet, inuidia, stilicho, dum, prospicio, orbus",7,"NaN, NaN, -1.0, NaN, NaN, NaN, -0.5",-0.214,-0.214,inuidia,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,266.0,"sidereus, gener, non, hic, uiolo, curulis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, uiolo",0.333
+claudian.panegyricus_dictus_manlio_theodoro_consuli,267.0,"turpis, non, latios, incestant, nomen, fasti",6,"-1.0, NaN, NaN, NaN, 0.0, NaN",-0.167,-0.167,turpis,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,268.0,"fortis, hic, concedo, uis, solus, gero",6,"0.5, NaN, NaN, 1.0, -0.5, NaN",0.167,-0.083,hic,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,269.0,"pater, et, roma, numquam, fero, pudor",6,"0.0, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,pudor,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,270.0,"nuntia, uotor, celer, iam, fama, uolo",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,271.0,"moueo, aonios, audio, consul, lucus",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,272.0,"concino, felix, helico, -ne, fluxitque, aganippe",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,273.0,"largior, et, doceo, rideo, flos, amnis",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,274.0,"uranie, re-imito, como, qui, saepe, magistro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,275.0,"manlius, ignifer, radio, describo, axis",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,276.0,"sic, alius, horto, dea, patior, soror",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,277.0,"opto, procul, sum, dies, neque, limen, noster",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,278.0,"consul, et, semper, diligo, uiso, aedes",6,"0.5, NaN, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,279.0,"nosco, sum, helieone, domus, gestaris, curulis",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,280.0,"et, fascis, subeo, libet, miraculum, plebs",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,281.0,"colligo, et, claris, nomen, celebro, theatrum",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,282.0,"tu, io, aequoreus, summersam, fluctus, aula",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,283.0,"oro, uolucris, eremus, iam, pergo, quadrigae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,284.0,"ab, qui, haud, umquam, palma, rapio, ario, -ne",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,285.0,"in-lustro, circum, sonipes, quicumque, superbus",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,286.0,"perstrepo, hinnio, baeti, -ne, qui, splendidus, poto",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,perstrepo,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,287.0,"stagnum, tagi, madidus, iuba, adspergitur, aurum",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,stagnum,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,288.0,"calliope, liquidus, alcide, -ne, posco, palaestra",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,289.0,"cunctus, palaemoniis, manus, exploro, corona",5,"0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,290.0,"adsum, et, eleo, pubes, laudo, tono",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,291.0,"tu, iugum, taygeti, frondosaque, maenala, clio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,292.0,"eo, triuius, supplex, non, aspernor, rogo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,aspernor,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,293.0,"amphitheatral, faueo, latonia, pompa",4,"NaN, NaN, NaN, 0.5",0.125,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,294.0,"audax, lego, ipse, uir, qui, collum, ferus",7,"NaN, NaN, NaN, 0.5, NaN, NaN, -1.0",-0.071,-0.143,"audax, ferus",0.286
+claudian.panegyricus_dictus_manlio_theodoro_consuli,295.0,"ars, ligo, certo, premo, uenabulum, nisus",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,296.0,"ipse, trux, fetus, captiuus, duco, ab, antrum",7,"NaN, NaN, NaN, -1.0, NaN, NaN, 0.0",-0.143,-0.143,"trux, captiuus",0.286
+claudian.panegyricus_dictus_manlio_theodoro_consuli,297.0,"prodigium, et, caedes, sitio, differo, arcus",6,"0.0, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,"prodigium, caedes",0.333
+claudian.panegyricus_dictus_manlio_theodoro_consuli,298.0,"conuenio, ursus, magnus, qui, moles, ruo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,ursus,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,299.0,"toruus, lycaoniis, helice, miro, ab, astrum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,300.0,"perfossique, rudant, populus, palleo, leo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,leo,0.2
+claudian.panegyricus_dictus_manlio_theodoro_consuli,301.0,"qualis, mygdonio, currus, frenaris, cybebe",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,302.0,"opto, et, herculei, malo, frango, lacertus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,303.0,"obuius, fulmineus, propero, ad, uulnero, pardus",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,fulmineus,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,304.0,"semen, per-misceo, gigno, cum, fors, leaena",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,leaena,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,305.0,"nobilis, uterus, uiridis, conrumpo, adulter",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,adulter,0.2
+claudian.panegyricus_dictus_manlio_theodoro_consuli,306.0,"hic, maculis, pater, refero, et, robur, mater",7,"NaN, NaN, 0.0, NaN, NaN, 0.5, 0.0",0.071,0.0,hic,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,307.0,"quisquis, monstrifer, nutrio, gaetulia, campus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,308.0,"alpina, quisquis, tego, niuit, gallica, siquis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,309.0,"silua, teneo, iaceo, largus, ditescat, harena",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,iaceo,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,310.0,"sanguis, consumo, totus, spectaculum, mons",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,spectaculum,0.2
+claudian.panegyricus_dictus_manlio_theodoro_consuli,311.0,"neque, mollis, egeo, noster, dulcedo, ludo",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,dulcedo,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,312.0,"qui, laetus, risus, sal, moueo, facetus",6,"NaN, 1.0, 0.0, NaN, NaN, 0.0",0.167,0.0,facetus,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,313.0,"qui, nutus, manus, loquax, qui, tibia, flo",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,314.0,"qui, plectrum, pulso, chelys, qui, pulpitum, soccus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,315.0,"persono, aut, altus, gradior, magnus, cothurnus",6,"NaN, NaN, 0.5, NaN, 0.0, NaN",0.083,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,316.0,"et, qui, magnus, leuis, detrudens, murmur, tango",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,317.0,"innumerus, uoco, seges, moderor, aenus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,318.0,"intono, erro, digitus, penitus, trabal",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,319.0,"ueho, laboro, in, carmen, concito, unda",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,320.0,"uel, qui, mos, auis, sui, iaculor, in, aura",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, 1.0",0.188,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,321.0,"corpus, aedifico, celer, cresco, necto",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,322.0,"qui, compono, puer, amentatus, in, arx",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,323.0,"emico, et, uincio, planta, uel, crus, haereo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,324.0,"pendulus, libro, figo, uestigium, saltus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,325.0,"mobilis, pondus, descendo, pegma, reduco",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,326.0,"in, chorus, species, spargo, arduus, flamma",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,327.0,"scaena, rotet, uarius, et, fingo, mulciber, orbis",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,fingo,0.143
+claudian.panegyricus_dictus_manlio_theodoro_consuli,328.0,"per, tabula, impunis, uagus, pingo, cito",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,impunis,0.167
+claudian.panegyricus_dictus_manlio_theodoro_consuli,329.0,"ludo, ignis, trabs, et, non, permitto, moraris",7,"NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,330.0,"fidus, per, innocuus, erro, incendium, turris",6,"1.0, NaN, 0.5, 0.0, NaN, NaN",0.25,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,331.0,"lasciuus, subeo, confligo, aequor, lembus",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,lasciuus,0.2
+claudian.panegyricus_dictus_manlio_theodoro_consuli,332.0,"stagno, remex, spumo, in-mitto, canorus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,stagno,0.2
+claudian.panegyricus_dictus_manlio_theodoro_consuli,333.0,"consul, per, populus, idem, grauis, auctor",6,"0.5, NaN, 0.0, NaN, -0.5, NaN",0.0,-0.083,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,334.0,"eloquium, duplex, uito, subnixus, in, aeuum",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,335.0,"procedo, pariter, liber, faueo, lego",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,336.0,"accipio, pater, exemplum, tribuatque, nepos",5,"NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,337.0,"filius, et, coepio, ne, desum, fascis, heres",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,338.0,"decurro, trabeata, domus, trado, securis",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,339.0,"mutuus, posteritas, seruo, ordo, fatum",5,"0.0, 0.0, NaN, 0.5, 0.0",0.1,0.0,,0.0
+claudian.panegyricus_dictus_manlio_theodoro_consuli,340.0,"manlia, continuo, numero, consul, proles",5,"NaN, NaN, NaN, 0.5, 0.0",0.1,0.0,,0.0

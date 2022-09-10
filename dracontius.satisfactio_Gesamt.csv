@@ -1,0 +1,317 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+dracontius.satisfactio,1.0,"rex, immense, deus, cunctor, conditor, et, spes",7,"0.0, NaN, 0.0, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+dracontius.satisfactio,2.0,"qui, tremo, omnis, solus, qui, rex, ignis, polus",8,"NaN, NaN, NaN, -0.5, NaN, 0.0, 0.0, NaN",-0.062,-0.062,,0.0
+dracontius.satisfactio,3.0,"sidus, flamma, dies, qui, sol, nox, luna, fateor",8,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,4.0,"auctor, dominus, saeculum, cunctus, probo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,5.0,"principium, seu, finis, careo, et, tempus, expers",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,6.0,"nescius, alternus, neque, uicus, fungor, ago",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,nescius,0.167
+dracontius.satisfactio,7.0,"omnis, permuto, nullus, mutabilis, aeuum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,8.0,"idem, semper, sum, qui, sum, modo, uel, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,9.0,"nihil, addo, demo, tu, tam, longus, uetustas",7,"NaN, NaN, NaN, NaN, NaN, 0.0, -0.5",-0.071,-0.071,tu,0.143
+dracontius.satisfactio,10.0,"omnis, tempus, habeo, nam, tu, tempus, absum",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.143
+dracontius.satisfactio,11.0,"qui, mens, homo, qui, uolo, per, singulus, dux",8,"NaN, 0.5, 0.0, NaN, NaN, NaN, 0.0, 0.5",0.125,0.0,,0.0
+dracontius.satisfactio,12.0,"et, quicumque, iubeo, dirigo, ingenium",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+dracontius.satisfactio,13.0,"qui, facio, irascor, homo, contrarius, uolo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,14.0,"propitius, iubeo, ut, bonus, cunctus, gero",6,"1.0, NaN, NaN, 1.0, 0.0, NaN",0.333,0.0,,0.0
+dracontius.satisfactio,15.0,"quisquis, ago, homo, bonus, tristis, prosper, prauus",7,"NaN, NaN, 0.0, 1.0, -1.0, 1.0, -1.0",0.0,-0.286,prauus,0.143
+dracontius.satisfactio,16.0,"hic, fio, ammittunt, ira, fauor, deus",6,"NaN, NaN, NaN, -1.0, 1.0, 0.0",0.0,-0.167,hic,0.167
+dracontius.satisfactio,17.0,"hic, tuus, uerbum, probo, moseo, dictum, propheta",7,"NaN, 0.0, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.143
+dracontius.satisfactio,18.0,"qui, duro, cor, pharaonis, sum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,19.0,"sic, meus, cor, deus, noster, pecco, reatus",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,20.0,"tempus, immodicus, pello, ad, illicitus",5,"0.0, -1.0, NaN, NaN, -1.0",-0.4,-0.4,"immodicus, illicitus",0.4
+dracontius.satisfactio,21.0,"ut, qui, facio, dux, possum, narro, meus",7,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0",0.071,0.0,,0.0
+dracontius.satisfactio,22.0,"nomen, asdingui, bellum, triumphigera",4,"0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,23.0,"unde, ego, merces, possum, cum, laus, salus",7,"NaN, NaN, 1.0, NaN, NaN, 1.0, 1.0",0.429,0.0,,0.0
+dracontius.satisfactio,24.0,"munus, regno, magnus, uenio, simul",5,"0.5, NaN, 0.0, NaN, NaN",0.1,0.0,,0.0
+dracontius.satisfactio,25.0,"praemium, despicio, taceo, tot, rex, almus",6,"1.0, NaN, NaN, NaN, 0.0, NaN",0.167,0.0,,0.0
+dracontius.satisfactio,26.0,"ut, peto, subeo, certus, periculum, miser",6,"NaN, NaN, NaN, 0.5, -1.0, -1.0",-0.25,-0.333,miser,0.167
+dracontius.satisfactio,27.0,"quis, nisi, caelestis, demens, compello, ab, ira",7,"NaN, NaN, NaN, -1.0, NaN, NaN, -1.0",-0.286,-0.286,demens,0.143
+dracontius.satisfactio,28.0,"asper, cunctus, peto, prosper, cunctus, nego",6,"-0.5, 0.0, NaN, 1.0, 0.0, NaN",0.083,-0.083,,0.0
+dracontius.satisfactio,29.0,"irasco, deus, mens, muto, et, artus",6,"NaN, 0.0, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+dracontius.satisfactio,30.0,"uerto, sensus, uerto, et, species",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+dracontius.satisfactio,31.0,"persaris, rex, babylonae, regnum, teneo",5,"NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,persaris,0.2
+dracontius.satisfactio,32.0,"post, decus, imperium, quis, nego, sum, bos",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,33.0,"et, diademal, turpo, cornu, frons",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,turpo,0.2
+dracontius.satisfactio,34.0,"mugitus, pecus, uerbum, sum, duco",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,35.0,"agricola, timeo, post, parthica, regnum, bubulcus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,36.0,"summitto, paueo, regius, collum, iugum",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,37.0,"erro, per, pratum, uagus, malus, gramen, pasco",7,"0.0, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,,0.0
+dracontius.satisfactio,38.0,"et, qui, homo, bos, sum, de, bos, facio, homo, sum",10,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,39.0,"linquo, et, antistes, serus, pater, ille, iohannis",7,"NaN, NaN, 0.5, NaN, 0.0, NaN, NaN",0.071,0.0,,0.0
+dracontius.satisfactio,40.0,"elinguisque, sum, uox, taceo, sileo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,41.0,"at, ego, pecco, rex, dominus, deus",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,42.0,"malus, sum, facio, deterior, canis",5,"-1.0, NaN, NaN, -1.0, NaN",-0.4,-0.4,,0.0
+dracontius.satisfactio,43.0,"uulnero, uexo, curo, suus, lingua, molossi",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,uexo,0.167
+dracontius.satisfactio,44.0,"heu, meus, quippe, ego, uulnus, lingua, do",7,"NaN, 0.0, NaN, NaN, -1.0, -0.5, NaN",-0.214,-0.214,heu,0.143
+dracontius.satisfactio,45.0,"sed, qui, restituo, pecus, post, membrum, tyrannus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tyrannus,0.143
+dracontius.satisfactio,46.0,"ut, fio, redeo, ungula, findo, manus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,47.0,"quisque, reformo, taceo, modulamina, lingua",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,,0.0
+dracontius.satisfactio,48.0,"ne, mutilante, sonus, uerbum, ligo, do",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,49.0,"ipse, meus, dominus, deus, impero, atque, iubeo",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,50.0,"ut, ego, restituo, respiciatque, pius",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,51.0,"seruo, auis, ut, laus, dico, patria, suo",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+dracontius.satisfactio,52.0,"per, suus, proles, regius, uotum, cano",6,"NaN, NaN, 0.0, 0.0, 0.0, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,53.0,"culpa, quidem, grauis, sum, uenia, sed, dignus, reatus",8,"-1.0, NaN, -0.5, NaN, 1.0, NaN, 1.0, NaN",0.062,-0.188,culpa,0.125
+dracontius.satisfactio,54.0,"qui, sine, pecco, crimen, nemo, sum",6,"NaN, NaN, NaN, -1.0, -0.5, NaN",-0.25,-0.25,crimen,0.167
+dracontius.satisfactio,55.0,"nam, deus, omnipotens, possum, cum, condo, orbis",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,56.0,"tristis, amoueo, gaudium, solus, do",5,"-1.0, NaN, 1.0, -0.5, NaN",-0.1,-0.3,,0.0
+dracontius.satisfactio,57.0,"sed, diuerto, creo, et, discordo, iungo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,58.0,"et, bonus, misceo, malus, et, malus, misceo, bonus",8,"NaN, 1.0, NaN, -1.0, NaN, -1.0, NaN, 1.0",0.0,-0.25,,0.0
+dracontius.satisfactio,59.0,"sic, elementum, possum, contrarius, misceo, auctor",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+dracontius.satisfactio,60.0,"umida, cum, siccus, igneus, cum, gelidus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,61.0,"littera, doctiloquax, apis, cognatus, refero",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,62.0,"quis, do, ut, habeo, uulnus, castrum, fauus",7,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,,0.0
+dracontius.satisfactio,63.0,"cero, do, ingenium, puer, primordius, sensus",6,"NaN, NaN, 0.5, 0.0, NaN, 0.5",0.167,0.0,,0.0
+dracontius.satisfactio,64.0,"inde, fio, ut, praesto, littera, uel, noceo",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,noceo,0.143
+dracontius.satisfactio,65.0,"aspis, habeo, mors, habeo, et, medicamen, serpens",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,serpens,0.143
+dracontius.satisfactio,66.0,"uipera, saepe, iuuo, uipera, saepe, noceo",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,noceo,0.167
+dracontius.satisfactio,67.0,"cerua, salutaris, pasco, serpo, medulla",5,"0.0, 1.0, NaN, NaN, NaN",0.2,0.0,serpo,0.2
+dracontius.satisfactio,68.0,"confacio, et, pello, ipse, uenenum, nex",6,"NaN, NaN, NaN, NaN, -0.5, -1.0",-0.25,-0.25,nex,0.167
+dracontius.satisfactio,69.0,"materies, fero, simplex, et, noxius, fero",6,"NaN, NaN, 0.5, NaN, 0.5, NaN",0.167,0.0,noxius,0.167
+dracontius.satisfactio,70.0,"impius, inde, noceo, rusticus, inde, placeo",6,"-1.0, NaN, NaN, -0.5, NaN, NaN",-0.25,-0.25,"impius, noceo",0.333
+dracontius.satisfactio,71.0,"ipse, pario, gemma, pretiosus, terra, lapillus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,pretiosus,0.167
+dracontius.satisfactio,72.0,"ipse, do, et, uepres, spinea, lignum, rodo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,73.0,"deliquia, mors, paro, mare, fluctus, altus",6,"0.5, -1.0, NaN, 0.0, 0.0, 0.5",0.0,-0.167,,0.0
+dracontius.satisfactio,74.0,"et, genero, pelagus, concula, diuitiae",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+dracontius.satisfactio,75.0,"aes, temperies, auris, uital, apto",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,76.0,"qui, corrumpo, dies, eripio, atque, anima",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+dracontius.satisfactio,77.0,"asper, uel, facilis, retineo, natura, uolucris",6,"-0.5, NaN, 0.5, NaN, 0.0, NaN",0.0,-0.083,,0.0
+dracontius.satisfactio,78.0,"blandus, columba, auis, sum, asper, uultur, auis",7,"0.5, 0.0, NaN, NaN, -0.5, NaN, NaN",0.0,-0.071,,0.0
+dracontius.satisfactio,79.0,"nubis, aggero, pluuia, nix, grando, pruina",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,80.0,"gigno, uicis, ignis, uapor, gelus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,81.0,"sol, do, temperies, species, gratus, mundus",6,"NaN, NaN, NaN, NaN, 1.0, 1.0",0.333,0.0,,0.0
+dracontius.satisfactio,82.0,"cunctus, creanda, paro, cunctus, creo, foueo",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,83.0,"per, qui, fetat, humus, floreo, et, messis, arista",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,humus,0.125
+dracontius.satisfactio,84.0,"sol, peruro, ager, putris, harena, iaceo",6,"NaN, NaN, 0.0, -1.0, NaN, NaN",-0.167,-0.167,iaceo,0.167
+dracontius.satisfactio,85.0,"corpus, sol, reficio, radius, et, corpus, uexo",7,"0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,uexo,0.143
+dracontius.satisfactio,86.0,"sol, alternus, eo, redeo, salus",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+dracontius.satisfactio,87.0,"omnis, neque, malus, sum, neque, sum, bonus, sidus, caelum",9,"NaN, NaN, -1.0, NaN, NaN, NaN, 1.0, NaN, 0.5",0.056,-0.111,,0.0
+dracontius.satisfactio,88.0,"lucifer, hic, doceo, sirius, hic, moneo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.333
+dracontius.satisfactio,89.0,"temperies, caelum, medius, neque, possideo, orbis",6,"NaN, 0.5, 0.0, NaN, NaN, NaN",0.083,0.0,,0.0
+dracontius.satisfactio,90.0,"nam, de, quinque, plaga, uix, habeo, ipse, duo",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,91.0,"qui, caelum, qui, terra, fretus, qui, purus, aer",8,"NaN, 0.5, NaN, 0.0, 0.5, NaN, 1.0, 0.0",0.25,0.0,,0.0
+dracontius.satisfactio,92.0,"non, mereo, simul, hic, homo, quando, habeo",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.143
+dracontius.satisfactio,93.0,"culpa, ego, sum, dominus, reticeo, modestus",6,"-1.0, NaN, NaN, NaN, NaN, 1.0",0.0,-0.167,"culpa, modestus",0.333
+dracontius.satisfactio,94.0,"ignosco, ego, scribo, uel, dominus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,95.0,"qualis, et, ingratus, sequor, qui, mens, profanus",7,"NaN, NaN, -1.0, NaN, NaN, 0.5, NaN",-0.071,-0.143,"ingratus, profanus",0.286
+dracontius.satisfactio,96.0,"cum, dominus, nosco, idolum, uanus, colo",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,"idolum, uanus",0.333
+dracontius.satisfactio,97.0,"israhelitaris, populus, sic, culpa, teneo",5,"NaN, 0.0, NaN, -1.0, NaN",-0.2,-0.2,culpa,0.2
+dracontius.satisfactio,98.0,"quando, deus, obliuiscor, flo, uitulus, colo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,99.0,"et, tamen, indulgeo, uenia, posco, auctor",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,indulgeo,0.167
+dracontius.satisfactio,100.0,"si, scelus, facio, mens, rea, paeniteo",6,"NaN, -1.0, NaN, 0.5, -0.5, NaN",-0.167,-0.25,"scelus, rea",0.333
+dracontius.satisfactio,101.0,"tu, precor, omnipotens, tu, qui, decet, sum, benignus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,"tu, tu",0.25
+dracontius.satisfactio,102.0,"qui, non, ullus, iuuo, ultio, sed, uenia",7,"NaN, NaN, NaN, NaN, -1.0, NaN, 1.0",0.0,-0.143,ultio,0.143
+dracontius.satisfactio,103.0,"qui, sancio, manus, sustento, cor, regens",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,104.0,"et, pius, inclinas, mox, ubicumque, iubeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,105.0,"tu, coram, primus, ego, carmen, ullus, audeo",7,"NaN, NaN, 0.5, NaN, 0.0, NaN, NaN",0.071,0.0,tu,0.143
+dracontius.satisfactio,106.0,"qui, malus, dispono, paeniteo, et, fateor",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+dracontius.satisfactio,107.0,"post, tu, summus, deus, rex, dominus, reus, sum",8,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,"tu, reus",0.25
+dracontius.satisfactio,108.0,"qui, ab, imperium, posco, gemo, uenia",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,,0.0
+dracontius.satisfactio,109.0,"impero, armo, pietas, tuus, prosper, mando",6,"NaN, NaN, 1.0, 0.0, 1.0, NaN",0.333,0.0,,0.0
+dracontius.satisfactio,110.0,"rex, dominus, meus, semper, ubique, pius",6,"0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,111.0,"neque, ego, dissimilis, quam, qui, soleo, sum, caterua",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,112.0,"sum, pietas, suus, sum, bonus, et, placidus",7,"NaN, 1.0, NaN, NaN, 1.0, NaN, 1.0",0.429,0.0,,0.0
+dracontius.satisfactio,113.0,"nam, tuus, sum, quicumque, gero, quicumque, iubeo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,114.0,"iudicium, deus, regius, uerbum, fero",5,"0.5, 0.0, 0.0, 0.0, NaN",0.1,0.0,,0.0
+dracontius.satisfactio,115.0,"exoro, hic, paucus, deus, qui, mens, operio",7,"NaN, NaN, 0.0, 0.0, NaN, 0.5, NaN",0.071,0.0,hic,0.143
+dracontius.satisfactio,116.0,"sensus, aetherius, condio, uotum, uideo",5,"0.5, NaN, NaN, 0.0, NaN",0.1,0.0,,0.0
+dracontius.satisfactio,117.0,"ad, tu, nunc, princeps, meus, uelum, retorqueo, supplex",8,"NaN, NaN, NaN, 0.5, 0.0, NaN, NaN, 0.0",0.062,0.0,tu,0.125
+dracontius.satisfactio,118.0,"pectus, mens, rogo, uox, manus, peto",6,"NaN, 0.5, NaN, 0.0, 0.0, NaN",0.083,0.0,,0.0
+dracontius.satisfactio,119.0,"do, dexter, mitto, uenia, concedo, precor",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+dracontius.satisfactio,120.0,"tempus, tam, longus, non, decet, ira, pius",7,"0.0, NaN, 0.0, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+dracontius.satisfactio,121.0,"nam, qui, inimicus, culpis, uenial, minaris",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+dracontius.satisfactio,122.0,"captiuus, tuus, deliciae, epulae",4,"-1.0, 0.0, NaN, NaN",-0.25,-0.25,"captiuus, deliciae",0.5
+dracontius.satisfactio,123.0,"punior, ut, sum, qui, christus, tu, parco, iniquus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,"punior, tu, iniquus",0.375
+dracontius.satisfactio,124.0,"uindex, quo, regno, quo, uigilo, uigeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uindex,0.167
+dracontius.satisfactio,125.0,"qui, pereo, bellum, solus, morior, in, hostis",7,"NaN, NaN, 0.0, -0.5, NaN, NaN, -1.0",-0.214,-0.214,,0.0
+dracontius.satisfactio,126.0,"qui, supersum, pugna, uiuo, ut, ipse, iubeo",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+dracontius.satisfactio,127.0,"captiuus, securus, ago, solus, rebellis",5,"-1.0, 1.0, NaN, -0.5, NaN",-0.1,-0.3,captiuus,0.2
+dracontius.satisfactio,128.0,"formido, mors, praeda, quietus, sedeo",5,"-1.0, -1.0, NaN, NaN, NaN",-0.4,-0.4,,0.0
+dracontius.satisfactio,129.0,"conseruas, anima, uictus, super, ipse, ministro",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+dracontius.satisfactio,130.0,"ne, sum, uita, grauis, surripiente, fames",6,"NaN, NaN, 0.0, -0.5, NaN, -0.5",-0.167,-0.167,,0.0
+dracontius.satisfactio,131.0,"nemo, cado, sub, ius, tuus, sub, mors, cruento",8,"-0.5, NaN, NaN, 0.5, 0.0, NaN, -1.0, NaN",-0.125,-0.188,cruento,0.125
+dracontius.satisfactio,132.0,"scio, sui, uinco, qui, uolo, sum, tuus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,133.0,"turba, rebellantum, quotiens, oro, in, arma",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,134.0,"uinco, aut, certus, praeda, sum, iners",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,iners,0.167
+dracontius.satisfactio,135.0,"securus, sine, mors, manus, do, hostis, hostis",7,"1.0, NaN, -1.0, 0.0, NaN, -1.0, -1.0",-0.286,-0.429,,0.0
+dracontius.satisfactio,136.0,"nam, bene, conseruas, collum, subigo, iugum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,137.0,"sic, leo, terribilis, fremo, horridus, os, cruento",7,"NaN, NaN, -0.5, NaN, -1.0, 0.0, NaN",-0.214,-0.214,"leo, cruento",0.286
+dracontius.satisfactio,138.0,"unguibus, excutio, dens, mino, nex",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,nex,0.2
+dracontius.satisfactio,139.0,"acer, irascor, crispato, lumen, fero",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,140.0,"et, mora, si, sum, acer, inde, furio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,furio,0.143
+dracontius.satisfactio,141.0,"at, si, uenator, trepido, uenabulum, pono",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,142.0,"terreo, et, iaceo, mox, pereo, ira, cado",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,iaceo,0.143
+dracontius.satisfactio,143.0,"temno, praedo, cibus, qui, non, facio, ipse, cadauer",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,144.0,"atque, ferus, ignosco, ceu, satis, accipio",6,"NaN, -1.0, NaN, NaN, 0.5, NaN",-0.083,-0.167,ferus,0.167
+dracontius.satisfactio,145.0,"et, do, prosterno, uenia, sine, uulnus, uinco",7,"NaN, NaN, NaN, 1.0, NaN, -1.0, NaN",0.0,-0.143,,0.0
+dracontius.satisfactio,146.0,"os, uerecundus, deicio, oculus",4,"0.0, 1.0, NaN, 0.0",0.25,0.0,,0.0
+dracontius.satisfactio,147.0,"sic, tuus, regnator, non, impius, frango, ira",7,"NaN, 0.0, NaN, NaN, -1.0, NaN, -1.0",-0.286,-0.286,impius,0.143
+dracontius.satisfactio,148.0,"cum, confiteor, sum, crimen, gero, reus",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,"crimen, reus",0.333
+dracontius.satisfactio,149.0,"ignosco, pius, nos, imitaris, tono",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,150.0,"qui, indulgeo, culpo, et, uenia, tribuo",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,indulgeo,0.167
+dracontius.satisfactio,151.0,"princeps, augustus, similis, sum, ad, regnum, polus",7,"0.5, 1.0, 0.0, NaN, NaN, 0.0, NaN",0.214,0.0,,0.0
+dracontius.satisfactio,152.0,"ut, cano, ad, populus, pagina, sancio, deus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,153.0,"sacrilegus, refero, caelestis, ius, caterua",5,"-1.0, NaN, NaN, 0.5, NaN",-0.1,-0.2,sacrilegus,0.2
+dracontius.satisfactio,154.0,"cingo, apostolicus, discipulante, manus",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,155.0,"nonne, deus, praecipio, iubeo, ne, sol, cado, intro",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,156.0,"irasco, animus, sed, pius, extet, homo",6,"NaN, 0.5, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+dracontius.satisfactio,157.0,"rex, inimicus, iugulis, mucro, parco",5,"0.0, -1.0, NaN, -1.0, NaN",-0.4,-0.4,,0.0
+dracontius.satisfactio,158.0,"dauid, et, hic, scelus, certus, adulter, insum",7,"NaN, NaN, NaN, -1.0, 0.5, NaN, NaN",-0.071,-0.143,"hic, scelus, adulter",0.429
+dracontius.satisfactio,159.0,"confiteor, facinus, uenia, pro, clades, mereo",6,"NaN, -1.0, 1.0, NaN, -1.0, NaN",-0.167,-0.333,facinus,0.167
+dracontius.satisfactio,160.0,"noxius, impunis, uel, sine, mors, reus",6,"0.5, -0.5, NaN, NaN, -1.0, NaN",-0.167,-0.25,"noxius, impunis, reus",0.5
+dracontius.satisfactio,161.0,"insuper, et, salomo, -ne, idem, mulier, creo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,mulier,0.143
+dracontius.satisfactio,162.0,"qui, scelus, ammisit, munus, honor, habeo",6,"NaN, -1.0, NaN, 0.5, 1.0, NaN",0.083,-0.167,scelus,0.167
+dracontius.satisfactio,163.0,"non, fio, abessalo, -ne, heres, de, coniunx, nascor",8,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.062,-0.062,,0.0
+dracontius.satisfactio,164.0,"sed, scelus, fructus, sceptrum, paternus, teneo",6,"NaN, -1.0, 0.5, NaN, NaN, NaN",-0.083,-0.167,scelus,0.167
+dracontius.satisfactio,165.0,"ecce, quis, impendo, pater, clemens, parco",6,"NaN, NaN, NaN, 0.0, 1.0, NaN",0.167,0.0,,0.0
+dracontius.satisfactio,166.0,"ut, sui, regnum, do, hic, do, et, suboles",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,hic,0.125
+dracontius.satisfactio,167.0,"ipse, inimicus, salomo, -ne, non, collum, posco",7,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+dracontius.satisfactio,168.0,"dum, peto, dominus, sed, sapio, ops",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,169.0,"extitit, hic, prudens, quia, nolo, sum, cruentus",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,"hic, cruentus",0.286
+dracontius.satisfactio,170.0,"pacificusque, sum, consilium, tenax",4,"NaN, NaN, 0.5, NaN",0.125,0.0,,0.0
+dracontius.satisfactio,171.0,"stephanus, ante, alius, lapis, sub, grando, martyr",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,172.0,"hostis, oro, sponte, suus, uenia",5,"-1.0, NaN, NaN, NaN, 1.0",0.0,-0.2,,0.0
+dracontius.satisfactio,173.0,"hic, bonus, simplicitas, praesto, ieiuno, cruor",6,"NaN, 1.0, 0.5, NaN, NaN, NaN",0.25,0.0,"hic, cruor",0.333
+dracontius.satisfactio,174.0,"uir, sine, mors, gero, nihil, habeo, ipse, nex",8,"0.5, NaN, -1.0, NaN, NaN, NaN, NaN, -1.0",-0.188,-0.25,nex,0.125
+dracontius.satisfactio,175.0,"caesar, ubique, possum, hostis, post, bellum, parco",7,"0.5, NaN, NaN, -1.0, NaN, 0.0, NaN",-0.071,-0.143,,0.0
+dracontius.satisfactio,176.0,"et, qui, sum, malus, ciuis, et, hostis, sum",8,"NaN, NaN, NaN, -1.0, 0.5, NaN, -1.0, NaN",-0.188,-0.25,,0.0
+dracontius.satisfactio,177.0,"sponte, facultas, redhibens, reparo, honor",5,"NaN, 0.5, NaN, NaN, 1.0",0.3,0.0,,0.0
+dracontius.satisfactio,178.0,"inde, uoco, abeo, dignus, honor, deus",6,"NaN, NaN, NaN, 1.0, 1.0, 0.0",0.333,0.0,,0.0
+dracontius.satisfactio,179.0,"qui, ab, imperium, surgo, et, origo, caesar",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+dracontius.satisfactio,180.0,"augustus, mereo, tempus, habeo, pius",5,"1.0, NaN, 0.0, NaN, NaN",0.2,0.0,,0.0
+dracontius.satisfactio,181.0,"tempus, namque, idem, sum, nascor, de, uirgo, christus",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,uirgo,0.125
+dracontius.satisfactio,182.0,"qui, et, emico, stella, per, astrum, polio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,183.0,"dux, princeps, romanus, sum, de, princeps, titus",7,"0.5, 0.5, NaN, NaN, NaN, 0.5, NaN",0.214,0.0,,0.0
+dracontius.satisfactio,184.0,"si, non, praesto, dico, saepe, soleo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,185.0,"perdo, hic, lux, dies, si, nullus, do",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.143
+dracontius.satisfactio,186.0,"non, exoro, praesto, supplex",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,187.0,"alter, aio, princeps, modicus, sermo, poeta",6,"NaN, NaN, 0.5, 0.0, -0.5, 0.0",0.0,-0.083,,0.0
+dracontius.satisfactio,188.0,"commodus, augustus, uir, pietas, bonus",5,"0.5, 1.0, 0.5, 1.0, 1.0",0.8,0.0,,0.0
+dracontius.satisfactio,189.0,"nobilis, praeceptum, rector, disco, post, ego",6,"1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+dracontius.satisfactio,190.0,"sum, bonus, in, uita, qui, uolo, sum, deus",8,"NaN, 1.0, NaN, 0.0, NaN, NaN, NaN, 0.0",0.125,0.0,,0.0
+dracontius.satisfactio,191.0,"ecce, quis, impendo, homo, clemens, simplex",6,"NaN, NaN, NaN, 0.0, 1.0, 0.5",0.25,0.0,,0.0
+dracontius.satisfactio,192.0,"ut, praesto, bonus, do, confero, atque, anima",7,"NaN, NaN, 1.0, NaN, NaN, NaN, 0.5",0.214,0.0,,0.0
+dracontius.satisfactio,193.0,"ne, facio, populus, mendacem, qui, tu, clamo",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"mendacem, tu",0.286
+dracontius.satisfactio,194.0,"uox, innumerus, rex, dominus, pius",5,"0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,195.0,"ut, uox, uerus, sono, dominus, sic, uerus, pius, sum",9,"NaN, 0.0, 0.5, NaN, NaN, NaN, 0.5, NaN, NaN",0.111,0.0,,0.0
+dracontius.satisfactio,196.0,"orbis, in, os, uolo, puplica, merx, procerus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+dracontius.satisfactio,197.0,"fama, dux, mos, sum, bellum, colligo, cruentus",7,"1.0, 0.5, 0.5, NaN, 0.0, NaN, NaN",0.286,0.0,cruentus,0.143
+dracontius.satisfactio,198.0,"ex, qui, occurro, saepe, reatus, atrox",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+dracontius.satisfactio,199.0,"gloria, bellum, dux, populus, triumphus",5,"0.0, 0.0, 0.5, 0.0, NaN",0.1,0.0,,0.0
+dracontius.satisfactio,200.0,"in, communis, do, diuido, armipotens",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,201.0,"nam, dux, sol, praesto, clemens, laus",6,"NaN, 0.5, NaN, NaN, 1.0, 1.0",0.417,0.0,,0.0
+dracontius.satisfactio,202.0,"non, habeo, hic, comes, participo, nego",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+dracontius.satisfactio,203.0,"dico, in, arma, par, sum, cum, princeps, miles",8,"NaN, NaN, 0.0, 0.5, NaN, NaN, 0.5, 0.0",0.125,0.0,,0.0
+dracontius.satisfactio,204.0,"ego, pugno, comes, uictor, ab, hostis, redeo",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+dracontius.satisfactio,205.0,"numquid, ut, ignosco, rector, pars, miles, intro",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,206.0,"solus, qui, ignosco, gloria, laus, sum",6,"-0.5, NaN, NaN, 0.0, 1.0, NaN",0.083,-0.083,,0.0
+dracontius.satisfactio,207.0,"qui, fodio, aduerto, hostis, certamen, mars",6,"NaN, NaN, NaN, -1.0, 0.5, NaN",-0.083,-0.167,,0.0
+dracontius.satisfactio,208.0,"horridus, concurro, uinco, in, arma, fremo",6,"-1.0, NaN, NaN, NaN, 0.0, NaN",-0.167,-0.167,,0.0
+dracontius.satisfactio,209.0,"rex, qui, do, uenia, subiectus, et, tempero, ira",8,"0.0, NaN, NaN, 1.0, NaN, NaN, NaN, -1.0",0.0,-0.125,,0.0
+dracontius.satisfactio,210.0,"multus, quam, turba, facio, qui, suus, cor, domo",8,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,211.0,"tu, deus, aspicio, effundo, nolo, cruor",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"tu, cruor",0.333
+dracontius.satisfactio,212.0,"ut, sine, pecco, non, sine, laus, do",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+dracontius.satisfactio,213.0,"confero, absum, terra, pelagius, triumphus",5,"NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,214.0,"ansila, testor, maurus, ubique, iaceo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"maurus, iaceo",0.4
+dracontius.satisfactio,215.0,"qui, pereo, hostis, rex, fortuna, uoco",6,"NaN, NaN, -1.0, 0.0, 0.0, NaN",-0.167,-0.167,,0.0
+dracontius.satisfactio,216.0,"qui, pereo, populus, tempus, ordo, rego",6,"NaN, NaN, 0.0, 0.0, 0.5, NaN",0.083,0.0,,0.0
+dracontius.satisfactio,217.0,"nam, si, debilito, facio, discurro, mors",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+dracontius.satisfactio,218.0,"non, cado, puer, aut, femina, sexus, iners",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, 0.0",0.0,0.0,iners,0.143
+dracontius.satisfactio,219.0,"omnis, tempus, ago, cum, tempus, cunctus, traho",7,"NaN, 0.0, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,220.0,"tempus, eo, uita, tempus, mors, eo",6,"0.0, NaN, 0.0, 0.0, -1.0, NaN",-0.167,-0.167,,0.0
+dracontius.satisfactio,221.0,"sex, sum, aetas, homo, procul, usque, senecta",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,222.0,"hic, distinguo, teneo, tempus, quisque, suus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.167
+dracontius.satisfactio,223.0,"numquid, adultor, strepitus, infer, simplex",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+dracontius.satisfactio,224.0,"uindico, aut, fremo, piger, senectus, habeo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,225.0,"non, catulaster, ago, puerilis, non, puer, audeo",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,226.0,"attrectaris, tener, martia, telum, manus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,227.0,"non, furio, in, uenerem, nondum, pubentibus, annus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,furio,0.143
+dracontius.satisfactio,228.0,"neque, sub, floreo, gena, marcidus, sum, iuuenis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,gena,0.143
+dracontius.satisfactio,229.0,"maturus, tracto, gemo, et, tremebundus, senectus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,230.0,"nescius, feruor, uel, leuitas, inops",5,"-0.5, NaN, NaN, 0.0, -1.0",-0.3,-0.3,nescius,0.2
+dracontius.satisfactio,231.0,"numquid, mox, nato, seges, uiror, armo, arista",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,232.0,"flos, aut, gigno, fructus, insum, subeo",6,"0.5, NaN, NaN, 0.5, NaN, NaN",0.167,0.0,,0.0
+dracontius.satisfactio,233.0,"nosco, astrum, polio, confacio, perdo, curro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,234.0,"transactasque, simul, sic, repeto, uia",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,235.0,"tempus, luna, suus, cresco, uel, deficio, orbis",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,236.0,"qui, ad, aetas, multus, lex, noto",6,"NaN, NaN, 0.0, 0.0, 0.5, NaN",0.083,0.0,,0.0
+dracontius.satisfactio,237.0,"nam, luna, cresco, fretus, crementa, resumo",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+dracontius.satisfactio,238.0,"qui, minuo, polio, sum, paruus, unda, mare",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,239.0,"cynthia, dum, cresco, fons, et, flumen, cresco",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,240.0,"hic, idem, minuo, cynthia, dum, minuo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+dracontius.satisfactio,241.0,"ipse, medulla, lateo, obseruo, cornu, luna",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,242.0,"obseruo, luna, tectum, cerebra, globus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,243.0,"sol, oculus, caelum, radio, fusco, ab, umbra",7,"NaN, 0.0, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+dracontius.satisfactio,244.0,"et, tamen, ad, soleo, eo, redeo, plaga",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,245.0,"atque, recipio, facies, priscus, luceo, resumo",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,246.0,"damno, uel, augmentum, do, qui, elementum, fero",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,damno,0.143
+dracontius.satisfactio,247.0,"alterno, elementum, uicis, et, tempus, muto",6,"NaN, 0.5, NaN, NaN, 0.0, NaN",0.083,0.0,,0.0
+dracontius.satisfactio,248.0,"tempus, habeo, nox, tempus, et, ipse, dies",7,"0.0, NaN, 0.0, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,249.0,"accipio, augmentum, dies, nox, uicissim",5,"NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,250.0,"atque, minuo, curro, perpetior, lex, polio",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+dracontius.satisfactio,251.0,"tempus, sum, florus, retineo, suus, tempus, messis",7,"0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,252.0,"tempus, et, auctumnus, tempus, habeo, hiemo",6,"0.0, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,253.0,"uer, aestas, auctumnus, hiems, redeo, annus, in, annus",8,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,254.0,"quattuor, alterno, tempus, tempus",4,"NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,255.0,"omnis, cum, redeo, homo, suus, non, redeo, aetas",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,256.0,"sed, uelut, acer, auis, sic, fugitiuus, uolo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fugitiuus,0.143
+dracontius.satisfactio,257.0,"tempus, sum, pax, uel, tempus, certus, cruor",7,"0.0, NaN, 0.5, NaN, 0.0, 0.5, NaN",0.143,0.0,cruor,0.143
+dracontius.satisfactio,258.0,"otium, tempus, habeo, militia, labor",5,"0.5, 0.0, NaN, 0.0, -0.5",0.0,-0.1,otium,0.2
+dracontius.satisfactio,259.0,"tempus, gaudeo, sum, tempus, certus, doleo",6,"0.0, NaN, NaN, 0.0, 0.5, NaN",0.083,0.0,,0.0
+dracontius.satisfactio,260.0,"tempus, do, lucrum, tempus, damno, fero",6,"0.0, NaN, 0.5, 0.0, NaN, NaN",0.083,0.0,damno,0.167
+dracontius.satisfactio,261.0,"nubila, tempus, habeo, et, tempus, certus, serenus",7,"NaN, 0.0, NaN, NaN, 0.0, 0.5, NaN",0.071,0.0,,0.0
+dracontius.satisfactio,262.0,"tempus, seruo, iubeo, et, ipse, deus",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,263.0,"hora, quaero, facio, miraculum, christus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,264.0,"hora, spero, passio, sancio, crux",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,crux,0.2
+dracontius.satisfactio,265.0,"ut, ego, irascaris, quis, sum, qui, dignus, ira",8,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, -1.0",0.0,-0.125,,0.0
+dracontius.satisfactio,266.0,"tam, magnus, rex, iudico, sum, tuus",6,"NaN, 0.0, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,267.0,"quando, per, aetherius, aquila, uolito, rapina",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,rapina,0.167
+dracontius.satisfactio,268.0,"praeda, cibus, sum, passer, hirundo, picus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,269.0,"quando, fames, rabidus, quamuis, ieiuno, leo",6,"NaN, -0.5, NaN, NaN, NaN, NaN",-0.083,-0.083,"rabidus, leo",0.333
+dracontius.satisfactio,270.0,"ut, sum, adopto, fauces, esca, lepus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,lepus,0.167
+dracontius.satisfactio,271.0,"deuoro, egregius, ingens, corpus, taurus",5,"NaN, 0.0, -0.5, 0.0, NaN",-0.1,-0.1,,0.0
+dracontius.satisfactio,272.0,"et, rapio, aquila, candidus, membrum, pes",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,273.0,"do, semel, irascor, uenia, post, uulnus, pardus",7,"NaN, NaN, NaN, 1.0, NaN, -1.0, NaN",0.0,-0.143,,0.0
+dracontius.satisfactio,274.0,"neque, reduco, mordeo, do, feritas, pius",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,feritas,0.167
+dracontius.satisfactio,275.0,"despicio, irascor, pastor, bonus, tigris",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+dracontius.satisfactio,276.0,"despicio, et, talpa, flammeus, os, draco",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,277.0,"fulmen, non, ferio, repto, gramen, terra",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,repto,0.167
+dracontius.satisfactio,278.0,"neque, modicus, salix, flamma, trisulcus, cremo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,279.0,"sed, ferio, celsus, pulso, nubila, cedrus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,280.0,"et, mons, uastus, propior, saxum, polus",6,"NaN, NaN, -1.0, 0.0, 0.0, NaN",-0.167,-0.167,uastus,0.167
+dracontius.satisfactio,281.0,"sons, pecco, tantus, suus, culpa, fatigo",6,"-1.0, NaN, NaN, NaN, -1.0, NaN",-0.333,-0.333,"sons, culpa",0.333
+dracontius.satisfactio,282.0,"ecce, etiam, insons, noxius, poena, peto",6,"NaN, NaN, 1.0, 0.5, -1.0, NaN",0.083,-0.167,"insons, noxius, poena",0.5
+dracontius.satisfactio,283.0,"si, ipse, ego, pecco, quisnam, sum, rogo, culpa, meus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, 0.0",-0.111,-0.111,culpa,0.111
+dracontius.satisfactio,284.0,"qui, simul, exagito, frigus, inops, fames",6,"NaN, NaN, NaN, NaN, -1.0, -0.5",-0.25,-0.25,exagito,0.167
+dracontius.satisfactio,285.0,"diluuium, pereo, res, sine, clades, pius",6,"NaN, NaN, 0.0, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+dracontius.satisfactio,286.0,"loth, bonus, et, iustus, tollo, ex, sodomis",7,"NaN, 1.0, NaN, 1.0, NaN, NaN, NaN",0.286,0.0,,0.0
+dracontius.satisfactio,287.0,"si, non, humanus, genus, pecco, sum",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,288.0,"unde, pius, nomen, possum, habeo, deus",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,289.0,"sed, quia, do, uenia, populus, pecco, relaxo",7,"NaN, NaN, NaN, 1.0, 0.0, NaN, NaN",0.143,0.0,,0.0
+dracontius.satisfactio,290.0,"per, pietas, opus, nomen, habeo, placidus",6,"NaN, 1.0, 0.5, 0.0, NaN, 1.0",0.417,0.0,,0.0
+dracontius.satisfactio,291.0,"si, uenia, frater, frater, donaris, iubeo",6,"NaN, 1.0, 0.0, 0.0, NaN, NaN",0.167,0.0,,0.0
+dracontius.satisfactio,292.0,"quis, rex, subiectus, et, dominus, famulis",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,293.0,"si, iustus, sol, dominus, pluuia, do",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+dracontius.satisfactio,294.0,"neque, do, iniustus, qui, sum, pietas",6,"NaN, NaN, -1.0, NaN, NaN, 1.0",0.0,-0.167,iniustus,0.167
+dracontius.satisfactio,295.0,"non, quaero, uenia, qui, nihil, pecco, probo",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+dracontius.satisfactio,296.0,"nonne, manus, medicus, languidus, membrum, peto",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,297.0,"materio, laus, praebeo, tu, culpa, reus",6,"NaN, 1.0, NaN, NaN, -1.0, NaN",0.0,-0.167,"tu, culpa, reus",0.5
+dracontius.satisfactio,298.0,"et, titulus, fama, do, pietas, opus",6,"NaN, NaN, 1.0, NaN, 1.0, 0.5",0.417,0.0,,0.0
+dracontius.satisfactio,299.0,"inclutus, armipotens, uester, pietas, origo",5,"0.5, NaN, NaN, 1.0, NaN",0.3,0.0,,0.0
+dracontius.satisfactio,300.0,"et, doceo, genius, pronus, ad, uenia",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+dracontius.satisfactio,301.0,"non, homo, ignosco, dico, sed, lingua, mereo",7,"NaN, 0.0, NaN, NaN, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+dracontius.satisfactio,302.0,"hic, reus, et, doceo, uincomalos, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, reus",0.333
+dracontius.satisfactio,303.0,"non, laedo, delictum, deus, sed, laedo, auctor",7,"NaN, NaN, -1.0, 0.0, NaN, NaN, NaN",-0.143,-0.143,delictum,0.143
+dracontius.satisfactio,304.0,"ni, pecco, doleo, paeniteo, scelus",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,scelus,0.2
+dracontius.satisfactio,305.0,"qui, posco, hic, lex, deus, ut, pecco, relaxo",8,"NaN, NaN, NaN, 0.5, 0.0, NaN, NaN, NaN",0.062,0.0,hic,0.125
+dracontius.satisfactio,306.0,"debeo, et, ipse, suus, parco, ubique, reor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,307.0,"non, semel, ignosco, dico, lex, sancio, reatus",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+dracontius.satisfactio,308.0,"sed, quotiens, culpa, sum, sum, totiens, uenia",7,"NaN, NaN, -1.0, NaN, NaN, NaN, 1.0",0.0,-0.143,culpa,0.143
+dracontius.satisfactio,309.0,"dico, regno, dominus, pius, uerbum, propheta",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,310.0,"etsi, pecco, sum, tamen, ipse, tuus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.satisfactio,311.0,"do, uenia, misereor, precor, succurro, rogo",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+dracontius.satisfactio,312.0,"pristinus, sufficio, uerbero, uinculum, fames",5,"0.0, NaN, NaN, NaN, -0.5",-0.1,-0.1,uerbero,0.2
+dracontius.satisfactio,313.0,"sessor, dum, carpo, iter, si, corneus, palpans",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.satisfactio,314.0,"ungula, concutio, quadrupedantis, equus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.satisfactio,315.0,"uerber, corrigo, culpa, plectente, flagellum",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,"uerber, culpa",0.4
+dracontius.satisfactio,316.0,"non, simul, abscido, crus, pedo, iaceo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,iaceo,0.167

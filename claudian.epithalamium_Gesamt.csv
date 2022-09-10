@@ -1,0 +1,343 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+claudian.epithalamium,1.0,"surgo, in, thalamus, duco, cum, pelion, areu, neque, capio, tantus, hospita, terra, deus, cum, socer, aequoreus, numerosus, turba, soror, certo, epulis, continuo, dies, praebeo, ioui, commune, poculum, chiro, -ne, mollis, obliquus, pars, refundo, equus, peneus, gelidus, muto, nectaris, fons, oetacis, fluo, spumeus, uinum, iugum, terpsichore, facilis, lasciuus, polliceo, moueo, barbito, -ne, et, mollis, duco, in, antrum, choros.carmina, neque, superi, neque, displiceo, tono, cum, teneo, nosco, congruus, ueto, modus, centaurus, faunique, nego, qui, flecto, rhoeto, -ne, qui, rigidus, possum, plectrum, moueo, pholum, septimus, lux, adsum, caelum, totiens, reno, uideo, exigo, hesperus, ignis, chorus, tum, phoebus, quo, saxum, domo, quo, pertrahit, ornus, pecto, tento, nobilis, lyra, uenio, sacrum, fides, iam, spondeo, achillem, iam, phrygias, caedes, iam, simoenta, cano, frondosus, strepuit, felix, Hymenaeus, olympus, regina, resono, othrys, et, os, thetim",127,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, 0.0, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, 0.0, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.035,-0.004,"hospita, epulis, refundo, spumeus, lasciuus, pecto, caedes",0.055
+claudian.epithalamium,1.1,"haurio, insolitus, promitto, uirgo, ignis",5,"NaN, -0.5, NaN, NaN, 0.0",-0.1,-0.1,uirgo,0.2
+claudian.epithalamium,2.0,"augustus, primus, rudis, flagro, aestus",5,"1.0, 0.5, -0.5, NaN, NaN",0.2,-0.1,,0.0
+claudian.epithalamium,3.0,"neque, nouus, unde, calor, neque, quis, suspirium, uolo",8,"NaN, 1.0, NaN, 0.0, NaN, NaN, -0.5, NaN",0.062,-0.062,,0.0
+claudian.epithalamium,4.0,"nosco, incipio, et, adhuc, ignarus, amo",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+claudian.epithalamium,5.0,"non, ille, uenator, equus, non, spiculum, cura",7,"NaN, NaN, NaN, NaN, NaN, 0.0, -1.0",-0.143,-0.143,,0.0
+claudian.epithalamium,6.0,"non, iaculis, torqueo, libet, mens, omnis, aberro",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+claudian.epithalamium,7.0,"in, uulnus, qui, figo, amor, quam, saepe, medulla",8,"NaN, -1.0, NaN, NaN, 1.0, NaN, NaN, NaN",0.0,-0.125,,0.0
+claudian.epithalamium,8.0,"erumpo, gemitus, quotiens, incandesco, os",5,"NaN, -0.5, NaN, NaN, 0.0",-0.1,-0.1,,0.0
+claudian.epithalamium,9.0,"confiteor, secerno, rubor, nomen, beatus",5,"NaN, NaN, NaN, 0.0, 1.0",0.2,0.0,rubor,0.2
+claudian.epithalamium,10.0,"iniussus, scribo, manus, iam, munus, nubo",6,"NaN, NaN, 0.0, NaN, 0.5, NaN",0.083,0.0,nubo,0.167
+claudian.epithalamium,11.0,"praeparo, et, pulcher, mariae, sed, lux, paruus",7,"NaN, NaN, 1.0, NaN, NaN, NaN, 0.0",0.143,0.0,,0.0
+claudian.epithalamium,12.0,"eligo, orno, quisquis, uenerabilis, olim",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,13.0,"liuia, diuus, nurus, gero, superbus",5,"NaN, 0.0, NaN, NaN, -1.0",-0.2,-0.2,nurus,0.2
+claudian.epithalamium,14.0,"incuso, spes, aeger, mora, longus, uideo",6,"NaN, 0.5, -1.0, NaN, 0.0, NaN",-0.083,-0.167,,0.0
+claudian.epithalamium,15.0,"sto, dies, segnis, rota, non, flecto, phoebus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,16.0,"scyria, sic, tener, uirgo, flammo, achillem",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"uirgo, flammo",0.333
+claudian.epithalamium,17.0,"fraus, adhuc, expers, bellatrix, doceo",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,fraus,0.2
+claudian.epithalamium,18.0,"duco, filum, manus, et, mox, qui, horreo, ide",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,19.0,"thessalicos, roseus, necto, polliceo, crinis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,20.0,"hic, etiam, queror, cum, sui, quonam, usque, uereor",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+claudian.epithalamium,21.0,"cuncto, meus, ueto, socer, quis, iungo, differo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,22.0,"quam, pepigit, castasque, prex, impleo, recuso",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,23.0,"non, ego, luxurio, rex, mos, sequor",6,"NaN, NaN, NaN, 0.0, 0.5, NaN",0.083,0.0,luxurio,0.167
+claudian.epithalamium,24.0,"quaero, uultus, tabula, ut, nuntia, forma",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+claudian.epithalamium,25.0,"lena, per, innumerus, eo, pingo, penates",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,lena,0.167
+claudian.epithalamium,26.0,"neque, uarius, dubius, thalamus, lego, amor",6,"NaN, 0.0, -0.5, NaN, NaN, 1.0",0.083,-0.083,,0.0
+claudian.epithalamium,27.0,"arduus, committo, fallo, conubium, cera",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,fallo,0.2
+claudian.epithalamium,28.0,"non, rapio, praeceps, alienus, foedero, taeda",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,"foedero, taeda",0.333
+claudian.epithalamium,29.0,"sed, qui, sponsa, ego, pridem, pater, relinquo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.epithalamium,30.0,"mandatum, unus, maternus, sanguis, ortus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,31.0,"communis, partio, auus, fastidium, supplex",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.epithalamium,32.0,"depono, gessique, procus, de, limen, sacro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,33.0,"oro, mitto, proceres, qui, propior, nos",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.epithalamium,34.0,"ius, teneo, fateor, stilicho, non, paruus, posco",7,"0.5, NaN, NaN, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+claudian.epithalamium,35.0,"sed, certus, mereo, princeps, hic, princeps, nascor",7,"NaN, 0.5, NaN, 0.5, NaN, 0.5, NaN",0.214,0.0,hic,0.143
+claudian.epithalamium,36.0,"qui, sui, tu, gener, fraternus, proles, reuincio",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,"tu, fraternus",0.286
+claudian.epithalamium,37.0,"qui, mariam, debeo, faenus, ego, soluo, paternus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,faenus,0.143
+claudian.epithalamium,38.0,"reddo, suus, aula, mater, fortasse, rogaris",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,39.0,"mollio, o, patruus, germe, -ne, qui, nomen, heres",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.epithalamium,40.0,"succedo, sublimis, decus, torreo, hiberi",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+claudian.epithalamium,41.0,"stirps, soror, pietas, parens, tu, credo, infer",7,"NaN, NaN, 1.0, 0.5, NaN, NaN, NaN",0.214,0.0,tu,0.143
+claudian.epithalamium,42.0,"in, tuus, cerno, gremium, pario, remote",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,43.0,"tu, potis, flaccilla, ego, quis, diuido, ergo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.143
+claudian.epithalamium,44.0,"pignus, quis, iuuenis, nata, non, reddo, alumnus",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,45.0,"opto, -ne, dies, adsum, do, -ne, iugal",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,46.0,"nox, umquam, talis, solo, uulnero, questus",6,"0.0, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+claudian.epithalamium,47.0,"rideo, amor, placidus, uolo, trans, aequor, mater",7,"NaN, 1.0, 1.0, NaN, NaN, 0.0, 0.0",0.286,0.0,,0.0
+claudian.epithalamium,48.0,"nuntius, et, totus, iacto, explico, ala",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,49.0,"mons, latus, ionium, cyprus, praerumpo, obumbro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,praerumpo,0.167
+claudian.epithalamium,50.0,"inuius, humanus, gradior, phariumque, cubile",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,51.0,"proteos, et, septem, despecto, cornu, nilis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,52.0,"hic, neque, candeo, audeo, uestio, pruina",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, uestio",0.333
+claudian.epithalamium,53.0,"hic, uenio, pulsaris, timeo, hic, laedo, nimbus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.286
+claudian.epithalamium,54.0,"luxuria, uenerique, uaco, pars, acer, annus",6,"-0.5, NaN, NaN, 0.0, NaN, 0.0",-0.083,-0.083,luxuria,0.167
+claudian.epithalamium,55.0,"exulat, aeternus, pateo, indulgeo, uerus",5,"NaN, 0.5, NaN, NaN, 0.5",0.2,0.0,indulgeo,0.2
+claudian.epithalamium,56.0,"in, campus, sui, fundo, apex, hic, aureus, saepes",8,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,hic,0.125
+claudian.epithalamium,57.0,"circumeo, et, fuluus, defendo, pratum, metallum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,58.0,"mulciber, ut, perhibeo, hic, osculum, coniunx, emo",7,"NaN, NaN, NaN, NaN, 0.0, -0.5, NaN",-0.071,-0.071,"hic, emo",0.286
+claudian.epithalamium,59.0,"moenia, et, talis, uxorius, offero, arx",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,60.0,"intus, rus, mico, manus, qui, subdo, nullus",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,61.0,"perpetuus, floreo, zephyro, contineo, colonus",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.epithalamium,62.0,"umbrosumque, nemus, quo, non, admitto, ales",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.epithalamium,63.0,"ni, probo, ante, suus, diuus, sub, iudex, cantus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.5, 0.0",0.062,0.0,,0.0
+claudian.epithalamium,64.0,"qui, placeo, fruor, ramus, qui, uinco, recedo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,65.0,"uiuo, in, uenerem, frondeo, omne, uicissim",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,66.0,"felix, arbor, amo, nuto, ad, mutuus, palma",7,"1.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.143,0.0,,0.0
+claudian.epithalamium,67.0,"foedero, populeus, suspiro, populus, ictus",5,"NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,"foedero, populeus",0.4
+claudian.epithalamium,68.0,"et, platanus, platanus, alnoque, ad-sibilo, alnus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,69.0,"labor, geminus, fons, hic, dulcis, amarus",6,"-0.5, NaN, NaN, NaN, 0.5, -0.5",-0.083,-0.167,hic,0.167
+claudian.epithalamium,70.0,"alter, et, infundo, corrumpo, mel, uenenum",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+claudian.epithalamium,71.0,"unde, cupidineas, armaris, fama, sagitto",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+claudian.epithalamium,72.0,"mille, pharetratus, ludo, in, margo, frater",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.epithalamium,73.0,"os, par, aeuum, similis, gens, mollio, amor",7,"0.0, 0.5, NaN, 0.0, 0.0, NaN, 1.0",0.214,0.0,,0.0
+claudian.epithalamium,74.0,"hic, nympha, pario, ille, uenus, aureus, solus",7,"NaN, NaN, NaN, NaN, 1.0, 0.5, -0.5",0.143,-0.071,hic,0.143
+claudian.epithalamium,75.0,"edo, ille, deus, caelum, et, sidus, cornu",7,"NaN, NaN, 0.0, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.epithalamium,76.0,"tempero, et, summus, digno, figo, rex",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.epithalamium,77.0,"hic, plebs, ferio, neque, ceterus, numen, desum",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.143
+claudian.epithalamium,78.0,"hic, habito, nullus, constringo, licentia, nodus",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,"hic, licentia",0.333
+claudian.epithalamium,79.0,"et, flecto, facilis, ira, uinum, madeo",6,"NaN, NaN, 0.5, -1.0, NaN, NaN",-0.083,-0.167,,0.0
+claudian.epithalamium,80.0,"excubiae, lacrima, rudo, et, gratus, amantum",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+claudian.epithalamium,81.0,"pallor, et, in, primus, titubo, audacia, furtum",7,"NaN, NaN, NaN, 0.5, NaN, 1.0, -1.0",0.071,-0.143,"pallor, audacia, furtum",0.429
+claudian.epithalamium,82.0,"iucundique, metus, et, non, securus, uoluptas",6,"NaN, -1.0, NaN, NaN, 1.0, 1.0",0.167,-0.167,,0.0
+claudian.epithalamium,83.0,"et, lasciuus, uolo, leuis, periurium, uenio",6,"NaN, NaN, NaN, 0.0, -1.0, NaN",-0.167,-0.167,"lasciuus, periurium",0.333
+claudian.epithalamium,84.0,"qui, inter, petulans, altus, ceruix, iuuenta",6,"NaN, NaN, -0.5, 0.5, NaN, NaN",0.0,-0.083,petulans,0.167
+claudian.epithalamium,85.0,"excludo, senium, lucus, procul, atrium, diua",6,"NaN, -0.5, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+claudian.epithalamium,86.0,"permuto, radius, silua, obsto, uiresco",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,87.0,"lemnius, hic, etiam, gemma, exstruo, et, aurum",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,hic,0.143
+claudian.epithalamium,88.0,"admisceo, ars, pretium, trabs, smaragdus",5,"NaN, 0.0, 1.0, 0.0, NaN",0.2,0.0,pretium,0.2
+claudian.epithalamium,89.0,"suppono, caedo, hyacinthus, rupes, columna",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.epithalamium,90.0,"beryllus, pario, et, iaspis, lubricus, surgo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,91.0,"limen, despicio, solum, calceo, achates",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,92.0,"in, medium, glaeba, redoleo, area, diues",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,glaeba,0.167
+claudian.epithalamium,93.0,"praebeo, odoro, messis, hic, mitis, amomum",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,hic,0.167
+claudian.epithalamium,94.0,"hic, casia, maturo, seges, panchaeaque, turgent",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+claudian.epithalamium,95.0,"cinnama, neque, sicco, frondesco, uimen, costa",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,cinnama,0.167
+claudian.epithalamium,96.0,"tardo, sudo, prorepo, balsamum, riuus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,97.0,"quo, postquam, delabor, amor, longus, perago",6,"NaN, NaN, NaN, 1.0, 0.0, NaN",0.167,0.0,,0.0
+claudian.epithalamium,98.0,"penna, uia, alacer, patior, superbus, intro",6,"NaN, 0.0, 1.0, NaN, -1.0, NaN",0.0,-0.167,,0.0
+claudian.epithalamium,99.0,"caesaries, tunc, fors, uenus, subnixus, corusco",6,"NaN, NaN, 0.0, 1.0, NaN, NaN",0.167,0.0,,0.0
+claudian.epithalamium,100.0,"fingo, solium, dextera, laeua, soror",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,fingo,0.2
+claudian.epithalamium,101.0,"sto, idaliae, largus, hic, nectaris, imber",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+claudian.epithalamium,102.0,"in-rigo, hic, morsus, numerosus, dens, eburnus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, morsus",0.333
+claudian.epithalamium,103.0,"multifidus, discrimen, aro, sed, tertius, retro",6,"NaN, -1.0, NaN, NaN, 0.0, NaN",-0.167,-0.167,,0.0
+claudian.epithalamium,104.0,"do, uarius, necto, et, iustus, diuido, orbo",7,"NaN, 0.0, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+claudian.epithalamium,105.0,"ordo, neglego, pars, studiosus, relinquo",5,"0.5, NaN, 0.0, 0.5, NaN",0.2,0.0,,0.0
+claudian.epithalamium,106.0,"multus, error, decet, speculis, neque, uultus, egeo",7,"0.0, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+claudian.epithalamium,107.0,"iudicium, similis, tectum, monstro, in, omnis",6,"0.5, 0.0, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.epithalamium,108.0,"et, capio, quicumque, uideo, dum, singulus, cerno",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.epithalamium,109.0,"sequor, probo, nascor, uenio, conspicio, umbra",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,110.0,"ambrosioque, sinus, puer, complector, ferox",5,"NaN, NaN, 0.0, NaN, -1.0",-0.2,-0.2,ferox,0.2
+claudian.epithalamium,111.0,"quis, tantus, gaudeo, aio, qui, proelio, sudo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,112.0,"improbus, quis, iaceo, telum, iterum, -ne, tono",7,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,"improbus, iaceo",0.286
+claudian.epithalamium,113.0,"inter, sidonias, cogo, mugio, iuuenca",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.epithalamium,114.0,"an, titana, domo, an, pastoralis, luna",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,115.0,"rursus, in, antrum, uoco, durus, magnus, uideo",7,"NaN, NaN, 0.0, NaN, -0.5, 0.0, NaN",-0.071,-0.071,,0.0
+claudian.epithalamium,116.0,"debello, deus, suspendo, in, osculum, mater",6,"NaN, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+claudian.epithalamium,117.0,"ille, refero, laetaris, parens, inma, -ne, tropaeum",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.epithalamium,118.0,"refero, nos, iam, sentio, honorius, arcus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,119.0,"scio, mariam, patro, dux, qui, cuspis, gallus",7,"NaN, NaN, NaN, 0.5, NaN, -1.0, NaN",-0.071,-0.143,gallus,0.143
+claudian.epithalamium,120.0,"italiamque, foueo, neque, tu, praeclarus, serenus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+claudian.epithalamium,121.0,"fama, lateo, propero, regal, annuo, uoueo",6,"1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+claudian.epithalamium,122.0,"iungo, torus, gremium, natus, cytherea, remoueo",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,123.0,"et, crinis, festino, ligo, peplus, fluo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,124.0,"ad-leuo, et, blandus, spiro, numen, cesto, -ne",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.epithalamium,125.0,"cingo, impello, pluuia, quo, mitigo, amnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,126.0,"quo, mare, quo, uenio, irascor, fulmen, soluo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,127.0,"ut, sto, ad, litus, paruus, affor, alumnus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,128.0,"heus, quis, sum, puer, uitreus, qui, labor, in, unda",9,"NaN, NaN, NaN, 0.0, NaN, NaN, -0.5, NaN, 0.0",-0.056,-0.056,,0.0
+claudian.epithalamium,129.0,"huc, rapidus, triton, uoco, quo, ueho, per, altus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,,0.0
+claudian.epithalamium,130.0,"defero, haud, umquam, tantus, ego, uenio, usus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,131.0,"sacer, qui, peto, thalamus, pernix, omnis",6,"1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+claudian.epithalamium,132.0,"quaero, seu, concha, libycum, circumsono, aequor",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.epithalamium,133.0,"aegaeas, seu, frango, aqua, quicumque, reperio",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,134.0,"duco, auro, dono, ille, pharetra",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,135.0,"dico, et, spargo, diuerto, plebs, fero",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.epithalamium,136.0,"explorator, pelagus, sub, fluctus, eo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.epithalamium,137.0,"carpathiis, tero, -ne, obluctantemque, peto",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,138.0,"cymothoe, -ne, timeo, ilia, ferus, se-sequor, sequor",7,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,ferus,0.143
+claudian.epithalamium,139.0,"surripio, et, durus, elabor, udus, lacertus",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,"surripio, udus",0.333
+claudian.epithalamium,140.0,"heus, inquam, speculor, amor, non, uester, sub, imus",8,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+claudian.epithalamium,141.0,"furtum, tego, possum, uado, accingo, noster",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,furtum,0.167
+claudian.epithalamium,142.0,"uecturus, domina, pretium, non, uilis, labor",6,"NaN, NaN, 1.0, NaN, -0.5, -0.5",0.0,-0.167,"pretium, uilis",0.333
+claudian.epithalamium,143.0,"cymothoe, -ne, facilis, qui, nunc, detrectat, habeo",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.epithalamium,144.0,"hic, merces, uenio, prorumpo, gurges, toruus",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,"hic, gurges",0.333
+claudian.epithalamium,145.0,"semifer, undosus, uerro, bracchium, crinis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,semifer,0.2
+claudian.epithalamium,146.0,"hispidus, tendo, bifido, uestigium, cornu",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,hispidus,0.2
+claudian.epithalamium,147.0,"qui, pistrix, committo, uir, ter, pectus, moueo",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,pistrix,0.143
+claudian.epithalamium,148.0,"iam, quartum, paphias, traho, sulco, harena",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,149.0,"umbratura, dea, retro, sinuo, in, arcus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,150.0,"belua, tum, uiuo, squaleo, murex, tergum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,151.0,"purpureus, mollio, torus, hic, nauigo, antrum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.167
+claudian.epithalamium,152.0,"fulcio, uenus, niueus, delibo, aequor, planta",6,"NaN, 1.0, NaN, NaN, 0.0, NaN",0.167,0.0,niueus,0.167
+claudian.epithalamium,153.0,"prosequor, uolucer, latus, comitor, amor",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+claudian.epithalamium,154.0,"tranquillus, chorus, quatio, mare, sero, per, omnis",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,155.0,"neptuni, dispergo, domus, cadmeia, ludo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,156.0,"leucothoe, frenatque, rodo, delphina, palaemo, -ne",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,157.0,"alterno, uiola, nereus, intersero, alga",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,158.0,"canities, glaucus, ligo, immortalis, herba",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,"canities, glaucus",0.4
+claudian.epithalamium,159.0,"neque, non, et, uarius, ueho, nereis, eo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,160.0,"audio, rumor, fera, hic, piscis, uoluo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"fera, hic",0.333
+claudian.epithalamium,161.0,"subleuo, oceani, monstrum, tartesia, tigris",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,monstrum,0.2
+claudian.epithalamium,162.0,"hic, timor, aegaei, rumpo, frons, carino",6,"NaN, -0.5, NaN, NaN, 0.0, NaN",-0.083,-0.083,hic,0.167
+claudian.epithalamium,163.0,"trux, aries, hic, caeruleus, suspendo, leaena",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"trux, hic, leaena",0.5
+claudian.epithalamium,164.0,"innato, hic, uiridis, traho, complector, iuuencus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+claudian.epithalamium,165.0,"certatim, nouus, onero, conubium, donum",5,"NaN, 1.0, NaN, NaN, 0.0",0.2,0.0,,0.0
+claudian.epithalamium,166.0,"cingulum, cymotboe, raris, galatea, monilis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,167.0,"et, grauis, psamatbe, baca, diadema, fero",6,"NaN, -0.5, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+claudian.epithalamium,168.0,"intexo, rubrus, qui, lego, ipse, profundo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,169.0,"mergo, sui, subeo, uellitque, corallia, doto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,170.0,"uime, -ne, sum, dum, stagnum, subeo, procedo, unda",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,stagnum,0.125
+claudian.epithalamium,171.0,"gemma, sum, nudus, uenerem, cingo, caterua",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,172.0,"plaudo, simul, talis, cum, uox, sequor",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.epithalamium,173.0,"bos, mariae, cultus, hic, munus, noster, preco",7,"NaN, NaN, -0.5, NaN, 0.5, NaN, NaN",0.0,-0.071,hic,0.143
+claudian.epithalamium,174.0,"regina, regina, ferus, dies, talis, numquam",6,"NaN, NaN, -1.0, 0.0, NaN, NaN",-0.167,-0.167,ferus,0.167
+claudian.epithalamium,175.0,"promereo, thetim, neque, cum, soror, amphitrite",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,176.0,"noster, nubo, ioui, de_-uoueo, sentio, aequor",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,nubo,0.167
+claudian.epithalamium,177.0,"agnosco, famulis, uirgo, stilichonia, pontus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,uirgo,0.2
+claudian.epithalamium,178.0,"uictrix, nos, saepe, ratis, classis, paternus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,classis,0.167
+claudian.epithalamium,179.0,"ueximus, attero, cum, tendo, ultor, achiuis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,ultor,0.167
+claudian.epithalamium,180.0,"iam, ligurum, terra, spumo, pectus, tero, -ne",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,181.0,"ad-pello, lassosque, fretus, extendo, orbo",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+claudian.epithalamium,182.0,"continuo, sublimis, uolo, ad, moenia, galli",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.epithalamium,183.0,"condio, lanifica, suus, ostento, pellis",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,pellis,0.2
+claudian.epithalamium,184.0,"peruenio, aduenio, uenio, pulso, recedo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,185.0,"nubila, clarescunt, purus, aquilo, alpes",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+claudian.epithalamium,186.0,"laetitia, causa, ignoro, dico, miles",5,"1.0, 0.0, NaN, NaN, 0.0",0.2,0.0,,0.0
+claudian.epithalamium,187.0,"laetaturque, tamen, mauortia, signum, rubesco",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.epithalamium,188.0,"flos, et, subeo, animo, frons, hasta",6,"0.5, NaN, NaN, NaN, 0.0, NaN",0.083,0.0,,0.0
+claudian.epithalamium,189.0,"ilia, suus, dictum, affor, talis, agmen",6,"NaN, NaN, 0.0, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+claudian.epithalamium,190.0,"gradiuum, noster, comes, arceo, parumper",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,191.0,"ut, solus, uaco, aula, ego, procul, igneus, horror",8,"NaN, -0.5, NaN, NaN, NaN, NaN, 0.0, -1.0",-0.188,-0.188,,0.0
+claudian.epithalamium,192.0,"thoracum, gladius, tego, uagina, minax",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.epithalamium,193.0,"sto, bellatrix, aquila, saeuus, draco",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,saeuus,0.2
+claudian.epithalamium,194.0,"fas, sum, castrum, meus, hodie, succumbo, signum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.epithalamium,195.0,"tibia, pro, lituus, et, pro, clangor, tubaris",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,196.0,"mollis, lyra, festus, cano, epulor, ad, ipse",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,197.0,"excubiae, medius, spiro, crater, in, arma",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.epithalamium,198.0,"laxo, terribilis, maiestas, regius, fastus",5,"NaN, -0.5, NaN, 0.0, -1.0",-0.3,-0.3,,0.0
+claudian.epithalamium,199.0,"et, socia, plebs, non, indignor, potestas",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+claudian.epithalamium,200.0,"confundo, turba, proceres, soluo, habena",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,201.0,"gaudium, neque, lex, pudeo, rideo, sero",6,"1.0, NaN, 0.5, NaN, NaN, NaN",0.25,0.0,pudeo,0.167
+claudian.epithalamium,202.0,"tu, festus, Hymenaeus, fax, tu, gratia, floreo",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,"tu, fax, tu",0.429
+claudian.epithalamium,203.0,"eligo, tu, gemino, concordia, necto, corona",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,tu,0.167
+claudian.epithalamium,204.0,"tu, pennatus, cohors, quicumque, uoco, utor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+claudian.epithalamium,205.0,"diuido, propero, manus, neu, marceat, ullus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,206.0,"segnities, alius, funal, ordo, duco",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+claudian.epithalamium,207.0,"multus, uenio, suspendo, lumen, nox",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.epithalamium,208.0,"hic, noster, nitidus, postis, obduco, myrtum",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,hic,0.167
+claudian.epithalamium,209.0,"contendo, pars, nectareus, adspergite, tectum",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,210.0,"fons, et, flamma, lucus, adolete, sabaeos",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,sabaeos,0.167
+claudian.epithalamium,211.0,"pars, inficio, crocum, uelamen, luteus, serus",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,212.0,"pando, sidoniasque, solum, prosterno, uestis",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,uestis,0.2
+claudian.epithalamium,213.0,"at, alius, thalamus, doceo, compono, textus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,214.0,"stamen, gemmo, picturatisque, columna",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,215.0,"aedifico, apex, qual, non, lydia, diues",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+claudian.epithalamium,216.0,"erigo, pelopi, neque, qui, struo, lyaeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,217.0,"indorum, spolium, et, opacus, palmes, bacchae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,218.0,"illic, exuuiae, omnis, cumulo, parens",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+claudian.epithalamium,219.0,"quisquis, auus, senex, mauro, uel, saxone, uinco",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,220.0,"quisquis, ab, innumerus, socius, stilichone, tremo",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+claudian.epithalamium,221.0,"quaero, genitor, bellum, quicumque, gelonus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,222.0,"armeniusue, do, quantus, crinio, sagitta",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,223.0,"affero, exter, meroe, circumfluus, nilus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,224.0,"mitto, achaemenio, quisquis, de, tigris, medus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,225.0,"cum, supplex, emo, romanus, parthia, pax",6,"NaN, 0.0, NaN, NaN, NaN, 0.5",0.083,0.0,emo,0.167
+claudian.epithalamium,226.0,"nobilis, gaza, ops, cubile, surgo",5,"1.0, NaN, 0.0, NaN, NaN",0.2,0.0,,0.0
+claudian.epithalamium,227.0,"barbaricus, omnis, thalamus, confero, triumphus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,228.0,"sic, aio, et, sponsa, peto, improuide, penates",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,229.0,"ilia, autem, securus, torus, taeda, paro",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,taeda,0.167
+claudian.epithalamium,230.0,"nescius, diuina, fruor, sermo, parens",5,"-0.5, NaN, NaN, -0.5, 0.5",-0.1,-0.2,nescius,0.2
+claudian.epithalamium,231.0,"maternus, bibo, mos, exemplum, disco",5,"NaN, NaN, 0.5, 0.0, NaN",0.1,0.0,,0.0
+claudian.epithalamium,232.0,"priscus, pudicitia, latios, neque, uoluo, liber",6,"0.0, 0.5, NaN, NaN, NaN, 0.5",0.167,0.0,pudicitia,0.167
+claudian.epithalamium,233.0,"desino, aut, graios, ipse, genetrix, magistro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,234.0,"maeonius, quicumque, senex, aut, thracius, orpheus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,235.0,"aut, mytilenaeo, modulor, pecto, sappho",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"pecto, sappho",0.4
+claudian.epithalamium,236.0,"sic, triuius, latona, moneo, sic, mitis, in, antrum",8,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN, 0.0",0.125,0.0,,0.0
+claudian.epithalamium,237.0,"mnemosyne, docilis, trado, praecipio, thaliae",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,238.0,"cum, procul, augeo, nitor, et, iucundus, aer",7,"NaN, NaN, NaN, 1.0, NaN, 1.0, 0.0",0.286,0.0,,0.0
+claudian.epithalamium,239.0,"attono, lustraris, domus, fundo, comaris",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,240.0,"gratus, odor, mox, uerus, fides, numen, refulgeo",7,"1.0, 0.0, NaN, 0.5, 1.0, NaN, NaN",0.357,0.0,,0.0
+claudian.epithalamium,241.0,"cuncto, stupefacio, uenus, nunc, os, puella",6,"NaN, NaN, 1.0, NaN, 0.0, NaN",0.167,0.0,,0.0
+claudian.epithalamium,242.0,"nunc, flauus, niueus, miro, uertex, matiem",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,niueus,0.167
+claudian.epithalamium,243.0,"hic, modo, cresco, plenus, par, alter, luna",7,"NaN, NaN, NaN, 0.0, 0.5, NaN, NaN",0.071,0.0,hic,0.143
+claudian.epithalamium,244.0,"assurgo, ceu, fors, paruus, sub, mater, uireo",7,"NaN, NaN, 0.0, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.epithalamium,245.0,"laurus, et, ingens, ramus, olim, sum",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+claudian.epithalamium,246.0,"promitto, iam, paruus, como, uel, floreo, sub, unus",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,247.0,"ceu, geminus, paestana, rodo, per, iugerum, regno",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,248.0,"hic, largus, maturo, dies, saturo, uernus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.167
+claudian.epithalamium,249.0,"roribus, indulgeo, spatium, lateo, alter, nodus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"roribus, indulgeo",0.333
+claudian.epithalamium,250.0,"neque, teneo, audeo, folium, admitto, soleo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,251.0,"asto, et, blandus, mariam, cytherea, saluto",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.epithalamium,252.0,"saluus, sidereus, proles, augustus, serlenae",5,"1.0, NaN, 0.0, 1.0, NaN",0.4,0.0,,0.0
+claudian.epithalamium,253.0,"magnus, suboles, rex, parituraque, rex",5,"0.0, 0.5, 0.0, NaN, 0.0",0.1,0.0,,0.0
+claudian.epithalamium,254.0,"tu, propter, paphias, sedes, cyprus, reliquus",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,tu,0.167
+claudian.epithalamium,255.0,"tu, propter, libet, tantus, expleo, labor",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,tu,0.167
+claudian.epithalamium,256.0,"et, tantus, transnaris, mare, ne, uilis, ultra",7,"NaN, NaN, NaN, 0.0, NaN, -0.5, NaN",-0.071,-0.071,uilis,0.143
+claudian.epithalamium,257.0,"priuo, pateo, lar, neu, tempus, longus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+claudian.epithalamium,258.0,"dilatos, iuuenis, nutrio, honorius, ignis",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.epithalamium,259.0,"accipio, fortuna, genus, diadema, resumo",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,260.0,"qui, tribuo, obstino, et, in, hic, penetralis, rursus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+claudian.epithalamium,261.0,"unde, parens, progredior, redeo, facio, nullus, subsum",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.epithalamium,262.0,"uinculum, cognata, quiuis, alienus, sum",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,,0.0
+claudian.epithalamium,263.0,"princeps, regnum, possum, hic, os, mereo",6,"0.5, 0.0, NaN, NaN, 0.0, NaN",0.083,0.0,hic,0.167
+claudian.epithalamium,264.0,"qui, propior, sceptrum, facies, qui, dignus, aula",7,"NaN, 0.0, NaN, 0.0, NaN, 1.0, NaN",0.143,0.0,,0.0
+claudian.epithalamium,265.0,"uultus, sum, non, labrum, rodo, non, collum, pruina",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,266.0,"non, crinis, aequo, uiola, non, lumen, flamma",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,267.0,"quam, iungo, leuis, sui, discrimen, confero",6,"NaN, NaN, 0.0, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+claudian.epithalamium,268.0,"umbra, supercilium, misceo, quam, iustus, pudor",6,"NaN, NaN, NaN, NaN, 1.0, 0.5",0.25,0.0,pudor,0.167
+claudian.epithalamium,269.0,"temperies, nimius, neque, sanguis, candor, abundo",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,nimius,0.167
+claudian.epithalamium,270.0,"aurora, uincio, digitus, umerus, diana",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,271.0,"ipse, iam, superus, mater, si, bacchus, amator",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,amator,0.143
+claudian.epithalamium,272.0,"dotal, possum, caelum, signo, corona",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,dotal,0.2
+claudian.epithalamium,273.0,"cur, nullus, uirgo, redimo, pulcher, astrum",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,uirgo,0.167
+claudian.epithalamium,274.0,"iam, tu, molio, stello, sero, bootes",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+claudian.epithalamium,275.0,"in, decus, mariae, iam, sidus, parturio, aether",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,276.0,"eo, digno, necto, uir, tantus, per, orbis",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.epithalamium,277.0,"consors, imperium, iam, tu, ueneror, hister",6,"1.0, 0.0, NaN, NaN, NaN, NaN",0.167,0.0,tu,0.167
+claudian.epithalamium,278.0,"nomen, adoro, populus, iam, rhenus, et, albus",7,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,279.0,"seruio, in, medius, eo, regina, sygambros",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,280.0,"quis, numero, gens, atlanteosque, recedo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,281.0,"oceani, totus, pariter, dono, mundus",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+claudian.epithalamium,282.0,"dico, et, orno, do, qui, nuper, ouo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,283.0,"nereis, collum, membrum, mico, apto",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,284.0,"ipse, caput, distinguo, acus, substringo, amicio",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,285.0,"flammeus, uirgineus, accommodo, ipse, capillus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,capillus,0.2
+claudian.epithalamium,286.0,"ante, foris, iam, pompa, sono, pilentaque, sacer",7,"NaN, NaN, NaN, 0.5, NaN, NaN, 1.0",0.214,0.0,,0.0
+claudian.epithalamium,287.0,"praeradiant, duco, nurum, caleo, obuius, eo",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,nurum,0.167
+claudian.epithalamium,288.0,"iam, princeps, tardus, cupio, discedo, sol",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.epithalamium,289.0,"nobilis, haud, aliter, sonipes, qui, primus, amor",7,"1.0, NaN, NaN, NaN, NaN, 0.5, 1.0",0.357,0.0,,0.0
+claudian.epithalamium,290.0,"sollicito, odor, tumidus, quatio, decoro",5,"NaN, 0.0, -0.5, NaN, NaN",-0.1,-0.1,,0.0
+claudian.epithalamium,291.0,"curuo, ceruix, iuba, pharsalia, rus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.epithalamium,292.0,"peruolo, et, nosco, hinnio, flagito, amnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,293.0,"naris, accendo, mulceo, fecundus, magister",5,"NaN, NaN, NaN, 1.0, 0.5",0.3,0.0,,0.0
+claudian.epithalamium,294.0,"spes, grex, et, pulcher, gaudeo, armentum, marito",7,"0.5, NaN, NaN, 1.0, NaN, NaN, NaN",0.214,0.0,marito,0.143
+claudian.epithalamium,295.0,"candidus, interea, pono, exercitus, arma",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+claudian.epithalamium,296.0,"exultat, socer, circa, neque, signifer, ullus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,297.0,"neque, miles, pluuia, floreo, dispergo, ritus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,298.0,"cesso, purpureus, dux, perfimdere, nimbus",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+claudian.epithalamium,299.0,"hic, quoque, uelo, laurus, myrtum, caneo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+claudian.epithalamium,300.0,"diuus, parens, seu, tu, complector, axis, olympi",7,"0.0, 0.5, NaN, NaN, NaN, 0.0, NaN",0.071,0.0,tu,0.143
+claudian.epithalamium,301.0,"seu, premo, elysias, anima, praemium, uallo",6,"NaN, NaN, NaN, 0.5, 1.0, NaN",0.25,0.0,,0.0
+claudian.epithalamium,302.0,"en, promitto, tu, stilicho, iam, ueto, perago",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+claudian.epithalamium,303.0,"lam, gratus, redeo, uicis, cimabula, penso",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+claudian.epithalamium,304.0,"accipio, reddo, thalamus, no, repono",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,305.0,"qui, do, genitor, xumquam, tu, sancio, pigeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+claudian.epithalamium,306.0,"ludicii, neque, tu, pietas, superus, fallo",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,"tu, fallo",0.333
+claudian.epithalamium,307.0,"dignus, qui, lex, dignus, qui, pignus, tantus",7,"1.0, NaN, 0.5, 1.0, NaN, 0.0, NaN",0.357,0.0,,0.0
+claudian.epithalamium,308.0,"princeps, et, renim, commendo, habena",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+claudian.epithalamium,309.0,"dico, possum, qui, proelio, gero, sub, haemo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,310.0,"quisque, cruentarint, fumo, strymona, pugna",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+claudian.epithalamium,311.0,"quam, notus, clipeus, quantus, uis, fulminet, hostis",7,"NaN, 0.0, NaN, NaN, 1.0, NaN, -1.0",0.0,-0.143,,0.0
+claudian.epithalamium,312.0,"ni, prohibeo, hymen, qui, tempestiuus, refero",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,313.0,"nunc, cano, quis, consilium, quis, ius, et, aequum",8,"NaN, NaN, NaN, 0.5, NaN, 0.5, NaN, 0.5",0.188,0.0,,0.0
+claudian.epithalamium,314.0,"nosco, modus, bonus, qui, semper, dissilit, in, tu",8,"NaN, 0.5, 1.0, NaN, NaN, NaN, NaN, NaN",0.188,0.0,tu,0.125
+claudian.epithalamium,315.0,"conuenio, ingenium, robur, prudentia, fortis",5,"NaN, 0.5, 0.5, 0.5, 0.5",0.4,0.0,,0.0
+claudian.epithalamium,316.0,"frons, quis, aequal, qui, sic, romana, decet",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,317.0,"culmen, sufficereut, tantus, qui, pectus, cura",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+claudian.epithalamium,318.0,"sto, licet, in, populus, clamo, quicumque, uideo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,319.0,"hic, sum, hic, stiliclio, sic, sui, testor, et, offero",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.222
+claudian.epithalamium,320.0,"celsus, potestas, species, non, uox, ferox",6,"NaN, 0.5, NaN, NaN, 0.0, -1.0",-0.083,-0.167,ferox,0.167
+claudian.epithalamium,321.0,"xo, -ne, altus, simulo, gradus, non, improbus, gestus",8,"NaN, NaN, 0.5, NaN, 0.0, NaN, -1.0, NaN",-0.062,-0.125,improbus,0.125
+claudian.epithalamium,322.0,"adfectant, alius, quisquis, fingo, laboro",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,fingo,0.2
+claudian.epithalamium,323.0,"hic, dono, natura, tu, pudor, emico, unus",7,"NaN, NaN, 0.0, NaN, 0.5, NaN, NaN",0.071,0.0,"hic, tu, pudor",0.429
+claudian.epithalamium,324.0,"formosusque, rigor, uultus, augeo, uereor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,325.0,"canities, festino, uenio, cum, sors, remoueo",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,canities,0.167
+claudian.epithalamium,326.0,"contingo, senium, grauitas, uireo, iuuenta",5,"NaN, -0.5, -0.5, NaN, NaN",-0.2,-0.2,,0.0
+claudian.epithalamium,327.0,"uter, tu, cingo, proprius, insignis, aetas",6,"NaN, NaN, NaN, 0.0, 0.0, 0.0",0.0,0.0,tu,0.167
+claudian.epithalamium,328.0,"orno, fortuna, uir, non, ullus, noceo",6,"NaN, 0.0, 0.5, NaN, NaN, NaN",0.083,0.0,noceo,0.167
+claudian.epithalamium,329.0,"telum, neque, inficio, iugulis, ciuilis, ensis",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+claudian.epithalamium,330.0,"non, odium, terror, moueo, neque, frenum, resoluo",7,"NaN, -1.0, -1.0, NaN, NaN, NaN, NaN",-0.286,-0.286,,0.0
+claudian.epithalamium,331.0,"gratia, diligo, pariter, parito, timeo",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+claudian.epithalamium,332.0,"ipse, metus, tu, noster, amo, iustus, lex",7,"NaN, -1.0, NaN, NaN, NaN, 1.0, 0.5",0.071,-0.143,tu,0.143
+claudian.epithalamium,333.0,"arbiter, egregius, pax, fidus, custos",5,"NaN, 0.0, 0.5, 1.0, NaN",0.3,0.0,,0.0
+claudian.epithalamium,334.0,"optume, ductor, fortuno, pater",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.epithalamium,335.0,"multus, iam, multus, dominus, cunctus, debeo, fateor",7,"0.0, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.epithalamium,336.0,"qui, gener, sum, inuictus, tuus, uincio, corona",7,"NaN, NaN, NaN, 1.0, 0.0, NaN, NaN",0.143,0.0,,0.0
+claudian.epithalamium,337.0,"insero, tu, noster, contemno, ius, chorea",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,tu,0.167
+claudian.epithalamium,338.0,"sic, puer, eucherius, supero, uirtus, parens",6,"NaN, 0.0, NaN, NaN, 1.0, 0.5",0.25,0.0,,0.0
+claudian.epithalamium,339.0,"aureus, sic, uideo, similis, thermantia, taeda",6,"0.5, NaN, NaN, 0.0, NaN, NaN",0.083,0.0,taeda,0.167
+claudian.epithalamium,340.0,"sic, uterus, cresco, mariae, sic, nascor, in, ostrum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.epithalamium,341.0,"paruus, honoriades, genu, consido, auitus",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0

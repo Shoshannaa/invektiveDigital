@@ -1,0 +1,643 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+ovid.ibis,1.0,"tempus, ad, hic, lustrum, bis, iam, ego, quinque, perago",9,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.111
+ovid.ibis,2.0,"omnis, sum, musa, carmen, inermis, meus",6,"NaN, NaN, NaN, 0.0, 0.0, 0.0",0.0,0.0,,0.0
+ovid.ibis,3.0,"nullus, qui, possum, scribo, tot, mille, extat",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,4.0,"littera, nasonis, sanguinolentus, lego",4,"0.0, NaN, NaN, NaN",0.0,0.0,sanguinolentus,0.25
+ovid.ibis,5.0,"neque, quisquam, noster, nisi, ego, laedo, libellus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,6.0,"artifex, pereo, cum, caput, ars, suus",6,"0.0, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,7.0,"unus, et, hic, ipse, sum, iniuria, magnus, perenno",8,"NaN, NaN, NaN, NaN, NaN, -1.0, 0.0, NaN",-0.125,-0.125,hic,0.125
+ovid.ibis,8.0,"candor, titulis, non, sino, sum, meus",6,"0.5, NaN, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+ovid.ibis,9.0,"quisquis, is, sum, nam, nomen, adhuc, utcumque, taceo",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,10.0,"cogo, inassuetus, sumo, telum, manus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,11.0,"ille, relego, gelidus, aquilo, ad, ortus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,12.0,"non, sino, exsilium, delitesco, meus",5,"NaN, NaN, -1.0, NaN, 0.0",-0.2,-0.2,,0.0
+ovid.ibis,13.0,"uulnero, immitis, requies, quaero, uexo",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,"immitis, uexo",0.4
+ovid.ibis,14.0,"iacto, et, in, totus, nomen, noster, forum",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,15.0,"perpetuus, ego, socio, foedus, lego",5,"0.0, NaN, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+ovid.ibis,16.0,"non, patior, uiuo, funero, fleo, uir",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ovid.ibis,17.0,"cum, ego, quatio, meus, complector, membrum, carina",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,18.0,"naufragium, tabula, pugno, habeo, meus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,naufragium,0.2
+ovid.ibis,19.0,"et, qui, debeo, subeo, extinguere, flamma",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,20.0,"hic, praeda, medium, raptor, ab, ignis, peto",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, raptor",0.286
+ovid.ibis,21.0,"nitor, ut, profugus, desum, alimentum, senecta",6,"1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+ovid.ibis,22.0,"heu, quantus, sum, noster, dignus, ipse, malus",7,"NaN, NaN, NaN, NaN, 1.0, NaN, -1.0",0.0,-0.143,heu,0.143
+ovid.ibis,23.0,"deus, bonus, qui, longus, ego, magnus, ille, sum",8,"0.0, 1.0, NaN, 0.0, NaN, 0.0, NaN, NaN",0.125,0.0,,0.0
+ovid.ibis,24.0,"qui, noster, inops, nolo, sum, uia",6,"NaN, NaN, -1.0, NaN, NaN, 0.0",-0.167,-0.167,,0.0
+ovid.ibis,25.0,"hic, igitur, mereo, grates, ubicumque, liceo",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,hic,0.167
+ovid.ibis,26.0,"pro, tam, mansueto, pectus, semper, ago",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,27.0,"audio, hic, pontus, facio, quoque, forsitan, idem",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.143
+ovid.ibis,28.0,"terra, sum, ut, propior, testificor, ego",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,29.0,"at, tu, calceo, qui, ego, uiolens, iaceo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, iaceo",0.286
+ovid.ibis,30.0,"qui, licet, is, mitto, debeo, hostis, sum",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+ovid.ibis,31.0,"desino, sum, prior, contrarius, ignis, umor",6,"NaN, NaN, 0.5, NaN, 0.0, NaN",0.083,0.0,,0.0
+ovid.ibis,32.0,"iungo, cum, luna, lumen, sol, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,33.0,"pars, idem, caelum, zephyros, emitto, et, eurus",7,"0.0, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+ovid.ibis,34.0,"et, tepidus, gelidus, flo, ab, axis, notus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ovid.ibis,35.0,"et, uer, auctumnus, bruma, misceo, aestas",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,36.0,"atque, idem, regius, uesper, et, ortus, sum",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,37.0,"et, nouo, fraternus, uenio, concordia, fumus",6,"NaN, NaN, 0.0, NaN, 1.0, NaN",0.167,0.0,fraternus,0.167
+ovid.ibis,38.0,"qui, uetus, accendo, separo, ira, pyra",6,"NaN, 0.0, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+ovid.ibis,39.0,"quam, ego, sum, cum, tu, pono, qui, sumo, arma",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.111
+ovid.ibis,40.0,"gratia, committo, improbus, rumpo, tuus",5,"1.0, NaN, -1.0, NaN, 0.0",0.0,-0.2,improbus,0.2
+ovid.ibis,43.0,"pax, sum, hic, nos, donec, ego, uito, maneo",8,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,hic,0.125
+ovid.ibis,44.0,"cum, pecus, infirmo, qui, soleo, sum, lupus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,45.0,"primus, quidem, coepio, committo, proelio, uerro",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+ovid.ibis,46.0,"non, soleo, quiuis, hic, pes, bellum, gero",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,hic,0.143
+ovid.ibis,47.0,"ut, peto, primus, plenus, flaueo, harena",6,"NaN, NaN, 0.5, 0.0, NaN, NaN",0.083,0.0,,0.0
+ovid.ibis,48.0,"nondum, calefactus, miles, hasta, solus",5,"NaN, NaN, 0.0, NaN, -0.5",-0.1,-0.1,,0.0
+ovid.ibis,49.0,"sic, ego, tu, nondum, ferrum, iaculor, acuo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+ovid.ibis,50.0,"protinus, inuideo, neque, peto, hasta, caput",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,51.0,"et, neque, nomen, in, hic, neque, dico, facio, libellus",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.111
+ovid.ibis,52.0,"tu, breuis, qui, sum, dissimulo, sino",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+ovid.ibis,53.0,"postmodo, si, pergo, in, tu, ego, liber, iambus",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,tu,0.125
+ovid.ibis,54.0,"tingo, lycambeo, sanguis, telum, do",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,55.0,"nunc, quo, battiades, inimicus, deuoueo, ibi, -ne",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,,0.0
+ovid.ibis,56.0,"hic, ego, deuoueo, tu, tuus, modo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, tu",0.333
+ovid.ibis,57.0,"ut, ille, historia, inuoluo, carmen, caecus",6,"NaN, NaN, NaN, NaN, 0.0, -1.0",-0.167,-0.167,,0.0
+ovid.ibis,58.0,"non, soleo, quiuis, hic, genus, ipse, sequor",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.143
+ovid.ibis,59.0,"ille, ambages, imitor, in, ibide, dico",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,60.0,"obliuiscor, mos, iudicium, meus",4,"NaN, 0.5, 0.5, 0.0",0.25,0.0,,0.0
+ovid.ibis,61.0,"et, quoniam, qui, sum, nondum, quaero, edo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,62.0,"ibidis, interea, tu, quoque, nomen, habeo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.167
+ovid.ibis,63.0,"ut, meus, uerro, aliquantus, nox, habeo",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,64.0,"sic, uita, series, totus, sum, ater, tuus",7,"NaN, 0.0, 0.5, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+ovid.ibis,65.0,"hic, tu, natalis, facio, ianique, kalendae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.333
+ovid.ibis,66.0,"non, mentior, qui, os, lego",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,67.0,"deus, mare, et, terra, quisque, hic, bonus, teneo",8,"0.0, 0.0, NaN, 0.0, NaN, NaN, 1.0, NaN",0.125,0.0,hic,0.125
+ovid.ibis,68.0,"inter, diuerto, cum, io, regnum, polus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,69.0,"huc, precor, huc, uester, omnis, aduerto, mens",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+ovid.ibis,70.0,"et, sino, opto, pondus, insum, meus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,71.0,"ipse, tu, tellus, ipse, cum, fluctus, aequor",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,tu,0.143
+ovid.ibis,72.0,"ipse, meus, aether, accipio, summus, prex",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,73.0,"sidus, et, radius, circumdo, sol, imago",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,74.0,"luno, qui, numquam, quo, prior, orbis, mico",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+ovid.ibis,75.0,"nox, tenebraris, species, reuerendus, tuus",5,"0.0, NaN, NaN, 1.0, 0.0",0.2,0.0,,0.0
+ovid.ibis,76.0,"quisque, reor, triplex, polliceo, no, opus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ovid.ibis,77.0,"quisque, per, infernus, horreo, murmur, uallo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,78.0,"in-periuro, labor, amnis, aqua",4,"NaN, -0.5, NaN, 0.0",-0.125,-0.125,,0.0
+ovid.ibis,79.0,"quisque, fero, torqueo, uittas, anguis, capillus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,capillus,0.167
+ovid.ibis,80.0,"carcer, obscuro, ante, sedeo, foris",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,carcer,0.2
+ovid.ibis,81.0,"tu, quoque, plebs, superi, fauni, satyrus, lar",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.143
+ovid.ibis,82.0,"flumen, et, nympha, semideus, genus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,83.0,"denique, ab, antiquus, diuus, uetus, nosco",6,"NaN, NaN, 0.0, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,84.0,"in, nos, cunctus, tempus, adsum, chaos",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,chaos,0.167
+ovid.ibis,85.0,"carmen, dum, caput, malus, fido, dirus, cano",7,"0.0, NaN, 0.0, -1.0, NaN, -1.0, NaN",-0.286,-0.286,dirus,0.143
+ovid.ibis,86.0,"et, perago, pars, ira, dolo, suus",6,"NaN, NaN, 0.0, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+ovid.ibis,87.0,"annuo, opto, omnis, ex, ordo, noster",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+ovid.ibis,88.0,"et, sum, pars, uoueo, nullus, caducus, meus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,89.0,"quisque, precor, fio, ut, non, meus, dictum, sed, ille",9,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,90.0,"pasiphaes, gener, uerbum, sum, puto",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,91.0,"quisque, ego, transeo, poena, patior, et, ille",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,poena,0.143
+ovid.ibis,92.0,"plenus, ingenium, sum, miser, ille, meus",6,"0.0, 0.5, NaN, -1.0, NaN, 0.0",-0.083,-0.167,miser,0.167
+ovid.ibis,93.0,"neue, paruus, noceo, fingo, execrantia, nomen",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,"noceo, fingo",0.333
+ovid.ibis,94.0,"ueto, paruus, magnus, commoueo, deus",5,"NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,95.0,"ille, ego, deuoueo, qui, mens, intellego, ibi, -ne",8,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.062,0.0,,0.0
+ovid.ibis,96.0,"qui, sui, scio, facio, hic, mereo, prex",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+ovid.ibis,97.0,"nullus, mora, sum, in, ego, perago, reor, ueto, sacerdos",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,98.0,"quisquis, adsum, sacrum, os, faueo, meus",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,99.0,"quisquis, adsum, sacrum, lugubria, dico, uerbum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,100.0,"et, fleo, madidus, ibi, -ne, adeo, gena",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,gena,0.143
+ovid.ibis,101.0,"omen, malus, pes, occurro, laeuus",5,"NaN, -1.0, 0.0, NaN, -1.0",-0.4,-0.4,,0.0
+ovid.ibis,102.0,"et, niger, uestis, corpus, uester, tego",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,uestis,0.167
+ovid.ibis,103.0,"tu, quoque, quis, dubito, feralis, sumo, uitta",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+ovid.ibis,104.0,"iam, sto, ut, ipse, uideo, funus, ara, tuus",8,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN, 0.0",-0.062,-0.062,,0.0
+ovid.ibis,105.0,"pompa, paro, tu, sum, uoueo, mora, tristis, absum",8,"0.5, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.062,-0.125,tu,0.125
+ovid.ibis,106.0,"do, iugulum, culter, hostia, dirus, meus",6,"NaN, NaN, NaN, NaN, -1.0, 0.0",-0.167,-0.167,"hostia, dirus",0.333
+ovid.ibis,107.0,"terra, tu, frugis, amnis, tu, denego, unda",7,"0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, tu",0.286
+ovid.ibis,108.0,"denego, afflo, uenio, et, aura, suus",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+ovid.ibis,109.0,"neque, tu, sol, calidus, neque, sum, tu, lucidus, phoebus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.222
+ovid.ibis,110.0,"destituo, oculus, sidus, clarus, tuus",5,"NaN, 0.0, NaN, 0.5, 0.0",0.1,0.0,,0.0
+ovid.ibis,111.0,"neque, sui, uulcanus, neque, sui, tu, praebeo, aer",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.125
+ovid.ibis,112.0,"neque, tu, do, tellus, neque, tu, pontus, iter",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,"tu, tu",0.25
+ovid.ibis,113.0,"exul, inops, erro, alieno, limen, lustro",6,"-1.0, -1.0, 0.0, NaN, NaN, NaN",-0.333,-0.333,,0.0
+ovid.ibis,114.0,"exiguus, peto, os, tremo, cibus",5,"0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,115.0,"neque, corpus, querulus, neque, mens, uaco, aeger, dolor",8,"NaN, 0.0, NaN, NaN, 0.5, NaN, -1.0, -1.0",-0.188,-0.25,querulus,0.125
+ovid.ibis,116.0,"nox, dies, grauis, sum, tu, nox, dies",7,"0.0, 0.0, -0.5, NaN, NaN, 0.0, 0.0",-0.071,-0.071,tu,0.143
+ovid.ibis,117.0,"sum, miser, semper, neque, sum, miserabilis, ullus",7,"NaN, -1.0, NaN, NaN, NaN, -1.0, NaN",-0.286,-0.286,"miser, miserabilis",0.286
+ovid.ibis,118.0,"gaudeo, aduerro, femina, uir, tuus",5,"NaN, NaN, 0.0, 0.5, 0.0",0.1,0.0,,0.0
+ovid.ibis,119.0,"accedo, lacrima, odium, dignus, puto",5,"NaN, NaN, -1.0, 1.0, NaN",0.0,-0.2,,0.0
+ovid.ibis,120.0,"qui, malus, cum, fero, multus, multus, ferus",7,"NaN, -1.0, NaN, NaN, 0.0, 0.0, -1.0",-0.286,-0.286,ferus,0.143
+ovid.ibis,121.0,"sum, qui, sum, raris, soleo, deficio, fauor",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+ovid.ibis,122.0,"fortuna, facies, inuidiosus, tuus",4,"0.0, 0.0, -1.0, 0.0",-0.25,-0.25,inuidiosus,0.25
+ovid.ibis,123.0,"causa, non, desum, desum, tu, copia, mors",7,"0.0, NaN, NaN, NaN, NaN, 0.5, -1.0",-0.071,-0.143,tu,0.143
+ovid.ibis,124.0,"opto, fugio, uito, cogo, nex",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,nex,0.2
+ovid.ibis,125.0,"luctor, diu, crucio, spiritus, artus",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,126.0,"desero, et, longus, torqueo, ante, mora",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,127.0,"euenio, do, ipse, ego, modo, signum, sum",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,128.0,"phoebus, et, ab, laeua, maestus, uolo, auus",7,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,,0.0
+ovid.ibis,129.0,"certus, ego, qui, uoueo, superus, moueo, puto",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+ovid.ibis,130.0,"spes, tuus, mors, perfidus, semper, alo",6,"0.5, 0.0, -1.0, -1.0, NaN, NaN",-0.25,-0.333,perfidus,0.167
+ovid.ibis,131.0,"et, prior, hic, anima, nimium, tu, saepe, peto",8,"NaN, 0.5, NaN, 0.5, 0.0, NaN, NaN, NaN",0.125,0.0,"hic, tu",0.25
+ovid.ibis,132.0,"aufero, ille, dies, qui, ego, serus, uenio",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,133.0,"quam, dolor, hic, umquam, spatium, euanesco, possum",7,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,hic,0.143
+ovid.ibis,134.0,"lenio, aut, odium, tempus, et, hora, meus",7,"NaN, NaN, -1.0, 0.0, NaN, NaN, 0.0",-0.143,-0.143,,0.0
+ovid.ibis,135.0,"pugno, arcus, dum, thraces, iazyges, hasta",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,136.0,"dum, tepidus, ganges, frigidus, hister, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,ganges,0.167
+ovid.ibis,137.0,"robur, dum, mons, dum, mollis, pabulum, campus",7,"0.5, NaN, NaN, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+ovid.ibis,138.0,"dum, tiberis, liquidus, tuscus, habeo, aqua",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,139.0,"cum, tu, bellum, gero, neque, mors, ego, finio, ira",9,"NaN, NaN, 0.0, NaN, NaN, -1.0, NaN, NaN, -1.0",-0.222,-0.222,tu,0.111
+ovid.ibis,140.0,"saeuus, sed, in, manes, manus, arma, do",7,"-1.0, NaN, NaN, NaN, 0.0, 0.0, NaN",-0.143,-0.143,saeuus,0.143
+ovid.ibis,141.0,"tum, quoque, cum, sum, uacuus, dilabor, in, aura",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,,0.0
+ovid.ibis,142.0,"exsanguis, mos, odi, umbra, tuus",5,"NaN, 0.5, NaN, NaN, 0.0",0.1,0.0,exsanguis,0.2
+ovid.ibis,143.0,"tum, quoque, factor, uenio, memor, umbra, tuus",7,"NaN, NaN, NaN, NaN, 1.0, NaN, 0.0",0.143,0.0,,0.0
+ovid.ibis,144.0,"insequor, et, uultus, osseus, forma, tuus",6,"NaN, NaN, NaN, 0.0, 1.0, 0.0",0.167,0.0,,0.0
+ovid.ibis,145.0,"siue, ego, qui, nolo, longus, consumo, ab, annus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,146.0,"siue, manus, facio, mors, soluo, sum",6,"NaN, 0.0, NaN, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+ovid.ibis,147.0,"siue, per, immensus, iacto, naufragus, unda",6,"NaN, NaN, 0.0, NaN, -0.5, 0.0",-0.083,-0.083,naufragus,0.167
+ovid.ibis,148.0,"noster, longinquus, uiscera, piscis, edo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,149.0,"siue, peregrina, carpo, meus, membrum, uolucris",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,150.0,"siue, meus, tinguent, sanguis, rostrum, lupus",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,151.0,"siue, aliquis, dignor, sum, sub-pono, terra",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,152.0,"et, do, plebeius, corpus, inanis, rogo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,153.0,"quisquis, sum, stygiis, erumpo, nitor, ab, ora",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+ovid.ibis,154.0,"et, tendo, gelidus, ultor, in, os, manus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,ultor,0.143
+ovid.ibis,155.0,"ego, uigilo, cerno, taceo, ego, nox, in, umbra",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,156.0,"excutio, somnus, uideo, adsum, tuus",5,"NaN, 0.5, NaN, NaN, 0.0",0.1,0.0,,0.0
+ovid.ibis,157.0,"denique, quisquis, ago, ante, os, oculus, uolo",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,158.0,"et, queror, et, nullus, sedes, quiesco, sum",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,159.0,"uerbero, saeuus, do, sonitus, necto, colubra",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,"uerbero, saeuus",0.333
+ovid.ibis,160.0,"conscius, fumo, semper, ad, os, fax",6,"-0.5, NaN, NaN, NaN, 0.0, NaN",-0.083,-0.083,"conscius, fax",0.333
+ovid.ibis,161.0,"hic, uiuus, furia, agito, mortuus, idem",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"hic, uiuus, furia",0.5
+ovid.ibis,162.0,"et, breuis, poena, uito, sum, tuus, sum",7,"NaN, NaN, -1.0, NaN, NaN, 0.0, NaN",-0.143,-0.143,poena,0.143
+ovid.ibis,163.0,"neque, tu, contingo, funus, lacrima, tuus",6,"NaN, NaN, NaN, -0.5, NaN, 0.0",-0.083,-0.083,tu,0.167
+ovid.ibis,164.0,"indeploratus, proicio, caput",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,165.0,"carnifex, manus, populus, plaudo, traho",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,carnifex,0.2
+ovid.ibis,166.0,"infigo, tuus, os, uncus, sum",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,uncus,0.2
+ovid.ibis,167.0,"ipse, tu, fugio, qui, carpo, omnis, flamma",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+ovid.ibis,168.0,"respuo, inuideo, iustus, cadauer, humus",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,humus,0.2
+ovid.ibis,169.0,"unguis, et, rostrum, crudus, traho, ilia, uultur",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,,0.0
+ovid.ibis,170.0,"et, scindo, auidus, perfidus, cor, canis",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,perfidus,0.167
+ovid.ibis,171.0,"de, tuus, fio, ülicet, hic, sum, laus, superbus",8,"NaN, 0.0, NaN, NaN, NaN, NaN, 1.0, -1.0",0.0,-0.125,hic,0.125
+ovid.ibis,172.0,"insatiabilis, corpus, rixo, lupus",4,"0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,173.0,"in, locum, ab, elysiis, diuerto, fugo, campus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,174.0,"quisque, teneo, sedes, noxius, turba, colo",6,"NaN, NaN, 0.0, 0.5, 0.0, NaN",0.083,0.0,noxius,0.167
+ovid.ibis,175.0,"sisyphus, sum, illic, saxum, uoluo, peto",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,176.0,"quisque, ago, rapidus, uincio, ab, orbis, rota",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,177.0,"iugeribusque, nouo, summus, qui, disto, ab, imus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,178.0,"uiscera, assiduus, debeo, praebeo, auus",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+ovid.ibis,179.0,"quisque, gero, umerus, pereo, belides, unda",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,180.0,"exulis, aegypti, turba, cruento, nurus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"exulis, cruento, nurus",0.6
+ovid.ibis,181.0,"pomum, pater, pelopis, praesens, quaero, et, idem",7,"0.0, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,182.0,"semper, egeo, liquidus, semper, abundo, aqua",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,183.0,"hic, tu, de, furia, scindo, latus, unus, flagellum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu, furia",0.375
+ovid.ibis,184.0,"ut, scelus, numerus, confitearis, tuus",5,"NaN, -1.0, NaN, NaN, 0.0",-0.2,-0.2,scelus,0.2
+ovid.ibis,185.0,"alter, tartareis, seco, do, anguis, artus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tartareis,0.167
+ovid.ibis,186.0,"tertius, fumo, incoquo, ignis, gena",5,"0.0, NaN, NaN, 0.0, NaN",0.0,0.0,gena,0.2
+ovid.ibis,187.0,"noxius, mille, modus, lacero, umbra, tuus",6,"0.5, NaN, 0.5, NaN, NaN, 0.0",0.167,0.0,"noxius, lacero",0.333
+ovid.ibis,188.0,"aeacus, in, poena, ingeniosus, sum",5,"NaN, NaN, -1.0, 1.0, NaN",0.0,-0.2,poena,0.2
+ovid.ibis,189.0,"in, tu, transcribo, uetus, tormentum, reus",6,"NaN, NaN, NaN, 0.0, -0.5, NaN",-0.083,-0.083,"tu, reus",0.333
+ovid.ibis,190.0,"sons, antiquus, causa, quiesco, sum",5,"-1.0, 0.0, 0.0, NaN, NaN",-0.2,-0.2,sons,0.2
+ovid.ibis,191.0,"sisyphe, qui, trado, reuolubilis, pondus, habeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,192.0,"uerso, celer, nunc, nouo, membrum, rota",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,193.0,"hic, et, sum, ramus, frustra, qui, capto, et, unda",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.111
+ovid.ibis,194.0,"hic, inconsumptus, uisco, pasco, aueo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.2
+ovid.ibis,195.0,"neque, mors, poena, mors, alter, finio, hic",7,"NaN, -1.0, -1.0, -1.0, NaN, NaN, NaN",-0.429,-0.429,"poena, hic",0.286
+ovid.ibis,196.0,"hora, sum, tantus, ulter, nullus, malus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+ovid.ibis,197.0,"inde, ego, paucus, cano, frondeo, ut, siquis, ab, ida",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,198.0,"aut, summa, libyco, de, mare, carpo, aqua",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,199.0,"nam, neque, quot, floreo, sicula, nasco, in, hybla",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,200.0,"quot, fero, dico, terra, cilissa, crocus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,201.0,"neque, cum, tristis, hiems, aquilo, inhorreo, ala",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+ovid.ibis,202.0,"quam, multus, fio, grando, canus, athos",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,athos,0.167
+ovid.ibis,203.0,"neque, malus, uox, meus, possum, tuus, cunctus, refero",8,"NaN, -1.0, 0.0, 0.0, NaN, 0.0, 0.0, NaN",-0.125,-0.125,,0.0
+ovid.ibis,204.0,"os, licet, tribuo, multiplico, ego",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,205.0,"tot, tu, uae, mitto, uenio, talis, ruina",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+ovid.ibis,206.0,"ut, cogo, in, lacrima, ego, quoque, possum, puto",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,207.0,"ille, ego, lacrima, facio, sine, finis, beatus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 1.0",0.143,0.0,,0.0
+ovid.ibis,208.0,"dulcis, hic, rideo, tunc, ego, fletus, sum",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,hic,0.143
+ovid.ibis,209.0,"nascor, sum, infelix, üita, deus, uoluereü, neque, ullus",8,"NaN, NaN, -1.0, NaN, 0.0, NaN, NaN, NaN",-0.125,-0.125,infelix,0.125
+ovid.ibis,210.0,"commodus, nasco, stella, leuis, sum",5,"0.5, NaN, NaN, 0.0, NaN",0.1,0.0,,0.0
+ovid.ibis,211.0,"non, uenus, affulgeo, non, ille, iuppiter, hora",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+ovid.ibis,212.0,"luno, non, apto, sol, sum, locus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,213.0,"neque, satis, utilis, pono, tu, praebeo, ignis",7,"NaN, 0.5, 1.0, NaN, NaN, NaN, 0.0",0.214,0.0,tu,0.143
+ovid.ibis,214.0,"qui, pario, magnus, lucidus, maia, ioui",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,215.0,"tu, ferus, neque, quisquam, placidus, spondeo, mars",7,"NaN, -1.0, NaN, NaN, 1.0, NaN, NaN",0.0,-0.143,"tu, ferus",0.286
+ovid.ibis,216.0,"sidus, premo, falcifer, senex",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,217.0,"lux, quoque, natal, ne, quis, nisi, tristis, uideo",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,,0.0
+ovid.ibis,218.0,"turpis, et, induco, nubis, ater, sum",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,turpis,0.167
+ovid.ibis,219.0,"hic, sum, in, faueo, qui, do, grauis, allium, nomen",9,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, 0.0",-0.056,-0.056,hic,0.111
+ovid.ibis,220.0,"quisque, dies, ibi, -ne, publicus, damno, fero",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,damno,0.143
+ovid.ibis,221.0,"qui, simul, impurus, mater, prolabor, ab, aluus",7,"NaN, NaN, -1.0, 0.0, NaN, NaN, NaN",-0.143,-0.143,impurus,0.143
+ovid.ibis,222.0,"cinyphiam, foedo, corpus, premo, humus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"foedo, humus",0.4
+ovid.ibis,223.0,"sedeo, in, aduerso, nocturnus, culmen, bubo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,224.0,"funereus, grauis, edo, os, sonus",5,"-0.5, -0.5, NaN, 0.0, NaN",-0.2,-0.2,,0.0
+ovid.ibis,225.0,"protinus, eumenides, lauo, palustria, unda",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,eumenides,0.2
+ovid.ibis,226.0,"qui, cauo, de, stygiis, fluo, unda, uado",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,227.0,"pectus, ungo, erebeae, felle, colubra",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,228.0,"ter, cruento, increpo, manus",4,"NaN, NaN, NaN, 0.0",0.0,0.0,"cruento, increpo",0.5
+ovid.ibis,229.0,"guttur, imbuo, infer, lac, caninus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,230.0,"hic, primus, puer, uenio, in, os, cibus",7,"NaN, 0.5, 0.0, NaN, NaN, 0.0, NaN",0.071,0.0,hic,0.143
+ovid.ibis,231.0,"perbibo, inde, suus, rabies, nutrix, alumnus",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,rabies,0.167
+ovid.ibis,232.0,"latro, et, in, totus, uerbum, caninus, forum",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,latro,0.143
+ovid.ibis,233.0,"membrum, uincio, tingo, ferrugo, pannus",5,"NaN, NaN, NaN, 0.0, -0.5",-0.1,-0.1,,0.0
+ovid.ibis,234.0,"ab, malus, desero, qui, rapio, rogo",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+ovid.ibis,235.0,"et, ne, non, fulcio, nudo, tellus, iaceo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,iaceo,0.143
+ovid.ibis,236.0,"mollis, super, silex, inpono, caput",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,237.0,"iam, recedo, uiridis, de, stipes, facio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,238.0,"ad-moueo, oculus, usque, sub, os, fax",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,fax,0.167
+ovid.ibis,239.0,"fleo, ut, sum, fumus, infer, contingo, amaris",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,240.0,"de, tres, sum, cum, sic, unus, loquor, soror",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,241.0,"tempus, in, immensus, lacrima, tu, moueo, iste",7,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.143
+ovid.ibis,242.0,"qui, semper, causa, sufficio, cado",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,243.0,"dico, at, clotho, iubeo, promitto, ualeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,244.0,"neo, et, infestus, stamen, pullo, manus",6,"NaN, NaN, -1.0, NaN, NaN, 0.0",-0.167,-0.167,,0.0
+ovid.ibis,245.0,"et, ne, longus, suus, praesagium, dico, os",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,246.0,"fatum, cano, uates, qui, tuus, dico, sum",7,"0.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,247.0,"ille, ego, sum, uates, ex, ego, tuus, uulnero, disco",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,248.0,"do, modo, deus, uireo, in, meus, uerbum, suus",8,"NaN, NaN, 0.0, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,249.0,"carmen, meus, accedo, pondero, res",5,"0.0, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,250.0,"qui, reor, per, luctus, experior, tuus",6,"NaN, NaN, NaN, -1.0, NaN, 0.0",-0.167,-0.167,,0.0
+ovid.ibis,251.0,"neue, sine, exemplum, aeuum, crucio, prior",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+ovid.ibis,252.0,"sum, tuus, troianis, non, leuis, malus",6,"NaN, 0.0, NaN, NaN, 0.0, -1.0",-0.167,-0.167,,0.0
+ovid.ibis,253.0,"quantus, clauigeri, poeantius, hercules, heres",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,254.0,"tantus, ueneno, uulnero, crus, gero",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,255.0,"neque, leuis, doleo, quam, qui, bibo, uber, cerua",8,"NaN, 0.0, NaN, NaN, NaN, NaN, 1.0, 0.0",0.125,0.0,,0.0
+ovid.ibis,256.0,"armo, fero, uulnus, inermis, ops",5,"NaN, NaN, -1.0, 0.0, 0.0",-0.2,-0.2,,0.0
+ovid.ibis,257.0,"quisque, ab, equus, praeceps, in, aleia, decido, aruum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,258.0,"exitium, facies, qui, suus, paene, sum",6,"-1.0, 0.0, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+ovid.ibis,259.0,"is, qui, amyntorides, uideo, trepidus, ministro",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+ovid.ibis,260.0,"praetempto, baculus, lumen, orbus, iter",5,"NaN, NaN, NaN, -0.5, 0.0",-0.1,-0.1,,0.0
+ovid.ibis,261.0,"neque, multus, aspicio, quam, qui, suus, filia, rego",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,262.0,"experior, scelus, sum, qui, uterque, parens",6,"NaN, -1.0, NaN, NaN, NaN, 0.5",-0.083,-0.167,scelus,0.167
+ovid.ibis,263.0,"qualis, sum, postquam, sum, iudex, de, lis, iocosus",8,"NaN, NaN, NaN, NaN, 0.5, NaN, -0.5, NaN",0.0,-0.062,,0.0
+ovid.ibis,264.0,"sumptus, apollinea, clarus, in, ars, senex",6,"NaN, NaN, 0.5, NaN, 0.0, 0.0",0.083,0.0,,0.0
+ovid.ibis,265.0,"qualis, et, ille, sum, quo, praecipio, columba",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,266.0,"sum, do, palladiae, praeuius, dux, reor",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+ovid.ibis,267.0,"quisque, oculus, careo, per, qui, malus, uideo, aurum",8,"NaN, 0.0, NaN, NaN, NaN, -1.0, NaN, 0.5",-0.062,-0.125,,0.0
+ovid.ibis,268.0,"inferiae, natus, qui, do, orbo, parens",6,"NaN, 0.0, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ovid.ibis,269.0,"pastor, ut, aetnaeus, qui, casus, ante, sum",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,270.0,"telemus, eurymides, uaticinor, sum",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,271.0,"ut, duo, phinidae, qui, idem, lumen, adimo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,272.0,"qui, do, ut, thamyrae, demodocique, caput",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,273.0,"sic, aliquis, tuus, membrum, seco, saturnus, ut, ille",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,274.0,"subseco, pars, unde, creo, sum",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,subseco,0.2
+ovid.ibis,275.0,"neque, tu, sum, bonus, tumidus, neptunus, in, unda",8,"NaN, NaN, NaN, 1.0, -0.5, NaN, NaN, 0.0",0.062,-0.062,tu,0.125
+ovid.ibis,276.0,"quam, qui, sum, subeo, frater, et, uxor, aueo",8,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,uxor,0.125
+ovid.ibis,277.0,"sollertique, uir, lacer, qui, frango, teneo",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+ovid.ibis,278.0,"membrum, ratis, semelis, sum, misero, soror",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,misero,0.167
+ovid.ibis,279.0,"uel, tuus, ne, poena, genus, hic, cognosco, unus",8,"NaN, 0.0, NaN, -1.0, 0.0, NaN, NaN, NaN",-0.125,-0.125,"poena, hic",0.25
+ovid.ibis,280.0,"uiscera, diuerto, scissa, fero, equus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,281.0,"uel, qui, qui, redimo, romanus, turpis, puto",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,turpis,0.143
+ovid.ibis,282.0,"ab, dux, puniceus, perfero, ipse, ferus",6,"NaN, 0.5, NaN, NaN, NaN, -1.0",-0.083,-0.167,"puniceus, ferus",0.333
+ovid.ibis,283.0,"neque, tu, subsidium, praesens, sum, numen, ut, ille",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.125
+ovid.ibis,284.0,"qui, nihil, hercei, prosum, ara, io",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,285.0,"ut, do, saltus, ab, summus, thessalus, os",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,286.0,"tu, quoque, saxosus, praecipito, iugum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+ovid.ibis,287.0,"aut, uelut, eurylochi, qui, sceptrum, capio, ab, ille",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,288.0,"sum, artus, auidus, anguis, esca, tuus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,289.0,"uel, tuus, maturo, sicut, minoius, fatum",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,290.0,"per, caput, infundo, feruidus, umor, aqua",6,"NaN, 0.0, NaN, -0.5, NaN, 0.0",-0.083,-0.083,,0.0
+ovid.ibis,291.0,"ut, parum, mitis, sed, non, impunis, prometheus",7,"NaN, 0.0, 1.0, NaN, NaN, -0.5, NaN",0.071,-0.071,impunis,0.143
+ovid.ibis,292.0,"aerius, uolucris, sanguis, figo, ala",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,293.0,"aut, ut, erecthides, magnus, ter, ab, herculis, uinco",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,294.0,"caedo, in, immensus, proiciaris, fretus",5,"NaN, NaN, 0.0, NaN, 0.5",0.1,0.0,,0.0
+ovid.ibis,295.0,"aut, ut, amyntiade, -ne, turpis, delectus, amor",7,"NaN, NaN, NaN, NaN, -1.0, NaN, 1.0",0.0,-0.143,turpis,0.143
+ovid.ibis,296.0,"odi, et, saeuus, uulnero, ensis, puer",6,"NaN, NaN, -1.0, NaN, NaN, 0.0",-0.167,-0.167,saeuus,0.167
+ovid.ibis,297.0,"neque, tu, fidus, magis, misceo, poculum, possum",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,tu,0.143
+ovid.ibis,298.0,"quam, qui, cornigero, de, io, nascor, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,299.0,"mos, uel, intereo, capio, suspendo, achaei",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+ovid.ibis,300.0,"qui, miser, aurifer, testis, pendeo, aqua",6,"NaN, -1.0, NaN, NaN, NaN, 0.0",-0.167,-0.167,miser,0.167
+ovid.ibis,301.0,"aut, ut, achillide, -ne, cognatus, nomen, clarus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.5",0.071,0.0,,0.0
+ovid.ibis,302.0,"opprimo, hostilis, tegula, iacto, manus",5,"NaN, -1.0, NaN, NaN, 0.0",-0.2,-0.2,hostilis,0.2
+ovid.ibis,303.0,"neque, tuus, quam, pyrrhi, felix, os, quiesco",7,"NaN, 0.0, NaN, NaN, 1.0, 0.0, NaN",0.143,0.0,,0.0
+ovid.ibis,304.0,"spargo, per, ambracias, qui, iaceo, uia",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,iaceo,0.167
+ovid.ibis,305.0,"nato, ut, aeacides, iaculis, moriaris, adigo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,aeacides,0.167
+ovid.ibis,306.0,"non, licet, hic, cereri, dissimulo, sacer",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,hic,0.167
+ovid.ibis,307.0,"ut, nepos, dictum, noster, modo, carmen, rex",7,"NaN, 0.0, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ovid.ibis,308.0,"cantharis, sucus, do, pareo, bibo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,309.0,"aut, pius, tu, caedo, dico, adultero, sicut",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+ovid.ibis,310.0,"qui, cado, leuco, -ne, uindex, dictum, pius, sum",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,uindex,0.125
+ovid.ibis,311.0,"in, pyra, cum, tu, carus, corpus, mitto",7,"NaN, NaN, NaN, NaN, 1.0, 0.0, NaN",0.143,0.0,tu,0.143
+ovid.ibis,312.0,"qui, finis, uita, sardanapallus, habeo",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,313.0,"ut, io, libyci, templum, uiolaris, paro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uiolaris,0.167
+ovid.ibis,314.0,"ago, nosco, uultus, condo, harena, tuus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,315.0,"ut, necator, darei, fraus, secundus",5,"NaN, NaN, NaN, -1.0, 0.0",-0.2,-0.2,fraus,0.2
+ovid.ibis,316.0,"sic, tuus, subsido, deuoro, os, cinis",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,317.0,"aut, ut, oliuifer, quondam, sicyone, profecto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,318.0,"sum, frigus, mors, causa, fames, tuus",6,"NaN, NaN, -1.0, 0.0, -0.5, 0.0",-0.25,-0.25,,0.0
+ovid.ibis,319.0,"aut, ut, atarnites, in-suo, pello, iuuencus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,320.0,"turpis, ad, dominus, praeda, feraris, tuus",6,"-1.0, NaN, NaN, NaN, NaN, 0.0",-0.167,-0.167,turpis,0.167
+ovid.ibis,321.0,"in, tuus, thalamus, ritus, iugulo, pheraei",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,iugulo,0.167
+ovid.ibis,322.0,"qui, do, sum, letum, coniunx, ensis, suus",7,"NaN, NaN, NaN, -1.0, -0.5, NaN, NaN",-0.214,-0.214,,0.0
+ovid.ibis,323.0,"quisque, puto, fidus, ut, larisaeus, a-leuo",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+ovid.ibis,324.0,"uulnus, non, fidus, experiaris, tuus",5,"-1.0, NaN, 1.0, NaN, 0.0",0.0,-0.2,,0.0
+ovid.ibis,325.0,"ut, milo, sub, quo, crucio, sum, pisa, tyrannus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tyrannus,0.125
+ovid.ibis,326.0,"uiuus, in, occulto, praecipito, aqua",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,uiuus,0.2
+ovid.ibis,327.0,"quisque, in, adimantum, phyllesia, regnum, teneo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,328.0,"ab, io, uenio, tu, quoque, telum, peto",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+ovid.ibis,329.0,"aut, ut, amastriacis, quondam, lenaeus, ab, ora",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,330.0,"nudus, achillea, destituaris, humo",4,"0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,331.0,"ut, uel, eurydamas, ter, circum, bustum, thrasylli",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,bustum,0.143
+ovid.ibis,332.0,"sum, larisaeis, rapio, ab, hostis, rota",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+ovid.ibis,333.0,"uel, qui, qui, sum, tuto, moenia, saepe",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,334.0,"corpus, lustro, non, diuturnus, suus",5,"0.0, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+ovid.ibis,335.0,"ut, nouus, patior, genus, hippomeneide, poena",6,"NaN, 1.0, NaN, 0.0, NaN, -1.0",0.0,-0.167,poena,0.167
+ovid.ibis,336.0,"traho, in, actaea, fero, adulter, humo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"actaea, adulter",0.333
+ovid.ibis,337.0,"sic, ubi, uito, tuus, inuideo, relinquo, artus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,338.0,"ultor, rapio, turpis, cadauer, equus",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,"ultor, turpis",0.4
+ovid.ibis,339.0,"uiscera, sic, aliquis, scopulus, tuus, figo, ut, olim",8,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,340.0,"figo, sub, euboico, graius, sum, sinus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,341.0,"ut, ferox, pereo, et, fulmen, et, aequor, raptor",8,"NaN, -1.0, NaN, NaN, NaN, NaN, 0.0, NaN",-0.125,-0.125,"ferox, raptor",0.25
+ovid.ibis,342.0,"sic, tu, mergo, adiuuo, ignis, aqua",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,tu,0.167
+ovid.ibis,343.0,"mens, quoque, sic, furia, uecors, agito, ut, ille",8,"0.5, NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.062,-0.125,furia,0.125
+ovid.ibis,344.0,"unus, qui, totus, corpus, uulnus, habeo",6,"NaN, NaN, NaN, 0.0, -1.0, NaN",-0.167,-0.167,,0.0
+ovid.ibis,345.0,"ut, dryantiadae, rhodopeia, regnum, teneo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,346.0,"in, geminus, dispar, qui, pes, cultus, sum",7,"NaN, NaN, 0.5, NaN, 0.0, -0.5, NaN",0.0,-0.071,,0.0
+ovid.ibis,347.0,"ut, sum, oetaeo, quondam, genero, draco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,348.0,"tisamenique, pater, calliroesque, uir",4,"NaN, 0.0, NaN, 0.5",0.125,0.0,,0.0
+ovid.ibis,349.0,"neque, tu, contingo, matrona, pudicus, ille",6,"NaN, NaN, NaN, -0.5, 0.5, NaN",0.0,-0.083,"tu, matrona, pudicus",0.5
+ovid.ibis,350.0,"qui, possum, tydeus, erubesco, nuru",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,erubesco,0.2
+ovid.ibis,351.0,"quisque, suus, uenerem, iungo, cum, frater, maritus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,maritus,0.143
+ovid.ibis,352.0,"locris, in, ancilla, dissimulo, nex",5,"NaN, NaN, 0.0, NaN, -1.0",-0.2,-0.2,"ancilla, nex",0.4
+ovid.ibis,353.0,"tam, quoque, deus, facio, possum, gaudeo, fidelis",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+ovid.ibis,354.0,"coniunx, quam, talai, tyndareique, gener",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+ovid.ibis,355.0,"quisque, paro, suus, letum, patruelis, audeo",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+ovid.ibis,356.0,"belides, assiduus, collum, premo, aqua",5,"NaN, 0.5, NaN, NaN, 0.0",0.1,0.0,,0.0
+ovid.ibis,357.0,"byblidos, et, canaces, sicut, facio, ardeo, ignis",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,358.0,"neque, nisi, per, crimen, sum, tu, fidus, soror",8,"NaN, NaN, NaN, -1.0, NaN, NaN, 1.0, NaN",0.0,-0.125,"crimen, tu",0.25
+ovid.ibis,359.0,"filia, si, sum, sum, qui, pelopea, thyestae",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,360.0,"murra, suus, pater, nyctimeneque, suus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,361.0,"neue, magis, pius, sum, caput, parens, amicus",7,"NaN, NaN, NaN, NaN, 0.0, 0.5, 1.0",0.214,0.0,,0.0
+ovid.ibis,362.0,"quam, suus, uel, pterelae, uel, tu, nitor, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.125,0.0,tu,0.125
+ovid.ibis,363.0,"infamo, locus, scelus, qui, nomen, facio",6,"NaN, 0.0, -1.0, NaN, 0.0, NaN",-0.167,-0.167,"infamo, scelus",0.333
+ovid.ibis,364.0,"premo, et, induco, membrum, paternus, rota",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,365.0,"ut, iuuenis, pereo, qui, fastigium, uultus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,366.0,"membrum, pisaeae, sustineo, foris",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,367.0,"ut, qui, perfundo, miserum, saepe, procus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,368.0,"ipse, suus, bonus, sanguis, tingo, humus",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,humus,0.167
+ovid.ibis,369.0,"proditor, ut, saeuus, pereo, aurigo, tyrannus",6,"-0.5, NaN, -1.0, NaN, NaN, NaN",-0.25,-0.25,"proditor, saeuus, tyrannus",0.5
+ovid.ibis,370.0,"qui, nouo, myrtoae, nomen, facio, aqua",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,371.0,"ut, qui, uelox, frustra, peto, puella",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,372.0,"dum, facio, sum, pomum, tardus, ille, tres",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,373.0,"ut, qui, tectum, nosco, forma, celo, monstrum",7,"NaN, NaN, NaN, NaN, 1.0, NaN, 0.5",0.214,0.0,monstrum,0.143
+ovid.ibis,374.0,"intro, caecus, non, redeo, domus",5,"NaN, -1.0, NaN, NaN, 0.0",-0.2,-0.2,,0.0
+ovid.ibis,375.0,"ut, qui, aeacides, mitto, uiolentus, in, altus",7,"NaN, NaN, NaN, NaN, -1.0, NaN, 0.5",-0.071,-0.143,aeacides,0.143
+ovid.ibis,376.0,"corpus, cum, senex, alter, seni, rogus",6,"0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,rogus,0.167
+ovid.ibis,377.0,"ut, qui, obscurus, uinco, ambages, ora",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,378.0,"lego, infer, sphinga, do, nex",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,nex,0.2
+ovid.ibis,379.0,"ut, qui, bistoniae, templum, cado, mineruae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,380.0,"propter, qui, acies, nunc, quoque, tectum, dea, sum",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,381.0,"ut, qui, threicii, quondam, praesaepe, rex",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,382.0,"facio, daps, sanguinolentus, suus",4,"NaN, NaN, NaN, NaN",nan,nan,sanguinolentus,0.25
+ovid.ibis,383.0,"therodamanteos, ut, qui, sentio, leo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,leo,0.2
+ovid.ibis,384.0,"quisque, thoanteae, taurica, sacer, dea",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+ovid.ibis,385.0,"ut, qui, scylla, uorax, scyllaeque, aduerso, charybdis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"scylla, charybdis",0.286
+ovid.ibis,386.0,"dulichiae, pauidus, eripio, reor",4,"NaN, -1.0, NaN, NaN",-0.25,-0.25,,0.0
+ovid.ibis,387.0,"ut, qui, demitto, uastus, polyphemus, in, aluus",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,"uastus, polyphemus",0.286
+ovid.ibis,388.0,"ut, laestrygonias, qui, subeo, manus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,389.0,"ut, qui, dux, poenus, mergo, puteal, unda",7,"NaN, NaN, 0.5, NaN, NaN, NaN, 0.0",0.071,0.0,poenus,0.143
+ovid.ibis,390.0,"et, iacto, cano, puluis, facio, aqua",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,391.0,"sex, bis, ut, icaridos, famula, pereo, procus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,392.0,"in, caput, dominus, qui, do, arma, procus",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,393.0,"ut, iaceo, aonio, luctator, ab, hospes, fundo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,iaceo,0.143
+ovid.ibis,394.0,"qui, mirus, uictor, cum, cado, sum",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+ovid.ibis,395.0,"ut, qui, antaei, fortis, premo, lacertus",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+ovid.ibis,396.0,"quisque, fera, mors, lemnia, turba, do",6,"NaN, NaN, -1.0, NaN, 0.0, NaN",-0.167,-0.167,fera,0.167
+ovid.ibis,397.0,"ut, qui, post, longus, sacer, monstrator, iniquus",7,"NaN, NaN, NaN, 0.0, 1.0, NaN, -1.0",0.0,-0.143,iniquus,0.143
+ovid.ibis,398.0,"elices, pluuia, uictima, caedo, aqua",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,399.0,"frater, ut, antaei, quo, sanguis, debeo, ara",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,400.0,"tingo, et, exemplum, occido, ipse, suus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,occido,0.167
+ovid.ibis,401.0,"ut, qui, terribilis, pro, gramen, habeo, herba",7,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+ovid.ibis,402.0,"impius, humanus, uisco, pasco, equus",5,"-1.0, 0.0, NaN, NaN, NaN",-0.2,-0.2,impius,0.2
+ovid.ibis,403.0,"ut, duo, diuerto, sub, idem, uindex, caedo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uindex,0.143
+ovid.ibis,404.0,"uulnus, nessus, dexamenique, gener",4,"-1.0, NaN, NaN, NaN",-0.25,-0.25,nessus,0.25
+ovid.ibis,405.0,"ut, pronepos, satur, tuus, qui, reddo, uita",7,"NaN, NaN, 0.5, 0.0, NaN, NaN, 0.0",0.071,0.0,,0.0
+ovid.ibis,406.0,"urbs, coronis, uideo, ab, ipse, suus",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+ovid.ibis,407.0,"ut, sino, et, sciro, -ne, et, cum, polypemone, nascor",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,408.0,"quisque, homo, pars, suus, pars, iuuencus, sum",7,"NaN, 0.0, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,409.0,"quisque, trabs, premo, ab, humo, mitto, in, aura",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,,0.0
+ovid.ibis,410.0,"aequor, aspicio, hic, et, hic, aqua",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, hic",0.333
+ovid.ibis,411.0,"quisque, cero, laeto, uideo, pereo, uultus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,412.0,"corpus, theseus, cercyonea, manus",4,"0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,413.0,"hic, tu, qui, meritum, prex, meus, deuoueo, ira",8,"NaN, NaN, NaN, 1.0, 0.0, 0.0, NaN, -1.0",0.0,-0.125,"hic, tu",0.25
+ovid.ibis,414.0,"euenio, aut, hic, non, leuis, malus",6,"NaN, NaN, NaN, NaN, 0.0, -1.0",-0.167,-0.167,hic,0.167
+ovid.ibis,415.0,"qualis, achaemenis, sicula, desero, in, aetna",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,416.0,"troica, cum, uideo, uelo, uenio, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,417.0,"qualis, sum, neque, non, fortuna, binominis, eo",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,418.0,"quisque, teneo, pons, spes, tu, magnus, sum",7,"NaN, NaN, NaN, 0.5, NaN, 0.0, NaN",0.071,0.0,tu,0.143
+ovid.ibis,419.0,"filius, et, cero, frustra, tu, semper, amo",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.143
+ovid.ibis,420.0,"destituo, tuus, usque, peto, ops",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,421.0,"ut, per, alternus, unda, labor, recursus",6,"NaN, NaN, NaN, 0.0, -0.5, NaN",-0.083,-0.083,,0.0
+ovid.ibis,422.0,"subtraho, premo, mollio, harena, pes",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,423.0,"sic, tuus, nescio, qui, semper, fortuna, liquesco",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,424.0,"labor, per, medius, effluo, usque, manus",6,"-0.5, NaN, 0.0, NaN, NaN, 0.0",-0.083,-0.083,,0.0
+ovid.ibis,425.0,"ut, pater, soleo, uario, muto, figura",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,426.0,"plenus, inextincta, conficiaris, fames",4,"0.0, NaN, NaN, -0.5",-0.125,-0.125,,0.0
+ovid.ibis,427.0,"neque, daps, humanus, tu, sum, fastidium, quisque",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.143
+ovid.ibis,428.0,"pars, possum, tydeus, tempus, hic, sum",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.167
+ovid.ibis,429.0,"atque, aliquis, facies, ab, uesperus, sol, ad, ortus",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,430.0,"cur, externati, rursus, ago, equus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,431.0,"foedus, lycaoniae, repeto, conuiuium, metior",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,conuiuium,0.2
+ovid.ibis,432.0,"tento, cibus, fallo, fraus, iouem",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,"fallo, fraus",0.4
+ovid.ibis,433.0,"tu, aliquis, pono, tento, uis, numen, opto",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,tu,0.143
+ovid.ibis,434.0,"tantalides, tu, sum, tu, teleique, puer",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, tu",0.333
+ovid.ibis,435.0,"et, tuus, sic, fero, spargo, membrum, per, ager",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,436.0,"tamquam, qui, patria, detineo, uia",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,437.0,"aer, perilleo, uerus, imito, iuuencus",5,"0.0, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+ovid.ibis,438.0,"ad, forma, taurus, conuenio, sonus",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+ovid.ibis,439.0,"ut, ferox, phalaris, lingua, prior, ensis, reseco",7,"NaN, -1.0, NaN, -0.5, 0.5, NaN, NaN",-0.143,-0.214,ferox,0.143
+ovid.ibis,440.0,"mos, bos, paphio, claudo, in, aer, gemo",7,"0.5, NaN, NaN, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+ovid.ibis,441.0,"dum, redeo, uolo, aeuum, bonus, in, annus",7,"NaN, NaN, NaN, NaN, 1.0, NaN, 0.0",0.143,0.0,,0.0
+ovid.ibis,442.0,"ut, uetus, admetior, decipiaris, socer",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,443.0,"aut, eques, in, medius, mergaris, uorago, caenum",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, -0.5",-0.071,-0.071,caenum,0.143
+ovid.ibis,444.0,"dummodo, sum, fatum, nomen, nullus, tuus",6,"NaN, NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,445.0,"atque, utinam, pereo, uelut, de, dens, orior",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,446.0,"sidonia, iacio, graius, per, aruum, manus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,447.0,"et, qui, pitthides, facio, de, frater, medusae",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,448.0,"euenio, caput, ueto, sinistra, tuus",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,449.0,"et, qui, exiguus, uolucris, deuoto, libellus, sum",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,450.0,"corpus, proiectum, qui, suus, purgo, aqua",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,451.0,"uulnero, tot, ferus, quot, dico, ille, fero",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,ferus,0.143
+ovid.ibis,452.0,"qui, ab, inferius, culter, absum, soleo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,453.0,"attono, seco, ut, qui, cybeleia, mater",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,454.0,"incito, ad, phrygios, uilis, membrum, modus",6,"NaN, NaN, NaN, -0.5, NaN, 0.5",0.0,-0.083,uilis,0.167
+ovid.ibis,455.0,"de, uir, fio, neque, femina, neque, uir, ut, attis",9,"NaN, 0.5, NaN, NaN, 0.0, NaN, 0.5, NaN, NaN",0.111,0.0,attis,0.111
+ovid.ibis,456.0,"et, quatio, mollis, tympanum, raucus, manus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,457.0,"in, pecus, subeo, magnus, uertaris, parens",6,"NaN, NaN, NaN, 0.0, NaN, 0.5",0.083,0.0,,0.0
+ovid.ibis,458.0,"uictor, ut, sum, celer, uinco, uerso, pes",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,459.0,"solo, limo, poena, ne, sentio, ille",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,poena,0.167
+ovid.ibis,460.0,"et, tuus, dens, fero, uiscera, carpo, equus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,461.0,"aut, ut, cassandreus, dominus, non, mitis, ille",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+ovid.ibis,462.0,"saucius, ingero, contumulo, humo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,463.0,"aut, ut, abantiades, aut, ut, cycneius, heros",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,464.0,"claudo, in, aequoreus, praecipito, aqua",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,465.0,"uictima, uel, phoebus, sacer, macto, ad, ara",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+ovid.ibis,466.0,"quam, fero, ab, saeuus, theudotus, hostis, nex",7,"NaN, NaN, NaN, -1.0, NaN, -1.0, -1.0",-0.429,-0.429,"saeuus, nex",0.286
+ovid.ibis,467.0,"aut, tu, deuoueo, certus, abdera, dies",6,"NaN, NaN, NaN, 0.5, NaN, 0.0",0.083,0.0,tu,0.167
+ovid.ibis,468.0,"saxum, de_-uoueo, grando, multus, peto",5,"0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,469.0,"aut, io, infestus, telum, feriaris, trisulcus",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+ovid.ibis,470.0,"ut, sero, hipponoo, dexitheaeque, pater",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,471.0,"ut, soror, autonoes, ut, qui, matertera, maia",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,matertera,0.143
+ovid.ibis,472.0,"ut, temere, opto, qui, malus, rego, equus",7,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,,0.0
+ovid.ibis,473.0,"ut, ferus, aeolides, ut, sanguis, nascor, idem",7,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,ferus,0.143
+ovid.ibis,474.0,"quo, gigno, sum, liquidus, qui, careo, arctos, aqua",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,475.0,"ut, macelo, rapidus, iacio, sum, cum, coniunx, flamma",8,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.062,-0.062,,0.0
+ovid.ibis,476.0,"sic, precor, aetherius, uindex, ignis, cado",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,uindex,0.167
+ovid.ibis,477.0,"praeda, sum, ille, qui, sum, latonia, delos",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,478.0,"ante, dies, rapio, non, adeo, thaso",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,479.0,"quisque, uerecundus, speculor, labrum, diana",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+ovid.ibis,480.0,"quisque, crotopiade, -ne, diripio, linum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,481.0,"neue, ueneno, leuis, feriaris, ab, anguis",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,482.0,"quam, senex, oeagri, calliopesque, nurus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,nurus,0.2
+ovid.ibis,483.0,"quam, puer, hypsipyles, quam, qui, cauo, primus, acutus",8,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,,0.0
+ovid.ibis,484.0,"cuspis, suspicio, robur, figo, equus",5,"-1.0, -0.5, 0.5, NaN, NaN",-0.2,-0.3,,0.0
+ovid.ibis,485.0,"neue, gradus, adeo, elpenore, caueo, alo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,486.0,"uis, ferus, uinum, quo, fero, ille, modo",7,"1.0, -1.0, NaN, NaN, NaN, NaN, NaN",0.0,-0.143,ferus,0.143
+ovid.ibis,487.0,"tam, cado, domo, quam, quisquis, ad, arma, uoco",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,488.0,"iuuo, inhumanus, thiodamanta, dryops",4,"NaN, 0.0, NaN, NaN",0.0,0.0,inhumanus,0.25
+ovid.ibis,489.0,"quam, ferus, ipse, suus, pereo, macto, in, antrum",8,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN, 0.0",-0.125,-0.125,ferus,0.125
+ovid.ibis,490.0,"prodeo, includo, cacus, ab, os, bos",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,cacus,0.167
+ovid.ibis,491.0,"quam, qui, donum, fero, nesseo, tingo, ueneno",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,492.0,"euboicasque, suus, sanguis, tingo, aqua",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,493.0,"uel, de, praeceps, uenio, in, tartara, saxum",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,494.0,"ut, qui, socraticum, de, nex, lego, opus",7,"NaN, NaN, NaN, NaN, -1.0, NaN, 0.5",-0.071,-0.143,nex,0.143
+ovid.ibis,495.0,"ut, qui, theseae, fallacia, uelo, carina",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,fallacia,0.167
+ovid.ibis,496.0,"uideo, ut, iliacus, mitto, ab, arx, puer",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,497.0,"ut, teneo, nutrix, idem, matertera, bacchi",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,matertera,0.167
+ovid.ibis,498.0,"ut, qui, causa, nex, serro, reperio, sum",7,"NaN, NaN, 0.0, -1.0, NaN, NaN, NaN",-0.143,-0.143,nex,0.143
+ovid.ibis,499.0,"liuidus, sui, scopulus, ut, uirgo, mitto, ab, altus",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,uirgo,0.125
+ovid.ibis,500.0,"dico, inuictus, qui, malus, uerbum, deus",6,"NaN, 1.0, NaN, -1.0, 0.0, 0.0",0.0,-0.167,,0.0
+ovid.ibis,501.0,"fetus, tu, occurro, patrius, popularis, in, aruum",7,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,"tu, popularis",0.286
+ovid.ibis,502.0,"sum, phalaeceae, causa, leaena, nex",5,"NaN, NaN, 0.0, NaN, -1.0",-0.2,-0.2,"leaena, nex",0.4
+ovid.ibis,503.0,"quisque, lycurgide, -ne, leto, et, arbor, natus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,504.0,"idmonaque, audax, tu, quoque, rumpo, aper",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"audax, tu",0.333
+ovid.ibis,505.0,"eo, uel, exanimus, facio, tu, uulnus, ut, ille",8,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.125,-0.125,"exanimus, tu",0.25
+ovid.ibis,506.0,"os, super, figo, qui, cado, suus",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,507.0,"siue, idem, similis, pinus, qui, mors, per-emo",7,"NaN, NaN, 0.0, 0.0, NaN, -1.0, NaN",-0.143,-0.143,per-emo,0.143
+ovid.ibis,508.0,"phryges, atque, uenator, sum, berecyntiades",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,509.0,"si, tuus, contingo, minoas, puppis, harena",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,510.0,"tu, corcyraeum, cressia, turba, puto",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.2
+ovid.ibis,511.0,"labor, domus, subeo, ut, sanguis, aleuae",6,"-0.5, 0.0, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+ovid.ibis,512.0,"stella, leoprepidae, cum, sum, aequus, io",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+ovid.ibis,513.0,"ut, uel, euenus, torreo, flumen, mergo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,514.0,"nomen, do, rapidus, uel, tiberinus, aqua",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,515.0,"astacidaeque, modo, decisus, cadauer, trunco",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,516.0,"dignus, fera, homo, sum, caput, esca, tuus",7,"1.0, NaN, 0.0, NaN, 0.0, NaN, 0.0",0.143,0.0,fera,0.143
+ovid.ibis,517.0,"quisque, fero, brotea, -ne, facio, cupido, mors",7,"NaN, NaN, NaN, NaN, NaN, -0.5, -1.0",-0.214,-0.214,,0.0
+ovid.ibis,518.0,"do, tuus, succendo, membrum, cremo, pyra",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,519.0,"includo, nex, cauea, patior, ut, ille",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,nex,0.167
+ovid.ibis,520.0,"non, proficio, conditor, historia",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,521.0,"ut, repertor, noceo, pugnax, iambus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,noceo,0.2
+ovid.ibis,522.0,"sic, sum, in, exitium, lingua, proteruus, tuus",7,"NaN, NaN, NaN, -1.0, -0.5, -0.5, 0.0",-0.286,-0.286,proteruus,0.143
+ovid.ibis,523.0,"ut, parum, stabilis, qui, carmen, laedo, atheni, -ne",8,"NaN, 0.0, 0.5, NaN, 0.0, NaN, NaN, NaN",0.062,0.0,,0.0
+ovid.ibis,524.0,"inuideo, pereo, deficio, cibus",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,525.0,"ut, lyra, uates, fero, pereo, seuerus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,526.0,"causa, sum, exitium, dextera, laedo, tuus",6,"0.0, NaN, -1.0, 0.0, NaN, 0.0",-0.167,-0.167,,0.0
+ovid.ibis,527.0,"ut, agamemnonio, uulnus, do, anguis, orestae",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+ovid.ibis,528.0,"tu, quoque, de, morsus, uirus, habeo, cado",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, morsus",0.286
+ovid.ibis,529.0,"sum, tu, coniugium, nox, primus, nouus, uita",7,"NaN, NaN, NaN, 0.0, 0.5, 1.0, 0.0",0.214,0.0,tu,0.143
+ovid.ibis,530.0,"eupolis, hic, pereo, et, nouo, nubo, modo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, nubo",0.286
+ovid.ibis,531.0,"ut, coturnatum, pereo, lycophrona, narro",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,532.0,"haereo, in, fibra, figo, sagitta, tuus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,533.0,"aut, lacer, in, silua, manus, spargaris, tuus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,534.0,"spargo, ut, sum, thebis, anguis, creo, auus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,535.0,"per, ferus, mons, taurus, rapio, traharis",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,ferus,0.167
+ovid.ibis,536.0,"ut, traho, sum, coniunx, imperiosus, lycos",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+ovid.ibis,537.0,"quisque, suus, patior, sum, paelex, inuito, soror",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,538.0,"excido, ante, pes, lingua, reseco, tuus",6,"NaN, NaN, 0.0, -0.5, NaN, 0.0",-0.083,-0.083,,0.0
+ovid.ibis,539.0,"conditor, ut, tardus, laedo, cognomen, murra",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,540.0,"urbs, in, innumerus, inueniaris, locus",5,"0.5, NaN, NaN, NaN, 0.0",0.1,0.0,,0.0
+ovid.ibis,541.0,"in, tuus, opifex, uates, qui, facio, achaeo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,542.0,"noxius, lumen, spiculum, condo, apis",5,"0.5, NaN, 0.0, NaN, NaN",0.1,0.0,noxius,0.2
+ovid.ibis,543.0,"figo, et, in, durus, carparis, uiscera, saxum",7,"NaN, NaN, NaN, -0.5, NaN, NaN, 0.0",-0.071,-0.071,,0.0
+ovid.ibis,544.0,"ut, qui, pyrrha, suus, filia, frater, sum",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,545.0,"ut, puer, harpagides, refero, exemplum, thyestae",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,546.0,"in, tuus, caedo, uiscera, pater, is",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,547.0,"truncus, gero, saeuus, mutilo, pars, ensis",6,"NaN, NaN, -1.0, NaN, 0.0, NaN",-0.167,-0.167,saeuus,0.167
+ovid.ibis,548.0,"qualis, mamertae, membrum, sum, fero",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,549.0,"ut, syracosio, praestringo, fauces, poeta",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,550.0,"sic, anima, laqueus, sum, uia, claudo, tuus",7,"NaN, 0.5, NaN, NaN, 0.0, NaN, 0.0",0.071,0.0,,0.0
+ovid.ibis,551.0,"nudo, deripio, pateo, tuus, uiscera, pello",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,552.0,"ut, phrygius, qui, nomen, flumen, habeo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,553.0,"saxificus, uideo, infelix, os, medusae",5,"NaN, NaN, -1.0, 0.0, NaN",-0.2,-0.2,infelix,0.2
+ovid.ibis,554.0,"cephenes, multus, qui, do, unus, nex",6,"NaN, 0.0, NaN, NaN, NaN, -1.0",-0.167,-0.167,nex,0.167
+ovid.ibis,555.0,"potniadum, mordeo, subeo, ut, glaucus, equaris",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"glaucus, equaris",0.333
+ovid.ibis,556.0,"in, mare, salio, glaucus, ut, alter, aqua",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,glaucus,0.143
+ovid.ibis,557.0,"ut, duo, idem, dictum, modo, nomen, habeo",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,558.0,"praefoco, anima, gnosia, mel, uia",5,"NaN, 0.5, NaN, NaN, 0.0",0.1,0.0,,0.0
+ovid.ibis,559.0,"sollicito, bibo, anyti, doceo, olim",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,560.0,"imperturbatus, qui, bibo, os, reus",5,"1.0, NaN, NaN, 0.0, NaN",0.2,0.0,reus,0.2
+ovid.ibis,561.0,"neque, tu, siquis, amo, felix, haemone, cedo",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,tu,0.143
+ovid.ibis,562.0,"ut, suus, macareus, sic, potiaris, tuus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,macareus,0.167
+ovid.ibis,563.0,"uel, uideo, qui, iam, cum, flamma, cunctus, teneo",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,564.0,"hectoreus, patria, uideo, ab, arx, puer",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,565.0,"sanguis, probrum, luo, ut, auus, genitor, creo",7,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,"probrum, luo",0.286
+ovid.ibis,566.0,"per, facinus, soror, sum, qui, suus, facio, parens",8,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN, 0.5",-0.062,-0.125,facinus,0.125
+ovid.ibis,567.0,"os, in, tuus, telis, genus, haereo, ille",7,"0.0, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,568.0,"trado, icarii, quo, cado, gener",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,569.0,"ut, loquax, in, equus, sum, elido, guttur, acernus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,570.0,"sic, tu, claudo, polliceo, uox, iter",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,tu,0.167
+ovid.ibis,571.0,"aut, ut, anaxarchus, pilum, minuaris, in, altus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+ovid.ibis,572.0,"ictaque, pro, soleo, frugis, os, sono",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,573.0,"ut, pater, psamathes, condo, tu, phoebus, in, imus",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.125
+ovid.ibis,574.0,"tartara, qui, nascor, facio, ille, suus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,575.0,"in, tuus, is, pestis, eo, quam, dextera, coroebi",8,"NaN, 0.0, NaN, -1.0, NaN, NaN, 0.0, NaN",-0.125,-0.125,pestis,0.125
+ovid.ibis,576.0,"uinco, ops, miser, argolisinque, fero",5,"NaN, 0.0, -1.0, NaN, NaN",-0.2,-0.2,miser,0.2
+ovid.ibis,577.0,"ut, nepos, aethra, uenio, morior, ob, ira",7,"NaN, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+ovid.ibis,578.0,"exul, ab, attono, excutiaris, equus",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,,0.0
+ovid.ibis,579.0,"propter, ops, magnus, ut, perdo, hospes, alumnus",7,"NaN, 0.0, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,580.0,"perdo, ob, exiguus, tu, tuus, hospes, ops",7,"NaN, NaN, 0.0, NaN, 0.0, 0.0, 0.0",0.0,0.0,tu,0.143
+ovid.ibis,581.0,"ut, fero, caedo, sex, cum, damasicthone, frater",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,582.0,"intereo, cum, tu, sic, genus, omnis, tuus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,tu,0.143
+ovid.ibis,583.0,"addo, ut, fidice, -ne, miser, suus, funero, obstino",8,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.125,-0.125,"fidice, miser",0.25
+ovid.ibis,584.0,"sic, tu, sum, uita, taedium, iustus, tuus",7,"NaN, NaN, NaN, 0.0, -1.0, 1.0, 0.0",0.0,-0.143,"tu, taedium",0.286
+ovid.ibis,585.0,"ut, soror, pelopis, saxum, duro, oborior",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,586.0,"ut, laedo, lingua, battus, ab, ipse, suus",7,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.071,-0.071,battus,0.143
+ovid.ibis,587.0,"aes, si, mitto, uacuus, iaculor, disco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,588.0,"quo, puer, oebalides, iacio, ab, orbis, cado",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,589.0,"siqua, per, alternus, pulso, unda, lacertus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,590.0,"omnis, abydena, sum, tu, malus, aqua",6,"NaN, NaN, NaN, NaN, -1.0, 0.0",-0.167,-0.167,tu,0.167
+ovid.ibis,591.0,"comicus, ut, liquidus, pereo, dum, no, in, unda",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,592.0,"et, tuus, sic, stygius, strangulo, os, liquo",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,593.0,"aut, ubi, uentosus, superaris, naufragus, aequor",6,"NaN, NaN, NaN, NaN, -0.5, 0.0",-0.083,-0.083,naufragus,0.167
+ovid.ibis,594.0,"contingo, pereo, ut, palinurus, humo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,595.0,"ut, coturnatum, uates, tutela, diana",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,596.0,"dilanio, uigilis, tu, quoque, turba, canis",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"dilanio, tu",0.333
+ovid.ibis,597.0,"aut, ut, trinacrius, salio, super, os, gigas",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,598.0,"multus, qui, flamma, sicanis, aetna, uomo",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,599.0,"diripio, tuus, insanus, unguis, artus",5,"NaN, 0.0, -1.0, NaN, NaN",-0.2,-0.2,insanus,0.2
+ovid.ibis,600.0,"strymoniae, mater, orpheos, sum, reor",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,601.0,"nascor, ut, althaea, flamma, absum, ardeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,602.0,"sic, tuus, ardescat, stipes, ignis, rogus",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,rogus,0.167
+ovid.ibis,603.0,"ut, nouo, phasiaca, con-prehenso, sum, nubo, corona",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,nubo,0.143
+ovid.ibis,604.0,"ut, pater, nubo, cum, pareo, domus",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,nubo,0.167
+ovid.ibis,605.0,"ut, cruor, herculeos, abeo, diffundo, in, artus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,cruor,0.143
+ovid.ibis,606.0,"corpus, pestifer, sic, tuus, uirus, edo",6,"0.0, -1.0, NaN, 0.0, NaN, NaN",-0.167,-0.167,pestifer,0.167
+ovid.ibis,607.0,"qui, suus, pentelide, -ne, proles, sum, ulciscor, lycurgum",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,ulciscor,0.125
+ovid.ibis,608.0,"hic, maneo, telis, tu, quoque, plaga, nosco",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, tu",0.286
+ovid.ibis,609.0,"ut, milo, robur, diduco, fissilis, tento",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+ovid.ibis,610.0,"neque, possum, capio, inde, refero, manus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,611.0,"munus, tuus, laedaris, ut, icarus, in, qui",7,"0.5, 0.0, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+ovid.ibis,612.0,"infero, armo, ebrius, turba, manus",5,"NaN, NaN, -0.5, 0.0, 0.0",-0.1,-0.1,ebrius,0.2
+ovid.ibis,613.0,"quisque, dolor, nex, patria, pius, filia, facio",7,"NaN, -1.0, -1.0, NaN, NaN, NaN, NaN",-0.286,-0.286,nex,0.143
+ovid.ibis,614.0,"uinculum, per, laqueus, facio, tu, guttur, eo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+ovid.ibis,615.0,"obstruo, fames, patior, limen, tectum",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+ovid.ibis,616.0,"ut, lex, poena, qui, do, ipse, parens",7,"NaN, 0.5, -1.0, NaN, NaN, NaN, 0.5",0.0,-0.143,poena,0.143
+ovid.ibis,617.0,"ille, exemplum, uiolo, simulacrum, mineruae",5,"NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,uiolo,0.2
+ovid.ibis,618.0,"aulidis, ab, portus, qui, leuis, uerto, iter",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,619.0,"naupliadaeue, modo, poena, pro, crimen, fallo",6,"NaN, NaN, -1.0, NaN, -1.0, NaN",-0.333,-0.333,"poena, crimen, fallo",0.5
+ovid.ibis,620.0,"mors, luo, neque, tu, non, mereo, iuuo",7,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,"luo, tu",0.286
+ovid.ibis,621.0,"aethalo, -ne, ut, uito, spolio, isindius, hospes",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,622.0,"qui, memor, ab, sacrum, nunc, quoque, pello, io, -ne",9,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+ovid.ibis,623.0,"ut, melanthea, tenebrae, ab, caedes, lateo",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,caedes,0.167
+ovid.ibis,624.0,"prodo, officium, lumen, ipse, parens",5,"NaN, 0.5, NaN, NaN, 0.5",0.2,0.0,,0.0
+ovid.ibis,625.0,"sic, tuus, conicio, fodio, uiscera, telum",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.ibis,626.0,"sic, precor, auxilium, impediaris, tuus",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,627.0,"qualis, equus, pacisco, qui, fortis, ago, achilles",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,achilles,0.143
+ovid.ibis,628.0,"ago, phrygi, timidus, nox, tu, talis, eo",7,"NaN, NaN, -0.5, 0.0, NaN, NaN, NaN",-0.071,-0.071,"timidus, tu",0.286
+ovid.ibis,629.0,"neque, tu, quam, rhesus, somnus, bonus, quiesco",7,"NaN, NaN, NaN, NaN, 0.5, 1.0, NaN",0.214,0.0,tu,0.143
+ovid.ibis,630.0,"quam, comes, rhesi, tum, nex, ante, uia",7,"NaN, NaN, NaN, NaN, -1.0, NaN, 0.0",-0.143,-0.143,nex,0.143
+ovid.ibis,631.0,"quam, qui, cum, rutulo, mors, ramnete, do",7,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,,0.0
+ovid.ibis,632.0,"impiger, hyrtacides, hyrtacidaeque, comes",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,633.0,"cliniadaeue, modo, circumdo, ignis, ater",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,634.0,"membrum, ferus, stygiae, semicrematus, nex",5,"NaN, -1.0, NaN, NaN, -1.0",-0.4,-0.4,"ferus, nex",0.4
+ovid.ibis,635.0,"ut, remus, murus, audeo, transeo, recens",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.ibis,636.0,"noxius, sum, caput, rusticus, telum, tuus",6,"0.5, NaN, 0.0, -0.5, NaN, 0.0",0.0,-0.083,noxius,0.167
+ovid.ibis,637.0,"denique, sarmaticas, inter, geticasque, sagitto",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.ibis,638.0,"hic, precor, ut, uiuo, et, moriaris, locus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+ovid.ibis,639.0,"hic, tu, tantisper, subeo, sum, mitto, libellus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, tu",0.286
+ovid.ibis,640.0,"immemor, ne, nos, sum, queraris, tuus",6,"-1.0, NaN, NaN, NaN, NaN, 0.0",-0.167,-0.167,,0.0
+ovid.ibis,641.0,"paucus, quidem, fateor, sed, deus, do, multus, rogo",8,"0.0, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.ibis,642.0,"multiplico, suus, ueto, fauor, meus",5,"NaN, NaN, NaN, 1.0, 0.0",0.2,0.0,,0.0
+ovid.ibis,643.0,"postmodo, multus, lex, et, nomen, habeo, uerus",7,"NaN, 0.0, 0.5, NaN, 0.0, NaN, 0.5",0.143,0.0,,0.0
+ovid.ibis,644.0,"et, pes, quo, debeo, acer, bellum, gero",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0

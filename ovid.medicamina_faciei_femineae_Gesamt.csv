@@ -1,0 +1,101 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+ovid.medicamina_faciei_femineae,1.0,"disco, qui, facies, commendo, cura, puella",6,"NaN, NaN, 0.0, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+ovid.medicamina_faciei_femineae,2.0,"et, quo, sum, tu, forma, tueor, modo",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,tu,0.143
+ovid.medicamina_faciei_femineae,3.0,"cultus, humus, sterilis, cerealia, pendeo, iubeo",6,"-0.5, NaN, -0.5, NaN, NaN, NaN",-0.167,-0.167,humus,0.167
+ovid.medicamina_faciei_femineae,4.0,"munus, mordax, intereo, rubus",4,"0.5, NaN, NaN, NaN",0.125,0.0,,0.0
+ovid.medicamina_faciei_femineae,5.0,"cultus, et, in, pomum, sucus, emendo, acerbus",7,"-0.5, NaN, NaN, 0.0, NaN, NaN, -1.0",-0.214,-0.214,acerbus,0.143
+ovid.medicamina_faciei_femineae,6.0,"findo, adoptiuus, accipio, arbor, ops",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,7.0,"colo, placeo, aurum, sublime, tectum, linuntur",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+ovid.medicamina_faciei_femineae,8.0,"niger, sub, impono, marmor, terra, lateo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,9.0,"uellus, saepe, idem, tyrio, medico, anus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,10.0,"sectilis, deliciae, india, praebeo, ebur",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,deliciae,0.2
+ovid.medicamina_faciei_femineae,11.0,"forsitan, antiquus, tatio, sub, rex, sabinae",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,12.0,"malo, quam, sui, rus, paternus, colo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,13.0,"cum, matrona, premo, altus, rubicundus, sedilis",6,"NaN, -0.5, NaN, 0.5, NaN, NaN",0.0,-0.083,matrona,0.167
+ovid.medicamina_faciei_femineae,14.0,"assiduus, durus, polliceo, neo, opus",5,"0.5, -0.5, NaN, NaN, 0.5",0.1,-0.1,,0.0
+ovid.medicamina_faciei_femineae,15.0,"ipse, claudeo, qui, filia, pasco, agnus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,16.0,"ipse, do, uirga, caedo, lignum, focus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,17.0,"at, uester, mater, tener, pario, puella",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,18.0,"uolo, inauro, corpus, uestis, tego",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,uestis,0.2
+ovid.medicamina_faciei_femineae,19.0,"uolo, odoro, pono, uariaris, capillus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,capillus,0.2
+ovid.medicamina_faciei_femineae,20.0,"conspicuus, gemma, uolo, habeo, manus",5,"1.0, NaN, NaN, NaN, 0.0",0.2,0.0,,0.0
+ovid.medicamina_faciei_femineae,21.0,"induo, collum, lapis, orior, peto",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,22.0,"et, quantus, onus, sum, auris, fero, duo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,23.0,"neque, tamen, indignus, sum, tu, cura, placeo",7,"NaN, NaN, -1.0, NaN, NaN, -1.0, NaN",-0.286,-0.286,tu,0.143
+ovid.medicamina_faciei_femineae,24.0,"cum, como, habeo, saeculum, noster, uir",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ovid.medicamina_faciei_femineae,25.0,"femineus, uester, polio, lex, maritus",5,"-0.5, NaN, NaN, 0.5, 0.0",0.0,-0.1,maritus,0.2
+ovid.medicamina_faciei_femineae,26.0,"et, uix, ad, cultus, nubo, qui, addo, habeo",8,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.062,-0.062,nubo,0.125
+ovid.medicamina_faciei_femineae,27.0,"sui, sui, quisque, paro, neque, qui, uenor, amor",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,,0.0
+ovid.medicamina_faciei_femineae,28.0,"refero, munditia, crimen, nullus, mereo",5,"NaN, 1.0, -1.0, NaN, NaN",0.0,-0.2,"munditia, crimen",0.4
+ovid.medicamina_faciei_femineae,29.0,"rus, lateo, fingo, como, licet, arduus, ille",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,fingo,0.143
+ovid.medicamina_faciei_femineae,30.0,"celo, athos, colo, altus, habeo, athos",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,"athos, athos",0.333
+ovid.medicamina_faciei_femineae,31.0,"sum, etiam, placeo, sui, quicumque, uoluptas",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+ovid.medicamina_faciei_femineae,32.0,"uirgo, chordus, gratus, forma, suus, sum",6,"NaN, NaN, 1.0, 1.0, NaN, NaN",0.333,0.0,uirgo,0.167
+ovid.medicamina_faciei_femineae,33.0,"laudo, homo, uolucris, iunonia, penna",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,34.0,"explico, et, forma, multus, superbio, auus",6,"NaN, NaN, 1.0, 0.0, NaN, NaN",0.167,0.0,,0.0
+ovid.medicamina_faciei_femineae,35.0,"sic, potis, tu, urgeo, amor, quam, fortis, herba",8,"NaN, 0.0, NaN, NaN, 1.0, NaN, 0.5, NaN",0.188,0.0,tu,0.125
+ovid.medicamina_faciei_femineae,36.0,"qui, magus, terribilis, subseco, ars, manus",6,"NaN, NaN, -0.5, NaN, 0.0, 0.0",-0.083,-0.083,subseco,0.167
+ovid.medicamina_faciei_femineae,37.0,"neque, tu, gramen, neque, misceo, credo, sucus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+ovid.medicamina_faciei_femineae,38.0,"neque, temptas, noceo, uirus, amo, equa",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,noceo,0.167
+ovid.medicamina_faciei_femineae,39.0,"neque, medius, marsis, findo, cantus, anguis",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,40.0,"neque, redeo, in, fons, unda, supinus, suus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,41.0,"et, quiuis, aliquis, temesaea, remoueo, aes",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,42.0,"numquam, luna, suus, excutio, equus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,43.0,"primus, sum, in, tu, mos, tutela, puella",7,"0.5, NaN, NaN, NaN, 0.5, NaN, NaN",0.143,0.0,tu,0.143
+ovid.medicamina_faciei_femineae,44.0,"ingenium, facies, concilio, placeo",4,"0.5, 0.0, NaN, NaN",0.125,0.0,,0.0
+ovid.medicamina_faciei_femineae,45.0,"certus, amor, mos, sum, forma, populo, aetas",7,"0.5, 1.0, 0.5, NaN, 1.0, NaN, 0.0",0.429,0.0,,0.0
+ovid.medicamina_faciei_femineae,46.0,"et, placeo, rugio, uultus, aro, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,47.0,"tempus, sum, quo, tu, speculum, uideo, pigeo",7,"0.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.143
+ovid.medicamina_faciei_femineae,48.0,"et, uenio, rugio, alter, causa, dolor",6,"NaN, NaN, NaN, NaN, 0.0, -1.0",-0.167,-0.167,,0.0
+ovid.medicamina_faciei_femineae,49.0,"sufficio, et, longus, probitas, perduro, in, aeuum",7,"NaN, NaN, 0.0, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+ovid.medicamina_faciei_femineae,50.0,"per, suus, annus, hinc, bene, pendeo, amor",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+ovid.medicamina_faciei_femineae,51.0,"dico, ago, cum, tener, somnus, dimitto, artus",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+ovid.medicamina_faciei_femineae,52.0,"candidus, quo, possum, os, niteo, modo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,53.0,"hordeum, qui, libyci, ratis, mitto, colonus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,54.0,"exuo, de, palea, tegimen, suus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,palea,0.2
+ovid.medicamina_faciei_femineae,55.0,"par, eruum, mensura, decem, madefiat, ab, ouum",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+ovid.medicamina_faciei_femineae,56.0,"sed, cumulo, libro, hordeum, nudo, duo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,57.0,"hic, ubi, uentosus, sum, sicco, per, aura",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,hic,0.143
+ovid.medicamina_faciei_femineae,58.0,"lentus, iubeo, scabra, frango, asella, mola",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,scabra,0.167
+ovid.medicamina_faciei_femineae,59.0,"et, qui, primus, cado, uiuax, cornu, ceruus",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+ovid.medicamina_faciei_femineae,60.0,"contero, in, hic, solidus, sextus, facio, adsum, eo",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.125
+ovid.medicamina_faciei_femineae,61.0,"iam, ubi, puluereus, sum, confundo, farina",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,62.0,"protinus, in, cumera, omnis, cerno, caueo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,63.0,"adicio, narcissus, bis, sex, sine, cortex, bulbus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,64.0,"strenuus, qui, purus, marmor, dextera, tero",6,"1.0, NaN, 1.0, NaN, 0.0, NaN",0.333,0.0,,0.0
+ovid.medicamina_faciei_femineae,65.0,"sextantemque, traho, commis, cum, semen, tusco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,66.0,"huc, nouies, tantus, multus, tu, mel, eo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.143
+ovid.medicamina_faciei_femineae,67.0,"quicumque, afficio, talis, medicamen, uultus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,68.0,"fulgeo, speculum, leuis, ipse, suus",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,69.0,"neque, tu, palleo, dubito, torreo, lupinus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+ovid.medicamina_faciei_femineae,70.0,"et, simul, inflo, corpus, frigeo, for",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,71.0,"uter, sex, habeo, aequus, discrimen, libro",6,"NaN, NaN, NaN, 0.5, -1.0, NaN",-0.083,-0.167,,0.0
+ovid.medicamina_faciei_femineae,72.0,"uter, do, niger, comminuo, molio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,73.0,"neque, cerussa, tu, neque, nitrion, spumo, rubeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+ovid.medicamina_faciei_femineae,74.0,"desum, et, illyrica, qui, uenio, iris, humo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,75.0,"do, ualidus, iuuenis, pariter, subigo, lacertus",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+ovid.medicamina_faciei_femineae,76.0,"sed, iustus, tero, uncia, pondus, sum",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+ovid.medicamina_faciei_femineae,77.0,"addo, de, querulus, uolucris, medicamen, nidus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,querulus,0.167
+ovid.medicamina_faciei_femineae,78.0,"os, fugo, maculo, alcyoneus, uoco",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,maculo,0.2
+ovid.medicamina_faciei_femineae,79.0,"pondus, si, quaero, quo, sum, contineo, in, ille",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,80.0,"qui, traho, in, pars, uncia, seco, duo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,81.0,"ut, coeo, aptus, linum, per, corpus, possum",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,82.0,"adicio, de, flauus, attica, mel, fauus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,83.0,"quiuis, tus, deus, irascor, numen, placeo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,84.0,"non, tamen, accendo, omnis, do, focus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,85.0,"tus, ubi, misceo, rado, tuber, nitrum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,86.0,"pondus, iustus, facio, sum, utrimque, triens",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+ovid.medicamina_faciei_femineae,87.0,"pars, paruus, quartus, deripio, cortex, commis",6,"0.0, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,88.0,"et, modicus, e, murra, pinguis, addo, cubus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,89.0,"hic, ubi, contrieris, per, densus, foramen, cerno",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+ovid.medicamina_faciei_femineae,90.0,"puluis, ab, infundo, mel, premo, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,91.0,"prosum, et, marathrus, bene, oleo, addo, murra",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,92.0,"quinque, traho, marathrus, scrupula, murra, nouo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,93.0,"areo, rodo, quantus, manus, unus, prehendo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,94.0,"cum, ammoniaco, masculus, tus, sal",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,95.0,"hordeum, qui, facio, ille, affundo, cremor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,96.0,"aequo, expendo, cum, sal, tus, rodo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.medicamina_faciei_femineae,97.0,"tempus, sum, paruus, mollis, licet, illino, uultus",7,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,98.0,"haereo, totus, multus, in, os, color",6,"NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,99.0,"uideo, qui, gelidus, madefacio, papauer, lympha",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.medicamina_faciei_femineae,100.0,"contero, teneo, illino, gena",4,"NaN, NaN, NaN, NaN",nan,nan,gena,0.25

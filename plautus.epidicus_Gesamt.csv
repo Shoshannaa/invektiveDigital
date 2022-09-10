@@ -1,0 +1,730 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+plautus.epidicus,1.0,"heus, adulescens, quis, propero, ego, reprehendo, pallium",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,adulescens,0.143
+plautus.epidicus,2.0,"familiaris, fateor, nam, odium, sum, nimium, familiaris",7,"1.0, NaN, NaN, -1.0, NaN, 0.0, 1.0",0.143,-0.143,,0.0
+plautus.epidicus,3.0,"respicio, uerus, thesprio, oh",4,"NaN, 0.5, NaN, NaN",0.125,0.0,oh,0.25
+plautus.epidicus,4.0,"epidicum, -ne, ego, conspicor",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,5.0,"satis, rectus, oculus, uto",4,"0.5, 1.0, 0.0, NaN",0.375,0.0,,0.0
+plautus.epidicus,6.0,"saluus, deus, do, qui, uelis",5,"1.0, 0.0, NaN, NaN, NaN",0.2,0.0,,0.0
+plautus.epidicus,7.0,"uenio, saluus, gaudeo, quis, ceterum, qui, is, assoleo",8,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+plautus.epidicus,8.0,"cena, tu, do, spondeo, quis, ego, accipio, si, do",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.epidicus,9.0,"quis, tu, ago, ut, ual, exemplum, adsum, intellego, euge",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.111
+plautus.epidicus,10.0,"corpulentus, uideo, atque, habeo, hic, gratia",6,"-0.5, NaN, NaN, NaN, NaN, 1.0",0.083,-0.083,hic,0.167
+plautus.epidicus,11.0,"quam, quidem, tu, iam, diu, perdo, oportet",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.epidicus,12.0,"paruus, iam, furtificus, sum, quam, antehac, quis, ita, rapio, propalam",10,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,13.0,"deus, immortalis, tu, infelicent, ut, tu, sum, gradus, grandis",9,"0.0, 0.5, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.056,0.0,"tu, tu",0.222
+plautus.epidicus,14.0,"nam, ut, apud, portus, tu, conspicio, curriculum, occipio, sequor",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.epidicus,15.0,"uix, adipiscendi, potestas, modo, sum, scurra, sum, scio",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,scurra,0.125
+plautus.epidicus,16.0,"tu, sum, equidem, homo, militaris, audacter, quam, uolo, dico",9,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"tu, audacter",0.222
+plautus.epidicus,17.0,"quis, aio, perpetuus, -ne, ualeo, uarius, qui, uarius, ualeo",9,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.epidicus,18.0,"capreago, homo, non, placeo, ego, neque, pantherinus, genus",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,19.0,"quis, tu, uolo, dico, nisi, qui, sum, ut, ille, res, respondeo, probus",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 1.0",0.083,0.0,"tu, probus",0.167
+plautus.epidicus,20.0,"quis, erilis, noster, filius, ualeo, pugilice, atque, athleticus",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.5",0.062,0.0,,0.0
+plautus.epidicus,21.0,"uoluptabilis, ego, nuntius, tuus, aduenio, apporto, thesprio",7,"1.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.143,0.0,,0.0
+plautus.epidicus,22.0,"sed, ubi, sum, is, aduenio, simul, ubi, is, ergo, sum, nisi, si, in, uidulus",14,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,23.0,"aut, si, in, mellina, affero, deus, tu, perdo, tu, uolo",10,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"tu, tu",0.2
+plautus.epidicus,24.0,"percontaris, opera, do, opus, reddo, tu",6,"NaN, -0.5, NaN, 0.5, NaN, NaN",0.0,-0.083,tu,0.167
+plautus.epidicus,25.0,"ius, dico, ego, decet, iam, tu, autem, nos, praetorqueo, gero",10,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.05,0.0,tu,0.1
+plautus.epidicus,26.0,"qui, dico, dignus, sum, homo, hodie, athenae, alter",8,"NaN, NaN, 1.0, NaN, 0.0, NaN, NaN, NaN",0.125,0.0,,0.0
+plautus.epidicus,27.0,"at, unus, ab, praetura, tuus, epidice, absum, quisnam, scio",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,28.0,"lictor, duo, duo, ulmeus, fascis, uirgaris, uae, tu",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.epidicus,29.0,"sed, quis, aio, quis, rogo, ubi, arma, sum, stratippocli",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,30.0,"pol, ille, ad, hostis, transfugio, armo, atque, equidem, cito",9,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.111,-0.111,transfugio,0.111
+plautus.epidicus,31.0,"serius, -ne, dico, tu, serius, inquam, hostis, habeo",8,"0.0, NaN, NaN, NaN, 0.0, NaN, -1.0, NaN",-0.125,-0.125,tu,0.125
+plautus.epidicus,32.0,"edepol, facinus, improbus, at, iam, ante, alius, facio, idem",9,"NaN, -1.0, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.222,-0.222,"edepol, facinus, improbus",0.333
+plautus.epidicus,33.0,"sum, ille, ille, res, honor, qui, quia, ante, alius, sum",10,"NaN, NaN, NaN, 0.0, 1.0, NaN, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+plautus.epidicus,34.0,"mulciber, credo, arma, facio, qui, habeo, stratippocles",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,35.0,"trauolauerunt, ad, hostis, tum, ille, prognatus, theti",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,theti,0.143
+plautus.epidicus,36.0,"sine, perdo, alius, apporto, is, nerei, filia",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,37.0,"is, modo, uideo, sum, ut, materies, suppeto, scutarius",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,38.0,"si, in, singuli, stipendium, is, ad, hostis, exuuiae, do",9,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.111,-0.111,,0.0
+plautus.epidicus,39.0,"supersedeo, iste, res, iam, tu, ipse, ubi, lubet, finis, fax",10,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"tu, fax",0.2
+plautus.epidicus,40.0,"desisto, perconto, loquor, ipse, ubi, sum, stratippocles",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,41.0,"sum, causa, qui, causa, simul, cum, ego, eo, uereor, sum, quisnam, is, sum",13,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,42.0,"pater, uideo, sui, neuolt, etiam, nunc, quapropter, scio",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,43.0,"quia, forma, lepidus, et, liberal, captiua, adulescentula",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,captiua,0.143
+plautus.epidicus,44.0,"de, praeda, mercor, sum, quis, ego, ex, tu, audio, hic, qui, fabulor",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"mercor, tu, hic",0.25
+plautus.epidicus,45.0,"cur, is, emo, animus, causa, quot, illic, homo, animus, habeo",10,"NaN, NaN, NaN, 0.5, 0.0, NaN, NaN, 0.0, 0.5, NaN",0.1,0.0,emo,0.1
+plautus.epidicus,46.0,"nam, certus, prior, quam, hinc, ad, legio, abeo, domus",9,"NaN, 0.5, 0.5, NaN, NaN, NaN, 0.0, NaN, 0.0",0.111,0.0,,0.0
+plautus.epidicus,47.0,"ipse, mando, ego, ab, leno, ut, fidicino",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,leno,0.143
+plautus.epidicus,48.0,"quam, amo, emo, sui, is, is, impetro, reddo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,emo,0.125
+plautus.epidicus,49.0,"utcumque, in, altus, uenio, sum, epidice, exinde, uelis, uerto",9,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.epidicus,50.0,"uae, mitto, ego, malus, perdo, ego, quis, iste, quisnam, sum",10,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+plautus.epidicus,51.0,"quis, iste, quam, emo, quantus, is, emo, uilis, haud, iste, tu, rogo",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.042,-0.042,"emo, emo, uilis, tu",0.333
+plautus.epidicus,52.0,"quis, igitur, quot, minae, tot, quadraginta, minae",7,"NaN, NaN, NaN, -0.5, NaN, NaN, -0.5",-0.143,-0.143,,0.0
+plautus.epidicus,53.0,"is, adeo, argentum, ab, danista, apud, thebas, sumo, faenus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,faenus,0.111
+plautus.epidicus,54.0,"in, dies, mino, argentum, singulus, nummus, papae",7,"NaN, 0.0, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,nummus,0.143
+plautus.epidicus,55.0,"et, is, danista, aduenio, unus, cum, is, qui, argentum, peto",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,56.0,"deus, immortalis, ut, ego, intereo, basilicon, quis, iam, aut, quis, sum",11,"0.0, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.045,0.0,basilicon,0.091
+plautus.epidicus,57.0,"epidice, perdo, ego, quis, ille, qui, arma, perdo",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.epidicus,58.0,"nam, quis, ita, quia, cottidie, ipse, ad, ego, ab, legio, epistula",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.5",0.045,0.0,,0.0
+plautus.epidicus,59.0,"mittebatsed, taceo, bonus, sum",4,"NaN, NaN, 1.0, NaN",0.25,0.0,,0.0
+plautus.epidicus,60.0,"multus, scio, sero, sum, quam, loquor, seruus, homo, is, sapientia, sum",11,"0.0, NaN, NaN, NaN, NaN, NaN, -0.5, 0.0, NaN, 1.0, NaN",0.045,-0.045,,0.0
+plautus.epidicus,61.0,"nescio, edepol, quis, tu, timidus, sum, trepido, epidice, ita, uultus, tuus",11,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN, 0.0",-0.045,-0.045,"edepol, tu, timidus",0.273
+plautus.epidicus,62.0,"uideo, uideo, commereo, hic, ego, absum, in, tu, aliquis, malus",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.1,-0.1,"hic, tu",0.2
+plautus.epidicus,63.0,"potio, -ne, ut, molestus, ne, sum, abeo, asto, abeo, hinc, non, sino",12,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+plautus.epidicus,64.0,"quis, nunc, ego, retineo, amo, -ne, iste, quam, emo, de, praeda, rogo",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,emo,0.083
+plautus.epidicus,65.0,"depereo, detego, corium, de, tergum, meus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,66.0,"multus, amo, quam, tu, umquam, amo, iuppiter, tu, per-do",9,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"tu, tu",0.222
+plautus.epidicus,67.0,"mitto, nuncia, nam, ille, ego, ueto, domus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,68.0,"uenio, ad, chaeribulis, iubeo, huc, in, proximus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,69.0,"ibi, maneo, iubeo, is, uenio, sum, ipse, quis, ita, dico",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,70.0,"quia, pater, prior, conuenio, sui, non, uolo, neque, conspicaris",9,"NaN, 0.0, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.epidicus,71.0,"quam, is, argentum, qui, debeo, pro, ille, de_-numero",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,72.0,"eu, edepol, res, turbulentus, mitto, ego, ut, is, nuncia",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"edepol, turbulentus",0.222
+plautus.epidicus,73.0,"hic, ubi, scibit, senex",4,"NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.25
+plautus.epidicus,74.0,"puppis, pereo, sum, probus",4,"NaN, NaN, NaN, 1.0",0.25,0.0,probus,0.25
+plautus.epidicus,75.0,"quis, iste, ad, ego, attineo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,76.0,"quo, tu, intereo, modo",4,"NaN, NaN, NaN, NaN",nan,nan,tu,0.25
+plautus.epidicus,77.0,"quia, pereo, solus, nolo, tu, cupio, pereo, cum, ego",9,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN, NaN",-0.056,-0.056,tu,0.111
+plautus.epidicus,78.0,"beneuolens, cum, beneuolens, abeo, in, malus, res, magnus, ab, ego",10,"1.0, NaN, 1.0, NaN, NaN, -1.0, 0.0, 0.0, NaN, NaN",0.1,-0.1,,0.0
+plautus.epidicus,79.0,"cum, istac, condicio, eo, sanus, siquidem, festino, magis",8,"NaN, NaN, 0.0, NaN, 1.0, NaN, NaN, NaN",0.125,0.0,,0.0
+plautus.epidicus,80.0,"numquam, homo, quisquam, conuenio, unde, abeo, libet",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,81.0,"illic, hinc, abeo, solus, nunc, sum, quo, in, locus, hic, res, sum, uideo",13,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",-0.038,-0.038,hic,0.077
+plautus.epidicus,82.0,"epidice, nisi, quis, tu, in, tete, auxilium, sum, absumo, sum",10,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.1
+plautus.epidicus,83.0,"tantus, in, tu, impendo, ruina, nisi, suffulcio, firmiter",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, suffulcio",0.25
+plautus.epidicus,84.0,"non, possum, subsisto, itaque, in, tu, in-ruo, mons, malus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.111,-0.111,tu,0.111
+plautus.epidicus,85.0,"neque, ego, nunc, quo, modo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,86.0,"ego, expedio, ex, impedio, facio, consilium, placeo",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+plautus.epidicus,87.0,"ego, miser, perpulis",3,"NaN, -1.0, NaN",-0.333,-0.333,miser,0.333
+plautus.epidicus,88.0,"meus, dolus, senex, ut, censeo, suus, sui, emo, filia",9,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"dolus, emo",0.222
+plautus.epidicus,89.0,"is, suus, filius",3,"NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,90.0,"fidicina, emo, quam, ipse, amo, quam, abeo, mando, ego",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,emo,0.111
+plautus.epidicus,91.0,"si, sui, nunc, alter, ab, legio, adduco, animus, causa, corium, perdo",11,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.5, 0.0, NaN, NaN",0.045,0.0,,0.0
+plautus.epidicus,92.0,"nam, ubi, senex, sentio",4,"NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.epidicus,93.0,"sui, do, sum, uerbum, uirga, dorsum, despolio, meus",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,94.0,"at, enim, tu, praecaueo",4,"NaN, NaN, NaN, NaN",nan,nan,tu,0.25
+plautus.epidicus,95.0,"at, enimbat, enim, nihil, sum, iste, planus, hic, corrumpo, sum, caput",11,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.091
+plautus.epidicus,96.0,"nequam, homo, sum, epidice",4,"-1.0, 0.0, NaN, NaN",-0.25,-0.25,nequam,0.25
+plautus.epidicus,97.0,"qui, libido, sum, malus, loquor, quia, tu, tete, desero",9,"NaN, -0.5, NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,"libido, tu",0.222
+plautus.epidicus,98.0,"quis, facio, ego, -ne, rogo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,99.0,"tu, quidem, antehac, alius, soleo, do, consilium, mutuus",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, 0.0",0.062,0.0,tu,0.125
+plautus.epidicus,100.0,"aliquis, aliqui, reperiundum, sum, sed, ego, cedo, eo, obuius",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.056,-0.056,,0.0
+plautus.epidicus,101.0,"adulescens, ut, quis, negotium, sum, scio, atque, ipse, illic, sum",10,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN, NaN",-0.05,-0.05,adulescens,0.1
+plautus.epidicus,102.0,"tristis, sum, cum, chaeribulo, incedo, aequal, suus",7,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+plautus.epidicus,103.0,"huc, concedo, oratio, unde, hic, placidus, persequor",7,"NaN, NaN, -0.5, NaN, NaN, 1.0, NaN",0.071,-0.071,hic,0.143
+plautus.epidicus,104.0,"res, tu, sum, ex-loquor, omnis, chaeribulis, atque, admodum",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.125
+plautus.epidicus,105.0,"meus, maeror, atque, amor, summa, edicto, tu",7,"0.0, -1.0, NaN, 1.0, NaN, NaN, NaN",0.0,-0.143,tu,0.143
+plautus.epidicus,106.0,"praeter, aetas, et, uirtus, stultus, sum, stratippocles",7,"NaN, 0.0, NaN, 1.0, -1.0, NaN, NaN",0.0,-0.143,stultus,0.143
+plautus.epidicus,107.0,"is, -ne, pudeo, tu, quia, captiua, genus, prognatus, bonus",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 1.0",0.111,0.0,"pudeo, tu, captiua",0.333
+plautus.epidicus,108.0,"de, praeda, sum, mercor, quis, sum, uitio, qui, is, uerto, tu",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"mercor, tu",0.182
+plautus.epidicus,109.0,"qui, inuideo, omnis, inimicus, ego, ille, facio, reperio",8,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.125,-0.125,,0.0
+plautus.epidicus,110.0,"at, pudicitia, is, numquam, neque, uis, neque, uitium, affero",9,"NaN, 0.5, NaN, NaN, NaN, 1.0, NaN, -1.0, NaN",0.056,-0.111,pudicitia,0.111
+plautus.epidicus,111.0,"iam, istoc, probus, sum, meus, quidem, animus, cum, in, amor, tempero",11,"NaN, NaN, 1.0, NaN, 0.0, NaN, 0.5, NaN, NaN, 1.0, NaN",0.227,0.0,probus,0.091
+plautus.epidicus,112.0,"nihil, ago, qui, diffido, uerbum, solo, suus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,113.0,"is, sum, amicus, qui, in, res, dubius, res, iuuo, ubi, res, sum, opus",13,"NaN, NaN, 1.0, NaN, NaN, 0.0, -0.5, 0.0, NaN, NaN, 0.0, NaN, 0.5",0.077,-0.038,,0.0
+plautus.epidicus,114.0,"quis, tu, ego, uolo, facio, argentum, do, quadraginta, minae",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.056,-0.056,tu,0.111
+plautus.epidicus,115.0,"qui, danista, do, unde, ego, ille, sumo, faenus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,faenus,0.125
+plautus.epidicus,116.0,"si, hercules, habeo, nam, quis, tu, igitur, re-fero",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.epidicus,117.0,"beneficus, sum, oratio, si, ad, res, auxilium, emorior, sum",9,"1.0, NaN, -0.5, NaN, NaN, 0.0, 0.0, NaN, NaN",0.056,-0.056,,0.0
+plautus.epidicus,118.0,"quin, edepol, nos, clamor, differo, dis-flagito",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,edepol,0.167
+plautus.epidicus,119.0,"malo, iste, modus, ego, amicus, furnus, mergo, quam, forum",9,"NaN, NaN, 0.5, NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+plautus.epidicus,120.0,"sed, opera, epidici, nunc, ego, emo, pretium, pretiosus, uolo",9,"NaN, -0.5, NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.056,-0.056,"emo, pretium, pretiosus",0.333
+plautus.epidicus,121.0,"qui, quidem, ego, homo, irrigo, plaga, pistor, do",8,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,122.0,"nisi, hodie, prior, comparassit, ego, quadraginta, minae",7,"NaN, NaN, 0.5, NaN, NaN, NaN, -0.5",0.0,-0.071,,0.0
+plautus.epidicus,123.0,"quam, argentum, sum, ex-loquor, is, posterus, syllaba",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.epidicus,124.0,"saluo, res, sum, bene, promitto, spero, seruo, fides",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,,0.0
+plautus.epidicus,125.0,"sine, meus, sumo, paro, iam, sum, scapulis, symbola",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,126.0,"aggredio, homo, aduenio, peregre, erus, suus, stratippoclem",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,erus,0.143
+plautus.epidicus,127.0,"impertio, salus, seruus, epidicus, ubi, is, sum, adsum",8,"NaN, 1.0, -0.5, NaN, NaN, NaN, NaN, NaN",0.062,-0.062,,0.0
+plautus.epidicus,128.0,"saluus, huc, aduenio, tam, tu, iste, credo, quam, ego",9,"1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,tu,0.111
+plautus.epidicus,129.0,"bene, -ne, usque, ualeo, ab, morbus, ualeo, ab, animus, aeger, sum",11,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, 0.5, -1.0, NaN",-0.136,-0.182,,0.0
+plautus.epidicus,130.0,"qui, ad, ego, attineo, ego, curo, qui, mando, ego",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,131.0,"impetro, sum, emo, ancilla, qui, tueor, ad, ego, littera",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"emo, ancilla",0.222
+plautus.epidicus,132.0,"missiculo, perdo, omnis, opera, nam, qui, perdo",7,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,,0.0
+plautus.epidicus,133.0,"quia, meus, neque, carus, sum, chordus, neque, placeo, quis, re-fero",10,"NaN, 0.0, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+plautus.epidicus,134.0,"ego, tantus, opus, tu, mando, et, mitto, ad, ego, epistula",10,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.1,0.0,tu,0.1
+plautus.epidicus,135.0,"ille, amo, olim, nunc, iam, alius, cura, impendo, pector",9,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.111,-0.111,,0.0
+plautus.epidicus,136.0,"hercules, miser, sum, ingratus, sum, homo, is, qui, facio, bene",10,"NaN, -1.0, NaN, -1.0, NaN, 0.0, NaN, NaN, NaN, NaN",-0.2,-0.2,"miser, ingratus",0.2
+plautus.epidicus,137.0,"ego, qui, bene, facio, malus, facio, quia, amor, muto, locus",10,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, 1.0, NaN, 0.0",0.0,-0.1,,0.0
+plautus.epidicus,138.0,"desipio, mens, cum, ille, scribo, mitto, tu",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,tu,0.143
+plautus.epidicus,139.0,"ego, -ne, piacularis, oportet, fio, ob, stultitia, tuus",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, 0.0",-0.125,-0.125,stultitia,0.125
+plautus.epidicus,140.0,"ut, meus, tergum, tuus, stultitia, subdo, succedaneus",7,"NaN, 0.0, NaN, 0.0, -1.0, NaN, NaN",-0.143,-0.143,stultitia,0.143
+plautus.epidicus,141.0,"quis, istic, uerbum, facio, hic, homo, opus, sum, quadraginta, minae",10,"NaN, NaN, 0.0, NaN, NaN, 0.0, 0.5, NaN, NaN, -0.5",0.0,-0.05,hic,0.1
+plautus.epidicus,142.0,"celer, calidus, danista, qui, resoluo, et, cito",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,143.0,"dico, modo, unde, aufero, ego, uolo, ab, quo, trapezita, peto",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,144.0,"unde, libet, nam, ni, ante, sol, occasus, elo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,145.0,"meus, domus, ne, inbitas, tu, tu, in, pistrinum",8,"0.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"tu, tu",0.25
+plautus.epidicus,146.0,"facilis, tu, iste, sine, periculum, et, cura, cor, liber",9,"0.5, NaN, NaN, NaN, -1.0, NaN, -1.0, NaN, 0.5",-0.111,-0.222,tu,0.111
+plautus.epidicus,147.0,"fabularis, nosco, ego, noster, ego, doleo, cum, ego, uapulo",9,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,148.0,"quis, tu, nunc, patieri, -ne, ut, ego, ego, interimo, ne, facio",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.091
+plautus.epidicus,149.0,"ego, iste, accedo, periculum, potis, atque, audacia",7,"NaN, NaN, NaN, -1.0, 0.0, NaN, 1.0",0.0,-0.143,audacia,0.143
+plautus.epidicus,150.0,"nunc, placo, nunc, ego, tu, laudo, patior, ego, iste, qui, lubet",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.091
+plautus.epidicus,151.0,"quis, ille, fio, fidicino, igitur, aliqui, res, reperibitur",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.epidicus,152.0,"aliqui, ops, exsoluo, extrico, aliqui, plenus, consilium, sum",8,"NaN, 0.0, NaN, NaN, NaN, 0.0, 0.5, NaN",0.062,0.0,,0.0
+plautus.epidicus,153.0,"nosco, ego, tu, sum, euboicus, miles, locuples, multus, aurum, possum",10,"NaN, NaN, NaN, NaN, NaN, 0.0, 1.0, 0.0, 0.5, NaN",0.15,0.0,"tu, locuples",0.2
+plautus.epidicus,154.0,"qui, ubi, tu, iste, emo, sum, scibit, atque, hic, adduco, alter",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, emo, hic",0.273
+plautus.epidicus,155.0,"continuo, tu, oro, ultro, ut, ille, trans-mitto, sui",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.epidicus,156.0,"sed, ubi, ille, sum, quam, tu, adduco, cum, tu, iam, facio, hic, sum",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu, hic",0.231
+plautus.epidicus,157.0,"quis, hic, nunc, ago, eo, intro, huc, ad, tu, ut, hic, hodie, dies",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, tu, hic",0.231
+plautus.epidicus,158.0,"luculentus, habeo, eo, intro, ego, de, res, argentarium",8,"1.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.125,0.0,,0.0
+plautus.epidicus,159.0,"iam, senatus, conuoco, in, cor, consiliarius",6,"NaN, 0.5, NaN, NaN, NaN, 0.5",0.167,0.0,,0.0
+plautus.epidicus,160.0,"qui, potis, indico, bellum, unde, argentum, aufero",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,161.0,"epidice, uideo, quis, ago, ita, res, subeo, hic, obiecto, sum, tu",11,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, tu",0.182
+plautus.epidicus,162.0,"non, enim, nunc, tu, dormito, neque, cuncto, copia, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.056,0.0,tu,0.111
+plautus.epidicus,163.0,"adeo, sum, senex, oppugnaris, certus, sum, consilium, ego",8,"NaN, NaN, 0.0, NaN, 0.5, NaN, 0.5, NaN",0.125,0.0,,0.0
+plautus.epidicus,164.0,"eo, abeo, intro, atque, adulescens, dico, iam, noster, erilis, filius",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,adulescens,0.1
+plautus.epidicus,165.0,"ne, hinc, foras, ambulo, neue, usquam, obuius, uenio, senex",9,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, 0.0",-0.056,-0.056,,0.0
+plautus.epidicus,166.0,"plerusque, homo, qui, cum, nihil, refero, pudeo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,pudeo,0.143
+plautus.epidicus,167.0,"ubi, pudeo, sum, ibi, is, desero, pudor",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,"pudeo, pudor",0.286
+plautus.epidicus,168.0,"cum, utor, sum, ut, pudeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,pudeo,0.2
+plautus.epidicus,169.0,"is, adeo, tu, sum, quis, sum, qui, pudeo, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, pudeo",0.222
+plautus.epidicus,170.0,"genus, nata, bonus, paupero, domus, duco, tu, uxor",8,"0.0, NaN, 1.0, NaN, 0.0, NaN, NaN, 0.0",0.125,0.0,"tu, uxor",0.25
+plautus.epidicus,171.0,"praesertim, is, qui, ex, tu, commemoro, hic, qui, domus, sum",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"tu, hic",0.2
+plautus.epidicus,172.0,"filia, prognatus",2,"NaN, NaN",nan,nan,,0.0
+plautus.epidicus,173.0,"reuerendus, filius, at, pol, ego, tu, credo",7,"1.0, 0.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,tu,0.143
+plautus.epidicus,174.0,"uxor, quam, tu, effero, pudor, exsequor",6,"0.0, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,"uxor, tu, pudor",0.5
+plautus.epidicus,175.0,"qui, quotiens, sepulcrum, uideo, sacrufico",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,sepulcrum,0.2
+plautus.epidicus,176.0,"ilico, orco, hostia, neque, adeo, iniuria",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,hostia,0.167
+plautus.epidicus,177.0,"quia, liceo, sum, is, tu, uiuo, uinco, oh",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, oh",0.25
+plautus.epidicus,178.0,"herculis, ego, sum, dum, ille, cum, ego, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,179.0,"neque, sextus, aerumna, acerbus, hercules, quam, ille, ego, obiecto, sum",10,"NaN, NaN, -0.5, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.15,-0.15,acerbus,0.1
+plautus.epidicus,180.0,"pulcher, edepol, dos, pecunia, sum, qui, quidem, pol, non, marito, sum",11,"1.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.091,0.0,"edepol, pecunia, marito",0.273
+plautus.epidicus,181.0,"st, taceo, habeo, animus, bonus",5,"NaN, NaN, NaN, 0.5, 1.0",0.3,0.0,,0.0
+plautus.epidicus,182.0,"liquidus, exeo, foras, auspicium, auus, sinistra",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,183.0,"acutus, culter, habeo, senex, qui, exenterem, marsuppium",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,marsuppium,0.143
+plautus.epidicus,184.0,"sed, ecce, ipse, ante, aedes, conspicor, apoecide",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,186.0,"qualis, uolo, uetulus, duo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,187.0,"iam, ego, ego, con-uerto, in, hirudo, atque, is, exsugeo, sanguis",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hirudo,0.1
+plautus.epidicus,188.0,"senatus, qui, colume, -ne, clueo",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+plautus.epidicus,189.0,"continuo, ut, maritus, fio, laudo, consilium, tuus",7,"NaN, NaN, 0.0, NaN, NaN, 0.5, 0.0",0.071,0.0,maritus,0.143
+plautus.epidicus,191.0,"nam, ego, ille, audio, in, amor, haereo, apud, nescio, quam, fidicina",11,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.091,0.0,,0.0
+plautus.epidicus,192.0,"is, ego, excrucio, deus, hercules, omnis, ego, adiuuo, augeo, amo",10,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,excrucio,0.1
+plautus.epidicus,193.0,"ipse, hic, quidem, ego, do, uia, quo, pacisco, ab, sui, argentum, aufero",12,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.083
+plautus.epidicus,194.0,"ago, nuncia, orno, tu, epidice, et, palliolum, in, collum, conicio",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.epidicus,195.0,"itaque, ad-simulo, quasi, per, urbs, totus, homo, quaero",8,"NaN, NaN, NaN, NaN, 0.5, NaN, 0.0, NaN",0.062,0.0,,0.0
+plautus.epidicus,196.0,"ago, si, quis, ago, deus, immortalis, utinam, conuenio, domus",9,"NaN, NaN, NaN, NaN, 0.0, 0.5, NaN, NaN, 0.0",0.056,0.0,,0.0
+plautus.epidicus,197.0,"periphanem, per, omnis, urbs, qui, sum, defatiscor, quaero",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.epidicus,198.0,"per, medicina, per, tonstrina, in, gymnasium, atque, in, forum",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,199.0,"per, myropolium, et, laniena, circum, argentaria",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,200.0,"rogito, sum, raucus, facio, paene, in, cursus, concaedes",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,201.0,"epidice, epidicum, quis, sum, qui, reuoco, ego, sum, periphanes",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,202.0,"et, ego, apoecides, sum, et, ego, quidem, sum, epidicus, sed, eremus, bonus",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.083,0.0,,0.0
+plautus.epidicus,203.0,"tu, uideo, opportunitas, ambo, aduenio, quis, res, sum",8,"NaN, NaN, 0.5, NaN, NaN, NaN, 0.0, NaN",0.062,0.0,tu,0.125
+plautus.epidicus,204.0,"mane, dum, sine, respiro, quaeso, immo, adquiesco, animus, malus, sum",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, -1.0, NaN",-0.05,-0.1,,0.0
+plautus.epidicus,205.0,"recipio, anhelitus, clemens, requiesco, animus, ad-uerto",6,"NaN, NaN, 1.0, NaN, 0.5, NaN",0.25,0.0,,0.0
+plautus.epidicus,206.0,"ab, legio, omnis, remitto, sum, domus, thebis, quis, hic",9,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.111
+plautus.epidicus,207.0,"dico, facio, ego, ita, facio, sum, dico, scio, ne, tu, iste, scio",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.083
+plautus.epidicus,208.0,"qui, tu, scio, quia, ego, eo, uideo, miles, plenus, uia",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, 0.0",0.0,0.0,tu,0.1
+plautus.epidicus,209.0,"arma, refero, et, iumentum, duco, nimis, facio, bene",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,210.0,"tum, captiuus, quis, duco, cum, sui, puer, uirgo",8,"NaN, -1.0, NaN, NaN, NaN, NaN, 0.0, NaN",-0.125,-0.125,"captiuus, uirgo",0.25
+plautus.epidicus,211.0,"bini, terni, alius, quinque, fio, concursus, per, uia",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,212.0,"filius, suus, quisque, uiso, hercules, res, gero, bene",8,"0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,213.0,"tum, meretrix, numerus, tantus, quantus, in, urbs, omnis, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.056,0.0,meretrix,0.111
+plautus.epidicus,214.0,"obuius, orno, occurro, suus, quisque, amator",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,amator,0.167
+plautus.epidicus,215.0,"is, capto, is, adeo, qui, magnus, animus, ad-uerto",8,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.5, NaN",0.062,0.0,,0.0
+plautus.epidicus,216.0,"plerus, is, sub, uestimentum, cum, sui, habeo, rete",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,217.0,"cum, ad, porta, uenio, atque, ego, ille, ille, uideo, praestolor",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,218.0,"et, cum, is, tibicina, eo, quattuor, cum, qui, epidice",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,219.0,"cum, ille, quam, tuus, nascor, annus, multus, deamo, depereo",9,"NaN, NaN, NaN, 0.0, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,deamo,0.111
+plautus.epidicus,220.0,"ubi, fides, res, sequor, tu, propero, perdo",7,"NaN, 1.0, 0.0, NaN, NaN, NaN, NaN",0.143,0.0,tu,0.143
+plautus.epidicus,221.0,"is, praestolor, ille, apud, porta, uideo, -ne, uenefica",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,222.0,"sed, uestio, auro, orno, ut, lepidus, ut, concinnus, ut, nouus",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, 1.0",0.2,0.0,uestio,0.1
+plautus.epidicus,223.0,"quis, sum, induo, an, regillus, inducula, an, mendiculus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,224.0,"impluuiatus, ut, iste, facio, uestimentum, nomen",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,225.0,"uti, -ne, impluuium, induo, sum, quis, iste, tam, mirabilis, sum",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,226.0,"quasi, non, fundo, exorno, multus, incedo, per, uia",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,227.0,"at, tributus, cum, impero, sum, nego, pendo, potio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,228.0,"ille, qui, tributus, magnus, pendo, pendo, possum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,229.0,"quis, iste, qui, uestio, quot, nomen, inuenio, nouo",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,uestio,0.125
+plautus.epidicus,230.0,"tunica, rallus, tunica, spissus, linteolum, caesicius",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"rallus, linteolum",0.333
+plautus.epidicus,231.0,"indusiatus, patagiatus, caltulam, aut, crocotula",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,232.0,"subparis, aut, subnimium, rica, basilicon, aut, exoticus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,basilicon,0.143
+plautus.epidicus,233.0,"cumatilis, aut, plumatilis, carinum, aut, cerinumgerrae, magnus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,234.0,"canis, quoque, etiam, adimo, sum, nomen, qui, uoco, laconicum",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,235.0,"hic, uocabulum, auctio, subigo, ut, facio, uir",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.5",0.071,0.0,hic,0.143
+plautus.epidicus,236.0,"quin, tu, ut, occipio, loquor, occipio, alius, mulier",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, mulier",0.25
+plautus.epidicus,237.0,"duo, post, ego, sic, fabularis, inter, seseego, abscedo, scio",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,238.0,"paulus, ab, ille, dissimulo, is, opera, sermo, do",8,"NaN, NaN, NaN, NaN, NaN, -0.5, -0.5, NaN",-0.125,-0.125,,0.0
+plautus.epidicus,239.0,"neque, satis, exaudio, neque, sermo, fallo, tamen",7,"NaN, 0.5, NaN, NaN, -0.5, NaN, NaN",0.0,-0.071,fallo,0.143
+plautus.epidicus,240.0,"qui, loquor, is, libido, sum, scio, ibi, ille, alter",9,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.056,-0.056,libido,0.111
+plautus.epidicus,241.0,"dico, ille, cum, qui, ipse, eo, quis, taceo, ergo, ut, audio",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,242.0,"postquam, ille, sum, conspicor, quam, tuus, nascor, depereo",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,243.0,"quam, facilis, et, quam, fortuno, euenio, ille, obsecro",8,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.epidicus,244.0,"mulier, quam, liberaris, uolo, amator, quisnam, is, sum",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"mulier, amator",0.25
+plautus.epidicus,245.0,"inquam, alter, ille, ibi, ille, nomino, stratippoclem",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,246.0,"periphanai, filius, pereo, hercules, quis, ego, ex, tu, audio",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.111
+plautus.epidicus,247.0,"hic, qui, ago, sum, nos, postquam, is, ille, audio, loquor",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.1
+plautus.epidicus,248.0,"coepio, rursum, uerto, ad, ille, pauxillatim, accedo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,249.0,"quasi, retrudo, homo, ego, uolo, inuitus, intellego",7,"NaN, NaN, 0.0, NaN, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+plautus.epidicus,250.0,"ibi, ille, interrogo, ille, qui, scio, quis, is, dico, tu",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.epidicus,251.0,"quin, hodie, affero, tabella, sum, ad, is, ab, stratippocle",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,252.0,"is, argentum, sumo, apud, thebas, ab, danista, faenus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,faenus,0.125
+plautus.epidicus,253.0,"is, paro, et, sui, ob, is, res, is, fero, certus, ego, occido",12,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.5, NaN, NaN",0.042,0.0,occido,0.083
+plautus.epidicus,254.0,"hic, sic, aio, sic, audio, ex, eapse, atque, epistula",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.056,0.0,hic,0.111
+plautus.epidicus,255.0,"quis, ego, nunc, facio, consilium, ab, tu, expetesso, apoecides",9,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.056,0.0,tu,0.111
+plautus.epidicus,256.0,"reperio, aliquis, calidus, conducibilis, consilium",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+plautus.epidicus,257.0,"nam, ille, quidem, aut, iam, hic, adsum, credo, hercules, aut, iam, adsum, si, aequus, sum",15,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.033,0.0,hic,0.067
+plautus.epidicus,258.0,"ego, multus, sapio, quam, tu, do, tu, consilium, catus",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.5, 1.0",0.167,0.0,"tu, tu",0.222
+plautus.epidicus,259.0,"qui, laudo, ut, ego, opino, uterque, ergo, ubi, is, sum, epidice",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,opino,0.091
+plautus.epidicus,260.0,"atque, ad, is, res, conducibilis, quis, iste, dubito, dico",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,261.0,"tu, prior, sum, oportet, nos, posterus, dico",7,"NaN, 0.5, NaN, NaN, NaN, 0.0, NaN",0.071,0.0,tu,0.143
+plautus.epidicus,262.0,"qui, multus, sapio, eia, uerus, ago, dico, at, derideo",9,"NaN, 0.0, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.056,0.0,derideo,0.111
+plautus.epidicus,263.0,"non, edepol, facio, immo, si, placeo, utitor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,edepol,0.143
+plautus.epidicus,264.0,"consilium, si, non, placeo, reperio, rectus",6,"0.5, NaN, NaN, NaN, NaN, 1.0",0.25,0.0,,0.0
+plautus.epidicus,265.0,"ego, istic, neque, sero, neque, metior, nisi, is, qui, tu, uolo, uolo",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.083
+plautus.epidicus,266.0,"gratia, habeo, facio, particeps, nos, tuus, sapientia",7,"1.0, NaN, NaN, 0.0, NaN, 0.0, 1.0",0.286,0.0,,0.0
+plautus.epidicus,267.0,"continuo, arbitror, uxor, tuus, nascor, atque, ut, fidicina",8,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,uxor,0.125
+plautus.epidicus,268.0,"ille, quam, is, uolo, liberaris, qui, ille, corrumpo, tu",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.epidicus,269.0,"ulciscaris, atque, ita, curo, usque, ad, mors, ut, seruio",9,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.111,-0.111,,0.0
+plautus.epidicus,270.0,"fio, oportet, facio, cupio, quiuis, dum, is, fio, modo, em",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,271.0,"nunc, occasio, sum, facio, prior, quam, in, urbs, aduenio",9,"NaN, 0.5, NaN, NaN, 0.5, NaN, NaN, 0.5, NaN",0.167,0.0,,0.0
+plautus.epidicus,272.0,"sicut, creo, hic, adsum, hodie, non, uenio, qui, scio, scio",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.1
+plautus.epidicus,273.0,"quia, ego, alius, dico, qui, illinc, uenio, mane, hic, adsum",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.1
+plautus.epidicus,274.0,"quin, tu, eloquor, quis, facio, sic, facio, censeo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.epidicus,275.0,"quasi, tu, cupio, liberaris, fidicina, animus, gratia",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 1.0",0.214,0.0,tu,0.143
+plautus.epidicus,276.0,"quasi, amo, uehemens, tu, ille, quam, ad, res, iste, refero, rogo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.091
+plautus.epidicus,277.0,"ut, enim, praestino, argentum, prior, quam, uenio, filius",8,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, 0.0",0.062,0.0,,0.0
+plautus.epidicus,278.0,"atque, ut, is, tu, in, libertas, dico, emo, intellego",9,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.056,0.0,"tu, emo",0.222
+plautus.epidicus,279.0,"ubi, sum, emo, ut, aliquis, ex, urbs, amoueo, nisi, quis, sum, tuus",12,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, 0.0",0.042,0.0,emo,0.083
+plautus.epidicus,280.0,"secus, sententia, immo, doceo, quis, tuus, autem, apoecides",8,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,281.0,"quis, ego, iam, nisi, tu, commentus, nimis, astus, intellego",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.056,-0.056,"tu, astus",0.222
+plautus.epidicus,282.0,"iam, simul, igitur, amoueo, is, sum, omnis, consultatio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,283.0,"nuptiae, ne, grauo, qui, uelis, uiuo, sapio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,nuptiae,0.143
+plautus.epidicus,284.0,"et, placeo, tum, tu, igitur, calidus, quisquis, ago",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.epidicus,285.0,"res, hercules, loquor, et, reperio, hic, tu, qui, abscedo, suspicio",10,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.05,-0.05,"hic, tu",0.2
+plautus.epidicus,286.0,"sine, ego, scio, scibis, audio, sapio, hic, plenus, pectus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.111
+plautus.epidicus,287.0,"opus, sum, homo, qui, ille, argentum, defero, pro, fidicino",9,"0.5, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.epidicus,288.0,"nam, tu, nolo, neque, opus, facio, sum, quis, iam, ne, tu, censeo",12,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.042,0.0,"tu, tu",0.167
+plautus.epidicus,289.0,"filis, causa, facio, doceo, quo, ille, ab, ille, prohibeo",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,290.0,"ne, qui, ob, is, suspicio, difficultas, euenat",7,"NaN, NaN, NaN, NaN, -0.5, -0.5, NaN",-0.143,-0.143,,0.0
+plautus.epidicus,291.0,"qui, homo, inuenio, ad, is, res, utilis, hic, sum, bonus",10,"NaN, 0.0, NaN, NaN, NaN, 0.0, 1.0, NaN, NaN, 1.0",0.2,0.0,hic,0.1
+plautus.epidicus,292.0,"hic, possum, caueo, rectus, ius, qui, et, lex, teneo",9,"NaN, NaN, NaN, 1.0, 0.5, NaN, NaN, 0.5, NaN",0.222,0.0,hic,0.111
+plautus.epidicus,293.0,"epidico, habeo, gratia, sed, ego, iste, facio, sedulus",8,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+plautus.epidicus,294.0,"ego, ille, conuenio, atque, adduco, hic, ad, is, quoia, sum, fidicino",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.091
+plautus.epidicus,295.0,"atque, argentum, ego, cum, hic, fero, quantus, emo, possum, paruus, ille",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, emo",0.182
+plautus.epidicus,296.0,"ad, quadraginta, fortasse, is, possum, emo, paruus, minae",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, -0.5",-0.062,-0.062,emo,0.125
+plautus.epidicus,297.0,"uerus, si, multus, do, refero, nihil, in, is, res, captio, sum",11,"0.5, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0, -1.0, NaN",-0.045,-0.091,,0.0
+plautus.epidicus,298.0,"atque, is, non, decem, occupo, tu, sum, argentum, dies",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.111
+plautus.epidicus,299.0,"quidum, quia, enim, mulier, alius, ille, adulescens, depereo",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"mulier, adulescens",0.25
+plautus.epidicus,300.0,"aurum, opulentus, magnus, miles, rhodius, raptor, hostis",7,"0.5, NaN, 0.0, 0.0, NaN, NaN, -1.0",-0.071,-0.143,raptor,0.143
+plautus.epidicus,301.0,"gloriosus, is, emeo, ille, de, tu, et, do, aurum, libet",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.05,0.0,tu,0.1
+plautus.epidicus,302.0,"fax, modo, sum, lucrum, hic, tu, amplus, deus, quidem, oro, impetro",11,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.045,0.0,"fax, hic, tu",0.273
+plautus.epidicus,303.0,"quin, tu, is, intro, atque, hic, argentum, promo, ego, uideo, ad, forum",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, hic",0.167
+plautus.epidicus,304.0,"epidice, is, uenio, ne, abeo, prior, quam, ego, ad, tu, uenio",11,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.045,0.0,tu,0.091
+plautus.epidicus,305.0,"usque, opperior, sequor, tu, intro, eo, numero, nihil, ego, tu, moror",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.182
+plautus.epidicus,306.0,"nullus, sum, opinor, ego, ager, in, ager, attico",8,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.epidicus,307.0,"aequus, ferax, quam, hic, sum, noster, periphanes",7,"0.5, 1.0, NaN, NaN, NaN, NaN, NaN",0.214,0.0,hic,0.143
+plautus.epidicus,308.0,"quin, ex, occludo, atque, obsigno, armarium",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,309.0,"decutio, argentum, tantus, quantus, ego, lubet",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,310.0,"qui, pol, ego, metuo, si, senex, re-scio",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.epidicus,311.0,"ne, ulmus, parasitus, facio, qui, usque, attondeo",7,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.071,-0.071,parasitus,0.143
+plautus.epidicus,312.0,"sed, ego, unus, turbo, res, ratio, apoecidi",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+plautus.epidicus,313.0,"quam, ostendo, fidicina, aliqui, conducticius",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,314.0,"atque, is, quoque, habeo, mane, ego, iubeo, senex",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,315.0,"conduco, aliqui, fidicina, sui, huc, domus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,316.0,"qui, dum, res, dine, facio, canto, sui",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.epidicus,317.0,"is, conduco, atque, is, praemonstro",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,318.0,"quo, pacisco, fio, subdolus, aduerro, senex",6,"NaN, NaN, NaN, -1.0, NaN, 0.0",-0.167,-0.167,subdolus,0.167
+plautus.epidicus,319.0,"eo, intro, argentum, accipio, ab, damnosus, seni",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,320.0,"expectando, exedo, miser, atque, exenteror",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,miser,0.2
+plautus.epidicus,321.0,"quo, modo, ego, epidici, blandus, dictum, euenant",7,"NaN, NaN, NaN, NaN, 0.5, 0.0, NaN",0.071,0.0,,0.0
+plautus.epidicus,322.0,"nimis, diu, macero, sum, quis, necne, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,323.0,"scio, cupio, per, ille, tu, copia",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,tu,0.167
+plautus.epidicus,324.0,"copia, paro, alius, licet, scio, equidem, in, principium, ilico",9,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.epidicus,325.0,"nullus, tu, sum, in, ille, copia, intereo, hercules, ego",9,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.056,0.0,tu,0.111
+plautus.epidicus,326.0,"absurdus, facio, qui, ango, tu, animus, si, hercules, ego, ille, semel, prendero",12,"-1.0, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",-0.042,-0.083,tu,0.083
+plautus.epidicus,327.0,"numquam, irrideo, nos, ille, inultus, sino, seruus, homo",8,"NaN, NaN, NaN, NaN, -0.5, NaN, -0.5, 0.0",-0.125,-0.125,inultus,0.125
+plautus.epidicus,328.0,"quis, ille, facio, uolo, qui, tu, qui, diuitiae, domus, magnus, sum",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, 0.0, 0.0, NaN",0.045,0.0,tu,0.091
+plautus.epidicus,329.0,"is, nummus, nullus, habeo, neque, sodal, tuus, in, tu, copia, sum",11,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.5, NaN",0.045,0.0,"nummus, tu",0.182
+plautus.epidicus,331.0,"si, hercules, habeo, polliceo, libet, uerus, aliquis, aliqui, aliquis, modo",10,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.epidicus,332.0,"alicunde, ab, aliqui, aliqui, tu, spes, sum, sum, bonus, fortuna",10,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, 1.0, 0.0",0.15,0.0,tu,0.1
+plautus.epidicus,333.0,"uae, tu, muricidus, homo, qui, tu, lubet, ego, malus, loquor",10,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, -1.0, NaN",-0.1,-0.1,"tu, tu",0.2
+plautus.epidicus,334.0,"quippe, tu, ego, aliquis, aliquis, modo, alicunde, ab, aliqui, blatio",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.epidicus,335.0,"qui, nusquam, sum, neque, ego, is, in-mitto, in, auris, meus",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,336.0,"neque, ego, multus, adiumentum, adsum, quam, ille, qui, numquam, etiam, nascor, sum",12,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,337.0,"facio, iam, officium, tuus, ego, meus, nunc, facio, oportet",9,"NaN, NaN, 0.5, 0.0, NaN, 0.0, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.epidicus,338.0,"per, hic, cura, quiesco, tu, licet, essehoc, quidem, iam, pereo",10,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.1,-0.1,"hic, tu",0.2
+plautus.epidicus,339.0,"ne, quis, tu, hinc, in, spes, refero, oppidum, hic, pollingo, sum",11,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.045,0.0,"tu, hic",0.182
+plautus.epidicus,340.0,"credo, modo, ego, sic, ego, ago, sic, egero, noster",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,341.0,"pro, deus, immortalis, ego, hic, dies, do, luculentus",8,"NaN, 0.0, 0.5, NaN, NaN, 0.0, NaN, 1.0",0.188,0.0,hic,0.125
+plautus.epidicus,342.0,"ut, facilis, atque, impetrabilis, sed, ego, hinc, migraris, cedo",9,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.epidicus,343.0,"ut, importo, in, colonia, hic, meus, auspicium, commeatus",8,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,hic,0.125
+plautus.epidicus,344.0,"ego, cedo, cum, sto, sed, quis, hic, ante, aedes, duo, sodal",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.091
+plautus.epidicus,345.0,"erus, et, chaeribulis, conspicor, quis, hic, ago, accipio, hic, sum",10,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"erus, hic, hic",0.3
+plautus.epidicus,346.0,"quantus, hic, insum, quantus, satis, sum, et, multus, satis, superfio",10,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, 0.0, 0.5, NaN",0.1,0.0,hic,0.1
+plautus.epidicus,347.0,"decem, minae, multus, affero, quam, tu, danista, debeo",8,"NaN, -0.5, 0.0, NaN, NaN, NaN, NaN, NaN",-0.062,-0.062,tu,0.125
+plautus.epidicus,348.0,"dum, tu, ego, placeo, atque, obsequor, meus, tergum, floccus, facio",10,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.1
+plautus.epidicus,349.0,"nam, quis, ita, quia, ego, tuus, pater, facio, parenticida",9,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,350.0,"quis, iste, sum, uerbum, nihil, moror, uetero, et, uulgo, uerbum",10,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,351.0,"peratum, ducto, ego, follitum, ductito",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,352.0,"nam, leno, omnis, argentum, aufero, pro, fidicino, ego, resoluo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,leno,0.111
+plautus.epidicus,353.0,"manus, hic, de_-numero, pater, suus, nata, quam, sum, credo",9,"0.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.111
+plautus.epidicus,354.0,"nunc, iterum, ut, fallo, pater, tu, auxilium, appareo",8,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,"fallo, tu",0.25
+plautus.epidicus,355.0,"inuenio, nam, ita, suadeo, senex, atque, hic, habeo, oratio",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, -0.5",-0.056,-0.056,hic,0.111
+plautus.epidicus,356.0,"ut, cum, redeo, ne, tu, is, copia, sum, euge",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.056,0.0,tu,0.111
+plautus.epidicus,357.0,"is, iam, domus, sum, pro, filia, iam, teneo, nunc, cautor",10,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,358.0,"do, ego, ad, hic, res, apoecidem, is, apud, forum, maneo, ego",11,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.091
+plautus.epidicus,359.0,"quasi, amo, caueat, haud, malus, iam, ipse, cautor, capio, sum",10,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+plautus.epidicus,360.0,"ipse, in, meus, collum, tuus, pater, cruminam, colloco",8,"NaN, NaN, 0.0, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,361.0,"is, adorno, aduenio, domus, extemplo, ut, maritus, fio",8,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,maritus,0.125
+plautus.epidicus,362.0,"uno, persuadeo, modo, si, ille, qui, adduco, sum, cum, ego",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,363.0,"ego, a-demo, orcus, nunc, ego, hic, astutia, instituo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.epidicus,364.0,"deuenio, ad, leno, domus, nos, solus, is, ego, doceo",9,"NaN, NaN, NaN, 0.0, NaN, -0.5, NaN, NaN, NaN",-0.056,-0.056,leno,0.111
+plautus.epidicus,365.0,"si, quis, ad, is, aduenio, ut, sui, sum, do, argentum, dico",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,366.0,"pro, fidicino, argentum, minae, sui, habeo, quinquaginta",7,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,,0.0
+plautus.epidicus,367.0,"quippe, ego, qui, nudiustertius, meus, manus, de_-numero",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+plautus.epidicus,368.0,"pro, ille, tuus, amicus, quam, pater, suus, filia, sum, reor",10,"NaN, NaN, 0.0, 1.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+plautus.epidicus,369.0,"ibi, leno, scelero, caput, suus, imprudens, alligo",7,"NaN, NaN, NaN, 0.0, NaN, -0.5, NaN",-0.071,-0.071,"leno, scelero",0.286
+plautus.epidicus,370.0,"quasi, pro, ille, argentum, accipio, qui, cum, tu, adduco, nunc, sum",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.091
+plautus.epidicus,371.0,"uersutus, sum, quam, rota, figularis, iam, ego, paro",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,372.0,"aliqui, dolosus, fidicina, nummus, conduco, qui, sum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,nummus,0.143
+plautus.epidicus,373.0,"qui, sui, emo, simulo, qui, senex, duo, doceo, ludifico",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,emo,0.111
+plautus.epidicus,374.0,"is, duco, simul, apoecides, ad, tuus, pater, ut, paro",9,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,375.0,"is, permeditatus, meus, dolus, astutia, onustus",6,"NaN, NaN, 0.0, NaN, NaN, -0.5",-0.083,-0.083,dolus,0.167
+plautus.epidicus,376.0,"mitto, sed, nimis, longus, loquor, diu, ego, sum, demoror",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,377.0,"hic, scio, iam, ut, sum, sum, abeo, bene, ambulo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.epidicus,378.0,"nimis, doceo, ille, sum, ad, malus, facio, ego, equidem, certus",10,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, 0.5",-0.05,-0.1,,0.0
+plautus.epidicus,379.0,"seruo, consilium, suus, abeo, intro, hinc, ad, ego",8,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.epidicus,380.0,"atque, aliquantus, libet, quam, abs, tu, sum, egredior, intus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.epidicus,381.0,"uirtus, atque, auspicium, epidici, cum, praeda, in, castrum, redeo",9,"1.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.epidicus,382.0,"non, ora, causa, modo, homo, aequus, sum",7,"NaN, NaN, 0.0, NaN, 0.0, 0.5, NaN",0.071,0.0,,0.0
+plautus.epidicus,383.0,"sui, habeo, speculum, ubi, os, contemplo, suus",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,384.0,"sed, qui, perspicio, possum, cor, sapientia",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+plautus.epidicus,385.0,"igitur, perspicio, ut, possum, chordus, copia",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+plautus.epidicus,386.0,"ubi, is, inspicio, cogito, postea",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,387.0,"uita, ut, uiuo, olim, in, adulescentia",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,388.0,"uel, ego, qui, dudum, filis, causa, coepio",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.epidicus,389.0,"ego, ego, excruciaris, animus, quasi, quis, filius",7,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0",0.071,0.0,,0.0
+plautus.epidicus,390.0,"meus, delinquo, ego, erga, aut, quasi, non, multus",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,391.0,"malus, facio, meus, sum, solidus, in, adulescentia",7,"-1.0, NaN, 0.0, NaN, 0.0, NaN, NaN",-0.143,-0.143,,0.0
+plautus.epidicus,392.0,"profecto, deliro, interdum, senex",4,"NaN, NaN, NaN, 0.0",0.0,0.0,deliro,0.25
+plautus.epidicus,393.0,"sum, conducibilis, hic, quidem, meus, sententia",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,hic,0.167
+plautus.epidicus,394.0,"sed, meus, sodalis, eo, cum, praeda, apoecides",7,"NaN, 0.0, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+plautus.epidicus,395.0,"uenio, saluus, mercator, gaudeo",4,"NaN, 1.0, NaN, NaN",0.25,0.0,,0.0
+plautus.epidicus,396.0,"quis, fio, deus, deferuesco, tu, adiuuo, omen, placeo",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.125
+plautus.epidicus,397.0,"quin, omen, omnis, suppeto, res, prosperus",6,"NaN, NaN, NaN, NaN, 0.0, 1.0",0.167,0.0,,0.0
+plautus.epidicus,398.0,"sed, tu, hic, iubeo, sum, intro, abduco, heus, foras",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, hic",0.222
+plautus.epidicus,399.0,"exeo, huc, aliquis, dux, iste, intro, mulier",7,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0",0.071,0.0,mulier,0.143
+plautus.epidicus,400.0,"atque, audio, -ne, quis, uolo, caueo, sino, cum, filia",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,401.0,"meus, copularis, hic, neque, conspicio, iam, teneo",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.143
+plautus.epidicus,402.0,"in, aedicula, iste, sorsum, concludo, uolo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,403.0,"diuorto, mos, uirgo, longus, atque, lupa",6,"NaN, 0.5, NaN, 0.0, NaN, NaN",0.083,0.0,uirgo,0.167
+plautus.epidicus,404.0,"doceo, et, sapienter, dico, num, nimis, possum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,405.0,"pudicitia, quisquam, suus, seruaris, filia",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,pudicitia,0.2
+plautus.epidicus,406.0,"edepol, ne, iste, temperi, nascor, tuus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,edepol,0.167
+plautus.epidicus,407.0,"sum, praemercor, quis, iam, quia, dico, ego",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,408.0,"iam, dudum, sui, alius, tuus, uideo, hic, filius",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,hic,0.125
+plautus.epidicus,409.0,"hic, edepol, res, appario, planus, hercules, hic, quidem, sum",9,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"hic, edepol, hic",0.333
+plautus.epidicus,410.0,"ne, tu, habeo, seruus, graphicus, et, quantus, pretium",8,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, 1.0",0.062,-0.062,"tu, pretium",0.25
+plautus.epidicus,411.0,"non, carus, sum, aurum, contra, ut, ille, fidicina",8,"NaN, 1.0, NaN, 0.5, NaN, NaN, NaN, NaN",0.188,0.0,,0.0
+plautus.epidicus,412.0,"facio, sui, ut, nescio, sum, emo, tu",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"emo, tu",0.286
+plautus.epidicus,413.0,"ita, ridibundus, atque, hilarus, huc, adduco, simul",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+plautus.epidicus,414.0,"mirus, hic, qui, possum, fio, tu, pro, filius",8,"1.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.125,0.0,"hic, tu",0.25
+plautus.epidicus,415.0,"facio, dico, res, sum, diuina, domus",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,416.0,"quia, thebis, saluus, redeo, recingo, insto",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+plautus.epidicus,417.0,"immo, ipse, ille, dico, conduco, sum, is",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,418.0,"qui, hic, administro, ad, res, diuina, tu",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"hic, tu",0.286
+plautus.epidicus,419.0,"facio, hic, dico, res, sum, diuina, tu, domus",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, tu",0.25
+plautus.epidicus,420.0,"ego, illic, ego, autem, sic, assimulo, quasi",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,421.0,"stolidus, combardum, ego, facio, em, iste, decet",7,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,stolidus,0.143
+plautus.epidicus,422.0,"res, magnus, amicus, apud, forum, ago, is, uolo",8,"0.0, 0.0, 1.0, NaN, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+plautus.epidicus,423.0,"eo, aduoco, at, quaeso, ubi, sum, otium",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,otium,0.143
+plautus.epidicus,424.0,"reuorto, ad, ego, extemplo, continuo, hic, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.epidicus,425.0,"nihil, homo, amicus, sum, opportunus, amicus",6,"NaN, 0.0, 1.0, NaN, NaN, 1.0",0.333,0.0,,0.0
+plautus.epidicus,426.0,"sine, tuus, labor, qui, uelis, ago, sum, tamen",8,"NaN, 0.0, -0.5, NaN, NaN, NaN, NaN, NaN",-0.062,-0.062,,0.0
+plautus.epidicus,427.0,"ego, si, allego, aliquis, ad, hic, negotium",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,hic,0.143
+plautus.epidicus,428.0,"paruus, homo, doceo, paruus, ad, hic, res, callidus",8,"0.0, 0.0, NaN, 0.0, NaN, NaN, 0.0, 1.0",0.125,0.0,"hic, callidus",0.25
+plautus.epidicus,429.0,"os, sublino, sum, itaque, ego, albus, dens",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,430.0,"meus, derideo, filius, mereo",4,"0.0, NaN, 0.0, NaN",0.0,0.0,derideo,0.25
+plautus.epidicus,435.0,"sed, quis, hic, sum, qui, ego, huc, aduenio, conspicor",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.epidicus,436.0,"suus, qui, undo, chlamys, quasso, facio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,437.0,"caueo, praeterbito, ullus, aedes, quin, rogo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,438.0,"senex, hic, ubi, habito, periphanes, platenius",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.167
+plautus.epidicus,439.0,"incertus, tuus, caueo, ad, ego, refero, pedis",7,"-0.5, 0.0, NaN, NaN, NaN, NaN, 0.0",-0.071,-0.071,,0.0
+plautus.epidicus,440.0,"adulescens, si, iste, homo, qui, tu, quaerito",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"adulescens, tu",0.286
+plautus.epidicus,441.0,"tu, commonstrasso, ecqui, abs, tu, ineo, gratia",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,"tu, tu",0.286
+plautus.epidicus,442.0,"uirtus, bellum, armo, promereo, ut, ego",6,"1.0, 0.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+plautus.epidicus,443.0,"omnis, mortalis, ago, decet, gratia",5,"NaN, -1.0, NaN, NaN, 1.0",0.0,-0.2,,0.0
+plautus.epidicus,444.0,"non, reperio, adulescens, tranquillus, locus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,adulescens,0.2
+plautus.epidicus,445.0,"ubi, tuus, uirtus, explico, ut, postulo",6,"NaN, 0.0, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+plautus.epidicus,446.0,"nam, strenuus, deterior, si, praedico",5,"NaN, 1.0, -1.0, NaN, NaN",0.0,-0.2,,0.0
+plautus.epidicus,447.0,"suus, pugna, de, ille, ille, fio, sordidus",7,"NaN, -1.0, NaN, NaN, NaN, NaN, -1.0",-0.286,-0.286,sordidus,0.143
+plautus.epidicus,448.0,"sed, iste, qui, quaero, periphanem, platenium",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,449.0,"ego, sum, si, quis, uolo, nempe, qui, in, adulescentia",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,450.0,"memoro, apud, rex, arma, ars, duellica",6,"NaN, NaN, 0.0, 0.0, 0.0, NaN",0.0,0.0,,0.0
+plautus.epidicus,451.0,"diuitiae, magnus, indipiscor, immo, si, audio",6,"0.5, 0.0, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+plautus.epidicus,452.0,"meus, pugna, fugio, manus, dimitto, domus",6,"0.0, -1.0, NaN, 0.0, NaN, 0.0",-0.167,-0.167,,0.0
+plautus.epidicus,453.0,"pol, ego, magis, unus, quaero, meus, qui, praedico",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,454.0,"quam, ille, qui, memoro, suus, ego, hic, non, sum, locus",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.1
+plautus.epidicus,455.0,"pro-eo, -ne, tu, alius, quaero, qui, cento, sarcio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.epidicus,455.1,"atque, hic, stultitia, sum, ego, ille, uitio, uerto",8,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.125,-0.125,"hic, stultitia",0.25
+plautus.epidicus,455.2,"nos, qui, factito, in, adulescentia",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,455.3,"cum, milito, pugna, memoro, meus",5,"NaN, 0.0, -1.0, NaN, 0.0",-0.2,-0.2,,0.0
+plautus.epidicus,455.4,"eradico, homo, auris, quando, occipio",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,456.0,"animus, ad-uerto, ut, qui, ego, ad, tu, aduenio, intellego",9,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.056,0.0,tu,0.111
+plautus.epidicus,457.0,"meus, amica, audio, tu, sum, mercor, attatae",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"tu, mercor",0.286
+plautus.epidicus,458.0,"nunc, demum, scio, ego, hic, qui, sum, qui, dudum, epidicus",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.1
+plautus.epidicus,459.0,"ego, praedico, miles, adulescens, ita, sum",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,adulescens,0.167
+plautus.epidicus,460.0,"ut, dico, emo, uolo, tu, uerbum, pauculis",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"emo, tu",0.286
+plautus.epidicus,461.0,"si, tu, molestus, non, sum, non, edepol, scio",8,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.125,-0.125,"tu, edepol",0.25
+plautus.epidicus,462.0,"molestus, necne, sum, nisi, dico, quis, uelis",7,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+plautus.epidicus,463.0,"ego, ille, ut, trans-mitto, argentum, accipio, adsum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,464.0,"nam, quis, ego, apud, tu, uerus, parco, proloquor",8,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.062,0.0,tu,0.125
+plautus.epidicus,465.0,"ego, ille, uolo, hodie, facio, liberta, meus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,466.0,"ego, concubina, qui, sum, tu, absoluo, breuis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"concubina, tu",0.286
+plautus.epidicus,467.0,"argentum, quinquaginta, ego, ille, emo, sum, minae",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,emo,0.143
+plautus.epidicus,468.0,"si, sexa_ginta, ego, de_-numero, minae",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,,0.0
+plautus.epidicus,469.0,"tuus, possideo, mulier, facio, ferio",5,"0.0, NaN, 0.0, NaN, NaN",0.0,0.0,mulier,0.2
+plautus.epidicus,470.0,"atque, ita, profecto, ut, is, ex, hic, exonero, ager",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.111
+plautus.epidicus,471.0,"sum, -ne, emo, ego, iste, lex, habeo, licet",8,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.062,0.0,emo,0.125
+plautus.epidicus,472.0,"concilio, pulcher, heus, foras, educo",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+plautus.epidicus,473.0,"quam, introduco, fidicina, atque, etiam, fides",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+plautus.epidicus,474.0,"is, qui, accedo, tu, addo, donum, gratia",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 1.0",0.143,0.0,tu,0.143
+plautus.epidicus,475.0,"ago, accipio, hic, sum, qui, tu, intemperiae, teneo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.25
+plautus.epidicus,476.0,"qui, tu, ego, tenebrae, trudo, quin, tu, fidicina",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.25
+plautus.epidicus,477.0,"produco, intus, iubeo, hic, ergo, sum, fidicino",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.epidicus,478.0,"hic, alius, nullus, sum, non, ego, nugaris, possum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.epidicus,479.0,"quin, tu, huc, produco, fidicina, acropolistidem",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.epidicus,480.0,"hic, inquam, sum, non, hic, inquam, sum, non, nosco, ego",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.2
+plautus.epidicus,481.0,"meus, reor, amica, possum, hic, inquam, filius",7,"0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+plautus.epidicus,482.0,"meus, depereo, fidicina, hic, non, sum, is",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.143
+plautus.epidicus,483.0,"quis, non, sum, non, sum, unde, hic, igitur, gens, sum",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.1
+plautus.epidicus,484.0,"equidem, hercules, argentum, pro, hic, do, stultus, do",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,"hic, stultus",0.25
+plautus.epidicus,485.0,"reor, et, peccatum, largiter, immo, hic, is, sum",8,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.125,-0.125,hic,0.125
+plautus.epidicus,486.0,"nam, seruus, mitto, qui, ille, sectaris, soleo",7,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+plautus.epidicus,487.0,"meus, nascor, is, ipse, hic, destino, fidicina",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.143
+plautus.epidicus,488.0,"em, istic, homo, tu, articulatim, concido, senex",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+plautus.epidicus,489.0,"tuus, seruus, quis, concido, sic, suspicio, sum",7,"0.0, -0.5, NaN, NaN, NaN, -0.5, NaN",-0.143,-0.143,,0.0
+plautus.epidicus,490.0,"nam, pro, fidicino, hic, cerua, suppono, sum, tu",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"hic, tu",0.25
+plautus.epidicus,491.0,"senex, tu, os, sum, sublino, planus, et, probus",8,"0.0, NaN, 0.0, NaN, NaN, 0.0, NaN, 1.0",0.125,0.0,"tu, probus",0.25
+plautus.epidicus,492.0,"ego, ille, requiro, iam, ubi, ubi, sum, bellator, ual",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,493.0,"euge, euge, epidice, frugi, sum, pugno, homo, sum",8,"NaN, NaN, NaN, 1.0, NaN, NaN, 0.0, NaN",0.125,0.0,frugi,0.125
+plautus.epidicus,494.0,"qui, ego, emungo, mucidus, minimus, pretium",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,"mucidus, pretium",0.333
+plautus.epidicus,495.0,"mercor, tu, hodie, sum, de, leno, apoecides",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"mercor, tu, leno",0.429
+plautus.epidicus,496.0,"for, ego, iste, homo, numquam, audio, ante, hic, dies",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.111
+plautus.epidicus,497.0,"neque, ego, quidem, emo, quisquam, ullus, pecunia",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"emo, pecunia",0.286
+plautus.epidicus,498.0,"possum, multus, iam, sum, liber, quinquennium",6,"NaN, 0.0, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+plautus.epidicus,499.0,"quis, tu, negotium, sum, meus, domus, igitur, audio",8,"NaN, NaN, -0.5, NaN, 0.0, 0.0, NaN, NaN",-0.062,-0.062,tu,0.125
+plautus.epidicus,500.0,"conduco, uenio, ut, fides, cantaris, senex",6,"NaN, NaN, NaN, 1.0, NaN, 0.0",0.167,0.0,,0.0
+plautus.epidicus,501.0,"dum, res, diuina, facio, fateor, ego, omnis",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,502.0,"homo, sum, athenae, atticis, minimus, pretium",6,"0.0, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,pretium,0.167
+plautus.epidicus,503.0,"sed, tu, nosco, -ne, fidicina, acropolistidem",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.epidicus,504.0,"tam, facilis, quam, ego, ubi, habito, postquam, liber, sum",9,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.111,0.0,,0.0
+plautus.epidicus,505.0,"ubi, habito, dico, admodum, incertus, scio",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+plautus.epidicus,506.0,"eho, an, liber, ille, sum, quis, is, libero",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.epidicus,507.0,"uolo, scio, si, scio, is, qui, audio, audio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,508.0,"stratippoclem, aio, periphanai, filius",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,509.0,"absum, curo, ut, fio, liber",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+plautus.epidicus,510.0,"pereo, hercules, si, iste, uerus, sum, planus",7,"NaN, NaN, NaN, NaN, 0.5, NaN, 0.0",0.071,0.0,,0.0
+plautus.epidicus,511.0,"meus, exenterauit, epidicus, marsuppium",4,"0.0, NaN, NaN, NaN",0.0,0.0,marsuppium,0.25
+plautus.epidicus,512.0,"hic, sic, audio, numquid, ego, uolo, ceterum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.epidicus,513.0,"malus, crucio, ut, pereo, atque, abeo, cito",7,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+plautus.epidicus,514.0,"fides, non, reddo, neque, fides, neque, tibia",7,"1.0, NaN, NaN, NaN, 1.0, NaN, NaN",0.286,0.0,,0.0
+plautus.epidicus,515.0,"propero, igitur, fugio, hinc, si, tu, deus, amo, abeo",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.111
+plautus.epidicus,516.0,"flagitium, cum, magnus, post, reddo, tamen",6,"-1.0, NaN, 0.0, NaN, NaN, NaN",-0.167,-0.167,flagitium,0.167
+plautus.epidicus,517.0,"quis, nunc, qui, in, tantus, pono, sum, sententia",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,518.0,"is, -ne, ego, sino, impunis, immo, etiam, si, alter",9,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.056,-0.056,impunis,0.111
+plautus.epidicus,519.0,"tantus, perdo, sum, perdo, potis, quam, sino",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,520.0,"ego, impunis, irrisus, sum, habitus, depeculatus",6,"NaN, -0.5, -1.0, NaN, NaN, NaN",-0.25,-0.25,impunis,0.167
+plautus.epidicus,521.0,"is, sic, do, sum, uerbum, praesens, palam",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+plautus.epidicus,522.0,"atque, ego, paruus, facio, prae, ille, qui, omnis",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,523.0,"lex, atque, ius, fictor, conditor, clueo",6,"0.5, NaN, 0.5, NaN, NaN, NaN",0.167,0.0,,0.0
+plautus.epidicus,524.0,"is, etiam, sui, sapio, memoro, malleus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,525.0,"sapio, uideo, excutio, manubrium",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,526.0,"si, quis, sum, homo, miseriaris, qui, miseresco, miser, ex, animus, sum",11,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, -1.0, NaN, 0.5, NaN",-0.045,-0.091,miser,0.091
+plautus.epidicus,527.0,"is, ego, experior, qui, multus, in, unus, locus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,528.0,"confluo, qui, meus, pectus, pulso, simul",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,529.0,"multiplex, aerumna, ego, exerceo, habeo",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+plautus.epidicus,530.0,"paupertas, pauor, territo, mens, animus",5,"-1.0, -1.0, NaN, 0.5, 0.5",-0.2,-0.4,,0.0
+plautus.epidicus,531.0,"neque, ubi, meus, spes, colloco, habeo, usquam, munio, locus",9,"NaN, NaN, 0.0, 0.5, NaN, NaN, NaN, NaN, 0.0",0.056,0.0,,0.0
+plautus.epidicus,532.0,"ita, gnata, meus, hostis, sum, potior, neque, is, nunc, ubi, sum, scio",12,"NaN, NaN, 0.0, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+plautus.epidicus,533.0,"quis, illic, sum, mulier, timidus, pectus, peregre, aduenio",8,"NaN, NaN, NaN, 0.0, -0.5, NaN, NaN, NaN",-0.062,-0.062,"mulier, timidus",0.25
+plautus.epidicus,534.0,"qui, ipse, sui, misero, in, hic, dico, sum, locus, habito, ego",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"misero, hic",0.182
+plautus.epidicus,535.0,"periphanes, ego, nomino, hic, credo, ego, ille, hospitium, utor, uenio",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.1
+plautus.epidicus,536.0,"per-uolo, merces, do, qui, monstro, is, ego, homo, aut, ubi, habito",11,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.091,0.0,,0.0
+plautus.epidicus,537.0,"nosco, ego, hic, nam, uideo, nescio, ubi, ego, uideo, prior",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.05,0.0,hic,0.1
+plautus.epidicus,538.0,"sum, -ne, is, an, non, is, sum, quam, animus, reor, meus",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 0.0",0.045,0.0,,0.0
+plautus.epidicus,539.0,"deus, bonus, uisitauiantidhac",3,"0.0, 1.0, NaN",0.333,0.0,,0.0
+plautus.epidicus,540.0,"certus, eastquam, in, epidauro, pauperculus, memini, comprimo",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.epidicus,541.0,"planus, hic, sum, qui, ego, in, epidauro, primus, pudicitia, pello",10,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, 0.5, NaN",0.1,0.0,"hic, pudicitia",0.2
+plautus.epidicus,542.0,"qui, meus, comprimo, pario, filia, quam, domus, nunc, habeo",9,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,543.0,"quis, si, adeo, hau, scio, an, congredior, si, hic, is, sum, si, is, sum, homo, sicut",16,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.062
+plautus.epidicus,544.0,"annus, multus, dubius, do",4,"0.0, 0.0, -0.5, NaN",-0.125,-0.125,,0.0
+plautus.epidicus,545.0,"longus, dies, meus, incerto, animus, sin, is, sum, quam, incertus, autumo, hic, congredior, astus",14,"0.0, 0.0, 0.0, NaN, 0.5, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, -0.5",-0.036,-0.071,"hic, astus",0.143
+plautus.epidicus,546.0,"muliebris, adhibeo, ego, malitia, nunc, sum",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,muliebris,0.167
+plautus.epidicus,547.0,"compello, oratio, acies, contra, confero",5,"NaN, -0.5, 0.0, NaN, NaN",-0.1,-0.1,,0.0
+plautus.epidicus,548.0,"saluo, sum, salus, accipio, ego, et, meus, quis, ceterum",9,"NaN, NaN, 1.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.111,0.0,,0.0
+plautus.epidicus,549.0,"saluus, sum, qui, credo, reddo, haud, accuso, fides",8,"1.0, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.25,0.0,,0.0
+plautus.epidicus,550.0,"nosco, -ne, ego, tu, si, ego, tu, nosco, animus, induco, ut, tu, nosco",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.038,0.0,"tu, tu, tu",0.231
+plautus.epidicus,551.0,"ubi, tu, uisito, iniquus, quis, iam, quia",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,"tu, iniquus",0.286
+plautus.epidicus,552.0,"tuus, memoria, interpretaris, ego, aequus, censeo, commodus",7,"0.0, 1.0, NaN, NaN, 0.5, NaN, 0.5",0.286,0.0,,0.0
+plautus.epidicus,553.0,"fabulor, sum, mirus, memoro, tu, memini, em, iste, rectus",9,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, 1.0",0.222,0.0,tu,0.111
+plautus.epidicus,554.0,"memini, -ne, memini, is, qui, memini, at, in, epidauro, ah, guttula",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,555.0,"pectus, ardeo, ego, aspersisti, uirgo, pauperculus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uirgo,0.167
+plautus.epidicus,556.0,"tuus, mater, ego, leuaris, paupertas, tu, -ne, is, sum",9,"0.0, 0.0, NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.111,-0.111,tu,0.111
+plautus.epidicus,557.0,"qui, per, uoluptas, tuus, in, ego, aerumna, obsero, grauis",9,"NaN, NaN, 1.0, 0.0, NaN, NaN, -0.5, NaN, -0.5",0.0,-0.111,,0.0
+plautus.epidicus,558.0,"ego, sum, saluus, saluo, sum, quia, tu, sum, saluus, sentio",10,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.2,0.0,tu,0.1
+plautus.epidicus,559.0,"cedo, manus, accipio, aerumnosus, et, miseriaris, compos",7,"NaN, 0.0, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,,0.0
+plautus.epidicus,560.0,"mulier, retineo, quis, sum, qui, uultus, turbo, sum, tuus",9,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,mulier,0.111
+plautus.epidicus,561.0,"filia, quam, ex, tu, suscipio, quis, is, educo, perdo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.epidicus,562.0,"hostis, sum, potior, habeo, animus, lenis, et, tranquillus, taceo",9,"-1.0, NaN, NaN, NaN, 0.5, 1.0, NaN, NaN, NaN",0.056,-0.111,,0.0
+plautus.epidicus,563.0,"domus, meus, ecce, saluus, et, sanus, nam, postquam, audio, ilico",10,"0.0, 0.0, NaN, 1.0, NaN, 1.0, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+plautus.epidicus,564.0,"ex, meus, seruo, ille, sum, capio, continuo, argentum, do",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,565.0,"ut, emo, ille, is, res, adeo, sobrius, et, frugalis",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.5",0.056,0.0,"emo, sobrius, frugalis",0.333
+plautus.epidicus,566.0,"accuro, utut, ad, alius, res, sum, impendo, improbus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, -1.0",-0.125,-0.125,improbus,0.125
+plautus.epidicus,567.0,"facio, uideo, si, meus, si, saluo, ego, sum, eho, istinc, canthara",11,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,568.0,"iubeo, telestidem, huc, prodeo, filia, ante, aedes, meus",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+plautus.epidicus,569.0,"ut, suus, uideo, mater, remigro, animus, nunc, demum, ego",9,"NaN, NaN, NaN, 0.0, NaN, 0.5, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.epidicus,570.0,"quis, sum, pater, qui, ego, excio, ante, aedes, ut, mater, tuus",11,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+plautus.epidicus,571.0,"uideo, adeo, aduenio, do, salus, atque, osculis",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+plautus.epidicus,572.0,"quam, meus, mater, qui, exanimo, exsequor, aspectus, tuus",8,"NaN, 0.0, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,exanimo,0.125
+plautus.epidicus,573.0,"quis, iste, sum, quam, tu, osculis, ego, fero, iubeo, tuus, filia",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.091
+plautus.epidicus,574.0,"hic, hic, ego, -ne, osculis, hic, do, cur, non, qui, ex, tu, nata, sum",14,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic, hic, tu",0.286
+plautus.epidicus,575.0,"tu, homo, insanus, ego, tu, cur, quia, ego, hic, qui, sum",11,"NaN, 0.0, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.091,-0.091,"tu, insanus, tu, hic",0.364
+plautus.epidicus,576.0,"neque, scio, neque, nosco, neque, ego, hic, oculus, uideo, ante, hic, dies",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, hic",0.167
+plautus.epidicus,577.0,"scio, quis, erro, quia, uestio, atque, orno, immutabilis",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,uestio,0.125
+plautus.epidicus,578.0,"habeo, hic",2,"NaN, NaN",nan,nan,hic,0.5
+plautus.epidicus,579.0,"aliter, catulis, longus, oleo, aliter, suus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,580.0,"ne, ego, is, nosco, pro, deus, atque, homo, fides",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, 1.0",0.111,0.0,,0.0
+plautus.epidicus,581.0,"quis, ego, lenocinium, facio, qui, habeo, alienus, domus",8,"NaN, NaN, -1.0, NaN, NaN, NaN, -0.5, 0.0",-0.188,-0.188,,0.0
+plautus.epidicus,582.0,"atque, argentum, egurgito, domus, prorsus, quis, tu, qui, pater",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.111
+plautus.epidicus,583.0,"tuus, uoco, ego, atque, oscularis, quis, sto, stupidus, quis, taceo",10,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.1,-0.1,,0.0
+plautus.epidicus,584.0,"quis, loquor, uolo, hic, nego, sui, tuus, sum, mater, ne, sum",11,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.091
+plautus.epidicus,585.0,"si, non, uolo, equidem, hic, inuito, tamen, sum, mater, filia",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.1
+plautus.epidicus,586.0,"non, ego, iste, cogo, aequus, sum, meus, sum, mater, si, neuolt",11,"NaN, NaN, NaN, NaN, 0.5, NaN, 0.0, NaN, 0.0, NaN, NaN",0.045,0.0,,0.0
+plautus.epidicus,587.0,"cur, ego, igitur, pater, uoco, tuus, iste, culpa, sum, non, meus",11,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, -1.0, NaN, NaN, 0.0",-0.091,-0.091,culpa,0.091
+plautus.epidicus,588.0,"non, pater, ego, tu, nomino, ubi, tu, tuus, ego, appello, filia",11,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"tu, tu",0.182
+plautus.epidicus,589.0,"hic, quoque, etiam, si, ego, appello, filia, mater, uoco",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.111
+plautus.epidicus,590.0,"nego, hic, filia, ego, suus, sum, non, ergo, hic, mater, meus, sum",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,"hic, hic",0.167
+plautus.epidicus,591.0,"postremo, hic, meus, culpa, non, sum, qui, disco, dico, omnis",10,"NaN, NaN, 0.0, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.1,-0.1,"hic, culpa",0.2
+plautus.epidicus,592.0,"epidicus, ego, sum, magister, pereo, plaustrum, perculis",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+plautus.epidicus,593.0,"numquid, ego, ibi, pater, pecco, si, hercules, tu, umquam, audio",10,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.1
+plautus.epidicus,594.0,"ego, pater, uocaris, uita, tuus, ego, interimo, non, uoco",9,"NaN, 0.0, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,595.0,"ubi, uolo, pater, sum, ibi, sum, ubi, nolo, ne, sum, pater",11,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,596.0,"quis, si, ob, is, res, hic, emo, quia, tuus, gnatam, sum, reor",12,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"hic, emo",0.167
+plautus.epidicus,597.0,"qui, de, signum, agnosco, nullus, qui, res, filia",8,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.epidicus,598.0,"credo, noster, seruus, epidicus, dico, ego",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+plautus.epidicus,599.0,"quis, si, seruo, aliter, uideo, sum, non, possum, nosco, obsecro",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,600.0,"quis, ego, qui, ille, ut, primus, uideo, numquam, uideo, postea",10,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.epidicus,601.0,"pereo, misero, ne, fleo, mulier, intro, abeo, habeo, animus, bonus",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.5, 1.0",0.15,0.0,"misero, mulier",0.2
+plautus.epidicus,602.0,"ego, ille, reperio, hinc, athenae, ciuis, is, emo, atticus",9,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.056,0.0,emo,0.111
+plautus.epidicus,603.0,"adulescens, equidem, dico, emo, inuenio, taceo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"adulescens, emo",0.333
+plautus.epidicus,604.0,"abeo, modo, intro, atque, hic, asseruo, circam, sol, filia",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.epidicus,605.0,"ego, relinquo, res, epidicum, opera, quaero, do",7,"NaN, NaN, 0.0, NaN, -0.5, NaN, NaN",-0.071,-0.071,,0.0
+plautus.epidicus,606.0,"si, inuenio, exitiabilis, ego, ille, facio, hic, ut, fio, dies",10,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",-0.1,-0.1,"exitiabilis, hic",0.2
+plautus.epidicus,607.0,"malus, morigerus, ego, sum, danista, qui, ab, ego, argentum, non, peto",11,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.091,-0.091,,0.0
+plautus.epidicus,608.0,"neque, ille, adduco, qui, emo, ex, praeda, sum, sed, ecce, incedo, epidicus",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,emo,0.083
+plautus.epidicus,609.0,"quis, illic, sum, qui, ille, caperrat, frons, seueritudo",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.epidicus,610.0,"si, undecim, deus, praeter, sui, cum, sui, adduco, iuppiter",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,611.0,"ita, non, omnis, ex, crucio, possum, eximo, epidicum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,612.0,"periphanem, emo, lorum, uideo, ibi, adsum, unus, apoecides",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,emo,0.125
+plautus.epidicus,613.0,"nunc, homo, ego, quaeritaris, credo, sentio, scio",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,614.0,"sui, do, sum, uerbum, quis, ago, meus, commoditas, qui, miser",10,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, 0.5, NaN, -1.0",-0.05,-0.1,miser,0.1
+plautus.epidicus,615.0,"quis, sum, tu, quin, tu, ego, adorno, ad, fuga, uiaticus",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.05,-0.05,"tu, tu",0.2
+plautus.epidicus,616.0,"prior, quam, pereo, nam, per, urbs, duo, defloccatus, senex",9,"0.5, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, 0.0",0.111,0.0,,0.0
+plautus.epidicus,617.0,"quaerito, ego, in, manus, gesto, copulo, cum, sui, simul",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,618.0,"habeo, bonus, animus, quippe, ego, qui, libertas, in, mundus, sino, sum",11,"NaN, 1.0, 0.5, NaN, NaN, NaN, 0.5, NaN, 1.0, NaN, NaN",0.273,0.0,,0.0
+plautus.epidicus,619.0,"ego, tu, seruo, edepol, ego, ille, bonus, si, nanciscor, sum",10,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.1,0.0,"tu, edepol",0.2
+plautus.epidicus,620.0,"sed, quis, hic, sum, muliercula, et, ille, grauastellus, qui, uenio",10,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.05,-0.05,"hic, muliercula",0.2
+plautus.epidicus,621.0,"hic, sum, danista, hic, ille, sum, autem, quam, emo, de, praeda, hic, sum",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic, emo, hic",0.308
+plautus.epidicus,622.0,"hic, sum, sum, -ne, ita, ut, tu, dico, aspicio, et, contemplo, epidice",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.167
+plautus.epidicus,623.0,"usque, ab, unguiculus, ad, capillus, superus, sum, festiuus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,capillus,0.125
+plautus.epidicus,624.0,"sum, -ne, consimilis, quasi, cum, signum, pingo, pulcher, aspicio",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 1.0, NaN",0.111,0.0,,0.0
+plautus.epidicus,625.0,"ex, tuus, uerbum, meus, sum, corium, pulcher, praedico",8,"NaN, 0.0, 0.0, 0.0, NaN, NaN, 1.0, NaN",0.125,0.0,,0.0
+plautus.epidicus,626.0,"qui, apella, atque, zeuxis, duo, pingo, pigmentum, ulmeus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,zeuxis,0.125
+plautus.epidicus,627.0,"deus, immortalis, sici, -ne, iubeo, ad, ego, eo, pes, pulmunes",10,"0.0, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.05,0.0,,0.0
+plautus.epidicus,628.0,"qui, perhibeo, prior, uenio, quam, tu, aduenio, ego",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,tu,0.125
+plautus.epidicus,629.0,"hic, edepol, remoror, ego, sum, siquidem, iste, gratia",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,"hic, edepol",0.25
+plautus.epidicus,630.0,"is, qui, iste, uolo, nimium, aduenio, cito",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,631.0,"ago, ago, absoluo, ego, atque, argentum, numero, ne, comes, moror",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,632.0,"pernumero, sum, teneo, cruminam, huc, inde, sapienter, uenio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,633.0,"opperior, dum, effero, ad, tu, argentum, maturo, domus, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.111
+plautus.epidicus,634.0,"satis, ne, ego, oculus, utilitas, obtineo, sincerus, an, parum",9,"0.5, NaN, NaN, 0.0, 1.0, NaN, 0.5, NaN, 0.0",0.222,0.0,,0.0
+plautus.epidicus,635.0,"uideo, -ne, ego, telestidem, tu, periphanai, filia",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.epidicus,636.0,"ex, philippa, mater, nata, thebis, epidauri, sero",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,637.0,"quis, tu, homo, sum, qui, meus, parens, nomen, memoro, et, meus",11,"NaN, NaN, 0.0, NaN, NaN, 0.0, 0.5, 0.0, NaN, NaN, 0.0",0.045,0.0,tu,0.091
+plautus.epidicus,638.0,"non, ego, nosco, qui, quidem, nunc, uenio, in, mens, ego",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.05,0.0,,0.0
+plautus.epidicus,639.0,"non, memini, ego, aureus, ad, tu, affero, natalis, dies",9,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, 0.0",0.056,0.0,tu,0.111
+plautus.epidicus,640.0,"lunula, atque, anellus, aureolus, in, digitus, memini, ego, homo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,641.0,"tu, -ne, is, sum, ego, sum, et, istic, frater, qui, tu, mercor, sum, tuus",14,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, tu, mercor",0.214
+plautus.epidicus,642.0,"alius, mater, unus, pater",4,"NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,643.0,"quis, pater, meus, uiuo, animus, liquidus, et, tranquillus, sum, taceo",10,"NaN, 0.0, 0.0, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.epidicus,644.0,"deus, ego, ex, perdo, seruo, cupio, si, uerus, autumo",9,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.056,0.0,,0.0
+plautus.epidicus,645.0,"non, habeo, ullus, occasio, ut, apud, tu, fallo, fabulor",9,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.056,0.0,"tu, fallo",0.222
+plautus.epidicus,646.0,"accipio, argentum, hic, danista, hic, sum, quadraginta, minae",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.062,-0.062,"hic, hic",0.25
+plautus.epidicus,647.0,"siquis, sum, dubius, immuto, bene, facio, bene, ual",8,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.062,-0.062,,0.0
+plautus.epidicus,648.0,"nunc, enim, tu, meus, sum, soror, quidem, edepol, ut, tu, aequus, scio",12,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.042,0.0,"tu, edepol, tu",0.25
+plautus.epidicus,649.0,"saluus, frater, sano, -ne, hic, sum, sano, si, appello, suus",10,"1.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.1,0.0,hic,0.1
+plautus.epidicus,650.0,"quis, ego, modo, amator, sum, hic, frater, facio, dum, intro, is, atque, exeo",13,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"amator, hic",0.154
+plautus.epidicus,651.0,"qui, bonus, sum, is, taceo, taceo, tueor, cum, tu, et, gaudeo",11,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.091,0.0,tu,0.091
+plautus.epidicus,652.0,"perdo, et, reperio, ego, soror, taceo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,653.0,"tu, quidem, qui, amo, domus, praesto, sum, fidicino, opus, meus",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.5, 0.0",0.05,0.0,tu,0.1
+plautus.epidicus,654.0,"et, soror, in, libertas, idem, opus, concilio, meus",8,"NaN, NaN, NaN, 0.5, NaN, 0.5, NaN, 0.0",0.125,0.0,,0.0
+plautus.epidicus,655.0,"epidice, fateor, abeo, intro, atque, iubeo, hic, aqua, calefieri",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.111
+plautus.epidicus,656.0,"ceterus, hic, posterus, facio, scibis, ubi, sum, otium",8,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,"hic, otium",0.25
+plautus.epidicus,657.0,"sequor, hic, ego, soror, ego, ad, tu, thesprio, iubeo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.222
+plautus.epidicus,658.0,"huc, transeo, sed, memento, si, quis, saeuibunt, senex",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,659.0,"suppetiae, ego, cum, soror, fero, facilis, iste, sum",8,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.062,0.0,,0.0
+plautus.epidicus,660.0,"thesprio, exeo, istac, per, hortus, affero, domus, auxilium, ego",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+plautus.epidicus,661.0,"magnus, sum, res, paruus, multus, facio, quam, dudum, senex",9,"0.0, NaN, 0.0, 0.0, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,662.0,"remeo, intro, ut, accuro, aduenio, hospes",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,663.0,"idem, hic, intus, edoceo, qui, ego, scio, stratippoclem",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.epidicus,664.0,"non, fugio, domus, adsum, certus, sum, neque, ille, haud, obicio, ego",11,"NaN, NaN, 0.0, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.045,0.0,,0.0
+plautus.epidicus,665.0,"pes, sui, prouoco, abeo, intro, nimis, longus, loquor",8,"0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.epidicus,666.0,"sero, -ne, illic, homo, ludibrium, nos, uetulus, decrepitus, duo",9,"NaN, NaN, NaN, 0.0, -1.0, NaN, NaN, NaN, NaN",-0.111,-0.111,ludibrium,0.111
+plautus.epidicus,667.0,"habeo, immo, edepol, tu, quidem, miser, ego, habeo, miser, modus",10,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, -1.0, 0.5",-0.15,-0.2,"edepol, tu, miser, miser",0.4
+plautus.epidicus,668.0,"taceo, sum, modo, sine, ego, homo, apisci, dico, ego, tu, iam, ut, scio",13,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.077
+plautus.epidicus,669.0,"alius, tu, tu, comes, bonus, sum, quaero, ita, dum, tu, sequor",11,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.091,0.0,"tu, tu, tu",0.273
+plautus.epidicus,670.0,"lassitudi, -ne, inuado, mitto, in, genu, flemina",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,671.0,"quot, illic, homo, hodie, ego, exemplum, ludifico, sum, atque, tu",10,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.1
+plautus.epidicus,672.0,"ut, illic, autem, exenterauit, ego, ops, argentaria",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.epidicus,673.0,"apage, ille, ab, ego, nam, ille, quidem, uolcani, irascor, sum, filius",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,674.0,"quisquis, tango, omnis, amburo, si, asto, aestus, calefacio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,675.0,"duodecim, deus, multus, quam, in, caelum, deus, sum, immortalis",9,"NaN, 0.0, 0.0, NaN, NaN, 0.5, 0.0, NaN, 0.5",0.111,0.0,,0.0
+plautus.epidicus,676.0,"ego, nunc, auxilium, adiutor, sum, et, cum, ego, milito",9,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,677.0,"quisquis, ego, malefacio, auxilium, ego, et, suppetiae, sum, domus",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,678.0,"apolactizo, inimicus, omnis, ubi, ille, quaero, gens",7,"NaN, -1.0, NaN, NaN, NaN, NaN, 0.0",-0.143,-0.143,,0.0
+plautus.epidicus,679.0,"dum, sine, ego, quaero, quaero, meus, causa, uel, medium, in, mare",11,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.epidicus,680.0,"quis, ego, quaero, quis, laboro, quis, hic, sollicitus, ecce, ego",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.1,-0.1,hic,0.1
+plautus.epidicus,681.0,"num, tu, fugio, num, ab, domus, apsum, num, oculus, concedo, tuus",11,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,tu,0.091
+plautus.epidicus,683.0,"neque, tu, supplico, uincio, uolo, em, ostendo, manus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.125
+plautus.epidicus,684.0,"tu, habeo, lorum, ego, tu, emo, uideo, quis, nunc, cesso, colligo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu, emo",0.273
+plautus.epidicus,685.0,"ilicet, uadimonium, ultro, ego, hic, facio, quin, colligo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.epidicus,686.0,"edepol, mancipium, scelestus, tu, profecto, apoecides",6,"NaN, 0.0, -1.0, NaN, NaN, NaN",-0.167,-0.167,"edepol, mancipium, scelestus, tu",0.667
+plautus.epidicus,687.0,"nihil, moror, ego, deprecor, facilis, exoro, epidice",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+plautus.epidicus,688.0,"ecquis, ago, tuus, -ne, arbitratus, meus, hercules, uerus, atque, hau, tuus",11,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, 0.5, NaN, NaN, 0.0",0.045,0.0,,0.0
+plautus.epidicus,689.0,"colligo, hic, sum, tu, hodie, at, non, lubet, non, colligo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.2
+plautus.epidicus,690.0,"tragula, in, tu, inicio, adorno, nescio, quam, fabrica, facio",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.111
+plautus.epidicus,691.0,"tu, mora, facio, cum, ego, soluo, asto, ago, inquam, colligo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.epidicus,692.0,"at, ego, magis, lubet, soluo, tu, rogito, at, nihil, scio",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.epidicus,693.0,"quis, ago, quis, ago, mos, gero, frugi, sum, tu, homo, apoecides",11,"NaN, NaN, NaN, NaN, 0.5, NaN, 1.0, NaN, NaN, 0.0, NaN",0.136,0.0,"frugi, tu",0.182
+plautus.epidicus,694.0,"cedo, manus, igitur, moror, nihil, atque, ars, colligo",8,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.epidicus,695.0,"nihil, moror, obnoxiosus, facio, opus, arbitramino",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+plautus.epidicus,696.0,"bene, hic, habeo, ago, nuncia, ex, ego, exquiro, rogito, qui, lubet",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.091
+plautus.epidicus,697.0,"qui, fiducia, primus, qui, emo, sum, nudiustertius",7,"NaN, 0.5, 0.5, NaN, NaN, NaN, NaN",0.143,0.0,emo,0.143
+plautus.epidicus,698.0,"filia, meus, dico, sum, libet, is, fiducia",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+plautus.epidicus,699.0,"ai, -ne, tu, libet, aio, uel, do, pignus, ni, is, sum, filia",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"ai, tu",0.167
+plautus.epidicus,700.0,"quam, nego, nosco, mater, ni, ergo, mater, filia, sum",9,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.epidicus,701.0,"in, meus, nummus, in, tuus, talentum, pignus, do, enim, iste, captio, sum",12,"NaN, 0.0, 0.0, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, -1.0, NaN",-0.083,-0.083,nummus,0.083
+plautus.epidicus,702.0,"sed, quis, is, sum, mulier, tuus, nascor, amicus, ut, omnis, res, scio",12,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, 1.0, NaN, NaN, 0.0, NaN",0.083,0.0,mulier,0.083
+plautus.epidicus,703.0,"do, -ne, tu, minae, triginta, ob, filia, fateor, do",9,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.056,-0.056,tu,0.111
+plautus.epidicus,704.0,"et, is, argentum, ille, ego, emo, amica, filis, fidicina",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,emo,0.111
+plautus.epidicus,705.0,"pro, tuus, filia, is, tu, is, ob, res, tango, triginta, minae",11,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, -0.5",-0.045,-0.045,tu,0.091
+plautus.epidicus,706.0,"quo, modo, ego, ludus, facio, de, ille, conducticius",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,707.0,"fidicino, facio, hercules, uerus, et, rectus, facio, iudico",8,"NaN, NaN, NaN, 0.5, NaN, 1.0, NaN, NaN",0.188,0.0,,0.0
+plautus.epidicus,708.0,"quis, postremo, argentum, facio, sum, qui, do, dico, tu",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.epidicus,709.0,"neque, malus, homo, neque, malignus, tuus, do, stratippocli",8,"NaN, -1.0, 0.0, NaN, -1.0, 0.0, NaN, NaN",-0.25,-0.25,,0.0
+plautus.epidicus,710.0,"cur, do, quia, ego, libet, sum, qui, hic, malus, impudens, sum",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, -1.0, NaN",-0.182,-0.182,"hic, impudens",0.182
+plautus.epidicus,711.0,"etiam, inclamito, quasi, seruus, cum, tu, sum, liber, gaudeo",9,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, 0.5, NaN",0.0,-0.056,tu,0.111
+plautus.epidicus,712.0,"mereo, ut, fio, tu, mereo, uideo, intro, ego, facio, scio",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.epidicus,713.0,"hic, ita, sum, quis, sum, negotium, iam, ipse, res, dico, tu",11,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, 0.0, NaN, NaN",-0.045,-0.045,"hic, tu",0.182
+plautus.epidicus,714.0,"abeo, modo, intro, is, non, illic, temere, sum, ad-seruo, iste, apoecides",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.epidicus,715.0,"quis, illic, epidice, sum, negotium, maximus, hercules, iniuria",8,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN, -1.0",-0.188,-0.188,,0.0
+plautus.epidicus,716.0,"uincio, asto, qui, hic, hodie, opus, inuenio, sum, filia",9,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.056,0.0,hic,0.111
+plautus.epidicus,717.0,"ai, -ne, tu, tu, ille, inuenio, filia, inuenio, et, domus, sum",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"ai, tu, tu",0.273
+plautus.epidicus,718.0,"sed, ut, acerbus, sum, pro, bene, facio, cum, malus, messis, meto",11,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.182,-0.182,acerbus,0.091
+plautus.epidicus,719.0,"quam, -ne, hodie, per, urbs, uterque, sum, defatiscor, quaero",9,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.epidicus,720.0,"ego, sum, defatiscor, reperio, tu, defatiscor, quaero",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.epidicus,721.0,"quis, iste, oro, opus, tantus, ego, oro, sum, intellego",9,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.epidicus,722.0,"ut, licet, mereo, hic, facio, cedo, tu, ut, exsoluo, manus",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, tu",0.2
+plautus.epidicus,723.0,"ne, attigo, ostendo, uerus, nolo, non, aequus, facio",8,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.5, NaN",0.125,0.0,,0.0
+plautus.epidicus,724.0,"numquam, hercules, hodie, nisi, supplicium, ego, do, ego, soluo, sino",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,supplicium,0.1
+plautus.epidicus,725.0,"bonus, atque, aequus, ora, soccus, tunica, pallium",7,"1.0, NaN, 0.5, NaN, NaN, NaN, NaN",0.214,0.0,,0.0
+plautus.epidicus,726.0,"tu, do, quis, deinde, porro, libertas, at, postea",8,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.062,0.0,tu,0.125
+plautus.epidicus,727.0,"nouo, libertus, opus, sum, qui, pappo, do, praebeo, cibus",9,"NaN, 0.5, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.epidicus,728.0,"numquam, hercules, hodie, nisi, ego, orassis, soluo, oro, tu, epidice",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.epidicus,729.0,"ego, ut, ignosco, siquis, imprudens, culpa, pecco, meus",8,"NaN, NaN, NaN, NaN, -0.5, -1.0, NaN, 0.0",-0.188,-0.188,culpa,0.125
+plautus.epidicus,730.0,"at, ob, is, res, liber, sum, inuitus, do, hic, uenio, tu",11,"NaN, NaN, NaN, 0.0, 0.5, NaN, -0.5, NaN, NaN, NaN, NaN",0.0,-0.045,"hic, tu",0.182
+plautus.epidicus,731.0,"nisi, necessitas, cogo, soluo, sanus, si, lubet",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+plautus.epidicus,732.0,"hic, is, homo, sum, qui, libertas, malitia, inuenio, suus",9,"NaN, NaN, 0.0, NaN, NaN, 0.5, -1.0, NaN, NaN",-0.056,-0.111,hic,0.111
+plautus.epidicus,733.0,"plaudo, et, ualeo, lumbus, porgite, atque, exsurgo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0

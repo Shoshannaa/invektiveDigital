@@ -1,0 +1,527 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+claudian.de_bello_gildonico,1.0,"reddo, imperium, auster, subiecto, rursus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,2.0,"alter, conuexus, polio, rector, sub, unus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,3.0,"conspiro, geminus, frenum, communis, orbis",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,4.0,"iungo, europe, -ne, libyae, concordia, frater",6,"NaN, NaN, NaN, NaN, 1.0, 0.0",0.167,0.0,europe,0.167
+claudian.de_bello_gildonico,5.0,"plenus, redeo, patrius, solus, qui, desum, arma",7,"0.0, NaN, 0.0, -0.5, NaN, NaN, 0.0",-0.071,-0.071,,0.0
+claudian.de_bello_gildonico,6.0,"tertius, occumbo, nascor, uirtus, tyrannus",5,"0.0, NaN, NaN, 1.0, NaN",0.2,0.0,tyrannus,0.2
+claudian.de_bello_gildonico,7.0,"horreo, adhuc, animus, manifesto, gaudium, differo",6,"NaN, NaN, 0.5, NaN, 1.0, NaN",0.25,0.0,,0.0
+claudian.de_bello_gildonico,8.0,"dum, stupeo, et, tantus, cuncto, credo, ueto",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,9.0,"necdum, cinyphias, exercitus, attigo, ora",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,10.0,"iam, domo, gildo, nullus, uictoria, nodus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,11.0,"haereo, non, spatium, terra, non, obicio, pontus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,12.0,"congredior, profugus, capio, uox, nuntio, unus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,13.0,"rumoremque, suus, praeuenio, laureus, bellum",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,14.0,"quo, precor, hic, efficio, deus, robustus, uetus",7,"NaN, NaN, NaN, NaN, 0.0, 1.0, 0.0",0.143,0.0,hic,0.143
+claudian.de_bello_gildonico,15.0,"tempus, tam, paruus, possum, dementia, uinco",6,"0.0, NaN, 0.0, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+claudian.de_bello_gildonico,16.0,"qui, uenio, indico, hiems, uer, percello, hostis",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+claudian.de_bello_gildonico,17.0,"exitium, iam, roma, timeo, et, fessus, nego",7,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+claudian.de_bello_gildonico,18.0,"frugis, ad, rapidus, limen, tendo, olympi",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,19.0,"non, soleo, uultus, neque, qualis, ius, britannis",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+claudian.de_bello_gildonico,20.0,"diuido, aut, trepidus, summitto, fascis, indus",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+claudian.de_bello_gildonico,21.0,"uox, tenuis, tardus, gradus, oculus, iaceo",6,"0.0, 0.0, NaN, 0.0, 0.0, NaN",0.0,0.0,iaceo,0.167
+claudian.de_bello_gildonico,22.0,"interior, fugio, gena, ieiuno, lacertus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,gena,0.2
+claudian.de_bello_gildonico,23.0,"exedo, macies, umerus, uix, sustineo, aeger",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+claudian.de_bello_gildonico,24.0,"squaleo, clipeus, laxo, cassis, prodeo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,25.0,"canities, plenus, traho, rubigo, hasta",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,canities,0.2
+claudian.de_bello_gildonico,26.0,"attigo, ut, tandem, caelum, genu, tono",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+claudian.de_bello_gildonico,27.0,"procumbo, talis, ordior, maestus, querela",5,"NaN, NaN, NaN, -1.0, -0.5",-0.3,-0.3,,0.0
+claudian.de_bello_gildonico,28.0,"si, meus, mando, mereo, moenia, nascor",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,29.0,"iuppiter, augur, si, sto, immotus, sibylla",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,30.0,"carmen, tarpeias, si, necdum, respuo, arx",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,31.0,"aduenio, supplex, non, ut, proculco, araxe, -ne",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,32.0,"consul, ouo, nostraeue, premo, pharetratus, securis",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.de_bello_gildonico,33.0,"susa, neque, ut, ruber, aquila, figo, harena",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,34.0,"hic, nos, hic, ante, do, nunc, pabulum, tantus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.25
+claudian.de_bello_gildonico,35.0,"roma, precor, misereor, tuus, pater, optume, gens",7,"NaN, NaN, NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,36.0,"extremus, defendo, fames, satiauimus, ira",5,"NaN, NaN, -0.5, NaN, -1.0",-0.3,-0.3,,0.0
+claudian.de_bello_gildonico,37.0,"si, qui, sum, lugeo, getis, et, fleo, sueo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,38.0,"haurio, ipse, meus, horreo, parthia, casus",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,39.0,"quis, refero, morbiue, lues, tumulosue, repletos",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,repletos,0.167
+claudian.de_bello_gildonico,40.0,"strages, et, creber, corrumpo, sidus, mors",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,strages,0.167
+claudian.de_bello_gildonico,41.0,"aut, fluuius, per, tectum, uagus, summus, mino",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,42.0,"collis, ingens, ueho, summergo, carino",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+claudian.de_bello_gildonico,43.0,"remus, sonus, et, pyrrhae, saeculum, sentio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,44.0,"is, ego, quo, latiae, uireo, urbs, potestas",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 0.5",0.143,0.0,,0.0
+claudian.de_bello_gildonico,45.0,"decido, in, qual, paulatim, fluximus, umbra",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,46.0,"armo, quondam, populus, pater, uigeo",5,"NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,47.0,"concilium, domo, terra, urbs, reuinxi",5,"NaN, NaN, 0.0, 0.5, NaN",0.1,0.0,,0.0
+claudian.de_bello_gildonico,48.0,"lex, ad, sol, uictrix, uterque, curro",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.de_bello_gildonico,49.0,"postquam, ius, ferox, in, sui, commune, caesar",7,"NaN, 0.5, -1.0, NaN, NaN, 0.0, 0.5",0.0,-0.143,ferox,0.143
+claudian.de_bello_gildonico,50.0,"transfero, et, labor, mos, de_-suesco, priscus",6,"NaN, NaN, -0.5, 0.5, NaN, 0.0",0.0,-0.083,,0.0
+claudian.de_bello_gildonico,51.0,"ars, in, gremium, pax, seruilis, recedo",6,"0.0, NaN, 0.0, 0.5, -0.5, NaN",0.0,-0.083,,0.0
+claudian.de_bello_gildonico,52.0,"tot, ego, pro, meritum, libyam, nihilum, do",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+claudian.de_bello_gildonico,53.0,"ut, domina, plebs, bellator, senatus",5,"NaN, NaN, 0.0, NaN, 0.5",0.1,0.0,,0.0
+claudian.de_bello_gildonico,54.0,"classis, aestiuus, alo, gemino, uicissim",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,classis,0.2
+claudian.de_bello_gildonico,55.0,"litus, diuerto, compleo, horreum, uenio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,56.0,"sto, certus, salus, memphis, si, fors, nego",7,"NaN, 0.5, 1.0, NaN, NaN, 0.0, NaN",0.214,0.0,,0.0
+claudian.de_bello_gildonico,57.0,"pensabam, pharium, gaetulis, messis, annus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,58.0,"frugifer, certo, ratis, fero, uideo",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+claudian.de_bello_gildonico,59.0,"punica, niliacis, concurro, carbasus, uelis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,60.0,"cum, subeo, par, roma, ego, diuido, sumo",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.de_bello_gildonico,61.0,"aequal, aurora, toga, aegyptia, rus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,62.0,"in, pars, cedo, nouus, spes, unicus, nos",7,"NaN, 0.0, NaN, 1.0, 0.5, NaN, NaN",0.214,0.0,,0.0
+claudian.de_bello_gildonico,63.0,"resto, libyae, qui, uix, aeger, foueo",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+claudian.de_bello_gildonico,64.0,"solum, duco, nosco, numquam, securus, sum",6,"0.0, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+claudian.de_bello_gildonico,65.0,"semper, inops, uenio, fides, posco, et, annus",7,"NaN, -1.0, NaN, 1.0, NaN, NaN, 0.0",0.0,-0.143,,0.0
+claudian.de_bello_gildonico,66.0,"hic, quoque, nunc, gildo, rapio, sub, finis, cado",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.125
+claudian.de_bello_gildonico,67.0,"auctumnus, pauidus, metior, caerulus, ueto",5,"0.0, -1.0, NaN, NaN, NaN",-0.2,-0.2,caerulus,0.2
+claudian.de_bello_gildonico,68.0,"puppis, si, qui, uenio, si, quis, fortasse, potens",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,,0.0
+claudian.de_bello_gildonico,69.0,"uel, pudor, extorqueo, dominus, uel, praedo, relinquo",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,pudor,0.143
+claudian.de_bello_gildonico,70.0,"pasco, arbitrium, mauri, neque, debeo, reddo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,71.0,"sed, suus, concedo, iacto, gaudeo, diurnus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,72.0,"ut, famula, praebeo, cibus, uita, fames",6,"NaN, NaN, NaN, NaN, 0.0, -0.5",-0.083,-0.083,,0.0
+claudian.de_bello_gildonico,73.0,"libro, barbaricus, fastus, uulgus, superbio",5,"NaN, NaN, -1.0, 0.0, NaN",-0.2,-0.2,,0.0
+claudian.de_bello_gildonico,74.0,"fletus, et, tantus, suspendo, fatum, ruina",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,75.0,"romuleas, uendo, seges, et, possideo, aruum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uendo,0.167
+claudian.de_bello_gildonico,76.0,"uulnus, quaero, meus, ideo, -ne, tot, annus",7,"-1.0, NaN, 0.0, NaN, NaN, NaN, 0.0",-0.143,-0.143,,0.0
+claudian.de_bello_gildonico,77.0,"flebilis, cum, tumidus, bellum, carthago, gero",6,"-1.0, NaN, -0.5, 0.0, NaN, NaN",-0.25,-0.25,,0.0
+claudian.de_bello_gildonico,78.0,"idcirco, uolo, contemno, lux, reuorto",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,79.0,"regulus, hic, damnum, genitor, cannensibus, emo",6,"-0.5, NaN, -1.0, NaN, NaN, NaN",-0.25,-0.25,"hic, emo",0.333
+claudian.de_bello_gildonico,80.0,"incassus, totiens, lituus, naual, ardeo",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+claudian.de_bello_gildonico,81.0,"hispanus, siculumque, fretus, uasto, tellus",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,uasto,0.2
+claudian.de_bello_gildonico,82.0,"tot, dux, caedo, rumpo, emitto, ab, alpe",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.de_bello_gildonico,83.0,"poenus, et, attono, iam, proximus, hannibal, urbs",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,poenus,0.143
+claudian.de_bello_gildonico,84.0,"scilicet, ut, domo, fruor, barbarus, afris",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,85.0,"murus, sustineo, martes, nox, cruento",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,cruento,0.2
+claudian.de_bello_gildonico,86.0,"collinus, pro, turris, fero, gildonis, ad, usus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,87.0,"carthago, ter, uinco, ruo, hic, mille, gemo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+claudian.de_bello_gildonico,88.0,"italia, clades, impensaque, saeculum, bellum",5,"NaN, -1.0, NaN, NaN, 0.0",-0.2,-0.2,,0.0
+claudian.de_bello_gildonico,89.0,"hic, fabius, fortis, ego, marcellus, ago",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,hic,0.167
+claudian.de_bello_gildonico,90.0,"ut, gildo, cumulo, ops, haurio, ueneno",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,91.0,"compulimus, dirus, syphacem, frango, metello",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,dirus,0.2
+claudian.de_bello_gildonico,92.0,"traho, immanis, marii, sub, uinclum, iugurtham",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"immanis, uinclum",0.333
+claudian.de_bello_gildonico,93.0,"et, numidae, gildonis, sum, pro, funero, tantus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,94.0,"pro, labor, in, bocchi, regnum, sudo, uterque",7,"NaN, -0.5, NaN, NaN, 0.0, NaN, NaN",-0.071,-0.071,,0.0
+claudian.de_bello_gildonico,95.0,"scipio, romanus, uinco, sanguis, mauri",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,96.0,"ille, diu, miles, populus, qui, praesum, orbus",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, -0.5",-0.071,-0.071,,0.0
+claudian.de_bello_gildonico,97.0,"qui, trabeas, et, sceptrum, do, qui, semper, in, arma",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,98.0,"horribilis, gens, placidus, sentio, subigo",5,"NaN, 0.0, 1.0, NaN, NaN",0.2,0.0,horribilis,0.2
+claudian.de_bello_gildonico,99.0,"nunc, inhonorus, egeo, perfero, miserabilis, pax",6,"NaN, NaN, NaN, NaN, -1.0, 0.5",-0.083,-0.167,miserabilis,0.167
+claudian.de_bello_gildonico,100.0,"supplicium, nullus, palam, circumdo, hostis",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,supplicium,0.2
+claudian.de_bello_gildonico,101.0,"ob-sedeo, discrimen, habeo, per, singulus, letum",6,"NaN, -1.0, NaN, NaN, 0.0, -1.0",-0.333,-0.333,,0.0
+claudian.de_bello_gildonico,102.0,"impendo, momentum, ego, dubitandaque, paucus",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,103.0,"praescribo, alimentum, dies, heu, prosper, fatum",6,"NaN, NaN, 0.0, NaN, 1.0, 0.0",0.167,0.0,heu,0.167
+claudian.de_bello_gildonico,104.0,"quis, ego, septeni, mons, turba, do",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,105.0,"qui, paruus, non, possum, al, felix, sum",7,"NaN, 0.0, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+claudian.de_bello_gildonico,106.0,"angustus, ops, malo, tolero, sabinos",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,107.0,"at, ueios, breuis, duco, securus, aeuum",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+claudian.de_bello_gildonico,108.0,"ipse, noceo, moles, utinam, remearis, licet",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,noceo,0.167
+claudian.de_bello_gildonico,109.0,"ad, uetus, finis, et, moenia, pauper, anci",7,"NaN, 0.0, 0.0, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+claudian.de_bello_gildonico,110.0,"sufficio, etrusca, ego, campanaque, colo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,111.0,"et, quintus, curiique, seges, patria, peto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,112.0,"rusticus, infero, proprius, dictator, arista",5,"-0.5, NaN, 0.0, NaN, NaN",-0.1,-0.1,,0.0
+claudian.de_bello_gildonico,113.0,"nunc, quis, ago, libyam, gildo, teneo, alter, nilis",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,114.0,"at, ego, qui, terra, umerus, pontus, subigo",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,115.0,"desero, emereo, iam, praemium, nullus, senecta",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+claudian.de_bello_gildonico,116.0,"deus, qui, irascor, cerno, succurro, tandem",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,117.0,"exoro, pater, tu, o, si, sponte, per, altus",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,tu,0.125
+claudian.de_bello_gildonico,118.0,"ueho, palatinis, muto, collis, idam",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,119.0,"praelatoque, lauo, phrygios, almus, leo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,leo,0.2
+claudian.de_bello_gildonico,120.0,"maternus, prex, natus, iam, flecto, cybebe",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,121.0,"sin, prohibeo, parca, fallo, eludo, uetustus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,fallo,0.167
+claudian.de_bello_gildonico,122.0,"auspicium, alius, saltem, prosterno, casus",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,123.0,"et, poena, mutas, genus, porsenna, reduco",6,"NaN, -1.0, NaN, 0.0, NaN, NaN",-0.167,-0.167,poena,0.167
+claudian.de_bello_gildonico,124.0,"tarquinios, renouo, feralis, allium, pugna",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+claudian.de_bello_gildonico,125.0,"ego, potis, saeuus, manus, permitto, pyrrhi",6,"NaN, 0.0, -1.0, 0.0, NaN, NaN",-0.167,-0.167,saeuus,0.167
+claudian.de_bello_gildonico,126.0,"ego, senonum, furia, brenni, ego, reddo, flamma",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,furia,0.143
+claudian.de_bello_gildonico,127.0,"cunctus, fames, leuis, ego, sic, fatum, refundo",7,"0.0, -0.5, 0.0, NaN, NaN, 0.0, NaN",-0.071,-0.071,refundo,0.143
+claudian.de_bello_gildonico,128.0,"obticesco, lacrima, mater, cytherea, pareo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,129.0,"fleo, mauors, sanctaeque, memor, tritonia, uestae",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,"mauors, tritonia",0.333
+claudian.de_bello_gildonico,130.0,"neque, cybelis, sicco, neque, sto, lumen, iuno",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,131.0,"maereo, indigeto, et, si, qui, roma, recipio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,132.0,"aut, do, ipse, deus, genitor, iam, cor, remitto",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,133.0,"coepio, et, sacer, dextera, sedaris, tumultus",6,"NaN, NaN, 1.0, 0.0, NaN, NaN",0.167,0.0,,0.0
+claudian.de_bello_gildonico,134.0,"cum, procul, insanus, quatio, ululatus, axis",6,"NaN, NaN, -1.0, NaN, NaN, 0.0",-0.167,-0.167,insanus,0.167
+claudian.de_bello_gildonico,135.0,"et, contundo, gena, medius, appareo, in, astrum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,gena,0.143
+claudian.de_bello_gildonico,136.0,"africa, rescissae, uestis, et, spiceus, passim",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uestis,0.167
+claudian.de_bello_gildonico,137.0,"sero, iaceo, lacero, crinal, uertex, dens",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"iaceo, lacero, crinal",0.5
+claudian.de_bello_gildonico,138.0,"et, frango, pendo, ebur, talis, superbus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+claudian.de_bello_gildonico,139.0,"irrumpo, clamor, foris, quis, magnus, moraris",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,140.0,"iuppiter, auello, necto, pelagius, soluo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,141.0,"lex, irascor, populus, in-mitto, frater",5,"0.5, NaN, 0.0, NaN, 0.0",0.1,0.0,,0.0
+claudian.de_bello_gildonico,142.0,"mergo, primus, peto, uenio, praeruptus, pachyno",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.de_bello_gildonico,143.0,"aequor, laxo, subsido, syrtis, urbs",5,"0.0, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+claudian.de_bello_gildonico,144.0,"si, ego, gildonem, nequeo, abduco, fatum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,145.0,"ego, rapio, gildoni, felix, ilia, peruro",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+claudian.de_bello_gildonico,146.0,"pars, libyae, nimius, qui, sui, munio, calor",7,"0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,nimius,0.143
+claudian.de_bello_gildonico,147.0,"defendo, tantus, uaco, securus, tyrannus",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,tyrannus,0.2
+claudian.de_bello_gildonico,148.0,"cresco, zona, rubeo, medius, flagro, olympi",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,149.0,"ego, quoque, limo, ago, bonus, desero, iaceo",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,iaceo,0.143
+claudian.de_bello_gildonico,150.0,"uomo, impatiens, pello, dominor, arista",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+claudian.de_bello_gildonico,151.0,"dipsas, et, sitio, attollo, glaeba, cerastas",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"glaeba, cerastas",0.333
+claudian.de_bello_gildonico,152.0,"quis, ego, temperies, iuuo, quis, mitis, aether",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+claudian.de_bello_gildonico,153.0,"gildoni, fecundus, sum, iam, sol, habena",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+claudian.de_bello_gildonico,154.0,"bis, seni, torqueo, hiemo, ceruix, ex, quo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,155.0,"haereo, tristis, iugum, noster, iam, luctus, ille",7,"NaN, -1.0, NaN, NaN, NaN, -1.0, NaN",-0.286,-0.286,,0.0
+claudian.de_bello_gildonico,156.0,"consenesco, regnum, sui, tot, uindico, annus",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,157.0,"atque, utinam, regnum, priuo, ius, teneo",6,"NaN, NaN, 0.0, NaN, 0.5, NaN",0.083,0.0,,0.0
+claudian.de_bello_gildonico,158.0,"exiguus, species, fundo, qui, nilus, et, atlas",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,159.0,"dissideo, occiduus, qui, gades, aridus, barce",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,160.0,"quisque, paraetonium, secedo, litus, tingo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,161.0,"hic, sui, transcribo, proprius, pars, tertius, mundus",7,"NaN, NaN, NaN, 0.0, 0.0, 0.0, 1.0",0.143,0.0,hic,0.143
+claudian.de_bello_gildonico,162.0,"unus, praedo, ager, disto, idem",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,163.0,"inter, sui, uitium, cingo, quicumque, profundus",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,profundus,0.167
+claudian.de_bello_gildonico,164.0,"traho, auaritia, luxus, malus, refundo",5,"NaN, -1.0, -0.5, -1.0, NaN",-0.5,-0.5,"auaritia, luxus, refundo",0.6
+claudian.de_bello_gildonico,165.0,"insto, terribilis, uiuo, morior, heres",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+claudian.de_bello_gildonico,166.0,"uirgo, raptor, thalamus, obscaenus, adulter",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,"uirgo, raptor, adulter",0.6
+claudian.de_bello_gildonico,167.0,"nullus, quies, orior, praeda, cesso, libido",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,libido,0.167
+claudian.de_bello_gildonico,168.0,"diues, dies, et, nox, metuo, maritus",6,"0.5, 0.0, NaN, 0.0, NaN, 0.0",0.083,0.0,maritus,0.167
+claudian.de_bello_gildonico,169.0,"quisquis, uel, locuples, pulcher, uel, coniunx, notus",7,"NaN, NaN, 1.0, 1.0, NaN, -0.5, 0.0",0.214,-0.071,locuples,0.143
+claudian.de_bello_gildonico,170.0,"crimen, pulso, fallo, si, crimen, desum",6,"-1.0, NaN, NaN, NaN, -1.0, NaN",-0.333,-0.333,"crimen, fallo, crimen",0.5
+claudian.de_bello_gildonico,171.0,"accio, conuiua, pereo, mors, nullus, refugio",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+claudian.de_bello_gildonico,172.0,"artifex, uarius, sucus, spumasque, requiro",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,173.0,"serpens, uiridis, et, adhuc, ignotus, nouerca",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,"serpens, nouerca",0.333
+claudian.de_bello_gildonico,174.0,"gramen, si, quisquam, uultus, praesens, damno",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,damno,0.167
+claudian.de_bello_gildonico,175.0,"liberiusue, gemo, daps, crudelis, in, ipse",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,crudelis,0.167
+claudian.de_bello_gildonico,176.0,"emico, ad, nutus, stringo, mucro, minister",6,"NaN, NaN, NaN, NaN, -1.0, 0.0",-0.167,-0.167,,0.0
+claudian.de_bello_gildonico,177.0,"figo, quisque, torus, taceo, formido, libo",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+claudian.de_bello_gildonico,178.0,"carnifex, epulae, incertus, poculum, palleo",5,"NaN, NaN, -0.5, NaN, NaN",-0.1,-0.1,carnifex,0.2
+claudian.de_bello_gildonico,179.0,"haurio, et, intendo, caput, circumspicio, ensis",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,180.0,"splendeo, tartareo, furial, mensa, paro",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,furial,0.2
+claudian.de_bello_gildonico,181.0,"caedes, madeo, atrox, gladius, suspicio, ueneno",6,"-0.5, NaN, -1.0, NaN, -0.5, NaN",-0.333,-0.333,caedes,0.167
+claudian.de_bello_gildonico,182.0,"ut, uinum, calefacio, uenus, tum, saeuus, ardeo",7,"NaN, NaN, NaN, 1.0, NaN, -1.0, NaN",0.0,-0.143,saeuus,0.143
+claudian.de_bello_gildonico,183.0,"luxurio, misceo, redoleo, unguentum, corona",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"luxurio, unguentum",0.4
+claudian.de_bello_gildonico,184.0,"crinio, inter, famulus, pubes, canorus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,185.0,"orbatas, iubeo, eo, nurus, nuper, per-emo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"nurus, per-emo",0.333
+claudian.de_bello_gildonico,186.0,"ad-rideo, uis, phalarim, tormentum, flamma",5,"NaN, 1.0, NaN, -0.5, NaN",0.1,-0.1,,0.0
+claudian.de_bello_gildonico,187.0,"prosum, et, siculis, mugitus, fero, iuuencus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,188.0,"quam, talis, audio, chorus, neque, damno, pudor",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,"damno, pudor",0.286
+claudian.de_bello_gildonico,189.0,"turpis, sufficio, mauris, clarus, quisque",5,"-1.0, NaN, NaN, 0.5, NaN",-0.1,-0.2,turpis,0.2
+claudian.de_bello_gildonico,190.0,"fastidio, do, medius, carthago, duco",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,191.0,"barbarum, sidoniae, subeo, conubium, mater",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"barbarum, sidoniae",0.4
+claudian.de_bello_gildonico,192.0,"aethiopem, nos, gener, nasamona, maritus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,maritus,0.2
+claudian.de_bello_gildonico,193.0,"ingero, exterreo, cunabula, discolor, infer",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,194.0,"hic, fretus, socius, ipse, iam, princeps, magnus",7,"NaN, 0.5, 1.0, NaN, NaN, 0.5, 0.0",0.286,0.0,hic,0.143
+claudian.de_bello_gildonico,195.0,"incedo, pedes, praecurro, agmen, longus",5,"NaN, NaN, NaN, -1.0, 0.0",-0.2,-0.2,,0.0
+claudian.de_bello_gildonico,196.0,"circumdo, eques, turma, rego, cliens",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,197.0,"qui, noster, dito, spolium, proturbo, auitus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,198.0,"quisque, domus, uetus, detrudo, rus, colonus",6,"NaN, 0.0, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,199.0,"exsilium, dispergo, fero, numquam, -ne, reuorto",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+claudian.de_bello_gildonico,200.0,"fas, sum, erro, solum, iam, reddo, ciuis",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, 0.5",0.071,0.0,,0.0
+claudian.de_bello_gildonico,201.0,"eo, adhuc, in, uerbum, dolor, ni, iuppiter, altus",8,"NaN, NaN, NaN, 0.0, -1.0, NaN, NaN, 0.5",-0.062,-0.125,,0.0
+claudian.de_bello_gildonico,202.0,"coepio, solium, uoco, adamo, noto",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,203.0,"atropos, et, lachesis, iungo, stamen, dictum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,204.0,"neque, tu, roma, diu, neque, tu, patior, inultus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.062,-0.062,"tu, tu, inultus",0.375
+claudian.de_bello_gildonico,205.0,"africa, communis, prosterno, honorius, hostis",5,"NaN, 0.0, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+claudian.de_bello_gildonico,206.0,"pergo, securus, uester, uolo, nullus, tenor",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+claudian.de_bello_gildonico,207.0,"separo, et, solus, famulabitur, africa, roma",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+claudian.de_bello_gildonico,208.0,"dico, et, afflo, roma, bonus, iuuenta",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+claudian.de_bello_gildonico,209.0,"continuo, redeo, ille, uigor, seniique, color",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,210.0,"muto, coma, solido, crista, resurgo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,211.0,"erigo, galea, clipeus, recandesco, orbis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,recandesco,0.2
+claudian.de_bello_gildonico,212.0,"et, leuis, excutio, micuit, rubigo, cornus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,213.0,"umeo, iam, nox, equus, lethaeaque, somnus",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+claudian.de_bello_gildonico,214.0,"frenum, rego, taceo, uoluo, sidus, currus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,215.0,"iam, duo, diuus, proceres, magnus, paruus",6,"NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,216.0,"theodosii, pax, fero, gens, eo",5,"NaN, 0.5, NaN, 0.0, NaN",0.1,0.0,,0.0
+claudian.de_bello_gildonico,217.0,"qui, io, arcanus, moneo, mando, fero",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,218.0,"frater, et, geminus, sancio, foedero, regnum",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,foedero,0.167
+claudian.de_bello_gildonico,219.0,"sic, cum, praeceps, ars, uinco, procella",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,220.0,"assiduus, gemo, undaris, uerber, nuto",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,"undaris, uerber",0.4
+claudian.de_bello_gildonico,221.0,"descendo, ratis, caecus, sub, nox, uoco",6,"NaN, NaN, -1.0, NaN, 0.0, NaN",-0.167,-0.167,,0.0
+claudian.de_bello_gildonico,222.0,"naufragus, ledaei, sustento, uelo, lacones",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,naufragus,0.2
+claudian.de_bello_gildonico,223.0,"circulus, ut, pateo, luna, seco, meo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,224.0,"diuerto, italas, senex, tendo, in, ora",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,225.0,"at, pater, intro, pontus, qui, bosphorus, arto",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,226.0,"arcadii, thalamus, urbs, illapsus, eoae",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+claudian.de_bello_gildonico,227.0,"qui, simulac, uideo, nascor, nam, clarus, niteo",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+claudian.de_bello_gildonico,228.0,"cynthia, per-misceo, tremo, gaudium, fleo",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+claudian.de_bello_gildonico,229.0,"complector, foueo, qui, non, spero, artus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,230.0,"o, ego, post, alpes, nunc, primus, reddo, dico",8,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.062,0.0,,0.0
+claudian.de_bello_gildonico,231.0,"unde, tuus, opto, adsum, do, tango, dexter",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,232.0,"qui, gens, cado, fera, quis, talis, remoueo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,fera,0.143
+claudian.de_bello_gildonico,233.0,"praesidium, terra, ut, tu, mortalia, pridem",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.167
+claudian.de_bello_gildonico,234.0,"imploro, longus, pius, fortis, requiro",5,"NaN, 0.0, NaN, 0.5, NaN",0.1,0.0,,0.0
+claudian.de_bello_gildonico,235.0,"qui, pater, in, talis, rumpo, suspirium, uoco",7,"NaN, 0.0, NaN, NaN, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+claudian.de_bello_gildonico,236.0,"hic, sum, in, frater, medium, discordia, mauro",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.143
+claudian.de_bello_gildonico,237.0,"nascor, et, mundus, germanus, dissideo, aula",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+claudian.de_bello_gildonico,238.0,"gildonis, -ne, salus, tantus, sum, palmo, furor",7,"NaN, NaN, 1.0, NaN, NaN, NaN, -1.0",0.0,-0.143,furor,0.143
+claudian.de_bello_gildonico,239.0,"scilicet, egregius, mos, magnus, tueor",5,"NaN, 0.0, 0.5, 0.0, NaN",0.1,0.0,,0.0
+claudian.de_bello_gildonico,240.0,"et, qui, meritum, pietas, in, frater, recedo",7,"NaN, NaN, 1.0, 1.0, NaN, 0.0, NaN",0.286,0.0,,0.0
+claudian.de_bello_gildonico,241.0,"inuito, genitor, uideo, ciuilis, caleo",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+claudian.de_bello_gildonico,242.0,"discidium, dubius, sto, romana, sub, ictus",6,"NaN, -0.5, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+claudian.de_bello_gildonico,243.0,"quis, procul, armenius, uel, quis, maeotide, ripa",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,244.0,"rex, ignosco, ago, qui, ego, non, iuuo, eo",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,245.0,"auxilium, foueo, getae, uenio, geloni",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,246.0,"solus, at, hic, non, puppis, do, non, miles, mitto",9,"-0.5, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",-0.056,-0.056,hic,0.111
+claudian.de_bello_gildonico,247.0,"subsido, fluito, fides, si, signum, peto",6,"NaN, NaN, 1.0, NaN, 0.0, NaN",0.167,0.0,fluito,0.167
+claudian.de_bello_gildonico,248.0,"obuius, detego, summitto, hostis, doleo",5,"-0.5, NaN, NaN, -1.0, NaN",-0.3,-0.3,,0.0
+claudian.de_bello_gildonico,249.0,"resto, in, speculis, fatum, turbo, reduco",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,250.0,"libro, gemino, euenio, iudex, uireo",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+claudian.de_bello_gildonico,251.0,"ad, res, momentum, cliens, se-sequor, do",6,"NaN, 0.0, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,252.0,"uictor, fortuna, simul, cum, mens, pendeo",6,"NaN, 0.0, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+claudian.de_bello_gildonico,253.0,"o, si, non, cupidus, sum, praeripio, ab, astrum",8,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.062,-0.062,,0.0
+claudian.de_bello_gildonico,254.0,"exemplum, sequor, tullius, lanio, dumus",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,lanio,0.2
+claudian.de_bello_gildonico,255.0,"impius, diuerto, aptaris, membrum, quadrigae",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,impius,0.2
+claudian.de_bello_gildonico,256.0,"germanus, nunc, usque, tuus, respondeo, colo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,257.0,"en, iterum, calco, talis, tu, credo, monstrum",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,"tu, monstrum",0.286
+claudian.de_bello_gildonico,258.0,"post, pater, frater, paro, sed, magnus, rependo",7,"NaN, 0.0, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,259.0,"in, tuus, sors, numerosus, transfero, urbs",6,"NaN, 0.0, -1.0, NaN, NaN, 0.5",-0.083,-0.167,,0.0
+claudian.de_bello_gildonico,260.0,"ergo, fas, pretium, cedo, merces, placeo",6,"NaN, NaN, 1.0, NaN, 1.0, NaN",0.333,0.0,pretium,0.167
+claudian.de_bello_gildonico,261.0,"proditio, taceo, laedo, qui, transfuga, frater",6,"-0.5, NaN, NaN, NaN, -1.0, 0.0",-0.25,-0.25,"proditio, transfuga",0.333
+claudian.de_bello_gildonico,262.0,"qui, leuis, ingenium, quiuis, discrimen, superus",6,"NaN, 0.0, 0.5, NaN, -1.0, NaN",-0.083,-0.167,,0.0
+claudian.de_bello_gildonico,263.0,"proditor, apporto, suspendo, mors, salus",5,"-0.5, NaN, NaN, -1.0, 1.0",-0.1,-0.3,proditor,0.2
+claudian.de_bello_gildonico,264.0,"numquam, gratus, sum, damno, lux, reperio",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,damno,0.167
+claudian.de_bello_gildonico,265.0,"perfidia, neque, nos, patior, committo, talis",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,perfidia,0.167
+claudian.de_bello_gildonico,266.0,"hic, genus, emptor, ciuis, is, moenia, offero",7,"NaN, 0.0, 0.0, 0.5, NaN, NaN, NaN",0.071,0.0,"hic, emptor",0.286
+claudian.de_bello_gildonico,267.0,"hic, uendo, patria, plerusque, in, tempus, abutor",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, uendo",0.286
+claudian.de_bello_gildonico,268.0,"mox, odi, tamen, teneo, sic, graius, philippus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,philippus,0.143
+claudian.de_bello_gildonico,269.0,"oppidum, pellaeo, libertas, concido, aurum",5,"NaN, NaN, 0.5, NaN, 0.5",0.2,0.0,,0.0
+claudian.de_bello_gildonico,270.0,"romanus, scelus, semper, sperno, minister",5,"NaN, -1.0, NaN, NaN, 0.0",-0.2,-0.2,scelus,0.2
+claudian.de_bello_gildonico,271.0,"noxius, polliceor, dominus, misceo, ueneno",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,noxius,0.2
+claudian.de_bello_gildonico,272.0,"fabricius, rex, nudo, fraus, remitto",5,"NaN, 0.0, NaN, -1.0, NaN",-0.2,-0.2,fraus,0.2
+claudian.de_bello_gildonico,273.0,"infesto, qui, martes, peto, bellus, nego",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+claudian.de_bello_gildonico,274.0,"per, famulis, patraris, nefas, duco, camillus",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,nefas,0.167
+claudian.de_bello_gildonico,275.0,"trans, murus, puer, ob-sedeo, reddo, urbs",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+claudian.de_bello_gildonico,276.0,"trado, poenio, alius, is, proelio, tollo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,277.0,"hic, maneo, ut, moueo, qui, respuo, alter, in, hostis",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.111,-0.111,hic,0.111
+claudian.de_bello_gildonico,278.0,"suscipio, in, frater, longus, pro, dedecus, aeuum",7,"NaN, NaN, 0.0, 0.0, NaN, -1.0, NaN",-0.143,-0.143,dedecus,0.143
+claudian.de_bello_gildonico,279.0,"qui, placeo, austral, gildo, condono, habena",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,280.0,"tantus, muto, sequor, prouincia, mos",5,"NaN, NaN, NaN, 0.0, 0.5",0.1,0.0,,0.0
+claudian.de_bello_gildonico,281.0,"qui, ad, pars, animus, nutauerit, anceps",6,"NaN, NaN, 0.0, 0.5, NaN, -0.5",0.0,-0.083,,0.0
+claudian.de_bello_gildonico,282.0,"transfundo, cum, sui, libyam, refluus, malignus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+claudian.de_bello_gildonico,283.0,"commodo, imperium, mauri, sum, africa, munus",6,"NaN, 0.0, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+claudian.de_bello_gildonico,284.0,"tollo, massylas, fraudo, remoueo, bilinguis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"fraudo, bilinguis",0.4
+claudian.de_bello_gildonico,285.0,"insidiae, et, uerbum, solus, spiro, uirus",6,"NaN, NaN, 0.0, -0.5, NaN, NaN",-0.083,-0.083,insidiae,0.167
+claudian.de_bello_gildonico,286.0,"ne, consanguineus, certo, comminus, arma",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,287.0,"ne, precor, hic, trux, thebis, hic, dignus, mycenis",8,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.125,0.0,"hic, trux, hic",0.375
+claudian.de_bello_gildonico,288.0,"in, mauros, hic, crimen, eo, quis, noster, iniquus",8,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, -1.0",-0.25,-0.25,"hic, crimen, iniquus",0.375
+claudian.de_bello_gildonico,289.0,"molio, stilicho, quando, non, ille, iubeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,290.0,"pareo, an, quisquam, nos, deuincio, extat",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,291.0,"ut, sileo, uaries, cum, ego, qui, gero, ago",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,292.0,"qui, uideo, post, fatum, loquor, cum, diuus, abeo",8,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,293.0,"res, incompositas, fateor, tumidasque, reliquus",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,294.0,"stringo, ueto, etiamnum, exercitus, ensis",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,295.0,"alpinis, odium, alterno, iurgium, uinco",5,"NaN, -1.0, NaN, -1.0, NaN",-0.4,-0.4,,0.0
+claudian.de_bello_gildonico,296.0,"uictor, do, uix, hic, amentia, noster",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,"hic, amentia",0.333
+claudian.de_bello_gildonico,297.0,"excubiae, nedum, puer, rector, quiesco",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,298.0,"heu, quantus, timeo, tu, quis, liber, tantus",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,"heu, tu",0.286
+claudian.de_bello_gildonico,299.0,"miles, audeo, moles, cum, pater, remoueo",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,300.0,"ferueret, iam, laetus, nouus, dissentio, acerbus",6,"NaN, NaN, 1.0, 1.0, NaN, -1.0",0.167,-0.167,acerbus,0.167
+claudian.de_bello_gildonico,301.0,"et, grauis, consentio, sum, tunc, ipse, paternus",7,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+claudian.de_bello_gildonico,302.0,"succedo, pietas, ego, tener, rudis",5,"NaN, 1.0, NaN, NaN, -0.5",0.1,-0.1,,0.0
+claudian.de_bello_gildonico,303.0,"foueo, et, in, uerus, educo, princeps, annus",7,"NaN, NaN, NaN, 0.5, NaN, 0.5, 0.0",0.143,0.0,,0.0
+claudian.de_bello_gildonico,304.0,"rufinumque, tu, queror, tu, tremo, fateor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.333
+claudian.de_bello_gildonico,305.0,"depello, hic, solus, memoro, solus, fidelis",6,"NaN, NaN, -0.5, NaN, -0.5, 1.0",0.0,-0.167,hic,0.167
+claudian.de_bello_gildonico,306.0,"experior, uolo, si, quis, dum, uito, maneo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,307.0,"aut, uideo, uolo, gero, uenerabilis, ille",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,308.0,"ceu, praesens, numen, uoco, si, tantus, recuso",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,309.0,"at, socer, reuerendus, fax, at, respicio, frater",7,"NaN, NaN, 1.0, NaN, NaN, NaN, 0.0",0.143,0.0,fax,0.143
+claudian.de_bello_gildonico,310.0,"conubium, pignus, meus, regal, serenus",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,311.0,"debeo, etiam, fraternus, obuius, eo",5,"NaN, NaN, 0.0, -0.5, NaN",-0.1,-0.1,fraternus,0.2
+claudian.de_bello_gildonico,312.0,"hostis, ille, tuus, qui, gens, quis, rhenus, et, hister",9,"-1.0, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN",-0.111,-0.111,,0.0
+claudian.de_bello_gildonico,313.0,"tu, ops, iungo, conspirantesque, fero",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.2
+claudian.de_bello_gildonico,314.0,"sed, tantus, permitto, cado, nihil, posco, ultra",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,315.0,"ille, licet, sui, praetendo, syrtis, armo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,316.0,"oppono, atlante, tego, licet, aruum, refercio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,317.0,"anguis, et, sol, medius, ob-iacio, aestus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,318.0,"nosco, consilium, nosco, stilichonis, in, omnis",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.de_bello_gildonico,319.0,"aequalis, casus, animus, penetro, harena",5,"0.5, 0.0, 0.5, NaN, NaN",0.2,0.0,,0.0
+claudian.de_bello_gildonico,320.0,"inuenio, uirtus, uia, sic, diuus, et, inde",7,"NaN, 1.0, 0.0, NaN, 0.0, NaN, NaN",0.143,0.0,,0.0
+claudian.de_bello_gildonico,321.0,"sic, nascor, iussum, genitor, pareo, ultro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,322.0,"amplector, praecipio, libet, neque, carus, alter",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+claudian.de_bello_gildonico,323.0,"cognatus, stilichone, ego, committo, profanus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,profanus,0.2
+claudian.de_bello_gildonico,324.0,"ille, luo, redeo, iam, tueor, africa, frater",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,luo,0.143
+claudian.de_bello_gildonico,325.0,"talis, dum, longus, cum, sui, sermo, retexunt",7,"NaN, NaN, 0.0, NaN, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+claudian.de_bello_gildonico,326.0,"hesperiam, peruenio, auus, castus, cubile",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,327.0,"ingredior, tyrio, quo, fundo, honorius, ostrum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,328.0,"carpo, tener, mare, cum, coniunx, somnus",6,"NaN, NaN, 0.0, NaN, -0.5, 0.5",0.0,-0.083,,0.0
+claudian.de_bello_gildonico,329.0,"assisto, caput, tunc, sic, per, somnio, for",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,330.0,"tantus, deuinco, teneo, fiducia, mauros",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+claudian.de_bello_gildonico,331.0,"caris, nepos, iterum, post, ego, coniuro, in, arma",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,coniuro,0.125
+claudian.de_bello_gildonico,332.0,"progenies, uesanus, iuba, bellus, resumo",5,"0.0, NaN, NaN, 1.0, NaN",0.2,0.0,uesanus,0.2
+claudian.de_bello_gildonico,333.0,"uictor, cum, stirps, suus, firmum, -ne, iaceo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,iaceo,0.143
+claudian.de_bello_gildonico,334.0,"obliuiscor, libyam, noster, sudor, recipio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,335.0,"rursus, habeo, audeo, latium, contendo, gildo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,336.0,"germanus, neque, fatum, timeo, nunc, eo, profecto",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,337.0,"nunc, uolo, nosco, senex, ostendo, uultus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,338.0,"nonne, meus, fugio, maurus, cum, uideo, umbra",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,maurus,0.143
+claudian.de_bello_gildonico,339.0,"quis, dubito, exsurgo, torus, inuado, rebello",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,rebello,0.167
+claudian.de_bello_gildonico,340.0,"captiuus, ego, reddo, meus, desisto, moraris",6,"-1.0, NaN, NaN, 0.0, NaN, NaN",-0.167,-0.167,captiuus,0.167
+claudian.de_bello_gildonico,341.0,"hic, gener, fatalis, tuus, dum, sanguis, in, orbis",8,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.125
+claudian.de_bello_gildonico,342.0,"noster, sum, semper, palleo, regius, bocchi",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,343.0,"iungo, spolium, firmus, gildonis, opimus",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+claudian.de_bello_gildonico,344.0,"exorno, geminus, maurusia, laureus, currus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,345.0,"unus, domus, totiens, unus, de, gens, triumpho",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,346.0,"deus, bene, qui, tantus, interlabor, annus",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,347.0,"seruo, firmusque, ego, frater, nepos",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,348.0,"dico, et, afflo, uicinus, sol, refugio",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,349.0,"at, iuuenis, stimulus, immanis, aemulo, uirtus",6,"NaN, NaN, 0.0, 0.0, NaN, 1.0",0.167,0.0,"stimulus, immanis",0.333
+claudian.de_bello_gildonico,350.0,"exacuo, iam, puppis, ueho, iam, stagnum, secaris",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,stagnum,0.143
+claudian.de_bello_gildonico,351.0,"ferueo, et, absum, inuado, cuspis, mauros",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+claudian.de_bello_gildonico,352.0,"tum, iubeo, accio, socer, dexter, uoco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,353.0,"consero, et, qui, sum, potis, sententia, quaero",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,354.0,"per, somnus, ego, sancio, pater, iam, saepe, sum",8,"NaN, 0.5, NaN, NaN, 0.0, NaN, NaN, NaN",0.062,0.0,,0.0
+claudian.de_bello_gildonico,355.0,"pando, multa, cano, praesagium, nox",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,356.0,"namque, procul, libycos, uenor, cingo, saltus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,libycos,0.167
+claudian.de_bello_gildonico,357.0,"et, iugum, rimaris, canis, gaetula, uideo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,gaetula,0.167
+claudian.de_bello_gildonico,358.0,"maereo, regius, saeuus, uasto, leo",5,"NaN, 0.0, -1.0, NaN, NaN",-0.2,-0.2,"saeuus, uasto, leo",0.6
+claudian.de_bello_gildonico,359.0,"incursus, pecus, strages, passim, iuuencus",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,strages,0.2
+claudian.de_bello_gildonico,360.0,"seminecis, et, adhuc, inficio, mapalia, to",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,seminecis,0.167
+claudian.de_bello_gildonico,361.0,"spargo, sanguineus, pastor, funero, campus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,362.0,"aggredior, latebra, monstrum, mirus, refero",5,"NaN, -0.5, 0.5, 1.0, NaN",0.2,-0.1,monstrum,0.2
+claudian.de_bello_gildonico,363.0,"conspicio, dilabor, honor, ceruix, minax",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+claudian.de_bello_gildonico,364.0,"defluo, iuba, frango, inglorius, armus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,365.0,"suppono, seruilis, gemo, iniecto, uinclum",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,uinclum,0.2
+claudian.de_bello_gildonico,366.0,"unguis, et, subeo, collum, sono, catena",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,catena,0.167
+claudian.de_bello_gildonico,367.0,"nunc, etiam, par, cum, sui, certo, tropaeum",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.de_bello_gildonico,368.0,"hortator, ego, cogo, auus, quonam, usque, remoueo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,369.0,"cuncto, decet, pridem, compleo, biremis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,370.0,"et, pelagus, supero, mora, transmitto, primus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+claudian.de_bello_gildonico,371.0,"ipse, paro, quicumque, meus, gens, barbarum, nutus",7,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,barbarum,0.143
+claudian.de_bello_gildonico,372.0,"stringo, aduenio, germania, cunctus, fero",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,373.0,"nauis, et, socio, comito, classis, sygambri",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,classis,0.167
+claudian.de_bello_gildonico,374.0,"pallidus, transfero, iam, sentio, africa, rhenus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,375.0,"an, patior, tot, probrum, sedeo, iuuenis, relinquo",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,probrum,0.143
+claudian.de_bello_gildonico,376.0,"qui, tenuis, rexique, puer, bis, noster, ad, alpes",8,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,377.0,"alter, genitor, defendo, regnum, curro",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,378.0,"nos, praeda, facilis, insultandique, iaceo",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,iaceo,0.2
+claudian.de_bello_gildonico,379.0,"finio, stilicho, contra, qui, talis, reddo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,380.0,"aduerro, -ne, tuba, princeps, digno, mauri",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+claudian.de_bello_gildonico,381.0,"aufero, ignauus, clarus, solacium, letum",5,"NaN, -1.0, 0.5, 1.0, -1.0",-0.1,-0.4,ignauus,0.2
+claudian.de_bello_gildonico,382.0,"tu, bellor, morior, decerno, honorius, inde",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+claudian.de_bello_gildonico,383.0,"hinc, gildo, prior, astrum, chaos, misceo, a-uerno",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,chaos,0.143
+claudian.de_bello_gildonico,384.0,"uindicta, mando, satis, sum, multus, nomen, horror",7,"NaN, NaN, 0.5, NaN, 0.0, 0.0, -1.0",-0.071,-0.143,uindicta,0.143
+claudian.de_bello_gildonico,385.0,"quam, tuus, ensis, ago, minuo, praesens, fama",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, 1.0",0.143,0.0,,0.0
+claudian.de_bello_gildonico,386.0,"qui, sto, aequo, campus, confero, nescio",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,387.0,"maiestas, acies, sed, qui, magis, utilis, factus",7,"NaN, 0.0, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+claudian.de_bello_gildonico,388.0,"atque, hostis, grauis, sensus, aduerto, doceo",6,"NaN, -1.0, -0.5, 0.5, NaN, NaN",-0.167,-0.25,,0.0
+claudian.de_bello_gildonico,389.0,"sum, ille, pater, sed, non, et, mos, idem",8,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,,0.0
+claudian.de_bello_gildonico,390.0,"mascezel, fugio, qui, dirus, piaculum, frater",6,"NaN, NaN, NaN, -1.0, NaN, 0.0",-0.167,-0.167,dirus,0.167
+claudian.de_bello_gildonico,391.0,"spes, suus, uita, tuus, committo, asylum",6,"0.5, NaN, 0.0, 0.0, NaN, NaN",0.083,0.0,,0.0
+claudian.de_bello_gildonico,392.0,"hic, ubi, temptas, frustra, macto, nequeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+claudian.de_bello_gildonico,393.0,"insidiae, patria, in, pignus, confero, ira",6,"NaN, NaN, NaN, 0.0, NaN, -1.0",-0.167,-0.167,insidiae,0.167
+claudian.de_bello_gildonico,394.0,"et, qui, ipse, sinus, paruus, gesto, unus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,395.0,"occido, iuuenis, inhumo, corpus, uulgo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,occido,0.2
+claudian.de_bello_gildonico,396.0,"dispello, et, tumulus, cognata, arceo, umbra",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,397.0,"natura, simul, frater, homo, cruentus",5,"0.0, NaN, 0.0, 0.0, NaN",0.0,0.0,cruentus,0.2
+claudian.de_bello_gildonico,398.0,"exuo, et, tenuis, caedo, inuideo, harena",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,399.0,"hic, facinus, refugus, damno, sol, mycenas",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,"hic, facinus, damno",0.5
+claudian.de_bello_gildonico,400.0,"auerto, dies, scelus, sed, reddo, atreus",6,"NaN, 0.0, -1.0, NaN, NaN, NaN",-0.167,-0.167,scelus,0.167
+claudian.de_bello_gildonico,401.0,"crimen, et, infer, excuso, coniunx, mensa",6,"-1.0, NaN, NaN, NaN, -0.5, 0.0",-0.25,-0.25,crimen,0.167
+claudian.de_bello_gildonico,402.0,"hic, odium, non, poena, sum, tu, perdo, ius",8,"NaN, -1.0, NaN, -1.0, NaN, NaN, NaN, 0.5",-0.188,-0.25,"hic, poena, tu",0.375
+claudian.de_bello_gildonico,403.0,"tu, pater, ultor, tu, nudus, puluis, manes",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"tu, ultor, tu",0.429
+claudian.de_bello_gildonico,404.0,"tu, pietas, polluo, rogo, si, fleo, ara",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,"tu, polluo",0.286
+claudian.de_bello_gildonico,405.0,"et, proprius, miser, numen, statuo, athenae",6,"NaN, 0.0, -1.0, NaN, NaN, NaN",-0.167,-0.167,miser,0.167
+claudian.de_bello_gildonico,406.0,"si, pandionias, plango, traho, phalanx",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,407.0,"inachides, bellus, rogus, mereo, maritus",5,"NaN, 1.0, NaN, NaN, 0.0",0.2,0.0,"rogus, maritus",0.4
+claudian.de_bello_gildonico,408.0,"si, maestus, squalor, coma, lacrima, senatus",6,"NaN, -1.0, -0.5, NaN, NaN, 0.5",-0.167,-0.25,squalor,0.167
+claudian.de_bello_gildonico,409.0,"in, numida, pello, solium, commoueo, adherbal",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,410.0,"hic, quoque, nunc, gildo, tantus, qui, funus, mergo",8,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.062,-0.062,hic,0.125
+claudian.de_bello_gildonico,411.0,"hic, doleo, uenio, dux, se-sequor, paruus",6,"NaN, NaN, NaN, 0.5, NaN, 0.0",0.083,0.0,hic,0.167
+claudian.de_bello_gildonico,412.0,"supplex, scio, sum, tuus, qui, sedes, fugo",7,"0.0, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,413.0,"hic, praeceps, fugio, frango, qui, clades, tremiscat",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,hic,0.143
+claudian.de_bello_gildonico,414.0,"agnoscatque, suus, traho, dum, uictima, frater",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,415.0,"hic, ubi, sedeo, gener, nosco, mars",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+claudian.de_bello_gildonico,416.0,"robur, praecipuus, eligo, pubes, manipulus",5,"0.5, 0.0, NaN, NaN, NaN",0.1,0.0,,0.0
+claudian.de_bello_gildonico,417.0,"dispono, portus, ratis, instauro, etrusco",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,418.0,"herculeam, suus, alcides, iouiamque, cohors",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,alcides,0.2
+claudian.de_bello_gildonico,419.0,"rex, duco, superi, premo, neque, signifer, ullus",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,420.0,"pondus, festino, adeo, uexillum, moueo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,421.0,"neruius, insequor, mereo, uocabulum, felix",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+claudian.de_bello_gildonico,422.0,"dietaque, ab, augustus, legio, nomen, probo",6,"NaN, NaN, 1.0, 0.0, 0.0, NaN",0.167,0.0,,0.0
+claudian.de_bello_gildonico,423.0,"inuictus, clipeus, animosus, testis, leo",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,leo,0.2
+claudian.de_bello_gildonico,424.0,"dictum, ante, tamen, princeps, confirmo, eo",6,"0.0, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+claudian.de_bello_gildonico,425.0,"aggero, conspicuus, sto, circumfundo, iuuentus",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+claudian.de_bello_gildonico,426.0,"nitor, hasta, pronasque, ferox, accommodo, auris",6,"1.0, NaN, NaN, -1.0, NaN, NaN",0.0,-0.167,ferox,0.167
+claudian.de_bello_gildonico,427.0,"gildonem, domo, manus, promitto, mino",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,428.0,"tempus, ago, si, quis, pro, ego, doleo, in, arma",9,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,429.0,"ostentas, ego, iustus, magnus, triumphus",5,"NaN, NaN, 1.0, 0.0, NaN",0.2,0.0,,0.0
+claudian.de_bello_gildonico,430.0,"ciuilis, aboleo, nosco, scio, orbis, eous",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.de_bello_gildonico,431.0,"sum, palam, gallus, causa, non, robur, uinco",7,"NaN, NaN, NaN, 0.0, NaN, 0.5, NaN",0.071,0.0,gallus,0.143
+claudian.de_bello_gildonico,432.0,"neque, tu, barbaries, quiuis, colligo, omnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+claudian.de_bello_gildonico,433.0,"terreo, an, mauri, fremo, raucosque, repello",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,434.0,"umbo, et, uester, patior, comminus, ensis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,435.0,"non, contra, clipeus, tego, gladius, mico",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,436.0,"eo, in, sol, longus, fiducia, telum",6,"NaN, NaN, NaN, 0.0, 0.5, NaN",0.083,0.0,,0.0
+claudian.de_bello_gildonico,437.0,"exarmo, sum, cum, missilis, torqueo, hostis",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+claudian.de_bello_gildonico,438.0,"dextera, moueo, iaculis, praetentat, pallium, laeua",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,439.0,"ceterus, nudus, eques, sonipes, ignarus, habena",6,"0.0, 0.0, 0.0, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+claudian.de_bello_gildonico,440.0,"uirga, rego, non, ullus, fides, non, agmen, ordo",8,"NaN, NaN, NaN, NaN, 1.0, NaN, -1.0, 0.5",0.062,-0.125,,0.0
+claudian.de_bello_gildonico,441.0,"arma, onus, fuga, praesidium, conubium, mille",6,"0.0, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+claudian.de_bello_gildonico,442.0,"non, ille, genus, necto, non, pignus, cura",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, -1.0",-0.143,-0.143,,0.0
+claudian.de_bello_gildonico,443.0,"sed, numerus, langueo, pietas, hic, copia, uulgus",7,"NaN, NaN, NaN, 1.0, NaN, 0.5, 0.0",0.214,0.0,hic,0.143
+claudian.de_bello_gildonico,444.0,"umbro, dux, ipse, rodo, et, marcidus, eo",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.de_bello_gildonico,445.0,"unguentum, crudus, cibus, titubansque, lyaeo",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,unguentum,0.2
+claudian.de_bello_gildonico,446.0,"conficio, senium, morbus, stuprisque, soluo",5,"NaN, -0.5, -1.0, NaN, NaN",-0.3,-0.3,,0.0
+claudian.de_bello_gildonico,447.0,"excito, incestus, turmal, bucina, somnus",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,incestus,0.2
+claudian.de_bello_gildonico,448.0,"imploro, cithara, cantatricesque, chorea",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,449.0,"offendo, stridor, tuba, disco, cogo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,450.0,"qui, uigilo, ueneri, castrum, impendeo, nox",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,451.0,"nonne, morior, sero, uita, quam, fero, pudor",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.5",0.071,0.0,pudor,0.143
+claudian.de_bello_gildonico,452.0,"nam, qui, iam, regius, resto, si, dedo, mauris",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,453.0,"rex, illyricis, accedo, africa, damnum",5,"0.0, NaN, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+claudian.de_bello_gildonico,454.0,"ius, latium, qui, tunc, meroe, rubroque, soleo",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+claudian.de_bello_gildonico,455.0,"oceanus, cingo, tyrrhena, claudo, unda",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,456.0,"et, qui, non, nilus, non, infero, india, meto",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,457.0,"romanus, iam, finis, sum, trinacria, regnum",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,458.0,"eo, recipio, praedo, qui, tollo, axis",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,459.0,"eripio, notus, caput, insuperabilis, res",5,"NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,460.0,"aut, ruo, in, uester, aut, sto, roma, lacertus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,461.0,"tot, ego, debeo, populus, tot, rus, tot, urbs",8,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, 0.5",0.062,0.0,,0.0
+claudian.de_bello_gildonico,462.0,"amitto, unus, libyam, defendo, bellum",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,463.0,"uester, imperium, remus, et, uester, sequor",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,464.0,"carbasus, despectas, trans, aequor, duco, lex",6,"NaN, NaN, NaN, 0.0, NaN, 0.5",0.083,0.0,,0.0
+claudian.de_bello_gildonico,465.0,"tertius, iam, soleo, ceruix, mucro, roto",6,"0.0, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+claudian.de_bello_gildonico,466.0,"tandem, funereus, finis, pono, tyrannus",5,"NaN, -0.5, 0.0, NaN, NaN",-0.1,-0.1,tyrannus,0.2
+claudian.de_bello_gildonico,467.0,"omen, conuenio, dico, fuluusque, tono",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,468.0,"armiger, ab, liquidus, cunctus, specto, aethra",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,469.0,"corripio, pes, curuus, innecto, hydrus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hydrus,0.2
+claudian.de_bello_gildonico,470.0,"dum, reluctor, morsus, partio, obuncus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,morsus,0.2
+claudian.de_bello_gildonico,471.0,"haereo, in, unguis, caput, trunco, decido, anguis",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,472.0,"ilicet, augurium, alacer, per, saxum, citas",6,"NaN, 0.5, 1.0, NaN, 0.0, NaN",0.25,0.0,,0.0
+claudian.de_bello_gildonico,473.0,"torreo, ruo, neque, mons, aut, silua, retardo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,474.0,"pendulus, ceu, paruus, moueo, bellum, colonia",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,475.0,"ingens, clangor, gruo, aestiuus, relinquo",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,gruo,0.2
+claudian.de_bello_gildonico,476.0,"thracia, cum, tepidus, permuto, strymona, nilus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,477.0,"ordo, uarius, per, nubila, texitur, ales",6,"0.5, 0.0, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+claudian.de_bello_gildonico,478.0,"littera, penna, nosco, conscribo, aer",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,479.0,"ut, fluctus, tango, mare, tunc, acer, ardeo",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,480.0,"impetus, ad-rapio, nauo, ipse, rudo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,481.0,"expedio, et, uelo, lego, et, cornu, summus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,482.0,"adsociant, malus, quatio, tyrrhena, tumultus",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,,0.0
+claudian.de_bello_gildonico,483.0,"os, neque, alpheae, capio, nauale, pisa",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,484.0,"sic, agamemnoniam, uindex, cum, graecia, classis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"uindex, classis",0.333
+claudian.de_bello_gildonico,485.0,"soluo, innumerus, ferueo, uox, aulis",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,486.0,"non, ille, strepitus, impendentisque, procella",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,487.0,"signum, neque, aduenio, dubius, deterreo, auster",6,"0.0, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+claudian.de_bello_gildonico,488.0,"uello, proclamo, socius, iam, uello, funis",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+claudian.de_bello_gildonico,489.0,"per, uado, gildonem, quiuis, aduerso, peto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,490.0,"ad, bellum, nos, trudo, hiems, per, deuius, pontus",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,491.0,"quasso, cupio, tellus, figo, rostrum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,492.0,"heu, nimium, segnis, caueo, qui, mens, notas",7,"NaN, 0.0, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,heu,0.143
+claudian.de_bello_gildonico,493.0,"si, reuolo, mergo, gradior, si, litus, cornix",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,494.0,"os, licet, maculis, adsperserit, occiduus, sol",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,495.0,"luno, concipio, liuescat, turgidus, cauris",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,496.0,"et, contundo, uagus, iaculor, sidus, crinis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,497.0,"imber, umescant, haedus, nimbosus, taurus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,498.0,"duco, hyas, totus, fretus, descendo, oreon",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+claudian.de_bello_gildonico,499.0,"certus, fides, caelum, sed, magnus, honorius, auctor",7,"0.5, 1.0, 0.5, NaN, 0.0, NaN, NaN",0.286,0.0,,0.0
+claudian.de_bello_gildonico,500.0,"ille, auspicium, immensus, per, aequor, miles",6,"NaN, 0.0, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,501.0,"non, plaustrum, arctoue, regor, contem, -ne, boote, -ne",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,502.0,"nauta, turbo, medius, permitto, carino",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,503.0,"si, ego, tempestas, libyam, uenio, nego",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,504.0,"augustus, fortuna, do, iam, classis, in, altus",7,"1.0, 0.0, NaN, NaN, NaN, NaN, 0.5",0.214,0.0,classis,0.143
+claudian.de_bello_gildonico,505.0,"proueho, dextera, ligures, etruria, laeua",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,506.0,"linquo, et, caecus, uito, corsica, saxum",6,"NaN, NaN, -1.0, NaN, NaN, 0.0",-0.167,-0.167,,0.0
+claudian.de_bello_gildonico,507.0,"humanus, species, planta, sui, magnus, figuro",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,508.0,"insula, sardinia, uetus, dico, colonus",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,509.0,"diues, ager, frugum, poenos, italosue, peto",6,"0.5, 0.0, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+claudian.de_bello_gildonico,510.0,"opportunus, sino, qui, pars, uicinus, afris",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,511.0,"planum, solum, ratis, clemens, qui, respicio, arceo, -ne",8,"NaN, 0.0, NaN, 1.0, NaN, NaN, NaN, NaN",0.125,0.0,planum,0.125
+claudian.de_bello_gildonico,512.0,"immitis, scopulosus, procax, subeo, sonorus",5,"-1.0, NaN, -1.0, NaN, NaN",-0.4,-0.4,"immitis, procax",0.4
+claudian.de_bello_gildonico,513.0,"flatus, insanus, infamo, nauta, mons",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,"insanus, infamo",0.4
+claudian.de_bello_gildonico,514.0,"hic, homo, pecus, luo, sic, pestifer, aer",7,"NaN, 0.0, NaN, NaN, NaN, -1.0, 0.0",-0.143,-0.143,"hic, luo, pestifer",0.429
+claudian.de_bello_gildonico,515.0,"saeuio, et, excludo, regno, aquilo, auster",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,saeuio,0.167
+claudian.de_bello_gildonico,516.0,"qui, ubi, luctas, procul, effugio, carina",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+claudian.de_bello_gildonico,517.0,"per, diuerto, ruo, sinuosus, litus, terra",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,518.0,"pars, adeo, antiquus, duco, carthago, sulcus",6,"0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,519.0,"pars, litoreus, complector, olbia, murus",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,520.0,"urbs, libyam, contra, tyrio, fundo, potens",6,"0.5, NaN, NaN, NaN, NaN, 1.0",0.25,0.0,,0.0
+claudian.de_bello_gildonico,521.0,"tendo, in, longus, caral, tenuis, per, unda",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+claudian.de_bello_gildonico,522.0,"obuius, dimitto, frango, flamen, collis",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+claudian.de_bello_gildonico,523.0,"efficio, portus, medius, mare, tueor, uenio",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+claudian.de_bello_gildonico,524.0,"omnis, ingens, mansuesco, stagnum, recessus",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,stagnum,0.2
+claudian.de_bello_gildonico,525.0,"hic, omnis, peto, manus, prorisque, reduco",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.167
+claudian.de_bello_gildonico,526.0,"suspendo, zephyros, ex-pecto, classis, faueo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,classis,0.2

@@ -1,0 +1,476 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+horace.ars_poetica,1.0,"humanus, caput, ceruix, pictor, equinus",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,2.0,"iungo, si, uolo, et, uario, induco, pluma",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,3.0,"undique, confero, membrum, ut, turpis, ater",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,turpis,0.167
+horace.ars_poetica,4.0,"desino, in, piscis, mulier, formosus, supernus",6,"NaN, NaN, NaN, 0.0, 1.0, NaN",0.167,0.0,mulier,0.167
+horace.ars_poetica,5.0,"spectas, admitto, risus, teneo, amicus",5,"NaN, NaN, 0.0, NaN, 1.0",0.2,0.0,,0.0
+horace.ars_poetica,6.0,"credo, piso, iste, tabula, sum, liber",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+horace.ars_poetica,7.0,"persimilis, qui, uelut, aeger, somnio, uanus",6,"NaN, NaN, NaN, -1.0, NaN, -0.5",-0.25,-0.25,uanus,0.167
+horace.ars_poetica,8.0,"fingo, species, ut, neque, pes, neque, caput, unus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,fingo,0.125
+horace.ars_poetica,9.0,"reddo, forma, pictor, atque, poeta",5,"NaN, 1.0, NaN, NaN, 0.0",0.2,0.0,,0.0
+horace.ars_poetica,10.0,"quis, audeo, semper, sum, aequus, potestas",6,"NaN, NaN, NaN, NaN, 0.5, 0.5",0.167,0.0,,0.0
+horace.ars_poetica,11.0,"scio, et, hic, uenio, peto, do, uicissim",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+horace.ars_poetica,12.0,"sed, non, ut, placidus, coeo, immitis, non, ut",8,"NaN, NaN, NaN, 1.0, NaN, -1.0, NaN, NaN",0.0,-0.125,immitis,0.125
+horace.ars_poetica,13.0,"serpo, auis, gemino, tigris, agnus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,serpo,0.2
+horace.ars_poetica,14.0,"inceptum, grauis, plerusque, et, magnus, profiteor",6,"NaN, -0.5, NaN, NaN, 0.0, NaN",-0.083,-0.083,,0.0
+horace.ars_poetica,15.0,"purpureus, latus, qui, splendeo, unus, et, alter",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,16.0,"ad-suo, pannus, cum, lucus, et, ara, diana",7,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+horace.ars_poetica,17.0,"et, propero, aqua, per, amoenus, ambitus, ager",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,18.0,"aut, flumen, rhenus, aut, pluuius, describo, arcus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,19.0,"sed, nunc, non, sum, hic, locus, et, fortasse, cupressus",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.111
+horace.ars_poetica,20.0,"scio, simularis, quis, hic, si, frango, enato, exspes",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,"hic, exspes",0.25
+horace.ars_poetica,21.0,"nauis, aer, do, qui, pingo, amphora, coepio",7,"0.0, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,22.0,"instituo, curro, rota, cur, urceus, exeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,23.0,"denique, sum, quiuis, simplex, dumtaxat, et, unus",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+horace.ars_poetica,24.0,"maximus, pars, uates, pater, et, iuuenis, pater, dignus",8,"NaN, 0.0, NaN, 0.0, NaN, NaN, 0.0, 1.0",0.125,0.0,,0.0
+horace.ars_poetica,25.0,"decipio, species, recingo, breuis, sum, laboro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,decipio,0.167
+horace.ars_poetica,26.0,"obscurus, fio, sector, leuis, neruus",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.ars_poetica,27.0,"deficio, animus, profiteor, grandis, turget",5,"NaN, 0.5, NaN, 0.0, NaN",0.1,0.0,,0.0
+horace.ars_poetica,28.0,"serpo, humus, tueor, nimium, timidus, procella",6,"NaN, NaN, NaN, 0.0, -0.5, NaN",-0.083,-0.083,"serpo, humus, timidus",0.5
+horace.ars_poetica,29.0,"qui, uariaris, cupio, res, prodigialis, unus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,30.0,"delphinum, silua, ad-pingo, fluctus, aper",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,delphinum,0.2
+horace.ars_poetica,31.0,"in, uitium, duco, culpa, fuga, si, careo, ars",8,"NaN, -1.0, NaN, -1.0, -0.5, NaN, NaN, 0.0",-0.312,-0.312,culpa,0.125
+horace.ars_poetica,32.0,"aemilium, circa, ludus, faber, imus, et, unguis",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,33.0,"exprimo, et, mollio, imito, aer, capillus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,capillus,0.167
+horace.ars_poetica,34.0,"infelix, opus, summus, quia, pono, totus",6,"-1.0, 0.5, NaN, NaN, NaN, NaN",-0.083,-0.167,infelix,0.167
+horace.ars_poetica,35.0,"nescio, hic, ego, ego, si, quis, compono, curo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+horace.ars_poetica,36.0,"non, magis, sum, uolo, quam, naso, uiuo, prauus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,prauus,0.125
+horace.ars_poetica,37.0,"specto, niger, oculus, niger, capillus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,capillus,0.2
+horace.ars_poetica,38.0,"sumo, materia, uester, qui, scribo, aequus",6,"NaN, 0.0, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+horace.ars_poetica,39.0,"uis, et, uerso, diu, quis, fero, recuso",7,"1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+horace.ars_poetica,40.0,"quis, ualeo, umerus, qui, lego, potens, sum, res",8,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN, 0.0",0.125,0.0,,0.0
+horace.ars_poetica,41.0,"neque, facundia, desero, hic, neque, lucidus, ordo",7,"NaN, 1.0, NaN, NaN, NaN, NaN, 0.5",0.214,0.0,hic,0.143
+horace.ars_poetica,42.0,"ordo, hic, uirtus, sum, et, uenus, aut, ego, fallo",9,"0.5, NaN, 1.0, NaN, NaN, 1.0, NaN, NaN, NaN",0.278,0.0,"hic, fallo",0.222
+horace.ars_poetica,43.0,"ut, iam, nunc, dico, iam, nunc, debeo, dico",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,44.0,"plerusque, differo, et, praesens, in, tempus, omitto",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.ars_poetica,45.0,"in, uerbum, etiam, tenuis, caueo, sero, hic, amo, hic, sperno, promitto, carmen, auctor",13,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, hic",0.154
+horace.ars_poetica,46.0,"dico, egregius, notus, si, callidus, uerbum",6,"NaN, 0.0, 0.0, NaN, 1.0, 0.0",0.167,0.0,callidus,0.167
+horace.ars_poetica,47.0,"reddo, iungo, nouus, si, fors, necesse, sum",7,"NaN, NaN, 1.0, NaN, 0.0, 0.0, NaN",0.143,0.0,,0.0
+horace.ars_poetica,48.0,"indicium, monstraris, recens, abdo, res, et",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.ars_poetica,50.0,"fingo, cinctus, non, exaudio, cethegis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,fingo,0.2
+horace.ars_poetica,51.0,"contingo, do, licentia, sumo, pudenter",5,"NaN, NaN, -0.5, NaN, NaN",-0.1,-0.1,licentia,0.2
+horace.ars_poetica,52.0,"et, nouo, fingo, nuper, habeo, uerbum, fides, si",8,"NaN, NaN, NaN, NaN, NaN, 0.0, 1.0, NaN",0.125,0.0,fingo,0.125
+horace.ars_poetica,53.0,"graecus, fons, cado, parco, detorqueo, quis, autem",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,54.0,"caecilio, plautus, do, romanus, adimo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,55.0,"uergilio, uario, ego, cur, acquiro, paucus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,56.0,"si, possum, inuideo, cum, lingua, cato, et, enni",8,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.062,-0.062,,0.0
+horace.ars_poetica,57.0,"sermo, patrius, dito, et, nouo, res",6,"-0.5, 0.0, NaN, NaN, NaN, 0.0",-0.083,-0.083,,0.0
+horace.ars_poetica,58.0,"nomen, profero, licet, semper, liceo",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,59.0,"signo, praesens, nosco, produco, nomen",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,60.0,"ut, silua, folium, pronus, muto, in, annus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,61.0,"primus, cado, ita, uerbum, uetus, intereo, aetas",7,"0.5, NaN, NaN, 0.0, 0.0, NaN, 0.0",0.071,0.0,,0.0
+horace.ars_poetica,62.0,"et, iuuenis, ritus, floreo, modo, nata, uigeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,63.0,"debeo, mors, nos, noster, siue, recipio",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+horace.ars_poetica,64.0,"terra, neptunus, classis, aquilo, arceo",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,classis,0.2
+horace.ars_poetica,65.0,"rex, opus, sterilis, diu, palus, apto, remi",7,"0.0, 0.5, -0.5, NaN, NaN, NaN, NaN",0.0,-0.071,,0.0
+horace.ars_poetica,66.0,"uicina, urbs, alo, et, grauis, sentio, arater",7,"NaN, 0.5, NaN, NaN, -0.5, NaN, NaN",0.0,-0.071,,0.0
+horace.ars_poetica,67.0,"seu, cursus, muto, iniquus, frugis, amnis",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,iniquus,0.167
+horace.ars_poetica,68.0,"doceo, iter, bonus, mortalia, facio, pereo",6,"NaN, 0.0, 1.0, 0.0, NaN, NaN",0.167,0.0,,0.0
+horace.ars_poetica,69.0,"nedum, sermo, sto, honor, et, gratia, uiuax",7,"NaN, -0.5, NaN, 1.0, NaN, 1.0, NaN",0.214,-0.071,,0.0
+horace.ars_poetica,70.0,"multus, renascor, qui, iam, cado, cado",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,71.0,"qui, nunc, sum, in, honor, uocabulum, si, uolo, utor",9,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+horace.ars_poetica,72.0,"qui, penis, arbitrium, sum, et, ius, et, norma, loquor",9,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 0.5, NaN",0.111,0.0,,0.0
+horace.ars_poetica,73.0,"res, gero, rex, dux, et, tristis, bellum",7,"0.0, NaN, 0.0, 0.5, NaN, -1.0, 0.0",-0.071,-0.143,,0.0
+horace.ars_poetica,74.0,"quo, scribo, possum, numerus, monstro, homerus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,75.0,"uersus, impariter, iungo, querimonia, primus",5,"NaN, NaN, NaN, -0.5, 0.5",0.0,-0.1,,0.0
+horace.ars_poetica,76.0,"post, etiam, includo, sum, uoueo, sententia, compos",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.ars_poetica,77.0,"quis, tamen, exiguus, elegi, emitto, auctor",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,78.0,"grammaticus, certo, et, adhuc, sub, iudex, lis, sum",8,"NaN, NaN, NaN, NaN, NaN, 0.5, -0.5, NaN",0.0,-0.062,,0.0
+horace.ars_poetica,79.0,"archilochum, proprius, rabio, armo, iambus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,rabio,0.2
+horace.ars_poetica,80.0,"hic, soccus, capio, pedis, grandis, cothurnus",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,hic,0.167
+horace.ars_poetica,81.0,"alternus, aptus, sermo, et, popularis",5,"NaN, NaN, -0.5, NaN, 0.0",-0.1,-0.1,popularis,0.2
+horace.ars_poetica,82.0,"uinco, strepitus, et, natus, res, ago",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+horace.ars_poetica,83.0,"musa, do, fides, diuus, puer, deus",6,"NaN, NaN, 1.0, 0.0, 0.0, 0.0",0.167,0.0,,0.0
+horace.ars_poetica,84.0,"et, pugilis, uictor, et, equus, certamen, primus",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 0.5",0.143,0.0,,0.0
+horace.ars_poetica,85.0,"et, iuuenis, cura, et, liber, uinum, refero",7,"NaN, NaN, -1.0, NaN, 0.5, NaN, NaN",-0.071,-0.143,,0.0
+horace.ars_poetica,86.0,"describo, seruaris, uicis, opus, color",5,"NaN, NaN, NaN, 0.5, 0.0",0.1,0.0,,0.0
+horace.ars_poetica,87.0,"cur, ego, si, nequeo, ignoro, poeta, saluto",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.ars_poetica,88.0,"cur, nescio, pudeo, prauus, quam, disco, malus",7,"NaN, NaN, NaN, -1.0, NaN, NaN, -1.0",-0.286,-0.286,"pudeo, prauus",0.286
+horace.ars_poetica,89.0,"uersus, expono, tragicus, res, comicus, non, uolo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,90.0,"indignor, item, priuo, atque, prope, soccus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,91.0,"dignus, carmen, narraris, cena, thyestae",5,"1.0, 0.0, NaN, NaN, NaN",0.2,0.0,,0.0
+horace.ars_poetica,92.0,"singulus, quisque, locus, teneo, sortio, decet",6,"0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,93.0,"interdum, tamen, et, uoco, comoedia, tollo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.ars_poetica,94.0,"irascor, chremes, tumidus, delitigo, os",5,"NaN, NaN, -0.5, NaN, 0.0",-0.1,-0.1,,0.0
+horace.ars_poetica,95.0,"et, tragicus, plerusque, doleo, sermo, pedestri",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+horace.ars_poetica,96.0,"telephus, et, peleus, cum, pauper, et, exsul, uterque",8,"NaN, NaN, NaN, NaN, -1.0, NaN, -1.0, NaN",-0.25,-0.25,,0.0
+horace.ars_poetica,97.0,"proiicit, ampulla, et, sesquipedalis, uerbum",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,98.0,"si, curo, cor, specto, tango, querela",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+horace.ars_poetica,99.0,"non, satis, sum, pulcher, sum, poema, dulcis, sum",8,"NaN, 0.5, NaN, 1.0, NaN, 0.0, 0.5, NaN",0.25,0.0,,0.0
+horace.ars_poetica,100.0,"et, quicumque, uolo, animus, auditor, ago",6,"NaN, NaN, NaN, 0.5, 0.0, NaN",0.083,0.0,,0.0
+horace.ars_poetica,101.0,"ut, rideo, ad-rideo, ita, fleo, afflo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,102.0,"humanus, uultus, si, uolo, ego, fleo, doleo, sum",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,103.0,"primus, ipse, tu, tum, tuus, ego, infortunium, laedo",8,"0.5, NaN, NaN, NaN, 0.0, NaN, -1.0, NaN",-0.062,-0.125,tu,0.125
+horace.ars_poetica,104.0,"telephe, uel, peleu, malus, si, mandatum, loquor",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,,0.0
+horace.ars_poetica,105.0,"aut, dormito, aut, rideo, tristis, maestus",6,"NaN, NaN, NaN, NaN, -1.0, -1.0",-0.333,-0.333,,0.0
+horace.ars_poetica,106.0,"uultus, uerbum, decet, irascor, plenus, minaris",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.ars_poetica,107.0,"ludo, lasciuus, seuerus, seria, dico",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"lasciuus, seria",0.4
+horace.ars_poetica,108.0,"formo, enim, natura, prior, nos, intus, ad, omnis",8,"NaN, NaN, 0.0, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+horace.ars_poetica,109.0,"fortuna, habitus, iuuo, aut, in-pello, ad, ira",7,"0.0, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+horace.ars_poetica,110.0,"aut, ad, humus, maeror, grauis, deduco, et, ango",8,"NaN, NaN, NaN, -1.0, -0.5, NaN, NaN, NaN",-0.188,-0.188,humus,0.125
+horace.ars_poetica,111.0,"post, effero, animus, moueo, interpres, lingua",6,"NaN, NaN, 0.5, NaN, NaN, -0.5",0.0,-0.083,,0.0
+horace.ars_poetica,112.0,"si, dico, sum, fortuna, absonus, dictum",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,113.0,"romanus, tollo, eques, pedito, cachinnus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,114.0,"intersum, multus, dauusne, loquor, an, heros",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,115.0,"maturus, -ne, senex, an, adhuc, floreo, iuuenta",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,116.0,"feruidus, et, matrona, possum, an, sedulus, nutrix",7,"-0.5, NaN, -0.5, NaN, NaN, NaN, NaN",-0.143,-0.143,matrona,0.143
+horace.ars_poetica,117.0,"mercator, -ne, uagus, cultor, uireo, agellus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,118.0,"colchus, an, assyrius, thebis, nutrio, an, argis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,colchus,0.143
+horace.ars_poetica,119.0,"aut, fama, sequor, aut, sui, conuenio, fingo",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,fingo,0.143
+horace.ars_poetica,120.0,"scriptor, honoro, si, fors, repono, achillem",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,121.0,"impiger, iracundus, inexorabilis, acer",4,"NaN, -1.0, -0.5, NaN",-0.375,-0.375,iracundus,0.25
+horace.ars_poetica,122.0,"ius, nego, sui, nata, nihil, non, ad-rogo, arma",8,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.062,0.0,,0.0
+horace.ars_poetica,123.0,"sum, medea, ferox, inuictus, flebilis, ino",6,"NaN, NaN, -1.0, 1.0, -1.0, NaN",-0.167,-0.333,"medea, ferox",0.333
+horace.ars_poetica,124.0,"perfidus, ixio, -ne, io, uago, tristis, orestes",7,"-1.0, NaN, NaN, NaN, NaN, -1.0, NaN",-0.286,-0.286,perfidus,0.143
+horace.ars_poetica,125.0,"si, quis, inexpertus, scaena, con-mitto, et, audeo",7,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+horace.ars_poetica,126.0,"persona, formo, nouus, seruo, ad, imus",6,"0.0, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+horace.ars_poetica,127.0,"qualis, ab, inceptum, procedo, et, sui, consto",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,128.0,"difficilis, sum, proprius, commune, dico, tu",6,"-0.5, NaN, 0.0, 0.0, NaN, NaN",-0.083,-0.083,tu,0.167
+horace.ars_poetica,129.0,"rectus, iliacus, carmen, deduco, in, ago",6,"1.0, NaN, 0.0, NaN, NaN, NaN",0.167,0.0,,0.0
+horace.ars_poetica,130.0,"quam, si, profero, ignotus, indico, primus",6,"NaN, NaN, NaN, -0.5, NaN, 0.5",0.0,-0.083,,0.0
+horace.ars_poetica,131.0,"publicus, materies, priuo, ius, sum, si",6,"0.0, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+horace.ars_poetica,132.0,"non, circa, uilis, patulus, moror, orbis",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,uilis,0.167
+horace.ars_poetica,133.0,"neque, uerbum, uerbum, curo, reddo, fidus",6,"NaN, 0.0, 0.0, NaN, NaN, 1.0",0.167,0.0,,0.0
+horace.ars_poetica,134.0,"interpres, neque, desilies, imitator, in, artus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,135.0,"unde, pedis, profero, pudor, ueto, aut, opus, lex",8,"NaN, 0.0, NaN, 0.5, NaN, NaN, 0.5, 0.5",0.188,0.0,pudor,0.125
+horace.ars_poetica,136.0,"neque, sic, incipio, ut, scriptor, cyclicus, olim",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,137.0,"fortuna, priami, canto, et, nobilis, bellum",6,"0.0, NaN, 0.0, NaN, 1.0, 0.0",0.167,0.0,,0.0
+horace.ars_poetica,138.0,"quis, dignus, tantus, fero, hic, promissor, hiatus",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,"hic, hiatus",0.286
+horace.ars_poetica,139.0,"parturio, mons, nasco, ridiculus, mus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,ridiculus,0.2
+horace.ars_poetica,140.0,"quantus, rectus, hic, qui, nihil, molio, ineptus",7,"NaN, 1.0, NaN, NaN, NaN, NaN, -1.0",0.0,-0.143,"hic, ineptus",0.286
+horace.ars_poetica,141.0,"dico, ego, musa, uir, capio, post, tempus, troia",8,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0, NaN",0.062,0.0,,0.0
+horace.ars_poetica,142.0,"qui, mos, homo, multus, uideo, et, urbs",7,"NaN, 0.5, 0.0, 0.0, NaN, NaN, 0.5",0.143,0.0,,0.0
+horace.ars_poetica,143.0,"non, fumus, ex, fulgor, sed, ex, fumus, do, lux",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,144.0,"cogito, ut, speciosus, dehinc, miraculum, promo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,145.0,"antiphate, -ne, scyllamque, et, cum, cyclope, charybdim",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,charybdim,0.143
+horace.ars_poetica,146.0,"neque, redeo, diomedis, ab, interitus, meleagri",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+horace.ars_poetica,147.0,"neque, geminus, bellum, troianus, ordior, ab, ouo",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,148.0,"semper, ad, euenio, festino, et, in, medius, res",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,149.0,"non, secus, atque, nosco, auditor, rapio, et, qui",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,150.0,"despero, tracto, nitesco, possum, relinquo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,151.0,"atque, ita, mentior, sic, uerus, fallo, remisceo",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,fallo,0.143
+horace.ars_poetica,152.0,"primus, ne, medius, medium, ne, discrepo, imus",7,"0.5, NaN, 0.0, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+horace.ars_poetica,153.0,"tu, quis, ego, et, populus, cum, ego, desidero, audio",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.111
+horace.ars_poetica,154.0,"si, plausor, egeo, aulaeum, maneo, et, usque",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,155.0,"sedeo, donec, canto, tu, plaudo, dico",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.167
+horace.ars_poetica,156.0,"aetas, quisque, noto, sum, tu, mos",6,"0.0, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,tu,0.167
+horace.ars_poetica,157.0,"mobilis, decor, natura, do, et, annus",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,158.0,"reddo, qui, uoco, iam, scio, puer, et, pes, certus",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, 0.5",0.056,0.0,,0.0
+horace.ars_poetica,159.0,"signo, humus, gestio, par, con-ludo, et, ira",7,"NaN, NaN, NaN, 0.5, NaN, NaN, -1.0",-0.071,-0.143,humus,0.143
+horace.ars_poetica,160.0,"colligo, atque, pono, temere, et, muto, in, hora",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,161.0,"inberbis, iuuenis, tandem, custos, remoueo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,162.0,"gaudeo, equus, canis, et, apricus, gramen, campus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,163.0,"cereus, in, uitium, flecto, monitor, asper",6,"NaN, NaN, -1.0, NaN, 0.0, -0.5",-0.25,-0.25,,0.0
+horace.ars_poetica,164.0,"utilis, tardus, prouiso, prodigus, aer",5,"1.0, NaN, NaN, NaN, 0.0",0.2,0.0,,0.0
+horace.ars_poetica,165.0,"sublimis, cupidus, et, amo, relinquo, pernix",6,"0.5, -0.5, NaN, NaN, NaN, NaN",0.0,-0.083,,0.0
+horace.ars_poetica,166.0,"conuerro, studium, aetas, animus, uirilis",5,"NaN, 0.5, 0.0, 0.5, 0.5",0.3,0.0,,0.0
+horace.ars_poetica,167.0,"quaero, ops, et, amicitia, inseruio, honor",6,"NaN, 0.0, NaN, 1.0, NaN, 1.0",0.333,0.0,,0.0
+horace.ars_poetica,168.0,"con-mitto, caueo, qui, mox, muto, laboro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,169.0,"multus, senex, circumuenio, incommodus, uel, qui",6,"0.0, 0.0, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+horace.ars_poetica,170.0,"quaero, et, inuenio, miser, abstineo, atque, timeo, uti",8,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.125,-0.125,miser,0.125
+horace.ars_poetica,171.0,"uel, qui, res, omnis, timidus, gelidus, ministro",7,"NaN, NaN, 0.0, NaN, -0.5, NaN, NaN",-0.071,-0.071,timidus,0.143
+horace.ars_poetica,172.0,"dilato, spes, longus, iners, auidus, sum",6,"NaN, 0.5, 0.0, 0.0, NaN, NaN",0.083,0.0,iners,0.167
+horace.ars_poetica,173.0,"difficilis, querulus, laudator, tempus, ago",5,"-0.5, NaN, NaN, 0.0, NaN",-0.1,-0.1,querulus,0.2
+horace.ars_poetica,174.0,"sui, puer, castigator, censor, paruus",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,175.0,"multus, fero, annus, uenio, commodus, cum, sui",7,"0.0, NaN, 0.0, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+horace.ars_poetica,176.0,"multus, recedo, adimo, ne, fors, senilis",6,"0.0, NaN, NaN, NaN, 0.0, -0.5",-0.083,-0.083,,0.0
+horace.ars_poetica,177.0,"mando, iuuenis, pars, puer, uirilis",5,"NaN, NaN, 0.0, 0.0, 0.5",0.1,0.0,,0.0
+horace.ars_poetica,178.0,"semper, in, adiungo, aeuum, moror, aptus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,179.0,"aut, ago, res, in, scaena, aut, ago, refero",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,180.0,"segnis, irrito, animus, demitto, per, auris",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+horace.ars_poetica,181.0,"quam, qui, sum, oculus, subiectum, fidelis, et, qui",8,"NaN, NaN, NaN, 0.0, NaN, 1.0, NaN, NaN",0.125,0.0,,0.0
+horace.ars_poetica,182.0,"ipse, sui, trado, spectator, non, tamen, intus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,183.0,"dignus, gero, promo, in, scaena, multo, tollo",7,"1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+horace.ars_poetica,184.0,"ex, oculus, qui, mox, narro, facundia, praesens",7,"NaN, 0.0, NaN, NaN, NaN, 1.0, 0.0",0.143,0.0,,0.0
+horace.ars_poetica,185.0,"ne, puer, coram, populus, medea, trucido",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,medea,0.167
+horace.ars_poetica,186.0,"aut, humanus, palam, coquo, exta, nefarius, atreus",7,"NaN, 0.0, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,nefarius,0.143
+horace.ars_poetica,187.0,"aut, in, auis, procne, uerto, cadmus, in, anguis",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,188.0,"quicumque, ostendo, ego, sic, incredulus, odi",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+horace.ars_poetica,189.0,"neue, paruus, neu, sum, quintus, produco, actus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,190.0,"fabula, qui, posco, uolo, et, specto, repono",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,191.0,"neque, deus, intersum, nisi, dignus, uindex, nodus",7,"NaN, 0.0, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,uindex,0.143
+horace.ars_poetica,192.0,"incido, neque, quartus, loquor, persono, laboro",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,193.0,"actor, pars, chorus, officium, uirilis",5,"0.0, 0.0, NaN, 0.5, 0.5",0.2,0.0,,0.0
+horace.ars_poetica,194.0,"defendo, neu, quis, medius, intercino, ago",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,195.0,"qui, non, propono, conduco, et, haereo, aptus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,196.0,"ille, bonus, faueo, et, consilior, amicus",6,"NaN, 1.0, NaN, NaN, NaN, 1.0",0.333,0.0,,0.0
+horace.ars_poetica,197.0,"et, rego, irascor, et, amo, pacaris, tumeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,198.0,"ille, daps, laudo, metior, breuis, ille, salubris",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+horace.ars_poetica,199.0,"iustitia, lego, et, apertus, otium, porta",6,"1.0, NaN, NaN, NaN, 0.5, NaN",0.25,0.0,otium,0.167
+horace.ars_poetica,200.0,"ille, tego, con-mitto, deus, preco, et, oro",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,201.0,"ut, redeo, miser, abeo, fortuna, superbus",6,"NaN, NaN, -1.0, NaN, 0.0, -1.0",-0.333,-0.333,miser,0.167
+horace.ars_poetica,202.0,"tibia, non, ut, nunc, orichalcum, uincio, tuba",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,203.0,"aemulo, sed, tenuis, simplex, foramen, paucus",6,"NaN, NaN, 0.0, 0.5, NaN, 0.0",0.083,0.0,,0.0
+horace.ars_poetica,204.0,"adspiraris, et, adsum, chorus, sum, utilis, atque",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+horace.ars_poetica,205.0,"nondum, spisso, nimis, compleo, sedile, flo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.ars_poetica,206.0,"quo, sanus, populus, numerabilis, utpote, paruus",6,"NaN, 1.0, 0.0, NaN, NaN, 0.0",0.167,0.0,,0.0
+horace.ars_poetica,207.0,"et, frugi, castus, uerecundus, coeo",5,"NaN, 1.0, NaN, 1.0, NaN",0.4,0.0,frugi,0.2
+horace.ars_poetica,208.0,"postquam, coepio, ager, extendo, uictor, et, urbs",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+horace.ars_poetica,209.0,"latus, amplector, murus, uinum, diurnus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,210.0,"placaris, genius, festus, impunis, dies",5,"NaN, NaN, NaN, -0.5, 0.0",-0.1,-0.1,impunis,0.2
+horace.ars_poetica,211.0,"accedo, numerus, modus, licentia, magnus",5,"NaN, NaN, 0.5, -0.5, 0.0",0.0,-0.1,licentia,0.2
+horace.ars_poetica,212.0,"indoctus, quis, enim, sapio, libo, labor",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+horace.ars_poetica,213.0,"rusticus, urbanus, confundo, turpis, honestus",5,"-0.5, 0.5, NaN, -1.0, 1.0",0.0,-0.3,"turpis, honestus",0.4
+horace.ars_poetica,214.0,"sic, priscus, moueo, et, luxurio, addo, artus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,luxurio,0.143
+horace.ars_poetica,215.0,"tibice, -ne, traho, uagus, per, pulpitum, uestis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uestis,0.143
+horace.ars_poetica,216.0,"sic, etiam, fides, uoco, cerno, sero",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+horace.ars_poetica,217.0,"et, fero, eloquium, insolitus, facundia, praeceps",6,"NaN, NaN, NaN, -0.5, 1.0, NaN",0.083,-0.083,,0.0
+horace.ars_poetica,218.0,"utilis, sagax, res, et, diuino, sum",6,"1.0, NaN, 0.0, NaN, NaN, NaN",0.167,0.0,,0.0
+horace.ars_poetica,219.0,"sortilegus, non, discrepo, sententia, delphis",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.ars_poetica,220.0,"carmen, qui, tragicus, uilis, certo, ob, hircum",7,"0.0, NaN, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,uilis,0.143
+horace.ars_poetica,221.0,"mox, etiam, agrestis, satyrus, nudo, et, asper",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,,0.0
+horace.ars_poetica,222.0,"incolumis, grauitas, iocus, tento, is, qui",6,"-0.5, -0.5, -0.5, NaN, NaN, NaN",-0.25,-0.25,,0.0
+horace.ars_poetica,223.0,"illecebra, sum, et, gratus, nouitas, moror",6,"NaN, NaN, NaN, 1.0, 0.0, NaN",0.167,0.0,illecebra,0.167
+horace.ars_poetica,224.0,"spectator, fungor, sacrum, et, potus, et, exlex",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,225.0,"uerus, ita, risor, ita, commendaris, dicax",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+horace.ars_poetica,226.0,"conuenio, satyrus, ita, uerto, seria, ludo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,seria,0.167
+horace.ars_poetica,227.0,"ne, quicumque, deus, quicumque, adhibeo, heros",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,228.0,"regal, conspicio, in, aurum, nuper, et, ostrum",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+horace.ars_poetica,229.0,"migro, in, obscuro, humilis, sermo, taberna",6,"NaN, NaN, NaN, NaN, -0.5, 0.0",-0.083,-0.083,humilis,0.167
+horace.ars_poetica,230.0,"aut, dum, uito, humus, nubo, et, inanis, capto",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"humus, nubo",0.25
+horace.ars_poetica,231.0,"effutio, leuis, indignus, tragoedia, uerro",5,"NaN, 0.0, -1.0, NaN, NaN",-0.2,-0.2,,0.0
+horace.ars_poetica,232.0,"ut, festus, matrona, moueo, iubeo, dies",6,"NaN, NaN, -0.5, NaN, NaN, 0.0",-0.083,-0.083,matrona,0.167
+horace.ars_poetica,233.0,"intersum, satyrus, paulus, pudibundus, proteruus",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,proteruus,0.2
+horace.ars_poetica,234.0,"non, ego, inornatus, et, dominor, nomen, solus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, -0.5",-0.071,-0.071,,0.0
+horace.ars_poetica,235.0,"uerbum, piso, satyrus, scriptor, amo",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,236.0,"neque, sic, enitor, tragicus, differo, color",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,237.0,"ut, nihil, intersum, dauusne, loquor, et, audax",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,audax,0.143
+horace.ars_poetica,238.0,"pythias, emungo, lucror, simus, talentum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,pythias,0.2
+horace.ars_poetica,239.0,"an, custos, famulus, deus, silenus, alumnus",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,240.0,"ex, nosco, fingo, carmen, sequor, ut, sui, quiuis",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,fingo,0.125
+horace.ars_poetica,241.0,"spero, idem, sudo, multus, frustro, laboro",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,242.0,"audeo, idem, tantus, series, iungo, polleo",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+horace.ars_poetica,243.0,"tantus, de, medium, sumo, accedo, honor",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+horace.ars_poetica,244.0,"silua, deduco, caueant, ego, iudex, fauni",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+horace.ars_poetica,245.0,"ne, uelut, innascor, triuius, atque, paene, forensis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,246.0,"aut, nimium, teneo, iuuenor, uersus, umquam",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,247.0,"aut, immundus, crepo, ignominiosus, dictum",5,"NaN, -0.5, NaN, -1.0, 0.0",-0.3,-0.3,ignominiosus,0.2
+horace.ars_poetica,248.0,"offendo, enim, qui, sum, equus, et, pater, et, res",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,249.0,"neque, siquis, frico, cicer, probo, et, nucis, emptor",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"frico, emptor",0.25
+horace.ars_poetica,250.0,"aequus, accipio, animus, dono, corona",5,"0.5, NaN, 0.5, NaN, NaN",0.2,0.0,,0.0
+horace.ars_poetica,251.0,"syllaba, longus, breuis, subiectum, uoco, iambus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,252.0,"pes, cieo, unde, etiam, trimetros, ad-cresco, iubeo",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,253.0,"nomen, iambeus, cum, seni, reddo, iacio",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,254.0,"primus, ad, exter, similis, sui, non, ita, pridem",8,"0.5, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+horace.ars_poetica,255.0,"tardus, ut, paulus, grauis, uenio, ad, auris",7,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,,0.0
+horace.ars_poetica,256.0,"spondeus, stabilis, in, ius, paternus, recipio",6,"NaN, 0.5, NaN, 0.5, NaN, NaN",0.167,0.0,,0.0
+horace.ars_poetica,257.0,"commodus, et, patior, non, ut, de, sedes, secundus",8,"0.5, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.062,0.0,,0.0
+horace.ars_poetica,258.0,"cedo, aut, quartus, socialis, hic, et, in, accio",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.125
+horace.ars_poetica,259.0,"nobilis, trimetros, appareo, rarus, et, enni",6,"1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+horace.ars_poetica,260.0,"in, scaena, mitto, cum, magnus, pondus, uerro",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,261.0,"aut, opera, celo, nimium, curo, careo",6,"NaN, -0.5, NaN, 0.0, NaN, NaN",-0.083,-0.083,,0.0
+horace.ars_poetica,262.0,"aut, ignoro, premo, ars, crimen, turpis",6,"NaN, NaN, NaN, 0.0, -1.0, -1.0",-0.333,-0.333,"crimen, turpis",0.333
+horace.ars_poetica,263.0,"non, quiuis, uideo, immodulatus, poema, iudex",6,"NaN, NaN, NaN, NaN, 0.0, 0.5",0.083,0.0,,0.0
+horace.ars_poetica,264.0,"et, do, romanus, uenia, sum, indignus, poeta",7,"NaN, NaN, NaN, 1.0, NaN, -1.0, 0.0",0.0,-0.143,,0.0
+horace.ars_poetica,265.0,"idcirco, -ne, uago, scribo, licenter, an, omnis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,266.0,"uideo, pecco, puto, meus, tueor, et, intra",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,267.0,"spes, uenia, caueo, uito, denique, culpa",6,"0.5, 1.0, NaN, NaN, NaN, -1.0",0.083,-0.167,culpa,0.167
+horace.ars_poetica,268.0,"non, laus, mereo, tu, exemplaris, graecus",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,tu,0.167
+horace.ars_poetica,269.0,"nocturnus, uerso, manus, uerso, diurnus",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,270.0,"at, noster, proauus, plautinos, et, numerus, et",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,271.0,"laudo, sal, nimium, patienter, uterque",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,272.0,"ne, dico, stultus, miro, si, modo, ego, et, tu",9,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.111,-0.111,"stultus, tu",0.222
+horace.ars_poetica,273.0,"scio, inurbanus, lepidus, sepono, dico",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+horace.ars_poetica,274.0,"legitimus, sonus, digitus, calleo, et, auris",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,275.0,"ignotus, tragicus, genus, inuenio, camenae",5,"-0.5, NaN, 0.0, NaN, NaN",-0.1,-0.1,,0.0
+horace.ars_poetica,276.0,"dico, et, plaustrum, ueho, poema, thespis",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.ars_poetica,277.0,"qui, cano, ago, perungo, faecibus, os",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,278.0,"post, hic, persona, palla, repertor, honestus",6,"NaN, NaN, 0.0, NaN, 0.0, 1.0",0.167,0.0,"hic, honestus",0.333
+horace.ars_poetica,279.0,"aeschylus, et, modicus, insterno, pulpitum, tignum",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,280.0,"et, doceo, magnus, loquor, nitor, cothurnus",6,"NaN, NaN, 0.0, NaN, 1.0, NaN",0.167,0.0,,0.0
+horace.ars_poetica,281.0,"succedo, uetus, hic, comoedia, non, sine, multus",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+horace.ars_poetica,282.0,"laus, sed, in, uitium, libertas, excido, et, uis",8,"1.0, NaN, NaN, -1.0, 0.5, NaN, NaN, 1.0",0.188,-0.125,,0.0
+horace.ars_poetica,283.0,"dignus, lex, rex, lex, sum, accipio, chorus",7,"1.0, 0.5, 0.0, 0.5, NaN, NaN, NaN",0.286,0.0,,0.0
+horace.ars_poetica,284.0,"turpis, obticesco, tollo, ius, noceo",5,"-1.0, NaN, NaN, 0.5, NaN",-0.1,-0.2,"turpis, noceo",0.4
+horace.ars_poetica,285.0,"nihil, intemptas, noster, linquo, poeta",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,286.0,"neque, paruus, mereo, decus, uestigium, graecus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,287.0,"audeo, desero, et, celebraris, domesticus, facio",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.ars_poetica,288.0,"uel, qui, praetexo, uel, qui, doceo, togata",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,289.0,"neque, uirtus, sum, clarus, potens, arma",6,"NaN, 1.0, NaN, 0.5, 1.0, 0.0",0.417,0.0,,0.0
+horace.ars_poetica,290.0,"quam, lingua, latium, si, non, offendo, unus",7,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+horace.ars_poetica,291.0,"quisque, poetaris, lima, labor, et, mora, tu, o",8,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.062,-0.062,tu,0.125
+horace.ars_poetica,292.0,"pompilius, sanguis, carmen, reprehendo, qui, non",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,293.0,"multus, dies, et, multus, litura, coerceo, atque",7,"0.0, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,coerceo,0.143
+horace.ars_poetica,294.0,"praeseco, decies, non, castigo, ad, unguis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,castigo,0.167
+horace.ars_poetica,295.0,"ingenium, misero, quia, fortuno, ars",5,"0.5, NaN, NaN, NaN, 0.0",0.1,0.0,misero,0.2
+horace.ars_poetica,296.0,"credo, et, excludo, sanus, helicone, poeta",6,"NaN, NaN, NaN, 1.0, NaN, 0.0",0.167,0.0,,0.0
+horace.ars_poetica,297.0,"democritus, bonus, pars, non, unguis, pono, curo",7,"NaN, 1.0, 0.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+horace.ars_poetica,298.0,"non, barba, secerno, peto, locum, balneum, uito",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,299.0,"nanciscor, enim, pretium, nomen, poeta",5,"NaN, NaN, 1.0, 0.0, 0.0",0.2,0.0,pretium,0.2
+horace.ars_poetica,300.0,"si, tres, anticyris, caput, insanabilis, numquam",6,"NaN, NaN, NaN, 0.0, -1.0, NaN",-0.167,-0.167,,0.0
+horace.ars_poetica,301.0,"tonsor, licinus, con-mitto, o, ego, laeuus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+horace.ars_poetica,302.0,"qui, purgo, bilis, sub, uernus, tempus, hora",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.ars_poetica,303.0,"non, alius, facio, bonus, poema, uerus",6,"NaN, NaN, NaN, 1.0, 0.0, 0.5",0.25,0.0,,0.0
+horace.ars_poetica,304.0,"nihil, tantus, sum, ergo, fungor, uicus, cotis, acutus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,305.0,"reddo, qui, ferrum, ualeo, exsors, ipse, seco",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,306.0,"munus, et, officium, nihil, scribo, ipse, doceo",7,"0.5, NaN, 0.5, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+horace.ars_poetica,307.0,"unde, paro, ops, quis, alo, formo, poeta",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,308.0,"quis, decet, quis, non, quo, uirtus, quo, fero, error",9,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, -1.0",0.0,-0.111,,0.0
+horace.ars_poetica,309.0,"scribo, rectus, sapio, sum, et, principium, et, fons",8,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+horace.ars_poetica,310.0,"res, tu, socraticae, possum, ostendo, charta",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.167
+horace.ars_poetica,311.0,"uerbum, prouideo, res, non, inuito, sequor",6,"0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,312.0,"qui, disco, patria, quis, debeo, et, quis, amicus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,,0.0
+horace.ars_poetica,313.0,"quo, sum, amor, parens, quo, frater, amo, et, hospes",9,"NaN, NaN, 1.0, 0.5, NaN, 0.0, NaN, NaN, 0.0",0.167,0.0,,0.0
+horace.ars_poetica,314.0,"qui, sum, conscribo, qui, iudex, officium, qui",7,"NaN, NaN, NaN, NaN, 0.5, 0.5, NaN",0.143,0.0,,0.0
+horace.ars_poetica,315.0,"pars, in, bellum, mitto, dux, ille, profecto",7,"0.0, NaN, 0.0, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+horace.ars_poetica,316.0,"reddo, persona, scio, conuenio, quisque",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,317.0,"respicio, exemplar, uita, morus, iubeo",5,"NaN, 0.0, 0.0, -1.0, NaN",-0.2,-0.2,,0.0
+horace.ars_poetica,318.0,"doceo, imitator, et, uiuo, hinc, duco, uoco",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,319.0,"interdum, speciosus, locus, moror, rectus",5,"NaN, NaN, 0.0, NaN, 1.0",0.2,0.0,,0.0
+horace.ars_poetica,320.0,"fabula, nullus, uenio, sine, pondus, et, ars",7,"0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,321.0,"ualdius, oblecto, populus, bonus, moror",5,"NaN, NaN, 0.0, 1.0, NaN",0.2,0.0,,0.0
+horace.ars_poetica,322.0,"quam, uerro, inops, res, nugae, canorus",6,"NaN, NaN, -1.0, 0.0, -1.0, NaN",-0.333,-0.333,,0.0
+horace.ars_poetica,323.0,"graiis, ingenium, graiis, do, os, rotundus",6,"NaN, 0.5, NaN, NaN, 0.0, NaN",0.083,0.0,,0.0
+horace.ars_poetica,324.0,"musa, loquor, praeter, laus, nullus, auaris",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,auaris,0.167
+horace.ars_poetica,325.0,"romanus, puer, longus, ratio, assis",5,"NaN, 0.0, 0.0, 0.0, 0.0",0.0,0.0,assis,0.2
+horace.ars_poetica,326.0,"disco, in, pars, centum, diduco, dico",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,327.0,"filius, albinus, si, de, quincunce, remoueo, sum",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,328.0,"uncia, quis, supero, possum, dico, triens, eu",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,329.0,"res, possum, seruaris, tuus, redeo, uncia, quis, fio",8,"0.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,330.0,"semis, an, hic, animus, aerugo, et, cura, peculis",8,"NaN, NaN, NaN, 0.5, NaN, NaN, -1.0, NaN",-0.062,-0.125,hic,0.125
+horace.ars_poetica,331.0,"cum, semel, imbuo, spero, carmen, fingo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,fingo,0.167
+horace.ars_poetica,332.0,"possum, linenda, cedrus, et, leuis, seruo, cupresso",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,333.0,"aut, prosum, uolo, aut, delecto, poeta",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,334.0,"aut, simul, et, iucundus, et, idoneus, dico, uita",8,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, 0.0",0.125,0.0,,0.0
+horace.ars_poetica,335.0,"quisquis, praecipio, sum, breuis, ut, cito, dictum",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,336.0,"percipio, animus, docilis, teneo, fidelis",5,"NaN, 0.5, NaN, NaN, 1.0",0.3,0.0,,0.0
+horace.ars_poetica,337.0,"omnis, superuacuus, plenus, de, pectus, mano",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,338.0,"fictum, uoluptas, causa, sum, propior, uerus",6,"NaN, 1.0, 0.0, NaN, 0.0, 0.5",0.25,0.0,fictum,0.167
+horace.ars_poetica,339.0,"ne, quicumque, uolo, posco, sui, fabula, credo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.ars_poetica,340.0,"neu, prandeo, lamia, uiuus, puer, extraho, aluus",7,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,uiuus,0.143
+horace.ars_poetica,341.0,"centuria, senex, agito, expers, frugis",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,342.0,"celsus, praetereo, austerus, poema, rhamnes",5,"NaN, NaN, -0.5, 0.0, NaN",-0.1,-0.1,,0.0
+horace.ars_poetica,343.0,"omnis, fero, pungo, qui, misceo, utilis, dulcis",7,"NaN, NaN, NaN, NaN, NaN, 1.0, 0.5",0.214,0.0,,0.0
+horace.ars_poetica,344.0,"lector, delecto, parito, moneo",4,"0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,345.0,"hic, mereo, aes, liber, sosiis, hic, et, mare, transeo",9,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, 0.0, NaN",0.056,0.0,"hic, hic",0.222
+horace.ars_poetica,346.0,"et, longus, nosco, scriptor, prorogo, aeuum",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,347.0,"sum, delictum, tamen, qui, ignosco, uolo",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,delictum,0.167
+horace.ars_poetica,348.0,"nam, neque, chordus, sonus, reddo, qui, uolo, manus, et, mens",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.5",0.05,0.0,,0.0
+horace.ars_poetica,349.0,"posco, grauis, persaepe, remitto, acutus",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+horace.ars_poetica,350.0,"neque, semper, ferio, quicumque, mino, arcus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,351.0,"uerus, ubi, multus, niteo, in, carmen, non, ego, paucus",9,"0.5, NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, 0.0",0.056,0.0,,0.0
+horace.ars_poetica,352.0,"offendo, maculis, qui, aut, incuria, fundo",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+horace.ars_poetica,353.0,"aut, humanus, parum, caueo, natura, quis, ergo, sum",8,"NaN, 0.0, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,354.0,"ut, scriptor, si, pecco, idem, librarius, usque",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,355.0,"quiuis, sum, moneo, uenia, careo, et, citharoedus",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+horace.ars_poetica,356.0,"rideo, chordus, qui, semper, oberro, idem",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,357.0,"sic, ego, qui, multus, cesso, fio, choerilus, ille",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,358.0,"qui, bis, ter, bonus, cum, rideo, miro, et, idem",9,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+horace.ars_poetica,359.0,"indignor, quandoque, bonus, dormito, homerus",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+horace.ars_poetica,360.0,"uerus, operio, longus, fas, sum, obrepo, somnus",7,"0.5, NaN, 0.0, NaN, NaN, NaN, 0.5",0.143,0.0,,0.0
+horace.ars_poetica,361.0,"ut, pingo, poesis, sum, qui, si, propius, sto",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,362.0,"tu, capio, magis, et, quidam, si, longus, absto",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.125
+horace.ars_poetica,363.0,"hic, amo, obscurus, uolo, hic, sub, lux, uideo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.25
+horace.ars_poetica,364.0,"iudex, arguo, qui, non, formido, acume, -ne",7,"0.5, NaN, NaN, NaN, -1.0, NaN, NaN",-0.071,-0.143,,0.0
+horace.ars_poetica,365.0,"hic, placeo, semel, hic, decies, repeto, placeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.286
+horace.ars_poetica,366.0,"o, magnus, iuuenis, quiuis, et, uox, paternus",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.ars_poetica,367.0,"fingo, ad, recingo, et, per, tu, sapio, hic, tu, dico",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"fingo, tu, hic, tu",0.4
+horace.ars_poetica,368.0,"tollo, memor, certus, medius, et, tolerabilis, res",7,"NaN, 1.0, 0.5, 0.0, NaN, 0.5, 0.0",0.286,0.0,,0.0
+horace.ars_poetica,369.0,"rectus, concedo, consulo, ius, et, actor",6,"1.0, NaN, NaN, 0.5, NaN, 0.0",0.25,0.0,,0.0
+horace.ars_poetica,370.0,"causaris, mediocris, absum, uirtus, dissero",5,"NaN, 0.0, NaN, 1.0, NaN",0.2,0.0,,0.0
+horace.ars_poetica,371.0,"messallae, neque, scio, quantus, cascellius, aulus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,372.0,"sed, tamen, in, pretium, sum, mediocris, sum, poeta",8,"NaN, NaN, NaN, 1.0, NaN, 0.0, NaN, 0.0",0.125,0.0,pretium,0.125
+horace.ars_poetica,373.0,"non, homo, non, deus, non, concedo, columna",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,374.0,"ut, gratus, inter, mensa, symphonia, discors",6,"NaN, 1.0, NaN, 0.0, NaN, NaN",0.167,0.0,,0.0
+horace.ars_poetica,375.0,"et, crassus, unguentum, et, sardo, cum, mel, papauer",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,unguentum,0.125
+horace.ars_poetica,376.0,"offendo, possum, duco, quia, cena, sine, iste",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,377.0,"sic, animus, natus, inuenio, poema, iuuo",6,"NaN, 0.5, 0.0, NaN, 0.0, NaN",0.083,0.0,,0.0
+horace.ars_poetica,378.0,"si, paulus, superus, decedo, uergo, ad, imus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,379.0,"ludo, qui, nescio, campestre, abstineo, arma",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,380.0,"indoctus, pila, disco, trochus, quiesco",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,381.0,"ne, spissus, risus, tollo, impunis, corona",6,"NaN, NaN, 0.0, NaN, -0.5, NaN",-0.083,-0.083,impunis,0.167
+horace.ars_poetica,382.0,"qui, nescio, uerro, tamen, audeo, fingo, quis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fingo,0.143
+horace.ars_poetica,383.0,"liber, et, ingenuus, praesertim, census, equester",6,"0.5, NaN, 0.5, NaN, 0.0, NaN",0.167,0.0,ingenuus,0.167
+horace.ars_poetica,384.0,"summa, nummus, uitio, remoueo, ab, omnis",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,nummus,0.167
+horace.ars_poetica,385.0,"tu, nihil, inuito, dico, facio, minerua",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+horace.ars_poetica,386.0,"is, tu, iudicium, sum, is, mens, siquis, tamen, olim",9,"NaN, NaN, 0.5, NaN, NaN, 0.5, NaN, NaN, NaN",0.111,0.0,tu,0.111
+horace.ars_poetica,387.0,"scribo, in, metior, descendo, iudex, auris",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+horace.ars_poetica,388.0,"et, pater, et, noster, nonus, premo, in, annus",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,389.0,"membrana, intus, pono, deleo, liceo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,390.0,"qui, non, edo, nescio, uox, mitto, reuorto",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,391.0,"siluestris, homo, sacer, interpres, deus",5,"NaN, 0.0, 1.0, NaN, 0.0",0.2,0.0,,0.0
+horace.ars_poetica,392.0,"caedes, et, uinco, foedo, deterreo, orpheus",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,"caedes, foedo",0.333
+horace.ars_poetica,393.0,"dico, ob, hic, lenio, tigris, rabidus, leo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, rabidus, leo",0.429
+horace.ars_poetica,394.0,"dico, et, amphio, -ne, thebanae, conditor, urbs",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+horace.ars_poetica,395.0,"saxum, moueo, sonus, testudo, et, prex, blandus",7,"0.0, NaN, NaN, NaN, NaN, 0.0, 0.5",0.071,0.0,,0.0
+horace.ars_poetica,396.0,"duco, quo, uolo, sum, hic, sapientia, quondam",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,hic,0.143
+horace.ars_poetica,397.0,"publicus, priuo, secerno, sacer, profanus",5,"0.0, NaN, NaN, 1.0, NaN",0.2,0.0,profanus,0.2
+horace.ars_poetica,398.0,"concubo, prohibeo, uago, do, ius, maritus",6,"NaN, NaN, NaN, NaN, 0.5, 0.0",0.083,0.0,"concubo, maritus",0.333
+horace.ars_poetica,399.0,"oppidum, molior, lex, incido, lignum",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+horace.ars_poetica,400.0,"sic, honor, et, nomen, diuinus, uates, atque",7,"NaN, 1.0, NaN, 0.0, 0.5, NaN, NaN",0.214,0.0,,0.0
+horace.ars_poetica,401.0,"carmen, uenio, post, hic, insignis, homerus",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.167
+horace.ars_poetica,402.0,"tyrtaeusque, maris, animus, in, martia, bellum",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,,0.0
+horace.ars_poetica,403.0,"uersus, exacuo, dico, per, carmen, sors",6,"NaN, NaN, NaN, NaN, 0.0, -1.0",-0.167,-0.167,,0.0
+horace.ars_poetica,404.0,"et, uita, monstro, uia, sum, et, gratia, rex",8,"NaN, 0.0, NaN, 0.0, NaN, NaN, 1.0, 0.0",0.125,0.0,,0.0
+horace.ars_poetica,405.0,"pieriis, tento, modus, ludus, reperio",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+horace.ars_poetica,406.0,"et, longus, opus, finis, ne, fors, pudor",7,"NaN, 0.0, 0.5, 0.0, NaN, 0.0, 0.5",0.143,0.0,pudor,0.143
+horace.ars_poetica,407.0,"sum, tu, musa, lyra, sollers, et, canto, apollo",8,"NaN, NaN, NaN, 0.0, 1.0, NaN, 0.0, NaN",0.125,0.0,tu,0.125
+horace.ars_poetica,408.0,"natura, fio, laudabilis, carmen, an, ars",6,"0.0, NaN, 1.0, 0.0, NaN, 0.0",0.167,0.0,,0.0
+horace.ars_poetica,409.0,"quaero, sum, ego, neque, studium, sine, diues, uena",8,"NaN, NaN, NaN, NaN, 0.5, NaN, 0.5, 0.0",0.125,0.0,,0.0
+horace.ars_poetica,410.0,"neque, rudo, quis, prosum, uideo, ingenium, alter, sic",8,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.062,0.0,,0.0
+horace.ars_poetica,411.0,"alter, posco, ops, res, et, coniuro, amicus",7,"NaN, NaN, 0.0, 0.0, NaN, NaN, 1.0",0.143,0.0,coniuro,0.143
+horace.ars_poetica,412.0,"qui, studeo, opto, cursus, contingo, meto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,413.0,"multus, fero, facio, puer, sudo, et, alsit",7,"0.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,414.0,"abstineo, uenio, et, uinum, qui, pythia, canto",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,415.0,"tibice, -ne, disco, prior, extimesco, magister",6,"NaN, NaN, NaN, 0.5, NaN, 0.5",0.167,0.0,extimesco,0.167
+horace.ars_poetica,416.0,"nunc, satis, sum, dico, ego, mirus, poema, pango",8,"NaN, 0.5, NaN, NaN, NaN, 1.0, 0.0, NaN",0.188,0.0,,0.0
+horace.ars_poetica,417.0,"occupo, exter, scabies, ego, turpis, relinquo, sum",7,"NaN, 0.0, -1.0, NaN, -1.0, NaN, NaN",-0.286,-0.286,turpis,0.143
+horace.ars_poetica,418.0,"et, qui, non, disco, sanus, nescio, fateor",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+horace.ars_poetica,419.0,"ut, praeco, ad, merces, turba, qui, cogo, emo",8,"NaN, NaN, NaN, 1.0, 0.0, NaN, NaN, NaN",0.125,0.0,emo,0.125
+horace.ars_poetica,420.0,"adsentator, iubeo, ad, lucrum, eo, poeta",6,"-1.0, NaN, NaN, 0.5, NaN, 0.0",-0.083,-0.167,,0.0
+horace.ars_poetica,421.0,"diues, ager, diues, pono, in, fenore, nummus",7,"0.5, 0.0, 0.5, NaN, NaN, NaN, 0.0",0.143,0.0,nummus,0.143
+horace.ars_poetica,422.0,"si, uerus, sum, ungo, qui, rectus, pono, possum",8,"NaN, 0.5, NaN, NaN, NaN, 1.0, NaN, NaN",0.188,0.0,,0.0
+horace.ars_poetica,423.0,"et, spondeo, leuis, pro, pauper, et, eripio, ars",8,"NaN, NaN, 0.0, NaN, -1.0, NaN, NaN, 0.0",-0.125,-0.125,,0.0
+horace.ars_poetica,424.0,"lis, implico, miror, si, scio, inter",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+horace.ars_poetica,425.0,"nosco, mendacem, uerus, beatus, amicus",5,"NaN, NaN, 0.5, 1.0, 1.0",0.5,0.0,mendacem,0.2
+horace.ars_poetica,426.0,"tu, seu, donaris, seu, quis, donaris, uolo, qui",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+horace.ars_poetica,427.0,"nolo, ad, uerro, tu, facio, duco, plenus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+horace.ars_poetica,428.0,"laetitia, clamo, enim, pulcher, bene, rectus",6,"1.0, NaN, NaN, 1.0, NaN, 1.0",0.5,0.0,,0.0
+horace.ars_poetica,429.0,"pallesco, super, hic, etiam, stillo, amicus",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,hic,0.167
+horace.ars_poetica,430.0,"ex, oculus, roro, salio, tundo, pes, terra",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,431.0,"ut, qui, conduco, ploro, in, funus, dico",7,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+horace.ars_poetica,432.0,"et, facio, prope, multus, doleo, ex, animus, sic",8,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.5, NaN",0.062,0.0,,0.0
+horace.ars_poetica,433.0,"derisor, uerus, multus, laudator, moueo",5,"NaN, 0.5, 0.0, NaN, NaN",0.1,0.0,,0.0
+horace.ars_poetica,434.0,"rex, dico, multus, urgeo, culillis",5,"0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,435.0,"et, torqueo, merus, qui, perspicio, laboro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,436.0,"an, sum, amicitia, dignus, si, carmen, condo",7,"NaN, NaN, 1.0, 1.0, NaN, 0.0, NaN",0.286,0.0,,0.0
+horace.ars_poetica,437.0,"numquam, tu, fallo, animus, sub, uulpis, lateo",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,"tu, fallo, uulpis",0.429
+horace.ars_poetica,438.0,"quintilius, siquis, recitaris, corrigo, si, audeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,439.0,"hic, aio, et, hic, mulius, tu, possum, negaris",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic, tu",0.375
+horace.ars_poetica,440.0,"bis, ter, experior, frustra, deleo, iubeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,441.0,"et, malus, torno, incudo, reddo, uerro",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+horace.ars_poetica,442.0,"si, defendo, delinquo, quam, uerto, malo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,443.0,"nullus, ultra, uerbum, aut, opera, insumo, inanis",7,"NaN, NaN, 0.0, NaN, -0.5, NaN, NaN",-0.071,-0.071,,0.0
+horace.ars_poetica,444.0,"quin, sine, riual, tu, et, tuus, solus, amaris",8,"NaN, NaN, NaN, NaN, NaN, 0.0, -0.5, NaN",-0.062,-0.062,"riual, tu",0.25
+horace.ars_poetica,445.0,"uir, bonus, et, prudens, uerro, reprehendo, iners",7,"0.5, 1.0, NaN, 1.0, NaN, NaN, 0.0",0.357,0.0,iners,0.143
+horace.ars_poetica,446.0,"culpo, durus, incomptus, ad-lineo, ater",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+horace.ars_poetica,447.0,"transuerto, calamus, signum, ambitiosus, recido",5,"NaN, NaN, 0.0, -0.5, NaN",-0.1,-0.1,ambitiosus,0.2
+horace.ars_poetica,448.0,"ornamentum, parum, claris, lux, do, cogo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,449.0,"arguo, ambiguus, dico, muto, noto",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+horace.ars_poetica,450.0,"fio, aristarchus, non, dico, cur, ego, amicus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+horace.ars_poetica,451.0,"offendo, in, nugae, hic, nugae, seria, duco",7,"NaN, NaN, -1.0, NaN, -1.0, NaN, NaN",-0.286,-0.286,"hic, seria",0.286
+horace.ars_poetica,452.0,"in, malus, derideo, semel, excipio, sinister",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,derideo,0.167
+horace.ars_poetica,453.0,"ut, malus, qui, scabies, aut, morbus, regius, urgeo",8,"NaN, -1.0, NaN, -1.0, NaN, -1.0, 0.0, NaN",-0.375,-0.375,,0.0
+horace.ars_poetica,454.0,"aut, fanaticus, error, et, iracundus, diana",6,"NaN, NaN, -1.0, NaN, -1.0, NaN",-0.333,-0.333,iracundus,0.167
+horace.ars_poetica,455.0,"uesanus, tango, timeo, fugio, poeta",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,uesanus,0.2
+horace.ars_poetica,456.0,"qui, sapio, agito, puer, incautus, sequor",6,"NaN, NaN, NaN, 0.0, -1.0, NaN",-0.167,-0.167,,0.0
+horace.ars_poetica,457.0,"hic, dum, sublimis, uerro, ructo, et, erro",7,"NaN, NaN, 0.5, NaN, NaN, NaN, 0.0",0.071,0.0,hic,0.143
+horace.ars_poetica,458.0,"si, uelut, merulis, intendo, decido, auceps",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,459.0,"in, puteus, foueo, licet, succurro, longus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,460.0,"clamo, io, ciuis, non, sum, qui, tollo, curo",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+horace.ars_poetica,461.0,"si, curo, quis, ops, fero, et, demitto, funis",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.ars_poetica,462.0,"qui, scio, an, prudens, huc, sui, deicio, atque",8,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+horace.ars_poetica,463.0,"seruaris, nolo, dico, siculique, poeta",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+horace.ars_poetica,464.0,"narro, interitus, deus, immortalis, habeo",5,"NaN, -1.0, 0.0, 0.5, NaN",-0.1,-0.2,,0.0
+horace.ars_poetica,465.0,"dum, cupio, empedocles, ardeo, frigidus, aetnam",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,466.0,"in-sileo, sum, ius, liceo, pereo, poeta",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,,0.0
+horace.ars_poetica,467.0,"inuitus, qui, seruo, idem, facio, occaedes",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+horace.ars_poetica,468.0,"neque, semel, hic, facio, neque, si, retraho, sum, iam",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+horace.ars_poetica,469.0,"fio, homo, et, pono, famosus, mors, amor",7,"NaN, 0.0, NaN, NaN, NaN, -1.0, 1.0",0.0,-0.143,famosus,0.143
+horace.ars_poetica,470.0,"neque, satis, appareo, cur, uerro, factito, utrum",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+horace.ars_poetica,471.0,"mingo, in, patrius, cinis, an, tristis, bidental",7,"NaN, NaN, 0.0, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+horace.ars_poetica,472.0,"moueo, incestus, certus, furio, atque, uelut, ursus",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,"incestus, furio, ursus",0.429
+horace.ars_poetica,473.0,"ob-iacio, cauea, ualeo, si, frango, clathri",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.ars_poetica,474.0,"indoctus, doceo, fugo, recitator, acerbus",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,acerbus,0.2
+horace.ars_poetica,475.0,"qui, uerus, arripio, teneo, occaedes, lego",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+horace.ars_poetica,476.0,"non, mitto, cutis, nisi, plenus, cruor, hirudo",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,"cutis, cruor, hirudo",0.429

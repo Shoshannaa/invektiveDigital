@@ -1,0 +1,77 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+horace.carmen_saeculare,1.0,"phoebus, silua, possum, diana",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,2.0,"lucidiim, caelum, decus, o, colo",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+horace.carmen_saeculare,3.0,"semper, et, colo, do, qui, preco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,4.0,"tempus, sacro",2,"0.0, NaN",0.0,0.0,,0.0
+horace.carmen_saeculare,5.0,"quo, sibyllini, moneo, uerro",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,6.0,"uirgo, lego, puer, castus",4,"NaN, NaN, 0.0, NaN",0.0,0.0,uirgo,0.25
+horace.carmen_saeculare,7.0,"deus, qui, septem, placeo, collis",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.carmen_saeculare,8.0,"dico, carmen",2,"NaN, 0.0",0.0,0.0,,0.0
+horace.carmen_saeculare,9.0,"almus, sol, currus, nitidus, dies, qui",6,"NaN, NaN, NaN, 0.5, 0.0, NaN",0.083,0.0,,0.0
+horace.carmen_saeculare,10.0,"promo, et, celo, alius, et, idem",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,11.0,"nasco, possum, nihil, urbs, roma",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+horace.carmen_saeculare,12.0,"uiso, magnus",2,"NaN, 0.0",0.0,0.0,,0.0
+horace.carmen_saeculare,13.0,"rite, maturus, aperio, pario",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,14.0,"lenis, ilithyia, tueor, mater",4,"1.0, NaN, NaN, 0.0",0.25,0.0,,0.0
+horace.carmen_saeculare,15.0,"siue, tu, lucinus, probo, uocaris",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+horace.carmen_saeculare,16.0,"seu, genital",2,"NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,17.0,"diuus, produco, suboles, pater",4,"0.0, NaN, 0.5, 0.0",0.125,0.0,,0.0
+horace.carmen_saeculare,18.0,"prospero, decretum, super, iugo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,19.0,"femina, proles, nouus, ferax",4,"0.0, 0.0, 1.0, 1.0",0.5,0.0,,0.0
+horace.carmen_saeculare,20.0,"lex, marito",2,"0.5, NaN",0.25,0.0,marito,0.5
+horace.carmen_saeculare,21.0,"certus, undenos, decies, per, annus",5,"0.5, NaN, NaN, NaN, 0.0",0.1,0.0,,0.0
+horace.carmen_saeculare,22.0,"orbis, ut, cantus, ref, sum, ludus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+horace.carmen_saeculare,23.0,"ter, dies, clarus, totiens, gratus",5,"NaN, 0.0, 0.5, NaN, 1.0",0.3,0.0,,0.0
+horace.carmen_saeculare,24.0,"nox, frequens",2,"0.0, NaN",0.0,0.0,,0.0
+horace.carmen_saeculare,25.0,"tu, uerax, cano, parca",4,"NaN, NaN, NaN, NaN",nan,nan,tu,0.25
+horace.carmen_saeculare,26.0,"qui, semel, dico, sum, stabilio, reruni",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,27.0,"terminus, seruo, bonus, iam, perago",5,"0.0, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+horace.carmen_saeculare,28.0,"lungite, fatum",2,"NaN, 0.0",0.0,0.0,,0.0
+horace.carmen_saeculare,29.0,"fertilis, frugum, pecus, tellus",4,"1.0, NaN, NaN, NaN",0.25,0.0,,0.0
+horace.carmen_saeculare,30.0,"spiceus, dono, cererem, corona",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,31.0,"nutrio, fetus, et, aqua, salubris",5,"NaN, NaN, NaN, 0.0, 1.0",0.2,0.0,,0.0
+horace.carmen_saeculare,32.0,"et, io, aura",3,"NaN, NaN, 1.0",0.333,0.0,,0.0
+horace.carmen_saeculare,33.0,"condio, mitis, placidus, telum",4,"NaN, 1.0, 1.0, NaN",0.5,0.0,,0.0
+horace.carmen_saeculare,34.0,"supplex, audio, puer, apollo",4,"0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.carmen_saeculare,35.0,"sidus, regina, bicornis, audio",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,36.0,"luna, puella",2,"NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,37.0,"koma, si, uester, sum, opus, iliaeque",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+horace.carmen_saeculare,38.0,"litus, etruscum, teneo, turma",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,39.0,"iubeo, pars, muto, lar, et, urbs",6,"NaN, 0.0, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+horace.carmen_saeculare,40.0,"sospes, cursus",2,"1.0, NaN",0.5,0.0,,0.0
+horace.carmen_saeculare,41.0,"qui, per, ardeo, sine, fraus, troiam",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,fraus,0.167
+horace.carmen_saeculare,42.0,"castus, aeneas, patria, supersto",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,43.0,"liber, munio, iter, do",4,"0.5, NaN, 0.0, NaN",0.125,0.0,,0.0
+horace.carmen_saeculare,44.0,"multus, relinquo",2,"0.0, NaN",0.0,0.0,,0.0
+horace.carmen_saeculare,45.0,"deus, probus, mos, docilis, iuuenta",5,"0.0, 1.0, 0.5, NaN, NaN",0.3,0.0,probus,0.2
+horace.carmen_saeculare,46.0,"deus, senectus, placidus, quies",4,"0.0, 0.0, 1.0, NaN",0.25,0.0,,0.0
+horace.carmen_saeculare,47.0,"romulae, gens, do, res, proles",5,"NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+horace.carmen_saeculare,48.0,"et, decus, omnis",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,49.0,"quisque, tu, bos, ueneror, albus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+horace.carmen_saeculare,50.0,"clarus, anchisae, uenio, sanguis",4,"0.5, NaN, NaN, NaN",0.125,0.0,,0.0
+horace.carmen_saeculare,51.0,"impetro, bellor, prior, iaceo",4,"NaN, NaN, 0.5, NaN",0.125,0.0,iaceo,0.25
+horace.carmen_saeculare,52.0,"lenis, in, hostis",3,"1.0, NaN, -1.0",0.0,-0.333,,0.0
+horace.carmen_saeculare,53.0,"iam, mare, terra, manus, potens",5,"NaN, 0.0, 0.0, 0.0, 1.0",0.2,0.0,,0.0
+horace.carmen_saeculare,54.0,"medus, albanasque, timeo, securis",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,55.0,"lam, scythes, respousa, peto, superbus",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+horace.carmen_saeculare,56.0,"nuper, et, indo",3,"NaN, NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,57.0,"lam, fides, et, pax, et, honor, pudor",7,"NaN, 1.0, NaN, 0.5, NaN, 1.0, 0.5",0.429,0.0,pudor,0.143
+horace.carmen_saeculare,58.0,"priscus, et, neglego, redeo, uirtus",5,"0.0, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+horace.carmen_saeculare,59.0,"audeo, appareo, beatus, plenus",4,"NaN, NaN, 1.0, 0.0",0.25,0.0,,0.0
+horace.carmen_saeculare,60.0,"copia, cornu",2,"0.5, NaN",0.25,0.0,,0.0
+horace.carmen_saeculare,61.0,"augur, et, fulgeo, decorus, arcus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,62.0,"phoebus, accipio, nouo, camenis",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,63.0,"qui, salutaris, leuo, ars, fatisco",5,"NaN, 1.0, NaN, 0.0, NaN",0.2,0.0,,0.0
+horace.carmen_saeculare,64.0,"corpus, artus",2,"0.0, NaN",0.0,0.0,,0.0
+horace.carmen_saeculare,65.0,"si, palatinas, uideo, aequus, arx",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+horace.carmen_saeculare,66.0,"res, que, romanus, latiumque, felix",5,"0.0, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+horace.carmen_saeculare,67.0,"alterura, in, lustrum, bonus, semper",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+horace.carmen_saeculare,68.0,"prorogo, aeuum",2,"NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,69.0,"quisque, auentinum, teneo, algiduinque",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,70.0,"quindecim, diana, prex, uir",4,"NaN, NaN, 0.0, 0.5",0.125,0.0,,0.0
+horace.carmen_saeculare,71.0,"curo, et, uoueo, puer, arnicas",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+horace.carmen_saeculare,72.0,"applico, auris",2,"NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,73.0,"hic, touem, sentio, deus, cunctus",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,hic,0.2
+horace.carmen_saeculare,74.0,"spes, bonus, cer, tar, -ne, que, domus, reporto",8,"0.5, 1.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.188,0.0,tar,0.125
+horace.carmen_saeculare,75.0,"doceo, et, phoebus, chorus, et, diana",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+horace.carmen_saeculare,76.0,"dico, laus",2,"NaN, 1.0",0.5,0.0,,0.0

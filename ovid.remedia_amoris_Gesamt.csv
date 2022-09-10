@@ -1,0 +1,815 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+ovid.remedia_amoris,1.0,"lego, hic, amor, titulis, nomen, libellus",6,"NaN, NaN, 1.0, NaN, 0.0, 0.0",0.167,0.0,hic,0.167
+ovid.remedia_amoris,2.0,"bellum, ego, uideo, bellum, paro, aio",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,3.0,"parco, tuus, uates, scelus, damnaris, cupido",6,"NaN, 0.0, NaN, -1.0, NaN, -0.5",-0.25,-0.25,"scelus, damnaris",0.333
+ovid.remedia_amoris,4.0,"trado, qui, totiens, tu, dux, signum, fero",7,"NaN, NaN, NaN, NaN, 0.5, 0.0, NaN",0.071,0.0,tu,0.143
+ovid.remedia_amoris,5.0,"non, ego, tydides, ab, quo, tuus, saucius, mater",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,6.0,"in, liquidus, redeo, aether, mars, equus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,7.0,"saepe, tepeo, alius, iuuenis, ego, semper, amo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,8.0,"et, si, quis, facio, nunc, quoque, quaero, amo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,9.0,"quin, etiam, doceo, qui, possum, ars, paro",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,10.0,"et, qui, nunc, ratio, sum, impetus, ante, sum",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,11.0,"neque, tu, blandus, puer, neque, noster, prodeo, ars",8,"NaN, NaN, 0.5, 0.0, NaN, NaN, NaN, 0.0",0.062,0.0,tu,0.125
+ovid.remedia_amoris,12.0,"neque, nouo, praetereo, musa, retego, opus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ovid.remedia_amoris,13.0,"siquis, amo, qui, amo, iuuo, feliciter, ardeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,14.0,"gaudeo, et, uenio, nauigo, ille, suus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,15.0,"at, siquis, malus, fero, indignus, regnum, puella",7,"NaN, NaN, -1.0, NaN, -1.0, 0.0, NaN",-0.286,-0.286,,0.0
+ovid.remedia_amoris,16.0,"ne, pereo, noster, sentio, ars, ops",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,17.0,"cur, aliquis, laqueus, collum, nodo, amator",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"nodo, amator",0.333
+ovid.remedia_amoris,18.0,"ab, trabs, sublimis, tristis, pendeo, onus",6,"NaN, 0.0, 0.5, -1.0, NaN, NaN",-0.083,-0.167,,0.0
+ovid.remedia_amoris,19.0,"cur, aliquis, rigidus, fodio, suus, pectus, ferrum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,20.0,"inuidia, caedes, pax, amator, habeo",5,"-1.0, -0.5, 0.5, NaN, NaN",-0.2,-0.3,"inuidia, caedes, amator",0.6
+ovid.remedia_amoris,21.0,"qui, nisi, desino, mitto, pereo, amor, sum",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,22.0,"desino, et, nullus, funus, auctor, sum",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+ovid.remedia_amoris,23.0,"et, puer, sum, neque, tu, quisquam, nisi, ludo, oportet",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.111
+ovid.remedia_amoris,24.0,"ludo, decet, annus, mollis, regnum, tuus",6,"NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,25.0,"nam, possum, uti, nudus, ad, bellum, sagitta",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,26.0,"sed, tuus, mortifero, sanguis, telum, careo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,27.0,"uitricus, et, gladius, et, acutus, dimico, hasta",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,28.0,"et, uictor, multus, caedes, cruentus, eo",6,"NaN, NaN, 0.0, -0.5, NaN, NaN",-0.083,-0.083,"caedes, cruentus",0.333
+ovid.remedia_amoris,29.0,"tu, colo, maternus, tueor, qui, utor, ars",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+ovid.remedia_amoris,30.0,"et, qui, uitio, nullus, fio, orbo, parens",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+ovid.remedia_amoris,31.0,"efficio, nocturnus, frango, ianua, rixo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,32.0,"et, tego, orno, multus, corona, foris",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,33.0,"facio, coeo, furtim, iuuenis, timidus, puella",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,timidus,0.167
+ovid.remedia_amoris,34.0,"uerbum, do, caueo, qualibet, ars, uir",6,"0.0, NaN, NaN, NaN, 0.0, 0.5",0.083,0.0,,0.0
+ovid.remedia_amoris,35.0,"et, modo, blanditia, rigidus, modo, iurgium, pono",7,"NaN, NaN, 0.5, NaN, NaN, -1.0, NaN",-0.071,-0.143,blanditia,0.143
+ovid.remedia_amoris,36.0,"dico, et, excludo, flebilis, canto, amo",6,"NaN, NaN, NaN, -1.0, 0.0, NaN",-0.167,-0.167,,0.0
+ovid.remedia_amoris,37.0,"hic, lacrima, contineo, sum, sine, crimen, mors",7,"NaN, NaN, NaN, NaN, NaN, -1.0, -1.0",-0.286,-0.286,"hic, crimen",0.286
+ovid.remedia_amoris,38.0,"non, tuus, fax, auidus, dignus, subeo, rogus",7,"NaN, 0.0, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,"fax, rogus",0.286
+ovid.remedia_amoris,39.0,"hic, ego, moueo, amor, gemmo, aureus, ala",7,"NaN, NaN, NaN, 1.0, NaN, 0.5, NaN",0.214,0.0,hic,0.143
+ovid.remedia_amoris,40.0,"et, ego, propono, perficio, dico, opus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ovid.remedia_amoris,41.0,"ad, meus, decipio, iuuenis, praecipio, uenio",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,decipio,0.167
+ovid.remedia_amoris,42.0,"qui, suus, ex, omnis, pars, fallo, amor",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 1.0",0.143,0.0,fallo,0.143
+ovid.remedia_amoris,43.0,"disco, sanaris, per, qui, disco, amo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,44.0,"unus, manus, tu, uulnus, ops, fero",6,"NaN, 0.0, NaN, -1.0, 0.0, NaN",-0.167,-0.167,tu,0.167
+ovid.remedia_amoris,45.0,"terra, salutaris, herba, idem, noceo",5,"0.0, 1.0, NaN, NaN, NaN",0.2,0.0,noceo,0.2
+ovid.remedia_amoris,46.0,"nutrio, et, urtica, propior, saepe, rodo, sum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,47.0,"uulnus, in, herculeo, qui, quondam, facio, hostis",7,"-1.0, NaN, NaN, NaN, NaN, NaN, -1.0",-0.286,-0.286,,0.0
+ovid.remedia_amoris,48.0,"uulnus, auxilium, pelias, hasta, fero",5,"-1.0, 0.0, NaN, NaN, NaN",-0.2,-0.2,,0.0
+ovid.remedia_amoris,49.0,"sed, quicumque, uis, tu, quoque, dictum, puella",7,"NaN, NaN, 1.0, NaN, NaN, 0.0, NaN",0.143,0.0,tu,0.143
+ovid.remedia_amoris,50.0,"credo, diuerto, pars, arma, do",5,"NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,51.0,"e, qui, ad, uester, siquis, non, pertineo, utor",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,52.0,"attamen, exemplum, multus, doceo, possum",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,53.0,"utilis, propono, sum, saeuus, extinguere, flamma",6,"1.0, NaN, NaN, -1.0, NaN, NaN",0.0,-0.167,saeuus,0.167
+ovid.remedia_amoris,54.0,"neque, seruus, uitium, pectus, habeo, suus",6,"NaN, -0.5, -1.0, NaN, NaN, NaN",-0.25,-0.25,,0.0
+ovid.remedia_amoris,55.0,"uiuo, phyllon, si, ego, sum, utor, magister",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+ovid.remedia_amoris,56.0,"et, per, qui, nouies, saepis, eo, iter",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,57.0,"neque, morior, dis-do, summus, uideo, ab, arx",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,58.0,"dardanias, uenio, uelo, do, ratis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,59.0,"neque, dolor, armo, contra, suus, uiscera, mater",7,"NaN, -1.0, NaN, NaN, NaN, NaN, 0.0",-0.143,-0.143,,0.0
+ovid.remedia_amoris,60.0,"qui, socius, damnum, sanguis, ulciscor, uir, sum",7,"NaN, 1.0, -1.0, NaN, NaN, 0.5, NaN",0.071,-0.143,ulciscor,0.143
+ovid.remedia_amoris,61.0,"ars, meus, tereus, quiuis, philomela, placeo",6,"0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,philomela,0.167
+ovid.remedia_amoris,62.0,"per, facinus, fio, non, mereo, auus",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,facinus,0.167
+ovid.remedia_amoris,63.0,"do, ego, pasiphae, -ne, iam, taurus, pono, amor",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,pasiphae,0.125
+ovid.remedia_amoris,64.0,"do, phaedram, phaedrae, turpis, abeo, amor",6,"NaN, NaN, NaN, -1.0, NaN, 1.0",0.0,-0.167,"phaedrae, turpis",0.333
+ovid.remedia_amoris,65.0,"credo, pasco, nos, helene, -ne, menelaus, habeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,66.0,"neque, manus, danais, pergama, uinco, cado",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,pergama,0.167
+ovid.remedia_amoris,67.0,"impius, si, noster, lego, scylla, libellus",6,"-1.0, NaN, NaN, NaN, NaN, 0.0",-0.167,-0.167,"impius, scylla",0.333
+ovid.remedia_amoris,68.0,"haereo, caput, purpura, nitor, tuus",5,"NaN, 0.0, NaN, 1.0, 0.0",0.2,0.0,,0.0
+ovid.remedia_amoris,69.0,"ego, dux, damnosus, homo, conpescite, cura",6,"NaN, 0.5, NaN, 0.0, NaN, -1.0",-0.083,-0.167,,0.0
+ovid.remedia_amoris,70.0,"recingo, cum, socius, ego, dux, nauus, eo",7,"NaN, NaN, 1.0, NaN, 0.5, NaN, NaN",0.214,0.0,,0.0
+ovid.remedia_amoris,71.0,"naso, lego, sum, tum, cum, disco, amo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,72.0,"idem, nunc, tu, naso, lego, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+ovid.remedia_amoris,73.0,"publicus, assertor, dominus, supprimo, leuo",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,74.0,"pectus, uindicta, quisque, faueo, suus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,uindicta,0.2
+ovid.remedia_amoris,75.0,"tu, precor, incipio, adsum, tuus, laureus, nos",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.143
+ovid.remedia_amoris,76.0,"carmen, et, medica, phoebus, repertor, ops",6,"0.0, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,77.0,"tu, pariter, uates, pariter, succurro, medeor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+ovid.remedia_amoris,78.0,"uter, tutela, subdo, cura, tuus, sum",6,"NaN, NaN, NaN, -1.0, 0.0, NaN",-0.167,-0.167,,0.0
+ovid.remedia_amoris,79.0,"dum, licet, et, modicus, tango, praecordia, moueo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,80.0,"si, pigeo, in, primus, limen, sisto, pedis",7,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0",0.071,0.0,,0.0
+ovid.remedia_amoris,81.0,"opprimo, dum, nouo, sum, subeo, malus, semen, morbus",8,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, -1.0",-0.25,-0.25,,0.0
+ovid.remedia_amoris,82.0,"et, tuus, incipio, eo, resisto, equus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,83.0,"nam, mora, do, uireo, tener, mora, percoquo, labrusca",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,84.0,"et, ualidus, seges, qui, sum, herba, facio",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,85.0,"qui, praebeo, latus, arbor, spatior, umbra",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,86.0,"quo, pono, sum, primus, tempus, uirga, sum",7,"NaN, NaN, NaN, 0.5, 0.0, NaN, NaN",0.071,0.0,,0.0
+ovid.remedia_amoris,87.0,"tum, possum, manus, summus, tellus, reuello",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,88.0,"nunc, sto, in, immensus, uis, augeo, suus",7,"NaN, NaN, NaN, 0.0, 1.0, NaN, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,89.0,"qualis, sum, is, qui, amo, celer, circumspicio, mens",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,,0.0
+ovid.remedia_amoris,90.0,"et, tuus, laedo, subtraho, collum, iugum",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,91.0,"principia, obsto, serus, medicina, paro",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,92.0,"cum, malus, per, longus, conualesco, mora",6,"NaN, -1.0, NaN, 0.0, NaN, NaN",-0.167,-0.167,,0.0
+ovid.remedia_amoris,93.0,"sed, propero, neque, tu, uenio, differo, in, hora",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+ovid.remedia_amoris,94.0,"qui, non, sum, hodie, creo, paruus, aptus, sum",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,95.0,"uerbum, do, omnis, amor, reperio, alimentum, moror",7,"0.0, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,96.0,"bonus, uindicta, propior, quisque, dies",5,"1.0, NaN, 0.0, NaN, 0.0",0.2,0.0,uindicta,0.2
+ovid.remedia_amoris,97.0,"flumen, paucus, uideo, de, magnus, fons, orior",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,98.0,"multus, colligo, multiplico, aqua",4,"0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,99.0,"si, cito, sentio, quantus, peccaris, pararis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,100.0,"non, tego, uultus, cortex, murra, tuus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,101.0,"uideo, ego, qui, sum, primus, sanabilis, uulnus",7,"NaN, NaN, NaN, NaN, 0.5, 1.0, -1.0",0.071,-0.143,,0.0
+ovid.remedia_amoris,102.0,"differo, longus, damno, fero, mora",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,damno,0.2
+ovid.remedia_amoris,103.0,"sed, quia, delecto, uenio, decerpo, fructus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ovid.remedia_amoris,104.0,"dico, assiduus, creo, quoque, fio, idem",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,105.0,"interea, taceo, serpo, in, uiscera, flamma",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,serpo,0.167
+ovid.remedia_amoris,106.0,"et, malus, radix, altus, arbor, ago",6,"NaN, -1.0, 0.0, 0.5, NaN, NaN",-0.083,-0.167,,0.0
+ovid.remedia_amoris,107.0,"si, tamen, auxilium, pereo, tempus, primus",6,"NaN, NaN, 0.0, NaN, 0.0, 0.5",0.083,0.0,,0.0
+ovid.remedia_amoris,108.0,"et, uetus, in, capio, pectus, sedeo, amor",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+ovid.remedia_amoris,109.0,"magnus, opus, supersum, sed, non, quia, serus, aeger",8,"0.0, 0.5, NaN, NaN, NaN, NaN, NaN, -1.0",-0.062,-0.125,,0.0
+ovid.remedia_amoris,110.0,"aduoco, ille, ego, destituo, sum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,111.0,"quam, laedo, sum, pars, poeantius, heros",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,112.0,"certus, debeo, praeseco, manus",4,"0.5, NaN, NaN, 0.0",0.125,0.0,,0.0
+ovid.remedia_amoris,113.0,"post, tamen, hic, multus, sano, credo, annus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,hic,0.143
+ovid.remedia_amoris,114.0,"superus, bellum, impono, manus",4,"NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,115.0,"qui, modo, nasco, propero, pello, morbus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+ovid.remedia_amoris,116.0,"admoueo, tardus, nunc, tu, lentus, ops",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.167
+ovid.remedia_amoris,117.0,"aut, nouo, si, possum, sedaris, incendium, tento",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,118.0,"aut, ubi, per, uireo, procumbo, suus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,119.0,"dum, furor, in, cursus, sum, curro, cedo, furor",8,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN, -1.0",-0.25,-0.25,"furor, furor",0.25
+ovid.remedia_amoris,120.0,"difficilis, aditus, impetus, omnis, habeo",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+ovid.remedia_amoris,121.0,"stultus, ab, obliquus, qui, cum, descendo, possum",7,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,stultus,0.143
+ovid.remedia_amoris,122.0,"pugno, in, aduerso, eo, natator, aqua",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,123.0,"impatiens, animus, neque, adhuc, tractabilis, ars",6,"-0.5, 0.5, NaN, NaN, NaN, 0.0",0.0,-0.083,,0.0
+ovid.remedia_amoris,124.0,"respuo, atque, odium, uerbum, moneo, habeo",6,"NaN, NaN, -1.0, 0.0, NaN, NaN",-0.167,-0.167,,0.0
+ovid.remedia_amoris,125.0,"aggredior, bonus, tum, cum, suus, uulnero, tango",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,126.0,"iam, sino, et, uerus, uox, aptus, sum",7,"NaN, NaN, NaN, 0.5, 0.0, NaN, NaN",0.071,0.0,,0.0
+ovid.remedia_amoris,127.0,"quis, mater, nisi, mens, inops, in, funus, nascor",8,"NaN, 0.0, NaN, 0.5, -1.0, NaN, -0.5, NaN",-0.125,-0.188,,0.0
+ovid.remedia_amoris,128.0,"fleo, ueto, non, hic, ille, moneo, locus, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.125
+ovid.remedia_amoris,129.0,"cum, do, lacrima, animus, impleo, aeger",6,"NaN, NaN, NaN, 0.5, NaN, -1.0",-0.083,-0.167,,0.0
+ovid.remedia_amoris,130.0,"ille, dolor, uerbum, emoderor, sum",5,"NaN, -1.0, 0.0, NaN, NaN",-0.2,-0.2,,0.0
+ovid.remedia_amoris,131.0,"tempus, ars, medicina, fere, sum, do, tempus, prosum",8,"0.0, 0.0, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,132.0,"et, do, non, apto, tempus, uinum, noceo",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,noceo,0.143
+ovid.remedia_amoris,133.0,"quin, etiam, accendo, uitio, irrito, ueto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,134.0,"tempus, si, non, adgrediaris, suus",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,135.0,"ergo, ubi, uideo, sum, noster, medicabilis, ars",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,136.0,"facio, moneo, fugio, otium, primus, meus",6,"NaN, NaN, NaN, 0.5, 0.5, 0.0",0.167,0.0,otium,0.167
+ovid.remedia_amoris,137.0,"hic, ut, amo, facio, hic, qui, facio, tueor",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.25
+ovid.remedia_amoris,138.0,"hic, sum, iucundus, causa, cibus, malus",6,"NaN, NaN, 1.0, 0.0, NaN, -1.0",0.0,-0.167,hic,0.167
+ovid.remedia_amoris,139.0,"otium, si, tollo, pereo, cupido, arcus",6,"0.5, NaN, NaN, NaN, -0.5, NaN",0.0,-0.083,otium,0.167
+ovid.remedia_amoris,140.0,"contemno, iaceo, et, sine, lux, fax",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"iaceo, fax",0.333
+ovid.remedia_amoris,141.0,"quam, platanus, uinum, gaudeo, quam, populus, unda",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,142.0,"et, quam, limosus, canna, palustris, humo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"limosus, palustris",0.333
+ovid.remedia_amoris,143.0,"tam, uenus, otium, amo, qui, finis, quaero, amor",8,"NaN, 1.0, 0.5, NaN, NaN, 0.0, NaN, 1.0",0.312,0.0,otium,0.125
+ovid.remedia_amoris,144.0,"cedo, amor, res, res, ago, tueor, sum",7,"NaN, 1.0, 0.0, 0.0, NaN, NaN, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,145.0,"languor, et, immodicus, sub, nullus, uindex, somnium",7,"-1.0, NaN, -1.0, NaN, NaN, NaN, 0.5",-0.214,-0.286,"immodicus, uindex",0.286
+ovid.remedia_amoris,146.0,"alea, et, multus, tempus, quatio, merus",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,147.0,"eripio, omnis, animus, sine, uulnus, neruus",6,"NaN, NaN, 0.5, NaN, -1.0, NaN",-0.083,-0.167,,0.0
+ovid.remedia_amoris,148.0,"affluo, incautus, insidiosus, amor",4,"NaN, -1.0, -1.0, 1.0",-0.25,-0.5,insidiosus,0.25
+ovid.remedia_amoris,149.0,"desidia, puer, ille, sequor, soleo, odi, ago",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,150.0,"do, uacuus, mens, quo, teneo, opus",6,"NaN, NaN, 0.5, NaN, NaN, 0.5",0.167,0.0,,0.0
+ovid.remedia_amoris,151.0,"sum, foro, sum, lex, sum, qui, tuearis, amicus",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, 1.0",0.188,0.0,,0.0
+ovid.remedia_amoris,152.0,"uado, per, urbanus, splendidus, castrum, toga",6,"NaN, NaN, 0.5, 1.0, NaN, NaN",0.25,0.0,,0.0
+ovid.remedia_amoris,153.0,"uel, tu, sanguineus, iuuenalia, munus, mars",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,tu,0.167
+ovid.remedia_amoris,154.0,"suspicio, deliciae, iam, tu, tergum, do",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,"deliciae, tu",0.333
+ovid.remedia_amoris,155.0,"ecce, fugax, parthus, magnus, nouo, causa, triumphus",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,fugax,0.143
+ovid.remedia_amoris,156.0,"iam, uideo, in, campus, caesar, arma, suus",7,"NaN, NaN, NaN, 0.0, 0.5, 0.0, NaN",0.071,0.0,,0.0
+ovid.remedia_amoris,157.0,"uinco, cupidineas, pariter, parthasque, sagitto",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,158.0,"et, refero, ad, patrius, bini, tropaeum, deus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,159.0,"ut, semel, aetola, uenus, sum, ab, cuspis, laedo",8,"NaN, NaN, NaN, 1.0, NaN, NaN, -1.0, NaN",0.0,-0.125,,0.0
+ovid.remedia_amoris,160.0,"mando, amator, bellum, gero, suus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,amator,0.2
+ovid.remedia_amoris,161.0,"quaero, aegisthus, quare, sum, facio, adulter",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,adulter,0.167
+ovid.remedia_amoris,162.0,"in, promptus, causa, sum, desidiosus, sum",6,"NaN, NaN, 0.0, NaN, -1.0, NaN",-0.167,-0.167,desidiosus,0.167
+ovid.remedia_amoris,163.0,"pugno, alius, tardus, apud, ilium, -ne, arma",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,164.0,"transfero, uireo, graecia, totus, suus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,165.0,"siue, opera, bellum, uolo, do, nullus, gero",7,"NaN, -0.5, 0.0, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+ovid.remedia_amoris,166.0,"siue, forum, uacuus, lis, argos, sum",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+ovid.remedia_amoris,167.0,"qui, possum, ne, nihil, illic, ago, amo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,168.0,"sic, uenio, ille, puer, sic, puer, ille, maneo",8,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,169.0,"rus, quoque, oblecto, animus, studium, colo",6,"0.0, NaN, NaN, 0.5, 0.5, NaN",0.167,0.0,,0.0
+ovid.remedia_amoris,170.0,"qui, hic, cura, cedo, cura, possum",6,"NaN, NaN, -1.0, NaN, -1.0, NaN",-0.333,-0.333,hic,0.167
+ovid.remedia_amoris,171.0,"collum, iubeo, domo, onus, suppono, taurus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,172.0,"saucio, ut, durus, uomer, aduncus, humus",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,humus,0.167
+ovid.remedia_amoris,173.0,"obruo, uerso, cerialia, semen, terra",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,174.0,"qui, tu, cum, multus, faenus, reddo, ager",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,"tu, faenus",0.286
+ovid.remedia_amoris,175.0,"aspicio, curuo, pomum, pondus, ramus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,176.0,"ut, suus, qui, pario, uix, fero, arbor, onus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,177.0,"aspicio, labor, iucundus, murmur, riuus",5,"NaN, -0.5, 1.0, NaN, NaN",0.1,-0.1,,0.0
+ovid.remedia_amoris,178.0,"aspicio, tondeo, fertilis, gramen, ouo",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+ovid.remedia_amoris,179.0,"ecce, peto, rupes, praerumpo, saxum, capella",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,"praerumpo, capella",0.333
+ovid.remedia_amoris,180.0,"iam, refero, haedus, uber, plenus, suus",6,"NaN, NaN, NaN, 1.0, 0.0, NaN",0.167,0.0,,0.0
+ovid.remedia_amoris,181.0,"pastor, inaequal, modulor, harundo, carmen",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,182.0,"neque, desum, comes, sedulus, turba, canis",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,183.0,"pars, sono, alius, silua, mugitus, alo",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,184.0,"et, queror, uitulis, mater, absum, suus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,185.0,"quis, cum, suppono, fugio, examino, fumus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,186.0,"ut, releuo, dempti, uimen, curuo, faueo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,187.0,"pomum, do, auctumnus, formosus, sum, messis, aestas",7,"0.0, NaN, 0.0, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,188.0,"uer, praebeo, floreo, ignis, leuo, hiems",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,189.0,"tempus, certus, maturus, rusticus, labrusca",5,"0.0, 0.5, NaN, -0.5, NaN",0.0,-0.1,,0.0
+ovid.remedia_amoris,190.0,"deligo, et, nudus, sub, pes, mustus, fluo",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,191.0,"tempus, certus, deseco, alligo, herba",5,"0.0, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+ovid.remedia_amoris,192.0,"et, tondeo, rarus, pecto, uerro, humus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"pecto, humus",0.333
+ovid.remedia_amoris,193.0,"ipse, possum, riguus, planta, depono, in, hortus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,194.0,"ipse, possum, riuus, duco, lenis, aqua",6,"NaN, NaN, NaN, NaN, 1.0, 0.0",0.167,0.0,,0.0
+ovid.remedia_amoris,195.0,"uenio, insitio, facio, ramus, ramus, adopto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,196.0,"sto, peregrinus, arbor, operio, como",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,197.0,"cum, semel, hic, animus, coepio, mulceo, uoluptas",7,"NaN, NaN, NaN, 0.5, NaN, NaN, 1.0",0.214,0.0,hic,0.143
+ovid.remedia_amoris,198.0,"debilis, pinna, irritus, exeo, amor",5,"-1.0, NaN, -0.5, NaN, 1.0",-0.1,-0.3,,0.0
+ovid.remedia_amoris,199.0,"uel, tu, uenor, studium, colo, saepe, recedo",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,tu,0.143
+ovid.remedia_amoris,200.0,"turpis, ab, phoebus, uinco, soror, uenus",6,"-1.0, NaN, NaN, NaN, NaN, 1.0",0.0,-0.167,turpis,0.167
+ovid.remedia_amoris,201.0,"nunc, lepor, pronus, catulus, sectaris, sagax",6,"NaN, 1.0, NaN, 0.0, NaN, NaN",0.167,0.0,,0.0
+ovid.remedia_amoris,202.0,"nunc, tuus, frondosus, rete, tendo, iugum",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,203.0,"aut, pauidus, terreo, uario, formido, ceruus",6,"NaN, -1.0, NaN, NaN, -1.0, NaN",-0.333,-0.333,,0.0
+ovid.remedia_amoris,204.0,"aut, cado, aduerso, cuspis, fodio, aper",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+ovid.remedia_amoris,205.0,"nox, fatigo, somnus, non, cura, puella",6,"0.0, NaN, 0.5, NaN, -1.0, NaN",-0.083,-0.167,,0.0
+ovid.remedia_amoris,206.0,"excipio, et, pinguis, membrum, quiesco, leuo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,207.0,"lenis, sum, studium, studium, tamen, alo, capio",7,"1.0, NaN, 0.5, 0.5, NaN, NaN, NaN",0.286,0.0,,0.0
+ovid.remedia_amoris,208.0,"aut, linus, aut, calamus, praemium, paruus, sequor",7,"NaN, NaN, NaN, NaN, 1.0, 0.0, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,209.0,"uel, qui, piscis, edax, auidus, malus, deuoro, os",8,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, 0.0",-0.125,-0.125,edax,0.125
+ovid.remedia_amoris,210.0,"abdo, sub, paruus, aes, recuruo, cibus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,recuruo,0.167
+ovid.remedia_amoris,211.0,"aut, hic, aut, alius, donec, dedisco, amo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+ovid.remedia_amoris,212.0,"ipse, tu, furtim, decipio, sum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, decipio",0.4
+ovid.remedia_amoris,213.0,"tu, tantus, quiuis, firmus, retineo, uinclum",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,"tu, uinclum",0.333
+ovid.remedia_amoris,214.0,"eo, procul, et, longus, carpo, pergo, uia",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,215.0,"fleo, et, occurro, desero, nomen, amica",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,216.0,"sto, et, in, medius, pes, tu, saepe, uia",8,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, 0.0",0.0,0.0,tu,0.125
+ovid.remedia_amoris,217.0,"sed, quantus, paruus, eo, uolo, magis, eo, memento",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,218.0,"perfero, et, inuitus, curro, cogo, pes",6,"NaN, NaN, -0.5, NaN, NaN, 0.0",-0.083,-0.083,,0.0
+ovid.remedia_amoris,219.0,"neque, pluuia, opto, neque, tu, peregrinus, moror",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+ovid.remedia_amoris,220.0,"sabbata, neque, damnum, allium, nosco, suus",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+ovid.remedia_amoris,221.0,"neque, quot, transeo, et, quot, tu, quaero, supersum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+ovid.remedia_amoris,222.0,"mille, neque, maneo, ut, prope, fingo, mora",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fingo,0.143
+ovid.remedia_amoris,223.0,"tempus, neque, numero, neque, creber, respicio, roma",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,224.0,"sed, fugio, tueor, adhuc, parthus, ab, hostis, fuga, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, -0.5, NaN",-0.167,-0.167,,0.0
+ovid.remedia_amoris,225.0,"durus, aliquis, praecipio, uoco, meus, durus, fateor",7,"-0.5, NaN, NaN, NaN, 0.0, -0.5, NaN",-0.143,-0.143,,0.0
+ovid.remedia_amoris,226.0,"sum, sed, ut, ualeo, multus, doleo, fero",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,227.0,"saepe, bibo, sucus, quiuis, inuitus, amarus",6,"NaN, NaN, NaN, NaN, -0.5, -0.5",-0.167,-0.167,,0.0
+ovid.remedia_amoris,228.0,"aeger, et, oro, mensa, nego, ego",6,"-1.0, NaN, NaN, 0.0, NaN, NaN",-0.167,-0.167,,0.0
+ovid.remedia_amoris,229.0,"ut, corpus, redimo, ferrum, patior, et, ignis",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,230.0,"aridus, neque, sitio, os, leuo, aqua",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,231.0,"ut, ualeo, animus, quisquam, tolero, nego",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,232.0,"at, pretium, pars, hic, corpus, magnus, habeo",7,"NaN, 1.0, 0.0, NaN, 0.0, 0.0, NaN",0.143,0.0,"pretium, hic",0.286
+ovid.remedia_amoris,233.0,"sed, tamen, sum, ars, tristis, ianua, noster",7,"NaN, NaN, NaN, 0.0, -1.0, NaN, NaN",-0.143,-0.143,,0.0
+ovid.remedia_amoris,234.0,"et, labor, sum, unus, tempus, primus, patior",7,"NaN, -0.5, NaN, NaN, 0.0, 0.5, NaN",0.0,-0.071,,0.0
+ovid.remedia_amoris,235.0,"aspicio, ut, prensos, uro, iugum, primus, iuuencus",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+ovid.remedia_amoris,236.0,"et, nouo, uelox, cingulum, laedo, equus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,237.0,"forsitan, ab, laris, patrius, exeo, pigeo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,238.0,"sed, tamen, exeo, deinde, redeo, uolo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,239.0,"neque, tu, lar, patrius, sed, amor, reuoco, amica",8,"NaN, NaN, NaN, 0.0, NaN, 1.0, NaN, NaN",0.125,0.0,tu,0.125
+ovid.remedia_amoris,240.0,"praetendo, culpa, splendidus, uerbum, tuus",5,"NaN, -1.0, 1.0, 0.0, 0.0",0.0,-0.2,culpa,0.2
+ovid.remedia_amoris,241.0,"cum, semel, exeo, centum, solacium, cura",6,"NaN, NaN, NaN, NaN, 1.0, -1.0",0.0,-0.167,,0.0
+ovid.remedia_amoris,242.0,"et, rus, et, comes, et, uia, longus, do",8,"NaN, 0.0, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,243.0,"neque, satis, sum, puto, discedo, lentus, absum",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+ovid.remedia_amoris,244.0,"dum, perdo, uireo, sum, sine, ignis, cinis",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,245.0,"qui, nisi, firmo, properaris, mens, reuorto",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,246.0,"infero, arma, tu, saeuus, rebellis, amor",6,"NaN, 0.0, NaN, -1.0, NaN, 1.0",0.0,-0.167,"tu, saeuus",0.333
+ovid.remedia_amoris,247.0,"quisquis, et, a-sum, auidus, sitio, redeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,248.0,"et, spatium, damnum, cedo, omnis, tuus",6,"NaN, NaN, -1.0, NaN, NaN, 0.0",-0.167,-0.167,,0.0
+ovid.remedia_amoris,249.0,"uideo, haemonia, siquis, malus, pabulum, terra",6,"NaN, NaN, NaN, -1.0, NaN, 0.0",-0.167,-0.167,,0.0
+ovid.remedia_amoris,250.0,"et, magice, ars, possum, iuuaris, puto",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,251.0,"iste, ueneficium, uetus, sum, uia, noster, apollo",7,"NaN, -0.5, 0.0, NaN, 0.0, NaN, NaN",-0.071,-0.071,ueneficium,0.143
+ovid.remedia_amoris,252.0,"innocuus, sacro, carmen, monstro, ops",5,"0.5, NaN, 0.0, NaN, 0.0",0.1,0.0,,0.0
+ovid.remedia_amoris,253.0,"ego, dux, non, tumulus, prodeo, iubeo, umbra",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+ovid.remedia_amoris,254.0,"non, anus, infamis, carmen, rumpo, humus",6,"NaN, 0.0, -1.0, 0.0, NaN, NaN",-0.167,-0.167,"infamis, humus",0.333
+ovid.remedia_amoris,255.0,"non, seges, ex, alius, alius, transeo, in, ager",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,256.0,"neque, subeo, phoebus, pallidus, orbis, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,257.0,"ut, soleo, aequoreus, eo, tiberinus, in, unda",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,258.0,"ut, soleo, in, niueus, luna, ueho, equus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,niueus,0.143
+ovid.remedia_amoris,259.0,"nullus, recanto, depono, pectus, cura",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+ovid.remedia_amoris,260.0,"neque, fugio, uiuo, sulfur, uinco, amor",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+ovid.remedia_amoris,261.0,"quis, tu, phasiacae, iuuo, gramen, terra",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.167
+ovid.remedia_amoris,262.0,"cum, cupio, patria, colchi, maneo, domus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,263.0,"quis, tu, prosum, circos, perseïdes, herba",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+ovid.remedia_amoris,264.0,"cum, suus, neritias, aufero, aura, ratis",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+ovid.remedia_amoris,265.0,"omnis, facio, ne, callidus, hospes, abeo",6,"NaN, NaN, NaN, 1.0, 0.0, NaN",0.167,0.0,callidus,0.167
+ovid.remedia_amoris,266.0,"ille, do, certus, linteus, plenus, fuga",6,"NaN, NaN, 0.5, NaN, 0.0, -0.5",0.0,-0.083,,0.0
+ovid.remedia_amoris,267.0,"omnis, facio, ne, tu, ferus, uro, ignis",7,"NaN, NaN, NaN, NaN, -1.0, NaN, 0.0",-0.143,-0.143,"tu, ferus",0.286
+ovid.remedia_amoris,268.0,"longus, in, inuito, pectus, sedeo, amor",6,"0.0, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+ovid.remedia_amoris,269.0,"uerto, tu, possum, homo, in, mille, figura",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.143
+ovid.remedia_amoris,270.0,"non, possum, animus, uerto, ius, tuus",6,"NaN, NaN, 0.5, NaN, 0.5, 0.0",0.167,0.0,,0.0
+ovid.remedia_amoris,271.0,"dico, hic, etiam, cum, iam, discedo, uolo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+ovid.remedia_amoris,272.0,"dulichium, uerbum, detineo, dux",4,"NaN, 0.0, NaN, 0.5",0.125,0.0,,0.0
+ovid.remedia_amoris,273.0,"non, ego, qui, primus, memini, spero, soleo",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+ovid.remedia_amoris,274.0,"iam, precor, ut, coniunx, tu, meus, sum, uelis",8,"NaN, NaN, NaN, -0.5, NaN, 0.0, NaN, NaN",-0.062,-0.062,tu,0.125
+ovid.remedia_amoris,275.0,"et, tamen, ut, coniunx, sum, tuus, dignus, uideo",8,"NaN, NaN, NaN, -0.5, NaN, 0.0, 1.0, NaN",0.062,-0.062,,0.0
+ovid.remedia_amoris,276.0,"qui, dea, qui, magnus, filia, sol, sum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,277.0,"ne, propero, oro, spatium, pro, munus, posco",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+ovid.remedia_amoris,278.0,"quis, paruus, optaris, per, meus, ueto, possum",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,279.0,"et, fretus, moueo, uideo, et, debeo, ille, timeo",8,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+ovid.remedia_amoris,280.0,"utilis, uelis, postmodo, uenio, sum",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+ovid.remedia_amoris,281.0,"qui, tu, causa, fuga, non, hic, nouo, troia, resurgo",9,"NaN, NaN, 0.0, -0.5, NaN, NaN, NaN, NaN, NaN",-0.056,-0.056,"tu, hic",0.222
+ovid.remedia_amoris,282.0,"non, aliquis, socius, rursus, ad, arma, uoco",7,"NaN, NaN, 1.0, NaN, NaN, 0.0, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,283.0,"hic, amor, et, pax, sum, in, qui, malus, uulnero, unus",10,"NaN, 1.0, NaN, 0.5, NaN, NaN, NaN, -1.0, NaN, NaN",0.05,-0.1,hic,0.1
+ovid.remedia_amoris,284.0,"tueor, sub, regnum, terra, sum, tuus, sum",7,"NaN, NaN, 0.0, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,285.0,"ille, loquor, nauo, soluo, ulixes",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,286.0,"irrito, cum, uelis, uerbum, fero, nosco",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,287.0,"ardeo, et, assuesco, circos, decurro, ad, ars",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,288.0,"neque, tamen, sum, ille, ad-tenuo, amor",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+ovid.remedia_amoris,289.0,"ergo, quisquis, ops, noster, tu, posco, ab, ars",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.125
+ovid.remedia_amoris,290.0,"demo, ueneficium, carmen, fides",4,"NaN, -0.5, 0.0, 1.0",0.125,-0.125,ueneficium,0.25
+ovid.remedia_amoris,291.0,"si, tu, causa, possum, domina, retineo, in, urbs",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,tu,0.125
+ovid.remedia_amoris,292.0,"accipio, consilium, qui, sum, in, urbs, meus",7,"NaN, 0.5, NaN, NaN, NaN, 0.5, 0.0",0.143,0.0,,0.0
+ovid.remedia_amoris,293.0,"bonus, ille, suus, uindex, laedo, pectus",6,"1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,uindex,0.167
+ovid.remedia_amoris,294.0,"uinculum, qui, rumpo, dedoleo, semel",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,295.0,"sed, qui, tantus, animus, sum, ille, miror, et, ipse",9,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+ovid.remedia_amoris,296.0,"et, dico, moneo, non, egeo, iste, meus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,297.0,"tu, ego, qui, qui, amo, aeger, dedisco, amo",8,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.125,-0.125,tu,0.125
+ovid.remedia_amoris,298.0,"neque, possum, et, uolo, possum, doceo, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,299.0,"saepe, refero, cum, tu, scelero, facio, puella",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, scelero",0.286
+ovid.remedia_amoris,300.0,"et, pono, ante, oculus, omnis, damno, tuus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,damno,0.143
+ovid.remedia_amoris,301.0,"ille, et, ille, habeo, neque, is, contineo, rapina, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,rapina,0.111
+ovid.remedia_amoris,302.0,"sub, titulis, noster, mitto, auarus, lar",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,auarus,0.167
+ovid.remedia_amoris,303.0,"sic, ego, iuro, sic, ego, iuro, fallo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fallo,0.143
+ovid.remedia_amoris,304.0,"ante, suus, quotiens, patior, iacio, foris",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,305.0,"diligo, ipse, alius, ab, ego, fastidio, amo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,306.0,"institor, heu, nox, qui, ego, non, do, habeo",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,heu,0.125
+ovid.remedia_amoris,307.0,"hic, tu, per, totus, inacesco, omnis, sensus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,"hic, tu",0.286
+ovid.remedia_amoris,308.0,"hic, refero, hinc, odium, semen, quaero, tuus",7,"NaN, NaN, NaN, -1.0, NaN, NaN, 0.0",-0.143,-0.143,hic,0.143
+ovid.remedia_amoris,309.0,"atque, utinam, possum, etiam, facundus, in, ille",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,310.0,"sum, doleo, tantus, sponte, dissero, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,311.0,"haereo, in, quidam, nuper, meus, cura, puella",7,"NaN, NaN, NaN, NaN, 0.0, -1.0, NaN",-0.143,-0.143,,0.0
+ovid.remedia_amoris,312.0,"conuenio, animus, non, sum, ille, meus",6,"NaN, 0.5, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+ovid.remedia_amoris,313.0,"curo, proprius, aeger, podalirius, herba",5,"NaN, 0.0, -1.0, NaN, NaN",-0.2,-0.2,,0.0
+ovid.remedia_amoris,314.0,"et, fateor, medicus, turpis, aeger, sum",6,"NaN, NaN, NaN, -1.0, -1.0, NaN",-0.333,-0.333,turpis,0.167
+ovid.remedia_amoris,315.0,"prosum, assiduus, uitium, insisto, amica",5,"NaN, 0.5, -1.0, NaN, NaN",-0.1,-0.2,,0.0
+ovid.remedia_amoris,316.0,"is, ego, facio, saepe, salubris, sum",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+ovid.remedia_amoris,317.0,"quam, malus, dico, noster, sum, crus, puella",7,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+ovid.remedia_amoris,318.0,"neque, tamen, ut, uerus, confiteor, sum",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,319.0,"bracchium, quam, non, sum, noster, formosus, puella",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,320.0,"et, tamen, ut, uerus, confiteor, sum",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,321.0,"quam, breuis, sum, neque, sum, quam, multus, posco, amo",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,322.0,"hic, odium, uenio, maximus, causa, meus",6,"NaN, -1.0, NaN, NaN, 0.0, 0.0",-0.167,-0.167,hic,0.167
+ovid.remedia_amoris,323.0,"et, malus, sum, uicinum, bonus, error, sub, ille",8,"NaN, -1.0, NaN, NaN, 1.0, -1.0, NaN, NaN",-0.125,-0.25,,0.0
+ovid.remedia_amoris,324.0,"pro, uitio, uirtus, crimen, saepe, fero",6,"NaN, NaN, 1.0, -1.0, NaN, NaN",0.0,-0.167,crimen,0.167
+ovid.remedia_amoris,325.0,"qui, possum, in, malus, doto, deflecto, puella",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,,0.0
+ovid.remedia_amoris,326.0,"iudicium, breuis, limes, fallo, tuus",5,"0.5, NaN, 0.0, NaN, 0.0",0.1,0.0,fallo,0.2
+ovid.remedia_amoris,327.0,"turgidus, si, plenus, sum, si, fuscus, sum, niger, uoco",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,328.0,"in, gracilis, macies, crimen, habeo, possum",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,crimen,0.167
+ovid.remedia_amoris,329.0,"et, possum, dico, petulans, qui, rusticus, non, sum",8,"NaN, NaN, NaN, -0.5, NaN, -0.5, NaN, NaN",-0.125,-0.125,petulans,0.125
+ovid.remedia_amoris,330.0,"et, possum, dico, rusticus, siqua, probus, sum",7,"NaN, NaN, NaN, -0.5, NaN, 1.0, NaN",0.071,-0.071,probus,0.143
+ovid.remedia_amoris,331.0,"quin, etiam, quicumque, careo, tuus, femina, dos",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,332.0,"hic, moueo, blandus, usque, precaris, sonus",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,hic,0.167
+ovid.remedia_amoris,333.0,"exigo, uti, canto, siqua, sum, sine, uox, puella",8,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,334.0,"facio, salto, nescio, siqua, moueo, manus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,salto,0.167
+ovid.remedia_amoris,335.0,"barbarum, sermo, sum, facio, cum, tu, multus, loquor",8,"NaN, -0.5, NaN, NaN, NaN, NaN, 0.0, NaN",-0.062,-0.062,"barbarum, tu",0.25
+ovid.remedia_amoris,336.0,"non, disco, chorda, tango, posco, lyra",6,"NaN, NaN, 1.0, NaN, NaN, 0.0",0.167,0.0,,0.0
+ovid.remedia_amoris,337.0,"durus, incedo, facio, inambulo, omnis, papilla",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+ovid.remedia_amoris,338.0,"pectus, habeo, uitium, fascia, nullus, tego",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+ovid.remedia_amoris,339.0,"si, malus, dentatus, sum, narro, qui, rideo, ille",8,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.125,-0.125,,0.0
+ovid.remedia_amoris,340.0,"mollis, sum, oculus, qui, fleo, ille, refero",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,341.0,"pro-sum, et, subeo, cum, sui, non, fingo, ullus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fingo,0.125
+ovid.remedia_amoris,342.0,"ad, domina, celer, mane, fero, gradus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,343.0,"aufero, cultus, gemma, aurum, tego",5,"NaN, -0.5, NaN, 0.5, NaN",0.0,-0.1,,0.0
+ovid.remedia_amoris,344.0,"omnis, pars, minimus, sum, ipse, puella, suus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,345.0,"saepe, ubi, sum, qui, amo, inter, tam, multus, requiro",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,346.0,"decipio, hic, oculus, aegis, diues, amor",6,"NaN, NaN, 0.0, NaN, 0.5, 1.0",0.25,0.0,"decipio, hic",0.333
+ovid.remedia_amoris,347.0,"improuide, adsum, de_-prehendo, tueor, inermis",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,348.0,"infelix, uitium, excido, ille, suus",5,"-1.0, -1.0, NaN, NaN, NaN",-0.4,-0.4,infelix,0.2
+ovid.remedia_amoris,349.0,"non, tamen, hic, nimium, praeceptum, credo, tueor, sum",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.125
+ovid.remedia_amoris,350.0,"fallo, enim, multus, forma, sine, ars, decet",7,"NaN, NaN, 0.0, 1.0, NaN, 0.0, NaN",0.143,0.0,fallo,0.143
+ovid.remedia_amoris,351.0,"tum, quoque, compono, cum, collino, os, uenenum",7,"NaN, NaN, NaN, NaN, NaN, 0.0, -0.5",-0.071,-0.071,,0.0
+ovid.remedia_amoris,352.0,"ad, domina, uultus, neque, pudor, obsto, is",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,pudor,0.143
+ovid.remedia_amoris,353.0,"pyxidas, inuenio, et, res, mille, color",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,354.0,"et, fluo, in, tepidus, oesypum, labor, sinus",7,"NaN, NaN, NaN, NaN, 0.0, -0.5, NaN",-0.071,-0.071,,0.0
+ovid.remedia_amoris,355.0,"ille, tuus, redoleo, phineu, medicamen, mensa",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,356.0,"non, semel, hinc, stomachus, nausea, facio, meus, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,357.0,"nunc, tu, qui, medium, uenio, praesto, in, usus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+ovid.remedia_amoris,358.0,"eloquor, ex, omnis, sum, pars, fugo, amor",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 1.0",0.143,0.0,,0.0
+ovid.remedia_amoris,359.0,"multus, quidem, ex, ille, pudor, sum, ego, dico, sed, tu",10,"0.0, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.05,0.0,"pudor, tu",0.2
+ovid.remedia_amoris,360.0,"ingenium, uerbum, concipio, multus, meus",5,"0.5, 0.0, NaN, 0.0, 0.0",0.1,0.0,,0.0
+ovid.remedia_amoris,361.0,"nuper, enim, noster, quidam, carpo, libellus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,362.0,"qui, censeo, musa, proteruus, meus, sum",6,"NaN, NaN, NaN, -0.5, 0.0, NaN",-0.083,-0.083,proteruus,0.167
+ovid.remedia_amoris,363.0,"dummodo, sic, placeo, dum, totus, canto, in, orbis",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,364.0,"quamlibet, impugno, unus, et, alter, opus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ovid.remedia_amoris,365.0,"ingenium, magnus, liuor, de_-tracto, homeri",5,"0.5, 0.0, -0.5, NaN, NaN",0.0,-0.1,,0.0
+ovid.remedia_amoris,366.0,"quisquis, sum, ex, ille, zoilis, nomen, habeo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,zoilis,0.143
+ovid.remedia_amoris,367.0,"et, tuus, sacrilega, lanio, carmen, lingua",6,"NaN, 0.0, NaN, NaN, 0.0, -0.5",-0.083,-0.083,lanio,0.167
+ovid.remedia_amoris,368.0,"perfero, huc, uinco, quo, dux, troia, deus",7,"NaN, NaN, NaN, NaN, 0.5, NaN, 0.0",0.071,0.0,,0.0
+ovid.remedia_amoris,369.0,"summus, peto, liuor, perflo, alo, uenio",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+ovid.remedia_amoris,370.0,"summus, peto, dextera, fulmen, mitto, io",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,371.0,"at, tu, quicumque, sum, qui, noster, licentia, laedo",8,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.062,-0.062,"tu, licentia",0.25
+ovid.remedia_amoris,372.0,"si, sapio, ad, numerus, exigo, quisque, suus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,373.0,"fortis, maeonio, gaudeo, pes, bellum, refero",6,"0.5, NaN, NaN, 0.0, 0.0, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,374.0,"deliciae, illic, quis, locus, sum, possum",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,deliciae,0.167
+ovid.remedia_amoris,375.0,"grandis, sono, tragicus, tragicus, decet, ira, cothurnus",7,"0.0, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+ovid.remedia_amoris,376.0,"usus, e, medius, soccus, habeo, sum",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,377.0,"liber, in, aduerro, hostis, stringo, iambus",6,"0.5, NaN, NaN, -1.0, NaN, NaN",-0.083,-0.167,,0.0
+ovid.remedia_amoris,378.0,"seu, celer, exter, seu, traho, ille, pedis",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,379.0,"blandus, pharetratus, elegia, canto, amor",5,"0.5, NaN, NaN, 0.0, 1.0",0.3,0.0,,0.0
+ovid.remedia_amoris,380.0,"et, leuis, arbitrium, ludo, amicus, suus",6,"NaN, 0.0, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+ovid.remedia_amoris,381.0,"callimachi, numerus, non, sum, dico, achilles",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"callimachi, achilles",0.333
+ovid.remedia_amoris,382.0,"cydippe, non, sum, ora, homere, tuus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,383.0,"quis, fero, andromaches, perago, thaida, pars",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,384.0,"pecco, in, andromache, thaida, quisquis, ago",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,385.0,"thais, in, ars, meus, sum, lasciuia, liber, noster, sum",9,"NaN, NaN, 0.0, 0.0, NaN, NaN, 0.5, NaN, NaN",0.056,0.0,lasciuia,0.111
+ovid.remedia_amoris,386.0,"nihil, ego, cum, uitta, thais, in, ars, meus, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,387.0,"si, meus, materia, respondeo, musa, iocosus",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,388.0,"uinco, et, fallo, crimen, ago, rea, sum",7,"NaN, NaN, NaN, -1.0, NaN, -0.5, NaN",-0.214,-0.214,"fallo, crimen, rea",0.429
+ovid.remedia_amoris,389.0,"rumpo, liuor, edax, magnus, iam, nomen, habeo",7,"NaN, -0.5, NaN, 0.0, NaN, 0.0, NaN",-0.071,-0.071,edax,0.143
+ovid.remedia_amoris,390.0,"magnus, sum, tantus, quo, pes, coepio, eo",7,"0.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,391.0,"sed, nimium, propero, uiuo, modo, multus, doleo",7,"NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,392.0,"et, capio, animus, carmen, multus, meus",6,"NaN, NaN, 0.5, 0.0, 0.0, 0.0",0.083,0.0,,0.0
+ovid.remedia_amoris,393.0,"nam, iuuo, et, studium, fama, ego, cerno, honor",8,"NaN, NaN, NaN, 0.5, 1.0, NaN, NaN, 1.0",0.312,0.0,,0.0
+ovid.remedia_amoris,394.0,"principium, cliuus, noster, anhelo, equus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,395.0,"tantus, sui, nos, eligo, debeo, fateor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,396.0,"quantus, uergilio, nobilis, debeo, epos",5,"NaN, NaN, 1.0, NaN, 0.0",0.2,0.0,,0.0
+ovid.remedia_amoris,397.0,"hactenus, inuidia, respondeo, attraho, lorum",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,inuidia,0.2
+ovid.remedia_amoris,398.0,"fortis, et, gyrus, curro, poeta, tuus",6,"0.5, NaN, NaN, NaN, 0.0, 0.0",0.083,0.0,,0.0
+ovid.remedia_amoris,399.0,"ergo, ubi, concubo, et, opus, iuuenal, peto",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,concubo,0.143
+ovid.remedia_amoris,400.0,"et, prope, promitto, tempus, nox, sum",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,401.0,"gaudium, ne, domina, plenus, si, corpus, sumo",7,"1.0, NaN, NaN, 0.0, NaN, 0.0, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,402.0,"tu, capio, ineo, quamlibet, ante, uolo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+ovid.remedia_amoris,403.0,"quamlibet, inuenio, in, qui, tuus, primus, uoluptas",7,"NaN, NaN, NaN, NaN, 0.0, 0.5, 1.0",0.214,0.0,,0.0
+ovid.remedia_amoris,404.0,"desino, ab, primus, propior, segnis, sum",6,"NaN, NaN, 0.5, 0.0, NaN, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,405.0,"sustento, uenus, gratus, frigor, soleo",5,"NaN, 1.0, 1.0, NaN, NaN",0.4,0.0,,0.0
+ovid.remedia_amoris,406.0,"sol, iuuo, umbra, gratus, fio, unda, sitis",7,"NaN, NaN, NaN, 1.0, NaN, 0.0, -0.5",0.071,-0.071,,0.0
+ovid.remedia_amoris,407.0,"et, pudeo, et, dico, uenerem, quoque, iungo, figuro",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,pudeo,0.125
+ovid.remedia_amoris,408.0,"qui, paruus, iungo, quisque, decet, puto",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,409.0,"neque, labor, efficio, sum, rarus, sui, uerus, fateor",8,"NaN, -0.5, NaN, NaN, NaN, NaN, 0.5, NaN",0.0,-0.062,,0.0
+ovid.remedia_amoris,410.0,"et, nihil, sum, qui, sui, dedecuisse, puto",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,411.0,"tunc, etiam, iubeo, totus, aperio, fenestra",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,412.0,"turpe, admitto, membrum, noto, dies",5,"-1.0, NaN, NaN, NaN, 0.0",-0.2,-0.2,,0.0
+ovid.remedia_amoris,413.0,"at, simul, ad, meto, uenio, finio, uoluptas",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+ovid.remedia_amoris,414.0,"lasso, cum, totus, corpus, mens, iaceo",6,"NaN, NaN, NaN, 0.0, 0.5, NaN",0.083,0.0,iaceo,0.167
+ovid.remedia_amoris,415.0,"dum, pigeo, et, malus, nullus, tango, puella",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,,0.0
+ovid.remedia_amoris,416.0,"tango, tu, non, uidearis, diu",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+ovid.remedia_amoris,417.0,"tunc, animus, signum, quicumque, in, corpus, menda, sum",8,"NaN, 0.5, 0.0, NaN, NaN, 0.0, NaN, NaN",0.062,0.0,,0.0
+ovid.remedia_amoris,418.0,"lumen, in, uitium, ille, usque, teneo",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+ovid.remedia_amoris,419.0,"forsitan, hic, aliquis, nam, sum, quoque, paruus, uoco",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.125
+ovid.remedia_amoris,420.0,"sed, qui, non, prosum, singulus, multus, iuuo",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,421.0,"paruus, neco, morsus, spatiosus, uipera, taurus",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,morsus,0.167
+ovid.remedia_amoris,422.0,"ab, canis, non, magnus, saepe, teneo, aper",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,423.0,"tu, tantus, numerus, pugno, praecipio, in, unus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+ovid.remedia_amoris,424.0,"contraho, de, multus, grandis, aceruus, sum",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,425.0,"sed, quoniam, totidem, mos, totidem, figura",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,426.0,"non, sum, iudicium, omnis, do, meus",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,,0.0
+ovid.remedia_amoris,427.0,"quo, tuus, non, possum, offendo, pectus, facio",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,428.0,"forsitan, hic, alius, iudex, crimen, sum",6,"NaN, NaN, NaN, 0.5, -1.0, NaN",-0.083,-0.167,"hic, crimen",0.333
+ovid.remedia_amoris,429.0,"ille, qui, obscenus, in, aperio, corpus, pars",7,"NaN, NaN, -1.0, NaN, NaN, 0.0, 0.0",-0.143,-0.143,,0.0
+ovid.remedia_amoris,430.0,"uideo, in, cursus, qui, sum, haereo, amor",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+ovid.remedia_amoris,431.0,"ille, qui, ab, uenio, res, surgo, puella",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,432.0,"uideo, in, immundus, signum, pudeo, torus",6,"NaN, NaN, -0.5, 0.0, NaN, NaN",-0.083,-0.083,pudeo,0.167
+ovid.remedia_amoris,433.0,"ludo, o, siquis, possum, iste, moueo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,434.0,"afflo, tepidus, pectus, uester, fax",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,fax,0.2
+ovid.remedia_amoris,435.0,"ad-traho, ille, puer, contendo, fortis, arcus",6,"NaN, NaN, 0.0, NaN, 0.5, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,436.0,"saucius, magnus, turba, peto, ops",5,"NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,437.0,"quis, qui, clam, lateo, reddo, obscenus, puella",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+ovid.remedia_amoris,438.0,"et, uideo, qui, mos, ipse, uideo, ueto",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+ovid.remedia_amoris,439.0,"deus, bonus, quam, nos, moneo, talis, quisquam",7,"0.0, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,440.0,"ut, prosum, non, sum, expedio, tamen",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,441.0,"hortor, et, ut, pariter, bini, habeo, amica",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,442.0,"fortis, sum, multus, siquis, habeo, possum",6,"0.5, NaN, 0.0, NaN, NaN, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,443.0,"seco, bipertito, cum, mens, discurro, uterque",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,444.0,"alter, uireo, subtraho, alter, amor",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+ovid.remedia_amoris,445.0,"grandis, per, multus, tenuo, flumen, riuus",6,"0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,446.0,"saeuus, diduco, stipes, flamma, pereo",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,saeuus,0.2
+ovid.remedia_amoris,447.0,"non, satis, unus, teneo, cero, ancora, puppis",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+ovid.remedia_amoris,448.0,"neque, satis, sum, liquidus, unicus, hamus, aqua",7,"NaN, 0.5, NaN, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+ovid.remedia_amoris,449.0,"qui, sui, iam, pridem, solacium, bini, paro",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,450.0,"iam, pridem, summus, uictor, in, arx, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,451.0,"at, tu, qui, sum, domina, malus, credo, unus",8,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.125,-0.125,tu,0.125
+ovid.remedia_amoris,452.0,"nunc, saltem, nouus, sum, inuenio, amor",6,"NaN, NaN, 1.0, NaN, NaN, 1.0",0.333,0.0,,0.0
+ovid.remedia_amoris,453.0,"pasiphaes, minos, in, procride, perdo, ignis",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,454.0,"cedo, ab, idaea, coniunx, uinco, prior",6,"NaN, NaN, NaN, -0.5, NaN, 0.5",0.0,-0.083,,0.0
+ovid.remedia_amoris,455.0,"amphilochi, frater, ne, phegida, semper, amo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,456.0,"calliroe, facio, pars, recipio, torus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,457.0,"et, par, -ne, oenone, summus, teneo, ad, annus",8,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, 0.0",0.062,0.0,,0.0
+ovid.remedia_amoris,458.0,"si, non, oebalia, paelice, laedo, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,paelice,0.167
+ovid.remedia_amoris,459.0,"coniunx, odrysio, placeo, forma, tyrannus",5,"-0.5, NaN, NaN, 1.0, NaN",0.1,-0.1,tyrannus,0.2
+ovid.remedia_amoris,460.0,"sed, bonus, claudo, forma, soror, sum",6,"NaN, 1.0, NaN, 1.0, NaN, NaN",0.333,0.0,,0.0
+ovid.remedia_amoris,461.0,"quis, moror, exemplum, qui, ego, turba, fatigo",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,462.0,"successor, nouo, uincio, omnis, amor",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+ovid.remedia_amoris,463.0,"fortis, e, multus, mater, desidero, unus",6,"0.5, NaN, 0.0, 0.0, NaN, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,464.0,"quam, qui, fleo, clamo, tu, ego, solus, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.062,-0.062,tu,0.125
+ovid.remedia_amoris,465.0,"atque, ne, fors, puto, nouo, ego, tu, condo, ius",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.5",0.056,0.0,tu,0.111
+ovid.remedia_amoris,466.0,"atque, utinam, inuenio, gloria, noster, sum",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,467.0,"uideo, ut, atrides, quis, enim, non, ille, uideo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,atrides,0.125
+ovid.remedia_amoris,468.0,"qui, in, arbitrium, graecia, totus, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,469.0,"martes, suus, capio, chryseïda, uictor, amo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,470.0,"at, senex, stultus, fleo, ubique, pater",6,"NaN, 0.0, -1.0, NaN, NaN, 0.0",-0.167,-0.167,stultus,0.167
+ovid.remedia_amoris,471.0,"quis, lacrima, odiosus, senex, bene, conuenio, ille",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,472.0,"officium, nata, laedo, ineptus, tuus",5,"0.5, NaN, NaN, -1.0, 0.0",-0.1,-0.2,ineptus,0.2
+ovid.remedia_amoris,473.0,"quam, postquam, reddo, calchas, ops, tueor, achillis",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,474.0,"iubeo, et, patria, sum, ille, recipio, domus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,475.0,"sum, aio, atrides, ille, propior, forma",6,"NaN, NaN, NaN, NaN, 0.0, 1.0",0.167,0.0,atrides,0.167
+ovid.remedia_amoris,476.0,"et, si, primus, sino, syllaba, nomen, idem",7,"NaN, NaN, 0.5, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+ovid.remedia_amoris,477.0,"hic, ego, si, sapio, per, sui, concedo, achilles",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, achilles",0.25
+ovid.remedia_amoris,478.0,"si, paruus, imperium, sentio, ille, meus",6,"NaN, 0.0, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,479.0,"qui, siquis, uester, facio, hic, incuso, achiui",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+ovid.remedia_amoris,480.0,"sum, aliquis, ualidus, sceptrum, teneo, manus",6,"NaN, NaN, 1.0, NaN, NaN, 0.0",0.167,0.0,,0.0
+ovid.remedia_amoris,481.0,"nam, si, rex, ego, sum, neque, cum, ego, dormio, ullus",10,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,482.0,"in, meus, thersites, regnum, liceo, eo",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,483.0,"dico, et, hic, habeo, solacium, magnus, prior",7,"NaN, NaN, NaN, NaN, 1.0, 0.0, 0.5",0.214,0.0,hic,0.143
+ovid.remedia_amoris,484.0,"et, pono, sum, cura, cura, repello, nouo",7,"NaN, NaN, NaN, -1.0, -1.0, NaN, NaN",-0.286,-0.286,,0.0
+ovid.remedia_amoris,485.0,"ergo, ad-sumo, nouo, auctor, agamemnon, flamma",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,486.0,"ut, tuus, in, biuius, distineo, amor",6,"NaN, 0.0, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+ovid.remedia_amoris,487.0,"quaero, ubi, inuenio, ars, tu, perlego, noster",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.143
+ovid.remedia_amoris,488.0,"plenus, puellaris, iam, tu, nauus, sum",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.167
+ovid.remedia_amoris,489.0,"qui, siquis, praecipio, ualeo, meus, siquis, apollo",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,490.0,"utilis, mortalis, perdoceo, os, meus",5,"1.0, -1.0, NaN, 0.0, 0.0",0.0,-0.2,,0.0
+ovid.remedia_amoris,491.0,"quiuis, infelix, medius, torreo, aetna",5,"NaN, -1.0, 0.0, NaN, NaN",-0.2,-0.2,infelix,0.2
+ovid.remedia_amoris,492.0,"frigidus, glacies, facio, uidearis, tuus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,glacies,0.2
+ovid.remedia_amoris,493.0,"et, sanus, simulo, ne, siquis, fors, doleo",7,"NaN, 1.0, NaN, NaN, NaN, 0.0, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,494.0,"sentio, et, rideo, cum, tu, fleo, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+ovid.remedia_amoris,495.0,"non, ego, tu, iubeo, medius, abrumpo, cura",7,"NaN, NaN, NaN, NaN, 0.0, NaN, -1.0",-0.143,-0.143,tu,0.143
+ovid.remedia_amoris,496.0,"non, sum, imperium, tam, ferus, iubeo, meus",7,"NaN, NaN, 0.0, NaN, -1.0, NaN, 0.0",-0.143,-0.143,ferus,0.143
+ovid.remedia_amoris,497.0,"qui, non, sum, simulo, pono, imitaris, furor",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,furor,0.143
+ovid.remedia_amoris,498.0,"sic, facies, uerus, qui, meditor, sum",6,"NaN, 0.0, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,499.0,"saepe, ego, ne, bibo, uolo, dormio, uideo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,500.0,"dum, uideo, somnus, lumen, uinco, do",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,501.0,"decipio, rideo, qui, sui, simulo, amo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,decipio,0.167
+ovid.remedia_amoris,502.0,"in, laqueus, auceps, decido, suus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,503.0,"intro, amor, mens, usus, dedisco, usus",6,"NaN, 1.0, 0.5, NaN, NaN, NaN",0.25,0.0,,0.0
+ovid.remedia_amoris,504.0,"qui, possum, sanus, fingo, sanus, sum",6,"NaN, NaN, 1.0, NaN, 1.0, NaN",0.333,0.0,fingo,0.167
+ovid.remedia_amoris,505.0,"dico, ut, uenio, paciscor, tu, nox, uenio",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.143
+ovid.remedia_amoris,506.0,"uenio, et, sum, ianua, claudo, fero",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,507.0,"neque, dico, blanditia, neque, facio, conuicior, pono",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,blanditia,0.143
+ovid.remedia_amoris,508.0,"neque, latus, in, durus, limen, pono, tuus",7,"NaN, NaN, NaN, -0.5, NaN, NaN, 0.0",-0.071,-0.071,,0.0
+ovid.remedia_amoris,509.0,"posterus, lux, adsum, careo, tuus, uerbum, querela",7,"0.0, NaN, NaN, NaN, 0.0, 0.0, -0.5",-0.071,-0.071,,0.0
+ovid.remedia_amoris,510.0,"et, nullus, in, uultus, signum, doleo, habeo",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,511.0,"iam, pono, fastus, cum, tu, langueo, uideo",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,tu,0.143
+ovid.remedia_amoris,512.0,"hic, etiam, noster, munus, ab, ars, fero",7,"NaN, NaN, NaN, 0.5, NaN, 0.0, NaN",0.071,0.0,hic,0.143
+ovid.remedia_amoris,513.0,"tu, quoque, fallo, tamen, neque, sum, tu, finis, amo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"tu, fallo, tu",0.333
+ovid.remedia_amoris,514.0,"propono, frenum, saepe, repugno, equus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,515.0,"utilitas, lateo, qui, non, profiteor, fio",6,"1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+ovid.remedia_amoris,516.0,"qui, nimis, appareo, rete, uito, auus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,517.0,"neque, sui, tam, placeo, neque, tu, contemno, possum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+ovid.remedia_amoris,518.0,"sumo, animus, animus, cedo, ut, ille, tuus",7,"NaN, 0.5, 0.5, NaN, NaN, NaN, 0.0",0.143,0.0,,0.0
+ovid.remedia_amoris,519.0,"ianua, fors, pateo, quiuis, reuoco, transeo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,520.0,"sum, do, nox, dubito, nox, uenio, do",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,521.0,"possum, patior, facilis, sum, ubi, si, patientia, desum",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+ovid.remedia_amoris,522.0,"protinus, ex, facilis, gaudium, fero, licet",6,"NaN, NaN, 0.5, 1.0, NaN, NaN",0.25,0.0,,0.0
+ovid.remedia_amoris,523.0,"et, quisquam, praecipio, possum, meus, durus, uocaris",7,"NaN, NaN, NaN, NaN, 0.0, -0.5, NaN",-0.071,-0.071,,0.0
+ovid.remedia_amoris,524.0,"en, etiam, pars, concilio, ago",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,525.0,"nam, quoniam, uario, animus, uario, ars",6,"NaN, NaN, NaN, 0.5, NaN, 0.0",0.083,0.0,,0.0
+ovid.remedia_amoris,526.0,"mille, malus, species, mille, salus, sum",6,"NaN, -1.0, NaN, NaN, 1.0, NaN",0.0,-0.167,,0.0
+ovid.remedia_amoris,527.0,"corpus, uix, ferrum, quidam, sano, acuo",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,528.0,"auxilium, multus, sucus, et, herba, sum",6,"0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,529.0,"mollio, sum, neque, abeo, possum, uincio, teneo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,530.0,"et, tuus, saeuus, amor, sub, pes, collum, premo",8,"NaN, 0.0, -1.0, 1.0, NaN, 0.0, NaN, NaN",0.0,-0.125,saeuus,0.125
+ovid.remedia_amoris,531.0,"desino, luctaris, refero, tuus, carbasus, uenio",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,532.0,"quisque, uoco, fluctus, hic, tu, reor, eo",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"hic, tu",0.286
+ovid.remedia_amoris,533.0,"expleo, sum, sum, iste, tu, quo, perdo, ardeo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+ovid.remedia_amoris,534.0,"cedo, e, medium, iam, licet, amnis, bibo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,535.0,"sed, bibo, multus, etiam, quam, qui, praecordia, posco",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,536.0,"guttur, facio, plenus, sumo, redundo, aqua",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,537.0,"eo, fruor, usque, tuus, nullus, prohibeo, puella",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,538.0,"ille, tu, nox, aufero, ille, dies",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,tu,0.167
+ovid.remedia_amoris,539.0,"taedium, quaero, malus, facio, et, taedium, finis",7,"-1.0, NaN, -1.0, NaN, NaN, -1.0, 0.0",-0.429,-0.429,"taedium, taedium",0.286
+ovid.remedia_amoris,540.0,"iam, quoque, cum, credo, possum, careo, mane",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,541.0,"dum, bene, tu, cumulis, et, copia, tollo, amor",8,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 1.0",0.188,0.0,tu,0.125
+ovid.remedia_amoris,542.0,"et, fastidio, non, iuuo, sum, domus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,543.0,"fio, quoque, longus, amor, qui, diffido, nutrio",7,"NaN, NaN, 0.0, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,544.0,"hic, tu, si, quaero, pono, pono, metus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,"hic, tu",0.286
+ovid.remedia_amoris,545.0,"qui, timeo, ut, suus, sum, ne, quis, sui, detraho, ille",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,546.0,"ille, machaonia, uix, ops, sanus, sum",6,"NaN, NaN, NaN, 0.0, 1.0, NaN",0.167,0.0,,0.0
+ovid.remedia_amoris,547.0,"multus, amo, e, obstino, mater, plerusque, duo",7,"0.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,548.0,"pro, qui, reditus, qui, gero, arma, timeo",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,549.0,"sum, prope, collino, templum, uenerabilis, porta",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,550.0,"inpono, templum, nomen, celsus, eryx",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,551.0,"sum, illic, lethaeus, amor, qui, pectus, sano",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,552.0,"in, suus, gelidus, lampada, addo, aqua",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,553.0,"illic, et, iuuenis, uoueo, obliuius, posco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,554.0,"et, siqua, sum, durus, capio, puella, uir",7,"NaN, NaN, NaN, -0.5, NaN, NaN, 0.5",0.0,-0.071,,0.0
+ovid.remedia_amoris,555.0,"is, ego, sic, dico, dubito, uerus, cupido",7,"NaN, NaN, NaN, NaN, NaN, 0.5, -0.5",0.0,-0.071,,0.0
+ovid.remedia_amoris,556.0,"an, somnus, sum, sed, puto, somnus, sum",7,"NaN, 0.5, NaN, NaN, NaN, 0.5, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,557.0,"o, qui, sollicitus, modo, do, modo, demo, amor",8,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, 1.0",0.0,-0.125,,0.0
+ovid.remedia_amoris,558.0,"adicio, praecipio, hic, quoque, naso, tuus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.167
+ovid.remedia_amoris,559.0,"ad, malus, quisque, animus, refero, suus, pono, amor",8,"NaN, -1.0, NaN, 0.5, NaN, NaN, NaN, 1.0",0.062,-0.125,,0.0
+ovid.remedia_amoris,560.0,"omnis, ille, deus, multus, paruus, do",6,"NaN, NaN, 0.0, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,561.0,"qui, puteal, ianumque, timeo, celer, kalendae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,562.0,"torqueo, hic, aer, mutuus, summus, suus",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,hic,0.167
+ovid.remedia_amoris,563.0,"qui, durus, pater, sum, ut, ueto, ceterus, cedo",8,"NaN, -0.5, 0.0, NaN, NaN, NaN, 0.0, NaN",-0.062,-0.062,,0.0
+ovid.remedia_amoris,564.0,"hic, pater, ante, oculus, durus, habeo, sum",7,"NaN, 0.0, NaN, 0.0, -0.5, NaN, NaN",-0.071,-0.071,hic,0.143
+ovid.remedia_amoris,565.0,"hic, malus, doto, pauper, cum, coniunx, uiuo",7,"NaN, -1.0, NaN, -1.0, NaN, -0.5, NaN",-0.357,-0.357,hic,0.143
+ovid.remedia_amoris,566.0,"uxor, fatum, credo, obsum, suus",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,uxor,0.2
+ovid.remedia_amoris,567.0,"sum, tu, rus, bonus, generosus, fertilis, labrusca",7,"NaN, NaN, 0.0, 1.0, 1.0, 1.0, NaN",0.429,0.0,tu,0.143
+ovid.remedia_amoris,568.0,"uinea, ne, nascor, uro, sum, labrusca, timeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,569.0,"ille, habeo, in, reditus, nauis, mare, semper, iniquus",8,"NaN, NaN, NaN, 0.0, 0.0, 0.0, NaN, -1.0",-0.125,-0.125,iniquus,0.125
+ovid.remedia_amoris,570.0,"cogito, et, damnum, litus, foedus, suus",6,"NaN, NaN, -1.0, NaN, -1.0, NaN",-0.333,-0.333,,0.0
+ovid.remedia_amoris,571.0,"filius, hic, miles, tu, filia, nubilis, ango",7,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"hic, tu",0.286
+ovid.remedia_amoris,572.0,"et, quis, non, causa, mille, dolor, habeo",7,"NaN, NaN, NaN, 0.0, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+ovid.remedia_amoris,573.0,"ut, possum, odi, tuus, par, funero, frater",7,"NaN, NaN, NaN, 0.0, 0.5, NaN, 0.0",0.071,0.0,,0.0
+ovid.remedia_amoris,574.0,"debeo, oculus, substituo, tuus",4,"NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,575.0,"multus, loquor, placidus, puerilis, imago",5,"0.0, NaN, 1.0, 0.0, NaN",0.2,0.0,,0.0
+ovid.remedia_amoris,576.0,"destituo, somnus, si, modo, somnus, sum",6,"NaN, 0.5, NaN, NaN, 0.5, NaN",0.167,0.0,,0.0
+ovid.remedia_amoris,577.0,"quis, facio, medius, nauo, palinurus, in, unda",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,578.0,"desero, ignotus, cogo, ineo, uia",5,"NaN, -0.5, NaN, NaN, 0.0",-0.1,-0.1,,0.0
+ovid.remedia_amoris,579.0,"quisquis, amo, locum, solus, noceo, locum, solus, caueto",8,"NaN, NaN, NaN, -0.5, NaN, NaN, -0.5, NaN",-0.125,-0.125,noceo,0.125
+ovid.remedia_amoris,580.0,"quo, fugio, in, populus, tueor, sum, possum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,581.0,"non, tu, secerno, augeo, secerno, furor",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,"tu, furor",0.333
+ovid.remedia_amoris,582.0,"sum, opus, auxilium, turba, sum, tu, sum",7,"NaN, 0.5, 0.0, 0.0, NaN, NaN, NaN",0.071,0.0,tu,0.143
+ovid.remedia_amoris,583.0,"tristis, sum, si, solus, sum, domina, relinquo",7,"-1.0, NaN, NaN, -0.5, NaN, NaN, NaN",-0.214,-0.214,,0.0
+ovid.remedia_amoris,584.0,"ante, oculus, facies, sto, ut, ipse, tuus",7,"NaN, 0.0, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,585.0,"tristis, idcirco, nox, sum, quam, tempus, phoebus",7,"-1.0, NaN, 0.0, NaN, NaN, 0.0, NaN",-0.143,-0.143,,0.0
+ovid.remedia_amoris,586.0,"qui, releuo, luctus, turba, sodalis, absum",6,"NaN, NaN, -1.0, 0.0, 1.0, NaN",0.0,-0.167,,0.0
+ovid.remedia_amoris,587.0,"neque, fugio, colloquium, neque, sum, tu, ianua, claudo",8,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.062,-0.062,tu,0.125
+ovid.remedia_amoris,588.0,"neque, tenebrae, uultus, flebilis, abde, tuus",6,"NaN, NaN, NaN, -1.0, NaN, 0.0",-0.167,-0.167,,0.0
+ovid.remedia_amoris,589.0,"semper, habeo, pylade, -ne, aliquis, qui, curo, oreste, -ne",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,pylade,0.111
+ovid.remedia_amoris,590.0,"hic, quoque, amicitia, non, leuis, utor, sum",7,"NaN, NaN, 1.0, NaN, 0.0, NaN, NaN",0.143,0.0,hic,0.143
+ovid.remedia_amoris,591.0,"quis, nisi, secerno, laedo, phyllida, silua",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,592.0,"certus, nex, causa, sum, incomiter, sum",6,"0.5, -1.0, 0.0, NaN, NaN, NaN",-0.083,-0.167,nex,0.167
+ovid.remedia_amoris,593.0,"eo, ut, ex-dono, refero, trietericus, baccho",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,594.0,"eo, soleo, fundo, barbarum, turba, como",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,barbarum,0.167
+ovid.remedia_amoris,595.0,"et, modo, qui, possum, longus, specto, in, aequor",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,596.0,"nunc, in, harenosus, lasso, iaceo, humo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"harenosus, iaceo",0.333
+ovid.remedia_amoris,597.0,"perfidus, demophoo, -ne, surdus, clamo, ad, unda",7,"-1.0, NaN, NaN, NaN, NaN, NaN, 0.0",-0.143,-0.143,"perfidus, demophoo",0.286
+ovid.remedia_amoris,598.0,"rumpo, singultus, uerbum, loquor, sum",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,599.0,"limo, sum, tenuis, longus, subnubilus, umbra",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,600.0,"quo, fero, ille, suus, ad, mare, saepe, pes",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,601.0,"nonus, tero, miser, uia, uideo, inquam",6,"NaN, NaN, -1.0, 0.0, NaN, NaN",-0.167,-0.167,miser,0.167
+ovid.remedia_amoris,602.0,"et, specto, zona, pallidus, facio, suus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,603.0,"aspicio, et, ramus, dubito, refugio, qui, audeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,604.0,"et, timeo, et, digitus, ad, suus, collum, refero",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,605.0,"sithoni, tum, certus, uolo, non, solus, sum",7,"NaN, NaN, 0.5, NaN, NaN, -0.5, NaN",0.0,-0.071,,0.0
+ovid.remedia_amoris,606.0,"non, fleo, pono, phyllida, silua, como",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,607.0,"phyllidis, exemplum, nimium, secerno, timeo",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,608.0,"laedo, uir, ab, domina, laedo, puella, uir",7,"NaN, 0.5, NaN, NaN, NaN, NaN, 0.5",0.143,0.0,,0.0
+ovid.remedia_amoris,609.0,"praesto, iuuenis, quisquis, meus, musa, iubeo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,610.0,"in, suus, portus, paene, salus, sum",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+ovid.remedia_amoris,611.0,"recido, ut, cupidus, inter, deuenio, amo",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+ovid.remedia_amoris,612.0,"et, qui, condo, telum, resumo, amor",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+ovid.remedia_amoris,613.0,"siquis, amo, neque, uolo, facio, contagium, uito",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+ovid.remedia_amoris,614.0,"hic, etiam, pecus, saepe, noceo, soleo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, noceo",0.333
+ovid.remedia_amoris,615.0,"dum, specto, laedo, oculus, laedo, et, ipse",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,616.0,"multo, corpus, transitio, noceo",4,"NaN, 0.0, NaN, NaN",0.0,0.0,noceo,0.25
+ovid.remedia_amoris,617.0,"in, locum, nonnumquam, siccus, areo, glaeba",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,glaeba,0.167
+ovid.remedia_amoris,618.0,"de, prope, curro, flumen, mano, aqua",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,619.0,"mano, amor, tego, si, non, ab, amo, recedo",8,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+ovid.remedia_amoris,620.0,"turbo, in, hic, omnis, ingeniosus, sum",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,hic,0.167
+ovid.remedia_amoris,621.0,"alter, item, iam, sanus, sum, uicinia, laedo",7,"NaN, NaN, NaN, 1.0, NaN, 0.0, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,622.0,"occurro, domina, non, fero, ille, suus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,623.0,"uulnus, in, antiquus, redeo, malus, firmo, cicatrix",7,"-1.0, NaN, 0.0, NaN, -1.0, NaN, -0.5",-0.357,-0.357,,0.0
+ovid.remedia_amoris,624.0,"succedo, ars, non, habeo, meus",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,625.0,"proximus, ab, tectum, ignis, defendo, aeger",6,"NaN, NaN, NaN, 0.0, NaN, -1.0",-0.167,-0.167,,0.0
+ovid.remedia_amoris,626.0,"utilis, finitimus, abstineo, locus",4,"1.0, NaN, NaN, 0.0",0.25,0.0,finitimus,0.25
+ovid.remedia_amoris,627.0,"neque, qui, fero, soleo, spatior, porticus, ille",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,628.0,"tu, fero, officium, neue, colo, idem",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,tu,0.167
+ovid.remedia_amoris,629.0,"quis, iuuo, admoneo, tepidus, recalesco, mens",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ovid.remedia_amoris,630.0,"alter, si, possum, orbis, habeo, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,631.0,"non, facilis, esurio, pono, retineo, mensa",6,"NaN, 0.5, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+ovid.remedia_amoris,632.0,"et, multa, salio, incito, unda, sitis",6,"NaN, NaN, NaN, NaN, 0.0, -0.5",-0.083,-0.083,,0.0
+ovid.remedia_amoris,633.0,"non, facilis, sum, taurus, uideo, retineo, iuuencus",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+ovid.remedia_amoris,634.0,"fortis, equus, uideo, semper, adhinnio, equa",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,635.0,"hic, ubi, praesto, ut, tandem, litus, tango",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+ovid.remedia_amoris,636.0,"non, ipse, satis, sum, desero, tu",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,tu,0.167
+ovid.remedia_amoris,637.0,"et, soror, et, mater, ualeo, et, conscius, nutrix",8,"NaN, NaN, NaN, 0.0, NaN, NaN, -0.5, NaN",-0.062,-0.062,conscius,0.125
+ovid.remedia_amoris,638.0,"et, quisquis, domina, pars, sum, ullus, tuus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,639.0,"neque, uenio, seruus, neque, fleo, ancillula, fingo",7,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.071,-0.071,"ancillula, fingo",0.286
+ovid.remedia_amoris,640.0,"supplex, domina, nomen, dico, auus",5,"0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,641.0,"neque, si, scio, uolo, quis, ago, tamen, ille, rogo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,642.0,"perfero, sum, lucrum, lingua, retineo, tuus",6,"NaN, NaN, 0.5, -0.5, NaN, 0.0",0.0,-0.083,,0.0
+ovid.remedia_amoris,643.0,"tu, quoque, qui, causa, finio, reddo, amor",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 1.0",0.143,0.0,tu,0.143
+ovid.remedia_amoris,644.0,"de, tuus, domina, multus, queror, refero",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,645.0,"parco, queror, bonus, sic, ulciscor, taceo",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,ulciscor,0.167
+ovid.remedia_amoris,646.0,"ut, desiderium, effluo, ille, tuus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,647.0,"et, malo, taceo, quam, tu, de_-sino, loquaris",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+ovid.remedia_amoris,648.0,"qui, nimium, multus, non, amo, dico, amo",7,"NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,649.0,"sed, bonus, fides, paulatim, extinguitur, ignis",6,"NaN, 1.0, 1.0, NaN, NaN, 0.0",0.333,0.0,,0.0
+ovid.remedia_amoris,650.0,"quam, subeo, lentus, desino, tueor, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,651.0,"flumen, perpetuus, torreo, soleo, alo, eo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,652.0,"sed, tamen, hic, breuis, sum, ille, perennis, aqua",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.125
+ovid.remedia_amoris,653.0,"fallo, et, in, tenuis, euanidus, exeo, aura",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 1.0",0.143,0.0,fallo,0.143
+ovid.remedia_amoris,654.0,"per, gradus, mollis, emorior, amor",5,"NaN, 0.0, NaN, NaN, 1.0",0.2,0.0,,0.0
+ovid.remedia_amoris,655.0,"sed, modo, diligo, scelus, sum, odi, puella",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,scelus,0.143
+ovid.remedia_amoris,656.0,"exitus, ingenium, conuenio, iste, fera",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,fera,0.2
+ovid.remedia_amoris,657.0,"non, curo, satis, sum, odium, qui, finio, amor",8,"NaN, NaN, 0.5, NaN, -1.0, NaN, NaN, 1.0",0.062,-0.125,,0.0
+ovid.remedia_amoris,658.0,"aut, amo, aut, aeger, desino, sum, miser",7,"NaN, NaN, NaN, -1.0, NaN, NaN, -1.0",-0.286,-0.286,miser,0.143
+ovid.remedia_amoris,659.0,"turpis, uir, et, mulier, iungo, modo, protinus, hostis",8,"-1.0, 0.5, NaN, 0.0, NaN, NaN, NaN, -1.0",-0.188,-0.25,"turpis, mulier",0.25
+ovid.remedia_amoris,660.0,"non, ille, lis, ad-pio, ipse, probo",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+ovid.remedia_amoris,661.0,"saepe, reor, facio, et, amo, ubi, nullus, simultas",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,,0.0
+ovid.remedia_amoris,662.0,"incido, admoneo, liber, aberro, amor",5,"NaN, NaN, 0.5, NaN, 1.0",0.3,0.0,,0.0
+ovid.remedia_amoris,663.0,"fors, adsum, iuuenis, domina, lectica, teneo",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,664.0,"horreo, saeuus, omnis, uerbum, minae",5,"NaN, -1.0, NaN, 0.0, -0.5",-0.3,-0.3,saeuus,0.2
+ovid.remedia_amoris,665.0,"iam, uado, lectica, pro-eo, inquam",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,666.0,"prodeo, uideo, coniunx, mutus, sum",5,"NaN, NaN, -0.5, NaN, NaN",-0.1,-0.1,,0.0
+ovid.remedia_amoris,667.0,"et, manus, et, manus, duplex, cado, tabella",7,"NaN, 0.0, NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,668.0,"uenio, in, amplector, atque, ita, uincio, aio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,669.0,"tueor, sum, aptus, magis, discedo, pax",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ovid.remedia_amoris,670.0,"neque, peto, ab, thalamus, litigiosus, foro",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+ovid.remedia_amoris,671.0,"munus, qui, do, habeo, sine, lis, iubeo",7,"0.5, NaN, NaN, NaN, NaN, -0.5, NaN",0.0,-0.071,,0.0
+ovid.remedia_amoris,672.0,"sum, soleo, magnus, damno, paruus, bonus",6,"NaN, NaN, 0.0, NaN, 0.0, 1.0",0.167,0.0,damno,0.167
+ovid.remedia_amoris,673.0,"qui, si, tu, aliquis, casus, conduco, in, unus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.125
+ovid.remedia_amoris,674.0,"mens, memor, totus, qui, do, arma, teneo",7,"0.5, 1.0, NaN, NaN, NaN, 0.0, NaN",0.214,0.0,,0.0
+ovid.remedia_amoris,675.0,"nunc, opus, sum, arma, hic, o, fortis, pugno",8,"NaN, 0.5, NaN, 0.0, NaN, NaN, 0.5, NaN",0.125,0.0,hic,0.125
+ovid.remedia_amoris,676.0,"uinco, sum, telum, penthesilea, tuus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,penthesilea,0.2
+ovid.remedia_amoris,677.0,"nunc, tu, riual, nunc, durus, limen, amo",7,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN",-0.071,-0.071,"tu, riual",0.286
+ovid.remedia_amoris,678.0,"nunc, subeo, medius, irrito, uerbum, deus",6,"NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,679.0,"neque, compono, como, quia, sum, uenio, ad, ille",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,680.0,"neque, toga, sum, laxo, conspicio, sinus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,681.0,"nullus, sum, ut, placeo, alienus, cura, puella",7,"NaN, NaN, NaN, NaN, -0.5, -1.0, NaN",-0.214,-0.214,,0.0
+ovid.remedia_amoris,682.0,"iam, facio, e, multus, unus, sum, ille, tu",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.125
+ovid.remedia_amoris,683.0,"sed, quis, praecipuus, noster, conatus, obsto",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,684.0,"eloquor, exemplum, quisque, doceo, suus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,685.0,"desino, tardus, quia, nos, spero, amo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,686.0,"dum, sui, quisque, placeo, credulus, turba, sum",7,"NaN, NaN, NaN, NaN, -0.5, 0.0, NaN",-0.071,-0.071,credulus,0.143
+ovid.remedia_amoris,687.0,"at, tu, neque, uoco, quis, enim, fallax, ille",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,tu,0.125
+ovid.remedia_amoris,688.0,"credo, neque, aeternus, pondus, habeo, deus",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,,0.0
+ovid.remedia_amoris,689.0,"neue, puellaris, lacrima, mouearis, caueto",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,690.0,"ut, fleo, oculus, erudio, suus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,691.0,"ars, innumerus, mens, oppugno, amantum",5,"0.0, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+ovid.remedia_amoris,692.0,"ut, lapis, aequoreus, undique, pello, aqua",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,693.0,"neque, causa, aperio, quare, diuortium, malus",6,"NaN, 0.0, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+ovid.remedia_amoris,694.0,"neque, dico, quis, doleo, clam, tamen, usque, doleo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,695.0,"neque, pecco, refero, ne, diluo, ipse, faueo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,696.0,"ut, bonus, causa, causa, sum, ille, tuus",7,"NaN, 1.0, 0.0, 0.0, NaN, NaN, 0.0",0.143,0.0,,0.0
+ovid.remedia_amoris,697.0,"qui, sileo, sum, firmus, qui, dico, multus, puella",8,"NaN, NaN, NaN, 1.0, NaN, NaN, 0.0, NaN",0.125,0.0,,0.0
+ovid.remedia_amoris,698.0,"probrum, satisfieri, postulo, ille, sui",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,probrum,0.2
+ovid.remedia_amoris,699.0,"non, ego, dulichio, furaris, mos, sagitto",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,700.0,"neque, rapio, audeo, tinguere, in, amnis, fax",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tinguere, fax",0.286
+ovid.remedia_amoris,701.0,"neque, nos, purpureus, puer, reseco, ala",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,702.0,"neque, sacer, ars, meus, laxus, arcus, sum",7,"NaN, 1.0, 0.0, 0.0, NaN, NaN, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,703.0,"consilium, sum, quicumque, cano, pareo, caneo",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,704.0,"tu, faueo, coepio, phoebus, saluber, adsum",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,tu,0.167
+ovid.remedia_amoris,705.0,"phoebus, adsum, sono, lyra, sono, pharetra",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,706.0,"signum, deus, nosco, per, suus, phoebus, adsum",7,"0.0, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,707.0,"confero, amyclaeis, medico, uellus, aenus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,708.0,"murex, cum, tyrio, turpis, ille, sum",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,turpis,0.167
+ovid.remedia_amoris,709.0,"tu, quoque, formosus, uester, confero, puella",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,tu,0.167
+ovid.remedia_amoris,710.0,"incipio, domina, quisque, pudeo, suus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,pudeo,0.2
+ovid.remedia_amoris,711.0,"uter, formosus, paridi, possum, uideo",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+ovid.remedia_amoris,712.0,"sed, sui, confero, uinco, uter, uenus",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+ovid.remedia_amoris,713.0,"neque, solus, facies, mos, quoque, confero, et, ars",8,"NaN, -0.5, 0.0, 0.5, NaN, NaN, NaN, 0.0",0.0,-0.062,,0.0
+ovid.remedia_amoris,714.0,"tantus, iudicium, ne, tuus, obsum, amor",6,"NaN, 0.5, NaN, 0.0, NaN, 1.0",0.25,0.0,,0.0
+ovid.remedia_amoris,715.0,"exiguus, sum, qui, deinde, cano, sed, prosum, ille",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,716.0,"exiguus, multus, in, qui, ipse, sum",6,"0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,717.0,"scribo, caueo, relego, blandus, seruo, puella",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,718.0,"consto, animus, scribo, relego, moueo",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+ovid.remedia_amoris,719.0,"omnis, pono, ferus, pono, inuitus, in, ignis",7,"NaN, NaN, -1.0, NaN, -0.5, NaN, 0.0",-0.214,-0.214,ferus,0.143
+ovid.remedia_amoris,720.0,"et, dico, ardor, sum, rogus, iste, meus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,rogus,0.143
+ovid.remedia_amoris,721.0,"thestias, absum, succendo, stipes, natus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,722.0,"tu, timidus, flamma, perfidus, uerbum, do",6,"NaN, -0.5, NaN, -1.0, 0.0, NaN",-0.25,-0.25,"tu, timidus, perfidus",0.5
+ovid.remedia_amoris,723.0,"si, possum, et, cero, remoueo, quis, imago, muto",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,724.0,"carpo, hic, pereo, laodamia, modo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.2
+ovid.remedia_amoris,725.0,"et, locum, saepe, noceo, fugio, locum, conscius, uester",8,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.062,-0.062,"noceo, conscius",0.25
+ovid.remedia_amoris,726.0,"concubo, causa, ille, dolor, habeo",5,"NaN, 0.0, NaN, -1.0, NaN",-0.2,-0.2,concubo,0.2
+ovid.remedia_amoris,727.0,"hic, sum, hic, cubo, thalamus, dormio, ille",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.286
+ovid.remedia_amoris,728.0,"hic, ego, lasciuus, gaudium, nox, do",6,"NaN, NaN, NaN, 1.0, 0.0, NaN",0.167,0.0,"hic, lasciuus",0.333
+ovid.remedia_amoris,729.0,"admoneo, refrico, amor, uulnus, nouo",5,"NaN, NaN, 1.0, -1.0, NaN",0.0,-0.2,,0.0
+ovid.remedia_amoris,730.0,"scindo, infirmis, culpa, pusillus, noceo",5,"NaN, -1.0, -1.0, 0.0, NaN",-0.4,-0.4,"culpa, noceo",0.4
+ovid.remedia_amoris,731.0,"ut, paene, exstinctus, cinis, si, sulfur, tango",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,732.0,"uiuo, et, e, paruus, magnus, ignis, sum",7,"NaN, NaN, NaN, 0.0, 0.0, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,733.0,"sic, nisi, uitaris, quisquis, renouo, amor",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+ovid.remedia_amoris,734.0,"flamma, redardesco, qui, modo, nullus, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,735.0,"argolides, cupio, fugio, capherea, puppis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,736.0,"tu, senex, luctus, ignis, ulciscor, tuus",6,"NaN, 0.0, -1.0, 0.0, NaN, 0.0",-0.167,-0.167,"tu, ulciscor",0.333
+ovid.remedia_amoris,737.0,"praetereo, caueo, niseïde, nauta, gaudeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,738.0,"tu, locum, qui, nimium, gratus, sum, caueo",7,"NaN, NaN, NaN, 0.0, 1.0, NaN, NaN",0.143,0.0,tu,0.143
+ovid.remedia_amoris,739.0,"hic, tu, sum, syrtes, hic, acroceraunia, uito",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu, hic",0.429
+ovid.remedia_amoris,740.0,"hic, uomo, epoto, dirus, charybdis, aqua",6,"NaN, NaN, NaN, -1.0, NaN, 0.0",-0.167,-0.167,"hic, dirus, charybdis",0.5
+ovid.remedia_amoris,741.0,"sum, qui, non, possum, aliquis, cogo, iubeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,742.0,"saepe, tamen, casus, facio, iuuaris, soleo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,743.0,"perdo, ops, phaedra, parco, neptune, nepos",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,744.0,"neque, facio, pauidus, taurus, auitus, equus",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+ovid.remedia_amoris,745.0,"cnosida, facio, inops, sapienter, amo",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,,0.0
+ovid.remedia_amoris,746.0,"diuitiae, alo, luxuriosus, amor",4,"0.5, NaN, NaN, 1.0",0.375,0.0,luxuriosus,0.25
+ovid.remedia_amoris,747.0,"cur, nemo, sum, hecal, -ne, nullus, sum, qui, capio, iro, -ne",11,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.045,-0.045,,0.0
+ovid.remedia_amoris,748.0,"nempe, qui, alter, egeo, alter, pauper, sum",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+ovid.remedia_amoris,749.0,"non, habeo, unde, suus, paupertas, pasco, amor",7,"NaN, NaN, NaN, NaN, -1.0, NaN, 1.0",0.0,-0.143,,0.0
+ovid.remedia_amoris,750.0,"non, tamen, hic, tantus, sum, pauper, ut, sum, uelis",9,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.111,-0.111,hic,0.111
+ovid.remedia_amoris,751.0,"at, tantus, tu, sum, non, indulgeo, theatrum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, indulgeo",0.286
+ovid.remedia_amoris,752.0,"dum, bene, de, uacuus, pectus, cedo, amor",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+ovid.remedia_amoris,753.0,"eneruo, animus, cithara, lotos, lyra",5,"NaN, 0.5, NaN, NaN, 0.0",0.1,0.0,,0.0
+ovid.remedia_amoris,754.0,"et, uox, et, numerus, bracchium, moueo, suus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,755.0,"illic, assiduus, fingo, saltantur, amo",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,fingo,0.2
+ovid.remedia_amoris,756.0,"qui, cauea, actor, quam, iuuo, ars, doceo",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,757.0,"eloquor, inuitus, tener, ne, tango, poeta",6,"NaN, -0.5, NaN, NaN, NaN, 0.0",-0.083,-0.083,,0.0
+ovid.remedia_amoris,758.0,"summoueo, doto, impius, ipse, meus",5,"NaN, NaN, -1.0, NaN, 0.0",-0.2,-0.2,impius,0.2
+ovid.remedia_amoris,759.0,"callimachum, fugio, non, sum, inimicus, amor",6,"NaN, NaN, NaN, NaN, -1.0, 1.0",0.0,-0.167,,0.0
+ovid.remedia_amoris,760.0,"et, cum, callimacho, tu, quoque, coe, noceo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, noceo",0.286
+ovid.remedia_amoris,761.0,"ego, certus, sappho, bonus, facio, amica",6,"NaN, 0.5, NaN, 1.0, NaN, NaN",0.25,0.0,sappho,0.167
+ovid.remedia_amoris,762.0,"neque, rigidus, mos, teïa, musa, do",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,763.0,"carmen, quis, possum, tueor, lego, tibulli",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,764.0,"uel, tuus, qui, opus, cynthia, solus, sum",7,"NaN, 0.0, NaN, 0.5, NaN, -0.5, NaN",0.0,-0.071,,0.0
+ovid.remedia_amoris,765.0,"quis, possum, lectus, durus, discedo, gallus",6,"NaN, NaN, 0.0, -0.5, NaN, NaN",-0.083,-0.083,gallus,0.167
+ovid.remedia_amoris,766.0,"et, meus, nescio, quis, carmen, talis, sono",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,767.0,"qui, nisi, dux, opus, uates, frustro, apollo",7,"NaN, NaN, 0.5, 0.5, NaN, NaN, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,768.0,"aemulus, sum, noster, maximus, causa, malus",6,"NaN, NaN, NaN, NaN, 0.0, -1.0",-0.167,-0.167,,0.0
+ovid.remedia_amoris,769.0,"at, tu, riual, nolo, tu, fingo, quisquam",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, riual, tu, fingo",0.571
+ovid.remedia_amoris,770.0,"in, suus, solus, credo, iacio, torus",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+ovid.remedia_amoris,771.0,"acer, hermio, -ne, ideo, diligo, orestes",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,772.0,"sum, qui, alter, coepio, ille, uir",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+ovid.remedia_amoris,773.0,"quis, menelae, doleo, eo, sine, coniunx, cerno, -ne",8,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN",-0.062,-0.062,,0.0
+ovid.remedia_amoris,774.0,"et, possum, nubo, lentus, absum, tuus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,nubo,0.167
+ovid.remedia_amoris,775.0,"ut, paris, hic, rapio, nunc, demum, uxor, careo",8,"NaN, 0.5, NaN, NaN, NaN, NaN, 0.0, NaN",0.062,0.0,"hic, uxor",0.25
+ovid.remedia_amoris,776.0,"non, possum, alter, cerno, amor, tuus",6,"NaN, NaN, NaN, NaN, 1.0, 0.0",0.167,0.0,,0.0
+ovid.remedia_amoris,777.0,"hic, et, in, abduco, briseide, fleo, achilles",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, achilles",0.286
+ovid.remedia_amoris,778.0,"ille, plisthenio, gaudium, fero, uir",5,"NaN, NaN, 1.0, NaN, 0.5",0.3,0.0,,0.0
+ovid.remedia_amoris,779.0,"neque, frustra, fleo, ego, credo, facio, atrides",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,atrides,0.143
+ovid.remedia_amoris,780.0,"qui, si, non, facio, turpis, sum, iners",7,"NaN, NaN, NaN, NaN, -1.0, NaN, 0.0",-0.143,-0.143,"turpis, iners",0.286
+ovid.remedia_amoris,781.0,"certus, ego, facio, neque, sum, sapio, ille",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+ovid.remedia_amoris,782.0,"inuidia, fructus, magnus, ille, sum",5,"-1.0, 0.5, 0.0, NaN, NaN",-0.1,-0.2,inuidia,0.2
+ovid.remedia_amoris,783.0,"nam, sui, qui, numquam, tango, briseida, iuro",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,784.0,"per, sceptrum, sceptrum, non, puto, sum, deus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,785.0,"deus, facio, possum, domina, transeo, relinquo",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,786.0,"limen, propono, sufficio, pes",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,787.0,"et, possum, modo, uolo, teneo, nunc, fortis, eo",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,,0.0
+ovid.remedia_amoris,788.0,"nunc, opus, sum, celer, subdo, calcar, equus",7,"NaN, 0.5, NaN, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+ovid.remedia_amoris,789.0,"ille, lotophagos, ille, sirenas, in, antrum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,790.0,"sum, puto, remi, adicio, uelo, tuus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,791.0,"hic, quoque, quo, quondam, nimium, riual, doleo",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"hic, riual",0.286
+ovid.remedia_amoris,792.0,"uolo, desino, hostis, habeo, locus",5,"NaN, NaN, -1.0, NaN, 0.0",-0.2,-0.2,,0.0
+ovid.remedia_amoris,793.0,"at, certus, quiuis, odium, remaneo, saluto",6,"NaN, 0.5, NaN, -1.0, NaN, NaN",-0.083,-0.167,,0.0
+ovid.remedia_amoris,794.0,"osculum, cum, possum, iam, do, sanus, sum",7,"0.0, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+ovid.remedia_amoris,795.0,"ecce, cibus, etiam, medicina, fungor, ut, omnis",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,796.0,"munus, qui, fugio, quisque, sequaris, do",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+ovid.remedia_amoris,797.0,"daunius, an, libycis, bulbus, tu, mitto, ab, ora",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+ovid.remedia_amoris,798.0,"an, uenio, megaris, noxius, omnis, sum",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,noxius,0.167
+ovid.remedia_amoris,799.0,"neque, paruus, eruca, aptus, uitaris, salax",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,800.0,"et, quisquis, ueneri, corpus, noster, paro",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,801.0,"utilis, sumo, acuo, lumen, ruo",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+ovid.remedia_amoris,802.0,"et, quisquis, ueneri, corpus, noster, nego",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ovid.remedia_amoris,803.0,"quis, tu, praecipio, de, bacchi, munus, quaero",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,tu,0.143
+ovid.remedia_amoris,804.0,"spes, breuis, moneo, expedio, meus",5,"0.5, NaN, NaN, NaN, 0.0",0.1,0.0,,0.0
+ovid.remedia_amoris,805.0,"uinum, paro, animus, ueneri, nisi, multus, sumo",7,"NaN, NaN, 0.5, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+ovid.remedia_amoris,806.0,"et, stupeo, multus, cor, sepelio, merus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,sepelio,0.167
+ovid.remedia_amoris,807.0,"nutrio, uenio, uenio, restinguo, ignis",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,808.0,"lenis, alo, flamma, grandis, aura, neco",6,"1.0, NaN, NaN, 0.0, 1.0, NaN",0.333,0.0,,0.0
+ovid.remedia_amoris,809.0,"aut, nullus, ebrietas, aut, tantus, sum, ut, tu, cura",9,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,"ebrietas, tu",0.222
+ovid.remedia_amoris,810.0,"eripio, siqua, sum, inter, uterque, noceo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,noceo,0.167
+ovid.remedia_amoris,811.0,"hic, opus, exigo, fatisco, do, sero, carina",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,hic,0.143
+ovid.remedia_amoris,812.0,"contingo, portus, quo, ego, curro, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ovid.remedia_amoris,813.0,"postmodo, reddo, sacro, pius, ueto, poeta",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+ovid.remedia_amoris,814.0,"carmen, sano, femina, uir, meus",5,"0.0, NaN, 0.0, 0.5, 0.0",0.1,0.0,,0.0

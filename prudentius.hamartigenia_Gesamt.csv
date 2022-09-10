@@ -1,0 +1,1030 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+prudentius.hamartigenia,1.1,"frater, ephebus, fossor, et, pastor, duo",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,ephebus,0.167
+prudentius.hamartigenia,1.2,"qui, femina, primus, primus, procreo",5,"NaN, 0.0, 0.5, 0.5, NaN",0.2,0.0,,0.0
+prudentius.hamartigenia,1.3,"sisto, ad, ara, de, labor, fructus",6,"NaN, NaN, NaN, NaN, -0.5, 0.5",0.0,-0.083,,0.0
+prudentius.hamartigenia,1.4,"deus, sacro, munus, primordius",4,"0.0, NaN, 0.5, NaN",0.125,0.0,,0.0
+prudentius.hamartigenia,1.5,"hic, terrulentis, ille, uiuo, fungor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.2
+prudentius.hamartigenia,1.6,"certo, ueto, discrepo, inmolant",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,1.7,"fetus, bidens, alter, at, alter, scrobis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,1.8,"deus, paruus, con-probo, hostio",4,"0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,1.9,"reicio, ille, quam, paro, grandis",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,1.1,"uox, ecce, superus, mitto, persulto, thronus",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,1.11,"‘cai, -ne, quiesco, namque, si, rectus, offertor",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+prudentius.hamartigenia,1.12,"offertor, neque, tu, lex, recta, diuido",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,tu,0.167
+prudentius.hamartigenia,1.13,"peruerto, niger, ueto, culpa, traxerint.’",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,culpa,0.2
+prudentius.hamartigenia,1.14,"armo, deinde, parricidal, manus",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,1.15,"frater, probo, sanctitas, aemulus",4,"0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,1.16,"germanus, curuo, collum, frango, sarculum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,sarculum,0.2
+prudentius.hamartigenia,1.17,"mundus, recens, caedes, tinguit, impius",5,"1.0, 0.0, -0.5, NaN, -1.0",-0.1,-0.3,"caedes, impius",0.4
+prudentius.hamartigenia,1.18,"serus, expio, iam, senesco, sacro",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,expio,0.2
+prudentius.hamartigenia,1.19,"cruor, christus, quo, peremptor, concido",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,cruor,0.2
+prudentius.hamartigenia,1.2,"mors, primus, coepio, innocens, uulnus",5,"-1.0, 0.5, NaN, 0.5, -1.0",-0.2,-0.4,innocens,0.2
+prudentius.hamartigenia,1.21,"cedo, deinde, uulnero, innoxius",4,"NaN, NaN, NaN, 0.5",0.125,0.0,,0.0
+prudentius.hamartigenia,1.22,"per, crimen, orior, dissoluo, sum, crimen",6,"NaN, -1.0, NaN, NaN, NaN, -1.0",-0.333,-0.333,"crimen, crimen",0.333
+prudentius.hamartigenia,1.23,"abel, qui, ante, percello, christum, dehinc",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,1.24,"finio, et, ipse, sum, finis, exsortem, peto",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,1.25,"ergo, ex, sum, priscus, coepio, fabula",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,1.26,"facio, primus, res, noto, sum, ulter",6,"NaN, 0.5, 0.0, NaN, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,1.27,"ut, ille, mors, inchoator, rusticus",5,"NaN, NaN, -1.0, NaN, -0.5",-0.3,-0.3,,0.0
+prudentius.hamartigenia,1.28,"insulsus, terra, defero, libamen",4,"NaN, 0.0, NaN, NaN",0.0,0.0,insulsus,0.25
+prudentius.hamartigenia,1.29,"deus, res, mortuaris, deputans",4,"0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,1.3,"rastrum, redigo, dignus, sacrum, credo",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+prudentius.hamartigenia,1.31,"uiuo, atrox, aemulator, hostia",4,"NaN, -1.0, NaN, NaN",-0.25,-0.25,hostia,0.25
+prudentius.hamartigenia,1.32,"agnosco, nempe, qui, figuro, hic, denoto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+prudentius.hamartigenia,1.33,"quis, fratricida, quis, peremptor, inuidus",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,inuidus,0.2
+prudentius.hamartigenia,1.34,"prauus, sacer, disciplina, diuido",4,"-1.0, 1.0, 0.0, NaN",0.0,-0.25,prauus,0.25
+prudentius.hamartigenia,1.35,"macto, dum, sui, ueto, censeo, rectus",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+prudentius.hamartigenia,1.36,"marcius, -ne, aruum, forma, corrumpo",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+prudentius.hamartigenia,1.37,"doceo, duitas, discreparis, ab, spiritus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,1.38,"contamino, donum, caro, offertor",4,"NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,1.39,"et, segregatim, numen, aeternus, colo",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+prudentius.hamartigenia,1.4,"qui, si, quiesco, neque, moneo, neglego",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,1.41,"pax, quietus, diligo, germanitas",4,"0.5, NaN, NaN, NaN",0.125,0.0,,0.0
+prudentius.hamartigenia,1.42,"unus, atque, uiuus, fateor, uiuus, deus",6,"NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,"uiuus, uiuus",0.333
+prudentius.hamartigenia,1.43,"hic, sui, caducus, dedico, mysterium",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.2
+prudentius.hamartigenia,1.44,"summa, profanus, diuido, substantia",4,"NaN, NaN, NaN, NaN",nan,nan,profanus,0.25
+prudentius.hamartigenia,1.45,"malus, bonus, ceu, duo, separo",5,"-1.0, 1.0, NaN, NaN, NaN",0.0,-0.2,,0.0
+prudentius.hamartigenia,1.46,"regnum, deus, sceptrum, committo, duo",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,1.47,"deus, sum, credo, qui, fateor, malus",6,"0.0, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+prudentius.hamartigenia,1.48,"cai, -ne, cruentus, unitas, inuidus",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,"cruentus, inuidus",0.4
+prudentius.hamartigenia,1.49,"mundus, colonus, immolator, squalidus",4,"1.0, 0.0, NaN, -1.0",0.0,-0.25,,0.0
+prudentius.hamartigenia,1.5,"qui, litame, -ne, sordeo, et, terra, sapio",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,sordeo,0.143
+prudentius.hamartigenia,1.51,"terra, caducus, corpus, uena, putrem",5,"0.0, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,1.52,"umor, densus, conglobo, et, puluis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,1.53,"natura, qui, fraus, floreo, fertilis",5,"0.0, NaN, -1.0, NaN, 1.0",0.0,-0.2,fraus,0.2
+prudentius.hamartigenia,1.54,"fecundus, fundo, noxius, crimen",4,"1.0, NaN, 0.5, -1.0",0.125,-0.25,"noxius, crimen",0.5
+prudentius.hamartigenia,1.55,"animaequus, uita, labes, caro, eneco",5,"NaN, 0.0, -1.0, 0.0, NaN",-0.2,-0.2,,0.0
+prudentius.hamartigenia,1.56,"carus, in, soror, telum, mens, dirigo",6,"1.0, NaN, NaN, NaN, 0.5, NaN",0.25,0.0,,0.0
+prudentius.hamartigenia,1.57,"mens, in, cerebrum, uentilo, ebrius",5,"0.5, NaN, NaN, NaN, -0.5",0.0,-0.1,ebrius,0.2
+prudentius.hamartigenia,1.58,"ex, quo, furor, suculentos, conligo",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,furor,0.2
+prudentius.hamartigenia,1.59,"madeo, ueneno, corpus, lymphaticus",4,"NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,1.6,"deus, perenno, findo, in, duo, deus",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,1.61,"audeo, secaris, numen, insecabilis",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,1.62,"cado, per-emo, denego, unus, deus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,per-emo,0.2
+prudentius.hamartigenia,1.63,"cai, -ne, triumpho, mors, frater, halitus",6,"NaN, NaN, NaN, -1.0, 0.0, NaN",-0.167,-0.167,,0.0
+prudentius.hamartigenia,2.1,"quo, tu, praecipito, rabio, tuus, perfidus, cai, -ne",8,"NaN, NaN, NaN, NaN, 0.0, -1.0, NaN, NaN",-0.125,-0.125,"tu, rabio, perfidus",0.375
+prudentius.hamartigenia,2.2,"diuisor, blaspheme, deus, tu, conditor, unus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.167
+prudentius.hamartigenia,2.3,"non, liquo, et, bifidus, caligo, nubila, lucus",7,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN",-0.071,-0.071,,0.0
+prudentius.hamartigenia,2.4,"insincerus, acies, duo, per, diuortium, semper",6,"-0.5, 0.0, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+prudentius.hamartigenia,2.5,"spargo, in, geminus, uideo, frustro, figura",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.6,"terra, tu, forma, duplex, obludit, ut, excors",7,"0.0, NaN, 1.0, 0.0, NaN, NaN, -1.0",0.0,-0.143,tu,0.143
+prudentius.hamartigenia,2.7,"diuiduus, regno, deus, super, aether, credo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.8,"bini, bonus, atque, malus, glomero, discrimino, sordeo",7,"NaN, 1.0, NaN, -1.0, NaN, NaN, NaN",0.0,-0.143,sordeo,0.143
+prudentius.hamartigenia,2.9,"hic, mundus, dominus, sed, caelum, obtempero, unus",7,"NaN, 1.0, NaN, NaN, 0.5, NaN, NaN",0.214,0.0,hic,0.143
+prudentius.hamartigenia,2.1,"non, idcirco, duo, retineo, caelestis, rex",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.11,"qui, duo, sum, opus, humanus, agito, cura",7,"NaN, NaN, NaN, 0.5, 0.0, NaN, -1.0",-0.071,-0.143,,0.0
+prudentius.hamartigenia,2.12,"exter, terrenus, homo, sum, qui, talis, cerno",7,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.13,"conicio, sum, duo, uariaris, numen, res",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.14,"dum, puto, sum, deus, qui, prauus, effinxerit, olim",8,"NaN, NaN, NaN, 0.0, NaN, -1.0, NaN, NaN",-0.125,-0.125,prauus,0.125
+prudentius.hamartigenia,2.15,"et, qui, recta, itidem, condo, induco, ambo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.16,"autumo, sum, deus, natura, dispar, summus",6,"NaN, NaN, 0.0, 0.0, 0.5, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.17,"qui, tandem, natura, possum, consisto, duplex",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.18,"aut, regno, diu, quam, fons, diuido, ab, arx",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.19,"separo, alterno, apicum, dicio, recido",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.2,"aut, unus, deus, sum, res, qui, summus, potestas",8,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, 0.5",0.062,0.0,,0.0
+prudentius.hamartigenia,2.21,"aut, qui, iam, duo, sum, minuo, dispar, summus",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,,0.0
+prudentius.hamartigenia,2.22,"porro, nihil, superus, nisi, plenus, uis, unus",7,"NaN, NaN, NaN, NaN, 0.0, 1.0, NaN",0.143,0.0,,0.0
+prudentius.hamartigenia,2.23,"disto, quoniam, proprius, dum, quisque, reuello",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.24,"uindico, imperium, neque, summus, neque, omnis, possum",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.25,"ius, uarius, non, sum, plenus, quia, non, habeo, alter",9,"0.5, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+prudentius.hamartigenia,2.26,"quisquis, dispar, habeo, cumulis, discretio, carpo",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.27,"nos, plenus, sine, pars, deus, testor, et, unus",8,"NaN, 0.0, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.28,"in, quo, christus, insum, idem, quoque, plenus, et, unus",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.29,"qui, uigeo, atque, uigesco, super, omnis, quisque, uigeo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.3,"participo, nullus, confero, foedus, patior",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+prudentius.hamartigenia,2.31,"summus, potestas, pater, sum, dominatio, res",6,"NaN, 0.5, 0.0, NaN, 0.0, 0.0",0.083,0.0,,0.0
+prudentius.hamartigenia,2.32,"uirtus, sublimis, caput, fons, unicus, orbis",6,"1.0, 0.5, 0.0, NaN, NaN, NaN",0.25,0.0,,0.0
+prudentius.hamartigenia,2.33,"natural, apex, gener, et, origo, auctor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.34,"ex, quo, cunctus, fluo, et, lux, et, tempus, et, annus",10,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.35,"et, numerus, qui, post, aliquis, do, sum, secundus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.36,"unus, enim, princeps, numerus, sum, neque, dinumeraris",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+prudentius.hamartigenia,2.37,"tantus, unus, potio, sum, sic, cum, pater, atque, deus, alter",10,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.38,"non, sum, item, christus, non, sum, genitor, secundus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.39,"anterior, numerus, sum, qui, filius, unicus, unus, sum",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.4,"ille, deus, mereo, deus, quia, primus, et, unus",8,"NaN, 0.0, NaN, 0.0, NaN, 0.5, NaN, NaN",0.062,0.0,,0.0
+prudentius.hamartigenia,2.41,"in, uirtus, suus, primus, tum, primus, in, ille",8,"NaN, 1.0, NaN, 0.5, NaN, 0.5, NaN, NaN",0.25,0.0,,0.0
+prudentius.hamartigenia,2.42,"qui, gigno, quis, enim, differo, generatio, simplex",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+prudentius.hamartigenia,2.43,"unus, semper, sum, gigno, atque, unus, ab, unus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.44,"ante, chaos, gigno, numero, et, tempus, liber",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.5",0.071,0.0,chaos,0.143
+prudentius.hamartigenia,2.45,"quis, dico, duo, res, maiestas, sub, unus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.46,"regno, proprius, sui, retro, perenno",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.47,"audeo, et, unus, natura, excindere, uireo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.48,"numquid, adoptiuus, genitor, sui, sumo, ut, alter",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.49,"externus, genus, numerus, praesto, duo",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.5,"debeo, et, geminus, disto, induco, numen",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.51,"forma, pater, uerus, uerus, sto, filius, atque, sui",8,"1.0, 0.0, 0.5, 0.5, NaN, 0.0, NaN, NaN",0.25,0.0,,0.0
+prudentius.hamartigenia,2.52,"unus, rite, probo, dum, forma, seruo, idem",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+prudentius.hamartigenia,2.53,"non, amor, ascitus, socio, neque, iungo, uterque",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+prudentius.hamartigenia,2.54,"coniuro, fides, pietas, sed, certus, genus",6,"NaN, 1.0, 1.0, NaN, 0.5, 0.0",0.417,0.0,coniuro,0.167
+prudentius.hamartigenia,2.55,"unus, qui, deus, sum, summa, reuoco, ad, unus",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.56,"hic, tu, marcius, -ne, uia, displiceo, hic, tuus, damno",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, tu, hic, damno",0.444
+prudentius.hamartigenia,2.57,"seco, fides, dominus, caelum, partio, duo",6,"NaN, 1.0, NaN, 0.5, NaN, NaN",0.25,0.0,,0.0
+prudentius.hamartigenia,2.58,"qui, tu, confundo, nebula, quis, somnus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,tu,0.167
+prudentius.hamartigenia,2.59,"iners, incubo, ingenium, qui, per, phantasma, duplex",7,"0.0, NaN, 0.5, NaN, NaN, NaN, 0.0",0.071,0.0,iners,0.143
+prudentius.hamartigenia,2.6,"occurro, species, biuius, dispergo, supernus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.61,"si, uis, mens, hebeo, stupor, obsido, aspicio, saltem",8,"NaN, 1.0, 0.5, NaN, -0.5, NaN, NaN, NaN",0.125,-0.062,,0.0
+prudentius.hamartigenia,2.62,"obuius, terrenus, oculus, elementum, qui, sui",6,"-0.5, NaN, 0.0, 0.5, NaN, NaN",0.0,-0.083,,0.0
+prudentius.hamartigenia,2.63,"res, occulo, deus, digno, sum, prodo, signum",7,"0.0, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.64,"hic, haeresis, -ne, praesagus, pater, praeuideo, olim",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.143
+prudentius.hamartigenia,2.65,"maiestas, sum, qui, rector, lucus, et, orbis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.66,"scindo, in, pars, gemino, segrege, regnum",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.67,"idcirco, specimen, pono, spectabilis, noster",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.68,"exemplum, oculus, ne, quis, duo, numen, credo",7,"0.0, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.69,"imperitaris, uagus, mundus, per, inanis, forma",6,"NaN, NaN, 1.0, NaN, NaN, 1.0",0.333,0.0,,0.0
+prudentius.hamartigenia,2.7,"unus, per, immensus, caelum, cauea, reuolutos",6,"NaN, NaN, 0.0, 0.5, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.71,"praebeo, flamma, dies, tego, sol, unicus, annus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.72,"triplex, ille, tamen, nullus, discrimen, trini",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+prudentius.hamartigenia,2.73,"subnixus, ratio, uigeo, splendeo, uolo, ardeo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.74,"motus, ago, feruor, cremo, tum, lumen, fulgeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.75,"sum, tres, nempe, simul, lux, et, calor, et, uegetame, -ne",10,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.76,"unus, idem, tamen, rota, sido, indiscretus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.77,"fungor, hic, unus, seruo, tot, munus, ductus",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,hic,0.143
+prudentius.hamartigenia,2.78,"et, tres, unus, subsum, mistim, substantia, res",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.79,"non, confero, deus, uelut, aequiperabilis, quisquam",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.8,"audeo, neque, dominus, famulis, con-pono, signum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.81,"ex, paruus, sed, grandis, suus, uolo, pater, ipse",8,"NaN, 0.0, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.82,"coniectaris, homo, qui, arduus, uiso, non, sum",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.83,"paruus, speculum, non, intellego, noto",5,"0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.84,"et, do, occulo, per, propior, quaero, uerus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.5",0.071,0.0,,0.0
+prudentius.hamartigenia,2.85,"nemo, duo, soleo, nisi, sub, glaucomate, uideo",7,"-0.5, NaN, NaN, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+prudentius.hamartigenia,2.86,"aut, si, fuscus, polus, sntfudit, palla, serenus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.87,"oppono, quotiens, radius, spiculum, nimbus",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.88,"ignis, repercutio, mentior, spargo, in, orbo",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.89,"sum, animus, etiam, suus, nubila, crassus, et, aer",8,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, 0.0",0.062,0.0,,0.0
+prudentius.hamartigenia,2.9,"sum, glaucoma, acies, qui, tegimen, uelo, aquosus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.91,"liber, ne, tener, penetro, meditatio, caelum",6,"0.5, NaN, NaN, NaN, NaN, 0.5",0.167,0.0,,0.0
+prudentius.hamartigenia,2.92,"neue, deus, rapidus, conprendat, sensus, unus",6,"NaN, 0.0, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.93,"spargo, in, bifidus, malus, sano, intentio, luceo",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,,0.0
+prudentius.hamartigenia,2.94,"et, duplex, geminus, auctor, extruit, ara",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.95,"si, duo, sum, igitur, cur, non, sum, multus, deus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.96,"mille, cur, numerus, deitas, contineo, gemellus, sum",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.97,"an, non, in, populus, dispergo, examino, diuus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.98,"fundo, sum, bonus, mundus, in-pleo, capax",6,"NaN, NaN, 1.0, 1.0, NaN, 0.0",0.333,0.0,,0.0
+prudentius.hamartigenia,2.99,"semideis, passim, nullus, discrimen, monstrum",5,"NaN, NaN, NaN, -1.0, 0.5",-0.1,-0.2,monstrum,0.2
+prudentius.hamartigenia,2.1,"quis, ferus, barbaries, pereo, macto, honor",6,"NaN, -1.0, NaN, NaN, NaN, 1.0",0.0,-0.167,ferus,0.167
+prudentius.hamartigenia,2.101,"dissonus, discerno, retineo, si, numen, caelum",6,"-1.0, NaN, NaN, NaN, NaN, 0.5",-0.083,-0.167,,0.0
+prudentius.hamartigenia,2.102,"conuenio, et, nebulis, et, fons, et, reboanti",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.103,"oceanus, et, silua, et, collis, et, spelunca",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.104,"flumen, uenio, fornacibus, atque, metallum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.105,"assignaris, deus, proprius, suus, quisque, ius",6,"NaN, 0.0, 0.0, NaN, NaN, 0.5",0.083,0.0,,0.0
+prudentius.hamartigenia,2.106,"uel, si, gentilis, sordeo, uenerarier, umbra",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,sordeo,0.167
+prudentius.hamartigenia,2.107,"et, placeo, sum, duo, sceptrum, sodal, aequus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+prudentius.hamartigenia,2.108,"dico, ago, quis, terra, dicio, sors, retento",7,"NaN, NaN, NaN, 0.0, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+prudentius.hamartigenia,2.109,"quis, rego, aequoreus, aeternus, lex, procella",6,"NaN, NaN, NaN, 0.5, 0.5, NaN",0.167,0.0,,0.0
+prudentius.hamartigenia,2.11,"edo, coheres, distinguo, ius, dominus",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+prudentius.hamartigenia,2.111,"‘unus’, aio, ‘tristi, resideo, sublimis, in, arx",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+prudentius.hamartigenia,2.112,"auctor, nequitia, scelus, deus, asper, iniquus",6,"NaN, -1.0, -1.0, 0.0, -0.5, -1.0",-0.583,-0.583,"nequitia, scelus, iniquus",0.5
+prudentius.hamartigenia,2.113,"qui, quicumque, malus, uitiosus, ferueo, in, orbis",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+prudentius.hamartigenia,2.114,"sero, et, anguinus, medico, nouo, semen, sucus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,anguinus,0.143
+prudentius.hamartigenia,2.115,"res, principium, mors, de, fomes, traho",6,"0.0, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+prudentius.hamartigenia,2.116,"ipse, opifex, mundus, terra, mare, sidus, facio",7,"NaN, NaN, 1.0, 0.0, 0.0, NaN, NaN",0.143,0.0,,0.0
+prudentius.hamartigenia,2.117,"condo, ipse, homo, lutulentus, et, membrum, cogo",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.118,"effigians, qui, morbus, edo, qui, crimen, multus",7,"NaN, NaN, -1.0, NaN, NaN, -1.0, 0.0",-0.286,-0.286,crimen,0.143
+prudentius.hamartigenia,2.119,"sordeo, informis, tumulus, qui, tabeo, resoluo",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,"sordeo, tabeo",0.333
+prudentius.hamartigenia,2.12,"at, alius, pietas, amor, placidus, medeor",6,"NaN, NaN, 1.0, 1.0, 1.0, NaN",0.5,0.0,,0.0
+prudentius.hamartigenia,2.121,"ingenium, recreo, homo, mortalia, seruo",5,"0.5, NaN, 0.0, 0.0, NaN",0.1,0.0,,0.0
+prudentius.hamartigenia,2.122,"testamentum, duo, fluo, princeps, uterque",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+prudentius.hamartigenia,2.123,"trado, iste, nouus, bonus, uetus, ille, acerbus.’",7,"NaN, NaN, 1.0, 1.0, 0.0, NaN, NaN",0.286,0.0,,0.0
+prudentius.hamartigenia,2.124,"hic, tuus, marcius, -ne, grauis, et, dialectica, uox, sum",9,"NaN, 0.0, NaN, NaN, -0.5, NaN, NaN, 0.0, NaN",-0.056,-0.056,hic,0.111
+prudentius.hamartigenia,2.125,"immo, hic, attono, phrenesis, manifestus, cerebrum",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,hic,0.167
+prudentius.hamartigenia,2.126,"nosco, sum, pater, scelus, sed, nosco, ipse",7,"NaN, NaN, 0.0, -1.0, NaN, NaN, NaN",-0.143,-0.143,scelus,0.143
+prudentius.hamartigenia,2.127,"haudquaquam, tamen, sum, deus, quin, immo, gehenna",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.128,"mancipium, stygius, qui, sum, damno, a-uerno",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"mancipium, damno",0.333
+prudentius.hamartigenia,2.129,"marcionita, deus, tristis, ferus, insidiator",5,"NaN, 0.0, -1.0, -1.0, NaN",-0.4,-0.4,"ferus, insidiator",0.4
+prudentius.hamartigenia,2.13,"uertex, sublimis, cingo, qui, nubis, ater",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.131,"anguiferum, caput, et, fumus, stipo, et, ignis",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.132,"liueo, oculus, sub-fundo, felle, peruro",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.133,"inuidia, impatiens, iustor, gaudium, fero",5,"-1.0, -0.5, NaN, 1.0, NaN",-0.1,-0.3,inuidia,0.2
+prudentius.hamartigenia,2.134,"hirsutus, iuba, densus, umerus, erro, hydrus",6,"-0.5, NaN, NaN, NaN, 0.0, NaN",-0.083,-0.083,hydrus,0.167
+prudentius.hamartigenia,2.135,"obtego, et, uiridis, adlambunt, os, cerastae",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.136,"ipse, manus, laqueus, per, lubricus, filum, reflecto",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.137,"in, nodus, reuoco, facilis, ligamen, torqueo",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.138,"innecto, pedica, neruus, in, uinculum, tendo",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.139,"ars, ille, captaris, ferus, animal, brutus",6,"0.0, NaN, NaN, -1.0, NaN, -1.0",-0.333,-0.333,"ferus, animal",0.333
+prudentius.hamartigenia,2.14,"inretire, plaga, retinaculum, denique, caecus",5,"NaN, 0.0, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+prudentius.hamartigenia,2.141,"indeprensus, locus, erro, oppono, praeda",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.142,"hic, ille, sum, uenator, atrox, qui, caedes, frequens",8,"NaN, NaN, NaN, NaN, -1.0, NaN, -0.5, NaN",-0.188,-0.188,"hic, caedes",0.25
+prudentius.hamartigenia,2.143,"incautus, anima, non, cesso, plecto, nebroth",6,"-1.0, 0.5, NaN, NaN, NaN, NaN",-0.083,-0.167,,0.0
+prudentius.hamartigenia,2.144,"qui, mundus, curuus, anfractus, et, siluosus",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+prudentius.hamartigenia,2.145,"horreo, scopulus, uersuto, circumeo, astus",5,"NaN, 0.0, NaN, NaN, -0.5",-0.1,-0.1,astus,0.2
+prudentius.hamartigenia,2.146,"fraus, alius, tego, dolus, innecto, adorior",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,"fraus, dolus",0.333
+prudentius.hamartigenia,2.147,"porro, giganteis, alius, luctor, lacertus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.148,"frango, funereus, latus, exerceo, triumphus",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+prudentius.hamartigenia,2.149,"improbus, mors, quis, non, mortalia, pectus, cogo",7,"-1.0, -1.0, NaN, NaN, 0.0, NaN, NaN",-0.286,-0.286,improbus,0.143
+prudentius.hamartigenia,2.15,"ipse, suus, pudeo, heu, contemno, princeps, uita",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 0.0",0.071,0.0,"pudeo, heu",0.286
+prudentius.hamartigenia,2.151,"pernicies, ueneror, homo, colo, ipse, cruentus",6,"-1.0, NaN, 0.0, NaN, NaN, NaN",-0.167,-0.167,cruentus,0.167
+prudentius.hamartigenia,2.152,"carnifex, gladius, acies, iugulo, adoro",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"carnifex, iugulo",0.4
+prudentius.hamartigenia,2.153,"in, tantus, miser, pecco, nectaris, capio",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,miser,0.167
+prudentius.hamartigenia,2.154,"dulcis, morior, sum, tantus, in, tenebrae, de, pestis, uoluptas",9,"0.5, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, 1.0",0.056,-0.111,pestis,0.111
+prudentius.hamartigenia,2.155,"qui, malus, principium, gigno, deus, sum, puto",7,"NaN, -1.0, NaN, NaN, 0.0, NaN, NaN",-0.143,-0.143,,0.0
+prudentius.hamartigenia,2.156,"quisque, bonus, inficio, uitium, et, candidus, niger",7,"NaN, 1.0, NaN, -1.0, NaN, NaN, NaN",0.0,-0.143,,0.0
+prudentius.hamartigenia,2.157,"par, furor, ille, qui, trado, fama, dico",7,"0.5, -1.0, NaN, NaN, NaN, 1.0, NaN",0.071,-0.143,furor,0.143
+prudentius.hamartigenia,2.158,"consecro, dea, febris, scabiemque, sacellum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.159,"inuentor, uitium, non, sum, deus, angelus, ille",7,"0.0, -1.0, NaN, NaN, 0.0, NaN, NaN",-0.143,-0.143,,0.0
+prudentius.hamartigenia,2.16,"degener, infamis, concipio, mens, creo",5,"-1.0, -1.0, NaN, 0.5, NaN",-0.3,-0.4,infamis,0.2
+prudentius.hamartigenia,2.161,"qui, prior, augustus, radio, sidus, et, ingens",7,"NaN, 0.5, 1.0, NaN, NaN, NaN, -0.5",0.143,-0.071,,0.0
+prudentius.hamartigenia,2.162,"ex, nihilum, splendor, nutrio, ardeo, honor",6,"NaN, NaN, 1.0, NaN, NaN, 1.0",0.333,0.0,,0.0
+prudentius.hamartigenia,2.163,"ex, nihilum, nam, cunctus, retro, facio, qui, usquam, sum",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.164,"at, non, ex, nihilum, deus, et, sapientia, uerus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, 1.0, 0.5",0.188,0.0,,0.0
+prudentius.hamartigenia,2.165,"spiritus, et, sancio, res, semper, uiuus, neque, umquam",8,"0.0, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,uiuus,0.125
+prudentius.hamartigenia,2.166,"coepio, sed, aerius, etiam, molio, minister",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.167,"hic, de, numerus, quidam, pulcher, os",6,"NaN, NaN, NaN, NaN, 1.0, 0.0",0.167,0.0,hic,0.167
+prudentius.hamartigenia,2.168,"maiestas, ferox, nimius, dum, uis, augeo",6,"NaN, -1.0, NaN, NaN, 1.0, NaN",0.0,-0.167,"ferox, nimius",0.333
+prudentius.hamartigenia,2.169,"inflo, dum, grandis, tumeo, sui, altus, effero",7,"NaN, NaN, 0.0, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+prudentius.hamartigenia,2.17,"ostento, suus, liceo, iacto, ignis",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.171,"persuadeo, proprius, gigno, sui, uis, ex, sui",7,"NaN, 0.0, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+prudentius.hamartigenia,2.172,"materia, sumo, sui, qui, primitus, sum",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.173,"incipio, nasco, suus, sine, princeps, coepio",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.174,"hinc, schola, subtacitam, meditor, gigno, seco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.175,"qui, doceo, e, tenebrae, subeo, mico, tyrannus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tyrannus,0.143
+prudentius.hamartigenia,2.176,"qui, uelut, aeternus, latito, sub, nox, retrorsum",7,"NaN, NaN, 0.5, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+prudentius.hamartigenia,2.177,"uiuo, et, tectum, semper, regno, aeuum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.178,"aemulus, ut, memoro, opus, ad, diuino, repens",7,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0",0.071,0.0,,0.0
+prudentius.hamartigenia,2.179,"corrumpo, caput, caligo, profero, ater",5,"NaN, 0.0, -0.5, NaN, NaN",-0.1,-0.1,,0.0
+prudentius.hamartigenia,2.18,"hic, ratio, sed, noster, nego, qui, non, licet, unus",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.111
+prudentius.hamartigenia,2.181,"infirmaris, fides, sacro, qui, trado, liber, sum",7,"NaN, 1.0, NaN, NaN, NaN, 0.5, NaN",0.214,0.0,,0.0
+prudentius.hamartigenia,2.182,"‘nil’, aio, ‘absque, deus, facio, sed, cunctus, per, ipse",9,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.183,"cunctus, neque, sum, alius, quisquam, nisi, facio, ab, ipso.’",9,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.184,"sed, facio, de, stirps, bonus, bonitas, in, usus",8,"NaN, NaN, NaN, NaN, 1.0, 1.0, NaN, NaN",0.25,0.0,,0.0
+prudentius.hamartigenia,2.185,"prodeo, et, primus, genus, de, fons, serenus",7,"NaN, NaN, 0.5, 0.0, NaN, NaN, NaN",0.071,0.0,,0.0
+prudentius.hamartigenia,2.186,"deterior, mox, sponte, suus, dum, decolo, ille",7,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+prudentius.hamartigenia,2.187,"inficio, inuidia, stimulus, instigo, amaris",5,"NaN, -1.0, 0.0, NaN, NaN",-0.2,-0.2,"inuidia, stimulus",0.4
+prudentius.hamartigenia,2.188,"ardeo, enim, scintilla, odium, de, fomes, zelis",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,,0.0
+prudentius.hamartigenia,2.189,"et, dolor, ingenium, subeo, conflo, iniquus",6,"NaN, -1.0, 0.5, NaN, NaN, -1.0",-0.25,-0.333,iniquus,0.167
+prudentius.hamartigenia,2.19,"uideo, argilla, simulacrum, et, structilis, flo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,argilla,0.167
+prudentius.hamartigenia,2.191,"concaluisse, deus, dominus, quoque, conditio",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.192,"in-pono, natura, solus, pelagius, polique",5,"NaN, 0.0, -0.5, 0.0, NaN",-0.1,-0.1,,0.0
+prudentius.hamartigenia,2.193,"ut, famulans, homo, locupleto, fundo, pario",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,locupleto,0.167
+prudentius.hamartigenia,2.194,"nosco, et, effundo, terrenus, addico, rex",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,addico,0.167
+prudentius.hamartigenia,2.195,"inflo, fermento, animus, stomachor, tumor",5,"NaN, NaN, 0.5, NaN, -0.5",0.0,-0.1,,0.0
+prudentius.hamartigenia,2.196,"bestia, de, acidus, uis, traho, acerbus, medulla",7,"NaN, NaN, NaN, 1.0, NaN, -1.0, NaN",0.0,-0.143,"bestia, acerbus",0.286
+prudentius.hamartigenia,2.197,"bestia, sordeo, careo, qui, tunc, sapientia, longus",7,"NaN, NaN, NaN, NaN, NaN, 1.0, 0.0",0.143,0.0,"bestia, sordeo",0.286
+prudentius.hamartigenia,2.198,"corpus, enodo, seruo, recta, iuuenta",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.199,"con-plico, ecce, noui, sinuosus, pectus, necto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.2,"inuoluo, nitidus, spira, torqueo, aluus",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+prudentius.hamartigenia,2.201,"simplex, lingua, prior, uario, mico, ars, loquor",7,"0.5, -0.5, 0.5, NaN, NaN, 0.0, NaN",0.071,-0.071,,0.0
+prudentius.hamartigenia,2.202,"et, discindo, dolus, resono, sermo, trisulcus",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,dolus,0.167
+prudentius.hamartigenia,2.203,"hinc, natal, caput, uitium, princeps, ab, ille",7,"NaN, NaN, 0.0, -1.0, 0.5, NaN, NaN",-0.071,-0.143,,0.0
+prudentius.hamartigenia,2.204,"fluo, origo, malus, qui, sui, corrumpo, primus",7,"NaN, NaN, -1.0, NaN, NaN, NaN, 0.5",-0.071,-0.143,,0.0
+prudentius.hamartigenia,2.205,"mox, homo, disco, nullus, informante, magister",6,"NaN, 0.0, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+prudentius.hamartigenia,2.206,"ulter, exitium, subuerso, praeses, mundus",5,"NaN, -1.0, NaN, NaN, 1.0",0.0,-0.2,,0.0
+prudentius.hamartigenia,2.207,"sortio, mundus, omnis, labefacto, supellex",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+prudentius.hamartigenia,2.208,"non, aliter, quam, cum, incautus, spolio, uiantem",7,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,,0.0
+prudentius.hamartigenia,2.209,"fors, latro, aggredior, praeda, prior, immemor, ipse",7,"0.0, NaN, NaN, NaN, 0.5, -1.0, NaN",-0.071,-0.143,latro,0.143
+prudentius.hamartigenia,2.21,"ensis, ferio, dominus, pugna, nodus, mora",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+prudentius.hamartigenia,2.211,"quo, pereo, traho, captiuus, uictor, amicio",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,captiuus,0.167
+prudentius.hamartigenia,2.212,"iam, non, obsto, locuples, de, corpus, praedo",7,"NaN, NaN, NaN, 1.0, NaN, 0.0, NaN",0.143,0.0,locuples,0.143
+prudentius.hamartigenia,2.213,"sic, homo, subiectum, domus, diues, orbis",6,"NaN, 0.0, NaN, 0.0, 0.5, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.214,"scilicet, in, facilis, dominus, pecco, ruina",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.215,"labor, erilis, malus, iam, tunc, uitiabilis, haurio",7,"-0.5, NaN, -1.0, NaN, NaN, NaN, NaN",-0.214,-0.214,,0.0
+prudentius.hamartigenia,2.216,"tunc, lolium, lappa, leuo, per, adultero, colo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.217,"fero, malignus, ager, glaeba, malus, pinguis, audeo",7,"NaN, -1.0, 0.0, NaN, -1.0, NaN, NaN",-0.286,-0.286,glaeba,0.143
+prudentius.hamartigenia,2.218,"triticeus, uacuus, seges, uiolo, auena",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,uiolo,0.2
+prudentius.hamartigenia,2.219,"tunc, etiam, innocuo, uitulus, sanguis, pascor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.22,"iam, iugum, edomo, rictus, laniaris, iuuencus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.221,"occido, pastor, trux, disco, leo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"occido, trux, leo",0.6
+prudentius.hamartigenia,2.222,"neque, non, et, querulis, balatus, irrito",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.223,"plenus, nox, lupus, studeo, perrumpo, caulae",6,"0.0, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.224,"omnis, animal, dirus, calleo, sollertia, furtum",6,"NaN, NaN, -1.0, NaN, 1.0, -1.0",-0.167,-0.333,"animal, dirus, furtum",0.5
+prudentius.hamartigenia,2.225,"inbuit, et, torqueo, acuo, fallacia, sensus",6,"NaN, NaN, NaN, NaN, -1.0, 0.5",-0.083,-0.167,fallacia,0.167
+prudentius.hamartigenia,2.226,"quiuis, maceries, floreo, ambiat, hortus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.227,"saepis, et, densus, uallo, uiteus, rus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.228,"aut, populator, edo, gemmo, germino, bruchus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.229,"aut, auis, discerpo, fera, lacero, labrusca",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"fera, lacero",0.333
+prudentius.hamartigenia,2.23,"uid, loquor, herba, fibra, medico, ueneno",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.231,"tingo, letifer, fundo, periculum, sucus",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,letifer,0.2
+prudentius.hamartigenia,2.232,"noxius, in, teneo, sapor, aestuo, ecce, frutectum",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,"noxius, aestuo",0.286
+prudentius.hamartigenia,2.233,"cum, prior, innocuus, fero, natura, cicuta",6,"NaN, 0.5, 0.5, NaN, 0.0, NaN",0.167,0.0,,0.0
+prudentius.hamartigenia,2.234,"roscidus, et, uiridis, qui, uestio, flos, rhododaphne, -ne",8,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.062,0.0,uestio,0.125
+prudentius.hamartigenia,2.235,"pabulum, lasciuus, do, sincerus, capella",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,"lasciuus, capella",0.4
+prudentius.hamartigenia,2.236,"ipse, quoque, oppono, destructo, foedus, certus",6,"NaN, NaN, NaN, NaN, -1.0, 0.5",-0.083,-0.167,,0.0
+prudentius.hamartigenia,2.237,"transcendo, elementum, modus, rapio, ruo",5,"NaN, 0.5, 0.5, NaN, NaN",0.2,0.0,,0.0
+prudentius.hamartigenia,2.238,"omnis, legirupis, quasso, uis, orbis",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+prudentius.hamartigenia,2.239,"frango, umbrifer, aquilo, proelio, lucus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.24,"et, cado, immodicus, silua, exstirpata, procella",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,immodicus,0.167
+prudentius.hamartigenia,2.241,"pars, alius, uiolentus, aqua, torreo, amnis",6,"0.0, NaN, -1.0, 0.0, NaN, NaN",-0.167,-0.167,,0.0
+prudentius.hamartigenia,2.242,"transilit, obiecto, praescribo, repagula, ripa",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.243,"et, uagus, euerro, latus, dominor, in, ager",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.244,"neque, tamen, hic, tantus, rabies, nasco, ipse",7,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.143,-0.143,"hic, rabies",0.286
+prudentius.hamartigenia,2.245,"conditor, instituo, sed, laxo, licentia, res",6,"NaN, NaN, NaN, NaN, -0.5, 0.0",-0.083,-0.083,licentia,0.167
+prudentius.hamartigenia,2.246,"turbo, placidus, rumpo, moderamen, lex",5,"NaN, 1.0, NaN, 0.0, 0.5",0.3,0.0,,0.0
+prudentius.hamartigenia,2.247,"neque, mirus, si, membrum, orbis, concutio, roto",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+prudentius.hamartigenia,2.248,"si, uitium, agito, suus, mundanus, laboro",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+prudentius.hamartigenia,2.249,"machina, si, terra, luo, incentiuus, fatigo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,luo,0.167
+prudentius.hamartigenia,2.25,"exemplum, do, uito, homo, quo, ceterus, pecco",7,"0.0, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.251,"uito, homo, qui, quisquis, ago, uesania, et, error",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,,0.0
+prudentius.hamartigenia,2.252,"suppedito, ut, bellum, fremo, ut, fluo, uoluptas",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+prudentius.hamartigenia,2.253,"diffluo, impurus, feruesco, ut, ignis, libido",6,"NaN, -1.0, NaN, NaN, 0.0, -0.5",-0.25,-0.25,"impurus, libido",0.333
+prudentius.hamartigenia,2.254,"sorbeo, ut, cumulus, nummus, fauces, amplus",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,nummus,0.167
+prudentius.hamartigenia,2.255,"gurges, auaritia, finis, quam, nullus, habeo",6,"NaN, -1.0, 0.0, NaN, NaN, NaN",-0.167,-0.167,"gurges, auaritia",0.333
+prudentius.hamartigenia,2.256,"tempero, aggero, addentem, ueto, talentum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.257,"aurum, namque, fames, pario, fio, magnus, ab, aurum",8,"0.5, NaN, -0.5, NaN, NaN, 0.0, NaN, 0.5",0.062,-0.062,,0.0
+prudentius.hamartigenia,2.258,"inde, seges, scelus, radix, et, solus, malus",7,"NaN, NaN, -1.0, 0.0, NaN, -0.5, -1.0",-0.357,-0.357,scelus,0.143
+prudentius.hamartigenia,2.259,"dum, scatebras, fluuius, omnis, et, operio, metallum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.26,"eliquo, orno, soluo, leno, pudor",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,"leno, pudor",0.4
+prudentius.hamartigenia,2.261,"dum, uena, squaleo, humus, scrutor, ineptus",6,"NaN, 0.0, NaN, NaN, NaN, -1.0",-0.167,-0.167,"humus, ineptus",0.333
+prudentius.hamartigenia,2.262,"ambitio, scalpens, natura, occulo, lateo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,ambitio,0.2
+prudentius.hamartigenia,2.263,"si, qui, in, fouea, radio, fors, lapillus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.264,"rimo, inuenio, neque, enim, contineo, decus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.265,"ingenitus, externus, mentior, femina, forma",5,"NaN, 0.0, NaN, 0.0, 1.0",0.2,0.0,,0.0
+prudentius.hamartigenia,2.266,"atque, uelut, artifex, dominus, manus, imperfectus",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.267,"os, do, qui, adhuc, res, exigo, aut, hyacinthus",8,"0.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.268,"pingo, sutilis, redimitae, frons, in, arx",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.269,"collum, uel, ignio, sincerus, incingo, serta",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.27,"auris, aut, grauidus, uiridis, suspendo, baca",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.271,"necto, et, nitidus, concharis, calculus, albeo",6,"NaN, NaN, 0.5, NaN, 0.0, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.272,"crinis, aureolisque, rigo, coma, textum, catena",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,catena,0.167
+prudentius.hamartigenia,2.273,"taedet, sacrilega, mater, percurro, cura",5,"NaN, NaN, 0.0, NaN, -1.0",-0.2,-0.2,,0.0
+prudentius.hamartigenia,2.274,"munus, doto, deus, qui, plasmata, fuco",6,"0.5, NaN, 0.0, NaN, NaN, NaN",0.083,0.0,fuco,0.167
+prudentius.hamartigenia,2.275,"inficio, ut, pigmentum, cutis, in-lito, perdo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,cutis,0.167
+prudentius.hamartigenia,2.276,"qui, sum, fallo, non, agnosco, color",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,fallo,0.167
+prudentius.hamartigenia,2.277,"hic, sexus, malus, fortis, ago, qui, pectus, in, artus",9,"NaN, NaN, -1.0, 0.5, NaN, NaN, NaN, NaN, NaN",-0.056,-0.111,hic,0.111
+prudentius.hamartigenia,2.278,"mens, fragilis, facilis, uitium, fluctuo, aestus",6,"0.5, NaN, 0.5, -1.0, NaN, NaN",0.0,-0.167,,0.0
+prudentius.hamartigenia,2.279,"quis, qui, et, ipse, caput, muliebris, corpus, et, rex",9,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, 0.0",0.0,0.0,muliebris,0.111
+prudentius.hamartigenia,2.28,"qui, rego, inualidus, proprius, de, carnis, reseco",7,"NaN, NaN, -1.0, 0.0, NaN, 0.0, NaN",-0.143,-0.143,,0.0
+prudentius.hamartigenia,2.281,"particula, qui, uas, tener, dicio, guberno",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uas,0.167
+prudentius.hamartigenia,2.282,"soluo, in, luxus, cerno, mollesco, cultus",6,"NaN, NaN, -0.5, NaN, NaN, -0.5",-0.167,-0.167,luxus,0.167
+prudentius.hamartigenia,2.283,"heros, uetulus, opifex, qui, asper, membrum",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+prudentius.hamartigenia,2.284,"fingo, et, rigidus, duro, os, artus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,fingo,0.167
+prudentius.hamartigenia,2.285,"sed, pudeo, sum, uir, quaero, uanus, quisque",7,"NaN, NaN, NaN, 0.5, NaN, -0.5, NaN",0.0,-0.071,"pudeo, uanus",0.286
+prudentius.hamartigenia,2.286,"quis, niteantgenuina, leuo, ut, robur, soluo",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.287,"uello, non, ouis, sed, eous, ex, orbis, peto",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.288,"ramus, spolium, fluito, sumo, amicio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,fluito,0.2
+prudentius.hamartigenia,2.289,"gaudeo, et, durus, scutulis, perfundo, corpus",6,"NaN, NaN, -0.5, NaN, NaN, 0.0",-0.083,-0.083,,0.0
+prudentius.hamartigenia,2.29,"addo, ars, ut, filum, herba, saturo, recoctis",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.291,"illudo, uario, distinguo, stamen, forma",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+prudentius.hamartigenia,2.292,"ut, quisque, sum, lanugo, fera, mollis, tango",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fera,0.143
+prudentius.hamartigenia,2.293,"pecto, hic, uideo, lasciuas, praepeto, cursus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"pecto, hic",0.333
+prudentius.hamartigenia,2.294,"uenor, tunica, auis, quoque, uersicolorus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.295,"indumentum, nouus, texentem, plumeus, telum",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+prudentius.hamartigenia,2.296,"ille, pigmentum, redoleo, et, peregrinus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.297,"puluis, femineus, spargo, turpis, aura",5,"NaN, -0.5, NaN, -1.0, 1.0",-0.1,-0.3,turpis,0.2
+prudentius.hamartigenia,2.298,"omnis, luxus, habeo, noster, uegetamina, uita",6,"NaN, -0.5, NaN, NaN, NaN, 0.0",-0.083,-0.083,luxus,0.167
+prudentius.hamartigenia,2.299,"sensus, in, quinque, statuo, qui, condo, auctor",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+prudentius.hamartigenia,2.3,"auris, atque, oculus, tum, naris, atque, palatum",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.301,"quaero, inficio, uitiosus, ars, utor",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.302,"ipse, etiam, totus, polleo, qui, corpus, tango",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.303,"palpame, -ne, tener, blandus, ex, fotibus, amb-eo",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+prudentius.hamartigenia,2.304,"pro, dolor, ingenua, natura, occumbo, lex",6,"NaN, -1.0, NaN, 0.0, NaN, 0.5",-0.083,-0.167,,0.0
+prudentius.hamartigenia,2.305,"captiua, traho, regno, libido, doto",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,"captiua, libido",0.4
+prudentius.hamartigenia,2.306,"peruerto, ius, omnis, uigeo, dum, quisquis, habeo",7,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+prudentius.hamartigenia,2.307,"omnipotens, do, studium, in, contrarius, uerto",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.308,"idcirco, -ne, rogo, speculatrix, pupula, mollis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.309,"subdo, palpebra, sum, ut, turpis, semiuirorum",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,turpis,0.167
+prudentius.hamartigenia,2.31,"membrum, theatral, specto, uertigo, fero",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.311,"incestans, miser, foedo, oblectamine, uideo",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,"miser, foedo",0.4
+prudentius.hamartigenia,2.312,"aut, ideo, spiro, medius, ex, arx, cerebrum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.313,"demitto, gemino, socio, foramen, naris",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.314,"ut, bibo, illecebra, malus, concilio, uoluptas",6,"NaN, NaN, NaN, -1.0, NaN, 1.0",0.0,-0.167,illecebra,0.167
+prudentius.hamartigenia,2.315,"qui, pigmentato, meretrix, iacio, improbus, crinis",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,"meretrix, improbus",0.333
+prudentius.hamartigenia,2.316,"num, propter, lyricus, modulamina, uanus, puella",6,"NaN, NaN, 0.0, NaN, -0.5, NaN",-0.083,-0.083,uanus,0.167
+prudentius.hamartigenia,2.317,"neruus, sonus, et, conuiual, caleo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.318,"carmen, nequitia, patulus, deus, addo, auris",6,"0.0, -1.0, NaN, 0.0, NaN, NaN",-0.167,-0.167,nequitia,0.167
+prudentius.hamartigenia,2.319,"per, cauernosos, iubeo, penetraris, meo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.32,"uox, iter, numquid, madidus, sapor, indo, aurum",7,"0.0, 0.0, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+prudentius.hamartigenia,2.321,"uiuo, ob, hic, causa, medicor, ut, ferculum, piger",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.125
+prudentius.hamartigenia,2.322,"ingluuies, uegetamque, gula, ganeonis, inescent",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.323,"per, uarius, gustus, instruo, ut, prandium, duco",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.324,"in, nox, lassetque, grauis, suus, crapula, uenter",7,"NaN, 0.0, NaN, -0.5, NaN, -0.5, NaN",-0.143,-0.143,,0.0
+prudentius.hamartigenia,2.325,"quis, durus, quis, mollis, sum, quis, lenis, quis, horreo",9,"NaN, -0.5, NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.056,-0.056,,0.0
+prudentius.hamartigenia,2.326,"quis, calidus, gelidumue, deus, cognosco, nos",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.327,"ad, tango, uolo, palpandi, interpres, sentio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.328,"at, nos, deliquia, plumaris, et, lineus, textum",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+prudentius.hamartigenia,2.329,"sterno, atque, cutis, fulcrum, adtenuante, polio",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,cutis,0.167
+prudentius.hamartigenia,2.33,"felix, qui, indultis, possum, mediocris, uti",6,"1.0, NaN, NaN, NaN, 0.0, NaN",0.167,0.0,,0.0
+prudentius.hamartigenia,2.331,"munus, parcumque, modus, seruaris, fruor",5,"0.5, NaN, 0.5, NaN, NaN",0.2,0.0,,0.0
+prudentius.hamartigenia,2.332,"qui, locuples, mundus, species, et, amoenus, uenustus",7,"NaN, 1.0, 1.0, NaN, NaN, NaN, 1.0",0.429,0.0,locuples,0.143
+prudentius.hamartigenia,2.333,"et, nitidus, fallo, circumfluus, copia, res",6,"NaN, 0.5, NaN, NaN, 0.5, 0.0",0.167,0.0,fallo,0.167
+prudentius.hamartigenia,2.334,"non, capio, ut, puer, neque, ineptus, addico, amor",8,"NaN, NaN, NaN, 0.0, NaN, -1.0, NaN, 1.0",0.0,-0.125,"ineptus, addico",0.25
+prudentius.hamartigenia,2.335,"qui, sub, adumbro, dulcedo, tristis, uenenum",6,"NaN, NaN, NaN, 0.5, -1.0, -0.5",-0.167,-0.25,dulcedo,0.167
+prudentius.hamartigenia,2.336,"deprehendo, latitaris, bonus, mendacis, operio",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+prudentius.hamartigenia,2.337,"sed, sum, is, quondam, nos, sancio, bonus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+prudentius.hamartigenia,2.338,"principium, res, christus, cum, condo, orbis",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.339,"uideo, enim, deus, sum, bonus, uelut, ipse, moyses",8,"NaN, NaN, 0.0, NaN, 1.0, NaN, NaN, NaN",0.125,0.0,,0.0
+prudentius.hamartigenia,2.34,"historicus, mundus, nasco, testificor",4,"NaN, 1.0, NaN, NaN",0.25,0.0,,0.0
+prudentius.hamartigenia,2.341,"‘uidit’, aio, ‘deus, sum, bonus, quicumque, creauit.’",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+prudentius.hamartigenia,2.342,"hic, sequor, hic, stabilis, concipio, mens, teneo",7,"NaN, NaN, NaN, 0.5, NaN, 0.5, NaN",0.143,0.0,"hic, hic",0.286
+prudentius.hamartigenia,2.343,"inspirante, deus, qui, sancio, uaticinator",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.344,"prodo, antiquus, recolo, primordius, lucus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.345,"sum, bonus, quisquis, deus, et, sapientia, facio",7,"NaN, 1.0, NaN, 0.0, NaN, 1.0, NaN",0.286,0.0,,0.0
+prudentius.hamartigenia,2.346,"conditor, ergo, bonus, pater, sum, et, cum, pater, christus",9,"NaN, NaN, 1.0, 0.0, NaN, NaN, NaN, 0.0, NaN",0.111,0.0,,0.0
+prudentius.hamartigenia,2.347,"nam, deus, atque, deus, pater, sum, et, filius, unus",9,"NaN, 0.0, NaN, 0.0, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.348,"quippe, unus, natura, facio, qui, consto, uterque",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.349,"unus, uoluntas, ius, uirtus, amor",5,"NaN, 0.0, 0.5, 1.0, 1.0",0.5,0.0,,0.0
+prudentius.hamartigenia,2.35,"non, tamen, idcirco, duo, numen, neque, duo, res",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.351,"artifex, quoniam, genus, dissensio, nullus, sum",6,"0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.352,"atque, ideo, nullus, sum, opus, disto, nullus",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+prudentius.hamartigenia,2.353,"ingenium, pario, bonus, omnis, conditor, unus",6,"0.5, NaN, 1.0, NaN, NaN, NaN",0.25,0.0,,0.0
+prudentius.hamartigenia,2.354,"nihil, luteus, de, fons, fluo, neque, turbidus, umor",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.355,"nascor, aut, primus, uiolo, origo, uena",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,uiolo,0.167
+prudentius.hamartigenia,2.356,"sed, dum, liueo, liquo, incorruptus, harena",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+prudentius.hamartigenia,2.357,"praelambit, putrefacio, inter, contagium, sordeo",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,sordeo,0.2
+prudentius.hamartigenia,2.358,"numquid, equus, ferrum, taurus, leo, funis, oliuum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,leo,0.143
+prudentius.hamartigenia,2.359,"in, sui, uis, scelus, cum, formo, habeo",7,"NaN, NaN, 1.0, -1.0, NaN, NaN, NaN",0.0,-0.143,scelus,0.143
+prudentius.hamartigenia,2.36,"qui, iugulo, homo, non, ferrum, causa, furor",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, -1.0",-0.143,-0.143,"iugulo, furor",0.286
+prudentius.hamartigenia,2.361,"sed, manus, sum, neque, equus, uesania, feruidus, circos",8,"NaN, 0.0, NaN, NaN, NaN, NaN, -0.5, NaN",-0.062,-0.062,,0.0
+prudentius.hamartigenia,2.362,"auctor, leuitas, habeo, rabidiue, fragor",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.363,"mens, uulgus, ratio, inops, non, curro, equus",7,"0.5, 0.0, 0.0, -1.0, NaN, NaN, NaN",-0.071,-0.143,,0.0
+prudentius.hamartigenia,2.364,"perfuro, infamis, studium, pereo, utilis, donum",6,"NaN, -1.0, 0.5, NaN, 1.0, 0.0",0.083,-0.167,infamis,0.167
+prudentius.hamartigenia,2.365,"sic, lacedaemonias, oleum, madeo, palaestra",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.366,"nosco, et, placidus, seruio, ad, crimen, sucus",7,"NaN, NaN, 1.0, NaN, NaN, -1.0, NaN",0.0,-0.143,crimen,0.143
+prudentius.hamartigenia,2.367,"inde, per, aerius, pendeo, audacia, funis",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,audacia,0.167
+prudentius.hamartigenia,2.368,"arduus, securis, scando, proscaenium, planta",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.369,"inde, ferus, uolucris, temerarius, corpus, saltus",6,"NaN, -1.0, NaN, -1.0, 0.0, NaN",-0.333,-0.333,"ferus, temerarius",0.333
+prudentius.hamartigenia,2.37,"transeo, mors, inter, discrimino, ludo",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,,0.0
+prudentius.hamartigenia,2.371,"sanguis, humanus, spectaculum, publicus, edo",5,"NaN, 0.0, 0.0, 0.0, NaN",0.0,0.0,spectaculum,0.2
+prudentius.hamartigenia,2.372,"consentio, lego, iubeo, uenal, paro",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,uenal,0.2
+prudentius.hamartigenia,2.373,"supplicium, quo, membrum, homo, discerpo, cruentus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"supplicium, cruentus",0.333
+prudentius.hamartigenia,2.374,"morsus, oblecto, hilaris, de, funus, plebs",6,"NaN, NaN, 1.0, NaN, -0.5, 0.0",0.083,-0.083,"morsus, hilaris",0.333
+prudentius.hamartigenia,2.375,"mille, alius, stolidus, bacchantia, gaudium, mundus",6,"NaN, NaN, -1.0, NaN, 1.0, 1.0",0.167,-0.167,stolidus,0.167
+prudentius.hamartigenia,2.376,"percenseo, pigeo, qui, uerus, obliuiscor, tono",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.377,"humanus, miser, uoluo, error, aeuum",5,"0.0, -1.0, NaN, -1.0, NaN",-0.4,-0.4,miser,0.2
+prudentius.hamartigenia,2.378,"nemo, animus, superus, memoro, genitor, in, altus",7,"-0.5, 0.5, NaN, NaN, NaN, NaN, 0.5",0.071,-0.071,,0.0
+prudentius.hamartigenia,2.379,"excito, ad, caelum, mitto, suspirium, nemo",6,"NaN, NaN, 0.5, NaN, -0.5, -0.5",-0.083,-0.167,,0.0
+prudentius.hamartigenia,2.38,"neque, recolo, apex, solium, natal, ad, ipse",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.381,"respicio, auctor, neque, spes, super, aes, libro",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+prudentius.hamartigenia,2.382,"sed, mens, grauidus, contendo, sterto, cura",6,"NaN, 0.5, 0.0, NaN, NaN, -1.0",-0.083,-0.167,,0.0
+prudentius.hamartigenia,2.383,"indignus, subdo, dominus, pereo, pronus",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,,0.0
+prudentius.hamartigenia,2.384,"diligo, et, curuo, quaero, terrestria, sentio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.385,"hic, pulcher, qui, terra, pario, qui, gloria, confero",8,"NaN, 1.0, NaN, 0.0, NaN, NaN, 0.0, NaN",0.125,0.0,hic,0.125
+prudentius.hamartigenia,2.386,"lubricus, commendo, qui, perniciosus, uoluptas",5,"NaN, NaN, NaN, -1.0, 1.0",0.0,-0.2,perniciosus,0.2
+prudentius.hamartigenia,2.387,"qui, uelut, excio, difflato, puluis, uenio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.388,"praetereo, exemplum, tenuis, qui, transuolo, umbra",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.389,"hic, aeger, anima, morbus, pestis, urgeo",6,"NaN, -1.0, 0.5, -1.0, -1.0, NaN",-0.417,-0.5,"hic, pestis",0.333
+prudentius.hamartigenia,2.39,"praedo, possum, taceo, qui, uis, interfundo",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+prudentius.hamartigenia,2.391,"cor, bibo, homo, sero, ille, medullitus, omnis",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.392,"nequitia, spargo, suus, per, membrum, minister",6,"-1.0, NaN, NaN, NaN, NaN, 0.0",-0.167,-0.167,nequitia,0.167
+prudentius.hamartigenia,2.393,"namque, illic, numerosus, cohors, sub, princeps, talis",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+prudentius.hamartigenia,2.394,"milito, horreo, anima, circumsido, arma",5,"0.0, NaN, 0.5, NaN, 0.0",0.1,0.0,,0.0
+prudentius.hamartigenia,2.395,"ira, superstitio, maeror, discordia, luctus",5,"-1.0, NaN, -1.0, NaN, -1.0",-0.6,-0.6,,0.0
+prudentius.hamartigenia,2.396,"sanguis, ater, sum, uinum, sum, et, sum, aurum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,,0.0
+prudentius.hamartigenia,2.397,"liuor, adulterium, dolus, obtrectatio, furtum",5,"-0.5, -0.5, NaN, -1.0, -1.0",-0.6,-0.6,"adulterium, dolus, furtum",0.6
+prudentius.hamartigenia,2.398,"informo, horreo, facies, habeo, minax",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.399,"ambitio, uentosus, tumeo, doctrina, superbio",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,ambitio,0.2
+prudentius.hamartigenia,2.4,"persono, eloquium, nodus, fraus, abdo, necto",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,fraus,0.167
+prudentius.hamartigenia,2.401,"inde, caninus, forum, latro, facundia, totus",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,latro,0.167
+prudentius.hamartigenia,2.402,"hinc, gero, herculeam, uilis, sapientia, claua",6,"NaN, NaN, NaN, -0.5, 1.0, NaN",0.083,-0.083,uilis,0.167
+prudentius.hamartigenia,2.403,"ostento, suus, uicatim, gymnosophistae",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.404,"inccrat, lapis, fumosus, idololatrix",4,"NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.405,"religio, et, surdus, palleo, aduoluo, ara",6,"1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+prudentius.hamartigenia,2.406,"heu, quantus, mortalis, genus, premo, improbus, hostis",7,"NaN, NaN, -1.0, 0.0, NaN, -1.0, -1.0",-0.429,-0.429,"heu, improbus",0.286
+prudentius.hamartigenia,2.407,"armiger, quantus, ferratus, satelles, ducto",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,satelles,0.2
+prudentius.hamartigenia,2.408,"bellum, gero, quantus, uinco, dicio, triumpho",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.409,"surgo, in, auxilium, chananeus, atque, agmen, denset",7,"NaN, NaN, 0.0, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+prudentius.hamartigenia,2.41,"cassis, terribilis, saetaris, pondero, mentum",5,"0.0, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+prudentius.hamartigenia,2.411,"concutio, dexter, grauis, cum, cuspis, quasso",6,"NaN, NaN, -0.5, NaN, -1.0, NaN",-0.25,-0.25,,0.0
+prudentius.hamartigenia,2.412,"at, alius, de, pars, furo, exercitus, ardeo",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,furo,0.143
+prudentius.hamartigenia,2.413,"rex, amorraei, tum, mille, gergeseorum",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.414,"effundo, acies, totus, uolito, campus",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.415,"eminus, hic, ferio, confligo, comminus, ille",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+prudentius.hamartigenia,2.416,"ecce, zebusiacae, ferueo, ad, proelio, turma",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.417,"aureus, telum, qui, de, sanguis, tingo, draco",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+prudentius.hamartigenia,2.418,"mortifero, splendor, mico, radio",4,"NaN, 1.0, NaN, NaN",0.25,0.0,,0.0
+prudentius.hamartigenia,2.419,"neco, neque, non, terrificus, pila, armaris, caterua",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,terrificus,0.143
+prudentius.hamartigenia,2.42,"tu, cittaee, iuuo, sed, gens, pherezaea, sagitta",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.143
+prudentius.hamartigenia,2.421,"insulto, uirtus, par, sed, dispar, ferrum",6,"NaN, 1.0, 0.5, NaN, 0.5, NaN",0.333,0.0,,0.0
+prudentius.hamartigenia,2.422,"posterus, cuneus, rex, promoueo, euuaeorum",5,"0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.423,"squamosum, thoraca, gero, de, pello, coluber",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.424,"hic, subnixus, uis, scelus, peruerto, potestas",6,"NaN, NaN, 1.0, -1.0, NaN, 0.5",0.083,-0.167,"hic, scelus",0.333
+prudentius.hamartigenia,2.425,"edomat, inualidus, mens, qui, simplicitas",5,"NaN, -1.0, 0.5, NaN, 0.5",0.0,-0.2,,0.0
+prudentius.hamartigenia,2.426,"indocilis, bellus, rudo, sub, foedus, fallo",6,"NaN, 1.0, NaN, NaN, -1.0, NaN",0.0,-0.167,fallo,0.167
+prudentius.hamartigenia,2.427,"tristis, amicitia, primus, socio, agmen, credo",6,"-1.0, 1.0, 0.5, NaN, -1.0, NaN",-0.083,-0.333,,0.0
+prudentius.hamartigenia,2.428,"mammoneamque, fides, pax, sub, amor, sequor",6,"NaN, 1.0, 0.5, NaN, 1.0, NaN",0.417,0.0,,0.0
+prudentius.hamartigenia,2.429,"mox, facilis, ad, uinclum, rapio, iugum, durus, uolo",8,"NaN, 0.5, NaN, NaN, NaN, NaN, -0.5, NaN",0.0,-0.062,uinclum,0.125
+prudentius.hamartigenia,2.43,"addico, subeo, ceruix, et, nebulo",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,addico,0.2
+prudentius.hamartigenia,2.431,"spiritus, iussum, seruio, ferox, opto",5,"0.0, NaN, NaN, -1.0, NaN",-0.2,-0.2,ferox,0.2
+prudentius.hamartigenia,2.432,"illesuperuacuis, augeo, patrimonium, fundo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.433,"finitimus, inhio, contemno, limes, agellus",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,finitimus,0.2
+prudentius.hamartigenia,2.434,"duco, innecto, manicae, et, mille, catena",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,catena,0.167
+prudentius.hamartigenia,2.435,"ante, triumphalis, currus, post, tergum, reuincio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.436,"neque, sui, barbaricus, addico, sentio, habena",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,addico,0.167
+prudentius.hamartigenia,2.437,"hic, qui, uentosus, scando, fastigium, fama",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,hic,0.167
+prudentius.hamartigenia,2.438,"inflaturque, caueo, pompa, popularis, honor",5,"NaN, NaN, 0.5, 0.0, 1.0",0.3,0.0,popularis,0.2
+prudentius.hamartigenia,2.439,"qui, superus, solidus, bonus, puto, ambitio",6,"NaN, NaN, 0.0, 1.0, NaN, NaN",0.167,0.0,ambitio,0.167
+prudentius.hamartigenia,2.44,"cresco, succedo, praeco, uox, tremo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.441,"exanimaris, reus, miserum, in, corpus, fascis",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,reus,0.167
+prudentius.hamartigenia,2.442,"frango, terribilis, lex, exerceo, securis",5,"NaN, -0.5, 0.5, NaN, NaN",0.0,-0.1,,0.0
+prudentius.hamartigenia,2.443,"in, laqueus, iam, collum, do, iam, compedes, durus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.062,-0.062,,0.0
+prudentius.hamartigenia,2.444,"necto, et, pes, seruilis, uinculum, limo",6,"NaN, NaN, 0.0, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+prudentius.hamartigenia,2.445,"credo, captiuus, mortalis, hosticus, qui, iam",6,"NaN, -1.0, -1.0, -1.0, NaN, NaN",-0.5,-0.5,captiuus,0.167
+prudentius.hamartigenia,2.446,"damno, cohibeo, ergastulum, qui, famulo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,damno,0.2
+prudentius.hamartigenia,2.447,"poena, uirtus, non, intellego, coerceo",5,"-1.0, 1.0, NaN, NaN, NaN",0.0,-0.2,"poena, coerceo",0.4
+prudentius.hamartigenia,2.448,"hic, ille, sum, babylo, -ne, hic, transmigratio, noster",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, hic",0.25
+prudentius.hamartigenia,2.449,"gens, et, horribilis, uictoria, princeps, assur",6,"0.0, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,horribilis,0.167
+prudentius.hamartigenia,2.45,"carmen, luctifico, quam, defleo, hieremias",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.451,"orbo, proprius, ululo, ciuis, urbs",5,"NaN, 0.0, NaN, 0.5, 0.5",0.2,0.0,,0.0
+prudentius.hamartigenia,2.452,"num, lateo, aut, dubius, sum, anima, de, semen, iacob",9,"NaN, NaN, NaN, -0.5, NaN, 0.5, NaN, NaN, NaN",0.0,-0.056,,0.0
+prudentius.hamartigenia,2.453,"exsilium, gentilis, patior, qui, persica, regnum",6,"-1.0, 0.5, NaN, NaN, NaN, 0.0",-0.083,-0.167,,0.0
+prudentius.hamartigenia,2.454,"captiua, retineo, atque, in, suus, foedero, cogo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"captiua, foedero",0.286
+prudentius.hamartigenia,2.455,"illic, natalis, desuescunt, uiuo, ritus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.456,"mos, et, patrius, exuo, in, barbarum, ius",7,"0.5, NaN, 0.0, NaN, NaN, NaN, 0.5",0.143,0.0,barbarum,0.143
+prudentius.hamartigenia,2.457,"degenero, lingua, nouus, uestis, sequor",5,"NaN, -0.5, 1.0, NaN, NaN",0.1,-0.1,uestis,0.2
+prudentius.hamartigenia,2.458,"de, profano, disco, sordesco, cultus",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,,0.0
+prudentius.hamartigenia,2.459,"nutricemque, aboleo, petulans, e, pectus, sio, -ne",7,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.071,-0.071,petulans,0.143
+prudentius.hamartigenia,2.46,"iam, patria, memini, pigeo, iam, mysticus, frango",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.461,"organum, et, externus, laudo, anathema, regnum",6,"0.0, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.462,"nonne, sum, bonus, saeuus, memphitidis, aula",6,"NaN, NaN, 1.0, -1.0, NaN, NaN",0.0,-0.167,saeuus,0.167
+prudentius.hamartigenia,2.463,"imperium, tolero, pater, penitus, sinister",5,"0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.464,"ad-sedeo, focus, pono, pharaonis, iniquus",5,"NaN, 0.0, NaN, NaN, -1.0",-0.2,-0.2,iniquus,0.2
+prudentius.hamartigenia,2.465,"sub, pes, limus, et, palea, seruio, paro",7,"NaN, 0.0, -0.5, NaN, NaN, NaN, NaN",-0.071,-0.071,"limus, palea",0.286
+prudentius.hamartigenia,2.466,"caro, et, immodicus, spurcus, ructamine, crudus",6,"0.0, NaN, -1.0, NaN, NaN, -1.0",-0.333,-0.333,"immodicus, spurcus",0.333
+prudentius.hamartigenia,2.467,"quo, tantus, auxilium, per, prodigialia, signum",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.468,"effundo, dominus, populus, dum, fors, rebello",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,rebello,0.167
+prudentius.hamartigenia,2.469,"seruo, ops, inmerita, uinclum, dum, subdo, collum",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,uinclum,0.143
+prudentius.hamartigenia,2.47,"soluo, et, aegyptus, uirga, serpo, coerceo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"serpo, coerceo",0.333
+prudentius.hamartigenia,2.471,"quis, iuuo, aequoreus, pelagus, cedo, profundum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,profundum,0.167
+prudentius.hamartigenia,2.472,"puluereus, calceo, uia, cum, conscius, pontus",6,"NaN, NaN, 0.0, NaN, -0.5, 0.0",-0.083,-0.083,conscius,0.167
+prudentius.hamartigenia,2.473,"saxum, sub, ignosco, pateo, prodeo, caelum",6,"0.0, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+prudentius.hamartigenia,2.474,"aruo, et, medium, sitio, in, gurges, limus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,"gurges, limus",0.286
+prudentius.hamartigenia,2.475,"si, uictor, uirtus, deus, medius, tenebrae",6,"NaN, NaN, 1.0, 0.0, 0.0, NaN",0.167,0.0,,0.0
+prudentius.hamartigenia,2.476,"lux, columnaris, scindo, exercitus, olim",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.477,"perdo, inuenio, uallo, botryo, opimus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.478,"si, nescio, uersaris, solus, qui, mel, perenni",7,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,,0.0
+prudentius.hamartigenia,2.479,"glaeba, fluo, niueus, permisceo, lacteus, riuus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"glaeba, niueus",0.333
+prudentius.hamartigenia,2.48,"si, domo, iericho, -ne, lituus, atque, aer, canorus",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.481,"rursus, in, antiqui, patior, consurgo, murus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.482,"si, ripa, refluo, iordanis, pello, et, iam",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"refluo, iordanis",0.286
+prudentius.hamartigenia,2.483,"desero, ad-scribo, dimetior, in, iugerum, sors",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+prudentius.hamartigenia,2.484,"denique, si, struo, tantus, sudor, urbs",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+prudentius.hamartigenia,2.485,"et, qui, nubigena, transcendo, culmen, nimbus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.486,"defensaris, nequeo, si, nescio, quis, lapis, ille, sum",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.487,"hostis, obsisto, et, inexpugnabilis, turris",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,,0.0
+prudentius.hamartigenia,2.488,"praesidium, qui, non, aeratus, machina, rostrum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.489,"arieto, insiliens, neque, ferreus, uerbero, quasso",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uerbero,0.167
+prudentius.hamartigenia,2.49,"angulus, hic, porta, in, caput, sum, hic, contineo, omnis",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"hic, hic",0.222
+prudentius.hamartigenia,2.491,"saxum, series, construo, limen, firmo",5,"0.0, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+prudentius.hamartigenia,2.492,"qui, qui, rite, suus, per, propugnaculum, murus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.493,"nosco, insero, sequor, atque, suus, moenia, uallo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.494,"praecingat, triplex, celsus, sto, eminus, arx",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.495,"fretus, amor, petra, caueo, et, peruigil, arma",7,"0.5, 1.0, NaN, NaN, NaN, 0.0, 0.0",0.214,0.0,,0.0
+prudentius.hamartigenia,2.496,"non, ille, regina, tyri, non, accola, magnus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.497,"euphratis, parthus, rapio, non, decolo, indus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.498,"tempus, pinnatus, redimio, niger, sagitta",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.499,"quin, si, fulmineus, cogo, ad, bellum, gigantas",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,fulmineus,0.143
+prudentius.hamartigenia,2.5,"allophilus, tuus, castrum, uolo, deleo, tyrannus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tyrannus,0.167
+prudentius.hamartigenia,2.501,"tueor, sum, neque, tu, firmo, statio, moueo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+prudentius.hamartigenia,2.502,"ipse, charo, -ne, mundus, numen, marcio, ipse",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+prudentius.hamartigenia,2.503,"qui, rego, aerius, uanus, sub, sol, tenebrae",7,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,uanus,0.143
+prudentius.hamartigenia,2.504,"nam, uanus, quisquis, sol, aspicio, ex, elementum",7,"NaN, -0.5, NaN, NaN, NaN, NaN, 0.5",0.0,-0.071,uanus,0.143
+prudentius.hamartigenia,2.505,"cunctus, solubilis, fluxoque, creamine, consto",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.506,"fallo, creatura, nisi, doctor, apostolus, omnis",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,fallo,0.167
+prudentius.hamartigenia,2.507,"subicio, uanus, non, sponte, labor, ordior",6,"NaN, -0.5, NaN, NaN, -0.5, NaN",-0.167,-0.167,uanus,0.167
+prudentius.hamartigenia,2.508,"periurus, ingemo, misero, seruio, latro",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,"periurus, misero, latro",0.6
+prudentius.hamartigenia,2.509,"‘errat’, aio, ‘qui, luctame, -ne, cum, sanguis, nos",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.51,"et, carnis, et, uenio, ferueo, et, uitiosus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.511,"felle, puto, calidus, anima, peccaris, medulla",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.512,"non, mens, suus, membrum, premo, neque, ferreus, uirtus",8,"NaN, 0.5, NaN, NaN, NaN, NaN, NaN, 1.0",0.188,0.0,,0.0
+prudentius.hamartigenia,2.513,"oppugno, sensus, liquidus, bellus, lacesso",5,"NaN, 0.5, NaN, 1.0, NaN",0.3,0.0,,0.0
+prudentius.hamartigenia,2.514,"sed, cum, spiritus, tenebrosus, nox, dius",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.515,"congredimur, qui, dominatibus, umidus, iste",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.516,"et, piger, densus, nebulis, obtempero, aer.’",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.517,"scilicet, hic, medius, caelum, inter, et, infimus, terra",8,"NaN, NaN, 0.0, 0.5, NaN, NaN, 0.0, 0.0",0.062,0.0,hic,0.125
+prudentius.hamartigenia,2.518,"qui, pateo, et, uacuus, nubes, suspendo, hiatus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hiatus,0.143
+prudentius.hamartigenia,2.519,"frenum, potestas, uariaris, sustineo, atque, sub",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.52,"princeps, belia, rector, horreo, iniquus",5,"0.5, NaN, NaN, NaN, -1.0",-0.1,-0.2,iniquus,0.2
+prudentius.hamartigenia,2.521,"hic, conluctamur, praedo, ut, sacer, nos",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,hic,0.167
+prudentius.hamartigenia,2.522,"ora, apostolici, testis, sententia, prodeo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.523,"nemo, habitus, natura, aut, irritamen, pecco",6,"-0.5, NaN, 0.0, NaN, 0.5, NaN",0.0,-0.083,,0.0
+prudentius.hamartigenia,2.524,"corpus, accuso, facilis, sum, frenaris, rebello",6,"0.0, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,rebello,0.167
+prudentius.hamartigenia,2.525,"afficio, caro, nimius, retundo, pello",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,nimius,0.2
+prudentius.hamartigenia,2.526,"materia, fragilis, et, uiscera, uinco, domaris",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.527,"quippe, animus, longus, praesto, utpote, superus",6,"NaN, 0.5, 0.0, NaN, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.528,"aether, demitto, subicio, si, uolo, artus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.529,"imperium, quassaris, grauis, iubeo, sero",5,"0.0, NaN, -0.5, NaN, NaN",-0.1,-0.1,,0.0
+prudentius.hamartigenia,2.53,"do, regno, dominus, uolo, nullus, resisto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.531,"magnus, insum, uolo, ille, homo, qui, flatilis, uirus",8,"0.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.532,"ingero, et, tenuis, tenuis, ferio, aer, mens",7,"NaN, NaN, 0.0, 0.0, NaN, 0.0, 0.5",0.071,0.0,,0.0
+prudentius.hamartigenia,2.533,"parthica, non, aequus, uenio, transcurro, harundo",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.534,"qui, iter, nullus, potio, sum, comprehendo, uideo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.535,"praepes, enim, uolucris, dum, penna, transuolo, aura",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+prudentius.hamartigenia,2.536,"improuide, uenio, neque, strido, nuntio, ante",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.537,"aduenio, letum, quam, pectus, abdo, rumpo",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+prudentius.hamartigenia,2.538,"securus, penetro, medico, uulnus, uita",5,"1.0, NaN, NaN, -1.0, 0.0",0.0,-0.2,,0.0
+prudentius.hamartigenia,2.539,"sed, magis, aligera, sum, magis, et, medicor, sagitta",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.54,"quam, iacio, umbrosus, dominatio, lubricus, mundus",6,"NaN, NaN, NaN, 0.0, NaN, 1.0",0.167,0.0,,0.0
+prudentius.hamartigenia,2.541,"eludo, excutio, oculus, calamus, uolo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.542,"praepeto, transcurro, chordus, penetralis, ago",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.543,"neque, segnis, natura, anima, sum, aut, tardus, caueo",8,"NaN, NaN, 0.0, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+prudentius.hamartigenia,2.544,"uulnus, ignio, quoniam, deus, indo, ille",6,"-1.0, NaN, NaN, 0.0, NaN, NaN",-0.167,-0.167,,0.0
+prudentius.hamartigenia,2.545,"ingenium, purus, sapio, subtilis, serenus",5,"0.5, 1.0, NaN, NaN, NaN",0.3,0.0,,0.0
+prudentius.hamartigenia,2.546,"mobilis, sollicitus, uelox, agitabilis, acutus",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,,0.0
+prudentius.hamartigenia,2.547,"factor, modo, castus, suus, ueneror, et, ipse",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.548,"milito, atque, uinco, proculco, sobrius, mundus",6,"0.0, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,sobrius,0.167
+prudentius.hamartigenia,2.549,"nihil, de, pestifer, ops, aut, falsificatis",6,"NaN, NaN, -1.0, 0.0, NaN, NaN",-0.167,-0.167,pestifer,0.167
+prudentius.hamartigenia,2.55,"terra, spolium, stultus, oblectamine, libo",5,"0.0, NaN, -1.0, NaN, NaN",-0.2,-0.2,stultus,0.2
+prudentius.hamartigenia,2.551,"ne, sub, fascis, iaceo, alienus, et, dedo, regnum",8,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN, 0.0",-0.062,-0.062,iaceo,0.125
+prudentius.hamartigenia,2.552,"non, queo, arguo, hostis, uitaris, sagitto",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+prudentius.hamartigenia,2.553,"sed, quis, ego, omnis, malus, mundus, homo, malignus",8,"NaN, NaN, NaN, NaN, -1.0, 1.0, 0.0, -1.0",-0.125,-0.25,,0.0
+prudentius.hamartigenia,2.554,"hostis, ad, inuidia, detorqueo, cum, malus, noster",7,"-1.0, NaN, -1.0, NaN, NaN, -1.0, NaN",-0.429,-0.429,inuidia,0.143
+prudentius.hamartigenia,2.555,"ex, noster, concretum, animus, genus, et, caput, et, uis",9,"NaN, NaN, 0.0, 0.5, 0.0, NaN, 0.0, NaN, 1.0",0.167,0.0,,0.0
+prudentius.hamartigenia,2.556,"quis, sum, quis, ualeo, sumo, de, cor, pareo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.557,"ille, quidem, fomes, noster, et, causa, malus, sum",8,"NaN, NaN, NaN, NaN, NaN, 0.0, -1.0, NaN",-0.125,-0.125,,0.0
+prudentius.hamartigenia,2.558,"sed, tantus, turbo, possum, aut, fallo, quantus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,fallo,0.143
+prudentius.hamartigenia,2.559,"nos, uolo, qui, decrepitus, suggero, leo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,leo,0.167
+prudentius.hamartigenia,2.56,"armamenta, do, frigeo, ferus, futtilis, frendo",6,"NaN, NaN, NaN, -1.0, -1.0, NaN",-0.333,-0.333,"ferus, frendo",0.333
+prudentius.hamartigenia,2.561,"humanus, genus, ni, per, suffragium, glisco",6,"0.0, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.562,"gignimus, omnis, malus, proprius, de, corpus, nos",7,"NaN, NaN, -1.0, 0.0, NaN, 0.0, NaN",-0.143,-0.143,,0.0
+prudentius.hamartigenia,2.563,"ut, gigno, dauid, alius, pater, bonus, unus",7,"NaN, NaN, NaN, NaN, 0.0, 1.0, NaN",0.143,0.0,,0.0
+prudentius.hamartigenia,2.564,"crimen, abessalo, -ne, taeter, pater, ille, sed, unus",8,"-1.0, NaN, NaN, -1.0, 0.0, NaN, NaN, NaN",-0.25,-0.25,"crimen, taeter",0.25
+prudentius.hamartigenia,2.565,"innocuus, inter, suboles, gigno, patricidam",5,"0.5, NaN, 0.5, NaN, NaN",0.2,0.0,,0.0
+prudentius.hamartigenia,2.566,"audeo, in, auctor, genus, qui, stringo, ferrum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.567,"ab, pietas, signum, contrarius, signum, paternus",6,"NaN, 1.0, 0.0, NaN, 0.0, NaN",0.167,0.0,,0.0
+prudentius.hamartigenia,2.568,"ago, et, unus, committo, sanguis, arma",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.569,"noster, itidem, dirus, uro, propago, nascor",6,"NaN, NaN, -1.0, NaN, 0.0, NaN",-0.167,-0.167,dirus,0.167
+prudentius.hamartigenia,2.57,"pectus, parturio, uerro, qui, protinus, in, nos",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.571,"morsus, insuescunt, gignentum, uiuo, poenio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,morsus,0.2
+prudentius.hamartigenia,2.572,"depopulor, enim, nimium, fecundus, parens",5,"NaN, NaN, 0.0, 1.0, 0.5",0.3,0.0,,0.0
+prudentius.hamartigenia,2.573,"uiscera, et, interitus, genital, stirps, alo",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+prudentius.hamartigenia,2.574,"progenies, uerus, ille, suus, rex, utpote, summus",7,"0.0, 0.5, NaN, NaN, 0.0, NaN, NaN",0.071,0.0,,0.0
+prudentius.hamartigenia,2.575,"atque, deus, uates, pareo, et, uirgo, auctor",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,uirgo,0.143
+prudentius.hamartigenia,2.576,"tristis, atque, pius, uario, ut, solomonis",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+prudentius.hamartigenia,2.577,"frater, abessalo, -ne, sero, suus, crimen, iustus",7,"0.0, NaN, NaN, NaN, NaN, -1.0, 1.0",0.0,-0.143,crimen,0.143
+prudentius.hamartigenia,2.578,"pignus, dulcis, domus, turbo, amaris",5,"0.0, 0.5, 0.0, NaN, NaN",0.1,0.0,,0.0
+prudentius.hamartigenia,2.579,"nos, dignus, solomone, nihil, nos, degener, inpleo",7,"NaN, 1.0, NaN, NaN, NaN, -1.0, NaN",0.0,-0.143,,0.0
+prudentius.hamartigenia,2.58,"solus, abessalo, -ne, lacero, pius, uiscera, ferrum",7,"-0.5, NaN, NaN, NaN, NaN, NaN, NaN",-0.071,-0.071,lacero,0.143
+prudentius.hamartigenia,2.581,"si, licet, ex, ethicis, quisquam, praesumo, uel, si",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.582,"de, physicus, exemplum, aliquis, sic, uipera, ut, aio",8,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.583,"dens, cmoritur, fundo, per, uiscera, proles",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.584,"mater, mors, suus, non, sexu, fertilis, aut, de",8,"0.0, -1.0, NaN, NaN, NaN, 1.0, NaN, NaN",0.0,-0.125,,0.0
+prudentius.hamartigenia,2.585,"concubo, distendo, uterus, sed, cum, caleo, ignis",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,concubo,0.143
+prudentius.hamartigenia,2.586,"percio, femineus, morior, obscenus, maritus",5,"NaN, -0.5, NaN, -1.0, 0.0",-0.3,-0.3,maritus,0.2
+prudentius.hamartigenia,2.587,"os, sitio, patulus, caput, insero, ille, trilingue",7,"0.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.588,"coniunx, in, fauces, atque, osculum, feruidus, intro",7,"-0.5, NaN, NaN, NaN, 0.0, -0.5, NaN",-0.143,-0.143,,0.0
+prudentius.hamartigenia,2.589,"insinuo, ora, coeo, genital, uenenum",5,"NaN, NaN, NaN, NaN, -0.5",-0.1,-0.1,,0.0
+prudentius.hamartigenia,2.59,"nubo, uoluptas, uis, saucius, mordicus, haurio",6,"NaN, 1.0, 1.0, NaN, NaN, NaN",0.333,0.0,nubo,0.167
+prudentius.hamartigenia,2.591,"frango, amator, blandus, inter, foedero, guttur",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,"amator, foedero",0.333
+prudentius.hamartigenia,2.592,"infusasque, bibo, carus, pereo, saliuo",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+prudentius.hamartigenia,2.593,"hic, pater, illecebra, consumo, at, genitrix",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"hic, illecebra",0.333
+prudentius.hamartigenia,2.594,"claudo, neco, suboles, nam, postquam, semen, adoleo",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+prudentius.hamartigenia,2.595,"incipio, calidus, corpusculum, paruus, latebra",5,"NaN, NaN, NaN, 0.0, -0.5",-0.1,-0.1,,0.0
+prudentius.hamartigenia,2.596,"serpo, motatumque, uterus, uibro, ferio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,serpo,0.2
+prudentius.hamartigenia,2.597,"aestuo, internus, pietas, crimen, mater",5,"NaN, NaN, 1.0, -1.0, 0.0",0.0,-0.2,"aestuo, crimen",0.4
+prudentius.hamartigenia,2.598,"carnifex, gemo, damno, conscius, sexus",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,"carnifex, damno, conscius",0.6
+prudentius.hamartigenia,2.599,"progenies, saepio, rumpo, obstaculum, pario",5,"0.0, NaN, NaN, -0.5, NaN",-0.1,-0.1,,0.0
+prudentius.hamartigenia,2.6,"nam, quia, nascor, nullus, pateo, exitus, aluus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.601,"fetus, in, lux, niteo, excrucio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,excrucio,0.2
+prudentius.hamartigenia,2.602,"carpo, atque, uia, lacero, per, ilia, pando",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,lacero,0.143
+prudentius.hamartigenia,2.603,"tandem, obeo, altrix, prodeo, grex, ille, dolor",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,altrix,0.143
+prudentius.hamartigenia,2.604,"ingredior, uita, uix, eluctor, et, orior",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.605,"per, scelus, exculpens, lambo, natal, cadauer",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,scelus,0.167
+prudentius.hamartigenia,2.606,"repto, catulis, proles, dum, nascor, orbo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,repto,0.167
+prudentius.hamartigenia,2.607,"haud, experior, dies, miser, nisi, postumus, mater",7,"NaN, NaN, 0.0, -1.0, NaN, NaN, 0.0",-0.143,-0.143,miser,0.143
+prudentius.hamartigenia,2.608,"non, dispar, noster, concipio, mens, ab, os",7,"NaN, 0.5, NaN, NaN, 0.5, NaN, 0.0",0.143,0.0,,0.0
+prudentius.hamartigenia,2.609,"uipereus, infundo, sic, con-bibo, ille, uenenum",6,"0.0, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,uipereus,0.167
+prudentius.hamartigenia,2.61,"coniunx, beliade, sic, osculum, deuoro, haurio",6,"-0.5, NaN, NaN, 0.0, NaN, NaN",-0.083,-0.083,,0.0
+prudentius.hamartigenia,2.611,"interior, rapio, sic, felle, libido, ardeo",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,libido,0.167
+prudentius.hamartigenia,2.612,"in-pleo, uitium, pereo, misceo, marito",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,marito,0.2
+prudentius.hamartigenia,2.613,"tunc, praegno, letal, genus, concipio, malignus",6,"NaN, NaN, NaN, 0.0, NaN, -1.0",-0.167,-0.167,,0.0
+prudentius.hamartigenia,2.614,"fero, opus, ingenium, de, semen, conplicis, hydrus",7,"NaN, 0.5, 0.5, NaN, NaN, NaN, NaN",0.143,0.0,hydrus,0.143
+prudentius.hamartigenia,2.615,"qui, poenio, pensaris, prior, suus, facio, necesse, sum",8,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0, NaN",0.062,0.0,,0.0
+prudentius.hamartigenia,2.616,"corrumpo, pro, stuprum, anima, pro, orbis, per-emo",7,"NaN, NaN, -1.0, 0.5, NaN, NaN, NaN",-0.071,-0.143,"stuprum, per-emo",0.286
+prudentius.hamartigenia,2.617,"ipse, porro, anima, crudelis, uulnero, carpo",6,"NaN, NaN, 0.5, -1.0, NaN, NaN",-0.083,-0.167,crudelis,0.167
+prudentius.hamartigenia,2.618,"mille, puerperium, suboles, dum, parturio, ex, sui",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+prudentius.hamartigenia,2.619,"contra, natura, gigno, peccamina, creber",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.62,"scilicet, et, pasco, maternus, funus, nascor",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+prudentius.hamartigenia,2.621,"hinc, ille, sum, dominus, iustus, obiurgatio, christus",7,"NaN, NaN, NaN, NaN, 1.0, -1.0, NaN",0.0,-0.143,,0.0
+prudentius.hamartigenia,2.622,"‘no, -ne, -ne, pater, daemo, -ne, tu, increpo, peccator",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.111,-0.111,"tu, increpo, peccator",0.333
+prudentius.hamartigenia,2.623,"concubo, caro, semen, sitio, iniquus",5,"NaN, 0.0, NaN, NaN, -1.0",-0.2,-0.2,"concubo, iniquus",0.4
+prudentius.hamartigenia,2.624,"tu, genuit.’, sancio, lector, percenseo, uolume, -ne",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.143
+prudentius.hamartigenia,2.625,"qui, loquor, inuenio, dominus, dico, profanus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,profanus,0.167
+prudentius.hamartigenia,2.626,"uerus, obiecto, mortalis, ‘ex, pater, nam, tu",7,"0.5, NaN, -1.0, NaN, 0.0, NaN, NaN",-0.071,-0.143,tu,0.143
+prudentius.hamartigenia,2.627,"sum, meus, gigno, pietas’, aio, ‘ipsa, probo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.628,"atque, pietas, opus.’, pro, caecus, libido, quis, hic, sum",9,"NaN, 1.0, NaN, NaN, -1.0, -0.5, NaN, NaN, NaN",-0.056,-0.167,"libido, hic",0.222
+prudentius.hamartigenia,2.629,"qui, cum, sui, thalamus, despondeo, mens, bonus, iustus",8,"NaN, NaN, NaN, NaN, NaN, 0.5, 1.0, 1.0",0.312,0.0,,0.0
+prudentius.hamartigenia,2.63,"nosco, in, torus, rex, nubo, uoco",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,nubo,0.167
+prudentius.hamartigenia,2.631,"et, rex, semper, iuuenis, senium, repello",6,"NaN, 0.0, NaN, NaN, -0.5, NaN",-0.083,-0.083,,0.0
+prudentius.hamartigenia,2.632,"diuinus, decus, aeternus, seruo, in, os",6,"0.5, NaN, 0.5, NaN, NaN, 0.0",0.167,0.0,,0.0
+prudentius.hamartigenia,2.633,"malo, adulterium, fuluus, et, sui, munus, uilis",7,"NaN, -0.5, NaN, NaN, NaN, 0.5, -0.5",-0.071,-0.143,"adulterium, uilis",0.286
+prudentius.hamartigenia,2.634,"uendo, nocticolae, spurcis, conplexibus, indo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,uendo,0.2
+prudentius.hamartigenia,2.635,"aspernor, deus, fundo, per, uirgo, artus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"aspernor, uirgo",0.333
+prudentius.hamartigenia,2.636,"progenies, dulcis, uoco, in, fornix, nascor",6,"0.0, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.637,"sentio, quam, contra, moueo, pellacia, lito",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.638,"quo, dens, obnitor, spinosus, calumnia, pugno",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+prudentius.hamartigenia,2.639,"nos, lacesso, uoco, ad, luctamen, uerus",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+prudentius.hamartigenia,2.64,"‘si, non, uolo, deus, sum, malus, cur, non, uetat.’, inquam",10,"NaN, NaN, NaN, 0.0, NaN, -1.0, NaN, NaN, NaN, NaN",-0.1,-0.1,,0.0
+prudentius.hamartigenia,2.641,"‘nil, refero, auctor, sum, factorque, malus",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+prudentius.hamartigenia,2.642,"annus, opus, in, uitium, scelus, pulcher, uerto",7,"0.0, 0.5, NaN, -1.0, -1.0, 1.0, NaN",-0.071,-0.286,scelus,0.143
+prudentius.hamartigenia,2.643,"cum, possum, prohibeo, sino, qui, si, uolo, omnis",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.644,"innocuus, ago, omnipotens, neque, sancio, uoluntas",6,"0.5, NaN, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+prudentius.hamartigenia,2.645,"degeneret, facio, neque, sui, manus, inquino, ullus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,inquino,0.143
+prudentius.hamartigenia,2.646,"condo, ergo, malus, dominus, qui, specto, ab, altus",8,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, 0.5",-0.062,-0.125,,0.0
+prudentius.hamartigenia,2.647,"et, patior, fio, probo, tamquam, ipse, creo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.648,"ipse, creo, enim, qui, cum, discludo, possum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.649,"non, aboleo, longus, sino, grassarier, usu.’",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.65,"damno, auris, pater, almus, meus, et, claudeo, meo",8,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,damno,0.125
+prudentius.hamartigenia,2.651,"obbrutescentis, capio, ne, peruius, talis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.652,"concipio, flecto, sonus, sum, perdo, tantus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.653,"exstinctus, uita, officium, de, pars, cerebrum",6,"NaN, 0.0, 0.5, NaN, 0.0, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.654,"inmunem, modo, sui, anima, expertemque, nefandus",6,"NaN, NaN, NaN, 0.5, NaN, -1.0",-0.083,-0.167,nefandus,0.167
+prudentius.hamartigenia,2.655,"audio, felix, stolidus, conseruo, ab, auris",6,"NaN, 1.0, -1.0, NaN, NaN, NaN",0.0,-0.167,stolidus,0.167
+prudentius.hamartigenia,2.656,"quis, fero, hic, inicio, deus, conuicior, qui, sui",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.125
+prudentius.hamartigenia,2.657,"diuinus, memini, praecello, nobilitas",4,"0.5, NaN, NaN, 1.0",0.375,0.0,,0.0
+prudentius.hamartigenia,2.658,"munus, multus, ut, taceo, uel, solus, benignus",7,"0.5, 0.0, NaN, NaN, NaN, -0.5, 1.0",0.143,-0.071,,0.0
+prudentius.hamartigenia,2.659,"res, probo, sum, deus, ueto, qui, amor, per-emo",8,"0.0, NaN, NaN, 0.0, NaN, NaN, 1.0, NaN",0.125,0.0,per-emo,0.125
+prudentius.hamartigenia,2.66,"excito, e, tumulus, homo, regnum, per, aeuum",7,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.661,"particeps, iubeo, sum, suus, qui, si, sum, auctor",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.662,"seruatorque, malus, numquam, post, damno, salus",6,"NaN, -1.0, NaN, NaN, NaN, 1.0",0.0,-0.167,damno,0.167
+prudentius.hamartigenia,2.663,"peccantumque, obeo, rediuiuam, fero, medela",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.664,"uolo, et, amitto, ops, restauraris, secundus",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.665,"labor, homo, seruaris, deus, sum, meritum, pereo, iste",8,"-0.5, 0.0, NaN, 0.0, NaN, 1.0, NaN, NaN",0.062,-0.062,,0.0
+prudentius.hamartigenia,2.666,"ille, aboleo, pereo, opus, mereo, resoluo",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.667,"argumentum, ingens, dominus, qui, talis, praesto",6,"0.0, -0.5, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+prudentius.hamartigenia,2.668,"nolo, malus, neque, qui, post, abluo, ante, probaris",8,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.125,-0.125,,0.0
+prudentius.hamartigenia,2.669,"‘inuito, -ne, aliquis, potio, sum, peccaris, tono",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.67,"qui, facilis, sum, in, cor, homo, con-pono, sensus",8,"NaN, 0.5, NaN, NaN, NaN, 0.0, NaN, 0.5",0.125,0.0,,0.0
+prudentius.hamartigenia,2.671,"qui, libet, fibra, omnis, animaris",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.672,"pudicus, pulsus, et, totus, uenio, infundo, honestum.’",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,pudicus,0.143
+prudentius.hamartigenia,2.673,"nescio, stultus, tuus, uis, libertas, ab, ipse",7,"NaN, -1.0, 0.0, 1.0, 0.5, NaN, NaN",0.071,-0.143,stultus,0.143
+prudentius.hamartigenia,2.674,"formator, do, nescio, ab, origo, quantus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.675,"sum, concedo, tu, famulo, super, orbis, potestas",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,tu,0.143
+prudentius.hamartigenia,2.676,"et, super, ingenium, proprius, laxus, soluo",6,"NaN, NaN, 0.5, 0.0, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.677,"ius, uoluntas, licet, qui, uolo, sequor",6,"0.5, 0.0, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.678,"qui, placeo, nullus, animus, subiungo, uinclum",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,uinclum,0.167
+prudentius.hamartigenia,2.679,"an, cum, tu, dominus, cunctus, quicumque, creo",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tu,0.143
+prudentius.hamartigenia,2.68,"praeficio, mundus, tuus, seruio, iubeo",5,"NaN, 1.0, 0.0, NaN, NaN",0.2,0.0,,0.0
+prudentius.hamartigenia,2.681,"imperium, cum, aruum, polus, mare, flumen, uenio",7,"0.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.682,"dedo, arbitrium, de, tu, tu, credo, auarus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,"tu, tu, auarus",0.429
+prudentius.hamartigenia,2.683,"nolo, ut, indignus, libertas, nego",5,"NaN, NaN, -1.0, 0.5, NaN",-0.1,-0.2,,0.0
+prudentius.hamartigenia,2.684,"qualis, sum, eligo, magnus, rex, orbis, ut, sum",8,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.685,"non, rex, ipse, suus, curtus, foedo, honor",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,foedo,0.143
+prudentius.hamartigenia,2.686,"nam, quis, honor, dominus, sum, qui, mens, liber, non, sum",10,"NaN, NaN, 1.0, NaN, NaN, NaN, 0.5, 0.5, NaN, NaN",0.2,0.0,,0.0
+prudentius.hamartigenia,2.687,"unus, sed, in-pono, seruio, sententia, lego",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.688,"qui, laus, porro, homo, uel, qui, mereo, sine, certus",9,"NaN, 1.0, NaN, 0.0, NaN, NaN, NaN, NaN, 0.5",0.167,0.0,,0.0
+prudentius.hamartigenia,2.689,"inter, uter, uia, discrimen, uiuo, iustus",6,"NaN, NaN, 0.0, -1.0, NaN, 1.0",0.0,-0.167,,0.0
+prudentius.hamartigenia,2.69,"non, fio, sponte, bonus, qui, non, sum, promptus, potestas",9,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, 0.5",0.167,0.0,,0.0
+prudentius.hamartigenia,2.691,"uolo, alius, flexosque, animus, conuerto, sensus",6,"NaN, NaN, NaN, 0.5, NaN, 0.5",0.167,0.0,,0.0
+prudentius.hamartigenia,2.692,"atqui, neque, bonus, sum, neque, conlaudabilis, ille",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+prudentius.hamartigenia,2.693,"qui, non, sponte, bonus, quoniam, probitas, cogo",7,"NaN, NaN, NaN, 1.0, NaN, 1.0, NaN",0.286,0.0,,0.0
+prudentius.hamartigenia,2.694,"gloria, nullus, uenio, sordetque, inglorius, uirtus",6,"0.0, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+prudentius.hamartigenia,2.695,"neque, tamen, sum, uirtus, ni, deterior, refuto",7,"NaN, NaN, NaN, 1.0, NaN, -1.0, NaN",0.0,-0.143,,0.0
+prudentius.hamartigenia,2.696,"emico, et, bonus, uia, peto, indoles, recingo",7,"NaN, NaN, 1.0, 0.0, NaN, 0.0, NaN",0.143,0.0,,0.0
+prudentius.hamartigenia,2.697,"‘uade’, aio, ipse, parens, opifexque, et, conditor, adae",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+prudentius.hamartigenia,2.698,"‘uade, homo, afflo, noster, praenobilis, ora",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.699,"insubiecte, possum, res, arbiter, arbiter, idem",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.7,"et, iudex, mens, proprius, ego, subdo, solus",7,"NaN, 0.5, 0.5, 0.0, NaN, NaN, -0.5",0.071,-0.071,,0.0
+prudentius.hamartigenia,2.701,"sponte, tuus, quo, sum, subiectio, et, ipse, soluo",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.702,"liber, iudicium, non, cogo, neque, exigo, per, uis",8,"0.5, 0.5, NaN, NaN, NaN, NaN, NaN, 1.0",0.25,0.0,,0.0
+prudentius.hamartigenia,2.703,"sed, moneo, iniustus, fugio, iustus, sequaris",6,"NaN, NaN, -1.0, NaN, 1.0, NaN",0.0,-0.167,iniustus,0.167
+prudentius.hamartigenia,2.704,"lux, comes, sum, iustus, comes, sum, mors, horridus, iniquus",9,"NaN, NaN, NaN, 1.0, NaN, NaN, -1.0, -1.0, -1.0",-0.222,-0.333,iniquus,0.111
+prudentius.hamartigenia,2.705,"eligo, res, uita, tuus, uirtus, tu, in, aeuum",8,"NaN, 0.0, 0.0, 0.0, 1.0, NaN, NaN, NaN",0.125,0.0,tu,0.125
+prudentius.hamartigenia,2.706,"proueho, aeternus, damno, tuus, culpa, uicissim",6,"NaN, 0.5, NaN, 0.0, -1.0, NaN",-0.083,-0.167,"damno, culpa",0.333
+prudentius.hamartigenia,2.707,"praesto, et, alteruter, permitto, licentia, sortem.’",6,"NaN, NaN, NaN, NaN, -0.5, NaN",-0.083,-0.083,licentia,0.167
+prudentius.hamartigenia,2.708,"hic, pietas, uagus, et, tantus, munus, abundo",7,"NaN, 1.0, NaN, NaN, NaN, 0.5, NaN",0.214,0.0,hic,0.143
+prudentius.hamartigenia,2.709,"transeo, propono, fas, et, letalis, prudens",6,"NaN, NaN, NaN, NaN, -1.0, 1.0",0.0,-0.167,,0.0
+prudentius.hamartigenia,2.71,"eligo, atque, uolo, magis, utilis, dum, sui, credo",8,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.125,0.0,,0.0
+prudentius.hamartigenia,2.711,"qui, prohibeo, deopersuasit, callidus, anguis",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,callidus,0.2
+prudentius.hamartigenia,2.712,"persuadeo, certus, horto, non, in-pello, acer",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.713,"imperium, hic, mulier, rea, crimen, exprobro",6,"0.0, NaN, 0.0, -0.5, -1.0, NaN",-0.25,-0.25,"hic, mulier, rea, crimen, exprobro",0.833
+prudentius.hamartigenia,2.714,"respondeo, dominus, suadelis, sui, malefabris",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.715,"inlectam, suadeo, uir, uir, et, ipse, libet",7,"NaN, NaN, 0.5, 0.5, NaN, NaN, NaN",0.143,0.0,,0.0
+prudentius.hamartigenia,2.716,"consentio, liceo, horto, sperno, recingo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.717,"libertas, animus, licet, namque, et, deus, ante",7,"0.5, 0.5, NaN, NaN, NaN, 0.0, NaN",0.143,0.0,,0.0
+prudentius.hamartigenia,2.718,"suadeo, ut, bonus, uolo, sequor, at, ille",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+prudentius.hamartigenia,2.719,"sperno, consilium, saeuus, multus, credo, hostis",6,"NaN, 0.5, -1.0, 0.0, NaN, -1.0",-0.25,-0.333,saeuus,0.167
+prudentius.hamartigenia,2.72,"nunc, inter, uita, dominus, mors, magister",6,"NaN, NaN, 0.0, NaN, -1.0, 0.5",-0.083,-0.167,,0.0
+prudentius.hamartigenia,2.721,"consisto, medius, uoco, hinc, deus, inde, tyrannus",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,tyrannus,0.143
+prudentius.hamartigenia,2.722,"ambiguus, atque, suus, sui, motus, alternantem",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+prudentius.hamartigenia,2.723,"accipio, gero, monumentum, insigne, res",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.724,"praelusit, qui, historia, spectabilis, signum",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.725,"loth, fugio, sodomis, ardeo, omnis, cum, sui",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.726,"pignus, carus, domus, propero, sedes, relinquo",6,"0.0, 1.0, 0.0, NaN, 0.0, NaN",0.167,0.0,,0.0
+prudentius.hamartigenia,2.727,"nubis, urbicremis, subduco, sulfur, cum, iam",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.728,"nimbosus, ignio, coelis, subtexeret, aer",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.729,"flagro, dies, crepito, incendo, imber",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,crepito,0.2
+prudentius.hamartigenia,2.73,"angelus, hic, hospes, lex, praescribo, ille",6,"NaN, NaN, 0.0, 0.5, NaN, NaN",0.083,0.0,hic,0.167
+prudentius.hamartigenia,2.731,"emitto, uirtus, deus, sub, imago, duplo",6,"NaN, 1.0, 0.0, NaN, NaN, NaN",0.167,0.0,duplo,0.167
+prudentius.hamartigenia,2.732,"omnis, ut, e, porta, eo, domus, atque, in, aperio",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.733,"dirigo, consto, oculus, neque, pono, reflecto",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.734,"lumen, regno, per, moenia, cerno, ignis",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.735,"‘nemo, memor, sodomae, qui, mundus, forma, cremandi, sum",8,"NaN, 1.0, NaN, NaN, 1.0, 1.0, NaN, NaN",0.375,0.0,,0.0
+prudentius.hamartigenia,2.736,"ut, semel, e, murus, gradior, promoueo, os",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.737,"post, tergum, uerso, respecto, funero, rerum.’",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.738,"loth, moneo, sapio, obtempero, at, leuis, uxor",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,uxor,0.143
+prudentius.hamartigenia,2.739,"mobilitas, animus, torqueo, muliebris, retrouersus",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,muliebris,0.2
+prudentius.hamartigenia,2.74,"ingenium, sodomisque, suus, reuocabilis, haereo",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+prudentius.hamartigenia,2.741,"traho, eua, uir, dirus, ad, consortium, culpa",7,"NaN, NaN, 0.5, -1.0, NaN, 0.0, -1.0",-0.214,-0.286,"dirus, culpa",0.286
+prudentius.hamartigenia,2.742,"hic, pecco, sui, solus, pereo, solido, metallum",7,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,hic,0.143
+prudentius.hamartigenia,2.743,"dis-rigesco, fragilis, saxumqtie, liquabilis, facio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,dis-rigesco,0.2
+prudentius.hamartigenia,2.744,"sto, mulier, sicut, sto, prior, omnis, seruo",7,"NaN, 0.0, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,mulier,0.143
+prudentius.hamartigenia,2.745,"caueo, sigillati, longus, sal, effigio",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.746,"et, decus, et, cultus, frons, oculus, como",7,"NaN, NaN, NaN, -0.5, 0.0, 0.0, NaN",-0.071,-0.071,,0.0
+prudentius.hamartigenia,2.747,"et, flecto, in, tergum, facies, paulus, refero",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.748,"mentum, retro, antiquus, monumentum, rigeo, noxa",6,"NaN, NaN, 0.0, NaN, NaN, -1.0",-0.167,-0.167,noxa,0.167
+prudentius.hamartigenia,2.749,"liquitur, ille, quidem, salio, sudor, udus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,udus,0.167
+prudentius.hamartigenia,2.75,"sed, nullus, ex, fluidus, plenus, dispendium, forma",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 1.0",0.143,0.0,,0.0
+prudentius.hamartigenia,2.751,"sentio, deliquium, quantus, armentum, sapor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.752,"attenuo, saxum, tantus, lambo, umor",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.753,"sufficio, attritamque, cutis, per, damno, reformo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"cutis, damno",0.333
+prudentius.hamartigenia,2.754,"hic, mereo, titulus, peccatrix, femina, sino",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.167
+prudentius.hamartigenia,2.755,"infirmus, fluidus, animus, per, lubricus, soluo",6,"-1.0, NaN, 0.5, NaN, NaN, NaN",-0.083,-0.167,,0.0
+prudentius.hamartigenia,2.756,"consilium, et, fragilis, iubeo, ad, caelestis, uoueo",7,"0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+prudentius.hamartigenia,2.757,"propono, contra, non, conmutabilis, seruo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.758,"loth, ingredior, iter, neque, moenia, respicio, altus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+prudentius.hamartigenia,2.759,"in, cinis, collabor, rogo, populus, peruro",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.76,"et, mos, populus, tabularia, ius, forum",6,"NaN, 0.5, 0.0, NaN, 0.5, NaN",0.167,0.0,,0.0
+prudentius.hamartigenia,2.761,"balneum, propola, meritorius, templum, theatrum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.762,"et, circum, cum, plebs, suus, madidasque, popina",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.763,"quisquis, ago, homo, sodomorum, incendium, iustus",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,,0.0
+prudentius.hamartigenia,2.764,"ignis, inuoluo, et, christus, iudex, damno",6,"0.0, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,damno,0.167
+prudentius.hamartigenia,2.765,"hic, fugio, semel, satis, sum, non, respicio, ultra",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,hic,0.125
+prudentius.hamartigenia,2.766,"loth, noster, fragilis, sed, coniunx, respicio, et, qui",8,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.062,-0.062,,0.0
+prudentius.hamartigenia,2.767,"fugio, inuerto, mutabilis, os, reuiso",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,inuerto,0.2
+prudentius.hamartigenia,2.768,"atque, inter, patria, persto, duro, fauilla",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.769,"en, tu, signo, libertas, documentum",5,"NaN, NaN, NaN, 0.5, 0.0",0.1,0.0,tu,0.2
+prudentius.hamartigenia,2.77,"quo, uolo, nos, scio, deus, quicumque, sequor, sum",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.771,"sub, noster, dicio, sino, passim, remitto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.772,"alteruter, calcaris, uia, duo, cedo, iubeo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.773,"de, sodomis, alter, sui, proripio, alter, musso",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.774,"ille, gradus, celerat, fugio, contra, ille, renutat",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.775,"liber, uterque, animus, sed, dispar, uterque, uoluntas",7,"0.5, NaN, 0.5, NaN, 0.5, NaN, 0.0",0.214,0.0,,0.0
+prudentius.hamartigenia,2.776,"diuido, huc, illic, rapio, suus, quisque, libido",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,libido,0.143
+prudentius.hamartigenia,2.777,"talis, multus, sacrum, species, noto, orbita, liber",7,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+prudentius.hamartigenia,2.778,"aspicio, ruth, gens, moabitidis, et, simul, orpha, -ne",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.779,"ille, socer, noomi, -ne, fido, comito, amor",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+prudentius.hamartigenia,2.78,"desero, hic, atqui, -ne, thalamus, et, lex, iugal",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,hic,0.125
+prudentius.hamartigenia,2.781,"exuo, hebraeisque, torus, sacer, uaco",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,,0.0
+prudentius.hamartigenia,2.782,"ius, fruor, proprius, sed, pristinus, orphae",6,"0.5, NaN, 0.0, NaN, 0.0, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.783,"fanum, ritus, praeputium, barbarum, suadeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,barbarum,0.2
+prudentius.hamartigenia,2.784,"malo, et, semifer, stirps, nutrio, goliae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,semifer,0.167
+prudentius.hamartigenia,2.785,"ruth, dum, per, stipulo, agrestis, amburo, aestus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.786,"fulcrum, boos, mereo, castoque, ad-scio, cubile",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.787,"christigenam, fecundus, domus, dauitica, regnum",5,"NaN, 1.0, 0.0, NaN, 0.0",0.2,0.0,,0.0
+prudentius.hamartigenia,2.788,"edo, atque, deus, mortalis, misceo, ortus",6,"NaN, NaN, 0.0, -1.0, NaN, NaN",-0.167,-0.167,,0.0
+prudentius.hamartigenia,2.789,"saepe, nos, memini, frater, geminus, ad, hiulcus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, -0.5",-0.071,-0.071,,0.0
+prudentius.hamartigenia,2.79,"peruenio, simul, biuius, nuto, iuuenta",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.791,"et, dubito, diu, bifido, sub, trames, quisnam",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.792,"sum, iter, bonus, cum, dexter, spinea, silua",7,"NaN, 0.0, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+prudentius.hamartigenia,2.793,"sentis, arto, scopulosus, semita, longus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.794,"duco, aerius, cliuosus, margo, callis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.795,"at, laeuus, nemus, umbrifer, per, amoenus, uirectum",7,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+prudentius.hamartigenia,2.796,"diues, orno, pomum, et, lenis, iaceo",6,"0.5, NaN, 0.0, NaN, 1.0, NaN",0.25,0.0,iaceo,0.167
+prudentius.hamartigenia,2.797,"planities, do, amplus, uia, squaleo, unus",6,"0.0, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.798,"contineo, spina, repto, per, arduus, saxum",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,repto,0.167
+prudentius.hamartigenia,2.799,"porro, alius, campus, sui, indulgeo, sinister",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,indulgeo,0.167
+prudentius.hamartigenia,2.8,"ille, sidus, caput, in-misceo, propinquus",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.801,"hic, in, caenosas, subeo, cado, palus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+prudentius.hamartigenia,2.802,"omnis, unus, subsum, natura, sed, exitus, omnis",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.803,"non, unus, perago, placitor, segrege, forma",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+prudentius.hamartigenia,2.804,"haud, secus, atque, si, olim, per, sudus, lacteus, fors",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.805,"labor, columbaris, nubes, descendo, in, aruum",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+prudentius.hamartigenia,2.806,"rus, frugifer, laqueus, ubi, callidus, auceps",6,"0.0, 1.0, NaN, NaN, 1.0, NaN",0.333,0.0,callidus,0.167
+prudentius.hamartigenia,2.807,"praetendo, lentus, inleuit, uimen, uisco",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.808,"spargo, et, insidiae, siliqua, uel, far, dolosus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,insidiae,0.143
+prudentius.hamartigenia,2.809,"inliciunt, alius, fallo, granum, gulamque",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,fallo,0.2
+prudentius.hamartigenia,2.81,"innecto, auidus, torqueo, retinaculum, saeta",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,saeta,0.2
+prudentius.hamartigenia,2.811,"mollis, uel, implico, glute, -ne, circumligo, ala",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.812,"at, alius, qui, nullus, amor, prolecto, edo",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+prudentius.hamartigenia,2.813,"gressus, innocuus, sterilis, spatior, in, herba",6,"0.0, 0.5, -0.5, NaN, NaN, NaN",0.0,-0.083,,0.0
+prudentius.hamartigenia,2.814,"suspicio, caueo, oculus, conuerto, ad, esca",6,"-0.5, NaN, 0.0, NaN, NaN, NaN",-0.083,-0.083,,0.0
+prudentius.hamartigenia,2.815,"mox, ubi, iam, caelum, reuolandum, pars, peto, aethra",8,"NaN, NaN, NaN, 0.5, NaN, 0.0, NaN, NaN",0.062,0.0,,0.0
+prudentius.hamartigenia,2.816,"liber, sidereus, plaudo, super, aes, pinna",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.817,"pars, captiuus, iaceo, lacer, et, saucius, pluma",7,"0.0, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,"captiuus, iaceo",0.286
+prudentius.hamartigenia,2.818,"pugno, humus, et, uolucris, nequiquam, suspicio, aura",7,"NaN, NaN, NaN, NaN, NaN, -0.5, 1.0",0.071,-0.071,humus,0.143
+prudentius.hamartigenia,2.819,"sic, anima, caelum, de, fons, unicoloras",6,"NaN, 0.5, 0.5, NaN, NaN, NaN",0.167,0.0,,0.0
+prudentius.hamartigenia,2.82,"infundo, natura, solum, sed, suauis, istic",6,"NaN, 0.0, 0.0, NaN, 0.5, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.821,"deuincio, illecebra, retineo, et, aether, paucus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,illecebra,0.167
+prudentius.hamartigenia,2.822,"conscendo, reduco, multus, uiscosus, inescat",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.823,"pasco, et, ad, superus, percurro, non, sino, aura",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,,0.0
+prudentius.hamartigenia,2.824,"praescius, inde, pater, liueo, tartara, plumbo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,plumbo,0.167
+prudentius.hamartigenia,2.825,"incendo, liquidus, piceasque, bitumen, fossa",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.826,"infernal, aqua, furuus, subfodit, a-uerno",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.827,"et, phlegethonteo, sub, gurges, sancio, edax",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"gurges, edax",0.333
+prudentius.hamartigenia,2.828,"perpetuus, scelus, poenio, inolesco, uermis",5,"0.0, -1.0, NaN, NaN, NaN",-0.2,-0.2,scelus,0.2
+prudentius.hamartigenia,2.829,"norat, enim, flo, ex, proprius, uegetame, -ne, insum",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.83,"corpus, noster, anima, ex, os, perenni",6,"0.0, NaN, 0.5, NaN, 0.0, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.831,"formo, non, possum, morior, non, possum, uicissim",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.832,"polluo, uitium, rursum, ad, conuexus, reuorto",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,polluo,0.167
+prudentius.hamartigenia,2.833,"mersandam, penitus, puteo, ferueo, abyssus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.834,"uermis, et, flamma, et, discruciatibus, aeuum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.835,"inmortal, do, senium, ne, poena, pereo",6,"NaN, NaN, -0.5, NaN, -1.0, NaN",-0.25,-0.25,poena,0.167
+prudentius.hamartigenia,2.836,"non, pereo, anima, carpo, tormentum, foueo",6,"NaN, NaN, 0.5, NaN, -0.5, NaN",0.0,-0.083,,0.0
+prudentius.hamartigenia,2.837,"materia, sine, finis, do, mors, desero, ipse",7,"0.0, NaN, 0.0, NaN, -1.0, NaN, NaN",-0.143,-0.143,,0.0
+prudentius.hamartigenia,2.838,"aeternus, gemitus, et, fleo, uiuo, cogo",6,"0.5, -0.5, NaN, NaN, NaN, NaN",0.0,-0.083,,0.0
+prudentius.hamartigenia,2.839,"at, diuerto, procul, regio, in, paradisus",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.84,"praemium, constituo, maiestas, gnarus, sum",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+prudentius.hamartigenia,2.841,"spiritus, purus, et, ab, omnis, labes, remoueo",7,"0.0, 1.0, NaN, NaN, NaN, -1.0, NaN",0.0,-0.143,,0.0
+prudentius.hamartigenia,2.842,"quisque, gomorraeas, non, respicio, ruina",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.843,"auerto, sed, rite, oculus, post, tergum, tenebrae",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.844,"linquo, miser, propero, periculum, mundus",5,"NaN, -1.0, NaN, -1.0, 1.0",-0.2,-0.4,miser,0.2
+prudentius.hamartigenia,2.845,"atque, primus, facilis, refero, ad, astrum, uolo",7,"NaN, 0.5, 0.5, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+prudentius.hamartigenia,2.846,"unde, fluo, anima, struo, uegetauerat, adam",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.847,"nam, quia, natura, tenuis, decliue, uita",6,"NaN, NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.848,"pondero, non, reprimo, neque, tardo, ferreus, conpes",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.849,"concretum, celer, relego, seco, aes, lapsus",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.85,"exsupero, polus, ferueo, scintilla, remetior",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.851,"carcereos, exosus, sino, qui, haereo, exul",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+prudentius.hamartigenia,2.852,"tunc, postliminium, redeo, suscipio, altus",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+prudentius.hamartigenia,2.853,"canus, fides, gremium, teneo, oblecto, alumna",6,"NaN, 1.0, 0.0, NaN, NaN, 0.0",0.167,0.0,,0.0
+prudentius.hamartigenia,2.854,"deliciae, multus, post, diuorsoria, caro",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,deliciae,0.2
+prudentius.hamartigenia,2.855,"os, renarrantem, querulus, qui, patior, labor",6,"0.0, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,querulus,0.167
+prudentius.hamartigenia,2.856,"illic, purpureus, latus, exporrigo, cubile",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.857,"flos, aeternus, spiro, libo, odoro",5,"0.5, 0.5, NaN, NaN, NaN",0.2,0.0,,0.0
+prudentius.hamartigenia,2.858,"ambrosiumque, bibo, roseus, de, stramen, roro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.859,"diues, et, longus, fumo, interuallum",5,"0.5, NaN, 0.0, NaN, NaN",0.1,0.0,,0.0
+prudentius.hamartigenia,2.86,"flumen, et, totus, caelum, sitio, imber",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.861,"inplorata, nego, digitus, insertaris, palatum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.862,"flamma, apex, timeo, extinguere, tango",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.863,"neque, miro, locus, longus, disto, inter",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.864,"damno, iustus, anima, concurro, uideo",5,"NaN, 1.0, 0.5, NaN, NaN",0.3,0.0,damno,0.2
+prudentius.hamartigenia,2.865,"conspicuus, mereo, uicis, per, magnus, notaris",6,"1.0, NaN, NaN, NaN, 0.0, NaN",0.167,0.0,,0.0
+prudentius.hamartigenia,2.866,"interuallum, polus, medium, qui, diuido, orbis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.867,"erro, quisque, anima, noster, finis, oculus",6,"0.0, NaN, 0.5, NaN, 0.0, 0.0",0.083,0.0,,0.0
+prudentius.hamartigenia,2.868,"aestimo, inuoluo, uitreus, qui, lucidus, palla",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.869,"obicio, quis, speculum, concretum, coagulo, texunt",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.87,"inpediuntque, uago, obduco, umor, fenestra",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.871,"num, -ne, anima, oculus, densus, uegetamine, gutta",7,"NaN, NaN, 0.5, 0.0, NaN, NaN, NaN",0.071,0.0,,0.0
+prudentius.hamartigenia,2.872,"uoluo, teres, aut, palpebral, extra",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.873,"horresco, saeta, cilioue, umbro, tego",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,saeta,0.2
+prudentius.hamartigenia,2.874,"ille, uiuus, acies, neque, pupula, paruus, sed, ignis",8,"NaN, 0.0, 0.0, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,uiuus,0.125
+prudentius.hamartigenia,2.875,"traiector, nebula, uastus, et, penetrator, operio, sum",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,uastus,0.143
+prudentius.hamartigenia,2.876,"nihil, ferrugineus, solidus, tueor, obsto",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.877,"nocturnus, cedo, nebula, nigro, cedo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,nigro,0.2
+prudentius.hamartigenia,2.878,"nubila, praetenti, cedo, tero, area, mundus",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+prudentius.hamartigenia,2.879,"neque, tantus, aerius, uideo, transmitto, hio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hio,0.167
+prudentius.hamartigenia,2.88,"spiritus, oppono, sed, transeo, lumen, mons",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.881,"oceani, finis, atque, ulter, littera, thylae",6,"NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.882,"transadigo, uolucris, oculus, in, tartara, mitto",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,transadigo,0.167
+prudentius.hamartigenia,2.883,"noster, nempe, omnis, pereo, sub, nox, color",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.884,"uisus, et, caecus, deleo, tempus, forma",6,"NaN, NaN, -1.0, NaN, 0.0, 1.0",0.0,-0.167,,0.0
+prudentius.hamartigenia,2.885,"numquid, et, exuo, membrum, atque, uisco, perdo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.886,"agnitio, -ne, nosco, res, uel, gressus, erro",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.887,"unus, anima, semper, facies, habeo, et, color, unus",8,"NaN, 0.5, NaN, 0.0, NaN, NaN, 0.0, NaN",0.062,0.0,,0.0
+prudentius.hamartigenia,2.888,"aer, ut, quisque, sum, meritor, summus, sinister",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.889,"seu, dexter, alterno, neque, commutabilis, tempus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.89,"conuerto, uario, uicis, longus, atque, perenne, sum",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.891,"quisquis, is, sum, unus, uoluo, suus, saeculum, curro",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.892,"experior, dubito, anima, percurro, uideo",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+prudentius.hamartigenia,2.893,"abdo, corporeus, oculus, cum, saepe, quiesco",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.894,"ros, soporatis, cerno, mens, uiuus, remoueo",6,"NaN, NaN, NaN, 0.5, 0.0, NaN",0.083,0.0,uiuus,0.167
+prudentius.hamartigenia,2.895,"disto, locus, acies, per, rus, per, astrum",7,"NaN, 0.0, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.896,"per, mare, intendo, neque, enim, sui, segrego, ipse",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.897,"ante, obeo, uiuo, ex, artus, aut, fugio, exul",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,,0.0
+prudentius.hamartigenia,2.898,"sanguis, et, caro, penetralis, sequor, medulla",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.899,"exuo, abductamue, abigo, de, pectus, uita",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.9,"uiscerea, sed, sedes, maneo, speculor, acuo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.901,"omnis, lumen, et, qui, circumfero, acer",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.902,"natura, leuis, intueor, nullus, obicio, res",6,"0.0, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.903,"discludo, ante, oculus, subicio, prospicio, orbis",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.904,"atque, orbis, sub, moles, sino, sordeo, elementum",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,sordeo,0.143
+prudentius.hamartigenia,2.905,"obiaceo, interea, tellus, neque, uisus, obsto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.906,"quin, si, stelligerum, uultus, conuerto, ad, axis",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.907,"nihil, intercurrens, obtus, in-pedo, ignis",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.908,"peruigilis, anima, quiuis, denseta, grauo",5,"0.0, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+prudentius.hamartigenia,2.909,"nubila, et, oppono, nigresco, uello, caelum",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+prudentius.hamartigenia,2.91,"sic, arcanus, uideo, taceo, cooperio, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.911,"corporeus, iohannis, adhuc, neque, carnis, soluo",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.912,"munus, sed, somnium, paulisper, carnis, sequestro",6,"0.5, NaN, 0.5, NaN, 0.0, NaN",0.167,0.0,,0.0
+prudentius.hamartigenia,2.913,"liber, ad, intueor, sentio, oculus, peragro",6,"0.5, NaN, NaN, NaN, 0.0, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.914,"ordo, dispono, uenio, sol, annus",5,"0.5, NaN, NaN, NaN, 0.0",0.1,0.0,,0.0
+prudentius.hamartigenia,2.915,"procingo, uideo, angelicus, iam, iam, cremandi",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.916,"orbis, in, excidium, tristis, et, percipio, auris",7,"NaN, NaN, -1.0, -1.0, NaN, NaN, NaN",-0.286,-0.286,,0.0
+prudentius.hamartigenia,2.917,"mugitus, grauis, mundus, sub, finis, tubaris",6,"NaN, -0.5, 1.0, NaN, 0.0, NaN",0.083,-0.083,,0.0
+prudentius.hamartigenia,2.918,"hic, ille, ante, obeo, membrum, carcer, saepio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, carcer",0.286
+prudentius.hamartigenia,2.919,"secedente, anima, non, discedo, uideo",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+prudentius.hamartigenia,2.92,"nonne, magis, flo, sine, corpus, cunctus, noto",7,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.921,"corpus, inuolucrum, tumulus, frigeo, re-pono",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.922,"certus, fides, rapidus, subterna, nox, caminus",6,"0.5, 1.0, NaN, NaN, 0.0, NaN",0.25,0.0,,0.0
+prudentius.hamartigenia,2.923,"qui, polluo, anima, per, saeculum, longus, perenni",7,"NaN, NaN, 0.5, NaN, NaN, 0.0, NaN",0.071,0.0,polluo,0.143
+prudentius.hamartigenia,2.924,"ignis, coquo, oculus, longus, per, inanis, remoueo",7,"0.0, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.925,"pauper, expono, neque, setius, aureus, donum",6,"-1.0, NaN, NaN, NaN, 0.5, 0.0",-0.083,-0.167,,0.0
+prudentius.hamartigenia,2.926,"iustor, dirimo, chaos, rutilo, corona",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,chaos,0.2
+prudentius.hamartigenia,2.927,"eminus, ostendo, poena, carcer, mergo",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,"poena, carcer",0.4
+prudentius.hamartigenia,2.928,"hinc, paradisicolae, post, ulcus, dirus, beatus",6,"NaN, NaN, NaN, -0.5, -1.0, 1.0",-0.083,-0.25,dirus,0.167
+prudentius.hamartigenia,2.929,"prodeo, infelix, ululo, in, pestis, reatus",6,"NaN, -1.0, NaN, NaN, -1.0, NaN",-0.333,-0.333,"infelix, pestis",0.333
+prudentius.hamartigenia,2.93,"spiritus, in, uicis, meritor, mutuus, cerno",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.931,"o, dee, cunctiparens, anima, do, o, dee, christe",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+prudentius.hamartigenia,2.932,"qui, ab, os, deus, subsisto, spiritus, unus",7,"NaN, NaN, 0.0, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.933,"tu, modero, regor, tu, uita, princeps, duco",7,"NaN, NaN, NaN, NaN, 0.0, 0.5, NaN",0.071,0.0,"tu, tu",0.286
+prudentius.hamartigenia,2.934,"iudex, tu, palleo, trepido, tu, iudex, idem",7,"0.5, NaN, NaN, NaN, NaN, 0.5, NaN",0.143,0.0,"tu, tu",0.286
+prudentius.hamartigenia,2.935,"spes, capio, sum, quisquis, ago, ueniabilis, apud, tu",8,"0.5, NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.188,0.0,tu,0.125
+prudentius.hamartigenia,2.936,"quamlibet, indignus, uenia, facio, loquor",5,"NaN, -1.0, 1.0, NaN, NaN",0.0,-0.2,,0.0
+prudentius.hamartigenia,2.937,"confiteor, dimitto, libet, et, parco, fateor",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.938,"omnis, malus, mereo, sed, tu, bonus, arbiter, aufero",8,"NaN, -1.0, NaN, NaN, NaN, 1.0, NaN, NaN",0.0,-0.125,tu,0.125
+prudentius.hamartigenia,2.939,"qui, mereo, bonus, faueo, largior, precor",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+prudentius.hamartigenia,2.94,"donum, anima, quandoque, meus, cum, corpus, hic",7,"0.0, 0.5, NaN, 0.0, NaN, 0.0, NaN",0.071,0.0,hic,0.143
+prudentius.hamartigenia,2.941,"linquo, hospitium, neruus, cutis, sanguis, felle",6,"NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,cutis,0.167
+prudentius.hamartigenia,2.942,"os, exstruo, corrumpo, qui, incola, luxus",6,"0.0, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,luxus,0.167
+prudentius.hamartigenia,2.943,"heu, nimium, conplexa, foueo, cum, flebilis, hora",7,"NaN, 0.0, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,heu,0.143
+prudentius.hamartigenia,2.944,"claudo, hic, orbo, et, conclamo, iaceo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, iaceo",0.333
+prudentius.hamartigenia,2.945,"materies, oculus, suus, mens, nudo, fruor",6,"NaN, 0.0, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.946,"ne, cerno, truculentus, aliquis, de, gens, latro",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"truculentus, latro",0.286
+prudentius.hamartigenia,2.947,"immitis, rabidus, uultus, et, uox, minax",6,"-1.0, NaN, NaN, NaN, 0.0, NaN",-0.167,-0.167,"immitis, rabidus",0.333
+prudentius.hamartigenia,2.948,"terribilis, qui, ego, maculosus, aspergo, mos",6,"-0.5, NaN, NaN, NaN, NaN, 0.5",0.0,-0.083,maculosus,0.167
+prudentius.hamartigenia,2.949,"in, praeceps, ut, praedo, traho, niger, ruo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.95,"inmergat, specus, cunctus, exigo, ad, usque",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,specus,0.167
+prudentius.hamartigenia,2.951,"quadrans, paruus, damnosus, debeo, uita",5,"NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+prudentius.hamartigenia,2.952,"multus, in, thesaurus, pater, sum, habitatio, christe",7,"0.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.953,"dispar, discerno, locus, non, posco, beatus",6,"0.5, NaN, 0.0, NaN, NaN, 1.0",0.25,0.0,,0.0
+prudentius.hamartigenia,2.954,"in, regio, domus, sum, illic, castus, uir",7,"NaN, 0.0, 0.0, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+prudentius.hamartigenia,2.955,"agmen, puluereus, qui, dedignantia, census",5,"-1.0, NaN, NaN, NaN, 0.0",-0.2,-0.2,,0.0
+prudentius.hamartigenia,2.956,"diuitiae, peto, tuus, sum, floreo, perenni",6,"0.5, NaN, 0.0, NaN, NaN, NaN",0.083,0.0,,0.0
+prudentius.hamartigenia,2.957,"candidus, uirginitas, animus, castro, recido",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+prudentius.hamartigenia,2.958,"at, ego, tartareus, satis, sum, si, nullus, minister",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, 0.0",0.062,0.0,,0.0
+prudentius.hamartigenia,2.959,"occurro, facies, auidus, neque, flamma, gehenna",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.96,"deuoro, hic, anima, mergo, fornacibus, imus",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,hic,0.167
+prudentius.hamartigenia,2.961,"sum, cauernoso, quia, sic, pro, labes, necesse, sum",8,"NaN, NaN, NaN, NaN, NaN, -1.0, 0.0, NaN",-0.125,-0.125,,0.0
+prudentius.hamartigenia,2.962,"corporeus, tristis, ego, sorbeo, ignis, a-uerno",6,"0.0, -1.0, NaN, NaN, 0.0, NaN",-0.167,-0.167,,0.0
+prudentius.hamartigenia,2.963,"saltem, mitificos, incendium, lentus, uaporo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+prudentius.hamartigenia,2.964,"exhalent, aestus, calor, langueo, tepesco",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.965,"lux, immensus, alius, et, tempus, uincio, corona",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+prudentius.hamartigenia,2.966,"glorifico, ego, poena, leuis, clemens, aduro",6,"NaN, NaN, -1.0, 0.0, 1.0, NaN",0.0,-0.167,poena,0.167

@@ -1,0 +1,655 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+plautus.cistellaria,1.0,"cum, ego, antehac, tu, amo, et, ego, amica, sum, cerno",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.cistellaria,2.0,"meus, gmnasium, et, mater, tuus, tum, is, ego, hodie",9,"0.0, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,3.0,"aperio, tu, atque, hic, soror, si, meus, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"tu, hic",0.25
+plautus.cistellaria,4.0,"qui, magis, possum, ego, honor, eo, habitus",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+plautus.cistellaria,5.0,"nescio, nisi, ut, meus, sum, animus, fio, non, possum, arbitror",10,"NaN, NaN, NaN, 0.0, NaN, 0.5, NaN, NaN, NaN, NaN",0.05,0.0,,0.0
+plautus.cistellaria,6.0,"ita, omnis, relinquo, res, ego, frequens, opera, do",8,"NaN, NaN, NaN, 0.0, NaN, NaN, -0.5, NaN",-0.062,-0.062,,0.0
+plautus.cistellaria,7.0,"is, ego, tu, amo, et, is, ab, ego, magnus, ineo, gratia",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 1.0",0.091,0.0,tu,0.091
+plautus.cistellaria,8.0,"pol, iste, quidem, nos, pretium, facilis, sum, frequento",8,"NaN, NaN, NaN, NaN, 1.0, 0.5, NaN, NaN",0.188,0.0,pretium,0.125
+plautus.cistellaria,9.0,"tu, utilis, habeo",3,"NaN, 1.0, NaN",0.333,0.0,tu,0.333
+plautus.cistellaria,10.0,"ita, in, prandium, nos, lepidus, atque, nitidus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+plautus.cistellaria,11.0,"accipio, apud, tu, ut, semper, memini",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.cistellaria,12.0,"libet, edepol, animus, facio, et, fio, ab, ego",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,edepol,0.125
+plautus.cistellaria,13.0,"qui, tu, arbitror, uolo, is, ut, expetesso",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.cistellaria,14.0,"qui, ille, dico, qui, secundus, uenio, ueho, sum, tranquillus, mare",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,15.0,"uenio, gaudeoecastor, ad, tu, ita, hodie, hic, accipio, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, hic",0.222
+plautus.cistellaria,16.0,"suauis, modus",2,"0.5, 0.5",0.5,0.0,,0.0
+plautus.cistellaria,17.0,"neque, nisi, disciplina, apud, tu, sum, quisquam, ibi, quin, ego, placeo",11,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.091
+plautus.cistellaria,18.0,"quis, ita, amo, rarus, nimium, do, qui, bibo, is, merus, infusco",11,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,19.0,"amo, hic, iste, decet, ius, for, sum",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,hic,0.143
+plautus.cistellaria,21.0,"nemo, alienus, hic, sum, mereo, uester, amo, tu",8,"-0.5, -0.5, NaN, NaN, NaN, NaN, NaN, NaN",-0.125,-0.125,"hic, tu",0.25
+plautus.cistellaria,22.0,"quia, ego, colo, et, magnus, facio, decet, pol, meus, selenion",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.cistellaria,23.0,"hic, sum, ordo, beneuolens, inter, sui",6,"NaN, NaN, 0.5, 1.0, NaN, NaN",0.25,0.0,hic,0.167
+plautus.cistellaria,24.0,"benus, amicitia, uto",3,"NaN, 1.0, NaN",0.333,0.0,,0.0
+plautus.cistellaria,25.0,"ubi, iste, uideo, superus, genus, nato, summatis, matrona",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, -0.5",-0.062,-0.062,matrona,0.125
+plautus.cistellaria,26.0,"ut, amicitia, colo, atque, ut, is, iungo, bene, habeo, inter, sui",11,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.091,0.0,,0.0
+plautus.cistellaria,27.0,"si, idem, iste, nos, facio, si, idem, imito, ita, tamen, uix, uiuo",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,28.0,"cum, inuidia, summus, suus, opos, nos, uolo, sum, indigeo",9,"NaN, -1.0, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",-0.056,-0.111,inuidia,0.111
+plautus.cistellaria,29.0,"noster, copia, nihil, uolo, nos, potesse",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+plautus.cistellaria,31.0,"suo, omnis, res, nos, indigeo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,32.0,"ut, sui, sum, supplex",4,"NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,33.0,"is, si, adeo, abeo, quam, aditus, malus, ita, noster, ordo",10,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, 0.5",-0.05,-0.1,,0.0
+plautus.cistellaria,34.0,"palam, blandio, clam, si, occasio, usquam, sum",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+plautus.cistellaria,35.0,"aqua, frigida, subdolus, suffundo",4,"0.0, NaN, -1.0, NaN",-0.25,-0.25,subdolus,0.25
+plautus.cistellaria,36.0,"uis, cum, suus, praedico, nos, soleo",6,"1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+plautus.cistellaria,37.0,"suus, paelices, sum, aio, eo, deprimo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,38.0,"quia, nos, libertina, sum, et, ego, et, tuus, mater, ambo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+plautus.cistellaria,39.0,"meretrix, sum, ille, tu, ego, hic, ego, educo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"meretrix, tu, hic",0.375
+plautus.cistellaria,40.0,"ex, pater, conuenticium, neque, ego, hic, superbia",7,"NaN, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,"hic, superbia",0.286
+plautus.cistellaria,41.0,"causa, pepulis, ad, meretricius, quaestus, nisi, ut, ne, ex-surio",9,"0.0, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.056,0.0,"meretricius, quaestus",0.222
+plautus.cistellaria,42.0,"at, sero, sum, is, uir, do, nubo, potis, heia",9,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, 0.0, NaN",0.056,0.0,nubo,0.111
+plautus.cistellaria,43.0,"hic, quidem, ecastor, cottidie, uir, nubo, nubo, hodie",8,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.062,0.0,"hic, ecastor, nubo, nubo",0.5
+plautus.cistellaria,44.0,"nubo, mox, nox, numquam, ego, hic, uidua, cubaris, sino",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"nubo, hic, uidua",0.333
+plautus.cistellaria,45.0,"nam, si, hic, non, nubo, lugubris, fames, familia, pereo",9,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, 0.5, NaN",0.0,-0.056,"hic, nubo",0.222
+plautus.cistellaria,46.0,"necesse, sum, quo, tu, ego, modo, uolo, sum, ita, sum, mater",11,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.091
+plautus.cistellaria,47.0,"ecastor, haud, ego, paeniteo, si, ut, dico, ita, sum, sum",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,ecastor,0.1
+plautus.cistellaria,48.0,"nam, si, quidem, ita, sum, ut, uolo, numquam, senecta, fio",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,49.0,"semper, iste, quam, nunc, habeo, aetatula, obtineo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,50.0,"multa, damnum, et, ego, lucrum, sine, meus, saepe, sum, sumo",10,"NaN, -1.0, NaN, NaN, 0.5, NaN, 0.0, NaN, NaN, NaN",-0.05,-0.1,,0.0
+plautus.cistellaria,51.0,"deus, facio, sine, opus, tuus, deus, hic, nihil, facio, possum",10,"0.0, NaN, NaN, 0.5, 0.0, 0.0, NaN, NaN, NaN, NaN",0.05,0.0,hic,0.1
+plautus.cistellaria,52.0,"equidem, hercules, addo, opera, sedulus, sed, tu, aufero, iste, uerbum",10,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN, 0.0",-0.05,-0.05,tu,0.1
+plautus.cistellaria,53.0,"meus, oculus, meus, selenion, numquam, ego, tu, tristis",8,"0.0, 0.0, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,tu,0.125
+plautus.cistellaria,54.0,"uideo, sum, quis, cedo, tu, obsecro, tam, abhorreo, hilaritudo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.111,0.0,tu,0.111
+plautus.cistellaria,55.0,"neque, mundo, adaeque, sum, ut, soleo, hic, sum, uideo, ut, peto",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.091
+plautus.cistellaria,56.0,"suspiritus, altus, et, pallidus, sum, eloquor, uterque, nos",8,"-0.5, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.0,-0.062,,0.0
+plautus.cistellaria,57.0,"et, quis, tu, sum, et, quis, uelis, noster, opera, ut, nos, scio",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.042,-0.042,tu,0.083
+plautus.cistellaria,58.0,"nolo, obsecro, lacrima, tuus, ego, exercitus, impero",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.cistellaria,59.0,"ego, excrucio, meus, gymnasium, malus, ego, sum, malus, macero",9,"NaN, NaN, 0.0, NaN, -1.0, NaN, NaN, -1.0, NaN",-0.222,-0.222,excrucio,0.111
+plautus.cistellaria,60.0,"doleo, ab, animus, doleo, ab, oculus, doleo, ab, aegritudo",9,"NaN, NaN, 0.5, NaN, NaN, 0.0, NaN, NaN, -1.0",-0.056,-0.111,,0.0
+plautus.cistellaria,61.0,"quis, dico, nisi, stultitia, meus, ego, in, maeror, rapio",9,"NaN, NaN, NaN, -1.0, 0.0, NaN, NaN, -1.0, NaN",-0.222,-0.222,stultitia,0.111
+plautus.cistellaria,62.0,"indidem, unde, orior, facio, ut, facio, stultitia, sepelibilis",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,stultitia,0.125
+plautus.cistellaria,63.0,"quis, facio, in, latebra, abscondo, pectus, penitus",7,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,,0.0
+plautus.cistellaria,64.0,"tuus, stultitia, solus, facio, ut, scio, sine, alius, arbiter",9,"0.0, -1.0, -0.5, NaN, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,stultitia,0.111
+plautus.cistellaria,65.0,"at, ego, cordolium, sum, quis, is, unde, sum, tu, cor, commemoro, obsecro",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.083
+plautus.cistellaria,66.0,"qui, neque, ego, habeo, neque, quisquam, alius, mulier, ut, perhibeo, uir",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.5",0.045,0.0,mulier,0.091
+plautus.cistellaria,67.0,"siquis, sum, qui, doleo, doleo, si, autem, non, esttame, -ne, hic, hic, doleo",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.154
+plautus.cistellaria,68.0,"amo, hic, mulier, eho, an, amo, ob-capio, amaris, sum, obsecro",10,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, mulier",0.2
+plautus.cistellaria,69.0,"namque, ecastor, amor, et, mel, et, felle, sum, fecundus",9,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, 1.0",0.222,0.0,ecastor,0.111
+plautus.cistellaria,70.0,"gustus, do, dulcis, amaris, ad, satietas, usque, oggero",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.cistellaria,71.0,"ad, iste, facies, sum, morbus, qui, ego, meus, gymnasium, macero",10,"NaN, NaN, 0.0, NaN, -1.0, NaN, NaN, 0.0, NaN, NaN",-0.1,-0.1,,0.0
+plautus.cistellaria,72.0,"perfidiosus, sum, amor, ergo, in, ego, peculor, facio",8,"-1.0, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.0,-0.125,perfidiosus,0.125
+plautus.cistellaria,73.0,"bonus, animus, sum, sum, iste, morbus, bonus, confido, sum",9,"1.0, 0.5, NaN, NaN, NaN, -1.0, 1.0, NaN, NaN",0.167,-0.111,,0.0
+plautus.cistellaria,74.0,"si, medicus, uenio, qui, hic, morbus, facio, medicina, possum",9,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, 0.0, NaN",-0.111,-0.111,hic,0.111
+plautus.cistellaria,75.0,"uenio, spissus, iste, amo, sum, uerbum, uenio, nisi, uenio",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,76.0,"sed, ego, meus, culpa, et, stultitia, malus, misero, macero",9,"NaN, NaN, 0.0, -1.0, NaN, -1.0, -1.0, NaN, NaN",-0.333,-0.333,"culpa, stultitia, misero",0.333
+plautus.cistellaria,77.0,"cum, ego, ille, unus, ego, exopto, cum, qui, aetas, dego",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.cistellaria,78.0,"matrona, magis, conducibilis, sum, iste, meus, selenion",7,"-0.5, NaN, NaN, NaN, NaN, 0.0, NaN",-0.071,-0.071,matrona,0.143
+plautus.cistellaria,79.0,"unus, amo, et, cum, is, aetas, exigo, qui, nubo, sum, semel",11,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,nubo,0.091
+plautus.cistellaria,80.0,"uerus, enim, meretrix, fortuno, sum, oppidum, similis",7,"0.5, NaN, NaN, NaN, NaN, NaN, 0.0",0.071,0.0,meretrix,0.143
+plautus.cistellaria,81.0,"non, possum, suus, res, obtineo, solus, sine, multus, uis",9,"NaN, NaN, NaN, 0.0, NaN, -0.5, NaN, 0.0, 1.0",0.056,-0.056,,0.0
+plautus.cistellaria,82.0,"hic, uolo, ago, qui, arcesso, causa, ad, ego, sum, eloquor",10,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.1
+plautus.cistellaria,83.0,"nam, meus, mater, quia, ego, nolo, ego, meretrix, dico",9,"NaN, 0.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,meretrix,0.111
+plautus.cistellaria,84.0,"obsequor, sum, de, is, res, gero, mos, morigerus, ego",9,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.5, NaN, NaN",0.056,0.0,,0.0
+plautus.cistellaria,85.0,"ut, ego, qui, ego, amaris, grauis, sino, cum, is, uiuo",10,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.05,-0.05,,0.0
+plautus.cistellaria,86.0,"stultus, ecastor, facio, sed, tu, enumquam, cum, quisquam, uir",9,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",-0.056,-0.111,"stultus, ecastor, tu, enumquam",0.444
+plautus.cistellaria,87.0,"con-suesco, nisi, quidem, cum, alcesimarcho, nemo",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+plautus.cistellaria,88.0,"neque, pudicitia, meus, ego, alius, quisquam, imminuo, obsecro",8,"NaN, 0.5, 0.0, NaN, NaN, NaN, NaN, NaN",0.062,0.0,pudicitia,0.125
+plautus.cistellaria,89.0,"quo, is, homo, insinuo, pacisco, sui, ad, tu, per, dionysia",10,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.1
+plautus.cistellaria,90.0,"mater, pompa, ego, spectas, duco, dum, redeo, domus",8,"0.0, 0.5, NaN, NaN, NaN, NaN, NaN, 0.0",0.062,0.0,,0.0
+plautus.cistellaria,91.0,"conspicillo, con-sequor, sum, clanculis, ego, usque, ad, foris",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,92.0,"inde, in, amicitia, insinuo, cum, mater, et, cum, ego, simul",10,"NaN, NaN, 1.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+plautus.cistellaria,93.0,"blanditia, munus, donum, ego, iste, uolo, homo, do",8,"0.5, 0.5, 0.0, NaN, NaN, NaN, 0.0, NaN",0.125,0.0,blanditia,0.125
+plautus.cistellaria,94.0,"ut, ego, ille, uorsaris, quis, opus, sum, uerbum, consuetudi, -ne",10,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 0.0, NaN, NaN",0.05,0.0,,0.0
+plautus.cistellaria,95.0,"coepio, amo, contra, ego, ille, et, ille, ego, o, meus, selenion",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.cistellaria,96.0,"adsimularis, amo, oportet, nam, si, amo, extempulo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,97.0,"bonus, ille, multus, qui, amo, consulo, quam, res, tuus",9,"1.0, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, 0.0",0.111,0.0,,0.0
+plautus.cistellaria,98.0,"at, ille, concipio, iuro, uerbum, apud, mater, meus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,99.0,"ego, uxor, duco, sum, is, nunc, alius, duco, sum, domus",10,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,uxor,0.1
+plautus.cistellaria,100.0,"suus, cognatus, lemniensis, qui, habito, hic, in, proximus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.cistellaria,101.0,"nam, is, pater, is, subigo, nunc, meus, mater, irascor, sum, ego",11,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,102.0,"quia, non, redeo, domus, ad, sui, postquam, hic, res, re-scio",10,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.1
+plautus.cistellaria,103.0,"is, uxor, duco, sum, alius, nihil, amor, iniurius, sum",9,"NaN, 0.0, NaN, NaN, NaN, NaN, 1.0, -0.5, NaN",0.056,-0.056,uxor,0.111
+plautus.cistellaria,104.0,"nunc, tu, amo, ut, hic, hic, unus, triduum, hic, solus, sino",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.045,-0.045,"tu, hic, hic, hic",0.364
+plautus.cistellaria,105.0,"sum, et, hic, seruaris, apud, ego, nam, ad, mater, arcesso, sum",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.091
+plautus.cistellaria,106.0,"quamquam, iste, ego, sum, molestus, triduum, et, damnum, do",9,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, -1.0, NaN",-0.222,-0.222,,0.0
+plautus.cistellaria,107.0,"facio, facio, benignus, et, amicus, sed, tu, gymnasium, meus",9,"NaN, NaN, 1.0, NaN, 1.0, NaN, NaN, NaN, 0.0",0.222,0.0,tu,0.111
+plautus.cistellaria,108.0,"si, ego, absum, alcesimarchus, uenio, nolo, acer",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,109.0,"is, inclamaris, utut, erga, ego, sum, mereor, ego, chordus, sum, tamen",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,110.0,"sed, amo, tranquillus, ne, quis, qui, ille, doleo, dico",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,111.0,"accipio, clauus, si, quis, opus, tu, sum, promptus, promo",9,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.056,0.0,tu,0.111
+plautus.cistellaria,112.0,"ego, uolo, eo, ut, ego, excio, lacrima, gymnasium, meus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,113.0,"bene, ual, cura, tu, amo, sicine, immundus, obsecro",8,"NaN, NaN, -1.0, NaN, NaN, NaN, -0.5, NaN",-0.188,-0.188,tu,0.125
+plautus.cistellaria,114.0,"eo, immundo, fortuna, aequus, sum, squalor, sequor",7,"NaN, NaN, 0.0, 0.5, NaN, -0.5, NaN",0.0,-0.071,squalor,0.143
+plautus.cistellaria,115.0,"amiculis, hic, sustollo, saltem, sine, traho, cum, nos, traho",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.cistellaria,116.0,"quando, ita, tu, lubet, ual, atque, saluus, si, possum, uolo",10,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.1,0.0,tu,0.1
+plautus.cistellaria,117.0,"numquid, ego, uolo, mater, intro, quin, is, ecastor, ego",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,ecastor,0.111
+plautus.cistellaria,118.0,"uideo, amo, istoc, ergo, auris, grauis, obtundo, tuus",8,"NaN, NaN, NaN, NaN, NaN, -0.5, NaN, 0.0",-0.062,-0.062,,0.0
+plautus.cistellaria,119.0,"ne, qui, amo, abeo, intro, numquid, ego, uolo, ut, ualeo, ual",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,120.0,"idem, ego, magnus, qui, pario, sum, uitium, mulier",8,"NaN, NaN, 0.0, NaN, NaN, NaN, -1.0, 0.0",-0.125,-0.125,mulier,0.125
+plautus.cistellaria,121.0,"qui, hic, quaestus, facio, qui, ubi, saburro, sum",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,"hic, quaestus",0.25
+plautus.cistellaria,122.0,"largiloquus, extemplo, sum, multus, loquor, quam, satis, sum",8,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.5, NaN",0.062,0.0,,0.0
+plautus.cistellaria,123.0,"nam, ego, illic, olim, qui, hinc, fleo, abeo, paruulus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,124.0,"puella, pro-iacio, ex, angiportus, tollo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,125.0,"adulescens, quidam, hic, sum, apprimus, nobilis",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,"adulescens, hic",0.333
+plautus.cistellaria,126.0,"quin, ego, nunc, quia, sum, onustus, meus, ex, sententia",9,"NaN, NaN, NaN, NaN, NaN, -0.5, 0.0, NaN, 0.0",-0.056,-0.056,,0.0
+plautus.cistellaria,127.0,"quia, adeo, ego, compleo, floreo, liber",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+plautus.cistellaria,128.0,"magis, liber, uti, lingua, collibet, sum, ego",7,"NaN, 0.5, NaN, -0.5, NaN, NaN, NaN",0.0,-0.071,,0.0
+plautus.cistellaria,129.0,"taceo, nequeo, misero, qui, taceo, utor, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,misero,0.143
+plautus.cistellaria,130.0,"sicyo, -ne, superus, genus, is, uiuo, pater",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,131.0,"is, amor, mitto, hic, depereo, muliercula",6,"NaN, 1.0, NaN, NaN, NaN, -0.5",0.083,-0.083,"hic, muliercula",0.333
+plautus.cistellaria,132.0,"qui, hinc, modo, fleo, abeo, contra, amor, is, hic, depereo",10,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.1,0.0,hic,0.1
+plautus.cistellaria,133.0,"is, meus, ego, amica, donum, hic, meretrix, do",8,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"hic, meretrix",0.25
+plautus.cistellaria,134.0,"qui, saepe, cum, ego, mentio, facio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,135.0,"puer, aut, puella, alicunde, ut, reperio, sui",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,136.0,"recens, natus, eapse, qui, sui, suppono",6,"0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,137.0,"ubi, ego, potestas, primus, euenio, ilico",6,"NaN, NaN, 0.5, 0.5, NaN, NaN",0.167,0.0,,0.0
+plautus.cistellaria,138.0,"facio, is, is, qui, ego, oro, copia",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+plautus.cistellaria,139.0,"postquam, is, puella, ab, ego, accipio, ilico",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,140.0,"idem, puella, pario, quam, ab, ego, accipio",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,141.0,"sine, obstetrix, opus, et, sine, dolor",6,"NaN, NaN, 0.5, NaN, NaN, -1.0",-0.083,-0.167,,0.0
+plautus.cistellaria,142.0,"item, ut, alius, pario, qui, malus, quaero, sui",8,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN",-0.125,-0.125,,0.0
+plautus.cistellaria,143.0,"nam, amator, aio, sum, peregrinus, sui",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,amator,0.167
+plautus.cistellaria,144.0,"suppositio, is, facio, gratia",4,"NaN, NaN, NaN, 1.0",0.25,0.0,,0.0
+plautus.cistellaria,145.0,"is, duo, nos, solus, scio, ego, qui, ille, do",9,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.056,-0.056,,0.0
+plautus.cistellaria,146.0,"et, ille, qui, ab, ego, accipio, praeter, tu, quidem",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.cistellaria,147.0,"hic, sic, res, gero, sum, si, quis, utor, uenio",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.111
+plautus.cistellaria,148.0,"memini, ego, hic, res, tu, uolo, ego, abeo, domus",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, tu",0.222
+plautus.cistellaria,149.0,"utrumque, hic, et, multiloquus, et, multibibus, sum, anus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.125
+plautus.cistellaria,150.0,"satis, ne, uix, relinquo, deus, qui, loquor, locus",8,"0.5, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.062,0.0,,0.0
+plautus.cistellaria,151.0,"ita, propero, de, puella, proloquor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,152.0,"suppositio, qui, si, taceo, tamen",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,153.0,"ego, sum, dico, deus, qui, possum, planus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,154.0,"nam, ego, auxilium, sum, nomen, nunc, opera, do",8,"NaN, NaN, 0.0, NaN, 0.0, NaN, -0.5, NaN",-0.062,-0.062,,0.0
+plautus.cistellaria,155.0,"ut, ego, argumentum, hic, tu, planus, perputo",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, tu",0.286
+plautus.cistellaria,156.0,"sum, sicyoni, iam, diu, dionysia",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,157.0,"mercator, uenio, huc, ad, ludus, lemnius",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,158.0,"eo, hic, comprimo, uirgo, adulescentulus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, uirgo",0.4
+plautus.cistellaria,159.0,"uis, uinulentus, multus, nox, in, uia",6,"1.0, NaN, 0.0, 0.0, NaN, 0.0",0.167,0.0,,0.0
+plautus.cistellaria,160.0,"is, ubi, malus, res, scio, sui, mereo, ilico",8,"NaN, NaN, -1.0, 0.0, NaN, NaN, NaN, NaN",-0.125,-0.125,,0.0
+plautus.cistellaria,161.0,"pes, perfugium, pario, in, lemnum, aufugio",6,"0.0, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+plautus.cistellaria,162.0,"ubi, habito, tum, ille, quam, comprimo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,163.0,"decimus, post, mensis, exigo, hic, pario, filia",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.cistellaria,164.0,"quoniam, reus, is, facio, nescio, qui, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,reus,0.143
+plautus.cistellaria,165.0,"paternus, seruus, suus, participo, consilium",5,"NaN, -0.5, NaN, NaN, 0.5",0.0,-0.1,,0.0
+plautus.cistellaria,166.0,"do, is, puella, is, seruo, expono, ad, nex",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,nex,0.125
+plautus.cistellaria,167.0,"is, is, proicio, hic, puella, tollo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.167
+plautus.cistellaria,168.0,"ille, clam, obseruo, seruus, qui, is, pro-iacio",7,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,,0.0
+plautus.cistellaria,169.0,"quo, aut, qui, in, aedes, hic, puella, defero",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.125
+plautus.cistellaria,170.0,"ut, eampse, tu, audio, confiteor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+plautus.cistellaria,171.0,"do, is, puella, meretrix, melaenidi",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,meretrix,0.2
+plautus.cistellaria,172.0,"is, educo, is, sui, pro, filia",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,173.0,"bene, atque, pudicus, tum, illic, autem, lemnius",7,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,pudicus,0.143
+plautus.cistellaria,174.0,"propinqua, uxor, duco, cognata, suus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,uxor,0.2
+plautus.cistellaria,175.0,"is, dies, suus, obeo, facio, morigerus, sum, uir",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,,0.0
+plautus.cistellaria,176.0,"postquam, ille, uxor, iustus, facio, ilico",6,"NaN, NaN, 0.0, 1.0, NaN, NaN",0.167,0.0,uxor,0.167
+plautus.cistellaria,177.0,"huc, commigro, duco, uxor, hic, sui",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"uxor, hic",0.333
+plautus.cistellaria,178.0,"idem, quam, olim, uirgo, hic, comprimo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"uirgo, hic",0.333
+plautus.cistellaria,179.0,"et, is, cognosco, sum, quam, comprimo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,180.0,"ille, ille, dico, is, sui, ex, iniuria",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+plautus.cistellaria,181.0,"pario, gnatam, atque, is, sui, seruo, ilico",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,182.0,"do, expono, ille, extemplo, seruulus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,183.0,"iubeo, ille, idem, persequor, si, qui, queo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,184.0,"reperio, qui, tollo, is, res, nunc, suus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,185.0,"opera, usque, assiduus, seruus, do, si, possiet",7,"-0.5, NaN, 0.5, -0.5, NaN, NaN, NaN",-0.071,-0.143,,0.0
+plautus.cistellaria,186.0,"meretrix, ille, inuenio, quam, olim, tollo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,meretrix,0.167
+plautus.cistellaria,187.0,"cum, ipse, expono, ex, insidiae, uideo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,insidiae,0.167
+plautus.cistellaria,188.0,"nunc, qui, relicuom, resto, uolo, persoluo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,189.0,"ut, expungo, nomen, ne, quis, debeo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,190.0,"adulescens, hic, sum, sicyoni, is, uiuo, pater",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"adulescens, hic",0.286
+plautus.cistellaria,191.0,"is, amor, proiecticius, ille, depereo",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+plautus.cistellaria,192.0,"qui, dudum, fleo, hinc, abeo, ad, mater, suus",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.cistellaria,193.0,"et, ille, hic, contra, qui, sum, amor, suauis",8,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, 0.5",0.188,0.0,hic,0.125
+plautus.cistellaria,194.0,"ut, sum, humanus, nihil, sum, perpetuus, do",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.cistellaria,195.0,"pater, adulescens, do, uolo, uxor, hic, ubi",7,"0.0, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"adulescens, uxor, hic",0.429
+plautus.cistellaria,196.0,"mater, re-scio, iubeo, arcesso, is, domus",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,197.0,"hic, sic, res, gero, sum, bene, ualeo, et, uincio",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.111
+plautus.cistellaria,198.0,"uirtus, uerus, qui, facio, antehac",5,"1.0, 0.5, NaN, NaN, NaN",0.3,0.0,,0.0
+plautus.cistellaria,199.0,"seruo, uester, socius, uetus, et, noui",6,"NaN, NaN, 1.0, 0.0, NaN, NaN",0.167,0.0,,0.0
+plautus.cistellaria,200.0,"augeo, auxilium, uester, iustus, lex",5,"NaN, 0.0, NaN, 1.0, 0.5",0.3,0.0,,0.0
+plautus.cistellaria,201.0,"perdo, perduellis, pareo, laus, et, laurea",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+plautus.cistellaria,202.0,"ut, tu, uinco, poenio, poena, suffero",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,"tu, poena",0.333
+plautus.cistellaria,203.0,"credo, ego, amor, primus, apud, homo, carnificina, commentus",8,"NaN, NaN, 1.0, 0.5, NaN, 0.0, NaN, NaN",0.188,0.0,,0.0
+plautus.cistellaria,204.0,"hic, ego, de, ego, conicio, domus, facio, ni, foris, quaero",10,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.1
+plautus.cistellaria,205.0,"qui, omnis, homo, supero, atque, antideo, cruciabilitas, animus",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,,0.0
+plautus.cistellaria,206.0,"iacto, crucio, agito, stimulo, uerso",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,stimulo,0.2
+plautus.cistellaria,207.0,"in, amor, rota, miser, exanimo",5,"NaN, 1.0, NaN, -1.0, NaN",0.0,-0.2,"miser, exanimo",0.4
+plautus.cistellaria,208.0,"fero, differo, distraho, diripio",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,209.0,"ita, nubilus, mens, animus, habeo",5,"NaN, NaN, 0.5, 0.5, NaN",0.2,0.0,,0.0
+plautus.cistellaria,211.0,"ubi, sum, ibi, non, sum, ubi, non, sum, ibi, sum, animus",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.045,0.0,,0.0
+plautus.cistellaria,212.0,"ita, ego, omnis, sum, ingenium",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+plautus.cistellaria,213.0,"qui, lubet, non, lubet, iam, is, continuo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,214.0,"ita, ego, amor, lassus, animus, ludifico",6,"NaN, NaN, 1.0, NaN, 0.5, NaN",0.25,0.0,,0.0
+plautus.cistellaria,216.0,"fugo, ago, appeto, rapto, retineo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,217.0,"lacto, largior, qui, do, non, do, deludo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,218.0,"modo, qui, suadeo, is, dissuadeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,219.0,"qui, dissuadeo, is, ostento",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,221.0,"maritumis, mos, cum, ego, experior",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+plautus.cistellaria,222.0,"ita, meus, frango, amo, animus",5,"NaN, 0.0, NaN, NaN, 0.5",0.1,0.0,,0.0
+plautus.cistellaria,223.0,"neque, nisi, quia, miser, non, is, pessum",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,miser,0.143
+plautus.cistellaria,224.0,"ego, ullus, absum, perdo, permities",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+plautus.cistellaria,225.0,"ita, pater, apud, uilla, detineo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,226.0,"ego, hic, dies, sex, rus, continuus",6,"NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,hic,0.167
+plautus.cistellaria,227.0,"neque, liceo, interea, sum, meus, amica, uiso",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,228.0,"sum, -ne, hic, miser, memoro",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,"hic, miser",0.4
+plautus.cistellaria,230.0,nudiussextus,1,NaN,nan,nan,,0.0
+plautus.cistellaria,231.0,"potio, -ne, tu, homo, facinus, facio, strenuus, alius, affatim, sum",10,"NaN, NaN, NaN, 0.0, -1.0, NaN, 1.0, NaN, NaN, NaN",0.0,-0.1,"tu, facinus",0.2
+plautus.cistellaria,232.0,"qui, facio, sanus, ego, ego, nolo, fortis, perhibeo, uir",9,"NaN, NaN, 1.0, NaN, NaN, NaN, 0.5, NaN, 0.5",0.222,0.0,,0.0
+plautus.cistellaria,234.0,"quia, uiuo, facilis, is, quidem, edepol, possum, si, tu, uolo, uolo",11,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.045,0.0,"edepol, tu",0.182
+plautus.cistellaria,235.0,"at, enim, ne, tu, expono, pugno, os, metuo, in, imperium, meus",11,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, 0.0",0.0,0.0,tu,0.091
+plautus.cistellaria,236.0,"numquam, edepol, facio, fides, do, do, non, facio, sum, ego",10,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.1,0.0,edepol,0.1
+plautus.cistellaria,237.0,"sed, ego, primus, tot, qui, ab, amicus, absum, possum, dies",10,"NaN, NaN, 0.5, NaN, NaN, NaN, 1.0, NaN, NaN, 0.0",0.15,0.0,,0.0
+plautus.cistellaria,238.0,"sum, nihilis, nihilis, hercules, uerus, sum, perdo",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+plautus.cistellaria,239.0,"qui, ego, amo, contra, dignus, hercules, sum, infortunium",8,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN, -1.0",0.0,-0.125,,0.0
+plautus.cistellaria,240.0,"is, ego, tot, tam, acerbus, facio, in, cor, frugi, numquam, sum",11,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, 1.0, NaN, NaN",0.0,-0.091,"acerbus, frugi",0.182
+plautus.cistellaria,241.0,"praesertim, qui, coniuro, cum, ego, et, firmo, fides",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,coniuro,0.125
+plautus.cistellaria,242.0,"neque, deus, neque, homo, aequus, sum, facio, tu, posthac, bene",10,"NaN, 0.0, NaN, 0.0, 0.5, NaN, NaN, NaN, NaN, NaN",0.05,0.0,tu,0.1
+plautus.cistellaria,243.0,"qui, sum, aetas, exigo, cum, ego, in, matrimonium",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,matrimonium,0.125
+plautus.cistellaria,244.0,"compes, tu, capio, oportet, neque, is, umquam, pono",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.cistellaria,245.0,"qui, ego, sum, commendo, et, meus, fides, concredo",8,"NaN, NaN, NaN, NaN, NaN, 0.0, 1.0, NaN",0.125,0.0,,0.0
+plautus.cistellaria,246.0,"hercules, tu, uerber, multus, caedo, oportet, arbitror",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"tu, uerber",0.286
+plautus.cistellaria,247.0,"qui, mellilla, ego, uocaris, et, suauis, soleo, sum, suus",9,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.cistellaria,248.0,"ob, iste, unus, uerbum, decies, qui, furca, ferus",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, -1.0",-0.125,-0.125,ferus,0.125
+plautus.cistellaria,249.0,"nos, laeto, sed, quis, auctor, nunc, ego, sum, dico, tu",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.cistellaria,250.0,"supplicium, ille, do, suspendo, tu, ne, tu, suscenseo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"supplicium, tu, tu",0.375
+plautus.cistellaria,251.0,"quia, -ne",2,"NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,252.0,"quis, tu, ergo, tu, manuleo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.4
+plautus.cistellaria,273.0,"quis, si, amo.e, sum, amor",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+plautus.cistellaria,274.0,"atque, ille, quam, tu, amo, intellego",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.cistellaria,275.0,"si, concludo, tu, ego, habeo, in, carcer",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, carcer",0.286
+plautus.cistellaria,276.0,"amor, nox, et, dies",4,"1.0, 0.0, NaN, 0.0",0.25,0.0,,0.0
+plautus.cistellaria,277.0,"ni, emorior",2,"NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,278.0,"ego, numquam, quisquam",3,"NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,279.0,"immo, magnus",2,"NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,280.0,"nam, qui, amo, stultus, atque, immodestus, atque, improbus",8,"NaN, NaN, NaN, -1.0, NaN, -1.0, NaN, -1.0",-0.375,-0.375,"stultus, improbus",0.25
+plautus.cistellaria,281.0,"ne, amo",2,"NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,283.0,"ubi, tu, sum, ecce, ego",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+plautus.cistellaria,284.0,"eo, affero, ego, arma, et, lorica, adduco",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,285.0,"lorica, adduco",2,"NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,286.0,"eo, curro, equus, affero, hercules, hic, insanio, miser",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.125,-0.125,"hic, insanio, miser",0.375
+plautus.cistellaria,287.0,"abeo, atque, hastati, multus, multus, ueles",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+plautus.cistellaria,288.0,"multus, cum, multisnil, moror, precarius",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,289.0,"ubi, sum, qui, iubeo, sanus, hic, non, sum, satis",9,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, 0.5",0.167,0.0,hic,0.111
+plautus.cistellaria,290.0,"ab, anus, sum, credo, noceo, cum, illic, sic, facio",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,noceo,0.111
+plautus.cistellaria,291.0,"utrum, deliro, quaeso, an, asto, somnio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,deliro,0.167
+plautus.cistellaria,292.0,"qui, equus, ego, affero, iubeo, lorica, duco",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,293.0,"multus, hastati, post, is, multus, ueles",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.cistellaria,294.0,"multus, cum, multus, hic, tu, peruorsario",6,"0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"hic, tu",0.333
+plautus.cistellaria,295.0,"ego, dico, -ne, ego, iste, obsecro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,296.0,"modo, quidem, hercules, hic, dico, non, praesens, quidem",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.125
+plautus.cistellaria,297.0,"praestigiator, siquidem, hic, non, sum, atque, adsum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"praestigiator, hic",0.286
+plautus.cistellaria,298.0,"uideo, ego, tu, amor, ualidus, tango, toxicon",7,"NaN, NaN, NaN, 1.0, 1.0, NaN, NaN",0.286,0.0,tu,0.143
+plautus.cistellaria,299.0,"adulescens, is, tu, magis, uolo, moneo, moneo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"adulescens, tu",0.286
+plautus.cistellaria,300.0,"caueo, sum, cum, amor, tu, umquam, bellum, sumo",8,"NaN, NaN, NaN, 1.0, NaN, NaN, 0.0, NaN",0.125,0.0,tu,0.125
+plautus.cistellaria,301.0,"quis, facio, ad, mater, is, deuenio, domus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,302.0,"expurgo, iuro, oro, blandus, per, preco",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+plautus.cistellaria,303.0,"eo, exoro, ne, tu, suscenseo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+plautus.cistellaria,304.0,"expurigo, hercules, omnis, ad, rauca, rauim",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,305.0,"prohibeo, diuitiae, magnus, dos, altilis, atque, opimus",7,"NaN, 0.5, 0.0, NaN, 0.0, NaN, NaN",0.071,0.0,,0.0
+plautus.cistellaria,307.0,"quamquam, uetus, cantherius, sum, etiam, nunc, ut, ego, opinor",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,308.0,"adhinnio, equolam, possum, ego, hic, si, do, solus, solus",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, -0.5",-0.111,-0.111,hic,0.111
+plautus.cistellaria,309.0,"nimis, opportunus, ego, euenio, redeo, alcesimarchum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,310.0,"nam, solus, nullus, inuitus, soleo, sum, ego, uoco",8,"NaN, -0.5, NaN, -0.5, NaN, NaN, NaN, NaN",-0.125,-0.125,,0.0
+plautus.cistellaria,311.0,"ne, solus, sum, ego, cum, tu, sum, uolo, ego, ago, ut, tu, ago, aliquis",14,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.036,-0.036,"tu, tu",0.143
+plautus.cistellaria,312.0,"nimis, lepidus, ex-concinno, hic, aedes, alcesimarchus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.167
+plautus.cistellaria,313.0,"ut, cum, uenus, aggredior, placeo, lepidus, sum, amo, semper",9,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.cistellaria,314.0,"uenerem, merus, hic, aedes, oleo, quia, amator, expolio",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"hic, amator",0.25
+plautus.cistellaria,315.0,"non, modo, ipse, lepidus, sum, commodus, quoque, hercules, fabulor",9,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.cistellaria,316.0,"sed, cum, dictum, hic, interpretor, hic, hercules, sum, ut, ego, opinor",11,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, hic",0.182
+plautus.cistellaria,317.0,"meus, qui, corrumpo, filius, suspicio, sum, is, sum",8,"0.0, NaN, NaN, 0.0, -0.5, NaN, NaN, NaN",-0.062,-0.062,,0.0
+plautus.cistellaria,318.0,"utpote, quam, numquam, uideo, de, opinio, credo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.cistellaria,319.0,"nam, hic, aedes, conduco, habeo, meus, nascor, hic, ubi, asto",10,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"hic, hic",0.2
+plautus.cistellaria,320.0,"hic, hic, is, sum, opinio, sum, nam, hic, ille, nomino",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"hic, hic, hic",0.3
+plautus.cistellaria,321.0,"quis, si, adeo, atque, appello, malus, damnum, illecebra, saluus",9,"NaN, NaN, NaN, NaN, NaN, -1.0, -1.0, NaN, 1.0",-0.111,-0.222,illecebra,0.111
+plautus.cistellaria,322.0,uapulo,1,NaN,nan,nan,,0.0
+plautus.cistellaria,323.0,"uolo, apud, tu",3,"NaN, NaN, NaN",nan,nan,tu,0.333
+plautus.cistellaria,330.0,"intro, abeo",2,"NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,331.0,"nam, meretrix, astaris, in, uia, solus, prostibulis, sanus, sum",9,"NaN, NaN, NaN, NaN, 0.0, -0.5, NaN, 1.0, NaN",0.056,-0.056,meretrix,0.111
+plautus.cistellaria,362.0,"quis, uolo",2,"NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,363.0,"uolo, ex, tu, scio, quisquis, sum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.cistellaria,364.0,"quis, ego, usquam, malus, facio, tu, aut, meus, quisquam, is, edissero",11,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",-0.091,-0.091,tu,0.091
+plautus.cistellaria,365.0,"quam, ob, res, ego, meus, filius, cum, mater, res, noster",10,"NaN, NaN, 0.0, NaN, 0.0, 0.0, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+plautus.cistellaria,366.0,"habeo, perditui, et, praedatui, miser, erro, ut, ego, dico",9,"NaN, NaN, NaN, NaN, -1.0, 0.0, NaN, NaN, NaN",-0.111,-0.111,miser,0.111
+plautus.cistellaria,367.0,"lepidus, sum, materies, ludo, ego, hic, nam, occasio, uideo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.056,0.0,hic,0.111
+plautus.cistellaria,368.0,"potio, -ne, opera, iniquus, equidem, malus, ut, ne, do, innocens",10,"NaN, NaN, -0.5, -1.0, NaN, -1.0, NaN, NaN, NaN, 0.5",-0.2,-0.25,"iniquus, innocens",0.2
+plautus.cistellaria,369.0,"sed, obsecro, tu, nullus, sum, tu, amator, alius, quisquam",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu, amator",0.333
+plautus.cistellaria,370.0,"nisi, meus, modo, unus, filius, qui, quidem, ego, amo, alius, nemo, sum",12,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.042,-0.042,,0.0
+plautus.cistellaria,371.0,"at, ego, nihil, moror, damnum, sum, tuus, ego, similis",9,"NaN, NaN, NaN, NaN, -1.0, NaN, 0.0, NaN, 0.0",-0.111,-0.111,,0.0
+plautus.cistellaria,372.0,"quis, eo, sum, is, arbitror",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,373.0,"dator, negotiolum, bellus, se-nico, solo, sum",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+plautus.cistellaria,374.0,"ego, respondeo, postulo, iniurius, sum",5,"NaN, NaN, NaN, -0.5, NaN",-0.1,-0.1,,0.0
+plautus.cistellaria,375.0,"stipularis, semper, ego, ultro, oportet, ab, uis",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+plautus.cistellaria,376.0,"is, quaestus, facio, nihil, uis, promitto",6,"NaN, 0.5, NaN, NaN, 1.0, NaN",0.25,0.0,quaestus,0.167
+plautus.cistellaria,377.0,"siquidem, impero, pro, copia, pro, recula",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+plautus.cistellaria,378.0,"quin, is, si, eo, sum, nimium, is, uegrandis, gradus",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,379.0,"pol, ad, cubo, mater, magis, sum, exerceo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,380.0,"fere, quam, ad, curro, is, sum, tardiusculus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,381.0,"memini, officium, suus",3,"NaN, 0.5, NaN",0.167,0.0,,0.0
+plautus.cistellaria,382.0,"ita, mustulentus, uenio, naris, attigo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,383.0,"capillus, scissus, atque, excissatis, auris",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,capillus,0.2
+plautus.cistellaria,384.0,"qui, quasi, carnifex, angiportum, purigans",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,carnifex,0.2
+plautus.cistellaria,405.0,"non, quasi, nunc, hic, sum, hic, limaces, liuidus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.25
+plautus.cistellaria,406.0,"febriculosus, miser, amica, osseus",4,"NaN, -1.0, NaN, 0.0",-0.25,-0.25,miser,0.25
+plautus.cistellaria,407.0,"diobolaris, schoeniculae, miracula",3,"NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,408.0,"cum, extero, talis, cum, todillis, crusculis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,449.0,"molestus, sum",2,"-1.0, NaN",-0.5,-0.5,,0.0
+plautus.cistellaria,450.0,"meus, issula, suus, aedes, egeo, ad, ego, sine, duco, aufero, manus",11,"0.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,451.0,"germanus, meus, sororcula, repudio, tu, fraterculis",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.167
+plautus.cistellaria,452.0,"tum, tu, igitur, meus, matercula, repudio, tu, fraterculis",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"tu, tu",0.25
+plautus.cistellaria,453.0,"obsecro, tu, ualeo, ut, sino, nihil, moror, expurigaris, ego",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.cistellaria,454.0,"sine, dico, satis, sapio, ego, tuus, periurium",7,"NaN, NaN, 0.5, NaN, NaN, 0.0, -1.0",-0.071,-0.143,periurium,0.143
+plautus.cistellaria,455.0,"at, nunc, non, possum, supplicium, polliceor, uolo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,supplicium,0.143
+plautus.cistellaria,456.0,"at, ego, ab, tu, accipio, non, libet, em, omnis",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.cistellaria,457.0,"patior, ius, infelix, uolup, sum, neque, tis, misereo, decet",9,"NaN, 0.5, -1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.056,-0.111,infelix,0.111
+plautus.cistellaria,458.0,"quamquam, homo",2,"NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,459.0,"uerbum, do",2,"0.0, NaN",0.0,0.0,,0.0
+plautus.cistellaria,460.0,"non, ille, qui, frango, foedero",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,foedero,0.2
+plautus.cistellaria,461.0,is,1,NaN,nan,nan,,0.0
+plautus.cistellaria,462.0,do,1,NaN,nan,nan,,0.0
+plautus.cistellaria,463.0,"at, ego, neque, do, neque, tu, amitto, hodie, nisi, qui, uolo, cum, tu, loquor",14,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.143
+plautus.cistellaria,464.0,"do, ego, opera",3,"NaN, NaN, -0.5",-0.167,-0.167,,0.0
+plautus.cistellaria,465.0,"potio, -ne, ut, ego, molestus, ne, sum, quin, is, sum, nomen, ego",12,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",-0.083,-0.083,,0.0
+plautus.cistellaria,466.0,"omnis, mortalis, uoco, molestus",4,"NaN, -1.0, NaN, -1.0",-0.5,-0.5,,0.0
+plautus.cistellaria,467.0,"obsecro, at, frustra, obsecro",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,469.0,"quia, sine, omnis, do",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,470.0,"ius, iuro",2,"0.5, NaN",0.25,0.0,,0.0
+plautus.cistellaria,471.0,"at, ego, nunc, ab, ille, ego, caueo, ius, iuro, tuus",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, 0.0",0.05,0.0,,0.0
+plautus.cistellaria,472.0,"similis, sum, ius, iuro, amantum, quasi, ius, confusicium",8,"0.0, NaN, 0.5, NaN, NaN, NaN, 0.5, NaN",0.125,0.0,,0.0
+plautus.cistellaria,473.0,nescius,1,-0.5,-0.5,-0.5,nescius,1.0
+plautus.cistellaria,474.0,"nugae, ago",2,"-1.0, NaN",-0.5,-0.5,,0.0
+plautus.cistellaria,477.0,"supplicium, do",2,"NaN, NaN",nan,nan,supplicium,0.5
+plautus.cistellaria,478.0,"quo, modo, ego",3,"NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,479.0,"quia, sum, nanciscor, nouus",4,"NaN, NaN, NaN, 1.0",0.25,0.0,,0.0
+plautus.cistellaria,480.0,"qui, quidam, quasi, tu, nescio",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+plautus.cistellaria,481.0,"deus, deferuesco, ille, perdo, pariter",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,482.0,"umquam, si, hic, fallo, nihil, moror",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, fallo",0.333
+plautus.cistellaria,483.0,"falsus, fallo, is, tu, ignoro, fides",6,"-1.0, NaN, NaN, NaN, NaN, 1.0",0.0,-0.167,"fallo, tu",0.333
+plautus.cistellaria,484.0,"postremo, si, ego, do, uerbum, deus, numquam, do",8,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,485.0,"quin, equidem, ille, duco, uxor, duco, si",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,uxor,0.143
+plautus.cistellaria,486.0,"nunc, hic, si, tu, commodus, sum, qui",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,"hic, tu",0.286
+plautus.cistellaria,487.0,"instruo, ille, aurum, atque, uestis",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,uestis,0.2
+plautus.cistellaria,488.0,"siquidem, amo, ille, instruo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,489.0,"sed, sino, iam, hic, ego, respondeo, qui, ego, tu, rogo",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.2
+plautus.cistellaria,490.0,instruo,1,NaN,nan,nan,,0.0
+plautus.cistellaria,491.0,"tu, ita, ut, uolo, qui, uolo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.cistellaria,492.0,"is, quia, tu, alius, sum, sponsa, locuples, lemnia",8,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.125,0.0,"tu, locuples",0.25
+plautus.cistellaria,493.0,"habeo, neque, nos, factio, tantus, quantus, tu, sum",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,"factio, tu",0.25
+plautus.cistellaria,494.0,"neque, ops, noster, tam, sum, ualidus, quam, tuus, uerus, tamen",10,"NaN, 0.0, NaN, NaN, NaN, 1.0, NaN, 0.0, 0.5, NaN",0.15,0.0,,0.0
+plautus.cistellaria,495.0,"hau, metuo, ne, ius, iuro, nos, quisquam, culpito",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+plautus.cistellaria,496.0,"tu, iam, si, quis, tu, doleo, scio, qui, doleo, gratia",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.1,0.0,"tu, tu",0.2
+plautus.cistellaria,497.0,"deus, ego, perdo, quicumque, opto, tu, uolo, contingo",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.125
+plautus.cistellaria,498.0,"si, ille, uxor, duco, umquam, ego, quam, despondeo, pater",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,uxor,0.111
+plautus.cistellaria,499.0,"et, ego, si, umquam, tu, uxor, filia, do, meus",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,"tu, uxor",0.222
+plautus.cistellaria,500.0,"patieri, -ne, ego, periuraris, pol, tu, aliquantus, facilis",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,tu,0.125
+plautus.cistellaria,501.0,"quam, ego, meus, res, pereo, et, ludificaris, filia",8,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,502.0,"alibi, quaero, ubi, ius, iuro, tuus, satis, sum, subsido",9,"NaN, NaN, NaN, 0.5, NaN, 0.0, 0.5, NaN, NaN",0.111,0.0,,0.0
+plautus.cistellaria,503.0,"hic, apud, nos, iam, alcesimarche, confringo, tessera",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.cistellaria,504.0,"fax, semel, periculum, facio, saepe, qui, facio, queror",8,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.125,-0.125,fax,0.125
+plautus.cistellaria,505.0,"reddo, ego, ille, inter, nouus, res, uerbum, usurpo, uetus",9,"NaN, NaN, NaN, NaN, 1.0, 0.0, 0.0, NaN, 0.0",0.111,0.0,,0.0
+plautus.cistellaria,506.0,"qui, do, do, non, uolo, qui, relicuom, sum, non, do",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,507.0,"non, remitto, sum, ego, ille, pro, ego, respondeo, tu",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.cistellaria,508.0,"non, remitto, scio, iam, dudum, omnis, meus, sententia",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,509.0,"satis, ne, iste, tu, in, cor, certus, sum, quin, ego, commento, quidem",12,"0.5, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,tu,0.083
+plautus.cistellaria,510.0,"non, edepol, ego, iste, tuus, dictum, nunc, in, auris, recipio",10,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,edepol,0.1
+plautus.cistellaria,511.0,"non., hem, quis, ago, igitur, animus, ad-uerto, iam, ut, quis, ago, scio",12,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN, NaN",0.042,0.0,,0.0
+plautus.cistellaria,512.0,"at, ita, ego, deus, deferuesco, superi, atque, inferus, et, medioxumi",10,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,513.0,"itaque, ego, iuno, regina, et, io, superus, filia",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,514.0,"itaque, ego, saturnus, is, patruus, ecastor, pater",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,ecastor,0.143
+plautus.cistellaria,515.0,"itaque, ego, ops, opulentus, ille, auia, immo, mater, quidem",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.cistellaria,516.0,"iuno, filia, et, saturnus, patruus, et, summus, iuppiter",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,517.0,"tu, ego, delenio, propter, tu, hic, pecco, pergo, dico",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu, hic",0.333
+plautus.cistellaria,518.0,"annus, etiam, ut, quis, consulo, sum, scio, pergo, eloquor",9,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,519.0,"non, remitto, definio, sum, enim, uerus, ita, ego, iuppiter",9,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.cistellaria,520.0,"itaque, ego, iuno, itaque, ianus, itaquid, dico, nescio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,521.0,"iam, scio, immo, mulier, audio, meus, ut, scio, sententia",9,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,mulier,0.111
+plautus.cistellaria,522.0,"deus, ego, omnis, magnus, minuo, et, etiam, patellarius",8,"0.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,523.0,"facio, ne, ego, do, uiuus, uiuus, sauium, selenitis",8,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,"uiuus, uiuus",0.25
+plautus.cistellaria,524.0,"nisi, ego, tu, tuus, filia, ego, hodie, obtrunco",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.125
+plautus.cistellaria,525.0,"postis, autem, cum, primus, lucius, creo, nisi, ambo, occido",9,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.056,0.0,occido,0.111
+plautus.cistellaria,526.0,"et, equidem, hercules, nisi, pedo, tertius, omnis, effligo",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,527.0,"nisi, tu, ille, remitto, ad, ego, dico, qui, uolo, ual",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.1
+plautus.cistellaria,528.0,"abeo, intro, irascor, quis, ego, nunc, ago, si, redeo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,529.0,"ille, ad, hic, ibidem, locus, res, sum, ubi, odium, occipio",10,"NaN, NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, -1.0, NaN",-0.1,-0.1,hic,0.1
+plautus.cistellaria,530.0,"ille, extrudo, tum, hic, uxor, lemniam, duco, domus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,"hic, uxor",0.25
+plautus.cistellaria,531.0,"sed, tamen, eo, et, persequor, amens, ne, quis, facio, caueo, opus, sum",12,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, 0.5, NaN",-0.042,-0.083,amens,0.083
+plautus.cistellaria,532.0,"postremo, quando, aequus, lex, pauper, cum, diues",7,"NaN, NaN, 0.5, 0.5, -1.0, NaN, 0.5",0.071,-0.143,,0.0
+plautus.cistellaria,533.0,"non, licet, perdo, opera, potis, quam, careo, filia",8,"NaN, NaN, NaN, -0.5, 0.0, NaN, NaN, NaN",-0.062,-0.062,,0.0
+plautus.cistellaria,534.0,"sed, quis, hic, sum, qui, recta, platea, cursus, huc, contendo, suus",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.091
+plautus.cistellaria,535.0,"et, ille, paueo, et, hic, formido, ita, totus, sum, misero, in, metus",12,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,"hic, misero",0.167
+plautus.cistellaria,536.0,"anus, sector, sum, clamor, per, uia",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,537.0,"miserrumam, habeo, ut, illic, hodie, quot, modus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.071,0.0,,0.0
+plautus.cistellaria,538.0,"moderatrix, lingua, sum, atque, immemorabilis",5,"NaN, -0.5, NaN, NaN, NaN",-0.1,-0.1,,0.0
+plautus.cistellaria,539.0,"quot, ille, blanditia, quis, ille, promitto, bonus",7,"NaN, NaN, 0.5, NaN, NaN, NaN, 1.0",0.214,0.0,blanditia,0.143
+plautus.cistellaria,540.0,"quot, admoenio, fabrico, quot, fallacia",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,fallacia,0.2
+plautus.cistellaria,541.0,"in, quaestio, uix, exculpsi, ut, dico",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,542.0,"quia, is, promitto, dolium, uinum, do",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,dolium,0.167
+plautus.cistellaria,543.0,"audio, uoco, uideo, sum, ante, aedes, modo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.cistellaria,544.0,"meus, lampadisci, seruio, non, surdus, sum, era",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,545.0,"rectus, audio, quis, ago, hic, qui, gaudeo",7,"1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.143,0.0,hic,0.143
+plautus.cistellaria,546.0,"quis, is, sum, hinc, ex, hic, aedes, paulus, prior",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.5",0.056,0.0,hic,0.111
+plautus.cistellaria,547.0,"uideo, exeo, mulier, ille, qui, meus",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,mulier,0.167
+plautus.cistellaria,548.0,"gnatam, tollo, res, teneo, quis, postea",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,549.0,"dico, is, quo, pacisco, is, ab, hippodromos, uideo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,550.0,"erilis, noster, filia, sustollo",4,"NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,551.0,"extimesco, tum, ille, iam, horreo, corpus, cor, salio",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,extimesco,0.125
+plautus.cistellaria,552.0,"nam, ego, ab, hippodromos, memini, affero, paruulus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,553.0,"puella, eo, ego, ego, suppono",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,554.0,"ago, pergo, quaeso, animus, audio, expeto",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+plautus.cistellaria,555.0,"ut, gero, res, sum, utinam, audio, non, queo",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,556.0,"pergo, ille, onero, dictum, illic, tu, anus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,tu,0.143
+plautus.cistellaria,557.0,"fortuna, ex, secundus, ad, miser, uoco",6,"0.0, NaN, 0.0, NaN, -1.0, NaN",-0.167,-0.167,miser,0.167
+plautus.cistellaria,558.0,"nam, illic, tu, nutrix, sum, ne, mater, censeo",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tu,0.125
+plautus.cistellaria,559.0,"ego, tu, reduco, et, reuoco, ad, superus, ditiae",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.cistellaria,560.0,"ubi, tu, loco, in, luculentus, familia",6,"NaN, NaN, NaN, NaN, 1.0, 0.5",0.25,0.0,tu,0.167
+plautus.cistellaria,561.0,"unde, tu, talentum, magnus, uiginti, pater",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,tu,0.167
+plautus.cistellaria,562.0,"do, dos, non, enim, hic, ubi, ex, tusco, modo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.cistellaria,563.0,"tueor, tu, indignus, doto, quaero, corpus",6,"NaN, NaN, -1.0, NaN, NaN, 0.0",-0.167,-0.167,tu,0.167
+plautus.cistellaria,564.0,"an, amo, meretrix, ille, sum, qui, ille, tollo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,meretrix,0.125
+plautus.cistellaria,565.0,"immo, meretrix, sum, sed, ut, sum, de, is, res, eloquor",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,meretrix,0.1
+plautus.cistellaria,566.0,"iam, perduco, ille, ad, ego, suadela, meus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,567.0,"anus, is, amplector, sum, genu, ploro, obsecro",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,568.0,"ne, desero, sui, is, suus, sum, filia",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,569.0,"sequor, is, pario, sancio, adiuro, ego",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,570.0,"iste, quam, quaero, inquam, ego, amica, meus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,571.0,"do, qui, educo, is, pro, filiola, suus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,572.0,"et, uiuo, inquam, ubi, is, sum, inquam, extempulo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,573.0,"seruo, deus, ego, obsecro, at, ego, perdo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,574.0,"qui, ille, do, ex-quaero, oportet",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,575.0,"quaero, et, dico, meretrix, melaenidi",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,meretrix,0.2
+plautus.cistellaria,576.0,"meus, ex-loquor, sum, nomen, intereo, oppidum",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,577.0,"ubi, ex-loquor, sum, ego, continuo, anus, interrogo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.cistellaria,578.0,"ubi, habito, inquam, duco, atque, demonstro, ego",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,579.0,"aueho, sum, inquam, peregre, hinc, habitas, obsipo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,580.0,"acula, quo, aueho, sum, is, sequor, sicine",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,581.0,"ago, nugae, pereo, hercules, ni",5,"NaN, -1.0, NaN, NaN, NaN",-0.2,-0.2,,0.0
+plautus.cistellaria,582.0,"non, hic, longus, desisto, ",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.2
+plautus.cistellaria,583.0,"insto, usque, adeo, donec, sui, adiuro, anus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,584.0,"iam, ego, monstraris, at, non, mitto, oportet",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,585.0,"seruo, sed, illic, sui, quidam, aio, mulier",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,mulier,0.143
+plautus.cistellaria,586.0,"suus, bene, uolo, conuenio, etiam, prior",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+plautus.cistellaria,587.0,"communis, cum, qui, is, sum, sui, negotium",7,"0.0, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,,0.0
+plautus.cistellaria,588.0,"et, scio, uenio, ego, indico, et, suus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,589.0,"ad, meus, miseria, alius, facies, conscio",6,"NaN, 0.0, -1.0, NaN, 0.0, NaN",-0.167,-0.167,,0.0
+plautus.cistellaria,591.0,"quis, nunc, uolo, facio, ego, intro, abeo, atque, animus, bonus, sum",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, 1.0, NaN",0.136,0.0,,0.0
+plautus.cistellaria,592.0,"uir, tuus, si, uenio, iubeo, domus, opperior",7,"0.5, 0.0, NaN, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+plautus.cistellaria,593.0,"ne, in, quaestio, ego, sum, si, quis, is, uolo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,594.0,"ego, ad, anus, recurro, rursum, lampadio, obsecro",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,595.0,"cura, perficio, ego, hic, do, negotium",6,"-1.0, NaN, NaN, NaN, NaN, -0.5",-0.25,-0.25,hic,0.167
+plautus.cistellaria,596.0,"deus, tu, spero, idem, ego, uti, abeo, domus",8,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,tu,0.125
+plautus.cistellaria,597.0,"adulescens, asto, atque, audio, ego, -ne, mulier, uoco",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"adulescens, mulier",0.25
+plautus.cistellaria,598.0,"tu, quis, negotium, sum, nam, occupo, sum, ampliter",8,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.062,-0.062,tu,0.125
+plautus.cistellaria,599.0,"quis, istic, habito, demipho, dominus, meus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,600.0,"nempe, istic, sum, qui, alcesimarcho, filia",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,601.0,"suus, despondeo, in, diuitiae, magnus",5,"NaN, NaN, NaN, 0.5, 0.0",0.1,0.0,,0.0
+plautus.cistellaria,602.0,"is, ipse, sum, eho, tu, quam, tu, igitur, filia",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.222
+plautus.cistellaria,603.0,"nunc, quaeritas, alter, ego, dico, tu",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+plautus.cistellaria,604.0,"non, ex, uxor, nata, uxor, filia",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,"uxor, uxor",0.333
+plautus.cistellaria,605.0,"quis, iste, sum, uerbum, ex, prior, mulier",7,"NaN, NaN, NaN, 0.0, NaN, 0.5, 0.0",0.071,0.0,mulier,0.143
+plautus.cistellaria,606.0,"nata, inquam, meus, sum, sum, filia, certus, modo",8,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,,0.0
+plautus.cistellaria,607.0,"hic, qui, loquor, sum, quaero, aio, filia",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.cistellaria,608.0,"hic, ergo, quaero, quo, modo, igitur, obsecro",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.cistellaria,609.0,"hic, sum, prior, qui, nubo, nunc, sum, contero",8,"NaN, NaN, 0.5, NaN, NaN, NaN, NaN, NaN",0.062,0.0,"hic, nubo",0.25
+plautus.cistellaria,610.0,"tu, tuus, ego, oratio, mulier, quisquis, sum",7,"NaN, 0.0, NaN, -0.5, 0.0, NaN, NaN",-0.071,-0.071,"tu, mulier",0.286
+plautus.cistellaria,611.0,"medioxumam, quam, duco, uxor, ex, is",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,uxor,0.167
+plautus.cistellaria,612.0,"nata, sum, hic, uirgo, alcesimarcho, qui, do",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, uirgo",0.286
+plautus.cistellaria,613.0,"is, uxor, dies, obeo, iam, scio, teneo, iste, satis",9,"NaN, 0.0, 0.0, NaN, NaN, NaN, NaN, NaN, 0.5",0.056,0.0,uxor,0.111
+plautus.cistellaria,614.0,"sed, ego, ille, quaero, confragosus, quo, modo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,615.0,"prior, posterus, sum, et, posterus, sum, prior",7,"0.5, 0.0, NaN, NaN, 0.0, NaN, 0.5",0.143,0.0,,0.0
+plautus.cistellaria,616.0,"prior, hic, comprimo, quam, uxor, duco, domus",7,"0.5, NaN, NaN, NaN, 0.0, NaN, 0.0",0.071,0.0,"hic, uxor",0.286
+plautus.cistellaria,617.0,"prior, grauidus, facio, sum, prior, pario, filia",7,"0.5, 0.0, NaN, NaN, 0.5, NaN, NaN",0.143,0.0,,0.0
+plautus.cistellaria,618.0,"is, postquam, pario, iubeo, paruus, proicio",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.cistellaria,619.0,"ego, is, proicio, alius, mulier, tollo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,mulier,0.167
+plautus.cistellaria,620.0,"ego, inspecto, erus, hic, duco, postibi",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"erus, hic",0.333
+plautus.cistellaria,621.0,"is, nunc, puella, filia, is, quaero",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,622.0,"quis, nunc, supinus, sursum, in, caelum, conspicio",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,,0.0
+plautus.cistellaria,623.0,"is, nuncia, iste, quo, propero, nihil, moror",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,624.0,"nunc, intellego, deus, hercules, habeo, gratia",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,,0.0
+plautus.cistellaria,625.0,"nam, ni, intellexes, numquam, credo, amitto",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,626.0,"nunc, ego, bonus, necessum, sum, sum, ingratia",7,"NaN, NaN, 1.0, NaN, NaN, NaN, -1.0",0.0,-0.143,,0.0
+plautus.cistellaria,627.0,"quamquam, sum, nolo, res, palam, sum, intellego",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,628.0,"nunc, nos, potis, hic, ineo, gratia",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,hic,0.167
+plautus.cistellaria,629.0,"ab, ille, quam, illic, ego, indico, eo, domus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,630.0,"atque, ad, parens, re-duco, selenion",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+plautus.cistellaria,631.0,"res, ex-loquor, sum, tu, omnis, sequor, hic, ego, selenion",9,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"tu, hic",0.222
+plautus.cistellaria,632.0,"ut, is, cuius, sum, oportet, tu, sum, potis, quam, meus",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,tu,0.1
+plautus.cistellaria,633.0,"quamquam, inuito, tu, careo, animus, ego, induco, tamen",8,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.062,0.0,tu,0.125
+plautus.cistellaria,634.0,"ut, ille, qui, ad, modus, tuus, in, res, bene, conduco, consulo",11,"NaN, NaN, NaN, NaN, 0.5, 0.0, NaN, 0.0, NaN, NaN, NaN",0.045,0.0,,0.0
+plautus.cistellaria,635.0,"nam, hic, crepundia, insum, cum, qui, tu, ille, olim, ad, ego, defero",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.167
+plautus.cistellaria,636.0,"qui, ego, do, parens, tu, ut, cognosco, facilis",8,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN, 0.5",0.125,0.0,tu,0.125
+plautus.cistellaria,637.0,"accipio, hic, cistella, halisca, agedum, pulto, ille, foris",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.cistellaria,638.0,"dico, ego, oro, ut, aliquis, intus, pro-eo, properus, ocior",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,639.0,"recipio, ego, ad, tu, mors, amicus, et, beneuolus, mater, meus",10,"NaN, NaN, NaN, NaN, -1.0, 1.0, NaN, 1.0, 0.0, 0.0",0.1,-0.1,tu,0.1
+plautus.cistellaria,641.0,"pereo, miser, utrum, hic, ego, ferio, an, ab, laeua, latus",10,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",-0.1,-0.1,"miser, hic",0.2
+plautus.cistellaria,642.0,"quis, tu, sum, alcesimarchum, non, uideo, ferrum, teneo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.cistellaria,643.0,"ecquis, ago, remoraris, lumen, linquo, amo, accurro",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,644.0,"ne, sui, interimo, o, salus, meus, salus, salubris",8,"NaN, NaN, NaN, NaN, 1.0, 0.0, 1.0, 1.0",0.375,0.0,,0.0
+plautus.cistellaria,645.0,"tu, nunc, si, ego, uolo, seu, nolo, solus, ego, ut, uiuo, facio",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN, NaN, NaN, NaN",-0.042,-0.042,tu,0.083
+plautus.cistellaria,646.0,"haud, uolo, iste, seuerus, facio, nihil, cum, ego, tu",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.cistellaria,647.0,"mortuus, tu, sum, hic, ut, habeo, certus, sum, non, amitto",10,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.05,0.0,"tu, hic",0.2
+plautus.cistellaria,648.0,"nam, hercules, iam, ad, ego, ad-glutino, totus, decretum, sum, do",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,649.0,"ubi, sum, seruio, occludo, aedes, pessulis, repagulis",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,650.0,"ilico, hic, ego, fero, intra, limen, abeo, aufero",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+plautus.cistellaria,651.0,"mulier, eo, persequor, iam, ille, intro, ut, hic, ex, ego, scio",11,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"mulier, hic",0.182
+plautus.cistellaria,652.0,"idem, si, possum, tranquillus, facio, ex, irascor, ego",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,653.0,"nullus, ego, ego, uideo, credo, magis, anus, excruciabilis",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.cistellaria,654.0,"quam, illic, sum, qui, dudum, fateor, sum, ego, qui, infitior, eo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,655.0,"sed, ecce, sum, uideo, sed, quis, hic, sum, hic, qui, cistella, hic, iaceo",13,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic, hic, iaceo",0.308
+plautus.cistellaria,656.0,"cum, crepundia, neque, quisquam, conspicor, alius, in, uia",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,657.0,"facio, sum, puerilis, officium, conquinisco, ad, cistula",7,"NaN, NaN, 0.0, 0.5, NaN, NaN, NaN",0.071,0.0,cistula,0.143
+plautus.cistellaria,658.0,"quis, ago, lampadio, hic, cistella, numnam, hinc, ab, nos, domus, sum",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, numnam",0.182
+plautus.cistellaria,659.0,"nam, hinc, ab, ostium, iaceo, tollo, quis, nuntio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,iaceo,0.125
+plautus.cistellaria,660.0,"super, anus, scelestus, in, terra, nullus, sum, alter",8,"NaN, 0.0, -1.0, NaN, 0.0, NaN, NaN, NaN",-0.125,-0.125,scelestus,0.125
+plautus.cistellaria,661.0,"omnis, infitior, is, qui, dudum, confiteor, sum, ego",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,662.0,"nam, hercules, ego, quam, ille, anus, irrideo, ego, ut, sino, sero, sum, ego",13,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,663.0,"quouis, exitium, intereo, deus, obsecro, uester, fides",7,"NaN, -1.0, NaN, 0.0, NaN, NaN, 1.0",0.0,-0.143,,0.0
+plautus.cistellaria,664.0,"quis, deus, obsecro, seruo, nos, quis, sum, crepundia",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,665.0,"hic, sum, cum, qui, tu, effero, noster, filiola, ad, nex",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.1,-0.1,"hic, tu, nex",0.3
+plautus.cistellaria,666.0,"sano, -ne, sum, hic, sum, profecto, pergi, -ne, hic, sum, si, ego",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, pergi, hic",0.25
+plautus.cistellaria,667.0,"alius, mulier, istoc, pacisco, dico, dico, sum, ebrius",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, -0.5",-0.062,-0.062,"mulier, ebrius",0.25
+plautus.cistellaria,668.0,"non, ecastor, fallo, memoro, nam, obsecro, unde, hic, gens",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"ecastor, fallo, hic",0.333
+plautus.cistellaria,669.0,"aut, quis, deus, obiacio, hic, ante, ostium, nos, quasi",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.111
+plautus.cistellaria,670.0,"dedo, opus, in, tempus, ipse, spes, ego, sancio, subuenio",9,"NaN, 0.5, NaN, 0.0, NaN, 0.5, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.cistellaria,671.0,"nisi, quis, ego, ops, deus, do, dispereo, neque, unde, auxilium, expeto, habeo",12,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,672.0,"itaque, petulantia, meus, ego, animus, miser, habeo",7,"NaN, -0.5, 0.0, NaN, 0.5, -1.0, NaN",-0.143,-0.214,"petulantia, miser",0.286
+plautus.cistellaria,673.0,"qui, in, tergum, meus, ne, uenio, malus, formido",8,"NaN, NaN, NaN, 0.0, NaN, NaN, -1.0, -1.0",-0.25,-0.25,,0.0
+plautus.cistellaria,674.0,"si, era, meus, ego, scio, tam, socordem, sum, quam, sum",10,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,675.0,"quam, -ne, in, manus, tenuis, atque, accipio, hic, ante, aedes",10,"NaN, NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,hic,0.1
+plautus.cistellaria,676.0,"cistella, ubi, is, sum, nescio, nisi, ut, opinor",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,677.0,"locum, hic, circiter, excido, ego",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.2
+plautus.cistellaria,678.0,"meus, homo, meus, spectator, facio, indicium, si, quis, uideo",9,"0.0, 0.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,679.0,"quis, is, aufero, queo, tollo, et, utrum, hic, an, illac, iter, insto",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.083
+plautus.cistellaria,680.0,"non, sum, scio, qui, hic, rogo, aut, qui, fatigo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.111
+plautus.cistellaria,681.0,"qui, semper, malus, muliebris, sum, libet",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,muliebris,0.167
+plautus.cistellaria,682.0,"nunc, uestigium, hic, si, qui, sum, noscito",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.cistellaria,683.0,"nam, si, nemo, hic, praeter, eo, postquam, intro, abeo",9,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN, NaN",-0.056,-0.056,hic,0.111
+plautus.cistellaria,684.0,"cistella, hic, iaceo, quis, hic, pereo, opinor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, iaceo, hic",0.429
+plautus.cistellaria,685.0,"ago, sum, ilicet, ego, infelix, et, scelestus",7,"NaN, NaN, NaN, NaN, -1.0, NaN, -1.0",-0.286,-0.286,"infelix, scelestus",0.286
+plautus.cistellaria,686.0,"nullus, sum, neque, ego, sum, usquam, perdo, perdo, ego",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,687.0,"sed, pergo, ut, coepio, tamen, quaerito",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,688.0,"nam, et, intus, paueo, et, foris, formido, ita, nunc, utrobique, metus, ego, agito",13,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN, -1.0, NaN, NaN",-0.154,-0.154,,0.0
+plautus.cistellaria,689.0,"ita, sum, homo, mitto, miser",5,"NaN, NaN, 0.0, NaN, -1.0",-0.2,-0.2,miser,0.2
+plautus.cistellaria,690.0,"ille, nunc, laetus, sum, quisquis, sum, qui, ille, habeo",9,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN, NaN",0.111,0.0,,0.0
+plautus.cistellaria,691.0,"qui, neque, ille, ille, quisquam, usus, et, ego, exitium, sum",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.1,-0.1,,0.0
+plautus.cistellaria,692.0,"sed, ego, moror, cum, hic, ago, setius",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+plautus.cistellaria,693.0,"halisca, hic, ago, ad, terra, aspicio, et, despicio",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,hic,0.125
+plautus.cistellaria,694.0,"oculus, inuestigo, astus, auguro",4,"0.0, NaN, -0.5, NaN",-0.125,-0.125,astus,0.25
+plautus.cistellaria,695.0,"era, hem, quis, sum, hic, sum, quis, sum, qui, hic, excido, cistella",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.167
+plautus.cistellaria,696.0,"certus, sum, is, locus, signo, ubi, is, excido, appareo",9,"0.5, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.056,0.0,,0.0
+plautus.cistellaria,697.0,"sed, is, hic, eo, hic, soccus, uideo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic",0.286
+plautus.cistellaria,698.0,"uestigium, in, puluis, persequor, hic",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.2
+plautus.cistellaria,699.0,"in, hic, iam, locus, cum, alter, consto, hic, meus, turba, oculus, modo, sui, obiacio",14,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,"hic, hic",0.143
+plautus.cistellaria,700.0,"neque, prorsus, eo, hic, hic, sto, hinc, ille, exeo, hic, concilium, sum",12,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, hic, hic",0.25
+plautus.cistellaria,701.0,"ad, duo, attineo, liquidus, sum, attat, singulis, uideo, uestigium",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,702.0,"sed, is, hic, abeo, contemplo, hinc, huc, eo, hinc, nusquam, abeo",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.091
+plautus.cistellaria,703.0,"ago, res, ago, qui, pereo, pereo, meus, corium, cum, cistella",10,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,704.0,"redeo, intro, mulier, mane, sum, qui, uolo, tu, conuenio",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"mulier, tu",0.222
+plautus.cistellaria,705.0,"quis, ego, reuoco, bonus, femina, et, malus, masculus, uolo, tu",10,"NaN, NaN, NaN, 1.0, 0.0, NaN, -1.0, NaN, NaN, NaN",0.0,-0.1,tu,0.1
+plautus.cistellaria,706.0,"postremo, ille",2,"NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,707.0,"multus, qui, uoco, scio, qui, uolo, quam, ego, qui, uoco, reuorto",11,"0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,708.0,"ecqui, uideo, quaero, hic, amo, in, hic, regio",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, hic",0.25
+plautus.cistellaria,709.0,"cistella, cum, crepundia, quam, ego, hic, amitto, misero",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, misero",0.25
+plautus.cistellaria,710.0,"nam, dudum, ut, accurro, ad, alcesimarchum, ne, sui",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,711.0,"uito, interimo, tum, is, ego, opinor, excido",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,712.0,"cistella, hic, mulier, perdo, taceo, era, parumper",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"hic, mulier",0.286
+plautus.cistellaria,713.0,"dispereo, misero, quis, ego, era, dico, qui, ego, opus, tantus",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.05,0.0,misero,0.1
+plautus.cistellaria,714.0,"seruaris, iubeo, qui, suus, selenion, parens",6,"NaN, NaN, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+plautus.cistellaria,715.0,"facilis, possum, nosco, qui, era, meus, suppono, sum, paruus",9,"0.5, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.056,0.0,,0.0
+plautus.cistellaria,716.0,"quam, quidam, meretrix, is, do, noster, hic, res, fabulor",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"meretrix, hic",0.222
+plautus.cistellaria,717.0,"hic, scio, oportet, filia, tuus, ubi, sum, signum, ut, dico",10,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.1
+plautus.cistellaria,718.0,"nunc, is, uolo, suus, mater, et, pater, qui, nata, sum, reddo, ultro",12,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,719.0,"ego, homo, obsecro, alius, res, gero, ego, tu, meus, res, mando",11,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,tu,0.091
+plautus.cistellaria,720.0,"iste, ago, atque, istic, ego, cibus, sum, qui, fabularis",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,721.0,"sed, inter, res, ago, iste, era, hic, respondeo, qui, rogo",10,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.1
+plautus.cistellaria,722.0,"nunc, ad, tu, redeo, si, quis, sum, opus, dico, impetro, sum",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.045,0.0,tu,0.091
+plautus.cistellaria,723.0,"quis, quaerito, ego, homo, et, meus, mulier, tu, saluto",9,"NaN, NaN, NaN, 0.0, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,"mulier, tu",0.222
+plautus.cistellaria,724.0,"et, nos, tu, sed, quis, quaerito, uestigium, hic, requiro",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, hic",0.222
+plautus.cistellaria,725.0,"qui, aufugio, quidam, aestio, quis, id., quis, nam, sum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,726.0,"alienus, et, maeror, familiaris",4,"-0.5, NaN, -1.0, 1.0",-0.125,-0.375,,0.0
+plautus.cistellaria,727.0,"malus, mers, era, hic, et, callidus, sum, ecastor, ita, uideo",10,"-1.0, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.0,-0.1,"hic, callidus, ecastor",0.3
+plautus.cistellaria,728.0,"imito, nequam, bestia, et, damnificus, quisnam, amo",7,"NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,"nequam, bestia",0.286
+plautus.cistellaria,729.0,"inuoluolum, qui, in, pampinus, folium, intorqueo, implico, sui",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,730.0,"itidem, hic, exordior, sui, intorqueo, oratio",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,hic,0.167
+plautus.cistellaria,731.0,"quis, quaerito, cistellula, hinc, ego, adulescens, euolo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,adulescens,0.143
+plautus.cistellaria,732.0,"in, cauea, fero, oportet, non, edepol, praeda, magnus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,edepol,0.125
+plautus.cistellaria,733.0,"mirus, quin, grex, uenalis, in, cistella, insum, unus",8,"1.0, NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.25,0.0,uenalis,0.125
+plautus.cistellaria,734.0,"sine, dico, si, dico, quidem, ago, loquor, tu, quis, ibi, insum",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.091
+plautus.cistellaria,735.0,"crepundia, unus, sum, quidam, homo, qui, ille, aio, sui, scio, ubi, sum",12,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,736.0,"at, pol, ille, ab, quidam, mulier, si, is, monstro, gratia, ineo",11,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 1.0, NaN",0.091,0.0,mulier,0.091
+plautus.cistellaria,737.0,"at, sui, ille, quidam, uolo, do, merces, at, pol, ille, quidam",11,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.091,0.0,,0.0
+plautus.cistellaria,738.0,"qui, ille, cistella, perdo, quoidam, nego, sum, qui, do",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,739.0,"at, enim, ille, quidam, opera, bonus, magis, expeto, quam, argentum",10,"NaN, NaN, NaN, NaN, -0.5, 1.0, NaN, NaN, NaN, NaN",0.05,-0.05,,0.0
+plautus.cistellaria,740.0,"at, pol, ille, quoidam, mulier, nullus, opus, gratuitus, sum",9,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.5, 0.5, NaN",0.111,0.0,"mulier, gratuitus",0.222
+plautus.cistellaria,741.0,"commodulis, quidam, tu, tu, nunc, prodo, confiteor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu",0.286
+plautus.cistellaria,742.0,"cistella, habeo, at, tu, salus, seruassit, ubi, is, nunc, sum",10,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.1,0.0,tu,0.1
+plautus.cistellaria,743.0,"saluus, ecce, sed, ego, res, meus, magnus, confabularis",8,"1.0, NaN, NaN, NaN, 0.0, 0.0, 0.0, NaN",0.125,0.0,,0.0
+plautus.cistellaria,744.0,"cum, tu, uolo, socia, tu, ego, adopto, ad, meus, salus",10,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 1.0",0.1,0.0,"tu, tu",0.2
+plautus.cistellaria,745.0,"quis, iste, negotium, sum, aut, quis, sum, ego, sum, ille, mater",11,"NaN, NaN, -0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",-0.045,-0.045,,0.0
+plautus.cistellaria,746.0,"qui, hic, gestito, hic, tu, ergo, habito, hariolaris",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, gestito, hic, tu",0.5
+plautus.cistellaria,747.0,"sed, quaeso, ambages, mulier, mitto, atque, hic, ago",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"mulier, hic",0.25
+plautus.cistellaria,748.0,"eloquor, unde, hic, sum, tu, cito, crepundia",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, tu",0.286
+plautus.cistellaria,749.0,"meus, hic, erilis, gestito, filia",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,"hic, gestito",0.4
+plautus.cistellaria,750.0,"mentior, nam, meus, gestito, non, tuus",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,gestito,0.167
+plautus.cistellaria,751.0,"ne, obloquor, taceo, mulier, pergo, dico",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,mulier,0.167
+plautus.cistellaria,752.0,"ubi, is, sum, qui, gestito, hic, in, propior",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"gestito, hic",0.25
+plautus.cistellaria,753.0,"istic, quidem, edepol, meus, uir, habito, gener, ne, obloquor, rusus, pergo, porro, dico",13,"NaN, NaN, NaN, 0.0, 0.5, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.038,0.0,edepol,0.077
+plautus.cistellaria,755.0,"quot, annus, nata, dico, septendecim",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+plautus.cistellaria,756.0,"meus, sum, is, sum, quintus, numerus, annus, affero",8,"0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+plautus.cistellaria,757.0,"quis, qui, tu, causa, hic, dico, iam, quaero, meus",9,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"tu, hic",0.222
+plautus.cistellaria,758.0,"at, pol, ego, sum, quaero, tertius",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,759.0,"qui, quaerito, filia, inuenio, meus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,760.0,"aequus, sum, repono, per, fides, qui, credo, sum",8,"0.5, NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.188,0.0,,0.0
+plautus.cistellaria,761.0,"ne, bene, mereo, sum, malus, benignitas",6,"NaN, NaN, NaN, NaN, -1.0, 1.0",0.0,-0.167,,0.0
+plautus.cistellaria,762.0,"noster, hic, alumnus, sum, tuus, profecto, filia, et, reddo, sum, tuus, tu, et, is, gratia, domus, proficio, sum, ceterum, ex, ipse, obsecro",22,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 1.0, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.045,0.0,"hic, tu",0.091
+plautus.cistellaria,765.0,"ex-quaero, ego, seruo, sum, aequus, postulo",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+plautus.cistellaria,766.0,"ille, ego, iste, sum, malus, gratia",6,"NaN, NaN, NaN, NaN, -1.0, 1.0",0.0,-0.167,,0.0
+plautus.cistellaria,767.0,"sed, iste, cistella, tu, obsecro, ut, reddo, ego",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.cistellaria,768.0,"quis, fio, lampadio, qui, tuus, sum, teneo, tuus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,769.0,"at, ego, hic, misero, sic, facio, censeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, misero",0.286
+plautus.cistellaria,770.0,"do, iste, cistella, et, intro, abeo, cum, istac, semul",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,771.0,"tu, ausculto, teneo, tu, cistella, tu",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, tu, tu",0.5
+plautus.cistellaria,772.0,"abeo, intro, sed, quis, sum, nomen, tuus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,773.0,"domina, melaenis, eo, prae, iam, ego, tu, sequor",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+plautus.cistellaria,774.0,"quis, hic, negotium, sum, qui, omnis, homo, fabulor, per, uia",10,"NaN, NaN, -0.5, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",-0.05,-0.05,hic,0.1
+plautus.cistellaria,775.0,"ego, sum, filia, inuenio, et, lampadio, ego, in, forum",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,776.0,"quaero, aio, eremus, unde, is, ex, senatus, gaudeo",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,,0.0
+plautus.cistellaria,777.0,"tu, meus, opus, liberi, sum, amplus, enim, non, placeo",9,"NaN, 0.0, 0.5, 1.0, NaN, 0.0, NaN, NaN, NaN",0.167,0.0,tu,0.111
+plautus.cistellaria,778.0,"nihil, moror, alienus, ego, opus, fio, multus, liber",8,"NaN, NaN, -0.5, NaN, 0.5, NaN, 0.0, 0.5",0.062,-0.062,,0.0
+plautus.cistellaria,779.0,"sed, quis, iste, sum, propero, eo, intro, huc, ad, affinis, tuus",11,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,780.0,"filia, tuus, iam, cognosco, intus, ibidem, uxor, tuus, sum",9,"NaN, 0.0, NaN, NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,uxor,0.111
+plautus.cistellaria,781.0,"abeo, cito, prae-uerto, hic, certus, sum, res, alius, omnis",9,"NaN, NaN, NaN, NaN, 0.5, NaN, 0.0, NaN, NaN",0.056,0.0,hic,0.111
+plautus.cistellaria,782.0,"ne, exspecto, spectator, dum, ille, huc, ad, tu, exeo",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.111
+plautus.cistellaria,783.0,"nemo, exeo, omnis, intus, confacio, negotium",6,"-0.5, NaN, NaN, NaN, NaN, -0.5",-0.167,-0.167,,0.0
+plautus.cistellaria,784.0,"ubi, is, sum, facio, ornamentum, pono, postidea, locus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+plautus.cistellaria,785.0,"qui, delinquo, uapulo, qui, non, delinquo, bibo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+plautus.cistellaria,786.0,"nunc, qui, ad, tu, spectator, relicuom, relinquo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+plautus.cistellaria,787.0,"mos, magnus, do, plausus, postremo, in, comoedia",7,"0.5, 0.0, NaN, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
