@@ -1057,3 +1057,5 @@ seneca.agamemnon,1055.0,"ut, par, fatum, troicis, luo, malus",6,"NaN, 0.5, 0.0, 
 seneca.agamemnon,1056.0,"pereo, donum, femina, stuprum, dolus",5,"NaN, 0.0, 0.0, -1.0, NaN",-0.2,-0.2,"stuprum, dolus",0.4
 seneca.agamemnon,1057.0,"nihil, moror, rapio, quin, grates, ago",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
 seneca.agamemnon,1058.0,"iam, iam, iuuo, uiuo, post, troiam, iuuo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+seneca.agamemnon,1059.0,"furiosus, morior",2,"-1.0, NaN",-0.5,-0.5,furiosus,0.5
+seneca.agamemnon,1060.0,"uenio, et, tu, furor",4,"NaN, NaN, NaN, -1.0",-0.25,-0.25,"tu, furor",0.5
