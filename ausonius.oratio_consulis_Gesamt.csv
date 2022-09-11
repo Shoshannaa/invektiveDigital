@@ -1,0 +1,39 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+ausonius.oratio_consulis,3.1,"spes, deus, aeternus, statio, conciliator",5,"0.5, 0.0, 0.5, NaN, NaN",0.2,0.0,,0.0
+ausonius.oratio_consulis,3.2,"si, caueo, prex, uenial, inuigilamus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.oratio_consulis,3.3,"hic, pater, oro, placabilis, adstipularis",5,"NaN, 0.0, NaN, 1.0, NaN",0.2,0.0,hic,0.2
+ausonius.oratio_consulis,3.4,"do, christe, specimen, cognoscier, inreprehensum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.oratio_consulis,3.5,"rex, bonus, cultor, famulantum, uiuificator",5,"0.0, 1.0, NaN, NaN, NaN",0.2,0.0,,0.0
+ausonius.oratio_consulis,3.6,"cum, pater, maiestas, alo, non, generate.",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.oratio_consulis,3.7,"do, terni, colume, -ne, paraclito, consociante",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.oratio_consulis,3.8,"ut, longus, celeber, deuotio, continuo",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.oratio_consulis,3.9,"ad, tu, propero, uigilo, conuenienter",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+ausonius.oratio_consulis,3.1,"nox, lux, reueho, funal, anteferendam",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.oratio_consulis,3.11,"nox, lumen, pario, credo, indubitas",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.oratio_consulis,3.12,"nox, flamma, opus, meditatrix, sidereorum",5,"0.0, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+ausonius.oratio_consulis,3.13,"tu, mensis, dirimis, ieiunium, religiosus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.2
+ausonius.oratio_consulis,3.14,"tu, bonus, promitto, surgo, concelebraris",5,"NaN, 1.0, NaN, NaN, NaN",0.2,0.0,tu,0.2
+ausonius.oratio_consulis,3.15,"do, rector, modicus, effarier, omnipotens",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.oratio_consulis,3.16,"fons, tuus, emundat, recreatu, iustificatos",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.oratio_consulis,3.17,"do, mens, obliuiscor, positor, flagitium",5,"NaN, 0.5, NaN, NaN, -1.0",-0.1,-0.2,flagitium,0.2
+ausonius.oratio_consulis,3.18,"do, agnus, niueus, splendescere, purificatos",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,niueus,0.2
+ausonius.oratio_consulis,3.21,"lux, uerbum, inducta, pecco, auxiliatrix, ut, nouo, iordanis, ablutio, sanctifico, cum, suus, digno, tinguentia, promereo, et, christus, regime, -ne, elementum, inrequietis",21,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.024,0.0,iordanis,0.048
+ausonius.oratio_consulis,3.22,"fero, unda, medicus, baptisma, intemerati",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.oratio_consulis,3.23,"ut, noxa, aufero, mortalis, extenuo",5,"NaN, -1.0, NaN, -1.0, NaN",-0.4,-0.4,noxa,0.2
+ausonius.oratio_consulis,3.24,"crux, poena, exter, propero, inmaculato",5,"NaN, -1.0, 0.0, NaN, NaN",-0.2,-0.2,"crux, poena",0.4
+ausonius.oratio_consulis,3.25,"ut, uita, amitto, renouo, mortifico",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.oratio_consulis,3.28,"tot, res, titulus, obnoxius, immodicaris, quis, dignus, dominus, praeconium, continuo",10,"NaN, 0.0, NaN, -0.5, NaN, NaN, 1.0, NaN, 0.0, NaN",0.05,-0.05,,0.0
+ausonius.oratio_consulis,3.29,"an, terra, humanus, locupleto, commemoratu",5,"NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,locupleto,0.2
+ausonius.oratio_consulis,3.3,"qui, uox, resono, modulor, angelicaris",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+ausonius.oratio_consulis,3.31,"do, aula, stephanos, pretiosus, dilapidato",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,pretiosus,0.2
+ausonius.oratio_consulis,3.32,"do, clauo, superus, cathedral, incohator",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.oratio_consulis,3.33,"quin, paulus, infestus, copulo, adglomeratu",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,,0.0
+ausonius.oratio_consulis,3.34,"fio, doctor, populus, lapidantum, constimulator",5,"NaN, 0.5, 0.0, NaN, NaN",0.1,0.0,,0.0
+ausonius.oratio_consulis,3.35,"ut, latro, confessor, paradisus, participo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,latro,0.2
+ausonius.oratio_consulis,3.36,"sic, credo, adnecto, dirissima, clarificandis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.oratio_consulis,3.37,"nos, serus, famulus, ad-cresco, perpetieris",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+ausonius.oratio_consulis,3.38,"sub, talis, edoceo, antistes, relligio",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,,0.0
+ausonius.oratio_consulis,3.39,"do, sensus, solidus, stabilitum, credulitas",5,"NaN, 0.5, 0.0, NaN, -1.0",-0.1,-0.2,,0.0
+ausonius.oratio_consulis,3.4,"facio, iungo, numerus, rediuiuus, glorifico",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+ausonius.oratio_consulis,3.41,"ad, caelum, inuito, consortium, terrigenaris",5,"NaN, 0.5, NaN, 0.0, NaN",0.1,0.0,,0.0
+ausonius.oratio_consulis,3.42,"spes, deus, aeternus, statio, conciliator",5,"0.5, 0.0, 0.5, NaN, NaN",0.2,0.0,,0.0
