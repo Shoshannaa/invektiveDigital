@@ -1,0 +1,975 @@
+Text,Stelle,Inahlt,Wortzahl,Sentiment Rechnung,Sentiment-Score,alternativer Sentiment-Score,Invektiven,Invektivitäts-Score
+dracontius.orestes,1.0,"gaudium, maestus, cano, detestandosque, triumphus",5,"1.0, -1.0, NaN, NaN, NaN",0.0,-0.2,,0.0
+dracontius.orestes,2.0,"uictor, pro, laus, nex, festiuus, cruento",6,"NaN, NaN, 1.0, -1.0, NaN, NaN",0.0,-0.167,"nex, cruento",0.333
+dracontius.orestes,3.0,"funus, afficio, et, lamentabilis, uotum",5,"-0.5, NaN, NaN, NaN, 0.0",-0.1,-0.1,,0.0
+dracontius.orestes,4.0,"coniunx, iliacus, non, qui, iugulo, atridem",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,iugulo,0.167
+dracontius.orestes,5.0,"laureus, regal, rutilo, sero, cruor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,cruor,0.2
+dracontius.orestes,6.0,"et, diadema, dux, foedo, tabeo, cerebrum",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,"foedo, tabeo",0.333
+dracontius.orestes,7.0,"mater, in, exitium, memoro, obliuiscor, parens",6,"0.0, NaN, -1.0, NaN, NaN, 0.5",-0.083,-0.167,,0.0
+dracontius.orestes,8.0,"impietas, pius, reprobae, probitas, orestem",5,"-1.0, NaN, NaN, 1.0, NaN",0.0,-0.2,impietas,0.2
+dracontius.orestes,9.0,"iniustus, sed, ius, deus, ratio, ferox",6,"-1.0, NaN, 0.5, 0.0, 0.0, -1.0",-0.25,-0.333,"iniustus, ferox",0.333
+dracontius.orestes,10.0,"insontemque, reus, purgantia, templum, soror",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,reus,0.2
+dracontius.orestes,11.0,"thracia, uirginitas, qui, do, de, clades, salus",7,"NaN, NaN, NaN, NaN, NaN, -1.0, 1.0",0.0,-0.143,,0.0
+dracontius.orestes,12.0,"fraus, pius, mendax, bonus, germanus, sacerdos",6,"-1.0, NaN, -1.0, 1.0, NaN, NaN",-0.167,-0.333,"fraus, mendax",0.333
+dracontius.orestes,13.0,"tu, rogo, melpomene, tragicus, descendo, cothurnus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+dracontius.orestes,14.0,"et, pes, dactylicus, resono, quiesco, iambus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,15.0,"do, ualeo, memoro, nefas, laudabilis, nascor",6,"NaN, NaN, NaN, -1.0, 1.0, NaN",0.0,-0.167,nefas,0.167
+dracontius.orestes,16.0,"et, purgaris, forum, qui, damnauere, soror",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,17.0,"qui, dolor, accendo, pudor, excito, erigo, ira",7,"NaN, -1.0, NaN, 0.5, NaN, NaN, -1.0",-0.214,-0.286,pudor,0.143
+dracontius.orestes,18.0,"mens, leuo, attollo, animus, bonus, impetus, urgeo",7,"0.5, NaN, NaN, 0.5, 1.0, NaN, NaN",0.286,0.0,,0.0
+dracontius.orestes,19.0,"do, furor, almus, pius, pingo, do, noxius, ferrum",8,"NaN, -1.0, NaN, NaN, NaN, NaN, 0.5, NaN",-0.062,-0.125,"furor, noxius",0.25
+dracontius.orestes,20.0,"et, medicinal, quatio, sano, furor",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,furor,0.2
+dracontius.orestes,21.0,"ex-tingo, titulus, uictriciaque, arma, sepelio",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,sepelio,0.2
+dracontius.orestes,22.0,"crimen, ultor, dum, crimen, amputo, auctor",6,"-1.0, NaN, NaN, -1.0, NaN, NaN",-0.333,-0.333,"crimen, ultor, crimen",0.5
+dracontius.orestes,23.0,"et, thalamus, uindex, thalamus, specto, neco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uindex,0.167
+dracontius.orestes,24.0,"ante, torus, iaceo, ille, torus, genial, amator",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"iaceo, amator",0.286
+dracontius.orestes,25.0,"ductor, ducto, rex, rex, dux, agamemno, -ne",7,"NaN, NaN, 0.0, 0.0, 0.5, NaN, NaN",0.071,0.0,agamemno,0.143
+dracontius.orestes,26.0,"post, duo, lustro, redux, et, post, duo, bellum, triumpho",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,27.0,"martia, bellipotens, refero, classicus, princeps",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+dracontius.orestes,28.0,"puppis, argolicis, rex, pergama, uiuo, reporto",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,pergama,0.167
+dracontius.orestes,29.0,"iliacus, nurus, et, troica, germino, mater",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,nurus,0.167
+dracontius.orestes,30.0,"diuitiae, asia, rex, censeo, cor, sileo",6,"0.5, NaN, 0.0, NaN, NaN, NaN",0.083,0.0,,0.0
+dracontius.orestes,31.0,"maximus, fulmineus, dicto, donum, tono",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,fulmineus,0.2
+dracontius.orestes,32.0,"bonus, iuno, scribo, munus, magnus",5,"1.0, NaN, NaN, 0.5, 0.0",0.3,0.0,,0.0
+dracontius.orestes,33.0,"atque, minerual, donum, addo, athenae",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,34.0,"omnis, et, superi, danais, quicumque, faueo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,35.0,"nescius, uxor, scelerus, ignarus, ago",5,"-0.5, 0.0, NaN, -1.0, NaN",-0.3,-0.3,"nescius, uxor, scelerus",0.6
+dracontius.orestes,36.0,"donum, clytaemestrae, non, dignus, multus, paro",6,"0.0, NaN, NaN, 1.0, 0.0, NaN",0.167,0.0,,0.0
+dracontius.orestes,37.0,"multus, subrideo, genitor, dispono, orestion",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,38.0,"qui, apto, pietas, amor, uel, origo, paternus",7,"NaN, NaN, 1.0, 1.0, NaN, NaN, NaN",0.286,0.0,,0.0
+dracontius.orestes,39.0,"non, tamen, aequus, simul, meritum, animus, sum",7,"NaN, NaN, 0.5, NaN, 1.0, 0.5, NaN",0.286,0.0,,0.0
+dracontius.orestes,40.0,"donum, uerecundus, seruo, pulcher, puella",5,"0.0, 1.0, NaN, 1.0, NaN",0.4,0.0,,0.0
+dracontius.orestes,41.0,"interea, findo, iter, per, caerulus, pontus",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,caerulus,0.167
+dracontius.orestes,42.0,"irascor, tranquillus, deus, recidentibus, eurus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,43.0,"candidus, fluctiuagi, tendo, carbasus, uentus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,44.0,"quo, non, curro, sum, sed, quo, dux, impello, auster",9,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.056,0.0,,0.0
+dracontius.orestes,45.0,"taurica, perduco, ad, litus, castrum, pelasga",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,46.0,"impero, indomitus, praeda, praeeo, mycenis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,indomitus,0.2
+dracontius.orestes,47.0,"ipse, sequor, post, uotum, soluo, diana",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,48.0,"ingredior, templum, supplex, ueneranter, adoro",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,49.0,"numen, castus, dea, dum, fero, munus, ad, ara",8,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.062,0.0,,0.0
+dracontius.orestes,50.0,"stamen, purpureus, pingo, sericum, uelis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,51.0,"peplum, corusco, uarius, gemmo, lapillus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,52.0,"uideo, iphigenia, turibulum, serus, fero",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,53.0,"haereo, et, attono, oculus, in, uirgo, figo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,uirgo,0.143
+dracontius.orestes,54.0,"obstipesco, pietas, et, mens, sui, conscius, prauus",7,"NaN, 1.0, NaN, 0.5, NaN, -0.5, -1.0",0.0,-0.214,"conscius, prauus",0.286
+dracontius.orestes,55.0,"agmen, pro, danaum, culter, ferio, litatam",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,danaum,0.167
+dracontius.orestes,56.0,"nosco, et, similis, nascor, possum, puto",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,57.0,"candidus, uirgo, tamen, multus, iam, cognosco, pater",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,uirgo,0.143
+dracontius.orestes,58.0,"coepio, officium, cieo, do, ipse, minister",6,"NaN, 0.5, NaN, NaN, NaN, 0.0",0.083,0.0,,0.0
+dracontius.orestes,59.0,"mysticus, continuo, sumo, uas, ignis, repleo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,uas,0.167
+dracontius.orestes,60.0,"regius, uirgo, cito, per, patria, collum, pendeo",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,uirgo,0.143
+dracontius.orestes,61.0,"osculum, purus, peto, et, do, commercium, mundus",7,"0.0, 1.0, NaN, NaN, NaN, NaN, 1.0",0.286,0.0,,0.0
+dracontius.orestes,62.0,"mox, imber, rigo, os, pius, nata, pater",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,63.0,"conticesco, genitor, dum, uultus, gaudium, ploro",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+dracontius.orestes,64.0,"et, gemitus, creber, singultus, osculum, rumpo",6,"NaN, -0.5, NaN, NaN, 0.0, NaN",-0.083,-0.083,,0.0
+dracontius.orestes,65.0,"tandem, uox, iter, pietas, resero, et, in-fio",7,"NaN, 0.0, 0.0, 1.0, NaN, NaN, NaN",0.143,0.0,,0.0
+dracontius.orestes,66.0,"filia, noster, amor, et, noster, nata, reatus",7,"NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+dracontius.orestes,67.0,"uiuis, an, effigio, et, imago, uolatilis, extas",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,68.0,"sic, letum, non, sum, sacro, mors, dico",7,"NaN, -1.0, NaN, NaN, NaN, -1.0, NaN",-0.286,-0.286,,0.0
+dracontius.orestes,69.0,"gaudeo, do, uenia, sic, corruis, ensis, deus",7,"NaN, NaN, 1.0, NaN, NaN, NaN, 0.0",0.143,0.0,,0.0
+dracontius.orestes,70.0,"nam, uiuo, tu, membrum, doceo, ago, fateor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.143
+dracontius.orestes,71.0,"dico, igitur, qui, sors, manes, ab, mater, dis-redimo",8,"NaN, NaN, NaN, -1.0, NaN, NaN, 0.0, NaN",-0.125,-0.125,,0.0
+dracontius.orestes,72.0,"ad, delubrum, dea, posterus, tempus, uincio",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,73.0,"et, qui, multus, miro, per, .., sacer, diana",8,"NaN, NaN, 0.0, NaN, NaN, NaN, 1.0, NaN",0.125,0.0,,0.0
+dracontius.orestes,74.0,"dico, hic, genitor, qui, sic, sum, uirgo, loquor",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"hic, uirgo",0.25
+dracontius.orestes,75.0,"cum, pater, hectoreos, peto, classis, ager",6,"NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,classis,0.167
+dracontius.orestes,76.0,"fraus, ulixeae, formo, epistula, mendax",5,"-1.0, NaN, NaN, 0.5, -1.0",-0.3,-0.4,"fraus, mendax",0.4
+dracontius.orestes,77.0,"nomen, uester, teneo, quasi, iubeo, ipse, uenio",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,78.0,"ocior, ad, thalamus, coniunx, sponsantis, achillis",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+dracontius.orestes,79.0,"credulus, mater, sum, qui, ego, committo, ulixi",7,"-0.5, 0.0, NaN, NaN, NaN, NaN, NaN",-0.071,-0.071,credulus,0.143
+dracontius.orestes,80.0,"neque, uoco, ad, thalamus, sed, uictima, trado, ad, ara",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,81.0,"at, mitis, pius, templum, dea, misero, diana",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,misero,0.143
+dracontius.orestes,82.0,"pro, ego, cerua, do, lugeo, uicarius, nullus",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,83.0,"sic, rapio, culter, et, seruius, tus, alumnus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,84.0,"casus, audio, doleo, gaudeo, atrides",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,atrides,0.2
+dracontius.orestes,85.0,"qui, numen, ueneror, aio, prex, pectus, tus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,86.0,"plectriferi, germanus, deus, letoia, phoebus",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,87.0,"nomen, tu, quicumque, dea, praeclarus, uocaris",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.167
+dracontius.orestes,88.0,"numen, mox, ipse, praesto, quicumque, rogaris",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,89.0,"mitis, exsisto, sacer, largior, cruor",5,"1.0, NaN, 1.0, NaN, NaN",0.4,0.0,cruor,0.2
+dracontius.orestes,90.0,"luctus, omitto, dono, lamento, parens",5,"-1.0, NaN, NaN, NaN, 0.5",-0.1,-0.2,,0.0
+dracontius.orestes,91.0,"mucro, sacerdos, ferueo, ieiunus, et, expers",6,"-1.0, NaN, NaN, NaN, NaN, NaN",-0.167,-0.167,,0.0
+dracontius.orestes,92.0,"sanguis, humanus, contineo, sanguis, uilis",5,"NaN, 0.0, NaN, NaN, -0.5",-0.1,-0.1,uilis,0.2
+dracontius.orestes,93.0,"tu, rapio, ex, ara, anima, et, mors, paro",8,"NaN, NaN, NaN, NaN, 0.5, NaN, -1.0, NaN",-0.062,-0.125,tu,0.125
+dracontius.orestes,94.0,"pignus, reddo, precor, rex, post, funero, pater",7,"0.0, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,95.0,"ut, prosum, demo, nex, tu, de_-lio, supplex",7,"NaN, NaN, NaN, -1.0, NaN, NaN, 0.0",-0.143,-0.143,"nex, tu, de_-lio",0.429
+dracontius.orestes,96.0,"mille, do, pecus, ceruus, hircosque, suo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,97.0,"cornu, armo, luno, frons, iuuenca",5,"NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+dracontius.orestes,98.0,"nihil, ago, troia, sum, si, non, comito, mycenas",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,99.0,"uirgi, -ne, pergo, redux, plangenti, reddo, mater",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,100.0,"quam, puto, ex-tingo, uester, pietas, re-emo",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+dracontius.orestes,101.0,"sentio, et, uerto, proprius, in, gaudium, planctos",7,"NaN, NaN, NaN, 0.0, NaN, 1.0, NaN",0.143,0.0,,0.0
+dracontius.orestes,102.0,"hic, prex, commoueo, dea, crudesco, in, ira",7,"NaN, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,hic,0.143
+dracontius.orestes,103.0,"auerto, uultus, oculus, mens, rogo",5,"NaN, NaN, 0.0, 0.5, NaN",0.1,0.0,,0.0
+dracontius.orestes,104.0,"sentio, ut, armipotens, flammaris, cor, diana",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,105.0,"terreo, retro, pedis, cum, uox, coerceo",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,coerceo,0.167
+dracontius.orestes,106.0,"tristis, ad, aequoreus, celerat, uestigium, fluctus",6,"-1.0, NaN, NaN, NaN, NaN, 0.0",-0.167,-0.167,,0.0
+dracontius.orestes,107.0,"puppis, impono, proscindo, cursus, aequor",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,108.0,"interea, dum, carpo, iter, spumo, unda",6,"NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,109.0,"fama, mycenaeas, uolito, re-pleo, ora",5,"1.0, NaN, NaN, NaN, NaN",0.2,0.0,,0.0
+dracontius.orestes,110.0,"aduenio, dux, ditas, sors, bellum",5,"NaN, 0.5, NaN, -1.0, 0.0",-0.1,-0.2,,0.0
+dracontius.orestes,111.0,"neque, mora, praeda, uenio, palmo, puppis, omnis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,112.0,"occurro, oculus, danaae, de, turris, urbs",6,"NaN, 0.0, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+dracontius.orestes,113.0,"moenia, femineus, repleo, cunctus, caterua",5,"NaN, -0.5, NaN, 0.0, NaN",-0.1,-0.1,,0.0
+dracontius.orestes,114.0,"captiuus, uideo, phryges, agamemnon, uxor",5,"-1.0, NaN, NaN, NaN, 0.0",-0.2,-0.2,"captiuus, uxor",0.4
+dracontius.orestes,115.0,"adsum, aduenio, metuo, impurus, maritus",5,"NaN, NaN, NaN, -1.0, 0.0",-0.2,-0.2,"impurus, maritus",0.4
+dracontius.orestes,116.0,"qui, uideo, cedo, locus, mater, nurusque",6,"NaN, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,117.0,"consto, insipiens, ut, adultero, regius, coniunx",6,"NaN, -1.0, NaN, NaN, 0.0, -0.5",-0.25,-0.25,insipiens,0.167
+dracontius.orestes,118.0,"publicus, planctigeris, exsecrans, gaudium, uotum",5,"0.0, NaN, NaN, 1.0, 0.0",0.2,0.0,,0.0
+dracontius.orestes,119.0,"anxius, sollicito, quatio, cor, pauor",5,"-1.0, NaN, NaN, NaN, -1.0",-0.4,-0.4,,0.0
+dracontius.orestes,120.0,"supplicium, exspecto, scelus, uenio, marito",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,"supplicium, scelus, marito",0.6
+dracontius.orestes,121.0,"atque, oculus, per, cunctus, iacio, mando, timor",7,"NaN, 0.0, NaN, 0.0, NaN, NaN, -0.5",-0.071,-0.071,,0.0
+dracontius.orestes,122.0,"et, pallor, premo, ipse, gena, feruor, recens",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"pallor, gena",0.286
+dracontius.orestes,123.0,"attamen, infelix, animus, uerso, adulter",5,"NaN, -1.0, 0.5, NaN, NaN",-0.1,-0.2,"infelix, adulter",0.4
+dracontius.orestes,124.0,"at, ubi, non, uideo, descendo, puppis, tyrannus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tyrannus,0.143
+dracontius.orestes,125.0,"impunitus, puto, suus, crimen, possum, maneo",6,"-1.0, NaN, NaN, -1.0, NaN, NaN",-0.333,-0.333,crimen,0.167
+dracontius.orestes,126.0,"gaudeo, et, internus, mens, secerno, fateor",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+dracontius.orestes,127.0,"per-misceo, candor, rubor, pallor, fugo",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,"rubor, pallor",0.4
+dracontius.orestes,128.0,"et, lasciuus, reus, pulcrescunt, gaudium, uultus",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,"lasciuus, reus",0.333
+dracontius.orestes,129.0,"credo, aequoreus, qui, rex, sum, mergo, in, unda",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,130.0,"neque, uolo, scio, mora, tantus, contineo, qui, absum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,131.0,"et, celer, cupio, eo, gradus, dico, maritus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,maritus,0.143
+dracontius.orestes,132.0,"non, reducem, moechus, sed, spes, ibi, fallo, audax",8,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.062,0.0,"moechus, fallo, audax",0.375
+dracontius.orestes,133.0,"propter, is, sors, rex, sum, cassandra, sacerdos",7,"NaN, NaN, -1.0, 0.0, NaN, NaN, NaN",-0.143,-0.143,,0.0
+dracontius.orestes,134.0,"inter, dardanias, clades, danaumque, triumphus",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,,0.0
+dracontius.orestes,135.0,"non, habeo, indignus, licet, sum, portio, praeda",7,"NaN, NaN, -1.0, NaN, NaN, 0.0, NaN",-0.143,-0.143,,0.0
+dracontius.orestes,136.0,"ipse, clytaemestrae, sacro, corripio, furor",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,furor,0.2
+dracontius.orestes,137.0,"longus, exclamo, salueo, regina, pelasgum",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,pelasgum,0.2
+dracontius.orestes,138.0,"ultio, dardanidum, capio, solacium, troia",5,"-1.0, NaN, NaN, 1.0, NaN",0.0,-0.2,ultio,0.2
+dracontius.orestes,139.0,"tu, triumphal, domito, bonus, pastor, egiste",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,tu,0.167
+dracontius.orestes,140.0,"plumeus, qui, praesto, post, pello, stramen, lectus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,141.0,"qui, post, tectum, cado, regal, suscipio, aula",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,142.0,"quis, dubito, adhuc, uester, releuaris, timor",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+dracontius.orestes,143.0,"perdo, ne, pereo, uester, cito, fructus, amor",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 1.0",0.214,0.0,,0.0
+dracontius.orestes,144.0,"tempus, adsum, et, fatum, iubeo, et, culpa, perurguet",8,"0.0, NaN, NaN, 0.0, NaN, NaN, -1.0, NaN",-0.125,-0.125,culpa,0.125
+dracontius.orestes,145.0,"iam, amputo, eripio, uictricia, collum, bipennis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,146.0,"tu, licet, et, similis, maneo, censeo, polus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tu,0.143
+dracontius.orestes,147.0,"sum, saltem, mora, longus, redeo, dum, cresco, orestes",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,148.0,"uictima, carnifex, nascor, post, funero, pater",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,carnifex,0.167
+dracontius.orestes,149.0,"mater, sum, tu, ferox, ferio, adulter",6,"0.0, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,"tu, ferox, adulter",0.5
+dracontius.orestes,150.0,"pyladis, fodio, manus, ego, credo, carus",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,,0.0
+dracontius.orestes,151.0,"uae, miser, furor, alter, habeo, purgo, orestes",7,"NaN, -1.0, -1.0, NaN, NaN, NaN, NaN",-0.286,-0.286,"miser, furor",0.286
+dracontius.orestes,152.0,"dico, et, elido, retineo, per, transtrum, rudo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,153.0,"prouidus, terreo, regina, dictum, nefandus",5,"1.0, NaN, NaN, 0.0, -1.0",0.0,-0.2,nefandus,0.2
+dracontius.orestes,154.0,"eo, pallor, super, os, redux, facinus, paro",7,"NaN, NaN, NaN, 0.0, NaN, -1.0, NaN",-0.143,-0.143,"pallor, facinus",0.286
+dracontius.orestes,155.0,"dispono, sub, cor, trux, furor, urgeo, amor",7,"NaN, NaN, NaN, NaN, -1.0, NaN, 1.0",0.0,-0.143,"trux, furor",0.286
+dracontius.orestes,156.0,"sollicitus, timor, grassor, mens, paueo",5,"-1.0, -0.5, NaN, 0.5, NaN",-0.2,-0.3,,0.0
+dracontius.orestes,157.0,"maestus, domus, quasi, laetus, redeo, terreo, pauor",7,"-1.0, 0.0, NaN, 1.0, NaN, NaN, -1.0",-0.143,-0.286,,0.0
+dracontius.orestes,158.0,"ingredior, thalamus, suspirium, longus, traho",5,"NaN, NaN, -0.5, 0.0, NaN",-0.1,-0.1,,0.0
+dracontius.orestes,159.0,"cor, premo, gemitus, et, gaudium, uultus, apto",7,"NaN, NaN, -0.5, NaN, 1.0, NaN, NaN",0.071,-0.071,,0.0
+dracontius.orestes,160.0,"quis, rumor, quis, fama, fero, quis, nuntia, porto",8,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.125,0.0,,0.0
+dracontius.orestes,161.0,"auris, attono, lasciuus, quaero, egistus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,lasciuus,0.2
+dracontius.orestes,162.0,"qui, sexus, armo, dolus, sub, fraus, lateo",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,"dolus, fraus",0.286
+dracontius.orestes,163.0,"incipio, effaris, iuuenis, dico, quis, sum, ago",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,164.0,"occaedes, redeo, ille, meus, post, bellum, maritus",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,maritus,0.143
+dracontius.orestes,165.0,"uictor, et, armo, zelo, mordeo, mino",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,166.0,"mos, argolicis, lex, induco, castus",5,"0.5, NaN, 0.5, NaN, NaN",0.2,0.0,,0.0
+dracontius.orestes,167.0,"tristis, imperium, alienus, crimen, ultor",5,"-1.0, 0.0, -0.5, -1.0, NaN",-0.5,-0.5,"crimen, ultor",0.4
+dracontius.orestes,168.0,"quis, facio, pro, ius, suus, morior, inultus",7,"NaN, NaN, NaN, 0.5, NaN, NaN, -0.5",0.0,-0.071,inultus,0.143
+dracontius.orestes,169.0,"et, periet, iam, noster, amor, macto, uterque",7,"NaN, NaN, NaN, NaN, 1.0, NaN, NaN",0.143,0.0,,0.0
+dracontius.orestes,170.0,"turbidus, ante, dies, soleo, punio, noceo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"punio, noceo",0.333
+dracontius.orestes,171.0,"letifer, mucro, ferus, spes, nullus, salus",6,"NaN, -1.0, -1.0, 0.5, NaN, 1.0",-0.083,-0.333,"letifer, ferus",0.333
+dracontius.orestes,172.0,"sum, nisi, uital, contemno, ambo, salus",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+dracontius.orestes,173.0,"gloria, belliger, ferio, et, arma, tyrannus",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,tyrannus,0.167
+dracontius.orestes,174.0,"et, prior, occumbo, quam, noster, sentio, ignis",7,"NaN, 0.5, NaN, NaN, NaN, NaN, 0.0",0.071,0.0,,0.0
+dracontius.orestes,175.0,"prosper, bellum, qui, sic, facio, superbus",6,"1.0, 0.0, NaN, NaN, NaN, -1.0",0.0,-0.167,,0.0
+dracontius.orestes,176.0,"et, priami, fortuna, noceo, ut, sanguis, usus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,noceo,0.143
+dracontius.orestes,177.0,"humanus, genus, uilis, puto, sum, cruor",6,"0.0, 0.0, -0.5, NaN, NaN, NaN",-0.083,-0.083,"uilis, cruor",0.333
+dracontius.orestes,178.0,"per, tu, castus, nego, per, tu, fero, damno, pudor",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.056,0.0,"tu, tu, damno, pudor",0.444
+dracontius.orestes,179.0,"neque, uolo, tam, multus, scelus, reperdere, fructus",7,"NaN, NaN, NaN, 0.0, -1.0, NaN, 0.5",-0.071,-0.143,scelus,0.143
+dracontius.orestes,180.0,"an, uerbum, inimicus, loquor, extorqueo, facio",6,"NaN, 0.0, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+dracontius.orestes,181.0,"communis, nos, casus, habeo, uita, nex",6,"0.0, NaN, 0.0, NaN, 0.0, -1.0",-0.167,-0.167,nex,0.167
+dracontius.orestes,182.0,"sum, nos, communis, bonus, communis, periculum",6,"NaN, NaN, 0.0, 1.0, 0.0, -1.0",0.0,-0.167,,0.0
+dracontius.orestes,183.0,"sors, pariter, nos, unus, maneo, iubeo, rogo",7,"-1.0, NaN, NaN, NaN, NaN, NaN, NaN",-0.143,-0.143,,0.0
+dracontius.orestes,184.0,"pastor, regina, moneo, formido, mors",5,"NaN, NaN, NaN, -1.0, -1.0",-0.4,-0.4,,0.0
+dracontius.orestes,185.0,"terreo, sollicito, misero, femina, sexus",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,misero,0.2
+dracontius.orestes,186.0,"conuenio, tamen, hortor, opus, dum, congruus, uita",7,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0",0.071,0.0,,0.0
+dracontius.orestes,187.0,"impero, ne, morior, cum, tu, pereo, cruentus",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"tu, cruentus",0.286
+dracontius.orestes,188.0,"nam, cum, ego, miser, ipse, cado, agamemnon, uideo",8,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.125,-0.125,miser,0.125
+dracontius.orestes,189.0,"impius, funereus, nos, casus, eripio, sollers",6,"-1.0, -0.5, NaN, 0.0, NaN, 1.0",-0.083,-0.25,impius,0.167
+dracontius.orestes,190.0,"neque, labor, ullus, sum, uictor, sterno, ferrum",7,"NaN, -0.5, NaN, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+dracontius.orestes,191.0,"semper, iners, securus, sum, qui, percello, hostis",7,"NaN, 0.0, 1.0, NaN, NaN, NaN, -1.0",0.0,-0.143,iners,0.143
+dracontius.orestes,192.0,"et, pateo, insidiae, nullus, terreo, quiesco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,insidiae,0.167
+dracontius.orestes,193.0,"non, sum, qui, metuo, breuis, sum, et, paruus, orestes",9,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,194.0,"unaque, nataris, cinis, sum, per, templum, diana",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,nataris,0.143
+dracontius.orestes,195.0,"alter, sexus, iners, recido, misero, quis, audeo",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"iners, misero",0.286
+dracontius.orestes,196.0,"exulat, interea, menelaus, alter, atrides",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,atrides,0.2
+dracontius.orestes,197.0,"quisquis, ago, impunis, gero, scelerus, perago",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,"impunis, scelerus",0.333
+dracontius.orestes,198.0,"sic, merces, non, poena, do, felix, eo",7,"NaN, 1.0, NaN, -1.0, NaN, 1.0, NaN",0.143,-0.143,poena,0.143
+dracontius.orestes,199.0,"atque, agamemnonio, regnum, potio, et, aula",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,200.0,"exemplum, recens, tu, iam, superaddo, lacaenam",6,"0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"tu, superaddo",0.333
+dracontius.orestes,201.0,"interfectrix, tot, rex, tot, populus",5,"NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,202.0,"uiuo, felix, post, funero, tantus, quiesco",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,,0.0
+dracontius.orestes,203.0,"neque, metuo, danaos, heres, sterno, thyestis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,204.0,"dico, hic, mulier, spes, sum, do, magnus, egisto",8,"NaN, NaN, 0.0, 0.5, NaN, NaN, 0.0, NaN",0.062,0.0,"hic, mulier",0.25
+dracontius.orestes,205.0,"trames, dico, quo, pastor, aio, geminaris, ualeo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,206.0,"hic, tam, grandis, nefas, labor, sum, extinguere, rex",8,"NaN, NaN, 0.0, -1.0, -0.5, NaN, NaN, 0.0",-0.188,-0.188,"hic, nefas",0.25
+dracontius.orestes,207.0,"atque, triumpho, qui, multus, in, princeps, aula",7,"NaN, NaN, NaN, 0.0, NaN, 0.5, NaN",0.071,0.0,,0.0
+dracontius.orestes,208.0,"tunc, pando, regina, uia, scelero, profor",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,scelero,0.167
+dracontius.orestes,209.0,"bellum, maculis, et, crassus, sanguis, uestis",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,uestis,0.167
+dracontius.orestes,210.0,"rex, ferus, imbuo, uenio, muto, necesse, sum",7,"0.0, -1.0, NaN, NaN, NaN, 0.0, NaN",-0.143,-0.143,ferus,0.143
+dracontius.orestes,211.0,"indumentum, duco, tunica, do, uertex, claudo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,212.0,"dum, caput, induo, cupio, exertaris, tyrannus",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,tyrannus,0.167
+dracontius.orestes,213.0,"egredior, praeuentor, atrox, uiolentus, atridis",5,"NaN, NaN, -1.0, -1.0, NaN",-0.4,-0.4,,0.0
+dracontius.orestes,214.0,"findo, securus, caput, ceruix, collum, cerebrum",6,"NaN, 1.0, 0.0, NaN, NaN, NaN",0.167,0.0,,0.0
+dracontius.orestes,215.0,"ultima, res, tantus, qui, resto, solus, iuuo",7,"NaN, 0.0, NaN, NaN, NaN, -0.5, NaN",-0.071,-0.071,,0.0
+dracontius.orestes,216.0,"consilium, subcumbe, meus, hic, unus, medela, sum",7,"0.5, NaN, 0.0, NaN, NaN, NaN, NaN",0.071,0.0,hic,0.143
+dracontius.orestes,217.0,"luctus, illatis, auerto, funero, noster",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,,0.0
+dracontius.orestes,218.0,"dum, moror, aduenio, noster, modo, crimen, ultor",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,"crimen, ultor",0.286
+dracontius.orestes,219.0,"hic, infaustus, loquor, lacrima, simul, os, rigo",7,"NaN, -1.0, NaN, NaN, NaN, 0.0, NaN",-0.143,-0.143,"hic, infaustus",0.286
+dracontius.orestes,220.0,"turbidus, in, ferrum, rapio, flammo, timor",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,flammo,0.167
+dracontius.orestes,221.0,"audax, facio, amor, terror, proteruum",5,"NaN, NaN, 1.0, -1.0, NaN",0.0,-0.2,audax,0.2
+dracontius.orestes,222.0,"et, moueo, armatus, ictus, quatio, lacertus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,223.0,"absum, ferio, pauidus, qui, non, uideo, hostis",7,"NaN, NaN, -1.0, NaN, NaN, NaN, -1.0",-0.286,-0.286,,0.0
+dracontius.orestes,224.0,"sic, soleo, anguis, hio, ob-sedeo, fons, uenenum",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,hio,0.143
+dracontius.orestes,225.0,"fauces, paro, nex, fatum, mortalis, aptus",6,"NaN, NaN, -1.0, 0.0, -1.0, NaN",-0.333,-0.333,nex,0.167
+dracontius.orestes,226.0,"pectus, tollo, lingua, uibrando, trisulcus",5,"NaN, NaN, -0.5, NaN, NaN",-0.1,-0.1,,0.0
+dracontius.orestes,227.0,"motus, hic, mulier, bonus, gaudeo, resumo",6,"NaN, NaN, 0.0, 1.0, NaN, NaN",0.167,0.0,"hic, mulier",0.333
+dracontius.orestes,228.0,"turpis, infamo, animus, redeo, ille, uoluptas",6,"-1.0, NaN, 0.5, NaN, NaN, 1.0",0.083,-0.167,"turpis, infamo",0.333
+dracontius.orestes,229.0,"impeto, plectibilis, per, rusticus, collum, pendeo",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,,0.0
+dracontius.orestes,230.0,"dulcis, lasciuis, defigo, basium, labrum",5,"0.5, NaN, NaN, 0.0, NaN",0.1,0.0,basium,0.2
+dracontius.orestes,231.0,"ille, uicis, redhibens, do, osculum, creber, per, artus",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,232.0,"dum, communis, nefas, aequal, mens, fruor",6,"NaN, 0.0, -1.0, NaN, 0.5, NaN",-0.083,-0.167,nefas,0.167
+dracontius.orestes,233.0,"regius, puppis, adsum, uarius, orno, corona",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,234.0,"multus, magis, audax, animus, de, crimen, sumo",7,"0.0, NaN, NaN, 0.5, NaN, -1.0, NaN",-0.071,-0.143,"audax, crimen",0.286
+dracontius.orestes,235.0,"ille, rapio, tunica, pastor, rapio, inde, bipennis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,236.0,"officium, sto, quisque, suus, celo, adulter",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,adulter,0.167
+dracontius.orestes,237.0,"intra, claustra, lateo, mulier, progredior, parumper",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,mulier,0.167
+dracontius.orestes,238.0,"mors, marital, tunica, subnixus, fero",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,marital,0.2
+dracontius.orestes,239.0,"rex, ratis, descendo, tango, tellus, triumpho",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,240.0,"bellum, maculis, rutilabat, sanguis, pulcher",5,"0.0, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+dracontius.orestes,241.0,"grandis, in, aspectus, pugnaris, horror, decorus",6,"0.0, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+dracontius.orestes,242.0,"qualis, sum, refero, caelum, post, bellum, gigantes",7,"NaN, NaN, NaN, 0.5, NaN, 0.0, NaN",0.071,0.0,gigantes,0.143
+dracontius.orestes,243.0,"iuppiter, astriferam, stello, frons, corona",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,244.0,"atque, coruscal, fundo, uertex, flamma",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,245.0,"pignus, natura, concurro, dulcis, pater",5,"0.0, 0.0, NaN, 0.5, 0.0",0.1,0.0,,0.0
+dracontius.orestes,246.0,"eo, in, amplector, et, reddo, osculum, do",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,247.0,"lumen, uoluo, genitor, uideo, iugal",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,248.0,"pergo, et, ad, thalamus, post, publicus, limen, porta",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,249.0,"impius, qui, reducem, fallax, uox, saluto",6,"-1.0, NaN, NaN, -1.0, 0.0, NaN",-0.333,-0.333,impius,0.167
+dracontius.orestes,250.0,"belliger, armipotens, cultus, depono, minax",5,"NaN, NaN, -0.5, NaN, NaN",-0.1,-0.1,,0.0
+dracontius.orestes,251.0,"atque, habitus, dignaris, pius, uix, pax, amator",7,"NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.071,0.0,amator,0.143
+dracontius.orestes,252.0,"en, tu, uestis, adsum, noster, contexo, labor",7,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,"tu, uestis",0.286
+dracontius.orestes,253.0,"aureus, purpureus, radio, filum, color",5,"0.5, NaN, NaN, NaN, 0.0",0.1,0.0,,0.0
+dracontius.orestes,254.0,"dico, et, exuo, tutanti, tegimen, rex",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,255.0,"callidus, funereus, perfundo, corpus, amictus",5,"1.0, -0.5, NaN, 0.0, 0.5",0.2,-0.1,callidus,0.2
+dracontius.orestes,256.0,"sed, caput, dum, quaero, iter, tunica, fenestra",7,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,257.0,"ille, manus, retineo, armo, acciuit, egistum",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,258.0,"erigo, ille, trux, dextera, uibro, bipennis",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,trux,0.167
+dracontius.orestes,259.0,"et, ferio, incautus, caput, impius, impeto, mors",7,"NaN, NaN, -1.0, 0.0, -1.0, NaN, -1.0",-0.429,-0.429,impius,0.143
+dracontius.orestes,260.0,"atque, diademal, frango, cum, uertex, frons",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,261.0,"in, pars, hinc, inde, duo, gemino, et, iacio",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,262.0,"ter, quater, ferio, diffundo, testa, cerebrum",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,testa,0.167
+dracontius.orestes,263.0,"regina, laudo, manus, rex, concido, insons",6,"NaN, NaN, 0.0, 0.0, NaN, 1.0",0.167,0.0,insons,0.167
+dracontius.orestes,264.0,"saucius, et, tremulus, quatio, corpus, terra",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+dracontius.orestes,265.0,"sic, aper, implico, uenor, casses, ingens",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+dracontius.orestes,266.0,"dum, cupio, exsilio, euado, rete, toruus",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,exsilio,0.167
+dracontius.orestes,267.0,"concutio, os, ferox, spumo, dens, aduncus",6,"NaN, 0.0, -1.0, NaN, NaN, NaN",-0.167,-0.167,ferox,0.167
+dracontius.orestes,268.0,"et, perdo, uacuus, collido, morsus, iacio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,morsus,0.167
+dracontius.orestes,269.0,"sic, asia, domito, consumo, finis, cruento",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,cruento,0.167
+dracontius.orestes,270.0,"heu, pastoral, populo, membrum, securis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,heu,0.2
+dracontius.orestes,271.0,"asper, sors, homo, uel, mens, ignarus, sum",7,"-0.5, -1.0, 0.0, NaN, 0.5, -1.0, NaN",-0.286,-0.357,,0.0
+dracontius.orestes,272.0,"credo, quis, possum, si, centum, flatus, ago",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,273.0,"delphica, fatidicos, quatio, cortina, recedo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,274.0,"antrum, moueo, tripus, cieo, et, plectrum, fatigo",7,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,275.0,"euersor, asia, fodio, qui, cultor, agellus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,276.0,"aut, desertor, iners, ouis, pecus, magister",6,"NaN, NaN, 0.0, NaN, NaN, 0.5",0.083,0.0,"desertor, iners",0.333
+dracontius.orestes,277.0,"et, careo, ignis, rogus, do, qui, pergama, flamma",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"rogus, pergama",0.25
+dracontius.orestes,278.0,"disco, felix, non, umquam, credo, fatum",6,"NaN, 1.0, NaN, NaN, NaN, 0.0",0.167,0.0,,0.0
+dracontius.orestes,279.0,"sum, facilis, do, summus, deus, tamen, ante, relinquo",8,"NaN, 0.5, NaN, NaN, 0.0, NaN, NaN, NaN",0.062,0.0,,0.0
+dracontius.orestes,280.0,"et, miser, in, finis, noceo, aut, fors, repens",8,"NaN, -1.0, NaN, 0.0, NaN, NaN, 0.0, 0.0",-0.125,-0.125,"miser, noceo",0.25
+dracontius.orestes,281.0,"destituo, poena, peto, de, sors, secundus",6,"NaN, -1.0, NaN, NaN, -1.0, 0.0",-0.333,-0.333,poena,0.167
+dracontius.orestes,282.0,"credo, qui, non, uolo, priameia, fatum, reuoluo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,283.0,"atque, agamemnoniam, uideo, malus, credulus, aula",6,"NaN, NaN, NaN, -1.0, -0.5, NaN",-0.25,-0.25,credulus,0.167
+dracontius.orestes,284.0,"clades, repentinus, premo, pelopeia, uirgo",5,"-1.0, -0.5, NaN, NaN, NaN",-0.3,-0.3,uirgo,0.2
+dracontius.orestes,285.0,"sed, tamen, ultor, pater, seruo, orestem",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,ultor,0.167
+dracontius.orestes,286.0,"fauces, eripio, germanus, electrus, parens",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+dracontius.orestes,287.0,"impono, puppis, sui, adduco, athenae",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,288.0,"et, bene, sollicito, studium, sapio, addo",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+dracontius.orestes,289.0,"qui, ratis, adueho, rex, hic, pignus, rex",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,hic,0.143
+dracontius.orestes,290.0,"spes, agamemnonias, et, troica, gaza, reporto",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+dracontius.orestes,291.0,"qui, sum, nimium, fidus, pylades, amicus",6,"NaN, NaN, 0.0, 1.0, NaN, 1.0",0.333,0.0,,0.0
+dracontius.orestes,292.0,"iungo, hic, studium, sollers, et, gloria, lingua",7,"NaN, NaN, 0.5, 1.0, NaN, 0.0, -0.5",0.143,-0.071,hic,0.143
+dracontius.orestes,293.0,"uolo, sum, communis, uir, et, nolo, duo",7,"NaN, NaN, 0.0, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+dracontius.orestes,294.0,"exerceo, opus, iuuenis, si, fors, palaestra",6,"NaN, 0.5, NaN, NaN, 0.0, NaN",0.083,0.0,,0.0
+dracontius.orestes,295.0,"pacatum, luctame, -ne, sum, per, lustro, ferus",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,ferus,0.143
+dracontius.orestes,296.0,"uenor, sum, socius, uenor, habeo",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,,0.0
+dracontius.orestes,297.0,"cornipedem, si, quisque, leuis, freno, habena",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,298.0,"hic, similis, facio, amor, produco, telum",6,"NaN, 0.0, NaN, 1.0, NaN, NaN",0.167,0.0,hic,0.167
+dracontius.orestes,299.0,"si, sum, animus, iuuenis, iacio, uterque",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+dracontius.orestes,300.0,"par, bene, lusus, sum, puer, si, calculus, sum",8,"0.5, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.062,0.0,,0.0
+dracontius.orestes,301.0,"neque, uinco, sum, quisquam, metuo, neque, uinco, ferueo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,302.0,"sic, amo, atque, foueo, germanus, castor, pollux",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,303.0,"et, par, uotum, pollux, castor, amo",6,"NaN, 0.5, 0.0, NaN, NaN, NaN",0.083,0.0,,0.0
+dracontius.orestes,304.0,"mors, alternus, et, uita, damno, repenso",6,"-1.0, NaN, NaN, 0.0, NaN, NaN",-0.167,-0.167,damno,0.167
+dracontius.orestes,305.0,"uestis, induo, tyriis, homicida, et, adulter",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,"uestis, homicida, adulter",0.5
+dracontius.orestes,306.0,"et, poenal, caput, cingo, diadema, coruscus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,poenal,0.167
+dracontius.orestes,307.0,"tamquam, legitimus, heres, agamemnon, aula",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,308.0,"et, magis, heres, conuenio, sum, thyestis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,309.0,"intro, et, orbo, per, singulus, quaero, orestem",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,310.0,"at, ubi, rex, danaum, defodio, sentio, egistus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,danaum,0.143
+dracontius.orestes,311.0,"troianas, raptaret, ops, spes, unus, maneo",6,"NaN, NaN, 0.0, 0.5, NaN, NaN",0.083,0.0,,0.0
+dracontius.orestes,312.0,"hic, quoque, cognosco, rex, cum, pignus, capio",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,hic,0.143
+dracontius.orestes,313.0,"aestuo, impatiens, qui, regnum, nomen, inanis",6,"NaN, -0.5, NaN, 0.0, 0.0, NaN",-0.083,-0.083,aestuo,0.167
+dracontius.orestes,314.0,"offendo, quia, perdo, ops, qui, sum, tyrannus",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,tyrannus,0.143
+dracontius.orestes,315.0,"possum, et, armaris, ferrum, aurum, ualeo",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+dracontius.orestes,316.0,"callidus, participo, scelus, solo, et, ars",6,"1.0, NaN, -1.0, NaN, NaN, 0.0",0.0,-0.167,"callidus, scelus",0.333
+dracontius.orestes,317.0,"fraus, et, anceps, confirmo, in, ars, maneo",7,"-1.0, NaN, -0.5, NaN, NaN, 0.0, NaN",-0.214,-0.214,fraus,0.143
+dracontius.orestes,318.0,"femineus, ostento, ops, qui, sexus, habeo",6,"-0.5, NaN, 0.0, NaN, NaN, NaN",-0.083,-0.083,,0.0
+dracontius.orestes,319.0,"et, diademal, profero, qui, garrulus, capsa",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,garrulus,0.167
+dracontius.orestes,320.0,"turpis, induco, pretiosus, monile, membrum",5,"-1.0, NaN, NaN, 0.0, NaN",-0.2,-0.2,"turpis, pretiosus",0.4
+dracontius.orestes,321.0,"hic, aio, argolicos, emo, per, regnum, fauores",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"hic, emo",0.286
+dracontius.orestes,322.0,"munus, proceres, nouus, uetus, traho",5,"0.5, NaN, 1.0, 0.0, NaN",0.3,0.0,,0.0
+dracontius.orestes,323.0,"in, noster, transeo, fides, nam, princeps, uxor",7,"NaN, NaN, NaN, 1.0, NaN, 0.5, 0.0",0.214,0.0,uxor,0.143
+dracontius.orestes,324.0,"quicumque, libet, licet, extet, pulcher, pudicus",6,"NaN, NaN, NaN, NaN, 1.0, 0.5",0.25,0.0,pudicus,0.167
+dracontius.orestes,325.0,"census, hic, orno, niteo, placo, maritus",6,"0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"hic, maritus",0.333
+dracontius.orestes,326.0,"aggredior, prae-sumo, suus, dulcedo, lingua",5,"NaN, NaN, NaN, 0.5, -0.5",0.0,-0.1,dulcedo,0.2
+dracontius.orestes,327.0,"diuitiae, armo, meus, hic, dulcis, uenenum",6,"0.5, NaN, 0.0, NaN, 0.5, -0.5",0.083,-0.083,hic,0.167
+dracontius.orestes,328.0,"auris, attono, fundo, blandio, peritet",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,329.0,"mollis, artifex, iungo, amplexus, artus",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,330.0,"et, facio, nos, sublimis, sexus, amicus",6,"NaN, NaN, NaN, 0.5, NaN, 1.0",0.25,0.0,,0.0
+dracontius.orestes,331.0,"pulcrius, sum, aurum, sed, femina, pulcher, aurum",7,"NaN, NaN, 0.5, NaN, 0.0, 1.0, 0.5",0.286,0.0,,0.0
+dracontius.orestes,332.0,"aurum, foedus, placeo, aurum, decoro, honestus",6,"0.5, -1.0, NaN, 0.5, NaN, 1.0",0.167,-0.167,honestus,0.167
+dracontius.orestes,333.0,"emollio, cytherea, trux, per, proelio, martes",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,trux,0.167
+dracontius.orestes,334.0,"credo, ego, iuuenis, de, sexu, femina, traho",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,335.0,"ars, hic, sollers, animus, reparo, amo",6,"0.0, NaN, 1.0, 0.5, NaN, NaN",0.25,0.0,hic,0.167
+dracontius.orestes,336.0,"et, gratus, gaudeo, ago, muliebris, audeo",6,"NaN, 1.0, NaN, NaN, NaN, NaN",0.167,0.0,muliebris,0.167
+dracontius.orestes,337.0,"sordidus, mens, regno, cupio, dux, sceptrum, teneo",7,"-1.0, 0.5, NaN, NaN, 0.5, NaN, NaN",0.0,-0.143,sordidus,0.143
+dracontius.orestes,338.0,"exstinctus, sub, fraus, dux, nihil, talis, timeo",7,"NaN, NaN, -1.0, 0.5, NaN, NaN, NaN",-0.071,-0.143,fraus,0.143
+dracontius.orestes,339.0,"coniunx, insidiae, audeo, pastor, iniquus",5,"-0.5, NaN, NaN, NaN, -1.0",-0.3,-0.3,"insidiae, iniquus",0.4
+dracontius.orestes,340.0,"hic, taceo, sub, cor, premo, de, princeps, ciuis",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, 0.5",0.125,0.0,hic,0.125
+dracontius.orestes,341.0,"murmur, sollicito, fleo, hic, dictum, loquor",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,hic,0.167
+dracontius.orestes,342.0,"impius, sic, lachesis, parcaris, lex, bipennis",6,"-1.0, NaN, NaN, NaN, 0.5, NaN",-0.083,-0.167,impius,0.167
+dracontius.orestes,343.0,"censeo, rex, tam, turpis, mors, pereo",6,"NaN, 0.0, NaN, -1.0, -1.0, NaN",-0.333,-0.333,turpis,0.167
+dracontius.orestes,344.0,"atque, utinam, iuuenis, per, bellum, ferio, amazo",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,345.0,"penthesilea, fremo, quam, uix, euado, atrides",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"penthesilea, atrides",0.333
+dracontius.orestes,346.0,"et, non, infamis, prosterno, mors, pereo",6,"NaN, NaN, -1.0, NaN, -1.0, NaN",-0.333,-0.333,infamis,0.167
+dracontius.orestes,347.0,"crimen, cum, gens, danaum, cum, clades, suus",7,"-1.0, NaN, 0.0, NaN, NaN, -1.0, NaN",-0.286,-0.286,"crimen, danaum",0.286
+dracontius.orestes,348.0,"et, pes, traho, humo, iaceo, ab, arx, remoueo",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,iaceo,0.125
+dracontius.orestes,349.0,"qui, honor, careo, tumulatur, nox, cadauer",6,"NaN, 1.0, NaN, NaN, 0.0, NaN",0.167,0.0,,0.0
+dracontius.orestes,350.0,"dico, ego, musa, precor, qui, res, maternus, nouerca",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,nouerca,0.125
+dracontius.orestes,351.0,"quaero, neglego, puer, et, trado, capio",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,352.0,"pater, in, occido, dorylas, libertus, atridis",6,"0.0, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,occido,0.167
+dracontius.orestes,353.0,"et, puer, nutritor, sum, fugio, orestis",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,354.0,"consilium, mendax, sollerti, pectus, sumo",5,"0.5, -1.0, NaN, NaN, NaN",-0.1,-0.2,mendax,0.2
+dracontius.orestes,355.0,"fingo, qui, pelagus, rabidus, demergo, atridas",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"fingo, rabidus, demergo",0.5
+dracontius.orestes,356.0,"fluctus, aequoreus, qui, sto, in, litus, dico",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,357.0,"deus, mare, et, terra, pietas, et, origo, polus",8,"0.0, 0.0, NaN, 0.0, 1.0, NaN, NaN, NaN",0.125,0.0,,0.0
+dracontius.orestes,358.0,"natura, caelestis, amor, mendax, audeo",5,"0.0, NaN, 1.0, -1.0, NaN",0.0,-0.2,mendax,0.2
+dracontius.orestes,359.0,"tu, precor, annuite, et, fallacia, uotum, iuuo",7,"NaN, NaN, NaN, NaN, -1.0, 0.0, NaN",-0.143,-0.143,"tu, fallacia",0.286
+dracontius.orestes,360.0,"credo, et, aduertar, mendax, assertor, honestus",6,"NaN, NaN, NaN, -1.0, NaN, 1.0",0.0,-0.167,"mendax, honestus",0.333
+dracontius.orestes,361.0,"tollo, nam, insons, cupio, de, sors, paternus",7,"NaN, NaN, 1.0, NaN, NaN, -1.0, NaN",0.0,-0.143,insons,0.143
+dracontius.orestes,362.0,"quam, mater, plectenda, paro, uel, uitricus, hostis",7,"NaN, 0.0, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+dracontius.orestes,363.0,"dico, et, undiuagis, uestio, fluctus, intro",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,uestio,0.167
+dracontius.orestes,364.0,"in, mare, caeruleus, tumidus, spumo, unda",6,"NaN, 0.0, NaN, -0.5, NaN, 0.0",-0.083,-0.083,,0.0
+dracontius.orestes,365.0,"mergo, ad, usque, caput, tunc, litus, sicco, peto",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,366.0,"turbidus, hic, plango, funestus, curro, ad, urbs",7,"NaN, NaN, NaN, -1.0, NaN, NaN, 0.5",-0.071,-0.143,"hic, funestus",0.286
+dracontius.orestes,367.0,"et, querulus, sic, uox, boo, pro, iuppiter, hostis",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, -1.0",-0.125,-0.125,querulus,0.125
+dracontius.orestes,368.0,"sic, placeo, ulciscor, troes, et, perdo, graios",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,ulciscor,0.143
+dracontius.orestes,369.0,"pro, phrygibus, pelagus, saeuio, mare, uindex, troia",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,"saeuio, uindex",0.286
+dracontius.orestes,370.0,"qui, puer, gero, nefas, quis, mollio, aetas",7,"NaN, 0.0, NaN, -1.0, NaN, NaN, 0.0",-0.143,-0.143,nefas,0.143
+dracontius.orestes,371.0,"gero, in, iliaci, bellum, tempus, campus",6,"NaN, NaN, NaN, 0.0, 0.0, 0.0",0.0,0.0,iliaci,0.167
+dracontius.orestes,372.0,"ne, fuga, sum, miser, opto, per, aequor, ueho",8,"NaN, -0.5, NaN, -1.0, NaN, NaN, 0.0, NaN",-0.188,-0.188,miser,0.125
+dracontius.orestes,373.0,"uideo, ego, mergo, fluctus, sorbente, carina",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,374.0,"in, qui, ueho, sum, comes, et, nutritor, atridum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,375.0,"de, qui, solus, inops, euado, remex, planto",7,"NaN, NaN, -0.5, -1.0, NaN, NaN, NaN",-0.214,-0.214,,0.0
+dracontius.orestes,376.0,"iustus, clytaemestre, mitis, crudelis, egistus",5,"1.0, NaN, 1.0, -1.0, NaN",0.2,-0.2,crudelis,0.2
+dracontius.orestes,377.0,"saeuus, unda, mare, qui, neque, post, bellum, parco",8,"-1.0, 0.0, 0.0, NaN, NaN, NaN, 0.0, NaN",-0.125,-0.125,saeuus,0.125
+dracontius.orestes,378.0,"pignus, danaum, felix, iam, troia, uoco",6,"0.0, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,danaum,0.167
+dracontius.orestes,379.0,"dico, hic, cum, uox, pius, rapto, ad, aula",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.125
+dracontius.orestes,380.0,"munus, cumulo, opos, qui, gaudium, fero",6,"0.5, NaN, 0.5, NaN, 1.0, NaN",0.333,0.0,,0.0
+dracontius.orestes,381.0,"mens, incestus, nam, mox, regina, proteruus",6,"0.5, NaN, NaN, NaN, NaN, -0.5",0.0,-0.083,"incestus, proteruus",0.333
+dracontius.orestes,382.0,"impero, accio, populus, uenio, cogo",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,383.0,"aedes, in, medius, qui, sic, sum, ordior, profaris",8,"0.0, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,384.0,"eximius, proceres, danaum, populus, pusillus",5,"1.0, NaN, NaN, 0.0, 0.0",0.2,0.0,danaum,0.2
+dracontius.orestes,385.0,"qui, agamemnonii, per, ferreus, lustro, triumphus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,386.0,"non, mergo, nex, sed, adhuc, supero, inanis",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,nex,0.143
+dracontius.orestes,387.0,"uiscera, uacuis, exhaurio, sanguis, fundo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,388.0,"qui, tu, sic, minuo, saeuus, bellona, bellum",7,"NaN, NaN, NaN, NaN, -1.0, NaN, 0.0",-0.143,-0.143,"tu, saeuus, bellona",0.429
+dracontius.orestes,389.0,"rex, culpa, sum, qui, exhaurio, ciuis, urbs",7,"0.0, -1.0, NaN, NaN, NaN, 0.5, 0.5",0.0,-0.143,culpa,0.143
+dracontius.orestes,390.0,"co-nitor, uiduaris, nurus, orbaris, parens",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,nurus,0.2
+dracontius.orestes,391.0,"et, nascor, spolio, rudo, pietas, paternus",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+dracontius.orestes,392.0,"inde, ferox, percutio, obeo, sub, mors, securis",7,"NaN, -1.0, NaN, NaN, NaN, -1.0, NaN",-0.286,-0.286,ferox,0.143
+dracontius.orestes,393.0,"atque, suus, proles, iaceo, modo, uindex, fluctus",7,"NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,"iaceo, uindex",0.286
+dracontius.orestes,394.0,"spondeo, iam, requies, placidus, spero, quies",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+dracontius.orestes,395.0,"otium, pax, sum, nullus, nocturnus, cubo",6,"0.5, 0.5, NaN, NaN, NaN, NaN",0.167,0.0,otium,0.167
+dracontius.orestes,396.0,"classicus, sollicito, nullus, tuba, uerbero, auris",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uerbero,0.167
+dracontius.orestes,397.0,"tempus, liceo, blandus, recerpite, somnus",5,"0.0, NaN, 0.5, NaN, 0.5",0.2,0.0,,0.0
+dracontius.orestes,398.0,"asper, telum, uaco, curuentur, falx, ensis",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+dracontius.orestes,399.0,"os, et, neruus, deflecto, cornu, arcus",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,400.0,"ad, solo, aptas, ferus, celer, uolucris",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,ferus,0.167
+dracontius.orestes,401.0,"deliciae, epulum, bonus, refoueo, senecta",5,"NaN, NaN, 1.0, NaN, NaN",0.2,0.0,deliciae,0.2
+dracontius.orestes,402.0,"pignus, nascor, dulcis, nutrio, nepos",5,"0.0, NaN, 0.5, NaN, 0.0",0.1,0.0,,0.0
+dracontius.orestes,403.0,"unica, mors, resto, morbus, finio, salus",6,"NaN, -1.0, NaN, -1.0, NaN, 1.0",-0.167,-0.333,,0.0
+dracontius.orestes,404.0,"trames, natura, finis, labor, annus",5,"NaN, 0.0, 0.0, -0.5, 0.0",-0.1,-0.1,,0.0
+dracontius.orestes,405.0,"iam, spero, licet, et, praeter, uulnus, fero",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+dracontius.orestes,406.0,"corpus, exitium, fas, sum, spero, sepulcrum",6,"0.0, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,sepulcrum,0.167
+dracontius.orestes,407.0,"ordo, legitimus, flamma, spero, rogal",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+dracontius.orestes,408.0,"et, tumulus, sui, quisque, pareo, post, bustum, perenno",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,bustum,0.125
+dracontius.orestes,409.0,"germen, ille, suus, crudelis, et, impius, hostis",7,"NaN, NaN, NaN, -1.0, NaN, -1.0, -1.0",-0.429,-0.429,"crudelis, impius",0.286
+dracontius.orestes,410.0,"rex, agamemno, -ne, sum, patria, dominator, amarus",7,"0.0, NaN, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,agamemno,0.143
+dracontius.orestes,411.0,"ciuis, egistus, sum, ego, profiteor, maritus",6,"0.5, NaN, NaN, NaN, NaN, 0.0",0.083,0.0,maritus,0.167
+dracontius.orestes,412.0,"dico, et, cunctus, discedo, iubeo, ab, aula",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,413.0,"atque, domus, remearis, suus, sed, uilis, adulter",7,"NaN, 0.0, NaN, NaN, NaN, -0.5, NaN",-0.071,-0.071,"uilis, adulter",0.286
+dracontius.orestes,414.0,"nescius, atque, rudis, regnum, frenum, teneo",6,"-0.5, NaN, -0.5, 0.0, NaN, NaN",-0.167,-0.167,nescius,0.167
+dracontius.orestes,415.0,"ipse, sui, genius, fastus, facio, os, minax",7,"NaN, NaN, NaN, -1.0, NaN, 0.0, NaN",-0.143,-0.143,,0.0
+dracontius.orestes,416.0,"asper, sum, famulis, regal, aduena, seruus",6,"-0.5, NaN, NaN, NaN, NaN, -0.5",-0.167,-0.167,,0.0
+dracontius.orestes,417.0,"imperium, non, mitis, do, qui, ipse, profecto",7,"0.0, NaN, 1.0, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+dracontius.orestes,418.0,"si, famularetur, crimen, sui, turpis, puto",6,"NaN, NaN, -1.0, NaN, -1.0, NaN",-0.333,-0.333,"crimen, turpis",0.333
+dracontius.orestes,419.0,"sceptrum, triumphus, do, sub, pastor, tyrannus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tyrannus,0.167
+dracontius.orestes,420.0,"pro, pretium, scelus, merces, sanguis, ostrum",6,"NaN, 1.0, -1.0, 1.0, NaN, NaN",0.167,-0.167,"pretium, scelus",0.333
+dracontius.orestes,421.0,"matronal, nefas, uxor, dedecus, aula",5,"NaN, -1.0, 0.0, -1.0, NaN",-0.4,-0.4,"nefas, uxor, dedecus",0.6
+dracontius.orestes,422.0,"quis, rogo, non, gemo, tamen, hic, formido, iubeo",8,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.125,-0.125,hic,0.125
+dracontius.orestes,423.0,"infamis, pareo, nouus, timeo, bubulcus",5,"-1.0, NaN, 1.0, NaN, NaN",0.0,-0.2,infamis,0.2
+dracontius.orestes,424.0,"acer, hectoreos, qui, non, timeo, furor",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,furor,0.167
+dracontius.orestes,425.0,"ius, agamemnonium, sum, post, pergama, capio",6,"0.5, NaN, NaN, NaN, NaN, NaN",0.083,0.0,pergama,0.167
+dracontius.orestes,426.0,"uerbero, plectibilis, comes, armipotentis, achillis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,uerbero,0.2
+dracontius.orestes,427.0,"praecido, regnum, tamyris, regina, getaris",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,428.0,"sed, nihil, turpis, gero, uindex, sum, ille, suus",8,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.125,-0.125,"turpis, uindex",0.25
+dracontius.orestes,429.0,"si, facio, medea, nefas, flammo, dolor",6,"NaN, NaN, NaN, -1.0, NaN, -1.0",-0.333,-0.333,"medea, nefas, flammo",0.5
+dracontius.orestes,430.0,"dulcis, amor, sum, cum, regius, tectum, cremabat",7,"0.5, 1.0, NaN, NaN, 0.0, NaN, NaN",0.214,0.0,,0.0
+dracontius.orestes,431.0,"incolumis, uiduo, uir, de, paelice, glaucus",6,"-0.5, NaN, 0.5, NaN, NaN, NaN",0.0,-0.083,"paelice, glaucus",0.333
+dracontius.orestes,432.0,"impius, lemniades, sumo, arma, puella",5,"-1.0, NaN, NaN, 0.0, NaN",-0.2,-0.2,impius,0.2
+dracontius.orestes,433.0,"atque, marital, foedarunt, sanguis, lectus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,marital,0.2
+dracontius.orestes,434.0,"sed, uenio, furor, acer, sum, facinus, nefandus",7,"NaN, NaN, -1.0, NaN, NaN, -1.0, -1.0",-0.429,-0.429,"furor, facinus, nefandus",0.429
+dracontius.orestes,435.0,"qui, scythicae, gero, nurus, in, crimen, tantus",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,"nurus, crimen",0.286
+dracontius.orestes,436.0,"barbarum, turba, sum, nam, tu, regina, pelasgum",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,"barbarum, tu, pelasgum",0.429
+dracontius.orestes,437.0,"graecia, quam, gigno, lex, fecundus, creatrix",6,"NaN, NaN, NaN, 0.5, 1.0, 0.0",0.25,0.0,,0.0
+dracontius.orestes,438.0,"clarus, mycenaei, coniunx, et, uindex, uxor",6,"0.5, NaN, -0.5, NaN, NaN, 0.0",0.0,-0.083,"uindex, uxor",0.333
+dracontius.orestes,439.0,"crimen, adulterium, geminasti, caedes, maritus",5,"-1.0, -0.5, NaN, -0.5, 0.0",-0.4,-0.4,"crimen, adulterium, caedes, maritus",0.8
+dracontius.orestes,440.0,"alcestis, memini, sum, qui, mors, maritus",6,"NaN, NaN, NaN, NaN, -1.0, 0.0",-0.167,-0.167,maritus,0.167
+dracontius.orestes,441.0,"manus, eripio, pius, coniunx, impius, de, sui",7,"0.0, NaN, NaN, -0.5, -1.0, NaN, NaN",-0.214,-0.214,impius,0.143
+dracontius.orestes,442.0,"quis, loquor, euadne, -ne, thebanis, ignis, uro",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,443.0,"et, post, fatum, uir, flamma, crepito, sodalis",7,"NaN, NaN, 0.0, 0.5, NaN, NaN, 1.0",0.214,0.0,crepito,0.143
+dracontius.orestes,444.0,"impius, cum, pietas, afficio, dulcis, amo",6,"-1.0, NaN, 1.0, NaN, 0.5, NaN",0.083,-0.167,impius,0.167
+dracontius.orestes,445.0,"iubeo, habeo, nex, qui, contra, uulnus, luctus",7,"NaN, NaN, -1.0, NaN, NaN, -1.0, -1.0",-0.429,-0.429,nex,0.143
+dracontius.orestes,446.0,"fortis, ignis, sum, crudelis, utor, medela",6,"0.5, 0.0, NaN, -1.0, NaN, NaN",-0.083,-0.167,crudelis,0.167
+dracontius.orestes,447.0,"et, simul, ad, manes, in, puluis, coniunx, eo",8,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, NaN",-0.062,-0.062,,0.0
+dracontius.orestes,448.0,"perfero, urna, duo, funus, qui, iungo, amo",7,"NaN, NaN, NaN, -0.5, NaN, NaN, NaN",-0.071,-0.071,,0.0
+dracontius.orestes,449.0,"conubium, felix, exemplum, grandis, pudor",5,"NaN, 1.0, 0.0, 0.0, 0.5",0.3,0.0,pudor,0.2
+dracontius.orestes,450.0,"impius, sacrilegus, nubo, post, fatum, marito",6,"-1.0, -1.0, NaN, NaN, 0.0, NaN",-0.333,-0.333,"impius, sacrilegus, nubo, marito",0.667
+dracontius.orestes,451.0,"pronuba, flamma, sum, thalamus, rogus, et, pyra, lego",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,rogus,0.125
+dracontius.orestes,452.0,"quis, sum, honestus, amor, multus, doceo, puella",7,"NaN, NaN, 1.0, 1.0, 0.0, NaN, NaN",0.286,0.0,honestus,0.143
+dracontius.orestes,453.0,"dum, regno, iners, parcaris, crimen, pastor",6,"NaN, NaN, 0.0, NaN, -1.0, NaN",-0.167,-0.167,"iners, crimen",0.333
+dracontius.orestes,454.0,"et, simul, illicitus, sui, fruor, amor",6,"NaN, NaN, -1.0, NaN, NaN, 1.0",0.0,-0.167,illicitus,0.167
+dracontius.orestes,455.0,"annus, septem, spatium, et, mensis, octo",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,456.0,"eo, alumnus, manus, tumulus, regal, omnis",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,457.0,"nox, in, medius, fleo, per, hic, tempus, rex",8,"0.0, NaN, 0.0, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,hic,0.125
+dracontius.orestes,458.0,"anxius, qui, gemitus, tremulis, ululatus, utor",6,"-1.0, NaN, -0.5, NaN, NaN, NaN",-0.25,-0.25,,0.0
+dracontius.orestes,459.0,"temperies, modero, premo, terreo, pauor",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+dracontius.orestes,460.0,"tunc, ibi, libertus, sollers, nutritor, orestis",6,"NaN, NaN, 0.5, 1.0, NaN, NaN",0.25,0.0,,0.0
+dracontius.orestes,461.0,"euomo, in, gemitus, uox, et, uerbum, dolor",7,"NaN, NaN, -0.5, 0.0, NaN, 0.0, -1.0",-0.214,-0.214,,0.0
+dracontius.orestes,462.0,"optume, rex, quondam, sed, nunc, miserabilis, umbra",7,"NaN, 0.0, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,miserabilis,0.143
+dracontius.orestes,463.0,"prosperitas, qui, saeuus, sum, uictoria, crimen",6,"1.0, NaN, -1.0, NaN, NaN, -1.0",-0.167,-0.333,"saeuus, crimen",0.333
+dracontius.orestes,464.0,"infero, et, mors, pario, post, bellum, triumphus",7,"NaN, NaN, -1.0, NaN, NaN, 0.0, NaN",-0.143,-0.143,,0.0
+dracontius.orestes,465.0,"qui, adoro, consto, per, templum, preco",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,466.0,"irascor, audio, deus, placo, nego",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,467.0,"numen, prouenio, danaos, si, uinco, recingo, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,468.0,"si, gremium, paris, remaneo, sum, rapio, lacaena",7,"NaN, 0.0, 0.5, NaN, NaN, NaN, NaN",0.071,0.0,,0.0
+dracontius.orestes,469.0,"nonne, laboro, helenam, ne, pastor, habeo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,470.0,"ecce, tuus, nunc, pastor, habeo, si, transitus, sum, mors",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.111,-0.111,,0.0
+dracontius.orestes,471.0,"si, sensus, post, fatum, maneo, post, membrum, soluo",8,"NaN, 0.5, NaN, 0.0, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+dracontius.orestes,472.0,"si, remaneo, anima, si, sto, post, fatum, supersto",8,"NaN, NaN, 0.5, NaN, NaN, NaN, 0.0, NaN",0.062,0.0,,0.0
+dracontius.orestes,473.0,"spiritus, exaudio, lacrima, fleo, tuus",5,"0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,474.0,"rumpo, solus, findo, humus, tellus, hio",6,"NaN, -0.5, NaN, NaN, NaN, NaN",-0.083,-0.083,"humus, hio",0.333
+dracontius.orestes,475.0,"nitor, et, armo, subeo, furial, umbra",6,"1.0, NaN, NaN, NaN, NaN, NaN",0.167,0.0,furial,0.167
+dracontius.orestes,476.0,"surgo, uelut, quondam, tumulus, surgo, achilles",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,achilles,0.167
+dracontius.orestes,477.0,"exigo, supplicium, de, coniunx, soluo, adulter",6,"NaN, NaN, NaN, -0.5, NaN, NaN",-0.083,-0.083,"supplicium, adulter",0.333
+dracontius.orestes,478.0,"tot, poena, quot, membrum, gero, morior, inultus",7,"NaN, -1.0, NaN, NaN, NaN, NaN, -0.5",-0.214,-0.214,"poena, inultus",0.286
+dracontius.orestes,479.0,"et, pastor, tuus, regnum, teneo, post, bustum, sero",8,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,bustum,0.125
+dracontius.orestes,480.0,"exigo, mors, de, uirgo, thessalus, heros",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,uirgo,0.167
+dracontius.orestes,481.0,"mos, innocuus, tu, dux, impunis, relinquo",6,"0.5, 0.5, NaN, 0.5, -0.5, NaN",0.167,-0.083,"tu, impunis",0.333
+dracontius.orestes,482.0,"tot, scelus, auctor, uictricia, regnum, teneo",6,"NaN, -1.0, NaN, NaN, 0.0, NaN",-0.167,-0.167,scelus,0.167
+dracontius.orestes,483.0,"deus, rego, quicumque, chaos, crudelis, barathrum",6,"0.0, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,"chaos, crudelis",0.333
+dracontius.orestes,484.0,"rumpo, tartareas, proscisso, guttur, fauces",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,485.0,"mitto, uirgineus, funestus, in, tectum, cerastas",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,"funestus, cerastas",0.333
+dracontius.orestes,486.0,"ne, dubitas, trux, uenio, ad, regnum, thyestis",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,trux,0.143
+dracontius.orestes,487.0,"notus, iter, inuenio, suus, per, uestigium, curro",7,"0.0, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,488.0,"non, sum, furia, si, quaero, ante, rogaris",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,furia,0.143
+dracontius.orestes,489.0,"ad, quicumque, nefas, si, non, et, sponte, noceo",8,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN, NaN",-0.125,-0.125,"nefas, noceo",0.25
+dracontius.orestes,490.0,"sed, dubito, quia, iustus, peto, tamen, oro, cruento",8,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN, NaN",0.125,0.0,cruento,0.125
+dracontius.orestes,491.0,"spes, ego, magnus, adsum, thebis, uicinus, peto",7,"0.5, NaN, 0.0, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+dracontius.orestes,492.0,"moenia, tartareis, quondam, sacro, tenebrae",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,tartareis,0.2
+dracontius.orestes,493.0,"et, clarus, priuo, dies, sub, lux, diurnus",7,"NaN, 0.5, NaN, 0.0, NaN, NaN, 0.0",0.071,0.0,,0.0
+dracontius.orestes,494.0,"ergo, precor, cum, iustus, trux, sententia, mors",7,"NaN, NaN, NaN, 1.0, NaN, 0.0, -1.0",0.0,-0.143,trux,0.143
+dracontius.orestes,495.0,"particeps, scelus, percutio, ensis, sero",5,"0.0, -1.0, NaN, NaN, NaN",-0.2,-0.2,scelus,0.2
+dracontius.orestes,496.0,"tu, acheronteis, tortor, addo, flamma",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,"tu, tortor",0.4
+dracontius.orestes,497.0,"et, furia, augeo, malus, mortalis, uenenum",6,"NaN, NaN, NaN, -1.0, -1.0, -0.5",-0.417,-0.417,furia,0.167
+dracontius.orestes,498.0,"torqueo, auctor, scelus, crudelis, enyo",5,"NaN, NaN, -1.0, -1.0, NaN",-0.4,-0.4,"scelus, crudelis, enyo",0.6
+dracontius.orestes,499.0,"non, satis, sum, quicumque, redeo, tormentum, paro",7,"NaN, 0.5, NaN, NaN, NaN, -0.5, NaN",0.0,-0.071,,0.0
+dracontius.orestes,500.0,"dico, et, ex, imus, gemo, uox, mitto, sepulcrum",8,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,sepulcrum,0.125
+dracontius.orestes,501.0,"parco, funestus, mens, uexo, dolor",5,"NaN, -1.0, 0.5, NaN, -1.0",-0.3,-0.4,"funestus, uexo",0.4
+dracontius.orestes,502.0,"ego, pius, onero, malus, releuaris, sepulcrum",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,sepulcrum,0.167
+dracontius.orestes,503.0,"debeo, famularis, amor, qui, malus, coniunx",6,"NaN, 0.0, 1.0, NaN, -1.0, -0.5",-0.083,-0.25,,0.0
+dracontius.orestes,504.0,"crimen, succendo, suus, et, amor, pudeo",6,"-1.0, NaN, NaN, NaN, 1.0, NaN",0.0,-0.167,"crimen, pudeo",0.333
+dracontius.orestes,505.0,"uel, fama, prostante, suus, muliebris, arma",6,"NaN, 1.0, NaN, NaN, NaN, 0.0",0.167,0.0,muliebris,0.167
+dracontius.orestes,506.0,"ex-tingo, qui, uictor, sum, regredior, ab, hostis",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+dracontius.orestes,507.0,"praedo, decennal, fraternus, ultor, amor",5,"NaN, NaN, 0.0, NaN, 1.0",0.2,0.0,"fraternus, ultor",0.4
+dracontius.orestes,508.0,"ultor, adulterium, qui, fundo, adultero, coniunx",6,"NaN, -0.5, NaN, NaN, NaN, -0.5",-0.167,-0.167,"ultor, adulterium",0.333
+dracontius.orestes,509.0,"neque, timeo, foedaris, domus, macularis, penates",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,510.0,"impeto, mortifero, subeo, cum, fraus, profanus",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,"fraus, profanus",0.333
+dracontius.orestes,511.0,"nam, neque, inultus, sum, uenio, hic, poena, cruento",8,"NaN, NaN, -0.5, NaN, NaN, NaN, -1.0, NaN",-0.188,-0.188,"inultus, hic, poena, cruento",0.5
+dracontius.orestes,512.0,"sed, ne, multus, loquor, uerus, sum, cassandra, loquor",8,"NaN, NaN, 0.0, NaN, 0.5, NaN, NaN, NaN",0.062,0.0,,0.0
+dracontius.orestes,513.0,"credo, cassandra, uerax, cassandra, sacerdos",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,514.0,"dico, et, abscedo, omnis, linquendo, sepulcrum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,sepulcrum,0.167
+dracontius.orestes,515.0,"ille, nox, tamen, uolito, agamemnon, umbra",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,516.0,"uenio, athenaeis, mox, sedes, altus, orestes",6,"NaN, NaN, NaN, 0.0, 0.5, NaN",0.083,0.0,,0.0
+dracontius.orestes,517.0,"illic, quippe, sum, cum, quo, pylades, amicus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+dracontius.orestes,518.0,"flatus, alternus, perflans, commercium, somnium",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+dracontius.orestes,519.0,"lassus, uterque, sum, concutio, amor, palaestra",6,"NaN, NaN, NaN, NaN, 1.0, NaN",0.167,0.0,,0.0
+dracontius.orestes,520.0,"et, sto, ante, torus, ambo, uideo, atrides",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,atrides,0.143
+dracontius.orestes,521.0,"in, somnus, non, qualis, sum, post, bellum, triumpho",8,"NaN, 0.5, NaN, NaN, NaN, NaN, 0.0, NaN",0.062,0.0,,0.0
+dracontius.orestes,522.0,"sed, qualis, cado, percutio, frons, bipennis",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,523.0,"tristis, iners, tremulus, gemitus, suspirium, rumpo",6,"-1.0, 0.0, NaN, -0.5, -0.5, NaN",-0.333,-0.333,iners,0.167
+dracontius.orestes,524.0,"pallidus, puniceus, perfundo, os, cruor",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"puniceus, cruor",0.4
+dracontius.orestes,525.0,"et, tremulus, languor, manus, ceruix, uaco",6,"NaN, NaN, -1.0, 0.0, NaN, NaN",-0.167,-0.167,,0.0
+dracontius.orestes,526.0,"atque, pes, uinculum, traho, qui, sum, abstraho, ab, aula",9,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,527.0,"non, pudeo, o, iuuenis, dico, pubentibus, annus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,pudeo,0.143
+dracontius.orestes,528.0,"uestio, sub, floreo, gena, lanugo, crispus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"uestio, gena",0.333
+dracontius.orestes,529.0,"grandis, instruo, studium, et, fortis, arma",6,"0.0, NaN, 0.5, NaN, 0.5, 0.0",0.167,0.0,,0.0
+dracontius.orestes,530.0,"ut, pastor, meus, regnum, noto, promoueo, in, arx",8,"NaN, NaN, 0.0, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,531.0,"sanguineus, merces, cluo, sub, crimen, multus",6,"NaN, 1.0, NaN, NaN, -1.0, 0.0",0.0,-0.167,crimen,0.167
+dracontius.orestes,532.0,"laetus, et, indomitus, tumidus, ceruix, supinus",6,"1.0, NaN, NaN, -0.5, NaN, NaN",0.083,-0.083,indomitus,0.167
+dracontius.orestes,533.0,"plaudo, et, infamis, tu, iam, non, fama, pereo",8,"NaN, NaN, -1.0, NaN, NaN, NaN, 1.0, NaN",0.0,-0.125,"infamis, tu",0.25
+dracontius.orestes,534.0,"sic, peto, cecropidas, uindicta, sospes, natus",6,"NaN, NaN, NaN, NaN, 1.0, 0.0",0.167,0.0,uindicta,0.167
+dracontius.orestes,535.0,"incolumis, pylade, suus, patroclus, achille, -ne",6,"-0.5, NaN, NaN, NaN, NaN, NaN",-0.083,-0.083,pylade,0.167
+dracontius.orestes,536.0,"theseus, pirithous, non, sic, experior, amo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,537.0,"armatus, gladius, in, bellum, domesticus, fero",6,"0.0, NaN, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,538.0,"atque, affinis, nefas, cognatus, abscindite, ferrum",6,"NaN, 0.0, -1.0, NaN, NaN, NaN",-0.167,-0.167,nefas,0.167
+dracontius.orestes,539.0,"nullus, crimen, sum, mater, punisse, noceo",6,"NaN, -1.0, NaN, 0.0, NaN, NaN",-0.167,-0.167,"crimen, noceo",0.333
+dracontius.orestes,540.0,"mors, marital, scelero, ius, neco",5,"-1.0, NaN, NaN, 0.5, NaN",-0.1,-0.2,"marital, scelero",0.4
+dracontius.orestes,541.0,"nascor, amor, pius, flammo, mors, paternus",6,"NaN, 1.0, NaN, NaN, -1.0, NaN",0.0,-0.167,flammo,0.167
+dracontius.orestes,542.0,"uindico, ut, pater, qui, mater, strauerit, iacio",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,543.0,"crimen, purgo, mater, de, tempus, priscus",6,"-1.0, NaN, 0.0, NaN, 0.0, 0.0",-0.167,-0.167,crimen,0.167
+dracontius.orestes,544.0,"nam, pater, doceo, sum, suus, qui, uindico, arma",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,545.0,"dignus, adulterium, uindex, pius, ultor, et, heres",7,"1.0, -0.5, NaN, NaN, NaN, NaN, NaN",0.071,-0.071,"adulterium, uindex, ultor",0.429
+dracontius.orestes,546.0,"noster, amor, danais, sum, odium, saeuus, duo",7,"NaN, 1.0, NaN, NaN, -1.0, -1.0, NaN",-0.143,-0.286,saeuus,0.143
+dracontius.orestes,547.0,"eo, par, animus, cum, tu, uernula, turba",7,"NaN, 0.5, 0.5, NaN, NaN, NaN, 0.0",0.143,0.0,tu,0.143
+dracontius.orestes,548.0,"sentio, irascor, potis, qui, tardus, iste",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,549.0,"os, fremo, famulis, qui, carpo, dens, opto",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,550.0,"corpus, egisteum, uel, uiuus, trado, flamma",6,"0.0, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,uiuus,0.167
+dracontius.orestes,551.0,"coniunx, infer, crudelis, membrum, cremo",5,"-0.5, NaN, -1.0, NaN, NaN",-0.3,-0.3,crudelis,0.2
+dracontius.orestes,552.0,"dico, hic, gemitus, somnium, rumpo, quies",6,"NaN, NaN, -0.5, 0.5, NaN, NaN",0.0,-0.083,hic,0.167
+dracontius.orestes,553.0,"mox, agamemnonia, proles, instruo, sodal",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,554.0,"dum, narro, paro, suus, somnio, nosco, ab, ipse",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,555.0,"atque, stupeo, attono, qui, tantus, potentia, pater",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 0.0",0.071,0.0,,0.0
+dracontius.orestes,556.0,"tempus, sidereus, mens, moneo, duo",5,"0.0, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+dracontius.orestes,557.0,"dico, ego, frater, aio, dico, iam, modo, quis, sum, ago",10,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,558.0,"pectus, cor, sensus, animus, praecordia, mens",6,"NaN, NaN, 0.5, 0.5, NaN, 0.5",0.25,0.0,,0.0
+dracontius.orestes,559.0,"conturbo, pietas, dolor, anxius, maeror, origo",6,"NaN, 1.0, -1.0, -1.0, -1.0, NaN",-0.333,-0.5,,0.0
+dracontius.orestes,560.0,"afficio, natura, pudor, reuerentia, fama",5,"NaN, 0.0, 0.5, 1.0, 1.0",0.5,0.0,pudor,0.2
+dracontius.orestes,561.0,"transigo, funereus, maternus, in, uiscera, ferrum",6,"NaN, -0.5, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+dracontius.orestes,562.0,"qui, perpendo, diu, bis, quini, mensis, perago",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,563.0,"concipio, porto, meus, stimulo, dolor",5,"NaN, NaN, 0.0, NaN, -1.0",-0.2,-0.2,stimulo,0.2
+dracontius.orestes,564.0,"semen, natura, blandus, primordius, uita",5,"NaN, 0.0, 0.5, NaN, 0.0",0.1,0.0,,0.0
+dracontius.orestes,565.0,"uiscera, lucus, iter, uel, magnus, ianua, mundus",7,"NaN, NaN, 0.0, NaN, 0.0, NaN, 1.0",0.143,0.0,,0.0
+dracontius.orestes,566.0,"at, ubi, sortior, nascor, ius, perago",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+dracontius.orestes,567.0,"flumen, pectoreo, do, uber, lacteus, labrum",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+dracontius.orestes,568.0,"dulcis, nectareus, fundo, mel, sapor",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+dracontius.orestes,569.0,"fio, nutrix, qui, mater, sum, regina, ministro",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,570.0,"exhibeo, afficio, patrius, ignarus, soporus",5,"NaN, NaN, 0.0, -1.0, NaN",-0.2,-0.2,,0.0
+dracontius.orestes,571.0,"hic, pater, hic, ego, mater, sum, pugno, pareo",8,"NaN, 0.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"hic, hic",0.25
+dracontius.orestes,572.0,"donec, ab, undecimus, ego, aetas, eximo, annus",7,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,573.0,"immemor, existam, tantor, in, mater, bonus",6,"-1.0, NaN, NaN, NaN, 0.0, 1.0",0.0,-0.167,tantor,0.167
+dracontius.orestes,574.0,"an, pater, exstinctus, per, ego, remaneo, inultus",7,"NaN, 0.0, NaN, NaN, NaN, NaN, -0.5",-0.071,-0.071,inultus,0.143
+dracontius.orestes,575.0,"facio, luo, pastor, solus, super-sto, mater",6,"NaN, NaN, NaN, -0.5, NaN, 0.0",-0.083,-0.083,luo,0.167
+dracontius.orestes,576.0,"corruo, et, patrius, manes, satio, cruor",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,cruor,0.167
+dracontius.orestes,577.0,"poena, sum, hic, mater, ut, prosterno, uiuo, egisto",8,"-1.0, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",-0.125,-0.125,"poena, hic",0.25
+dracontius.orestes,578.0,"ante, oculus, recidente, suus, muliercula, tristis",6,"NaN, 0.0, NaN, NaN, -0.5, -1.0",-0.25,-0.25,muliercula,0.167
+dracontius.orestes,579.0,"aspicio, moechus, qui, garrulus, uideo, atride, -ne",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"moechus, garrulus, atride",0.429
+dracontius.orestes,580.0,"dico, hic, dubius, sed, non, cunctator, amicus",7,"NaN, NaN, -0.5, NaN, NaN, NaN, 1.0",0.071,-0.071,hic,0.143
+dracontius.orestes,581.0,"dens, infrendeo, suspirium, traho, ab, imus",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,,0.0
+dracontius.orestes,582.0,"pectus, longus, ferox, et, sic, aggredior, orestem",7,"NaN, 0.0, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,ferox,0.143
+dracontius.orestes,583.0,"increpito, sic, sensus, iners, tuus, cor, tepesco",7,"NaN, NaN, 0.5, 0.0, 0.0, NaN, NaN",0.071,0.0,"increpito, iners",0.286
+dracontius.orestes,584.0,"ut, facio, puto, qui, neque, dico, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,585.0,"dico, grandis, nefas, scelus, sum, audio, nefandus",7,"NaN, 0.0, -1.0, -1.0, NaN, NaN, -1.0",-0.429,-0.429,"nefas, scelus, nefandus",0.429
+dracontius.orestes,586.0,"imus, ad, argolicas, uenia, donaris, mycenas",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+dracontius.orestes,587.0,"crimen, mater, magis, sum, qui, dignus, hic",7,"-1.0, 0.0, NaN, NaN, NaN, 1.0, NaN",0.0,-0.143,"crimen, hic",0.286
+dracontius.orestes,588.0,"ab, scelus, indignus, poenio, ferio, duo",6,"NaN, -1.0, -1.0, NaN, NaN, NaN",-0.333,-0.333,scelus,0.167
+dracontius.orestes,589.0,"quaeso, caueo, iuuenis, danaum, praescribo, dolentum",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,danaum,0.167
+dracontius.orestes,590.0,"ne, iugulatrix, pater, dum, uiuo, censeo",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,591.0,"credaris, non, sum, suus, non, ius, parens",7,"NaN, NaN, NaN, NaN, NaN, 0.5, 0.5",0.143,0.0,,0.0
+dracontius.orestes,592.0,"umbra, soporo, qui, tu, conuenio, athenae",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.167
+dracontius.orestes,593.0,"occurro, per, mille, uia, per, limen, porta",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,594.0,"obsido, et, tremulis, hic, uox, astrum, lacesso",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,hic,0.143
+dracontius.orestes,595.0,"inueho, sic, natus, paro, defendo, pater",6,"NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,596.0,"sic, decet, ex-tingo, genitor, fatum, doleo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,597.0,"sic, do, inferiae, noster, tu, manus, ultor",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"tu, ultor",0.286
+dracontius.orestes,598.0,"uitricus, opto, talis, sui, mors, pereo",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+dracontius.orestes,599.0,"ut, sum, qui, post, membrum, res, crudelis, umbra",8,"NaN, NaN, NaN, NaN, NaN, 0.0, -1.0, NaN",-0.125,-0.125,crudelis,0.125
+dracontius.orestes,600.0,"ingero, inferiae, anima, parco, orestis",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+dracontius.orestes,601.0,"uictima, seruaris, sum, nisi, uictima, mater",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,602.0,"quis, facio, genitor, tuus, tu, maestus, loquor",7,"NaN, NaN, NaN, 0.0, NaN, -1.0, NaN",-0.143,-0.143,tu,0.143
+dracontius.orestes,603.0,"parco, infaustus, pius, an, pietas, repello",6,"NaN, -1.0, NaN, NaN, 1.0, NaN",0.0,-0.167,infaustus,0.167
+dracontius.orestes,604.0,"ad, tumulus, pater, fundo, membrum, reus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,reus,0.167
+dracontius.orestes,605.0,"surgo, iuuentus, bonus, spes, indoles, regnum",6,"NaN, NaN, 1.0, 0.5, 0.0, 0.0",0.25,0.0,,0.0
+dracontius.orestes,606.0,"excito, ingenium, uirtus, et, gloria, mens",6,"NaN, 0.5, 1.0, NaN, 0.0, 0.5",0.333,0.0,,0.0
+dracontius.orestes,607.0,"armo, pietas, manus, crudelis, ensis",5,"NaN, 1.0, 0.0, -1.0, NaN",0.0,-0.2,crudelis,0.2
+dracontius.orestes,608.0,"truncet, in, exter, gemitus, ferus, collum, duo",7,"NaN, NaN, 0.0, -0.5, -1.0, NaN, NaN",-0.214,-0.214,ferus,0.143
+dracontius.orestes,609.0,"eo, libet, comes, ipse, tuus, per, telum, per, ignis",9,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,610.0,"neque, metuo, quisquam, uester, sum, pater, alumnus",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,611.0,"sed, do, consilium, sollers, immunis, salubris",6,"NaN, NaN, 0.5, 1.0, NaN, 1.0",0.417,0.0,,0.0
+dracontius.orestes,612.0,"explorator, is, taceo, qui, uox, moneo",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,613.0,"aduenio, spero, tuus, qui, turba, ministro",6,"NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,614.0,"credulus, dum, sum, nos, mox, cor, faueo",7,"-0.5, NaN, NaN, NaN, NaN, NaN, NaN",-0.071,-0.071,credulus,0.143
+dracontius.orestes,615.0,"atque, pro, tu, rapio, gladius, sic, tueor, eo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+dracontius.orestes,616.0,"talis, alloquium, accendo, felle, dolor",5,"NaN, NaN, NaN, NaN, -1.0",-0.2,-0.2,,0.0
+dracontius.orestes,617.0,"erigo, iuuenilis, fremo, mortalis, mino",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,iuuenilis,0.2
+dracontius.orestes,618.0,"dens, illisis, frango, murmur, mordeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,619.0,"et, quasi, adulterium, capio, pastor, ago",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,adulterium,0.167
+dracontius.orestes,620.0,"mater, in, amplector, infamia, membrum, ligaris",6,"0.0, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,infamia,0.167
+dracontius.orestes,621.0,"percutio, absum, nullus, morior, reus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,reus,0.2
+dracontius.orestes,622.0,"qualis, infremo, post, somnio, pyrrhus, achillis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,infremo,0.167
+dracontius.orestes,623.0,"qui, sensus, moneo, suus, cum, nox, soporo",7,"NaN, 0.5, NaN, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+dracontius.orestes,624.0,"aeacide, stimulo, trux, cum, posco, heros",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"stimulo, trux",0.333
+dracontius.orestes,625.0,"uirgo, inferiae, in, pergama, saeuus, umbra",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,"uirgo, pergama, saeuus",0.5
+dracontius.orestes,626.0,"ergo, ubi, consilium, placeo, pyladis, orestion",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+dracontius.orestes,627.0,"mens, armo, sol, mucro, utor",5,"0.5, NaN, NaN, -1.0, NaN",-0.1,-0.2,,0.0
+dracontius.orestes,628.0,"callis, occulo, qui, semita, duco, eo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,629.0,"eo, obscurus, quaero, audeo, lateo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,630.0,"donec, in, infamo, iugulus, uindicta, uenio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"infamo, iugulus, uindicta",0.5
+dracontius.orestes,631.0,"sic, diomedeos, gressus, comitor, ulixes",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,632.0,"dardanus, nocturnus, peto, cum, castrum, uiator",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,633.0,"sollicitus, carpo, iter, non, indico, cornu",6,"-1.0, NaN, 0.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+dracontius.orestes,634.0,"classicus, bellisonis, quatio, clangor, aura",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+dracontius.orestes,635.0,"sic, pes, suspendo, taceo, sine, flatus, ora",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,636.0,"eo, ab, argolicis, progredior, puppis, audax",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,audax,0.167
+dracontius.orestes,637.0,"fortis, oenides, sollers, laertius, heros",5,"0.5, NaN, 1.0, NaN, NaN",0.3,0.0,,0.0
+dracontius.orestes,638.0,"sic, et, athenaei, iuuenis, peto, mycenas",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,639.0,"qui, dum, iter, incipio, perago, nutritor, orestis",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,640.0,"appareo, dorylas, subeo, trepido, ille",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,641.0,"unde, uenio, aio, iuuenis, qui, sum, amicus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.143,0.0,,0.0
+dracontius.orestes,642.0,"quis, teneo, iter, qui, nullus, uox, utor",7,"NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,643.0,"dum, transeo, paro, dorylas, cognosco, orestem",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,644.0,"qui, in, amplector, per, dulcis, collum, ruo",7,"NaN, NaN, NaN, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+dracontius.orestes,645.0,"uiuis, alumnus, sono, quia, uiuus, uiuo, omnis",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,uiuus,0.143
+dracontius.orestes,646.0,"cedo, insidiae, dum, luxurio, adulter",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"insidiae, luxurio, adulter",0.6
+dracontius.orestes,647.0,"deliciae, fruor, polluo, mater, potior",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"deliciae, polluo",0.4
+dracontius.orestes,648.0,"templum, triumphus, regalia, tectum, potentum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,649.0,"et, delubrum, dux, uel, puluinarium, rex",6,"NaN, NaN, 0.5, NaN, NaN, 0.0",0.083,0.0,,0.0
+dracontius.orestes,650.0,"crimen, prostituens, gaudeo, facio, lupanar",5,"-1.0, NaN, NaN, NaN, NaN",-0.2,-0.2,crimen,0.2
+dracontius.orestes,651.0,"nos, tamen, ad, tumulus, magnus, genitor, eo",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,652.0,"plango, assiduus, qui, promitto, teneo",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+dracontius.orestes,653.0,"quamuis, cassandra, sum, respondeo, prior",5,"NaN, NaN, NaN, NaN, 0.5",0.1,0.0,,0.0
+dracontius.orestes,654.0,"qui, supersum, cito, poena, redeo, propero, sodal",7,"NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.143,-0.143,poena,0.143
+dracontius.orestes,655.0,"indoles, cecropia, tu, diuinum, faueo",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,tu,0.2
+dracontius.orestes,656.0,"regius, familia, scelus, hic, punio, preco",6,"0.0, 0.5, -1.0, NaN, NaN, NaN",-0.083,-0.167,"scelus, hic, punio",0.5
+dracontius.orestes,657.0,"ne, dubitas, uir, uester, accendo, mens",6,"NaN, NaN, 0.5, NaN, NaN, 0.5",0.167,0.0,,0.0
+dracontius.orestes,658.0,"et, capulis, armaris, manus, astringo, ferrum",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,659.0,"hic, stimulo, pietas, amor, tu, foedus, amicus",7,"NaN, NaN, 1.0, 1.0, NaN, -1.0, 1.0",0.286,-0.143,"hic, stimulo, tu",0.429
+dracontius.orestes,660.0,"hinc, dolor, exsurgo, hinc, fama, pulcher, cupido",7,"NaN, -1.0, NaN, NaN, 1.0, 1.0, -0.5",0.071,-0.214,,0.0
+dracontius.orestes,661.0,"neque, labor, ullus, sum, mulier, sterno, turpis",7,"NaN, -0.5, NaN, NaN, 0.0, NaN, -1.0",-0.214,-0.214,"mulier, turpis",0.286
+dracontius.orestes,662.0,"rusticus, praeterea, qui, sum, mora, frango, membrum",7,"-0.5, NaN, NaN, NaN, NaN, NaN, NaN",-0.071,-0.071,,0.0
+dracontius.orestes,663.0,"dico, hic, senex, spes, hic, accendo, amicus",7,"NaN, NaN, 0.0, 0.5, NaN, NaN, 1.0",0.214,0.0,"hic, hic",0.286
+dracontius.orestes,664.0,"acceleraris, gradus, prope, iam, non, sum, mycenas",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,665.0,"quisque, doleo, iuuenis, sed, pergo, inquam, orestes",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,666.0,"acceleramus, iter, subicio, pylades, et, inquam",6,"NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,667.0,"eo, prior, senex, nos, festino, necesse, sum",7,"NaN, 0.5, 0.0, NaN, NaN, 0.0, NaN",0.071,0.0,,0.0
+dracontius.orestes,668.0,"audio, hic, seruilis, amor, secerno, in, auris",7,"NaN, NaN, -0.5, 1.0, NaN, NaN, NaN",0.071,-0.071,hic,0.143
+dracontius.orestes,669.0,"et, subeo, spero, nos, quartus, lux, uenio",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,670.0,"dico, et, abscedo, senex, praecedo, ad, urbs",7,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.5",0.071,0.0,,0.0
+dracontius.orestes,671.0,"gaudium, do, gressus, celer, qui, denego, aetas",7,"1.0, NaN, 0.0, NaN, NaN, NaN, 0.0",0.143,0.0,,0.0
+dracontius.orestes,672.0,"iam, iter, emetior, fessus, peruenio, ad, arx",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,673.0,"indico, occulte, paucus, quia, uiuo, orestes",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,674.0,"et, uenio, sum, uindex, sub, lux, sum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uindex,0.143
+dracontius.orestes,675.0,"sanguis, auctor, moneo, urgeo, omnis",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,676.0,"ut, taceo, furtim, fero, quicumque, ministro",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,677.0,"cunctus, nosco, licet, sol, hic, scio, nego",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.143
+dracontius.orestes,678.0,"complicibus, scelus, ne, sui, subduco, possum",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,scelus,0.167
+dracontius.orestes,679.0,"aut, arma, confero, manus, defendo, uita",6,"NaN, 0.0, NaN, 0.0, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,680.0,"aduentus, ad, dominus, retineo, pars, uernula, porta",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,681.0,"alter, pars, aedes, pars, obsido, alter, murus",7,"NaN, 0.0, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,682.0,"reddo, interea, rutilis, post, astrum, refundo",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,refundo,0.167
+dracontius.orestes,683.0,"depono, natura, dies, strideo, unda",5,"NaN, 0.0, 0.0, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,684.0,"sol, mico, et, bonus, compenso, damno, thyestis",7,"NaN, NaN, NaN, 1.0, NaN, NaN, NaN",0.143,0.0,damno,0.143
+dracontius.orestes,685.0,"uideo, atrides, murus, qui, linquo, infer",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,atrides,0.167
+dracontius.orestes,686.0,"sed, memor, ille, dexter, cum, uox, tendo",7,"NaN, 1.0, NaN, NaN, NaN, 0.0, NaN",0.143,0.0,,0.0
+dracontius.orestes,687.0,"salueo, priscus, domus, patria, salueo, mycenae",6,"NaN, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,688.0,"exsecror, prior, sed, post, ueneror, maneo",6,"NaN, 0.5, NaN, NaN, NaN, NaN",0.083,0.0,,0.0
+dracontius.orestes,689.0,"sanguis, si, mater, cinis, satio, paternus",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,690.0,"sentio, umbra, possum, ulciscor, sui, uindex, natus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"ulciscor, uindex",0.286
+dracontius.orestes,691.0,"quando, eriphylaei, percutio, uulnus, ictus",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,,0.0
+dracontius.orestes,692.0,"uideo, uxor, uelut, augur, amphiarai",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,uxor,0.2
+dracontius.orestes,693.0,"dico, et, trepidus, murus, circum, inspicio, hospes",7,"NaN, NaN, -1.0, NaN, NaN, NaN, 0.0",-0.143,-0.143,,0.0
+dracontius.orestes,694.0,"qui, memini, carpo, iter, comitor, amicus",6,"NaN, NaN, NaN, 0.0, NaN, 1.0",0.167,0.0,,0.0
+dracontius.orestes,695.0,"postquam, introgressus, cognosco, turba, ministro",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,696.0,"agamemnonium, gressus, oculus, manus",4,"NaN, 0.0, 0.0, 0.0",0.0,0.0,,0.0
+dracontius.orestes,697.0,"et, plango, gaudeo, fremo, sine, uox, ora",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,698.0,"iam, porta, claudo, aio, pylades, orestion",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,699.0,"claustra, ligo, aditus, crepo, classicus, mors",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,,0.0
+dracontius.orestes,700.0,"securus, stipuere, res, terreo, egistus",5,"1.0, NaN, 0.0, NaN, NaN",0.2,0.0,,0.0
+dracontius.orestes,701.0,"non, ego, promitto, danais, per, saeculum, quies",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,702.0,"nullus, ad, argolicos, moueo, qui, bellum, remaneo",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,703.0,"hector, consumo, troia, pereo, sub, arma",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,704.0,"dico, regina, furo, irascor, minister",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,furo,0.2
+dracontius.orestes,705.0,"uindico, sic, uiuo, ego, senesco, egistus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,706.0,"talis, dum, loquor, quasi, uindex, saeuus, mino",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,"uindex, saeuus",0.286
+dracontius.orestes,707.0,"una, puellaris, malus, concito, curro, anhelo",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,,0.0
+dracontius.orestes,708.0,"uenio, orestes, aio, sed, statim, credo, non, sum",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,709.0,"dum, dubito, somnus, puto, et, uanus, loquor",7,"NaN, NaN, 0.5, NaN, NaN, -0.5, NaN",0.0,-0.071,uanus,0.143
+dracontius.orestes,710.0,"appareo, uiolentus, atrox, pylades, in, aula",6,"NaN, -1.0, -1.0, NaN, NaN, NaN",-0.333,-0.333,,0.0
+dracontius.orestes,711.0,"qualis, in, hostis, sum, trux, irreuocabilis, aiax",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,trux,0.143
+dracontius.orestes,712.0,"hector, cum, peto, clipeus, septemplice, tego",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,713.0,"os, fremo, et, frons, minax, mucro, coruscus",7,"0.0, NaN, NaN, 0.0, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+dracontius.orestes,714.0,"intono, auctor, scelus, crudelis, audeo",5,"NaN, NaN, -1.0, -1.0, NaN",-0.4,-0.4,"scelus, crudelis",0.4
+dracontius.orestes,715.0,"regno, nunc, usque, trux, euado, iustus",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,trux,0.167
+dracontius.orestes,716.0,"spero, tu, possum, manus, modo, saeuus, luo",7,"NaN, NaN, NaN, 0.0, NaN, -1.0, NaN",-0.143,-0.143,"tu, saeuus, luo",0.429
+dracontius.orestes,717.0,"supplicium, scelus, non, unus, mors, per-emo",6,"NaN, -1.0, NaN, NaN, -1.0, NaN",-0.333,-0.333,"supplicium, scelus, per-emo",0.5
+dracontius.orestes,718.0,"dico, et, ad, famulus, ultricia, uerbum, retorqueo",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,719.0,"praecipitas, nefas, solium, de, princeps, ictus",6,"NaN, -1.0, NaN, NaN, 0.5, NaN",-0.083,-0.167,nefas,0.167
+dracontius.orestes,720.0,"et, pes, traho, eo, ferus, uictima, rex, atridis",8,"NaN, 0.0, NaN, NaN, -1.0, NaN, 0.0, NaN",-0.125,-0.125,ferus,0.125
+dracontius.orestes,721.0,"carnifex, frango, durus, membrum, securis",5,"NaN, NaN, -0.5, NaN, NaN",-0.1,-0.1,carnifex,0.2
+dracontius.orestes,722.0,"et, pereo, pastor, qui, rex, mors, per-emo",7,"NaN, NaN, NaN, NaN, 0.0, -1.0, NaN",-0.143,-0.143,per-emo,0.143
+dracontius.orestes,723.0,"ante, tamen, noster, perfundo, sanguis, dexter",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,724.0,"dico, et, exertum, costa, immergo, ensis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,immergo,0.167
+dracontius.orestes,725.0,"saucius, membrum, traho, famulis, pes, uinculum, ligo",7,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,726.0,"post, foris, porta, qui, sum, prosterno, atrides",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,atrides,0.143
+dracontius.orestes,727.0,"os, effringo, minuo, per, mille, securis",6,"0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,728.0,"et, malus, partio, per, uulnus, palpito, artus",7,"NaN, -1.0, NaN, NaN, -1.0, NaN, NaN",-0.286,-0.286,,0.0
+dracontius.orestes,729.0,"at, genetrix, differo, puto, sui, parco, natus",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,730.0,"et, securus, suus, iam, pro, pastor, doleo",7,"NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.143,0.0,,0.0
+dracontius.orestes,731.0,"cum, subeo, truculentus, adsum, immanis, hostis",6,"NaN, NaN, NaN, NaN, 0.0, -1.0",-0.167,-0.167,"truculentus, immanis",0.333
+dracontius.orestes,732.0,"mater, in, exitium, famulus, nitor, orestes",6,"0.0, NaN, -1.0, 0.0, 1.0, NaN",0.0,-0.167,,0.0
+dracontius.orestes,733.0,"agmen, terribilis, qui, capio, crinis, traho",6,"-1.0, -0.5, NaN, NaN, NaN, NaN",-0.25,-0.25,,0.0
+dracontius.orestes,734.0,"increpito, impunis, tuus, post, funero, pater",6,"NaN, -0.5, 0.0, NaN, NaN, 0.0",-0.083,-0.083,"increpito, impunis",0.333
+dracontius.orestes,735.0,"spero, regno, nefas, tumulo, parens",5,"NaN, NaN, -1.0, NaN, 0.5",-0.1,-0.2,nefas,0.2
+dracontius.orestes,736.0,"iungo, nascor, uolo, fatum, duo",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,737.0,"uiuo, uideo, scelero, parens, morior, cruentus",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,"scelero, cruentus",0.333
+dracontius.orestes,738.0,"sed, manus, iugulo, meus, super, os, maritus",7,"NaN, 0.0, NaN, 0.0, NaN, 0.0, 0.0",0.0,0.0,"iugulo, maritus",0.286
+dracontius.orestes,739.0,"conturbo, parens, nudus, exerta, papilla",5,"NaN, 0.5, 0.0, NaN, NaN",0.1,0.0,,0.0
+dracontius.orestes,740.0,"oro, natus, per, hic, puer, uber, parco",7,"NaN, 0.0, NaN, NaN, 0.0, 1.0, NaN",0.143,0.0,hic,0.143
+dracontius.orestes,741.0,"per, superus, patro, tuus, per, carus, soror",7,"NaN, NaN, NaN, 0.0, NaN, 1.0, NaN",0.143,0.0,,0.0
+dracontius.orestes,742.0,"pectus, qui, noster, tu, tunc, rapio, furor",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,"tu, furor",0.286
+dracontius.orestes,743.0,"et, per, pylade, -ne, qui, multus, sum, testo, amicus",9,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 1.0",0.111,0.0,pylade,0.111
+dracontius.orestes,744.0,"do, uenia, misereor, precor, misereor, parens",6,"NaN, 1.0, NaN, NaN, NaN, 0.5",0.25,0.0,,0.0
+dracontius.orestes,745.0,"si, dico, sum, dignus, parens, tum, nascor, inanis",8,"NaN, NaN, NaN, 1.0, 0.5, NaN, NaN, NaN",0.188,0.0,,0.0
+dracontius.orestes,746.0,"perdo, aio, lacrima, genitor, tu, ex-pecto, ad, umbra",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+dracontius.orestes,747.0,"ilias, ingemo, dominus, cassandra, ruina",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,748.0,"neque, ferio, andromache, famulans, post, hector, pyrrhum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,749.0,"cum, regina, phrygum, fio, captiuus, pelasgum",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,"captiuus, pelasgum",0.333
+dracontius.orestes,750.0,"praefero, pastor, dux, tu, collum, cruento",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,"tu, cruento",0.333
+dracontius.orestes,751.0,"hic, ego, pylades, meus, impero, et, soror, urgeo",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.125
+dracontius.orestes,752.0,"ut, iaceo, mucro, meus, truculentus, uirago",6,"NaN, NaN, -1.0, 0.0, NaN, NaN",-0.167,-0.167,"iaceo, truculentus",0.333
+dracontius.orestes,753.0,"at, ubi, nihil, possum, mulier, de, proles, mereo",8,"NaN, NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,mulier,0.125
+dracontius.orestes,754.0,"mox, redeo, animus, phrygiae, praesagium, uates",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+dracontius.orestes,755.0,"si, placeo, ulciscor, genitor, dico, in, ambo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,ulciscor,0.143
+dracontius.orestes,756.0,"pyladis, ego, dextera, neco, neco, ensis, et, idem",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,757.0,"et, super, os, ruo, recido, spiro, ago",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,758.0,"et, scelus, complex, et, noster, crimen, auctor",7,"NaN, -1.0, NaN, NaN, NaN, -1.0, NaN",-0.286,-0.286,"scelus, crimen",0.286
+dracontius.orestes,759.0,"misceo, uterque, cruor, testo, omnis, umbra",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,cruor,0.167
+dracontius.orestes,760.0,"consortes, scelus, quia, sors, maneo, unus, malus",7,"NaN, -1.0, NaN, -1.0, NaN, NaN, -1.0",-0.429,-0.429,scelus,0.143
+dracontius.orestes,761.0,"qui, super, os, rogo, moechus, moribundus, iacio",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,moechus,0.143
+dracontius.orestes,762.0,"nascor, aio, bonus, recides, super, os, maritus",7,"NaN, NaN, 1.0, NaN, NaN, 0.0, 0.0",0.143,0.0,maritus,0.143
+dracontius.orestes,763.0,"neque, cruor, ambo, misceo, ensis, minax",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,cruor,0.167
+dracontius.orestes,764.0,"crimen, neque, fructus, eo, morior, amor",6,"-1.0, NaN, 0.5, NaN, NaN, 1.0",0.083,-0.167,crimen,0.167
+dracontius.orestes,765.0,"aut, opera, pretium, capio, sors, malus",6,"NaN, -0.5, 1.0, NaN, -1.0, -1.0",-0.25,-0.417,pretium,0.167
+dracontius.orestes,766.0,"supplicium, sociante, nefas, discerno, iaceo",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,"supplicium, nefas, iaceo",0.6
+dracontius.orestes,767.0,"dico, et, ad, pater, uenio, do, uerbum, sepulcrum",8,"NaN, NaN, NaN, 0.0, NaN, NaN, 0.0, NaN",0.0,0.0,sepulcrum,0.125
+dracontius.orestes,768.0,"sancio, parens, quia, sensus, iners, et, spiritus, extas",8,"NaN, 0.5, NaN, 0.5, 0.0, NaN, 0.0, NaN",0.125,0.0,iners,0.125
+dracontius.orestes,769.0,"accipio, inferiae, qui, offertor, uictima, iustus, sum",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+dracontius.orestes,770.0,"macto, clytaemestram, matrona, rex, ago",5,"NaN, NaN, -0.5, 0.0, NaN",-0.1,-0.1,matrona,0.2
+dracontius.orestes,771.0,"atque, utinam, non., ante, tuus, solacium, nosco",7,"NaN, NaN, NaN, NaN, 0.0, 1.0, NaN",0.143,0.0,,0.0
+dracontius.orestes,772.0,"nam, iaceo, ille, locus, quo, tu, percutio, obisti",8,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,"iaceo, tu",0.25
+dracontius.orestes,773.0,"aetas, mora, iustus, sum, qui, tardus, hic, fio",8,"0.0, NaN, 1.0, NaN, NaN, NaN, NaN, NaN",0.125,0.0,hic,0.125
+dracontius.orestes,774.0,"olim, uolo, sum, subicio, danaeia, mater",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,775.0,"sol, pietas, elementum, polio, mare, flumen, tellus",7,"NaN, 1.0, 0.5, NaN, 0.0, NaN, NaN",0.214,0.0,,0.0
+dracontius.orestes,776.0,"et, res, natura, parens, tu, ater, uorago",7,"NaN, 0.0, 0.0, 0.5, NaN, NaN, NaN",0.071,0.0,tu,0.143
+dracontius.orestes,777.0,"expectas, uicis, natus, redhibente, parens",5,"NaN, NaN, 0.0, NaN, 0.5",0.1,0.0,,0.0
+dracontius.orestes,778.0,"qui, gigno, sum, merces, cerno, lac",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+dracontius.orestes,779.0,"dico, hic, genetrix, surdus, tamen, auris, inquam",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.143
+dracontius.orestes,780.0,"qui, possum, pietas, uultus, auerto, orestes",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+dracontius.orestes,781.0,"sol, nego, almus, equus, iterum, de, mos, mycenis",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,,0.0
+dracontius.orestes,782.0,"atque, tenebrosus, subtexo, aer, caelum",5,"NaN, NaN, NaN, 0.0, 0.5",0.1,0.0,,0.0
+dracontius.orestes,783.0,"et, non, legitimus, timeo, mox, graecia, nox",7,"NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,784.0,"extimesco, natura, chaos, elementum, tenebrae",5,"NaN, 0.0, NaN, 0.5, NaN",0.1,0.0,"extimesco, chaos",0.4
+dracontius.orestes,785.0,"laudo, enyo, nefas, dexter, capulabat, erinys",6,"NaN, NaN, -1.0, NaN, NaN, NaN",-0.167,-0.167,"enyo, nefas, erinys",0.5
+dracontius.orestes,786.0,"pallium, purpureus, praestricto, dens, mordeo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,787.0,"concido, et, tunica, manus, tendo, ad, imi",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,788.0,"usque, pes, metuo, ne, morior, nudo, iaceo",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,iaceo,0.143
+dracontius.orestes,789.0,"maestus, uerecundus, uoluo, lumen, uideo",5,"-1.0, 1.0, NaN, NaN, NaN",0.0,-0.2,,0.0
+dracontius.orestes,790.0,"uix, semel, infelix, exter, in, mors, pudicus",7,"NaN, NaN, -1.0, 0.0, NaN, -1.0, 0.5",-0.214,-0.286,"infelix, pudicus",0.286
+dracontius.orestes,791.0,"qui, non, ante, sum, metuo, in, funus, fama",8,"NaN, NaN, NaN, NaN, NaN, NaN, -0.5, 1.0",0.062,-0.062,,0.0
+dracontius.orestes,792.0,"candidus, puniceus, rutilantur, membrum, cruor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,"puniceus, cruor",0.4
+dracontius.orestes,793.0,"uerber, corporeus, premo, quatio, harena",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,uerber,0.2
+dracontius.orestes,794.0,"tandem, iubeo, morior, uita, cum, sanguis, fundo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,795.0,"tunc, repeto, pariter, regalia, limen, toruus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,796.0,"sic, duo, terribilis, fuluus, ceruix, leo",6,"NaN, NaN, -0.5, NaN, NaN, NaN",-0.083,-0.083,leo,0.167
+dracontius.orestes,797.0,"caedes, iuuencaris, satio, lustro, reposco",5,"-0.5, NaN, NaN, NaN, NaN",-0.1,-0.1,caedes,0.2
+dracontius.orestes,798.0,"regius, sanguineus, suscipio, aula, sodal",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,799.0,"conuenio, danai, rex, sub, honor, saluto",6,"NaN, NaN, 0.0, NaN, 1.0, NaN",0.167,0.0,danai,0.167
+dracontius.orestes,800.0,"pars, doleo, atride, -ne, sed, pars, doleo, alter, mater",9,"0.0, NaN, NaN, NaN, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,atride,0.111
+dracontius.orestes,801.0,"nemo, tamen, facinus, uerbum, culpo, apertus",6,"-0.5, NaN, -1.0, 0.0, NaN, NaN",-0.25,-0.25,facinus,0.167
+dracontius.orestes,802.0,"neque, sum, quisquam, qui, non, damno, egistum",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,damno,0.143
+dracontius.orestes,803.0,"transeo, funestus, dies, sol, mergo, unda",6,"NaN, -1.0, 0.0, NaN, NaN, 0.0",-0.167,-0.167,funestus,0.167
+dracontius.orestes,804.0,"oceanus, strideo, roto, redeo, soror",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,805.0,"roscidus, somnigerum, reuoco, palla, sopor",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,806.0,"tempus, adhuc, medius, uoluo, sidus, nox",6,"0.0, NaN, 0.0, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,807.0,"nuntius, hermio, uenio, de, uirgo, rapio",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,uirgo,0.167
+dracontius.orestes,808.0,"stirps, achillea, pyrrhi, praedor, rapina",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,rapina,0.2
+dracontius.orestes,809.0,"mox, furio, atrides, qui, sic, sum, ordior, amicus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,"furio, atrides",0.25
+dracontius.orestes,810.0,"nos, alius, uoco, ecce, labor, nouus, ignis, amor",8,"NaN, NaN, NaN, NaN, -0.5, 1.0, 0.0, 1.0",0.188,-0.062,,0.0
+dracontius.orestes,811.0,"quis, facio, scelus, sum, passim, rapio, adolesco",7,"NaN, NaN, -1.0, NaN, NaN, NaN, NaN",-0.143,-0.143,scelus,0.143
+dracontius.orestes,812.0,"sponsa, torus, promitto, meus, tu, regnum, guberno",7,"NaN, NaN, NaN, 0.0, NaN, 0.0, NaN",0.0,0.0,tu,0.143
+dracontius.orestes,813.0,"eo, ego, per, gladius, flamma, et, mille, cohors",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,814.0,"nam, decet, ultor, pater, sui, quippe, mereo",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,ultor,0.143
+dracontius.orestes,815.0,"dum, tamen, eripio, clamo, nomen, orestis",6,"NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,816.0,"dico, et, accingo, capulus, produco, in, hostis",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+dracontius.orestes,817.0,"reperio, aeacidem, subientem, templum, deus",5,"NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,818.0,"aggredior, iuuenis, securus, obtrunco, ad, ara",6,"NaN, NaN, 1.0, NaN, NaN, NaN",0.167,0.0,,0.0
+dracontius.orestes,819.0,"et, redeo, ad, danaos, effero, caedes, secundus",7,"NaN, NaN, NaN, NaN, NaN, -0.5, 0.0",-0.071,-0.071,caedes,0.143
+dracontius.orestes,820.0,"dum, solium, fruor, patrius, diadema, pulcher",6,"NaN, NaN, NaN, 0.0, NaN, 1.0",0.167,0.0,,0.0
+dracontius.orestes,821.0,"asto, ante, oculus, genetrix, suus, non, ut, inermis",8,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,822.0,"sed, faculis, armo, rogus, subcincta, cero",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,rogus,0.167
+dracontius.orestes,823.0,"ingero, in, facies, iuuenis, mortalis, mino",6,"NaN, NaN, 0.0, NaN, -1.0, NaN",-0.167,-0.167,,0.0
+dracontius.orestes,824.0,"ignis, admoueo, resolutos, orbis, anguis",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,825.0,"terreo, hic, monstrum, uir, fugio, atrium, lustro",7,"NaN, NaN, 0.5, 0.5, NaN, NaN, NaN",0.143,0.0,"hic, monstrum",0.286
+dracontius.orestes,826.0,"sed, sequor, metuo, parens, peto, ille, recedo",7,"NaN, NaN, NaN, 0.5, NaN, NaN, NaN",0.071,0.0,,0.0
+dracontius.orestes,827.0,"per, secerno, domus, illic, magis, inuenio, hostis",7,"NaN, NaN, 0.0, NaN, NaN, NaN, -1.0",-0.143,-0.143,,0.0
+dracontius.orestes,828.0,"obicio, postpono, mox, ianua, cluditur, omnis",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,829.0,"reperio, interior, mater, in, penetral, aula",6,"NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,830.0,"infremo, conor, loquor, crudelis, inquam",5,"NaN, NaN, NaN, -1.0, NaN",-0.2,-0.2,"infremo, crudelis",0.4
+dracontius.orestes,831.0,"impius, non, satis, sum, pietas, uulnus, acerbus",7,"-1.0, NaN, 0.5, NaN, 1.0, -1.0, -1.0",-0.214,-0.429,"impius, acerbus",0.286
+dracontius.orestes,832.0,"ut, scelero, manus, macularet, sacer, deus",6,"NaN, NaN, 0.0, NaN, 1.0, 0.0",0.167,0.0,scelero,0.167
+dracontius.orestes,833.0,"claudeo, adamanteas, ferratus, cardo, porta",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,834.0,"obstrue, per, chalybem, si, sum, tu, mille, fenestra",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,tu,0.125
+dracontius.orestes,835.0,"omnis, ipse, locus, adsum, tu, saeuus, umbra",7,"NaN, NaN, 0.0, NaN, NaN, -1.0, NaN",-0.143,-0.143,"tu, saeuus",0.286
+dracontius.orestes,836.0,"per, fretus, per, campus, per, silua, flumen, mons",8,"NaN, 0.5, NaN, 0.0, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+dracontius.orestes,837.0,"dico, et, anguis, rogus, crepito, pectus, turbo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,"rogus, crepito",0.286
+dracontius.orestes,838.0,"at, ubi, pernix, non, sum, fas, uinco, mater",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,,0.0
+dracontius.orestes,839.0,"eo, manus, ad, capulus, sed, creber, ictus, aura",8,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,,0.0
+dracontius.orestes,840.0,"diuido, et, uacuus, reuoco, sine, uulnus, dexter",7,"NaN, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+dracontius.orestes,841.0,"atque, miser, increpito, meus, sum, hic, mucro, cruentus",8,"NaN, -1.0, NaN, 0.0, NaN, NaN, -1.0, NaN",-0.25,-0.25,"miser, increpito, hic, cruentus",0.5
+dracontius.orestes,842.0,"quo, meretrix, percutio, iaceo, ferio, secundus",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,"meretrix, iaceo",0.333
+dracontius.orestes,843.0,"dico, et, agnosco, gladius, grauis, umbra, fugo",7,"NaN, NaN, NaN, NaN, -0.5, NaN, NaN",-0.071,-0.071,,0.0
+dracontius.orestes,844.0,"aes, per, tener, tamen, heu, remaneo, furor",7,"NaN, NaN, NaN, NaN, NaN, NaN, -1.0",-0.143,-0.143,"heu, furor",0.286
+dracontius.orestes,845.0,"perfuro, inachius, uindex, agamemnon, heres",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,uindex,0.2
+dracontius.orestes,846.0,"ut, furio, ex, baccho, malus, sobrius, ille, lycurgus",8,"NaN, NaN, NaN, NaN, -1.0, NaN, NaN, NaN",-0.125,-0.125,"furio, sobrius",0.25
+dracontius.orestes,847.0,"ut, furio, alcides, saeuus, terreo, megaera",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,"furio, alcides, saeuus, megaera",0.667
+dracontius.orestes,848.0,"ut, quondam, furo, danaum, fortis, aiax",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,"furo, danaum",0.333
+dracontius.orestes,849.0,"infremit, impatiens, totus, discurro, in, aula",6,"NaN, -0.5, NaN, NaN, NaN, NaN",-0.083,-0.083,,0.0
+dracontius.orestes,850.0,"qui, famulus, mater, mater, puto, sum, sodal",7,"NaN, 0.0, 0.0, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,851.0,"mater, sum, quicumque, sum, uicinus, ubique",6,"0.0, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,852.0,"aspis, et, ignis, sum, fugio, hic, simul, appeto, ille",9,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,hic,0.111
+dracontius.orestes,853.0,"pyladis, tantus, facies, non, terreo, amicus",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,,0.0
+dracontius.orestes,854.0,"inter, deliquia, epulis, regal, apto",5,"NaN, 0.5, NaN, NaN, NaN",0.1,0.0,epulis,0.2
+dracontius.orestes,855.0,"ex-surio, et, fax, prohibeo, tango, mensa",6,"NaN, NaN, NaN, NaN, NaN, 0.0",0.0,0.0,fax,0.167
+dracontius.orestes,856.0,"sic, infernus, fames, animus, torqueo, inanis",6,"NaN, NaN, -0.5, 0.5, NaN, NaN",0.0,-0.083,,0.0
+dracontius.orestes,857.0,"prandium, conspicio, daps, confercio, potentum",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,858.0,"ingemo, atque, nullus, cibus, sum, sed, imago, cibus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,859.0,"qui, neque, ut, attingo, furio, cohibeo, ueto",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,furio,0.143
+dracontius.orestes,860.0,"quis, facio, qui, ille, deus, qui, numen, posco",8,"NaN, NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,861.0,"elicio, supplex, uel, tertius, regnum, fatigo",6,"NaN, 0.0, NaN, 0.0, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,862.0,"dum, defleo, omnis, et, totus, plango, aula",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,863.0,"alter, adsum, gemitus, tristis, dolor, et, metus, ingens",8,"NaN, NaN, -0.5, -1.0, -1.0, NaN, -1.0, -0.5",-0.5,-0.5,,0.0
+dracontius.orestes,864.0,"uenio, andromachae, suboles, pyrrhique, molossus",5,"NaN, NaN, 0.5, NaN, NaN",0.1,0.0,,0.0
+dracontius.orestes,865.0,"ultor, genitor, ago, pylades, orestem",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,ultor,0.2
+dracontius.orestes,866.0,"tollo, et, externus, subtraho, mitto, ad, ora",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,867.0,"litus, contingo, sum, ubi, templum, diana",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,868.0,"mos, ubi, saeuus, sum, miser, aduena, uictima, fero",8,"0.5, NaN, -1.0, NaN, -1.0, NaN, NaN, NaN",-0.188,-0.25,"saeuus, miser",0.25
+dracontius.orestes,869.0,"duco, erigo, mox, sto, uittatus, ad, ara",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,870.0,"uideo, ut, armo, qui, ferrum, ex, mos, sacerdos",8,"NaN, NaN, NaN, NaN, NaN, NaN, 0.5, NaN",0.062,0.0,,0.0
+dracontius.orestes,871.0,"expello, terror, furor, mors, propior, mens",6,"NaN, -1.0, -1.0, -1.0, 0.0, 0.5",-0.417,-0.5,furor,0.167
+dracontius.orestes,872.0,"reddo, et, pars, tribuo, aduerso, salus",6,"NaN, NaN, 0.0, NaN, NaN, 1.0",0.167,0.0,,0.0
+dracontius.orestes,873.0,"nam, miser, ingemino, agamemnona, saepe, uoco",6,"NaN, -1.0, NaN, NaN, NaN, NaN",-0.167,-0.167,miser,0.167
+dracontius.orestes,874.0,"audio, sollers, iphigenia, nomen, atridis",5,"NaN, 1.0, NaN, 0.0, NaN",0.2,0.0,,0.0
+dracontius.orestes,875.0,"hostia, dico, quis, sum, aut, cur, agamemnona, clamo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hostia,0.125
+dracontius.orestes,876.0,"saucius, ille, refero, ego, sum, misero, orestes",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,misero,0.143
+dracontius.orestes,877.0,"mater, clytaemestra, gigno, regnator, atrides",5,"0.0, NaN, NaN, NaN, NaN",0.0,0.0,atrides,0.2
+dracontius.orestes,878.0,"noster, sum, genitor, non, ultra, patior, loquor",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,879.0,"proicio, culter, percutio, frons, sacerdos",5,"NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,880.0,"soluo, carnifex, trepido, membrum, ligo",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,carnifex,0.2
+dracontius.orestes,881.0,"sanguis, cor, careo, non, sum, hic, hostia, gratus",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 1.0",0.125,0.0,"hic, hostia",0.25
+dracontius.orestes,882.0,"dico, et, exuo, uitta, summoueo, ab, ara",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,883.0,"omnis, excludo, non, sui, nego, sum, soror",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,884.0,"sed, uideo, interdum, uitio, mens, furo",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,furo,0.167
+dracontius.orestes,885.0,"nihil, sano, sermo, loquor, qui, nox, preco",7,"NaN, NaN, -0.5, NaN, NaN, 0.0, NaN",-0.071,-0.071,,0.0
+dracontius.orestes,886.0,"purgo, et, aufero, migro, cum, frater, diana",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,887.0,"ut, patria, redeo, suus, mox, fama, molossum",7,"NaN, NaN, NaN, NaN, NaN, 1.0, NaN",0.143,0.0,,0.0
+dracontius.orestes,888.0,"instruo, accuso, geminus, de, crimen, orestem",6,"NaN, NaN, NaN, NaN, -1.0, NaN",-0.167,-0.167,crimen,0.167
+dracontius.orestes,889.0,"lex, exhibeo, medius, induco, athenae",5,"0.5, NaN, 0.0, NaN, NaN",0.1,0.0,,0.0
+dracontius.orestes,890.0,"conscendo, pater, templum, praebeo, minerua",5,"NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,891.0,"surgo, achilleus, stimulo, amor, paternus",5,"NaN, NaN, NaN, 1.0, NaN",0.2,0.0,stimulo,0.2
+dracontius.orestes,892.0,"et, sic, ordior, aio, proceres, legal, origo",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,893.0,"arguo, mortiferus, scelero, mens, orestem",5,"NaN, NaN, NaN, 0.5, NaN",0.1,0.0,scelero,0.2
+dracontius.orestes,894.0,"sanguis, obliuiscor, humanus, ius, egenus",5,"NaN, NaN, 0.0, 0.5, NaN",0.1,0.0,,0.0
+dracontius.orestes,895.0,"sacrilegus, superi, perfundo, sanguis, mater",5,"-1.0, NaN, NaN, NaN, 0.0",-0.2,-0.2,sacrilegus,0.2
+dracontius.orestes,896.0,"et, dextera, fundo, suus, sed, adultero, forsan",7,"NaN, 0.0, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,897.0,"mater, sum, pyrrhus, numquid, sum, alter, egistus",7,"0.0, NaN, NaN, NaN, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,898.0,"qui, neco, in, templum, caelestis, donum, fero",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,899.0,"euersor, asia, natus, armipotentis, achillis",5,"NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,900.0,"fors, refero, quia, mater, sum, scelero, profanus",7,"0.0, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,"scelero, profanus",0.286
+dracontius.orestes,901.0,"crimen, adulterium, cumulo, qui, mors, maritus",6,"-1.0, -0.5, NaN, NaN, -1.0, 0.0",-0.417,-0.417,"crimen, adulterium, maritus",0.5
+dracontius.orestes,902.0,"percutio, sum, rea, maximus, iudex, iustus",6,"NaN, NaN, -0.5, NaN, 0.5, 1.0",0.167,-0.083,rea,0.167
+dracontius.orestes,903.0,"non, tamen, ensis, suus, quis, iam, pecco, pudeo",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,pudeo,0.125
+dracontius.orestes,904.0,"qui, prior, sum, in, mater, nefas, censeo, seuerus",8,"NaN, 0.5, NaN, NaN, 0.0, -1.0, NaN, NaN",-0.062,-0.125,nefas,0.125
+dracontius.orestes,905.0,"cecropidae, proceres, decet, ultio, talis, athenae",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,ultio,0.167
+dracontius.orestes,906.0,"qui, in, exitium, satis, sum, non, culleus, unus",8,"NaN, NaN, -1.0, 0.5, NaN, NaN, NaN, NaN",-0.062,-0.125,,0.0
+dracontius.orestes,907.0,"talis, hic, opus, sum, aequo, uulnus, membrum",7,"NaN, NaN, 0.5, NaN, NaN, -1.0, NaN",-0.071,-0.143,hic,0.143
+dracontius.orestes,908.0,"pars, abscido, sui, sum, de, mors, supersto",7,"0.0, NaN, NaN, NaN, NaN, -1.0, NaN",-0.143,-0.143,,0.0
+dracontius.orestes,909.0,"tempus, sed, modicus, uiuax, lanio, cadauer",6,"0.0, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,lanio,0.167
+dracontius.orestes,910.0,"hic, aio, et, taceo, qui, sic, respondeo, orestes",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,hic,0.125
+dracontius.orestes,911.0,"summates, danaum, sapio, lumen, chordus",5,"NaN, NaN, NaN, NaN, NaN",nan,nan,danaum,0.2
+dracontius.orestes,912.0,"culmen, athenaeum, censor, ius, honestus",5,"NaN, NaN, NaN, 0.5, 1.0",0.3,0.0,honestus,0.2
+dracontius.orestes,913.0,"gaudeo, securus, qui, apud, tu, causa, moueo",7,"NaN, 1.0, NaN, NaN, NaN, 0.0, NaN",0.143,0.0,tu,0.143
+dracontius.orestes,914.0,"sum, qui, uxor, qui, sum, afficio, amo",7,"NaN, NaN, 0.0, NaN, NaN, NaN, NaN",0.0,0.0,uxor,0.143
+dracontius.orestes,915.0,"et, memini, reor, primaeuus, tempus, annus",6,"NaN, NaN, NaN, NaN, 0.0, 0.0",0.0,0.0,,0.0
+dracontius.orestes,916.0,"quis, sum, amor, sponsa, thalamus, qui, uotum, sum",8,"NaN, NaN, 1.0, NaN, NaN, NaN, 0.0, NaN",0.125,0.0,,0.0
+dracontius.orestes,917.0,"deus, superi, grates, qui, post, tot, funero, mens",8,"0.0, NaN, 1.0, NaN, NaN, NaN, NaN, 0.5",0.188,0.0,,0.0
+dracontius.orestes,918.0,"arguo, assisto, inter, subsellium, sospes",5,"NaN, NaN, NaN, NaN, 1.0",0.2,0.0,,0.0
+dracontius.orestes,919.0,"incolumis, ueneror, sancio, per, ius, tribunal",6,"-0.5, NaN, NaN, NaN, 0.5, 0.0",0.0,-0.083,,0.0
+dracontius.orestes,920.0,"ab, liceo, discerno, nefas, tractas, uereor",6,"NaN, NaN, NaN, -1.0, NaN, NaN",-0.167,-0.167,nefas,0.167
+dracontius.orestes,921.0,"non, de, lis, meus, sententia, uester, fero, sum",8,"NaN, NaN, -0.5, 0.0, 0.0, NaN, NaN, NaN",-0.062,-0.062,,0.0
+dracontius.orestes,922.0,"sed, de, ius, deus, qui, ego, purgo, probo",8,"NaN, NaN, 0.5, 0.0, NaN, NaN, NaN, NaN",0.062,0.0,,0.0
+dracontius.orestes,923.0,"dum, medicinal, tribuo, per, cor, salus",6,"NaN, NaN, NaN, NaN, NaN, 1.0",0.167,0.0,,0.0
+dracontius.orestes,924.0,"nemo, polio, seruo, deus, puto, uolo, iniquus",7,"-0.5, NaN, NaN, 0.0, NaN, NaN, -1.0",-0.214,-0.214,iniquus,0.143
+dracontius.orestes,925.0,"iustus, inuenior, dum, mater, uindico, ultor",6,"1.0, NaN, NaN, 0.0, NaN, NaN",0.167,0.0,ultor,0.167
+dracontius.orestes,926.0,"si, ulciscor, rea, genetrix, quis, iam, pater, insons",8,"NaN, NaN, -0.5, NaN, NaN, NaN, 0.0, 1.0",0.062,-0.062,"ulciscor, rea, insons",0.375
+dracontius.orestes,927.0,"quis, rogo, sacrilegus, quis, demens, audeo, almos",7,"NaN, NaN, -1.0, NaN, -1.0, NaN, NaN",-0.286,-0.286,"sacrilegus, demens",0.286
+dracontius.orestes,928.0,"accuso, deus, qui, sum, perficio, potestas",6,"NaN, 0.0, NaN, NaN, NaN, 0.5",0.083,0.0,,0.0
+dracontius.orestes,929.0,"scilicet, accuso, uoco, in, certamen, diuus",6,"NaN, NaN, NaN, NaN, 0.5, 0.0",0.083,0.0,,0.0
+dracontius.orestes,930.0,"obicio, facinus, praesumo, bellum, gigantes",5,"NaN, -1.0, NaN, 0.0, NaN",-0.2,-0.2,"facinus, gigantes",0.4
+dracontius.orestes,931.0,"forsitan, obicio, sum, cur, ergo, furor",6,"NaN, NaN, NaN, NaN, NaN, -1.0",-0.167,-0.167,furor,0.167
+dracontius.orestes,932.0,"cura, dolor, sum, proceres, neque, poena, reatus",7,"-1.0, -1.0, NaN, NaN, NaN, -1.0, NaN",-0.429,-0.429,poena,0.143
+dracontius.orestes,933.0,"taedium, sollicito, animus, mens, fatigo",5,"-1.0, NaN, 0.5, 0.5, NaN",0.0,-0.2,taedium,0.2
+dracontius.orestes,934.0,"pyrrhus, sum, raptor, uindex, post, bellum, rapina",7,"NaN, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,"raptor, uindex, rapina",0.429
+dracontius.orestes,935.0,"arguo, unus, iners, qui, comprobo, ordo, deus",7,"NaN, NaN, 0.0, NaN, NaN, 0.5, 0.0",0.071,0.0,iners,0.143
+dracontius.orestes,936.0,"quaeso, dux, lex, sententia, uester, resoluo",6,"NaN, 0.5, 0.5, 0.0, NaN, NaN",0.167,0.0,,0.0
+dracontius.orestes,937.0,"purgo, sub, ius, deus, sub, sors, benignus",7,"NaN, NaN, 0.5, 0.0, NaN, -1.0, 1.0",0.071,-0.143,,0.0
+dracontius.orestes,938.0,"dico, et, impono, modero, silentium, lingua",6,"NaN, NaN, NaN, NaN, NaN, -0.5",-0.083,-0.083,,0.0
+dracontius.orestes,939.0,"consilium, peto, facio, tracto, orestis",5,"0.5, NaN, NaN, NaN, NaN",0.1,0.0,,0.0
+dracontius.orestes,940.0,"mos, sum, arbitrium, qui, dispar, calculus, eo",7,"0.5, NaN, NaN, NaN, 0.5, 0.0, NaN",0.143,0.0,,0.0
+dracontius.orestes,941.0,"albus, adsum, uita, nam, mors, russeus, urgeo",7,"NaN, NaN, 0.0, NaN, -1.0, NaN, NaN",-0.143,-0.143,,0.0
+dracontius.orestes,942.0,"iudicium, certamen, sum, sententia, duplex",5,"0.5, 0.5, NaN, 0.0, 0.0",0.2,0.0,,0.0
+dracontius.orestes,943.0,"discrepo, et, numerus, par, sum, uterque, color",7,"NaN, NaN, NaN, 0.5, NaN, NaN, 0.0",0.071,0.0,,0.0
+dracontius.orestes,944.0,"calculus, albus, sum, habeo, qui, dextera, minerua",7,"0.0, NaN, NaN, NaN, NaN, 0.0, NaN",0.0,0.0,,0.0
+dracontius.orestes,945.0,"is, do, ad, uita, numerus, purgo, orestes",7,"NaN, NaN, NaN, 0.0, NaN, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,946.0,"dico, et, procerus, talis, sententia, fero",6,"NaN, NaN, 0.5, NaN, 0.0, NaN",0.083,0.0,,0.0
+dracontius.orestes,947.0,"si, decretum, deus, homo, tractaris, licet",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,948.0,"possum, orestis, opus, legal, trames, quaero",6,"NaN, NaN, 0.5, NaN, NaN, NaN",0.083,0.0,,0.0
+dracontius.orestes,949.0,"sed, quia, praescribo, capio, clemens, caelum",6,"NaN, NaN, NaN, NaN, 1.0, 0.5",0.25,0.0,,0.0
+dracontius.orestes,950.0,"non, sino, audio, ius, censeo, quiesco",6,"NaN, NaN, NaN, 0.5, NaN, NaN",0.083,0.0,,0.0
+dracontius.orestes,951.0,"quis, temerator, sum, caelestis, ius, moueo",6,"NaN, NaN, NaN, NaN, 0.5, NaN",0.083,0.0,,0.0
+dracontius.orestes,952.0,"non, sum, impunis, paris, arbiter, ille, dearis",7,"NaN, NaN, -0.5, 0.5, NaN, NaN, NaN",0.0,-0.071,impunis,0.143
+dracontius.orestes,953.0,"teresias, neque, sum, iudex, impunis, tono",6,"NaN, NaN, NaN, 0.5, -0.5, NaN",0.0,-0.083,impunis,0.167
+dracontius.orestes,954.0,"raptor, obeo, pyrrhus, iustus, mucro, per-emo",6,"NaN, NaN, NaN, 1.0, -1.0, NaN",0.0,-0.167,"raptor, per-emo",0.333
+dracontius.orestes,955.0,"qui, per, templum, ruo, sum, et, perficio, potestas",8,"NaN, NaN, NaN, NaN, NaN, NaN, NaN, 0.5",0.062,0.0,,0.0
+dracontius.orestes,956.0,"si, uolo, punio, deus, securus, orestes",6,"NaN, NaN, NaN, 0.0, 1.0, NaN",0.167,0.0,punio,0.167
+dracontius.orestes,957.0,"sum, redux, patria, nullus, damno, reatus",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,damno,0.167
+dracontius.orestes,958.0,"ago, sum, excipio, populus, clamor, faueo",6,"NaN, NaN, NaN, 0.0, NaN, NaN",0.0,0.0,,0.0
+dracontius.orestes,959.0,"suscipio, egredior, pylades, laetus, amicus",5,"NaN, NaN, NaN, 1.0, 1.0",0.4,0.0,,0.0
+dracontius.orestes,960.0,"amplector, teneo, laeuus, dexter, soror",5,"NaN, NaN, -1.0, NaN, NaN",-0.2,-0.2,,0.0
+dracontius.orestes,961.0,"quattuor, et, reduco, laetus, peto, mycenas",6,"NaN, NaN, NaN, 1.0, NaN, NaN",0.167,0.0,,0.0
+dracontius.orestes,962.0,"regius, diuitiae, reputo, tectum, refero",5,"0.0, 0.5, NaN, NaN, NaN",0.1,0.0,,0.0
+dracontius.orestes,963.0,"deus, qui, imperium, sum, facilis, concedo, tono",7,"0.0, NaN, 0.0, NaN, 0.5, NaN, NaN",0.071,0.0,,0.0
+dracontius.orestes,964.0,"aer, et, pelagus, terra, caelum, potestas",6,"0.0, NaN, NaN, 0.0, 0.5, 0.5",0.167,0.0,,0.0
+dracontius.orestes,965.0,"tu, pietas, misero, rogo, tu, mitis, honestus",7,"NaN, 1.0, NaN, NaN, NaN, 1.0, 1.0",0.429,0.0,"tu, misero, tu, honestus",0.571
+dracontius.orestes,966.0,"tu, bonus, simplicitas, afficio, sanguis, oro",6,"NaN, 1.0, 0.5, NaN, NaN, NaN",0.25,0.0,tu,0.167
+dracontius.orestes,967.0,"tu, genus, humanus, consortium, sancio, cruor",6,"NaN, 0.0, 0.0, 0.0, NaN, NaN",0.0,0.0,"tu, cruor",0.333
+dracontius.orestes,968.0,"stemma, tu, genus, cognatio, iungo, precor",6,"NaN, NaN, 0.0, 0.0, NaN, NaN",0.0,0.0,tu,0.167
+dracontius.orestes,969.0,"crimen, lemniadum, satis, sum, danaeia, festus",6,"-1.0, NaN, 0.5, NaN, NaN, NaN",-0.083,-0.167,crimen,0.167
+dracontius.orestes,970.0,"qui, thalamus, facio, rogus, et, facio, thyestis",7,"NaN, NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,rogus,0.143
+dracontius.orestes,971.0,"innumerumque, nefas, qui, sum, narro, pudor",6,"NaN, -1.0, NaN, NaN, NaN, 0.5",-0.083,-0.167,"nefas, pudor",0.333
+dracontius.orestes,972.0,"ecce, mycenaea, triplex, iam, scaena, profano",6,"NaN, NaN, NaN, NaN, NaN, NaN",nan,nan,,0.0
+dracontius.orestes,973.0,"graiugenum, fama, uester, iam, parco, mundus",6,"NaN, 1.0, NaN, NaN, NaN, 1.0",0.333,0.0,,0.0
+dracontius.orestes,974.0,"atque, usus, scelus, miser, arceo, pelasgis",6,"NaN, NaN, -1.0, -1.0, NaN, NaN",-0.333,-0.333,"scelus, miser",0.333
